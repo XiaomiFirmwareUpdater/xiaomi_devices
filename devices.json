@@ -11,7 +11,7 @@
     },
     "HM2013023_sg_global": {
       "display_name": "红米手机 W新加坡(global)",
-      "display_name_en": ""
+      "display_name_en": "Redmi1"
     },
     "HM2014011": {
       "display_name": "红米手机1S TD 3G版",
@@ -201,10 +201,6 @@
       "display_name": "红米Note3",
       "display_name_en": ""
     },
-    "hennessy_global": {
-      "display_name": "红米Note3 国际版",
-      "display_name_en": ""
-    },
     "hermes": {
       "display_name": "红米Note2 移动/标准",
       "display_name_en": "Redmi Note 2"
@@ -261,10 +257,6 @@
       "display_name": "小米平板2",
       "display_name_en": "MI PAD 2"
     },
-    "latte_global": {
-      "display_name": "小米平板2 国际版",
-      "display_name_en": ""
-    },
     "lavender": {
       "display_name": "红米Note7",
       "display_name_en": "Redmi Note7"
@@ -279,7 +271,7 @@
     },
     "lcsh92_wet_jb9_global": {
       "display_name": "红米Note WCDMA国际版",
-      "display_name_en": ""
+      "display_name_en": "Redmi Note"
     },
     "lcsh92_wet_tdd": {
       "display_name": "红米Note TD版",
@@ -295,15 +287,11 @@
     },
     "leo_global": {
       "display_name": "小米Note 顶配国际版",
-      "display_name_en": ""
+      "display_name_en": "MI Note Pro"
     },
     "libra": {
       "display_name": "小米手机4c",
       "display_name_en": "Mi-4c"
-    },
-    "libra_global": {
-      "display_name": "小米手机4c 国际版",
-      "display_name_en": ""
     },
     "lithium": {
       "display_name": "小米MIX",
@@ -359,7 +347,7 @@
     },
     "mocha_global": {
       "display_name": "小米平板1 国际版",
-      "display_name_en": ""
+      "display_name_en": "MI PAD"
     },
     "natrium": {
       "display_name": "小米手机5SPlus",
@@ -391,7 +379,7 @@
     },
     "omega_global": {
       "display_name": "红米Pro国际版",
-      "display_name_en": ""
+      "display_name_en": "Redmi Pro"
     },
     "oxygen": {
       "display_name": "小米Max2",
@@ -553,6 +541,10 @@
       "display_name": "小米手机8透明探索版",
       "display_name_en": "MI 8 Explorer Edition"
     },
+    "ursa_global": {
+      "display_name": "小米手机8透明探索版 国际版",
+      "display_name_en": "MI8ExplorerGlobal"
+    },
     "vince": {
       "display_name": "红米手机5Plus",
       "display_name_en": "Redmi 5 Plus"
@@ -579,7 +571,7 @@
     },
     "virgo_android": {
       "display_name": "小米Note Android版",
-      "display_name_en": ""
+      "display_name_en": "MI Note"
     },
     "virgo_global": {
       "display_name": "小米Note 国际版",
