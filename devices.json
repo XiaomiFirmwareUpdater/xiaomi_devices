@@ -97,6 +97,10 @@
       "display_name": "小米手机5S 国际版",
       "display_name_en": "MI 5s Global"
     },
+    "cepheus": {
+      "display_name": "小米手机9",
+      "display_name_en": "MI 9"
+    },
     "cereus": {
       "display_name": "红米手机6",
       "display_name_en": "Redmi 6"
@@ -176,6 +180,10 @@
     "gemini_global": {
       "display_name": "小米手机5 国际版",
       "display_name_en": "MI 5 Global"
+    },
+    "grus": {
+      "display_name": "小米手机9SE",
+      "display_name_en": "MI 9 SE"
     },
     "gucci": {
       "display_name": "红米Note 4G双卡版",
