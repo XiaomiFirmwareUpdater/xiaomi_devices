@@ -393,6 +393,14 @@
       "display_name": "红米Pro国际版",
       "display_name_en": "Redmi Pro"
     },
+    "onclite": {
+      "display_name": "Redmi 7",
+      "display_name_en": "Redmi 7"
+    },
+    "onclite_global": {
+      "display_name": "Redmi 7 Global",
+      "display_name_en": "Redmi 7 Global"
+    },
     "oxygen": {
       "display_name": "小米Max2",
       "display_name_en": "MI MAX 2"
@@ -572,6 +580,14 @@
     "vince_ru_global": {
       "display_name": "红米手机5Plus俄罗斯版",
       "display_name_en": "Redmi 5 Plus RU"
+    },
+    "violet": {
+      "display_name": "Redmi Note 7 Pro",
+      "display_name_en": "Redmi Note 7 Pro"
+    },
+    "violet_global": {
+      "display_name": "Redmi Note 7 Pro Global",
+      "display_name_en": "Redmi Note 7 Pro Global"
     },
     "virgo": {
       "display_name": "小米Note 移动4G/联通4G",
