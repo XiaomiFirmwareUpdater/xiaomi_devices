@@ -317,6 +317,14 @@
       "display_name": "小米Play",
       "display_name_en": "MI Play"
     },
+    "lotus_global": {
+      "display_name": "MIPLAY-GLOBAL",
+      "display_name_en": "HM-MIPLAY-GLOBAL"
+    },
+    "lotus_ru_global": {
+      "display_name": "MIPLAY-RU-GLOBAL",
+      "display_name_en": "HM-MIPLAY-RU-GLOBAL"
+    },
     "lte26007": {
       "display_name": "红米手机2A 标准版/增强版",
       "display_name_en": ""
