@@ -273,9 +273,25 @@
       "display_name": "Redmi Note7",
       "display_name_en": "Redmi Note7"
     },
+    "lavender_eea_global": {
+      "display_name": "HM-F7A-EEA-GLOBAL",
+      "display_name_en": "HM-F7A-EEA-GLOBAL"
+    },
     "lavender_global": {
       "display_name": "红米Note7 国际版",
       "display_name_en": "Redmi Note7 Global"
+    },
+    "lavender_in_global": {
+      "display_name": "HM-F7A-IN-GLOBAL",
+      "display_name_en": "HM-F7A-IN-GLOBAL"
+    },
+    "lavender_mx_tc_global": {
+      "display_name": "HM-F7A-MX-TELCEL-GLOBAL",
+      "display_name_en": "HM-F7A-MX-TELCEL-GLOBAL"
+    },
+    "lavender_ru_global": {
+      "display_name": "HM-F7A-RU-GLOBAL",
+      "display_name_en": "HM-F7A-RU-GLOBAL"
     },
     "lcsh92_wet_jb9": {
       "display_name": "红米Note WCDMA版",
