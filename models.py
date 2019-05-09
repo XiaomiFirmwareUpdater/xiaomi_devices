@@ -37,7 +37,6 @@ def main():
         info.update({"codename": codename})
         info.update({"internal_name": internal})
         info.update({"name": name})
-        print(models)
         models_ = {}
         for i in models:
             model = i.split(':')[0].strip()
