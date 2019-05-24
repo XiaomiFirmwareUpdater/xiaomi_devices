@@ -53,7 +53,7 @@ def scrap_info(url):
     info.update({'codename': codename})
     info.update({'picture': picture})
     info.update({'specs': out})
-
+    name = name.replace(' ', '_')
     with open(f'all/{name}.json', 'w') as output:
         json.dump(info, output, indent=1)
     ALL.append(info)
