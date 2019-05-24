@@ -38,7 +38,7 @@ def get_codename(name):
     elif 'redmi 4 (4x)' == name:
         CODENAME = 'santoni'
         return CODENAME
-    elif 'redmi note 4' == name:
+    elif 'redmi note 4' == name and not alt_name:
         CODENAME = 'mido'
         return CODENAME
     if re.match(r'^[a-zA-Z]*\s[a-zA-Z]*\s[0-9]$', name):  # Match exact device for main models
