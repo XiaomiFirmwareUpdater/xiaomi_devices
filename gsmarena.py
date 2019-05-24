@@ -22,7 +22,7 @@ def get_codename(name):
     else:
         name = name.replace('Xiaomi', '').strip().lower()
     # a workaround for poco devices
-    if 'pocophone' in name.lower():
+    if 'Pocophone' in name.lower():
         name = name.replace('Pocophone', 'poco')
     if re.match(r'^[a-zA-Z]*\s[a-zA-Z]*\s[0-9]$', name):  # Match exact device for main models
         try:
@@ -31,7 +31,7 @@ def get_codename(name):
             CODENAME = ''
     else:
         try:
-            CODENAME = [i['codename'] for i in devices if name in str(i['name']).lower()][0]
+            CODENAME = [i['codename'] for i in devices if name in str(i['models']).lower()][0]
         except IndexError:
             CODENAME = ''
     return CODENAME
