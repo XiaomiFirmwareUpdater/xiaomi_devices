@@ -14,12 +14,12 @@ def get_codename(name):
           'xiaomi_devices/models/models.json'
     devices = get(url).json()
     if '(' in name:
-        alt_name = name.split('(')[1].split(')')[0].strip()
-        name = name.replace('Xiaomi', '').split('(')[0].strip()
+        alt_name = name.split('(')[1].split(')')[0].strip().lower()
+        name = name.replace('Xiaomi', '').split('(')[0].strip().lower()
     else:
-        name = name.replace('Xiaomi', '').strip()
+        name = name.replace('Xiaomi', '').strip().lower()
     try:
-        codename = [i['codename'] for i in devices if name in i['name']][0]
+        codename = [i['codename'] for i in devices if name in str(i['name']).lower()][0]
     except IndexError:
         codename = ''
     return codename
