@@ -1,0 +1,113 @@
+{
+ "name": "Xiaomi Pocophone F1",
+ "codename": "",
+ "picture": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-pocophone-f1-.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_pocophone_f1-9293.php",
+ "specs": {
+  "Network": [
+   {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
+    "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300), 41(2500)",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (4CA) Cat16 1024/150 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+   }
+  ],
+  "Launch": [
+   {
+    "Announced": "2018, August",
+    "Status": "Available. Released 2018, August"
+   }
+  ],
+  "Body": [
+   {
+    "Dimensions": "155.5 x 75.3 x 8.8 mm (6.12 x 2.96 x 0.35 in)",
+    "Weight": "182 g (6.42 oz)",
+    "Build": "Front glass, plastic body",
+    "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)"
+   }
+  ],
+  "Display": [
+   {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "6.18 inches, 96.2 cm2 (~82.2% screen-to-body ratio)",
+    "Resolution": "1080 x 2246 pixels, 18.7:9 ratio (~403 ppi density)",
+    "Protection": "Corning Gorilla Glass (unspecified version)"
+   }
+  ],
+  "Platform": [
+   {
+    "OS": "Android 8.1 (Oreo), upgradable to Android 9.0 (Pie); MIUI 10.2.3 POCO",
+    "Chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+    "CPU": "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver)",
+    "GPU": "Adreno 630"
+   }
+  ],
+  "Memory": [
+   {
+    "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+    "Internal": "256 GB, 8 GB RAM or 64/128 GB, 6 GB RAM"
+   }
+  ],
+  "Main Camera": [
+   {
+    "Dual": "12 MP, f/1.9, 1/2.55\", 1.4\u00b5m, dual pixel PDAF\r\n5 MP, f/2.0, 1.12\u00b5m, depth sensor",
+    "Features": "Dual-LED flash, HDR, panorama",
+    "Video": "2160p@30/60fps, 1080p@30fps (gyro-EIS), 1080p@240fps, 720p@960fps"
+   }
+  ],
+  "Selfie camera": [
+   {
+    "Single": "20 MP, f/2.0, 0.9\u00b5m",
+    "Features": "HDR",
+    "Video": "1080p@30fps"
+   }
+  ],
+  "Sound": [
+   {
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes",
+    "info": "Active noise cancellation with dedicated mic"
+   }
+  ],
+  "Comms": [
+   {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot",
+    "Bluetooth": "5.0, A2DP, LE, aptX HD",
+    "GPS": "Yes, with A-GPS, GLONASS, BDS",
+    "Radio": "FM radio, recording",
+    "USB": "2.0, Type-C 1.0 reversible connector, USB On-The-Go"
+   }
+  ],
+  "Features": [
+   {
+    "Sensors": "Infrared face recognition, fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+   }
+  ],
+  "Battery": [
+   {
+    "info": "Non-removable Li-Po 4000 mAh battery",
+    "Charging": "Fast battery charging 18W (Quick Charge 3.0)"
+   }
+  ],
+  "Misc": [
+   {
+    "Colors": "Graphite Black, Steel Blue, Rosso Red, Armored Edition with Kevlar",
+    "Models": "POCOPHONE F1, POCO F1",
+    "Price": "About 290 EUR"
+   }
+  ],
+  "Tests": [
+   {
+    "Performance": "\nBasemark OS II: 4034 / Basemark OS II 2.0: 3713Basemark X: 43652",
+    "Display": "\nContrast ratio: 1468:1 (nominal), 3.059 (sunlight)",
+    "Camera": "\nPhoto / Video",
+    "Loudspeaker": "\nVoice 72dB / Noise 74dB / Ring 86dB\n",
+    "Audio quality": "\nNoise -93.6dB / Crosstalk -93.8dB",
+    "Battery life": "\n\nEndurance rating 94h\n\n"
+   }
+  ]
+ }
+}

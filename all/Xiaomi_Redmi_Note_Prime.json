@@ -1,0 +1,103 @@
+{
+ "name": "Xiaomi Redmi Note Prime",
+ "codename": "",
+ "picture": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-prime-.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_note_prime-7822.php",
+ "specs": {
+  "Network": [
+   {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 900 / 1800 / 850 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 900 / 1900 / 2100 ",
+    "4G bands": "LTE band 1(2100), 3(1800), 40(2300), 41(2500)",
+    "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+   }
+  ],
+  "Launch": [
+   {
+    "Announced": "2015, December",
+    "Status": "Available. Released 2015, December"
+   }
+  ],
+  "Body": [
+   {
+    "Dimensions": "154 x 78.7 x 9.4 mm (6.06 x 3.10 x 0.37 in)",
+    "Weight": "185 g (6.53 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+   }
+  ],
+  "Display": [
+   {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.5 inches, 83.4 cm2 (~68.8% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+   }
+  ],
+  "Platform": [
+   {
+    "OS": "Android 4.4.4 (KitKat); MIUI 9.2",
+    "Chipset": "Qualcomm MSM8916 Snapdragon 410 (28 nm)",
+    "CPU": "Quad-core 1.2 GHz Cortex-A53",
+    "GPU": "Adreno 306"
+   }
+  ],
+  "Memory": [
+   {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "16 GB, 2 GB RAM"
+   }
+  ],
+  "Main Camera": [
+   {
+    "Single": "13 MP, f/2.2, 28mm (wide), AF",
+    "Features": "LED flash, HDR",
+    "Video": "1080p@30fps"
+   }
+  ],
+  "Selfie camera": [
+   {
+    "Single": "5 MP",
+    "Video": "720p"
+   }
+  ],
+  "Sound": [
+   {
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "info": "Active noise cancellation with dedicated mic"
+   }
+  ],
+  "Comms": [
+   {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "4.0, A2DP, LE",
+    "GPS": "Yes, with A-GPS, GLONASS, BDS",
+    "Radio": "Stereo FM radio",
+    "USB": "microUSB 2.0, USB Host"
+   }
+  ],
+  "Features": [
+   {
+    "Sensors": "Accelerometer, gyro, proximity, compass"
+   }
+  ],
+  "Battery": [
+   {
+    "info": "Removable Li-Po 3100 mAh battery",
+    "Charging": "Fast battery charging 10W: 30% in 30 min (Quick Charge 1)",
+    "Stand-by": "Up to 775 h (3G)",
+    "Talk time": "Up to 38 h (3G)",
+    "Music play": "Up to 60 h"
+   }
+  ],
+  "Misc": [
+   {
+    "Colors": "White",
+    "SAR": "0.50 W/kg (head) \u00a0 \u00a0 ",
+    "Price": "About 140 EUR"
+   }
+  ]
+ }
+}

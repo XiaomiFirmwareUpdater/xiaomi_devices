@@ -1,0 +1,110 @@
+{
+ "name": "Xiaomi Redmi Note",
+ "codename": "vince",
+ "picture": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-new.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_note-6217.php",
+ "specs": {
+  "Network": [
+   {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 900 / 2100 ",
+    "Speed": "HSPA",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+   }
+  ],
+  "Launch": [
+   {
+    "Announced": "2014, March",
+    "Status": "Available. Released 2014, March"
+   }
+  ],
+  "Body": [
+   {
+    "Dimensions": "154 x 78.7 x 9.5 mm (6.06 x 3.10 x 0.37 in)",
+    "Weight": "199 g (7.02 oz)",
+    "Build": "Plastic body",
+    "SIM": "Dual SIM"
+   }
+  ],
+  "Display": [
+   {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.5 inches, 83.4 cm2 (~68.8% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)",
+    "Protection": "Corning Gorilla Glass 3"
+   }
+  ],
+  "Platform": [
+   {
+    "OS": "Android 4.2 (Jelly Bean), upgradable to 4.4.4 (KitKat); MIUI 9.2",
+    "Chipset": "Mediatek MT6592 (28 nm)",
+    "CPU": "Octa-core 1.4/1.7 GHz Cortex-A7",
+    "GPU": "Mali-450MP4"
+   }
+  ],
+  "Memory": [
+   {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8 GB, 1/2 GB RAM"
+   }
+  ],
+  "Main Camera": [
+   {
+    "Single": "13 MP, f/2.2, 28mm (wide), AF",
+    "Features": "LED flash, HDR",
+    "Video": "1080p@30fps"
+   }
+  ],
+  "Selfie camera": [
+   {
+    "Single": "5 MP",
+    "Video": ""
+   }
+  ],
+  "Sound": [
+   {
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "info": "Active noise cancellation with dedicated mic"
+   }
+  ],
+  "Comms": [
+   {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "4.0, A2DP, LE",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "Radio": "FM radio, recording",
+    "USB": "microUSB 2.0, USB Host"
+   }
+  ],
+  "Features": [
+   {
+    "Sensors": "Accelerometer, gyro, proximity, compass"
+   }
+  ],
+  "Battery": [
+   {
+    "info": "Removable Li-Po 3100 mAh / 3200 mAh battery"
+   }
+  ],
+  "Misc": [
+   {
+    "Colors": "Black, White",
+    "Models": "HM NOTE 1W",
+    "Price": "About 120 EUR"
+   }
+  ],
+  "Tests": [
+   {
+    "Performance": "\nBasemark OS II: 452 / Basemark OS II 2.0: 479Basemark X: 2974",
+    "Display": "\nContrast ratio: 1016 (nominal), 2.119 (sunlight)",
+    "Camera": "\nPhoto / Video",
+    "Loudspeaker": "\nVoice 65dB / Noise 66dB / Ring 75dB\n",
+    "Audio quality": "\nNoise -88.4dB / Crosstalk -85.2dB",
+    "Battery life": "\n\nEndurance rating 55h\n\n"
+   }
+  ]
+ }
+}

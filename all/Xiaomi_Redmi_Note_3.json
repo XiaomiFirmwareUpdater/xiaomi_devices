@@ -1,0 +1,115 @@
+{
+ "name": "Xiaomi Redmi Note 3",
+ "codename": "hennessy",
+ "picture": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-3.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_note_3-7863.php",
+ "specs": {
+  "Network": [
+   {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - Global",
+    "info": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 28(700), 40(2300) - Special edition (Taiwan)",
+    "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 38(2600), 39(1900), 40(2300), 41(2500) - Global",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE-A Cat6 300/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+   }
+  ],
+  "Launch": [
+   {
+    "Announced": "2016, January",
+    "Status": "Available. Released 2016, February"
+   }
+  ],
+  "Body": [
+   {
+    "Dimensions": "150 x 76 x 8.7 mm (5.91 x 2.99 x 0.34 in)",
+    "Weight": "164 g (5.78 oz)",
+    "Build": "Aluminum body",
+    "SIM": "Hybrid Dual SIM (Micro-SIM/Nano-SIM, dual stand-by)"
+   }
+  ],
+  "Display": [
+   {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.5 inches, 82.6 cm2 (~72.4% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels, 16:9 ratio (~403 ppi density)"
+   }
+  ],
+  "Platform": [
+   {
+    "OS": "Android 5.1.1 (Lollipop), upgradable to 6.0.1 (Marshmallow); MIUI 9.5",
+    "Chipset": "Qualcomm MSM8956 Snapdragon 650",
+    "CPU": "Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A72)",
+    "GPU": "Adreno 510"
+   }
+  ],
+  "Memory": [
+   {
+    "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+    "Internal": "16 GB, 2 GB RAM - Standard version32 GB, 3 GB RAM - High/Special version"
+   }
+  ],
+  "Main Camera": [
+   {
+    "Single": "16 MP, PDAF, f/2.0",
+    "Features": "Dual-LED dual-tone flash, HDR, panorama",
+    "Video": "1080p@30fps"
+   }
+  ],
+  "Selfie camera": [
+   {
+    "Single": "5 MP, f/2.0",
+    "Video": "1080p@30fps"
+   }
+  ],
+  "Sound": [
+   {
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "info": "24-bit/192kHz audio\r\nActive noise cancellation with dedicated mic"
+   }
+  ],
+  "Comms": [
+   {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+    "Bluetooth": "4.1, A2DP, LE",
+    "GPS": "Yes, with A-GPS, GLONASS, BDS",
+    "Infrared port": "Yes",
+    "Radio": "Stereo FM radio, recording",
+    "USB": "microUSB 2.0, USB On-The-Go"
+   }
+  ],
+  "Features": [
+   {
+    "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+   }
+  ],
+  "Battery": [
+   {
+    "info": "Non-removable Li-Po 4050 mAh battery",
+    "Charging": "Fast battery charging 10W"
+   }
+  ],
+  "Misc": [
+   {
+    "Colors": "Silver, Gray, Gold",
+    "Models": "Redmi Note 3",
+    "SAR": "1.26 W/kg (head) \u00a0 \u00a0 ",
+    "SAR EU": "0.56 W/kg (head) \u00a0 \u00a0 ",
+    "Price": "About 160 EUR"
+   }
+  ],
+  "Tests": [
+   {
+    "Performance": "\nBasemark OS II: 1914 / Basemark OS II 2.0: 1426Basemark X: 14717",
+    "Display": "\nContrast ratio: 953:1 (nominal), 2.249 (sunlight)",
+    "Camera": "\nPhoto / Video",
+    "Loudspeaker": "\nVoice 66dB / Noise 66dB / Ring 75dB\n",
+    "Audio quality": "\nNoise -96.0dB / Crosstalk -95.6dB",
+    "Battery life": "\n\nEndurance rating 93h\n\n"
+   }
+  ]
+ }
+}

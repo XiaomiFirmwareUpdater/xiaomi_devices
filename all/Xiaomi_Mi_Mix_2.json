@@ -1,0 +1,113 @@
+{
+ "name": "Xiaomi Mi Mix 2",
+ "codename": "",
+ "picture": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix2-new.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_mi_mix_2-8529.php",
+ "specs": {
+  "Network": [
+   {
+    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "info": "CDMA2000 1xEV-DO ",
+    "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1800 / 1900 / 2100 ",
+    "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 13(700), 17(700), 18(800), 19(800), 20(800), 25(1900), 26(850), 27(800), 28(700), 29(700), 30(2300), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
+    "Speed": "HSPA, LTE",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+   }
+  ],
+  "Launch": [
+   {
+    "Announced": "2017, September",
+    "Status": "Available. Released 2017, September"
+   }
+  ],
+  "Body": [
+   {
+    "Dimensions": "151.8 x 75.5 x 7.7 mm (5.98 x 2.97 x 0.30 in)",
+    "Weight": "185 g (6.53 oz)",
+    "Build": "Front glass, aluminum frame, ceramic back128/8 GB model - all ceramic",
+    "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+   }
+  ],
+  "Display": [
+   {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.99 inches, 92.6 cm2 (~80.8% screen-to-body ratio)",
+    "Resolution": "1080 x 2160 pixels, 18:9 ratio (~403 ppi density)",
+    "Protection": "Corning Gorilla Glass 4"
+   }
+  ],
+  "Platform": [
+   {
+    "OS": "Android 7.1 (Nougat), 8.0 (Oreo), planned upgrade to Android 9.0 (Pie); MIUI 10",
+    "Chipset": "Qualcomm MSM8998 Snapdragon 835 (10 nm)",
+    "CPU": "Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)",
+    "GPU": "Adreno 540"
+   }
+  ],
+  "Memory": [
+   {
+    "Card slot": "No",
+    "Internal": "128 GB, 8 GB RAM or 64/128/256 GB, 6 GB RAM"
+   }
+  ],
+  "Main Camera": [
+   {
+    "Single": "12 MP, f/2.0, 1/2.9\", 1.25\u00b5m, 4-axis OIS, PDAF",
+    "Features": "Dual-LED dual-tone flash, HDR, panorama",
+    "Video": "2160p@30fps, 1080p@30fps, 720p@120fps"
+   }
+  ],
+  "Selfie camera": [
+   {
+    "Single": "5 MP, f/2.0",
+    "Video": "1080p@30fps"
+   }
+  ],
+  "Sound": [
+   {
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No",
+    "info": "Active noise cancellation with dedicated mic"
+   }
+  ],
+  "Comms": [
+   {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+    "Bluetooth": "5.0, A2DP, LE",
+    "GPS": "Yes, with A-GPS, GLONASS, BDS",
+    "NFC": "Yes",
+    "Radio": "No",
+    "USB": "Type-C 1.0 reversible connector"
+   }
+  ],
+  "Features": [
+   {
+    "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer"
+   }
+  ],
+  "Battery": [
+   {
+    "info": "Non-removable Li-Ion 3400 mAh battery",
+    "Charging": "Fast battery charging 18W (Quick Charge 3.0)"
+   }
+  ],
+  "Misc": [
+   {
+    "Colors": "Black, White",
+    "Models": "Mi MIX 2, MIX 2",
+    "Price": "About 410 EUR"
+   }
+  ],
+  "Tests": [
+   {
+    "Performance": "\nBasemark OS II: 4365 / Basemark OS II 2.0: 3578Basemark X: 38349",
+    "Display": "\nContrast ratio: 1287 (nominal), 3.19 (sunlight)",
+    "Camera": "\nPhoto / Video",
+    "Loudspeaker": "\nVoice 67dB / Noise 71dB / Ring 82dB\n",
+    "Battery life": "\n\nEndurance rating 65h\n\n"
+   }
+  ]
+ }
+}
