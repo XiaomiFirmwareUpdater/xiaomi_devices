@@ -13,7 +13,11 @@ def get_codename(name):
     url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/' +\
           'xiaomi_devices/models/models.json'
     devices = get(url).json()
-    name = ' '.join(name.split(' ')[1:])
+    if '(' in name:
+        alt_name = name.split('(')[1].split(')')[0].strip()
+        name = name.replace('Xiaomi', '').split('(')[0].strip()
+    else:
+        name = name.replace('Xiaomi', '').strip()
     try:
         codename = [i['codename'] for i in devices if name in i['name']][0]
     except IndexError:
