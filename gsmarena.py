@@ -16,14 +16,22 @@ def get_codename(name):
           'xiaomi_devices/models/models.json'
     devices = get(url).json()
     global CODENAME
+    alt_name = ''
     if '(' in name:
         alt_name = name.split('(')[1].split(')')[0].strip().lower()
         name = name.replace('Xiaomi', '').split('(')[0].strip().lower()
     else:
         name = name.replace('Xiaomi', '').strip().lower()
     # a workaround for poco devices
-    if 'Pocophone' in name.lower():
-        name = name.replace('Pocophone', 'poco')
+    if 'pocophone' in name.lower():
+        name = name.replace('pocophone', 'poco')
+    # a workaround for whyred / vince
+    if 'redmi 5 plus' in alt_name:
+        CODENAME = 'vince'
+        return CODENAME
+    elif 'redmi note 5 ai' in name:
+        CODENAME = 'whyred'
+        return  CODENAME
     if re.match(r'^[a-zA-Z]*\s[a-zA-Z]*\s[0-9]$', name):  # Match exact device for main models
         try:
             CODENAME = [i['codename'] for i in devices if name == str(i['name']).lower()][0]
