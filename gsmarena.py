@@ -25,13 +25,22 @@ def get_codename(name):
     # a workaround for poco devices
     if 'pocophone' in name.lower():
         name = name.replace('pocophone', 'poco')
-    # a workaround for whyred / vince
+    # a workaround for some devices
     if 'redmi 5 plus' in alt_name:
         CODENAME = 'vince'
         return CODENAME
     elif 'redmi note 5 ai' in name:
         CODENAME = 'whyred'
-        return  CODENAME
+        return CODENAME
+    elif 'redmi note' == name:
+        CODENAME = 'lcsh92_wet_gb9'
+        return CODENAME
+    elif 'redmi 4 (4x)' == name:
+        CODENAME = 'santoni'
+        return CODENAME
+    elif 'redmi note 4' == name:
+        CODENAME = 'mido'
+        return CODENAME
     if re.match(r'^[a-zA-Z]*\s[a-zA-Z]*\s[0-9]$', name):  # Match exact device for main models
         try:
             CODENAME = [i['codename'] for i in devices if name == str(i['name']).lower()][0]
