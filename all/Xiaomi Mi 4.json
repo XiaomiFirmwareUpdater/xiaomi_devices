@@ -1,0 +1,114 @@
+{
+ "name": "Xiaomi Mi 4",
+ "codename": "cancro",
+ "picture": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-4.jpg",
+ "specs": {
+  "Network": [
+   {
+    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+    "info": "CDMA2000 1xEV-DO - Telecom 3G model",
+    "3G bands": " TD-SCDMA - 4G model",
+    "4G bands": "LTE band 38(2600), 39(1900), 40(2300) - 4G model",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE, EV-DO Rev.A 3.1 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+   }
+  ],
+  "Launch": [
+   {
+    "Announced": "2014, July",
+    "Status": "Available. Released 2014, August"
+   }
+  ],
+  "Body": [
+   {
+    "Dimensions": "139.2 x 68.5 x 8.9 mm (5.48 x 2.70 x 0.35 in)",
+    "Weight": "149 g (5.26 oz)",
+    "Build": "Aluminum frame, plastic back",
+    "SIM": "Micro-SIM"
+   }
+  ],
+  "Display": [
+   {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches, 68.9 cm2 (~72.3% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)"
+   }
+  ],
+  "Platform": [
+   {
+    "OS": "Android 4.4.3 (KitKat), upgradable to 6.0.1 (Marshmallow); MIUI 10",
+    "Chipset": "Qualcomm MSM8974AC Snapdragon 801 (28 nm)",
+    "CPU": "Quad-core 2.5 GHz Krait 400",
+    "GPU": "Adreno 330"
+   }
+  ],
+  "Memory": [
+   {
+    "Card slot": "No",
+    "Internal": "16/64 GB, 2/3 GB RAM"
+   }
+  ],
+  "Main Camera": [
+   {
+    "Single": "13 MP, f/1.8, 1/3\", 1.12\u00b5m, AF",
+    "Features": "LED flash, panorama, HDR",
+    "Video": "2160p@30fps, 1080p@30fps, 720p@120fps, HDR"
+   }
+  ],
+  "Selfie camera": [
+   {
+    "Single": "8 MP, f/1.8",
+    "Video": "1080p@30fps"
+   }
+  ],
+  "Sound": [
+   {
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "info": "Active noise cancellation with dedicated mic"
+   }
+  ],
+  "Comms": [
+   {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot",
+    "Bluetooth": "4.0, A2DP",
+    "GPS": "Yes, with A-GPS, GLONASS, BDS",
+    "Infrared port": "Yes",
+    "Radio": "FM radio",
+    "USB": "microUSB 2.0, USB Host"
+   }
+  ],
+  "Features": [
+   {
+    "Sensors": "Accelerometer, gyro, proximity, compass, barometer"
+   }
+  ],
+  "Battery": [
+   {
+    "info": "Non-removable Li-Ion 3080 mAh battery",
+    "Charging": "Fast battery charging 18W (Quick Charge 2.0)",
+    "Stand-by": "Up to 280 h (3G)"
+   }
+  ],
+  "Misc": [
+   {
+    "Colors": "Black, White",
+    "Models": "MI 4W",
+    "SAR": "1.36 W/kg (head) \u00a0 \u00a0 ",
+    "Price": "About 230 EUR"
+   }
+  ],
+  "Tests": [
+   {
+    "Performance": "\nBasemark OS II: 1324",
+    "Display": "\nContrast ratio: 929 (nominal), 2.424 (sunlight)",
+    "Camera": "\nPhoto / Video",
+    "Loudspeaker": "\nVoice 62dB / Noise 62dB / Ring 66dB\n",
+    "Audio quality": "\nNoise -91.6dB / Crosstalk -49.7dB",
+    "Battery life": "\n\nEndurance rating 68h\n\n"
+   }
+  ]
+ }
+}

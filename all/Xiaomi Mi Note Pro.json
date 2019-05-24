@@ -1,0 +1,101 @@
+{
+ "name": "Xiaomi Mi Note Pro",
+ "codename": "leo",
+ "picture": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-note-pro2.jpg",
+ "specs": {
+  "Network": [
+   {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 1900 / 2100 ",
+    "4G bands": "LTE band 3(1800), 7(2600)",
+    "Speed": "HSPA, LTE-A (3CA) Cat9 450/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+   }
+  ],
+  "Launch": [
+   {
+    "Announced": "2015, January",
+    "Status": "Available. Released 2015, May"
+   }
+  ],
+  "Body": [
+   {
+    "Dimensions": "155.1 x 77.6 x 7 mm (6.11 x 3.06 x 0.28 in)",
+    "Weight": "161 g (5.68 oz)",
+    "Build": "Front/back glass (Gorilla Glass 3), aluminum frame",
+    "SIM": "Dual SIM (Micro-SIM/Nano-SIM, dual stand-by)"
+   }
+  ],
+  "Display": [
+   {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.7 inches, 89.6 cm2 (~74.4% screen-to-body ratio)",
+    "Resolution": "1440 x 2560 pixels, 16:9 ratio (~515 ppi density)",
+    "Protection": "Corning Gorilla Glass 3"
+   }
+  ],
+  "Platform": [
+   {
+    "OS": "Android 5.0.1 (Lollipop), upgradable to 7.0 (Nougat); MIUI 9",
+    "Chipset": "Qualcomm MSM8994 Snapdragon 810 (20 nm)",
+    "CPU": "Octa-core (4x1.5 GHz Cortex-A53 & 4x2.0 GHz Cortex-A57)",
+    "GPU": "Adreno 430"
+   }
+  ],
+  "Memory": [
+   {
+    "Card slot": "No",
+    "Internal": "64 GB, 4 GB RAM"
+   }
+  ],
+  "Main Camera": [
+   {
+    "Single": "13 MP, OIS, AF, f/2.0",
+    "Features": "Dual-LED dual-tone flash, HDR, panorama",
+    "Video": "2160p, 1080p@30fps"
+   }
+  ],
+  "Selfie camera": [
+   {
+    "Single": "4 MP, f/2.0, 1/3\", 2\u00b5m",
+    "Video": "1080p@30fps"
+   }
+  ],
+  "Sound": [
+   {
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "info": "Active noise cancellation with dedicated mic"
+   }
+  ],
+  "Comms": [
+   {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+    "Bluetooth": "4.1, A2DP, LE",
+    "GPS": "Yes, with A-GPS, GLONASS, BDS",
+    "Radio": "No",
+    "USB": "microUSB 2.0, USB Host"
+   }
+  ],
+  "Features": [
+   {
+    "Sensors": "Accelerometer, gyro, proximity, compass, barometer"
+   }
+  ],
+  "Battery": [
+   {
+    "info": "Non-removable Li-Ion 3000 mAh battery",
+    "Charging": "Fast battery charging 18W (Quick Charge 2.0)"
+   }
+  ],
+  "Misc": [
+   {
+    "Colors": "Black, White, Gold",
+    "Models": "MI NOTE Pro",
+    "Price": "About 250 EUR"
+   }
+  ]
+ }
+}

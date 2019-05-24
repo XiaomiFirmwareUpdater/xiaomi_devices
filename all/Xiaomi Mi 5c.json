@@ -1,0 +1,101 @@
+{
+ "name": "Xiaomi Mi 5c",
+ "codename": "meri",
+ "picture": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-5c.jpg",
+ "specs": {
+  "Network": [
+   {
+    "Technology": "GSM / LTE",
+    "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": " TD-SCDMA",
+    "4G bands": "LTE band 38(2600), 39(1900), 40(2300), 41(2500)",
+    "Speed": "HSPA, LTE",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+   }
+  ],
+  "Launch": [
+   {
+    "Announced": "2017, February",
+    "Status": "Available. Released 2017, March"
+   }
+  ],
+  "Body": [
+   {
+    "Dimensions": "144.4 x 69.7 x 7.1 mm (5.69 x 2.74 x 0.28 in)",
+    "Weight": "135 g (4.76 oz)",
+    "Build": "Front glass, aluminum frame, back",
+    "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+   }
+  ],
+  "Display": [
+   {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.15 inches, 73.1 cm2 (~72.6% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels, 16:9 ratio (~428 ppi density)"
+   }
+  ],
+  "Platform": [
+   {
+    "OS": "Android 7.1 (Nougat); MIUI 8",
+    "Chipset": "Xiaomi Surge S1",
+    "CPU": "Octa-core (4x2.2 GHz Cortex-A53 & 4x1.4 GHz Cortex-A53)",
+    "GPU": "Mali-T860MP4"
+   }
+  ],
+  "Memory": [
+   {
+    "Card slot": "No",
+    "Internal": "64 GB, 3 GB RAM"
+   }
+  ],
+  "Main Camera": [
+   {
+    "Single": "12 MP, f/2.2, 27mm (wide), 1.25\u00b5m, PDAF",
+    "Features": "Dual-LED dual-tone flash, HDR, panorama",
+    "Video": "1080p@30fps"
+   }
+  ],
+  "Selfie camera": [
+   {
+    "Single": "8 MP, f/2.0, 27mm (wide)",
+    "Video": "1080p@30fps"
+   }
+  ],
+  "Sound": [
+   {
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "info": "Active noise cancellation with dedicated mic"
+   }
+  ],
+  "Comms": [
+   {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+    "Bluetooth": "4.1, A2DP, LE",
+    "GPS": "Yes, with A-GPS, GLONASS, BDS",
+    "Infrared port": "Yes",
+    "Radio": "FM radio",
+    "USB": "Type-C 1.0 reversible connector"
+   }
+  ],
+  "Features": [
+   {
+    "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass"
+   }
+  ],
+  "Battery": [
+   {
+    "info": "Non-removable Li-Ion 2860 mAh battery",
+    "Charging": "Fast battery charging 18W (Quick Charge 3.0)"
+   }
+  ],
+  "Misc": [
+   {
+    "Colors": "Black, Gold, Rose Gold",
+    "Models": "MI 5C",
+    "Price": "About 150 EUR"
+   }
+  ]
+ }
+}

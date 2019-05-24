@@ -1,0 +1,112 @@
+{
+ "name": "Xiaomi Mi Note 2",
+ "codename": "scorpio",
+ "picture": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-note2-.jpg",
+ "specs": {
+  "Network": [
+   {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
+    "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 13(700), 17(700), 18(800), 19(800), 20(800), 25(1900), 26(850), 28(700), 29(700), 30(2300), 38(2600), 39(1900), 40(2300), 41(2500)",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat12 600/150 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+   }
+  ],
+  "Launch": [
+   {
+    "Announced": "2016, October",
+    "Status": "Available. Released 2016, November"
+   }
+  ],
+  "Body": [
+   {
+    "Dimensions": "156.2 x 77.3 x 7.6 mm (6.15 x 3.04 x 0.30 in)",
+    "Weight": "166 g (5.86 oz)",
+    "Build": "Front/back glass & aluminum frame",
+    "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+   }
+  ],
+  "Display": [
+   {
+    "Type": "AMOLED capacitive touchscreen, 16M colors",
+    "Size": "5.7 inches, 89.6 cm2 (~74.2% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels, 16:9 ratio (~386 ppi density)"
+   }
+  ],
+  "Platform": [
+   {
+    "OS": "Android 6.0 (Marshmallow); MIUI 8.2",
+    "Chipset": "Qualcomm MSM8996 Snapdragon 821 (14 nm)",
+    "CPU": "Quad-core (2x2.35 GHz Kryo & 2x1.6 GHz Kryo)",
+    "GPU": "Adreno 530"
+   }
+  ],
+  "Memory": [
+   {
+    "Card slot": "No",
+    "Internal": "64/128 GB, 6 GB RAM, 64 GB, 4 GB RAM"
+   }
+  ],
+  "Main Camera": [
+   {
+    "Single": "22.5 MP, f/2.0, 1/2.6\", 1.0\u00b5m, PDAF",
+    "Features": "Dual-LED dual-tone flash, HDR, panorama",
+    "Video": "2160p@30fps, 1080p@30fps (gyro-EIS)"
+   }
+  ],
+  "Selfie camera": [
+   {
+    "Single": "8 MP, f/2.0, AF",
+    "Video": "1080p@30fps"
+   }
+  ],
+  "Sound": [
+   {
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "info": "24-bit/192kHz audio\r\nActive noise cancellation with dedicated mic"
+   }
+  ],
+  "Comms": [
+   {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+    "Bluetooth": "4.2, A2DP, LE",
+    "GPS": "Yes, with A-GPS, GLONASS, BDS",
+    "NFC": "Yes",
+    "Infrared port": "Yes",
+    "Radio": "No",
+    "USB": "Type-C 1.0 reversible connector"
+   }
+  ],
+  "Features": [
+   {
+    "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer"
+   }
+  ],
+  "Battery": [
+   {
+    "info": "Non-removable Li-Ion 4070 mAh battery",
+    "Charging": "Fast battery charging 18W (Quick Charge 3.0)"
+   }
+  ],
+  "Misc": [
+   {
+    "Colors": "Black, Gold, Silver",
+    "Models": "Mi Note 2",
+    "Price": "About 310 EUR"
+   }
+  ],
+  "Tests": [
+   {
+    "Performance": "\nBasemark OS II: 2814 / Basemark OS II 2.0: 2381Basemark X: 36506",
+    "Display": "\nContrast ratio: 66800 (nominal), 3.228 (sunlight)",
+    "Camera": "\nPhoto / Video",
+    "Loudspeaker": "\nVoice 63dB / Noise 68dB / Ring 76dB\n",
+    "Audio quality": "\nNoise-94.4dB / Crosstalk -91.7dB",
+    "Battery life": "\n\nEndurance rating 92h\n\n"
+   }
+  ]
+ }
+}

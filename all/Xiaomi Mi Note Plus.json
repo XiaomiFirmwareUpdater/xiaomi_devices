@@ -1,0 +1,100 @@
+{
+ "name": "Xiaomi Mi Note Plus",
+ "codename": "",
+ "picture": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-note-2015.jpg",
+ "specs": {
+  "Network": [
+   {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": " HSDPA",
+    "4G bands": " LTE - SIM 1 & SIM 2",
+    "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+   }
+  ],
+  "Launch": [
+   {
+    "Announced": "Not announced yet",
+    "Status": "Cancelled"
+   }
+  ],
+  "Body": [
+   {
+    "Dimensions": "-",
+    "Weight": "-",
+    "Build": "Corning Gorilla Glass 3 back panel",
+    "SIM": "Dual SIM (Micro-SIM/Nano-SIM, dual stand-by)"
+   }
+  ],
+  "Display": [
+   {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.7 inches, 89.6 cm2",
+    "Resolution": "1440 x 2560 pixels, 16:9 ratio (~515 ppi density)",
+    "Protection": "Corning Gorilla Glass 3"
+   }
+  ],
+  "Platform": [
+   {
+    "OS": "Android 4.4.4 (KitKat)",
+    "Chipset": "Qualcomm MSM8994 Snapdragon 810 (20 nm)",
+    "CPU": "Octa-core (4x1.5 GHz Cortex-A53 & 4x2.0 GHz Cortex-A57)",
+    "GPU": "Adreno 430"
+   }
+  ],
+  "Memory": [
+   {
+    "Card slot": "No",
+    "Internal": "64 GB, 3 GB RAM"
+   }
+  ],
+  "Main Camera": [
+   {
+    "Single": "13 MP, AF, f/2.0",
+    "Features": "Dual-LED dual-tone flash, HDR, panorama",
+    "Video": "1080p@30fps"
+   }
+  ],
+  "Selfie camera": [
+   {
+    "Single": "4 MP, f/2.0, 1/3\", 2\u00b5m",
+    "Video": "1080p@30fps"
+   }
+  ],
+  "Sound": [
+   {
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "info": "Active noise cancellation with dedicated mic"
+   }
+  ],
+  "Comms": [
+   {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "4.0, A2DP, LE",
+    "GPS": "Yes, with A-GPS, GLONASS, BDS",
+    "NFC": "TBC",
+    "Radio": "To be confirmed",
+    "USB": "microUSB 2.0, USB Host"
+   }
+  ],
+  "Features": [
+   {
+    "Sensors": "Accelerometer, proximity, compass"
+   }
+  ],
+  "Battery": [
+   {
+    "info": "Non-removable Li-Ion battery",
+    "Charging": "Fast battery charging 18W (Quick Charge 2.0)"
+   }
+  ],
+  "Misc": [
+   {
+    "Colors": "Black, White"
+   }
+  ]
+ }
+}

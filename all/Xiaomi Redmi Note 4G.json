@@ -1,0 +1,102 @@
+{
+ "name": "Xiaomi Redmi Note 4G",
+ "codename": "dior",
+ "picture": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-4g.jpg",
+ "specs": {
+  "Network": [
+   {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 900 / 1800 - India",
+    "info": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 7(2600) - Malaysia, Singapore",
+    "3G bands": "HSDPA 900 / 2100 - India",
+    "4G bands": "LTE band 3(1800), 40(2300) - India",
+    "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+   }
+  ],
+  "Launch": [
+   {
+    "Announced": "2014, August",
+    "Status": "Available. Released 2014, August"
+   }
+  ],
+  "Body": [
+   {
+    "Dimensions": "154 x 78.7 x 9.5 mm (6.06 x 3.10 x 0.37 in)",
+    "Weight": "185 g (6.53 oz)",
+    "SIM": "Mini-SIM"
+   }
+  ],
+  "Display": [
+   {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.5 inches, 83.4 cm2 (~68.8% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+   }
+  ],
+  "Platform": [
+   {
+    "OS": "Android 4.2 (Jelly Bean), upgradable to 4.4.2 (KitKat); MIUI 5",
+    "Chipset": "Qualcomm MSM8928 Snapdragon 400 (28 nm)",
+    "CPU": "Quad-core 1.6 GHz Cortex-A7",
+    "GPU": "Adreno 305"
+   }
+  ],
+  "Memory": [
+   {
+    "Card slot": "microSD, up to 64 GB (dedicated slot)",
+    "Internal": "8 GB, 2 GB RAM"
+   }
+  ],
+  "Main Camera": [
+   {
+    "Single": "13 MP, f/2.2, 28mm (wide), AF",
+    "Features": "LED flash, HDR",
+    "Video": "1080p@30fps"
+   }
+  ],
+  "Selfie camera": [
+   {
+    "Single": "5 MP",
+    "Video": "720p"
+   }
+  ],
+  "Sound": [
+   {
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "info": "Active noise cancellation with dedicated mic"
+   }
+  ],
+  "Comms": [
+   {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+    "Bluetooth": "4.0, A2DP, LE",
+    "GPS": "Yes, with A-GPS, GLONASS, BDS",
+    "Radio": "FM radio",
+    "USB": "microUSB 2.0, USB Host"
+   }
+  ],
+  "Features": [
+   {
+    "Sensors": "Accelerometer, gyro, proximity, compass"
+   }
+  ],
+  "Battery": [
+   {
+    "info": "Removable Li-Po 3100 mAh battery",
+    "Stand-by": "Up to 775 h (3G)",
+    "Talk time": "Up to 38 h (3G)",
+    "Music play": "Up to 60 h"
+   }
+  ],
+  "Misc": [
+   {
+    "Colors": "Black/White",
+    "Models": "HM NOTE 1LTE, HM NOTE 1S",
+    "Price": "About 160 EUR"
+   }
+  ]
+ }
+}
