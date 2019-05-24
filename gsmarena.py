@@ -18,6 +18,9 @@ def get_codename(name):
         name = name.replace('Xiaomi', '').split('(')[0].strip().lower()
     else:
         name = name.replace('Xiaomi', '').strip().lower()
+    # a workaround for poco devices
+    if 'pocophone' in name.lower():
+        name = name.replace('Pocophone', 'poco')
     try:
         codename = [i['codename'] for i in devices if name in str(i['name']).lower()][0]
     except IndexError:
