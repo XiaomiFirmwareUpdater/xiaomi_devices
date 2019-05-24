@@ -12,6 +12,11 @@ CODENAME = ''
 
 
 def get_codename(name):
+    """
+    Get the codename of a device using its name
+    :param name: Device's name
+    :return: codename
+    """
     url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/' +\
           'xiaomi_devices/models/models.json'
     devices = get(url).json()
@@ -32,13 +37,13 @@ def get_codename(name):
     elif 'redmi note 5 ai' in name:
         CODENAME = 'whyred'
         return CODENAME
-    elif 'redmi note' == name:
+    elif name == 'redmi note':
         CODENAME = 'lcsh92_wet_gb9'
         return CODENAME
-    elif 'redmi 4 (4x)' == name:
+    elif name == 'redmi 4 (4x)':
         CODENAME = 'santoni'
         return CODENAME
-    elif 'redmi note 4' == name and not alt_name:
+    elif name == 'redmi note 4' and not alt_name:
         CODENAME = 'mido'
         return CODENAME
     if re.match(r'^[a-zA-Z]*\s[a-zA-Z]*\s[0-9]$', name):  # Match exact device for main models
@@ -55,6 +60,10 @@ def get_codename(name):
 
 
 def scrap_info(url):
+    """
+    Scrap device info from gsmarena paga and generate JSON
+    :param url: gsmarena device specs url
+    """
     response = get(url)
     page = BeautifulSoup(response.content, 'html.parser')
     data = page.findAll("table", {"cellspacing": "0"})
@@ -94,6 +103,11 @@ def scrap_info(url):
 
 
 def extract_urls(url):
+    """
+    Extract devices specs URLs from brand page
+    :param url: brand page
+    :return: html page
+    """
     response = get(url)
     page = BeautifulSoup(response.content, 'html.parser')
     devices = page.find("div", {"class": "makers"})
@@ -103,6 +117,9 @@ def extract_urls(url):
 
 
 def main():
+    """
+    Scrap every Xiaomi device info from gsmarena and generate JSON files
+    """
     xiaomi = 'https://www.gsmarena.com/xiaomi-phones-80.php'
     page = extract_urls(xiaomi)
     next_pages = []
