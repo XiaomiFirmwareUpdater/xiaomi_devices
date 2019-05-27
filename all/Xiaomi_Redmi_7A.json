@@ -1,0 +1,101 @@
+{
+ "name": "Xiaomi Redmi 7A",
+ "codename": "",
+ "picture": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-7a.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_7a-9716.php",
+ "specs": {
+  "Network": [
+   {
+    "Technology": "GSM / CDMA / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "info": "CDMA 800 & TD-SCDMA",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
+    "4G bands": " LTE (unspecified)",
+    "Speed": "HSPA, LTE-A",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+   }
+  ],
+  "Launch": [
+   {
+    "Announced": "2019, May",
+    "Status": "Coming soon. Exp. release 2019, May"
+   }
+  ],
+  "Body": [
+   {
+    "Dimensions": "-",
+    "Weight": "-",
+    "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+    "info": "- Splash resistant"
+   }
+  ],
+  "Display": [
+   {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.45 inches, 76.7 cm2",
+    "Resolution": "720 x 1440 pixels, 18:9 ratio (~295 ppi density)"
+   }
+  ],
+  "Platform": [
+   {
+    "OS": "Android 9.0 (Pie); MIUI 9",
+    "Chipset": "Qualcomm SDM439 Snapdragon 439 (12 nm)",
+    "CPU": "Octa-core (2x2.0 GHz Cortex-A53 & 6x1.45 GHz Cortex A53)",
+    "GPU": "Adreno 505"
+   }
+  ],
+  "Memory": [
+   {
+    "Card slot": "microSD, up to 256 GB (dedicated slot)",
+    "Internal": "32 GB, 3 RAM or 16 GB, 2 GB RAM"
+   }
+  ],
+  "Main Camera": [
+   {
+    "Single": "13 MP, PDAF",
+    "Features": "LED flash, HDR, panorama",
+    "Video": "1080p@30fps"
+   }
+  ],
+  "Selfie camera": [
+   {
+    "Single": "5 MP",
+    "Video": ""
+   }
+  ],
+  "Sound": [
+   {
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "info": "Active noise cancellation with dedicated mic"
+   }
+  ],
+  "Comms": [
+   {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "4.2, A2DP, LE",
+    "GPS": "Yes, with A-GPS, GLONASS, BDS",
+    "Radio": "FM radio",
+    "USB": "microUSB 2.0"
+   }
+  ],
+  "Features": [
+   {
+    "Sensors": "Accelerometer, proximity, compass"
+   }
+  ],
+  "Battery": [
+   {
+    "info": "Non-removable Li-Po 4000 mAh battery"
+   }
+  ],
+  "Misc": [
+   {
+    "Colors": "Blue, Black",
+    "Models": "Redmi 7A",
+    "Price": "About 80 EUR"
+   }
+  ]
+ }
+}
