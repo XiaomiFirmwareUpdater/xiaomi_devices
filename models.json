@@ -824,10 +824,10 @@
  {
   "codename": "lavender",
   "internal_name": "F7A",
-  "name": "Redmi Note 7",
+  "name": "Redmi Note 7 / Redmi Note 7S",
   "models": {
    "M1901F7G, M1901F7H": "Redmi Note 7 Global",
-   "M1901F7I": "Redmi Note 7 India",
+   "M1901F7I": "Redmi Note 7 / Redmi Note 7S India",
    "M1901F7E": "Redmi Note 7 China",
    "M1901F7T": "Redmi Note 7 China Mobile",
    "M1901F7C": "Redmi Note 7 China Unicom / China Telecom"
@@ -870,6 +870,26 @@
   "models": {
    "2016020": "Redmi Pro 32GB",
    "2016021": "Redmi Pro 64GB / 128GB"
+  }
+ },
+ {
+  "codename": "davinci",
+  "internal_name": "F10",
+  "name": "Redmi K20",
+  "models": {
+   "M1903F10A": "Redmi K20 China",
+   "M1903F10T": "Redmi K20 China Mobile",
+   "M1903F10C": "Redmi K20 China Unicom / China Telecom"
+  }
+ },
+ {
+  "codename": "raphael",
+  "internal_name": "F11",
+  "name": "Redmi K20 Pro",
+  "models": {
+   "M1903F11A": "Redmi K20 Pro China",
+   "M1903F11T": "Redmi K20 Pro China Mobile",
+   "M1903F11C": "Redmi K20 Pro China Unicom / China Telecom"
   }
  },
  {
