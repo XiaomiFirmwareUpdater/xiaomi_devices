@@ -1,5 +1,211 @@
 [
  {
+  "name": "Xiaomi Redmi K20",
+  "codename": "davinci",
+  "picture": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k20pro-.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_redmi_k20-9720.php",
+  "specs": {
+   "Network": [
+    {
+     "Technology": "GSM / HSPA / LTE",
+     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+     "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
+     "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A",
+     "GPRS": "Yes",
+     "EDGE": "Yes"
+    }
+   ],
+   "Launch": [
+    {
+     "Announced": "2019, May",
+     "Status": "Coming soon. Exp. release 2019, June 1"
+    }
+   ],
+   "Body": [
+    {
+     "Dimensions": "156.7 x 74.3 x 8.8 mm (6.17 x 2.93 x 0.35 in)",
+     "Weight": "191 g (6.74 oz)",
+     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+    }
+   ],
+   "Display": [
+    {
+     "Type": "AMOLED capacitive touchscreen, 16M colors",
+     "Size": "6.39 inches, 100.2 cm2 (~86.1% screen-to-body ratio)",
+     "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
+     "Protection": "Corning Gorilla Glass 5",
+     "info": "HDR"
+    }
+   ],
+   "Platform": [
+    {
+     "OS": "Android 9.0 (Pie); MIUI 10",
+     "Chipset": "Qualcomm SDM730 Snapdragon 730 (8 nm)",
+     "CPU": "Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)",
+     "GPU": "Adreno 618"
+    }
+   ],
+   "Memory": [
+    {
+     "Card slot": "No",
+     "Internal": "256 GB, 8 GB RAM or 64/128 GB, 6 GB RAM"
+    }
+   ],
+   "Main Camera": [
+    {
+     "Triple": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, PDAF\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3\", 1.12\u00b5m\r\n8 MP, f/2.4, 53mm (telephoto), 1/4\", 1.12\u00b5m, PDAF, 2x optical zoom",
+     "Features": "Dual-LED flash, HDR, panorama",
+     "Video": "2160p@30fps, 1080p@30/120/240fps, 1080p@960fps"
+    }
+   ],
+   "Selfie camera": [
+    {
+     "Single": "Motorized pop-up 20 MP, f/2.2, 0.8\u00b5m",
+     "Features": "HDR",
+     "Video": "1080p@30fps"
+    }
+   ],
+   "Sound": [
+    {
+     "Loudspeaker ": "Yes",
+     "3.5mm jack ": "Yes",
+     "info": "24-bit/192kHz audio\r\nActive noise cancellation with dedicated mic"
+    }
+   ],
+   "Comms": [
+    {
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+     "Bluetooth": "5.0, A2DP, LE, aptX HD",
+     "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS",
+     "NFC": "Yes",
+     "Radio": "Yes",
+     "USB": "2.0, Type-C 1.0 reversible connector, USB On-The-Go"
+    }
+   ],
+   "Features": [
+    {
+     "Sensors": "Fingerprint (under display), accelerometer, gyro, proximity, compass"
+    }
+   ],
+   "Battery": [
+    {
+     "info": "Non-removable Li-Po 4000 mAh battery",
+     "Charging": "Fast battery charging 18W"
+    }
+   ],
+   "Misc": [
+    {
+     "Colors": "Carbon black, Flame red, Glacier blue",
+     "Price": "About 260 EUR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "Xiaomi Redmi K20 Pro",
+  "codename": "raphael",
+  "picture": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k20pro-.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_redmi_k20_pro-9708.php",
+  "specs": {
+   "Network": [
+    {
+     "Technology": "GSM / HSPA / LTE",
+     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+     "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
+     "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A",
+     "GPRS": "Yes",
+     "EDGE": "Yes"
+    }
+   ],
+   "Launch": [
+    {
+     "Announced": "2019, May",
+     "Status": "Coming soon. Exp. release 2019, June 1"
+    }
+   ],
+   "Body": [
+    {
+     "Dimensions": "156.7 x 74.3 x 8.8 mm (6.17 x 2.93 x 0.35 in)",
+     "Weight": "191 g (6.74 oz)",
+     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+    }
+   ],
+   "Display": [
+    {
+     "Type": "Super AMOLED capacitive touchscreen, 16M colors",
+     "Size": "6.39 inches, 100.2 cm2 (~86.1% screen-to-body ratio)",
+     "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
+     "Protection": "Corning Gorilla Glass 5",
+     "info": "HDR"
+    }
+   ],
+   "Platform": [
+    {
+     "OS": "Android 9.0 (Pie); MIUI 10",
+     "Chipset": "Qualcomm SDM855 Snapdragon 855 (7 nm)",
+     "CPU": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.8 GHz Kryo 485)",
+     "GPU": "Adreno 640"
+    }
+   ],
+   "Memory": [
+    {
+     "Card slot": "No",
+     "Internal": "256 GB, 8 GB RAM or 128 GB, 6/8 GB RAM or 64 GB, 6 GB RAM"
+    }
+   ],
+   "Main Camera": [
+    {
+     "Triple": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, Laser/PDAF\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3\", 1.12\u00b5m\r\n8 MP, f/2.4, 53mm (telephoto), 1/4\", 1.12\u00b5m, Laser/PDAF, 2x optical zoom",
+     "Features": "Dual-LED flash, HDR, panorama",
+     "Video": "2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
+    }
+   ],
+   "Selfie camera": [
+    {
+     "Single": "Motorized pop-up 20 MP, f/2.2, 0.8\u00b5m",
+     "Features": "HDR",
+     "Video": "1080p@30fps"
+    }
+   ],
+   "Sound": [
+    {
+     "Loudspeaker ": "Yes",
+     "3.5mm jack ": "Yes",
+     "info": "24-bit/192kHz audio\r\nActive noise cancellation with dedicated mic"
+    }
+   ],
+   "Comms": [
+    {
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+     "Bluetooth": "5.0, A2DP, LE, aptX HD",
+     "GPS": "Yes, with dual-band A-GPS, GLONASS, BDS, GALILEO",
+     "NFC": "Yes",
+     "Radio": "Yes",
+     "USB": "2.0, Type-C 1.0 reversible connector, USB On-The-Go"
+    }
+   ],
+   "Features": [
+    {
+     "Sensors": "Fingerprint (under display), accelerometer, gyro, proximity, compass"
+    }
+   ],
+   "Battery": [
+    {
+     "info": "Non-removable Li-Po 4000 mAh battery",
+     "Charging": "Fast battery charging 27W (Quick Charge 4+)"
+    }
+   ],
+   "Misc": [
+    {
+     "Colors": "Carbon black, Flame red, Glacier blue",
+     "Price": "About 350 EUR"
+    }
+   ]
+  }
+ },
+ {
   "name": "Xiaomi Redmi 7A",
   "codename": "",
   "picture": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-7a.jpg",
@@ -7,11 +213,10 @@
   "specs": {
    "Network": [
     {
-     "Technology": "GSM / CDMA / HSPA / LTE",
+     "Technology": "GSM / HSPA / LTE",
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-     "info": "CDMA 800 & TD-SCDMA",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
-     "4G bands": " LTE (unspecified)",
+     "4G bands": "LTE band 1(2100), 3(1800), 5(850), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
      "Speed": "HSPA, LTE-A",
      "GPRS": "Yes",
      "EDGE": "Yes"
@@ -20,13 +225,13 @@
    "Launch": [
     {
      "Announced": "2019, May",
-     "Status": "Coming soon. Exp. release 2019, May"
+     "Status": "Coming soon. Exp. release 2019, June 6"
     }
    ],
    "Body": [
     {
-     "Dimensions": "-",
-     "Weight": "-",
+     "Dimensions": "146.3 x 70.4 x 9.6 mm (5.76 x 2.77 x 0.38 in)",
+     "Weight": "165 g (5.82 oz)",
      "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
      "info": "- Splash resistant"
     }
@@ -34,7 +239,7 @@
    "Display": [
     {
      "Type": "IPS LCD capacitive touchscreen, 16M colors",
-     "Size": "5.45 inches, 76.7 cm2",
+     "Size": "5.45 inches, 76.7 cm2 (~74.4% screen-to-body ratio)",
      "Resolution": "720 x 1440 pixels, 18:9 ratio (~295 ppi density)"
     }
    ],
@@ -49,20 +254,21 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (dedicated slot)",
-     "Internal": "32 GB, 3 RAM or 16 GB, 2 GB RAM"
+     "Internal": "32 GB, 2/3 RAM or 16 GB, 2 GB RAM"
     }
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, PDAF",
-     "Features": "LED flash, HDR, panorama",
+     "Single": "13 MP, f/2.2, 1.12\u00b5m, PDAF",
+     "Features": "LED flash, HDR",
      "Video": "1080p@30fps"
     }
    ],
    "Selfie camera": [
     {
      "Single": "5 MP",
-     "Video": ""
+     "Features": "HDR",
+     "Video": "1080p@30fps"
     }
    ],
    "Sound": [
@@ -77,7 +283,7 @@
      "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
      "Bluetooth": "4.2, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
-     "Radio": "FM radio",
+     "Radio": "FM Radio, built-in antenna",
      "USB": "microUSB 2.0"
     }
    ],
@@ -88,21 +294,22 @@
    ],
    "Battery": [
     {
-     "info": "Non-removable Li-Po 4000 mAh battery"
+     "info": "Non-removable Li-Po 4000 mAh battery",
+     "Charging": "Fast battery charging 10W"
     }
    ],
    "Misc": [
     {
-     "Colors": "Blue, Black",
+     "Colors": "Matte Black, Morning blue",
      "Models": "Redmi 7A",
-     "Price": "About 80 EUR"
+     "Price": "About 70 EUR"
     }
    ]
   }
  },
  {
   "name": "Xiaomi Redmi Note 7S",
-  "codename": "",
+  "codename": "lavender",
   "picture": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-7s.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_7s-9707.php",
   "specs": {
@@ -748,7 +955,7 @@
    "Launch": [
     {
      "Announced": "2019, February",
-     "Status": "Coming soon. Exp. release 2019, May"
+     "Status": "Coming soon. Exp. release 2019, June"
     }
    ],
    "Body": [
@@ -1159,7 +1366,7 @@
  },
  {
   "name": "Xiaomi Redmi Note 7",
-  "codename": "lavender",
+  "codename": "",
   "picture": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-7.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_7-9513.php",
   "specs": {
