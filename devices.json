@@ -129,6 +129,26 @@
       "display_name": "小米平板4",
       "display_name_en": "MI PAD 4"
     },
+    "davinci": {
+      "display_name": "Redmi K20",
+      "display_name_en": "Redmi K20"
+    },
+    "davinci_eea_global": {
+      "display_name": "Redmi K20 EEA版本",
+      "display_name_en": "Redmi K20  EEA"
+    },
+    "davinci_global": {
+      "display_name": "Redmi K20 国际版",
+      "display_name_en": "Redmi K20  GLOBAL"
+    },
+    "davinci_ru_global": {
+      "display_name": "Redmi K20 俄罗斯版",
+      "display_name_en": "Redmi K20 RU"
+    },
+    "davinciin_in_global": {
+      "display_name": "Redmi K20 印度版",
+      "display_name_en": "Redmi K20  INDIA"
+    },
     "dior": {
       "display_name": "红米Note 4G版",
       "display_name_en": "HM NOTE 1LTE"
@@ -441,6 +461,26 @@
       "display_name": "小米 MIX3国际版",
       "display_name_en": "MI MIX3 Global"
     },
+    "pine": {
+      "display_name": "Redmi 7A",
+      "display_name_en": "Redmi 7A"
+    },
+    "pine_eea_ti_global": {
+      "display_name": "Redmi 7A EEA-TI",
+      "display_name_en": "Redmi 7A-EEA-TI-GLOBAL"
+    },
+    "pine_global": {
+      "display_name": "Redmi 7A 国际版",
+      "display_name_en": "Redmi 7A GLOBAL"
+    },
+    "pine_in_global": {
+      "display_name": "Redmi 7A 印度版",
+      "display_name_en": "Redmi 7A INDIA"
+    },
+    "pine_ru_global": {
+      "display_name": "Redmi 7A 国际版",
+      "display_name_en": "Redmi 7A GLOBAL"
+    },
     "pisces": {
       "display_name": "小米手机3 TD版",
       "display_name_en": "MI 3"
@@ -472,6 +512,30 @@
     "prada_global": {
       "display_name": "红米手机4标准国际版",
       "display_name_en": "Redmi 4 Global"
+    },
+    "raphael": {
+      "display_name": "Redmi K20 Pro",
+      "display_name_en": "Redmi K20 Pro"
+    },
+    "raphael_eea_global": {
+      "display_name": "Redmi K20 Pro EEA版本",
+      "display_name_en": "Redmi K20 Pro EEA"
+    },
+    "raphael_global": {
+      "display_name": "Redmi K20 Pro 国际版",
+      "display_name_en": "Redmi K20 Pro GLOBAL"
+    },
+    "raphael_id_global": {
+      "display_name": "Redmi K20 Pro 印尼",
+      "display_name_en": "Redmi K20 Pro id"
+    },
+    "raphael_ru_global": {
+      "display_name": "Redmi K20 Pro 俄罗斯版",
+      "display_name_en": "Redmi K20 Pro RU"
+    },
+    "raphaelin_in_global": {
+      "display_name": "Redmi K20 Pro 印度版",
+      "display_name_en": "Redmi K20 Pro  india"
     },
     "riva": {
       "display_name": "红米手机5A",
