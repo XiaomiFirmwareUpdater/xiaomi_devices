@@ -25,6 +25,18 @@
       "display_name": "小米手机4s",
       "display_name_en": "MI 4S"
     },
+    "aqua_global": {
+      "display_name": "AQUA-GLOBAL",
+      "display_name_en": "AQUA-GLOBAL"
+    },
+    "aquila": {
+      "display_name": "AQUILA",
+      "display_name_en": "AQUILA"
+    },
+    "aquila_global": {
+      "display_name": "AQUILA-GLOBAL",
+      "display_name_en": "AQUILA-GLOBAL"
+    },
     "aries": {
       "display_name": "小米手机2/2S",
       "display_name_en": "MI 2S"
@@ -48,6 +60,10 @@
     "armani_global": {
       "display_name": "红米手机1S WCDMA 3G国际版",
       "display_name_en": "HM 1S Global"
+    },
+    "begonia_p70_global": {
+      "display_name": "BEGONIA-P70-GLOBAL",
+      "display_name_en": "BEGONIA-P70-GLOBAL"
     },
     "beryllium_global": {
       "display_name": "POCO F1 国际版",
@@ -89,6 +105,14 @@
       "display_name": "小米平板3体验版",
       "display_name_en": ""
     },
+    "cappu_alpha_global": {
+      "display_name": "CAPPU-ALPHA-GLOBAL",
+      "display_name_en": "CAPPU-ALPHA-GLOBAL"
+    },
+    "cappu_global": {
+      "display_name": "CAPPU-GLOBAL",
+      "display_name_en": "CAPPU-GLOBAL"
+    },
     "capricorn": {
       "display_name": "小米手机5S",
       "display_name_en": "MI 5s"
@@ -121,6 +145,10 @@
       "display_name": "小米MIX2 体验版",
       "display_name_en": "Mi MIX 2 Alpha"
     },
+    "chiron_alpha_global": {
+      "display_name": "CHIRON-ALPHA-GLOBAL",
+      "display_name_en": "CHIRON-ALPHA-GLOBAL"
+    },
     "chiron_global": {
       "display_name": "小米MIX2国际版",
       "display_name_en": "Mi MIX 2 Global"
@@ -128,6 +156,14 @@
     "clover": {
       "display_name": "小米平板4",
       "display_name_en": "MI PAD 4"
+    },
+    "clover_global": {
+      "display_name": "CLOVER-GLOBAL",
+      "display_name_en": "CLOVER-GLOBAL"
+    },
+    "comet_global": {
+      "display_name": "COMET-GLOBAL",
+      "display_name_en": "COMET-GLOBAL"
     },
     "davinci": {
       "display_name": "Redmi K20",
@@ -164,6 +200,10 @@
     "dipper_alpha": {
       "display_name": "小米手机8 体验版",
       "display_name_en": "Mi 8 Alpha"
+    },
+    "dipper_alpha_global": {
+      "display_name": "DIPPER-ALPHA-GLOBAL",
+      "display_name_en": "DIPPER-ALPHA-GLOBAL"
     },
     "dipper_global": {
       "display_name": "小米手机8 国际版",
@@ -365,6 +405,10 @@
       "display_name": "红米手机2A 标准版/增强版",
       "display_name_en": ""
     },
+    "lte26007_global": {
+      "display_name": "LTE26007-GLOBAL",
+      "display_name_en": "LTE26007-GLOBAL"
+    },
     "markw": {
       "display_name": "红米手机4 高配版",
       "display_name_en": "Redmi 4 Prime"
@@ -376,6 +420,10 @@
     "meri": {
       "display_name": "小米手机5c",
       "display_name_en": "MI 5C"
+    },
+    "meri_global": {
+      "display_name": "MERI-GLOBAL",
+      "display_name_en": "MERI-GLOBAL"
     },
     "mido": {
       "display_name": "红米Note4X 高通版",
@@ -453,6 +501,10 @@
       "display_name": "小米Max2 国际版",
       "display_name_en": "MI MAX 2 Global"
     },
+    "peony_global": {
+      "display_name": "PEONY-GLOBAL",
+      "display_name_en": "PEONY-GLOBAL"
+    },
     "perseus": {
       "display_name": "小米MIX3",
       "display_name_en": "MI MIX3"
@@ -488,6 +540,10 @@
     "pisces_alpha": {
       "display_name": "小米手机3 TD体验版",
       "display_name_en": ""
+    },
+    "pisces_global": {
+      "display_name": "PISCES-GLOBAL",
+      "display_name_en": "PISCES-GLOBAL"
     },
     "platina": {
       "display_name": "小米手机8青春版",
@@ -613,6 +669,10 @@
       "display_name": "小米手机8SE",
       "display_name_en": "MI 8 SE"
     },
+    "sirius_global": {
+      "display_name": "SIRIUS-GLOBAL",
+      "display_name_en": "SIRIUS-GLOBAL"
+    },
     "taurus": {
       "display_name": "小米手机2A",
       "display_name_en": "MI 2A"
@@ -705,6 +765,10 @@
       "display_name": "小米6X",
       "display_name_en": "MI 6X"
     },
+    "wayne_global": {
+      "display_name": "WAYNE-GLOBAL",
+      "display_name_en": "WAYNE-GLOBAL"
+    },
     "whyred": {
       "display_name": "红米Note 5",
       "display_name_en": "Redmi Note 5"
@@ -716,6 +780,10 @@
     "wt86047": {
       "display_name": "红米手机2 移动版",
       "display_name_en": ""
+    },
+    "wt86047_global": {
+      "display_name": "WT86047-GLOBAL",
+      "display_name_en": "WT86047-GLOBAL"
     },
     "wt86047_pro": {
       "display_name": "红米手机2 移动增强版 / 红米手机2A 高配版",
@@ -736,6 +804,10 @@
     "wt88047_pro_global": {
       "display_name": "红米手机2 高配 国际版",
       "display_name_en": ""
+    },
+    "wt98007": {
+      "display_name": "WT98007",
+      "display_name_en": "WT98007"
     },
     "wt98007_global": {
       "display_name": "红米手机 WCDMA国际版",
