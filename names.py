@@ -1,0 +1,67 @@
+#!/usr/bin/env python3.7
+"""Xiaomi Devices names"""
+
+import json
+from collections import OrderedDict
+from requests import get
+
+DEVICES = {}
+
+
+def master():
+    """
+    extract names form master branch list
+    """
+    url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/' +\
+          'xiaomi_devices/master/devices.json'
+    data = get(url).json()['data']
+    for key, value in data.items():
+        if not key:
+            continue
+        if value['display_name_en']:
+            DEVICES.update({key: value['display_name_en']})
+        else:
+            DEVICES.update({key: value['display_name']})
+
+
+def models():
+    """
+    extract names form models list
+    """
+    url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/' +\
+          'xiaomi_devices/models/models.json'
+    data = get(url).json()
+    for i in data:
+        if not i['codename']:
+            continue
+        DEVICES.update({i['codename']: i['name']})
+
+
+def gplay():
+    """
+    extract names form Google Play list
+    """
+    url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/' +\
+          'xiaomi_devices/gplay/devices.json'
+    data = get(url).json()
+    for i in data:
+        for key, value in i.items():
+            if not key:
+                continue
+            DEVICES.update({key: value['name']})
+
+
+def main():
+    """
+    Generate json file of Xiaomi devices codename form various sources
+    """
+    gplay()
+    master()
+    models()
+    data = OrderedDict(sorted(DEVICES.items()))
+    with open('names.json', 'w') as out:
+        json.dump(data, out, indent=1, ensure_ascii=False)
+
+
+if __name__ == '__main__':
+    main()
