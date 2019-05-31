@@ -55,7 +55,7 @@
   ],
   "Main Camera": [
    {
-    "Triple": "48 MP, f/1.8, 27mm (wide), 1/2\", 0.8\u00b5m, Laser/PDAF\r\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0\u00b5m, Laser/PDAF\r\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0\u00b5m, Laser/PDAF, 2x optical zoom",
+    "Triple": "48 MP, f/1.8, 27mm (wide), 1/2\", 0.8\u00b5m, Laser/PDAF\r\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0\u00b5m, Laser/PDAF, 2x optical zoom\r\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0\u00b5m, Laser/PDAF",
     "Features": "Dual-LED flash, HDR, panorama",
     "Video": "2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
    }
