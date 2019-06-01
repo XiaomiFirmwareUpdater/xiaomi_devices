@@ -53,7 +53,7 @@
   ],
   "Main Camera": [
    {
-    "Single": "13 MP, OIS, AF, f/2.0",
+    "Single": "13 MP, f/2.0, AF, OIS",
     "Features": "Dual-LED dual-tone flash, HDR, panorama",
     "Video": "2160p, 1080p@30fps"
    }

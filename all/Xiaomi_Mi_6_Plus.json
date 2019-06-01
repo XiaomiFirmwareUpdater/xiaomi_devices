@@ -53,7 +53,7 @@
   ],
   "Main Camera": [
    {
-    "Single": "12 MP, f/1.8, 27mm (wide), 1/2.9\", 1.25\u00b5m, 4-axis OIS, PDAF\r\n12 MP, f/2.6, 52mm (telephoto), 1.0\u00b5m, AF, 2x optical zoom",
+    "Single": "12 MP, f/1.8, 27mm (wide), 1/2.9\", 1.25\u00b5m, PDAF, 4-axis OIS\r\n12 MP, f/2.6, 52mm (telephoto), 1.0\u00b5m, AF, 2x optical zoom",
     "Features": "Dual-LED dual-tone flash, panorama",
     "Video": "2160p@30fps, 1080p@30fps"
    }

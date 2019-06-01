@@ -54,7 +54,7 @@
   ],
   "Main Camera": [
    {
-    "Dual": "12 MP, f/1.8, 1/2.55\", 1.4\u00b5m, 4-axis OIS, dual pixel PDAF\r\n12 MP, f/2.4, 1/3.4\", 1.0\u00b5m, AF, 2x optical zoom",
+    "Dual": "12 MP, f/1.8, 1/2.55\", 1.4\u00b5m, dual pixel PDAF, 4-axis OIS\r\n12 MP, f/2.4, 1/3.4\", 1.0\u00b5m, AF, 2x optical zoom",
     "Features": "Dual-LED dual-tone flash, HDR, panorama",
     "Video": "2160p@30fps, 1080p@30/120fps, 720p@240fps"
    }

@@ -1968,7 +1968,7 @@
    ],
    "Main Camera": [
     {
-     "Dual": "12 MP, f/1.8, 1/2.55\", 1.4\u00b5m, 4-axis OIS, dual pixel PDAF\r\n12 MP, f/2.4, 1/3.4\", 1.0\u00b5m, AF, 2x optical zoom",
+     "Dual": "12 MP, f/1.8, 1/2.55\", 1.4\u00b5m, dual pixel PDAF, 4-axis OIS\r\n12 MP, f/2.4, 1/3.4\", 1.0\u00b5m, AF, 2x optical zoom",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@60fps, 1080p@30/240fps"
     }
@@ -3038,7 +3038,7 @@
    ],
    "Main Camera": [
     {
-     "Dual": "12 MP, f/1.8, 1/2.55\", 1.4\u00b5m, 4-axis OIS, dual pixel PDAF\r\n12 MP, f/2.4, 1/3.4\", 1.0\u00b5m, AF, 2x optical zoom",
+     "Dual": "12 MP, f/1.8, 1/2.55\", 1.4\u00b5m, dual pixel PDAF, 4-axis OIS\r\n12 MP, f/2.4, 1/3.4\", 1.0\u00b5m, AF, 2x optical zoom",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@60fps, 1080p@30/240fps, 720p@960fps"
     }
@@ -3143,7 +3143,7 @@
    ],
    "Main Camera": [
     {
-     "Dual": "12 MP, f/1.8, 1/2.55\", 1.4\u00b5m, 4-axis OIS, dual pixel PDAF\r\n12 MP, f/2.4, 56mm (telephoto), 1/3.4\", 1.0\u00b5m, AF, 2x optical zoom",
+     "Dual": "12 MP, f/1.8, 1/2.55\", 1.4\u00b5m, dual pixel PDAF, 4-axis OIS\r\n12 MP, f/2.4, 56mm (telephoto), 1/3.4\", 1.0\u00b5m, AF, 2x optical zoom",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30/60fps, 1080p@30/120/240fps, 720p@960fps"
     }
@@ -3485,7 +3485,7 @@
    ],
    "Main Camera": [
     {
-     "Dual": "12 MP, f/1.8, 1/2.55\", 1.4\u00b5m, 4-axis OIS, dual pixel PDAF\r\n12 MP, f/2.4, 1/3.4\", 1.0\u00b5m, AF, 2x optical zoom",
+     "Dual": "12 MP, f/1.8, 1/2.55\", 1.4\u00b5m, dual pixel PDAF, 4-axis OIS\r\n12 MP, f/2.4, 1/3.4\", 1.0\u00b5m, AF, 2x optical zoom",
      "Features": "Dual-LED dual-tone flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/120fps, 720p@240fps"
     }
@@ -4468,7 +4468,7 @@
    ],
    "Main Camera": [
     {
-     "Dual": "12 MP, f/1.8, 27mm (wide), 4-axis OIS, PDAF\r\n12 MP, f/2.6, 52mm (telephoto), AF, 2x optical zoom",
+     "Dual": "12 MP, f/1.8, 27mm (wide), PDAF, 4-axis OIS\r\n12 MP, f/2.6, 52mm (telephoto), AF, 2x optical zoom",
      "Features": "Dual-LED dual-tone flash, HDR, panorama",
      "Video": "2160p@30fps, 720p@120fps"
     }
@@ -4573,7 +4573,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "12 MP, f/2.0, 1/2.9\", 1.25\u00b5m, 4-axis OIS, PDAF",
+     "Single": "12 MP, f/2.0, 1/2.9\", 1.25\u00b5m, PDAF, 4-axis OIS",
      "Features": "Dual-LED dual-tone flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30fps, 720p@120fps"
     }
@@ -5028,7 +5028,7 @@
    ],
    "Main Camera": [
     {
-     "Dual": "12 MP, f/1.8, 27mm (wide), 1/2.9\", 1.25\u00b5m, 4-axis OIS, PDAF\r\n12 MP, f/2.6, 52mm (telephoto), 1.0\u00b5m, AF, 2x optical zoom",
+     "Dual": "12 MP, f/1.8, 27mm (wide), 1/2.9\", 1.25\u00b5m, PDAF, 4-axis OIS\r\n12 MP, f/2.6, 52mm (telephoto), 1.0\u00b5m, AF, 2x optical zoom",
      "Features": "Dual-LED dual-tone flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30fps, 720p@120fps"
     }
@@ -5870,7 +5870,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "12 MP, f/1.8, 27mm (wide), 1/2.9\", 1.25\u00b5m, 4-axis OIS, PDAF\r\n12 MP, f/2.6, 52mm (telephoto), 1.0\u00b5m, AF, 2x optical zoom",
+     "Single": "12 MP, f/1.8, 27mm (wide), 1/2.9\", 1.25\u00b5m, PDAF, 4-axis OIS\r\n12 MP, f/2.6, 52mm (telephoto), 1.0\u00b5m, AF, 2x optical zoom",
      "Features": "Dual-LED dual-tone flash, panorama",
      "Video": "2160p@30fps, 1080p@30fps"
     }
@@ -7084,7 +7084,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "16 MP, f/2.0, 1/2.8\", 1.12\u00b5m, 4-axis OIS, PDAF",
+     "Single": "16 MP, f/2.0, 1/2.8\", 1.12\u00b5m, PDAF, 4-axis OIS",
      "Features": "Dual-LED dual-tone flash, panorama, HDR",
      "Video": "2160p@30fps, 1080p@30fps, 720p@120fps"
     }
@@ -8511,7 +8511,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, OIS, AF, f/2.0",
+     "Single": "13 MP, f/2.0, AF, OIS",
      "Features": "Dual-LED dual-tone flash, HDR, panorama",
      "Video": "2160p, 1080p@30fps"
     }
@@ -8614,7 +8614,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, OIS, AF, f/2.0",
+     "Single": "13 MP, f/2.0, AF, OIS",
      "Features": "Dual-LED dual-tone flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30fps"
     }
