@@ -19,6 +19,10 @@ def fetch(url):
     sorted_info = sorted(info, key=lambda k: k['pid'], reverse=True)
     if 'en.' in url:
         name = 'global'
+    elif 'ru.' in url:
+        name = 'russian'
+    elif 'in.' in url:
+        name = 'indian'
     else:
         name = 'china'
     with open(f'{name}.json', 'w') as output:
@@ -29,7 +33,8 @@ def main():
     """
     Scrap Xiaomi devices downloads info from official site and generate JSON files
     """
-    urls = ['http://www.miui.com/download.html', 'http://en.miui.com/download.html']
+    urls = ['http://www.miui.com/download.html', 'http://en.miui.com/download.html',
+            'http://ru.miui.com/download.html', 'http://in.miui.com/download.html']
     for url in urls:
         fetch(url)
 

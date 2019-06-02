@@ -1,0 +1,371 @@
+[
+ {
+  "pid": "362",
+  "name": "Redmi GO",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI1",
+  "pic": "http://attach.ru.miui.com/album/201903/19/170930o407vzgdbzw9dvb0.png"
+ },
+ {
+  "pid": "360",
+  "name": "Redmi 7",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI1",
+  "pic": "http://attach.ru.miui.com/album/201904/16/140156boe5sfapzmlp8jj9.png"
+ },
+ {
+  "pid": "359",
+  "name": "Redmi Note 7/Pro",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "V2.3",
+  "pic": "http://attach.ru.miui.com/common/c0/common_359_phone.png?wuYz"
+ },
+ {
+  "pid": "358",
+  "name": "Mi 9/9 SE",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI1",
+  "pic": "http://attach.ru.miui.com/common/aa/common_358_phone.png?wuYz"
+ },
+ {
+  "pid": "357",
+  "name": "Mi Play",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI1",
+  "pic": "http://attach.ru.miui.com/common/fb/common_357_phone.png?wuYz"
+ },
+ {
+  "pid": "356",
+  "name": "Mi MIX 3",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI1",
+  "pic": "http://attach.ru.miui.com/common/6c/common_356_phone.png?wuYz"
+ },
+ {
+  "pid": "355",
+  "name": "Redmi Note 6 Pro",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI1",
+  "pic": "http://attach.ru.miui.com/common/82/common_355_phone.jpg?wuYz"
+ },
+ {
+  "pid": "354",
+  "name": "POCO F1",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI1",
+  "pic": "http://attach.ru.miui.com/common/8d/common_354_phone.png?wuYz"
+ },
+ {
+  "pid": "352",
+  "name": "Mi A2 Lite",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "Andro",
+  "pic": "http://attach.ru.miui.com/common/37/common_352_phone.png?wuYz"
+ },
+ {
+  "pid": "351",
+  "name": "Mi A2",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI1",
+  "pic": "http://attach.ru.miui.com/common/ef/common_351_phone.png?wuYz"
+ },
+ {
+  "pid": "350",
+  "name": "Mi Max 3",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI1",
+  "pic": "http://attach.ru.miui.com/common/9d/common_350_phone.png?wuYz"
+ },
+ {
+  "pid": "349",
+  "name": "Redmi 6/6A/Pro",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI1",
+  "pic": "http://attach.ru.miui.com/common/0b/common_349_phone.png?wuYz"
+ },
+ {
+  "pid": "346",
+  "name": "Xiaomi Mi 8/SE/EE/Lite/Pro",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI1",
+  "pic": "http://attach.ru.miui.com/common/13/common_346_phone.png?wuYz"
+ },
+ {
+  "pid": "345",
+  "name": "Redmi S2",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI1",
+  "pic": "http://attach.ru.miui.com/common/d8/common_345_phone.png?wuYz"
+ },
+ {
+  "pid": "343",
+  "name": "Mi MIX 2S",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI9",
+  "pic": "http://attach.ru.miui.com/common/3a/common_343_phone.png?wuYz"
+ },
+ {
+  "pid": "340",
+  "name": "Redmi Note 5",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI9",
+  "pic": "http://attach.ru.miui.com/common/40/common_340_phone.png?wuYz"
+ },
+ {
+  "pid": "339",
+  "name": "Redmi 5/Plus",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI1",
+  "pic": "http://attach.ru.miui.com/common/04/common_339_phone.png?wuYz"
+ },
+ {
+  "pid": "338",
+  "name": "Redmi 5A",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI1",
+  "pic": "http://attach.ru.miui.com/common/81/common_338_phone.png?wuYz"
+ },
+ {
+  "pid": "336",
+  "name": "Mi Note 3",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI9",
+  "pic": "http://attach.ru.miui.com/common/68/common_336_phone.png?wuYz"
+ },
+ {
+  "pid": "334",
+  "name": "Mi MIX 2",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI1",
+  "pic": "http://attach.ru.miui.com/common/2f/common_334_phone.png?wuYz"
+ },
+ {
+  "pid": "333",
+  "name": "Mi A1",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "Andro",
+  "pic": "http://attach.en.miui.com/album/201709/08/192913ew73rt2m2b5mut75.png"
+ },
+ {
+  "pid": "332",
+  "name": "Redmi Note 5A/Prime ",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI1",
+  "pic": "http://attach.ru.miui.com/common/c0/common_332_phone.png?wuYz"
+ },
+ {
+  "pid": "328",
+  "name": "Xiaomi Mi Max 2",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI1",
+  "pic": "http://attach.ru.miui.com/common/cd/common_328_phone.png?wuYz"
+ },
+ {
+  "pid": "326",
+  "name": "Xiaomi Mi 6",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI9",
+  "pic": "http://attach.ru.miui.com/common/a6/common_326_phone.png?wuYz"
+ },
+ {
+  "pid": "323",
+  "name": "Redmi 4X",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI1",
+  "pic": "http://attach.ru.miui.com/common/bc/common_323_phone.png?wuYz"
+ },
+ {
+  "pid": "321",
+  "name": "Redmi Note 4X",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI1",
+  "pic": "http://attach.ru.miui.com/common/ca/common_321_phone.png?wuYz"
+ },
+ {
+  "pid": "320",
+  "name": "Redmi 4 Prime",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI9",
+  "pic": "http://attach.ru.miui.com/common/32/common_320_phone.png?wuYz"
+ },
+ {
+  "pid": "319",
+  "name": "Redmi 4A",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI9",
+  "pic": "http://attach.ru.miui.com/common/8d/common_319_phone.png?wuYz"
+ },
+ {
+  "pid": "318",
+  "name": "Redmi 4",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI9",
+  "pic": "http://attach.ru.miui.com/common/43/common_318_phone.png?wuYz"
+ },
+ {
+  "pid": "317",
+  "name": "Xiaomi Mi MIX",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI9",
+  "pic": "http://attach.ru.miui.com/common/5b/common_317_phone.png?wuYz"
+ },
+ {
+  "pid": "316",
+  "name": "Xiaomi Mi Note 2",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI9",
+  "pic": "http://attach.ru.miui.com/common/3f/common_316_phone.png?wuYz"
+ },
+ {
+  "pid": "315",
+  "name": "Xiaomi Mi 5s Plus",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI1",
+  "pic": "http://attach.ru.miui.com/common/ad/common_315_phone.png?wuYz"
+ },
+ {
+  "pid": "314",
+  "name": "Xiaomi Mi 5s",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI1",
+  "pic": "http://attach.ru.miui.com/common/75/common_314_phone.png?wuYz"
+ },
+ {
+  "pid": "309",
+  "name": "Redmi Note 4",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI9",
+  "pic": "http://attach.ru.miui.com/common/ed/common_309_phone.png?wuYz"
+ },
+ {
+  "pid": "303",
+  "name": "Redmi 3S/Prime/3X",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI1",
+  "pic": "http://attach.ru.miui.com/common/11/common_303_phone.png?wuYz"
+ },
+ {
+  "pid": "302",
+  "name": "Xiaomi Mi Max/Prime",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI9",
+  "pic": "http://attach.ru.miui.com/common/57/common_302_phone.png?wuYz"
+ },
+ {
+  "pid": "301",
+  "name": "Redmi Note 3",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI9",
+  "pic": "http://attach.ru.miui.com/common/34/common_301_phone.png?wuYz"
+ },
+ {
+  "pid": "299",
+  "name": "Xiaomi Mi 5",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI9",
+  "pic": "http://attach.ru.miui.com/common/ef/common_299_phone.png?wuYz"
+ },
+ {
+  "pid": "274",
+  "name": "Redmi Note 2",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI9",
+  "pic": "http://attach.bbs.miui.com/common/f9/common_290_phone.png?f0I"
+ },
+ {
+  "pid": "240",
+  "name": "Xiaomi Mi 4",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI9",
+  "pic": "http://attach.bbs.miui.com/common/f3/common_241_phone.png?ji4"
+ },
+ {
+  "pid": "101",
+  "name": "Xiaomi Mi 3",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "MIUI9",
+  "pic": "http://static.bbs.miui.com/static/download/images/mi3.png"
+ }
+]
