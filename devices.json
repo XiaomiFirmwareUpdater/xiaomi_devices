@@ -19,7 +19,7 @@
    "Launch": [
     {
      "Announced": "2019, May",
-     "Status": "Coming soon. Exp. release 2019, June 1"
+     "Status": "Available. Released 2019, June"
     }
    ],
    "Body": [
@@ -122,7 +122,7 @@
    "Launch": [
     {
      "Announced": "2019, May",
-     "Status": "Coming soon. Exp. release 2019, June 1"
+     "Status": "Available. Released 2019, June"
     }
    ],
    "Body": [
@@ -406,7 +406,7 @@
    "Misc": [
     {
      "Colors": "Onyx Black, Sapphire Blue, Ruby Red",
-     "Models": "Redmi Note 7s, M1901F71",
+     "Models": "Redmi Note 7s, M1901F71, Redmi Note 7S",
      "Price": "About 140 EUR"
     }
    ]
@@ -2776,6 +2776,7 @@
    "Misc": [
     {
      "Colors": "Black, Rose Gold",
+     "Models": "MI PAD 4 PLUS",
      "Price": "About 260 EUR"
     }
    ]
