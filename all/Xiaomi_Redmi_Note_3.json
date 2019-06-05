@@ -53,7 +53,7 @@
   ],
   "Main Camera": [
    {
-    "Single": "16 MP, PDAF, f/2.0",
+    "Single": "16 MP, f/2.0, PDAF",
     "Features": "Dual-LED dual-tone flash, HDR, panorama",
     "Video": "1080p@30fps"
    }

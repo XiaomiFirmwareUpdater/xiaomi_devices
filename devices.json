@@ -4146,7 +4146,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, PDAF, f/2.2",
+     "Single": "13 MP, f/2.2, PDAF",
      "Features": "LED flash, HDR, panorama",
      "Video": "1080p@30fps"
     }
@@ -4363,7 +4363,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, PDAF, f/2.2",
+     "Single": "13 MP, f/2.2, PDAF",
      "Features": "LED flash, HDR, panorama",
      "Video": "1080p@30fps"
     }
@@ -4913,7 +4913,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, PDAF, f/2.0",
+     "Single": "13 MP, f/2.0, PDAF",
      "Features": "LED flash, HDR, panorama",
      "Video": "1080p@30fps"
     }
@@ -5554,7 +5554,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, AF, f/2.2",
+     "Single": "13 MP, f/2.2, AF",
      "Features": "LED flash, HDR, panorama",
      "Video": "1080p@30fps"
     }
@@ -5660,7 +5660,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, PDAF, f/2.2",
+     "Single": "13 MP, f/2.2, PDAF",
      "Features": "LED flash, HDR, panorama",
      "Video": "1080p@30fps"
     }
@@ -5762,7 +5762,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, PDAF, f/2.2",
+     "Single": "13 MP, f/2.2, PDAF",
      "Features": "Dual-LED dual-tone flash, HDR, panorama",
      "Video": "1080p@30fps"
     }
@@ -6426,7 +6426,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, PDAF, f/2.0",
+     "Single": "13 MP, f/2.0, PDAF",
      "Features": "Dual-LED dual-tone flash, HDR, panorama",
      "Video": "1080p@30fps, 720p@120fps"
     }
@@ -6645,7 +6645,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, PDAF, f/2.0",
+     "Single": "13 MP, f/2.0, PDAF",
      "Features": "LED flash, HDR, panorama",
      "Video": "1080p@30fps"
     }
@@ -6748,7 +6748,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, PDAF, f/2.0",
+     "Single": "13 MP, f/2.0, PDAF",
      "Features": "LED flash, HDR, panorama",
      "Video": "1080p@30fps"
     }
@@ -6857,7 +6857,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, PDAF, f/2.0",
+     "Single": "13 MP, f/2.0, PDAF",
      "Features": "LED flash, HDR, panorama",
      "Video": "1080p@30fps"
     }
@@ -6971,7 +6971,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, PDAF, f/2.0",
+     "Single": "13 MP, f/2.0, PDAF",
      "Features": "LED flash, HDR, panorama",
      "Video": "1080p@30fps"
     }
@@ -7201,7 +7201,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "16 MP, PDAF, f/2.0",
+     "Single": "16 MP, f/2.0, PDAF",
      "Features": "Dual-LED dual-tone flash, panorama, HDR",
      "Video": "2160p@30fps, 1080p@30fps, 720p@120fps"
     }
@@ -7313,7 +7313,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, PDAF, f/2.0",
+     "Single": "13 MP, f/2.0, PDAF",
      "Features": "Dual-LED dual-tone flash, panorama, HDR",
      "Video": "1080p@30fps, 720p@120fps"
     }
@@ -7426,7 +7426,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "16 MP, PDAF, f/2.0",
+     "Single": "16 MP, f/2.0, PDAF",
      "Features": "Dual-LED dual-tone flash, HDR, panorama",
      "Video": "1080p@30fps"
     }
@@ -7541,7 +7541,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, PDAF, f/2.0",
+     "Single": "13 MP, f/2.0, PDAF",
      "Features": "LED flash, HDR, panorama",
      "Video": "1080p@30fps"
     }
@@ -7851,7 +7851,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, PDAF, f/2.2",
+     "Single": "13 MP, f/2.2, PDAF",
      "Features": "Dual-LED dual-tone flash, HDR, panorama",
      "Video": "1080p@30fps"
     }
@@ -8079,7 +8079,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, PDAF, f/2.2",
+     "Single": "13 MP, f/2.2, PDAF",
      "Features": "LED flash, HDR, panorama",
      "Video": "1080p@30fps"
     }
@@ -8399,7 +8399,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, AF, f/2.0",
+     "Single": "13 MP, f/2.0, AF",
      "Features": "Dual-LED dual-tone flash, panorama, HDR",
      "Video": "1080p@30fps, 480p@120fps"
     }
@@ -9791,7 +9791,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "8 MP, AF, f/2.0",
+     "Single": "8 MP, f/2.0, AF",
      "Features": "LED flash, HDR",
      "Video": "1080p@30fps"
     }
@@ -10282,7 +10282,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, AF, f/2.0",
+     "Single": "13 MP, f/2.0, AF",
      "Features": "Dual-LED dual-tone flash, HDR, panorama",
      "Video": "1080p@30fps"
     }
