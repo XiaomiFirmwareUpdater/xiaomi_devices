@@ -669,6 +669,8 @@
   "internal_name": "C3E",
   "name": "Redmi 7A:",
   "models": {
+   "M1903C3EG, M1903C3EH": "Redmi 7A Global",
+   "M1903C3EI": "Redmi 7A India",
    "M1903C3EE": "Redmi 7A China",
    "M1903C3ET": "Redmi 7A China Mobile",
    "M1903C3EC": "Redmi 7A China Unicom / China Telecom"
