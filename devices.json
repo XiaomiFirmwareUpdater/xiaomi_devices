@@ -199,7 +199,7 @@
    ],
    "Misc": [
     {
-     "Colors": "Carbon black, Flame red, Glacier blue",
+     "Colors": "Carbon black, Red flame, Glacier blue",
      "Price": "About 260 EUR"
     }
    ]
@@ -310,7 +310,7 @@
  },
  {
   "name": "Xiaomi Redmi 7A",
-  "codename": "",
+  "codename": "pine",
   "picture": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-7a.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_7a-9716.php",
   "specs": {
@@ -591,7 +591,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "Yes",
      "GPS": "Yes, with A-GPS, GLONASS, GALILEO",
      "Infrared port": "Yes",
@@ -695,7 +695,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "5.0, A2DP, aptX HD, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Radio": "No",
@@ -799,7 +799,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 b/g/n, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
      "Bluetooth": "4.2, A2DP, LE, aptX HD",
      "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS",
      "Infrared port": "Yes",
@@ -1010,7 +1010,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "5.0, A2DP, LE, aptX HD",
      "GPS": "Yes, with dual-band A-GPS, GLONASS, BDS, GALILEO, QZSS",
      "NFC": "Yes",
@@ -1657,7 +1657,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "4.2, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "USB": "microUSB 2.0, USB On-The-Go"
@@ -1761,7 +1761,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "5.0, A2DP, aptX HD, LE",
      "GPS": "Yes, with dual-band A-GPS, GLONASS, BDS, GALILEO, QZSS",
      "NFC": "Yes",
@@ -1874,7 +1874,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "5.0, A2DP, aptX HD, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Radio": "No",
@@ -2422,7 +2422,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "5.0, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Infrared port": "Yes",
@@ -2533,7 +2533,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "4.2, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Infrared port": "Yes",
@@ -2959,7 +2959,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 b/g/n, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
      "Bluetooth": "4.2, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Radio": "FM radio",
@@ -3495,7 +3495,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 b/g/n, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
      "Bluetooth": "4.2, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Infrared port": "Yes",
@@ -3609,7 +3609,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "5.0, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "NFC": "Yes",
@@ -3722,7 +3722,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "5.0, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Infrared port": "Yes",
@@ -3836,7 +3836,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "5.0, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Infrared port": "Yes",
@@ -3940,7 +3940,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "5.0, A2DP, aptX HD, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Radio": "No",
@@ -4592,7 +4592,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "5.0, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "NFC": "Yes",
@@ -4697,7 +4697,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "5.0, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "NFC": "Yes",
@@ -4809,7 +4809,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "4.2, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Infrared port": "Yes",
@@ -5362,7 +5362,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "4.1, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Infrared port": "Yes",
@@ -5783,7 +5783,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "4.1, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Infrared port": "Yes",
@@ -6094,7 +6094,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "4.2, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "NFC": "Yes",
@@ -6206,7 +6206,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "4.2, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "NFC": "Yes",
@@ -6549,7 +6549,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "4.2, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Infrared port": "Yes",
@@ -7436,7 +7436,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "4.1, A2DP",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Infrared port": "Yes",
@@ -7549,7 +7549,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "4.1, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Infrared port": "Yes",
@@ -7974,7 +7974,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "4.1, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Infrared port": "Yes",
@@ -8089,7 +8089,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "4.1, A2DP",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Infrared port": "Yes",
@@ -8202,7 +8202,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "4.0, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Infrared port": "Yes",
@@ -8522,7 +8522,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "4.1, A2DP",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Radio": "Stereo FM radio",
@@ -8635,7 +8635,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "4.1, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Radio": "No",
@@ -8738,7 +8738,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "4.1, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Radio": "No",
@@ -10406,7 +10406,7 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "4.2, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Radio": "FM radio",

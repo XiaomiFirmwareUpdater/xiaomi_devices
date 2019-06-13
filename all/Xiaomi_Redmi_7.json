@@ -75,7 +75,7 @@
   ],
   "Comms": [
    {
-    "WLAN": "Wi-Fi 802.11 b/g/n, WiFi Direct, hotspot",
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
     "Bluetooth": "4.2, A2DP, LE, aptX HD",
     "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS",
     "Infrared port": "Yes",
