@@ -188,7 +188,7 @@
  },
  {
   "codename": "equuleus",
-  "internal_name": "E8",
+  "internal_name": "E1S",
   "name": "Mi 8 Pro",
   "models": {
    "M1807E8A": "Mi 8 Pro"
@@ -231,6 +231,14 @@
   "models": {
    "M1903F2G": "Mi 9 SE Global",
    "M1903F2A": "Mi 9 SE China"
+  }
+ },
+ {
+  "codename": "davinci",
+  "internal_name": "F10",
+  "name": "Mi 9T",
+  "models": {
+   "M1903F10G": "Mi 9T Global"
   }
  },
  {
