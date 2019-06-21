@@ -78,7 +78,7 @@
     "Bluetooth": "5.0, A2DP, LE, aptX HD",
     "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS",
     "NFC": "Yes",
-    "Radio": "Yes",
+    "Radio": "FM radio",
     "USB": "2.0, Type-C 1.0 reversible connector, USB On-The-Go"
    }
   ],
