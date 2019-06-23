@@ -20,6 +20,8 @@ def main():
     info = {}
     for i in data:
         codename = i['codename']
+        if '_' in codename:
+            continue
         version = i['version']
         miui_code = version.split('.')[-1][1:3]
         info.update({codename: miui_code})
