@@ -11,9 +11,7 @@
     "3G bands": "HSDPA 850 / 900 / 1900 / 2100 & TD-SCDMA",
     "info": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500) - China",
     "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500) - Global",
-    "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat12 600/150 Mbps",
-    "GPRS": "Yes",
-    "EDGE": "Yes"
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat12 600/150 Mbps"
    }
   ],
   "Launch": [

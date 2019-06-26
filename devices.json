@@ -11,9 +11,7 @@
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 28(700), 38(2600), 40(2300)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A"
     }
    ],
    "Launch": [
@@ -114,9 +112,7 @@
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A"
     }
    ],
    "Launch": [
@@ -217,9 +213,7 @@
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A"
     }
    ],
    "Launch": [
@@ -320,9 +314,7 @@
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE-A",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE-A"
     }
    ],
    "Launch": [
@@ -422,9 +414,7 @@
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 8(900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat12 600/150 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat12 600/150 Mbps"
     }
    ],
    "Launch": [
@@ -527,9 +517,7 @@
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 28(700), 38(2600), 40(2300)",
-     "Speed": "HSPA, LTE-A",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE-A"
     }
    ],
    "Launch": [
@@ -632,9 +620,7 @@
      "info": "CDMA2000 1xEV-DO ",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (5CA) Cat18 1200/150 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (5CA) Cat18 1200/150 Mbps"
     }
    ],
    "Launch": [
@@ -735,9 +721,7 @@
      "info": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - Global",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300) - Global",
-     "Speed": "HSPA, LTE-A",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE-A"
     }
    ],
    "Launch": [
@@ -839,9 +823,7 @@
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat9 450/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat9 450/50 Mbps"
     }
    ],
    "Launch": [
@@ -945,9 +927,7 @@
      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 28(700), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
      "5G": "5G NSA / Sub6 / mmWave; N78",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (5CA) Cat18 1200/150 Mbps; 5G (2+ Gbps DL)",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (5CA) Cat18 1200/150 Mbps; 5G (2+ Gbps DL)"
     }
    ],
    "Launch": [
@@ -1050,9 +1030,7 @@
      "info": "CDMA 800 & TD-SCDMA",
      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 17(700), 20(800), 28(700), 38(2600), 39(1900), 40(2300)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (5CA) Cat18 1200/150 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (5CA) Cat18 1200/150 Mbps"
     }
    ],
    "Launch": [
@@ -1157,9 +1135,7 @@
      "info": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300) - Global",
-     "Speed": "HSPA, LTE-A",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE-A"
     }
    ],
    "Launch": [
@@ -1263,9 +1239,7 @@
      "info": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 17(700), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 20(800), 28(700), 38(2600), 39(1900), 40(2300) - Global",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (5CA) Cat18 1200/150 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (5CA) Cat18 1200/150 Mbps"
     }
    ],
    "Launch": [
@@ -1379,9 +1353,7 @@
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 28(700), 38(2600), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
     }
    ],
    "Launch": [
@@ -1480,9 +1452,7 @@
      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - Global",
      "info": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 28(700), 38(2600), 40(2300) - Global",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat12 600/150 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat12 600/150 Mbps"
     }
    ],
    "Launch": [
@@ -1595,9 +1565,7 @@
      "info": "CDMA 800 & TD-SCDMA",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE"
     }
    ],
    "Launch": [
@@ -1696,9 +1664,7 @@
      "info": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 17(700), 20(800), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1800 / 1900 / 2100 - Global",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 13(700), 17(700), 18(800), 19(800), 20(800), 25(1900), 26(850), 28(700), 29(700), 30(2300), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500), 66(1700/2100) - Global",
-     "Speed": "HSPA, LTE",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE"
     }
    ],
    "Launch": [
@@ -1812,9 +1778,7 @@
      "info": "CDMA2000 1xEV-DO ",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat16 1024/150 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat16 1024/150 Mbps"
     }
    ],
    "Launch": [
@@ -1914,9 +1878,7 @@
      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300)",
      "info": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 28(700), 38(2600), 40(2300)",
-     "Speed": "HSPA, LTE-A",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE-A"
     }
    ],
    "Launch": [
@@ -2027,9 +1989,7 @@
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 17(700), 20(800), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (4CA) Cat16 1024/150 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (4CA) Cat16 1024/150 Mbps"
     }
    ],
    "Launch": [
@@ -2133,9 +2093,7 @@
      "info": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - Global",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 28(700), 38(2600), 40(2300) - Global",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps"
     }
    ],
    "Launch": [
@@ -2245,9 +2203,7 @@
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (4CA) Cat16 1024/150 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (4CA) Cat16 1024/150 Mbps"
     }
    ],
    "Launch": [
@@ -2359,9 +2315,7 @@
      "info": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - Global",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300) - Global",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat12 600/150 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat12 600/150 Mbps"
     }
    ],
    "Launch": [
@@ -2471,9 +2425,7 @@
      "info": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300) - Global",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps"
     }
    ],
    "Launch": [
@@ -2584,9 +2536,7 @@
      "info": "CDMA2000 1xEV-DO ",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE"
     }
    ],
    "Launch": [
@@ -2898,9 +2848,7 @@
      "info": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300) - Global",
-     "Speed": "HSPA, LTE",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE"
     }
    ],
    "Launch": [
@@ -2998,9 +2946,7 @@
      "info": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300) - Global",
-     "Speed": "HSPA 21.1/5.76 Mbps, LTE-A (2CA) Cat7 300/150 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 21.1/5.76 Mbps, LTE-A (2CA) Cat7 300/150 Mbps"
     }
    ],
    "Launch": [
@@ -3098,9 +3044,7 @@
      "info": "CDMA 800 & TD-SCDMA",
      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 17(700), 20(800), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (4CA) Cat16 1024/150 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (4CA) Cat16 1024/150 Mbps"
     }
    ],
    "Launch": [
@@ -3203,9 +3147,7 @@
      "info": "CDMA 800 & TD-SCDMA",
      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 17(700), 20(800), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (4CA) Cat16 1024/150 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (4CA) Cat16 1024/150 Mbps"
     }
    ],
    "Launch": [
@@ -3318,9 +3260,7 @@
      "info": "CDMA 800 & TD-SCDMA",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A Cat15 800/150 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A Cat15 800/150 Mbps"
     }
    ],
    "Launch": [
@@ -3432,9 +3372,7 @@
      "info": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300) - Global",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps"
     }
    ],
    "Launch": [
@@ -3546,9 +3484,7 @@
      "info": "CDMA2000 1xEV-DO ",
      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1800 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 13(700), 17(700), 18(800), 19(800), 20(800), 25(1900), 26(850), 27(800), 28(700), 29(700), 30(2300), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat18 1200/100 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat18 1200/100 Mbps"
     }
    ],
    "Launch": [
@@ -3658,9 +3594,7 @@
      "info": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 28(700), 38(2600), 40(2300) - Taiwan",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
-     "Speed": "HSPA, LTE",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE"
     }
    ],
    "Launch": [
@@ -3772,9 +3706,7 @@
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE"
     }
    ],
    "Launch": [
@@ -3878,9 +3810,7 @@
      "info": "CDMA2000 1xEV-DO ",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat16 1024/150 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat16 1024/150 Mbps"
     }
    ],
    "Launch": [
@@ -3980,9 +3910,7 @@
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300) - Global",
      "info": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps"
     }
    ],
    "Launch": [
@@ -4093,9 +4021,7 @@
      "info": "CDMA 800 & TD-SCDMA",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE"
     }
    ],
    "Launch": [
@@ -4207,9 +4133,7 @@
      "info": "CDMA 800 & TD-SCDMA",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE"
     }
    ],
    "Launch": [
@@ -4308,9 +4232,7 @@
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300)",
-     "Speed": "HSPA, LTE",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE"
     }
    ],
    "Launch": [
@@ -4423,9 +4345,7 @@
      "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300)",
-     "Speed": "HSPA, LTE",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE"
     }
    ],
    "Launch": [
@@ -4529,9 +4449,7 @@
      "info": "CDMA2000 1xEV-DO ",
      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps"
     }
    ],
    "Launch": [
@@ -4634,9 +4552,7 @@
      "info": "CDMA2000 1xEV-DO ",
      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1800 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 13(700), 17(700), 18(800), 19(800), 20(800), 25(1900), 26(850), 27(800), 28(700), 29(700), 30(2300), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE"
     }
    ],
    "Launch": [
@@ -4746,9 +4662,7 @@
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps"
     }
    ],
    "Launch": [
@@ -4860,9 +4774,7 @@
      "info": "CDMA2000 1xEV-DO ",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps"
     }
    ],
    "Launch": [
@@ -4973,9 +4885,7 @@
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/100 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/100 Mbps"
     }
    ],
    "Launch": [
@@ -5088,9 +4998,7 @@
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat9 450/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat9 450/50 Mbps"
     }
    ],
    "Launch": [
@@ -5403,9 +5311,7 @@
      "info": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 38(2600), 39(1900), 40(2300), 41(2500) - Mediatek model",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500) - Snapdragon model",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps"
     }
    ],
    "Launch": [
@@ -5504,9 +5410,7 @@
      "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps"
     }
    ],
    "Launch": [
@@ -5615,9 +5519,7 @@
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 20(800), 38(2600), 40(2300)",
-     "Speed": "HSPA, LTE",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE"
     }
    ],
    "Launch": [
@@ -5722,9 +5624,7 @@
      "info": "CDMA2000 1xEV-DO & TD-SCDMA",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE"
     }
    ],
    "Launch": [
@@ -5823,9 +5723,7 @@
      "info": "CDMA2000 1xEV-DO & TD-SCDMA",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps"
     }
    ],
    "Launch": [
@@ -5932,9 +5830,7 @@
      "info": "CDMA2000 1xEV-DO ",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE"
     }
    ],
    "Launch": [
@@ -6032,9 +5928,7 @@
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat12 600/150 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat12 600/150 Mbps"
     }
    ],
    "Launch": [
@@ -6144,9 +6038,7 @@
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 13(700), 17(700), 18(800), 19(800), 20(800), 25(1900), 26(850), 28(700), 29(700), 30(2300), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat12 600/150 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat12 600/150 Mbps"
     }
    ],
    "Launch": [
@@ -6258,9 +6150,7 @@
      "info": "CDMA2000 1xEV-DO ",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE"
     }
    ],
    "Launch": [
@@ -6372,9 +6262,7 @@
      "info": "CDMA2000 1xEV-DO ",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (4CA) Cat12 600/150 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (4CA) Cat12 600/150 Mbps"
     }
    ],
    "Launch": [
@@ -6487,9 +6375,7 @@
      "info": "CDMA 800 & TD-SCDMA",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE"
     }
    ],
    "Launch": [
@@ -6597,9 +6483,7 @@
      "info": " TD-SCDMA",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE"
     }
    ],
    "Launch": [
@@ -6706,9 +6590,7 @@
      "info": "CDMA2000 1xEV-DO ",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE, EV-DO Rev.A 3.1 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE, EV-DO Rev.A 3.1 Mbps"
     }
    ],
    "Launch": [
@@ -6809,9 +6691,7 @@
      "3G bands": "HSDPA 900 / 2100 - India",
      "info": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800), 40(2300) - Global",
      "4G bands": "LTE band 3(1800), 5(850), 40(2300) - India",
-     "Speed": "HSPA, LTE",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE"
     }
    ],
    "Launch": [
@@ -6918,9 +6798,7 @@
      "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 900 / 2100 ",
      "4G bands": "LTE band 3(1800), 5(850), 40(2300) - India",
-     "Speed": "HSPA, LTE",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE"
     }
    ],
    "Launch": [
@@ -7032,9 +6910,7 @@
      "info": "CDMA2000 1xEV-DO ",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE, EV-DO Rev.A 3.1 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE, EV-DO Rev.A 3.1 Mbps"
     }
    ],
    "Launch": [
@@ -7145,9 +7021,7 @@
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 & TD-SCDMA",
      "info": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500) - China",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500) - Global",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat12 600/150 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat12 600/150 Mbps"
     }
    ],
    "Launch": [
@@ -7261,9 +7135,7 @@
      "info": " TD-SCDMA",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE"
     }
    ],
    "Launch": [
@@ -7375,9 +7247,7 @@
      "info": " TD-SCDMA",
      "3G bands": "HSDPA 850 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE Cat4 150/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE Cat4 150/50 Mbps"
     }
    ],
    "Launch": [
@@ -7487,9 +7357,7 @@
      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - Global",
      "info": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 28(700), 40(2300) - Special edition (Taiwan)",
      "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 38(2600), 39(1900), 40(2300), 41(2500) - Global",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A Cat6 300/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A Cat6 300/50 Mbps"
     }
    ],
    "Launch": [
@@ -7602,9 +7470,7 @@
      "info": "CDMA2000 1xEV-DO ",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE, EV-DO Rev.A 3.1 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE, EV-DO Rev.A 3.1 Mbps"
     }
    ],
    "Launch": [
@@ -7711,9 +7577,7 @@
      "2G bands": "GSM 900 / 1800 / 850 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 3(1800), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE Cat4 150/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE Cat4 150/50 Mbps"
     }
    ],
    "Launch": [
@@ -7913,9 +7777,7 @@
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "info": " TD-SCDMA",
      "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE"
     }
    ],
    "Launch": [
@@ -8027,9 +7889,7 @@
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "info": " TD-SCDMA",
      "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE Cat4 150/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE Cat4 150/50 Mbps"
     }
    ],
    "Launch": [
@@ -8140,9 +8000,7 @@
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "info": " TD-SCDMA",
      "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE Cat4 150/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE Cat4 150/50 Mbps"
     }
    ],
    "Launch": [
@@ -8255,9 +8113,7 @@
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 2(1900), 4(1700/2100), 7(2600)",
-     "Speed": "HSPA, LTE Cat4 150/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE Cat4 150/50 Mbps"
     }
    ],
    "Launch": [
@@ -8355,9 +8211,7 @@
      "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 900 / 2100 ",
      "4G bands": "LTE band 3(1800), 40(2300)",
-     "Speed": "HSPA, LTE Cat4 150/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE Cat4 150/50 Mbps"
     }
    ],
    "Launch": [
@@ -8459,9 +8313,7 @@
      "3G bands": "HSDPA 850 / 1900 / 2100 ",
      "info": " TD-SCDMA",
      "4G bands": "LTE band 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE Cat4 150/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE Cat4 150/50 Mbps"
     }
    ],
    "Launch": [
@@ -8572,9 +8424,7 @@
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 1900 / 2100 ",
      "4G bands": "LTE band 3(1800), 7(2600)",
-     "Speed": "HSPA, LTE-A (3CA) Cat9 450/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE-A (3CA) Cat9 450/50 Mbps"
     }
    ],
    "Launch": [
@@ -8675,9 +8525,7 @@
      "3G bands": "HSDPA 850 / 1900 / 2100 ",
      "info": " TD-SCDMA",
      "4G bands": "LTE band 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE Cat4 150/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE Cat4 150/50 Mbps"
     }
    ],
    "Launch": [
@@ -8787,9 +8635,7 @@
      "3G bands": "HSDPA 850 / 1900 / 2100 ",
      "info": " TD-SCDMA",
      "4G bands": "LTE band 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE"
     }
    ],
    "Launch": [
@@ -8888,9 +8734,7 @@
      "3G bands": "HSDPA 850 / 1900 / 2100 ",
      "info": " TD-SCDMA",
      "4G bands": "LTE band 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE Cat4 150/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE Cat4 150/50 Mbps"
     }
    ],
    "Launch": [
@@ -9000,9 +8844,7 @@
      "2G bands": "GSM 850 / 900 / 1800 / 1900 ",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": " LTE - international model",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
     }
    ],
    "Launch": [
@@ -9102,9 +8944,7 @@
      "info": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 7(2600) - Malaysia, Singapore",
      "3G bands": "HSDPA 900 / 2100 - India",
      "4G bands": "LTE band 3(1800), 40(2300) - India",
-     "Speed": "HSPA, LTE Cat4 150/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA, LTE Cat4 150/50 Mbps"
     }
    ],
    "Launch": [
@@ -9420,9 +9260,7 @@
      "Technology": "GSM / HSPA",
      "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 900 / 2100 ",
-     "Speed": "HSPA",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA"
     }
    ],
    "Launch": [
@@ -9530,9 +9368,7 @@
      "Technology": "GSM / HSPA",
      "2G bands": "GSM 850 / 900 / 1800 / 1900 ",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
-     "Speed": "HSPA 42.2/5.76 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 42.2/5.76 Mbps"
     }
    ],
    "Launch": [
@@ -9645,9 +9481,7 @@
      "Technology": "GSM / HSPA",
      "2G bands": "GSM 900 / 1800 / 1900 ",
      "3G bands": "HSDPA 900 / 2100 ",
-     "Speed": "HSPA",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA"
     }
    ],
    "Launch": [
@@ -9755,9 +9589,7 @@
      "Technology": "GSM / HSPA",
      "2G bands": "GSM 900 / 1800 / 1900 ",
      "3G bands": "HSDPA 900 / 2100 ",
-     "Speed": "HSPA",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA"
     }
    ],
    "Launch": [
@@ -9853,9 +9685,7 @@
      "Technology": "GSM / HSPA",
      "2G bands": "GSM 850 / 900 / 1800 / 1900 ",
      "3G bands": "HSDPA 900 / 1900 / 2100 ",
-     "Speed": "HSPA 21.1/5.76 Mbps",
-     "GPRS": "Class 12",
-     "EDGE": "Class 12"
+     "Speed": "HSPA 21.1/5.76 Mbps"
     }
    ],
    "Launch": [
@@ -9950,9 +9780,7 @@
      "Technology": "GSM / HSPA",
      "2G bands": "GSM 850 / 900 / 1800 / 1900 ",
      "3G bands": "HSDPA 850 / 1900 / 2100 ",
-     "Speed": "HSPA 42.2/5.76 Mbps",
-     "GPRS": "Class 12",
-     "EDGE": "Class 12"
+     "Speed": "HSPA 42.2/5.76 Mbps"
     }
    ],
    "Launch": [
@@ -10050,9 +9878,7 @@
      "Technology": "GSM / HSPA",
      "2G bands": "GSM 850 / 900 / 1800 / 1900 ",
      "3G bands": "HSDPA 850 / 1900 / 2100 ",
-     "Speed": "HSPA 42.2/5.76 Mbps",
-     "GPRS": "Class 12",
-     "EDGE": "Class 12"
+     "Speed": "HSPA 42.2/5.76 Mbps"
     }
    ],
    "Launch": [
@@ -10147,9 +9973,7 @@
      "Technology": "GSM / HSPA",
      "2G bands": "GSM 850 / 900 / 1800 / 1900 ",
      "3G bands": "HSDPA 850 / 1900 / 2100 ",
-     "Speed": "HSPA 14.4/5.76 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
+     "Speed": "HSPA 14.4/5.76 Mbps"
     }
    ],
    "Launch": [

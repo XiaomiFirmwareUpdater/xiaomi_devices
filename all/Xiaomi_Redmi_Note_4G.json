@@ -11,9 +11,7 @@
     "info": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 7(2600) - Malaysia, Singapore",
     "3G bands": "HSDPA 900 / 2100 - India",
     "4G bands": "LTE band 3(1800), 40(2300) - India",
-    "Speed": "HSPA, LTE Cat4 150/50 Mbps",
-    "GPRS": "Yes",
-    "EDGE": "Yes"
+    "Speed": "HSPA, LTE Cat4 150/50 Mbps"
    }
   ],
   "Launch": [

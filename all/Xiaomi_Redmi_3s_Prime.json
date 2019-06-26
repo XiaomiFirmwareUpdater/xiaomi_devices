@@ -11,9 +11,7 @@
     "3G bands": "HSDPA 900 / 2100 - India",
     "info": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800), 40(2300) - Global",
     "4G bands": "LTE band 3(1800), 5(850), 40(2300) - India",
-    "Speed": "HSPA, LTE",
-    "GPRS": "Yes",
-    "EDGE": "Yes"
+    "Speed": "HSPA, LTE"
    }
   ],
   "Launch": [

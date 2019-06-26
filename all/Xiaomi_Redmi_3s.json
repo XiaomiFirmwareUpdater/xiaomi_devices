@@ -10,9 +10,7 @@
     "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
     "3G bands": "HSDPA 900 / 2100 ",
     "4G bands": "LTE band 3(1800), 5(850), 40(2300) - India",
-    "Speed": "HSPA, LTE",
-    "GPRS": "Yes",
-    "EDGE": "Yes"
+    "Speed": "HSPA, LTE"
    }
   ],
   "Launch": [

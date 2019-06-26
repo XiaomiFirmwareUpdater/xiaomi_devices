@@ -11,9 +11,7 @@
     "info": "CDMA 800 & TD-SCDMA",
     "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
     "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-    "Speed": "HSPA, LTE",
-    "GPRS": "Yes",
-    "EDGE": "Yes"
+    "Speed": "HSPA, LTE"
    }
   ],
   "Launch": [

@@ -11,9 +11,7 @@
     "info": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 38(2600), 39(1900), 40(2300), 41(2500) - Mediatek model",
     "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
     "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500) - Snapdragon model",
-    "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps",
-    "GPRS": "Yes",
-    "EDGE": "Yes"
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps"
    }
   ],
   "Launch": [

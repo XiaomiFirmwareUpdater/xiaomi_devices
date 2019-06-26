@@ -11,9 +11,7 @@
     "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - Global",
     "info": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 28(700), 40(2300) - Special edition (Taiwan)",
     "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 38(2600), 39(1900), 40(2300), 41(2500) - Global",
-    "Speed": "HSPA 42.2/5.76 Mbps, LTE-A Cat6 300/50 Mbps",
-    "GPRS": "Yes",
-    "EDGE": "Yes"
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE-A Cat6 300/50 Mbps"
    }
   ],
   "Launch": [

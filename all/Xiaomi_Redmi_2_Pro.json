@@ -10,9 +10,7 @@
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
     "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
     "4G bands": "LTE band 2(1900), 4(1700/2100), 7(2600)",
-    "Speed": "HSPA, LTE Cat4 150/50 Mbps",
-    "GPRS": "Yes",
-    "EDGE": "Yes"
+    "Speed": "HSPA, LTE Cat4 150/50 Mbps"
    }
   ],
   "Launch": [

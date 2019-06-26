@@ -9,9 +9,7 @@
     "Technology": "GSM / HSPA",
     "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
     "3G bands": "HSDPA 900 / 2100 ",
-    "Speed": "HSPA",
-    "GPRS": "Yes",
-    "EDGE": "Yes"
+    "Speed": "HSPA"
    }
   ],
   "Launch": [
