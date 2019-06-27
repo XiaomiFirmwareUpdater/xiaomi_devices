@@ -40,7 +40,7 @@
    {
     "OS": "Android 9.0 (Pie); MIUI 10",
     "Chipset": "Qualcomm SDM712 Snapdragon 712 (10 nm)",
-    "CPU": "Octa-core 2.3 GHz",
+    "CPU": "Octa-core (2x2.3 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver)",
     "GPU": "Adreno 616"
    }
   ],
