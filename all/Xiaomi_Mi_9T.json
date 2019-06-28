@@ -96,6 +96,16 @@
     "Colors": "Carbon black, Red flame, Glacier blue",
     "Price": "About 300 EUR"
    }
+  ],
+  "Tests": [
+   {
+    "Performance": "\nBasemark OS II: 3802 / Basemark OS II 2.0: 3102Basemark X: 31318",
+    "Display": "\nContrast ratio: Infinite (nominal)",
+    "Camera": "\nPhoto / Video",
+    "Loudspeaker": "\nVoice 70dB / Noise 74dB / Ring 81dB\n",
+    "Audio quality": "\nNoise -93.5dB / Crosstalk -93.8dB",
+    "Battery life": "\n\nEndurance rating 100h\n\n"
+   }
   ]
  }
 }
