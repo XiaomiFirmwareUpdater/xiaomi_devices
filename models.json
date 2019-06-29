@@ -242,6 +242,14 @@
   }
  },
  {
+  "codename": "raphael",
+  "internal_name": "F11",
+  "name": "Mi 9T Pro",
+  "models": {
+   "M1903F11G": "Mi 9T Pro Global"
+  }
+ },
+ {
   "codename": "virgo",
   "internal_name": "X5",
   "name": "Mi Note",
