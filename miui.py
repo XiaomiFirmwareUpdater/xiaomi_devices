@@ -20,10 +20,8 @@ def main():
     info = {}
     for i in data:
         codename = i['codename']
-        if '_' in codename:
-            continue
         version = i['version']
-        miui_code = version.split('.')[-1][1:3]
+        miui_code = version.split('.')[-1][1:5]
         info.update({codename: miui_code})
     sorted_data = OrderedDict(sorted(info.items()))
     with open('miui.json', 'w') as output:
