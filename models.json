@@ -374,6 +374,23 @@
   }
  },
  {
+  "codename": "",
+  "internal_name": "F3B",
+  "name": "Mi CC9:",
+  "models": {
+   "M1904F3BC": "Mi CC9 China",
+   "M1904F3BT": "Mi CC9 Meitu Edition"
+  }
+ },
+ {
+  "codename": "",
+  "internal_name": "F9S",
+  "name": "Mi CC9e:",
+  "models": {
+   "M1906F9SC": "Mi CC9e China"
+  }
+ },
+ {
   "codename": "lotus",
   "internal_name": "F9",
   "name": "Mi Play",
