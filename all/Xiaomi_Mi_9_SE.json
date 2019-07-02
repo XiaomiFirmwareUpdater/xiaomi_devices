@@ -96,8 +96,12 @@
   "Misc": [
    {
     "Colors": "Violet, Blue, Gray",
-    "Models": "Mi 9 SE",
     "Price": "About 280 EUR"
+   }
+  ],
+  "Tests": [
+   {
+    "Camera": "\nPhoto / Video"
    }
   ]
  }

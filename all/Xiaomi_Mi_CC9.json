@@ -1,0 +1,102 @@
+{
+ "name": "Xiaomi Mi CC9",
+ "codename": "",
+ "picture": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-cc9-.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_mi_cc9-9749.php",
+ "specs": {
+  "Network": [
+   {
+    "Technology": "GSM / CDMA / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "info": "CDMA 800 & TD-SCDMA",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
+    "4G bands": "LTE band 1(2100), 3(1800), 5(850), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE-A"
+   }
+  ],
+  "Launch": [
+   {
+    "Announced": "2019, July",
+    "Status": "Coming soon. Exp. release 2019, July"
+   }
+  ],
+  "Body": [
+   {
+    "Dimensions": "156.8 x 74.5 x 8.7 mm (6.17 x 2.93 x 0.34 in)",
+    "Weight": "179 g (6.31 oz)",
+    "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+   }
+  ],
+  "Display": [
+   {
+    "Type": "Super AMOLED capacitive touchscreen, 16M colors",
+    "Size": "6.39 inches, 100.2 cm2 (~85.8% screen-to-body ratio)",
+    "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
+    "Protection": "Corning Gorilla Glass 5",
+    "info": "HDR"
+   }
+  ],
+  "Platform": [
+   {
+    "OS": "Android 9.0 (Pie); MIUI 10",
+    "Chipset": "Qualcomm SDM710 Snapdragon 710 (10 nm)",
+    "CPU": "Octa-core (2x2.2 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver)",
+    "GPU": "Adreno 616"
+   }
+  ],
+  "Memory": [
+   {
+    "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+    "Internal": "64/128 GB, 6 GB RAM or 256 GB, 8 GB RAM (CC9mt only)"
+   }
+  ],
+  "Main Camera": [
+   {
+    "Triple": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\n8 MP, (ultrawide)\r\n2 MP, depth sensor",
+    "Features": "LED flash, HDR, panorama",
+    "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps"
+   }
+  ],
+  "Selfie camera": [
+   {
+    "Single": "32 MP, f/2.0, 0.8\u00b5m",
+    "Features": "HDR",
+    "Video": "1080p@30fps"
+   }
+  ],
+  "Sound": [
+   {
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "info": "Active noise cancellation with dedicated mic"
+   }
+  ],
+  "Comms": [
+   {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+    "Bluetooth": "5.0, A2DP, LE, aptX HD",
+    "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS",
+    "NFC": "Yes",
+    "Infrared port": "Yes",
+    "Radio": "FM radio",
+    "USB": "2.0, Type-C 1.0 reversible connector"
+   }
+  ],
+  "Features": [
+   {
+    "Sensors": "Fingerprint (under display), accelerometer, gyro, proximity, compass"
+   }
+  ],
+  "Battery": [
+   {
+    "info": "Non-removable Li-Po 4030 mAh battery",
+    "Charging": "Fast battery charging 18W"
+   }
+  ],
+  "Misc": [
+   {
+    "Colors": "Black, Blue, White"
+   }
+  ]
+ }
+}
