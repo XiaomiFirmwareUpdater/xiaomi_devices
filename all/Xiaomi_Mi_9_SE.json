@@ -101,7 +101,10 @@
   ],
   "Tests": [
    {
-    "Camera": "\nPhoto / Video"
+    "Performance": "\nBasemark OS II 2.0: 2841 / Basemark X: 30100",
+    "Camera": "\nPhoto / Video",
+    "Loudspeaker": "\nVoice 86dB / Noise 79dB / Ring 87dB\n",
+    "Battery life": "\n\nEndurance rating 73h\n\n"
    }
   ]
  }
