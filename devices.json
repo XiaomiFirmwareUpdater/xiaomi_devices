@@ -25,7 +25,7 @@
  ],
  "davinci": [
   "Redmi K20 / Mi 9T",
-  "HMK20"
+  "HMK20MI9T"
  ],
  "dipper": [
   "Mi 8",
@@ -99,9 +99,9 @@
   "Mi Max 3",
   "MIMAX3"
  ],
- "HMPro": [
+ "omega": [
   "Redmi Pro",
-  "omega"
+  "HMPro"
  ],
  "onclite": [
   "Redmi 7",
@@ -133,7 +133,7 @@
  ],
  "raphael": [
   "Redmi K20 Pro / Mi 9T Pro",
-  "HMK20Pro"
+  "HMK20ProMI9TPro"
  ],
  "riva": [
   "Redmi 5A",
