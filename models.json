@@ -374,18 +374,25 @@
   }
  },
  {
-  "codename": "",
+  "codename": "pyxis",
   "internal_name": "F3B",
-  "name": "Mi CC 9:",
+  "name": "Mi CC 9",
   "models": {
-   "M1904F3BC": "Mi CC 9 China",
+   "M1904F3BC": "Mi CC 9 China"
+  }
+ },
+ {
+  "codename": "vela",
+  "internal_name": "F3M",
+  "name": "Mi CC 9 Meitu Edition",
+  "models": {
    "M1904F3BT": "Mi CC 9 Meitu Edition"
   }
  },
  {
-  "codename": "",
+  "codename": "laurus",
   "internal_name": "F9S",
-  "name": "Mi CC 9e:",
+  "name": "Mi CC 9e",
   "models": {
    "M1906F9SC": "Mi CC 9e China"
   }
