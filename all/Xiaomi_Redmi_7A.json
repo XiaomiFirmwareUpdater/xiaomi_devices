@@ -1,7 +1,7 @@
 {
  "name": "Xiaomi Redmi 7A",
  "codename": "pine",
- "picture": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-7a.jpg",
+ "picture": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-7a-mzb8008in.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_7a-9716.php",
  "specs": {
   "Network": [
@@ -9,7 +9,8 @@
     "Technology": "GSM / HSPA / LTE",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
     "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
-    "4G bands": "LTE band 1(2100), 3(1800), 5(850), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
+    "4G bands": "LTE band 1(2100), 3(1800), 5(850), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
+    "info": "LTE band 1(2100), 3(1800), 5(850), 8(900), 40(2300), 41(2500) - India",
     "Speed": "HSPA, LTE-A"
    }
   ],
@@ -24,7 +25,7 @@
     "Dimensions": "146.3 x 70.4 x 9.6 mm (5.76 x 2.77 x 0.38 in)",
     "Weight": "165 g (5.82 oz)",
     "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
-    "info": "- Splash resistant"
+    "info": "Splash resistant"
    }
   ],
   "Display": [
@@ -50,14 +51,14 @@
   ],
   "Main Camera": [
    {
-    "Single": "13 MP, f/2.2, 1.12\u00b5m, PDAF",
+    "Single": "13 MP, f/2.2, 1.12\u00b5m, PDAF - China\r\nor\r\n12 MP, f/2.2, 1/2.9\", 1.25\u00b5m, PDAF - India",
     "Features": "LED flash, HDR",
     "Video": "1080p@30fps"
    }
   ],
   "Selfie camera": [
    {
-    "Single": "5 MP",
+    "Single": "5 MP, f/2.2, 1.12\u00b5m",
     "Features": "HDR",
     "Video": "1080p@30fps"
    }
@@ -86,13 +87,14 @@
   "Battery": [
    {
     "info": "Non-removable Li-Po 4000 mAh battery",
-    "Charging": "Fast battery charging 10W"
+    "Charging": "Fast battery charging 10W - China only"
    }
   ],
   "Misc": [
    {
-    "Colors": "Matte Black, Morning blue",
-    "Models": "Redmi 7A",
+    "Colors": "Matte Black, Morning blue, Matte Blue, Matte Gold",
+    "Models": "MZB7995IN",
+    "SAR": "0.74 W/kg (head) \u00a0 \u00a0 0.79 W/kg (body) \u00a0 \u00a0 ",
     "Price": "About 100 EUR"
    }
   ]
