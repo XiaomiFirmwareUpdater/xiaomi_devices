@@ -564,18 +564,6 @@
   }
  },
  {
-  "amelie": {
-   "name": "Mi TV 4A",
-   "model": "MiTV-MSSP0"
-  }
- },
- {
-  "nino": {
-   "name": "Mi TV 4S",
-   "model": "MiTV-MSSP1"
-  }
- },
- {
   "casablanca": {
    "name": "MiBOX1S",
    "model": "MiBOX1S"
@@ -606,6 +594,12 @@
   }
  },
  {
+  "amelie": {
+   "name": "MiTV",
+   "model": "MiTV-MSSP0"
+  }
+ },
+ {
   "dangal": {
    "name": "MiTV",
    "model": "MiTV-AXSO0"
@@ -621,6 +615,12 @@
   "dangalUHD": {
    "name": "MiTV",
    "model": "MiTV-AXSO2"
+  }
+ },
+ {
+  "nino": {
+   "name": "MiTV",
+   "model": "MiTV-MSSP1"
   }
  },
  {
