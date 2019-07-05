@@ -95,7 +95,8 @@
   "Misc": [
    {
     "Colors": "Black, Gold",
-    "Models": "Redmi 4X, Redmi 4",
+    "Models": "2016060, 2016090, MAG138, MAE136",
+    "SAR": "0.77 W/kg (head) \u00a0 \u00a0 0.83 W/kg (body) \u00a0 \u00a0 ",
     "Price": "About 110 EUR"
    }
   ],

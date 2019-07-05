@@ -24,6 +24,7 @@
    {
     "Dimensions": "147.5 x 70.5 x 7.5 mm (5.81 x 2.78 x 0.30 in)",
     "Weight": "155 g (5.47 oz)",
+    "Build": "Front/back glass, aluminum frame",
     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
    }
   ],
@@ -96,6 +97,8 @@
   "Misc": [
    {
     "Colors": "Violet, Blue, Gray",
+    "Models": "M1903F2G",
+    "SAR": "1.39 W/kg (head) \u00a0 \u00a0 1.39 W/kg (body) \u00a0 \u00a0 ",
     "Price": "About 280 EUR"
    }
   ],

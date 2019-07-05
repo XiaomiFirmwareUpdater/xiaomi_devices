@@ -94,7 +94,8 @@
   "Misc": [
    {
     "Colors": "Gold, Matte Black",
-    "Models": "MI MAX 2",
+    "Models": "MDE40, MDI40",
+    "SAR": "1.22 W/kg (head) \u00a0 \u00a0 0.71 W/kg (body) \u00a0 \u00a0 ",
     "Price": "About 200 EUR"
    }
   ],

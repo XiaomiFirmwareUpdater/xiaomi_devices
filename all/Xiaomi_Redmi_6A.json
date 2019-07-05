@@ -24,6 +24,7 @@
    {
     "Dimensions": "147.5 x 71.5 x 8.3 mm (5.81 x 2.81 x 0.33 in)",
     "Weight": "145 g (5.11 oz)",
+    "Build": "Plastic body",
     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
    }
   ],
@@ -90,7 +91,8 @@
   "Misc": [
    {
     "Colors": "Black, Grey, Blue, Gold, Rose Gold",
-    "Models": "Redmi 6A",
+    "Models": "M1804C3CG, M1804C3CH, M1804C3CI",
+    "SAR": "0.66 W/kg (head) \u00a0 \u00a0 1.52 W/kg (body) \u00a0 \u00a0 ",
     "Price": "About 90 EUR"
    }
   ]

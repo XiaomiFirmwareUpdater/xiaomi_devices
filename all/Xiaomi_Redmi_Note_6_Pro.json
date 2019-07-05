@@ -24,6 +24,7 @@
    {
     "Dimensions": "157.9 x 76.4 x 8.3 mm (6.22 x 3.01 x 0.33 in)",
     "Weight": "182 g (6.42 oz)",
+    "Build": "Front glass, plastic frame, aluminum back",
     "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)"
    }
   ],
@@ -94,7 +95,8 @@
   "Misc": [
    {
     "Colors": "Black, Blue, Rose Gold, Red",
-    "Models": "Redmi Note 6 Pro",
+    "Models": "M1806E7TG, M1806E7TH, M1806E7TI",
+    "SAR": "0.76 W/kg (head) \u00a0 \u00a0 1.48 W/kg (body) \u00a0 \u00a0 ",
     "Price": "About 160 EUR"
    }
   ],

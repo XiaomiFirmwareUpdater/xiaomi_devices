@@ -24,6 +24,7 @@
    {
     "Dimensions": "149.3 x 71.7 x 8.8 mm (5.88 x 2.82 x 0.35 in)",
     "Weight": "178 g (6.28 oz)",
+    "Build": "Front glass, aluminum body",
     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
    }
   ],
@@ -93,7 +94,8 @@
   "Misc": [
    {
     "Colors": "Black, Blue, Gold (Global); Rose Gold, Red (China only)",
-    "Models": "Mi A2 Lite, Redmi 6 Pro",
+    "Models": "M1805D1SG",
+    "SAR": "0.55 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
     "Price": "About 180 EUR"
    }
   ],

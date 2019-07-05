@@ -93,8 +93,8 @@
   "Misc": [
    {
     "Colors": "Gray, Silver, Gold",
-    "Models": "MI MAX",
-    "SAR": "0.84 W/kg (head) \u00a0 \u00a0 0.63 W/kg (body) \u00a0 \u00a0 ",
+    "Models": "2016001, 2016002, 2016007",
+    "SAR": "0.49 W/kg (head) \u00a0 \u00a0 1.13 W/kg (body) \u00a0 \u00a0 ",
     "Price": "About 150 EUR"
    }
   ],

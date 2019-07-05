@@ -92,7 +92,8 @@
   "Misc": [
    {
     "Colors": "Gold, Dark Gray, Silver",
-    "Models": "Redmi 3S",
+    "Models": "2016031",
+    "SAR": "0.22 W/kg (head) \u00a0 \u00a0 1.22 W/kg (body) \u00a0 \u00a0 ",
     "SAR EU": "0.62 W/kg (head) \u00a0 \u00a0 0.43 W/kg (body) \u00a0 \u00a0 ",
     "Price": "About 120 EUR"
    }

@@ -24,6 +24,7 @@
    {
     "Dimensions": "147.5 x 71.5 x 8.3 mm (5.81 x 2.81 x 0.33 in)",
     "Weight": "146 g (5.15 oz)",
+    "Build": "Plastic body",
     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
    }
   ],
@@ -90,7 +91,8 @@
   "Misc": [
    {
     "Colors": "Black, Grey, Blue, Gold, Rose Gold",
-    "Models": "Redmi 6",
+    "Models": "M1804C3DG, M1804C3DH, M1804C3DI",
+    "SAR": "0.55 W/kg (head) \u00a0 \u00a0 1.42 W/kg (body) \u00a0 \u00a0 ",
     "Price": "About 120 EUR"
    }
   ]

@@ -93,7 +93,8 @@
   "Misc": [
    {
     "Colors": "Black, White, Yellow, Pink, Green",
-    "Models": "2014818, 2014817, 2014811, 2014813, wt88047, 2014819, 2014812",
+    "Models": "2014817, 2014818",
+    "SAR": "0.70 W/kg (head) \u00a0 \u00a0 0.70 W/kg (body) \u00a0 \u00a0 ",
     "Price": "About 130 EUR"
    }
   ],

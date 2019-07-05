@@ -94,7 +94,7 @@
    "Misc": [
     {
      "Colors": "Matte Black, Morning blue, Matte Blue, Matte Gold",
-     "Models": "MZB7995IN",
+     "Models": "MZB7995IN, M1903C3EG, M1903C3EH, M1903C3EI",
      "SAR": "0.74 W/kg (head) \u00a0 \u00a0 0.79 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 100 EUR"
     }
@@ -401,6 +401,8 @@
    "Misc": [
     {
      "Colors": "Carbon black, Red flame, Glacier blue",
+     "Models": "M1903F10G",
+     "SAR": "1.34 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 300 EUR"
     }
    ],
@@ -441,6 +443,7 @@
     {
      "Dimensions": "156.7 x 74.3 x 8.8 mm (6.17 x 2.93 x 0.35 in)",
      "Weight": "191 g (6.74 oz)",
+     "Build": "Front/back glass, aluminum frame",
      "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
     }
    ],
@@ -512,6 +515,8 @@
    "Misc": [
     {
      "Colors": "Carbon black, Red flame, Glacier blue",
+     "Models": "M1903F10I",
+     "SAR": "1.07 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 260 EUR"
     }
    ]
@@ -613,6 +618,8 @@
    "Misc": [
     {
      "Colors": "Carbon black, Flame red, Glacier blue",
+     "Models": "M1903F11I",
+     "SAR": "1.03 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 350 EUR"
     }
    ]
@@ -715,7 +722,7 @@
    "Misc": [
     {
      "Colors": "Onyx Black, Sapphire Blue, Ruby Red",
-     "Models": "Redmi Note 7s, M1901F71, Redmi Note 7S",
+     "Models": "M1901F71",
      "Price": "About 140 EUR"
     }
    ]
@@ -733,7 +740,8 @@
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 28(700), 38(2600), 40(2300)",
-     "Speed": "HSPA, LTE-A"
+     "info": "LTE band 1(2100), 3(1800), 5(850), 8(900), 40(2300), 41(2500) - India",
+     "Speed": "HSPA, LTE-A "
     }
    ],
    "Launch": [
@@ -746,6 +754,7 @@
     {
      "Dimensions": "158.7 x 75.6 x 8.5 mm (6.25 x 2.98 x 0.33 in)",
      "Weight": "180 g (6.35 oz)",
+     "Build": "Front glass, plastic body",
      "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
      "info": "Splash resistant"
     }
@@ -800,7 +809,7 @@
      "GPS": "Yes, with A-GPS, GLONASS, GALILEO",
      "Infrared port": "Yes",
      "Radio": "FM radio",
-     "USB": "2.0, Type-C 1.0 reversible connector, USB On-The-Go"
+     "USB": "microUSB 2.0, USB On-The-Go"
     }
    ],
    "Features": [
@@ -817,7 +826,8 @@
    "Misc": [
     {
      "Colors": "Elegant Blue, Bold Red, Prime Black",
-     "Models": "Redmi Y3",
+     "Models": "M1810F6G, M1810F6I",
+     "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.25 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 10000 INR"
     }
    ]
@@ -849,6 +859,7 @@
     {
      "Dimensions": "163.6 x 75 x 8.8 mm (6.44 x 2.95 x 0.35 in)",
      "Weight": "205 g (7.23 oz)",
+     "Build": "Front glass, aluminum body",
      "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
     }
    ],
@@ -1021,7 +1032,8 @@
    "Misc": [
     {
      "Colors": "Lunar Red, Eclipse Black, Comet Blue",
-     "Models": "Redmi 7",
+     "Models": "M1810F6LG, M1810F6LH, M1810F6LI",
+     "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.25 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 130 EUR"
     }
    ]
@@ -1123,7 +1135,8 @@
    "Misc": [
     {
      "Colors": "Nebula Red, Neptune Blue, Space Black",
-     "Models": "Redmi Note 7 Pro",
+     "Models": "M1901F7S",
+     "SAR": "0.96 W/kg (head) \u00a0 \u00a0 0.84 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 260 EUR"
     }
    ]
@@ -1228,6 +1241,8 @@
    "Misc": [
     {
      "Colors": "Sapphire Blue, Onyx Black",
+     "Models": "M1810E5GG",
+     "SAR": "1.56 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 600 EUR"
     }
    ]
@@ -1332,7 +1347,6 @@
    "Misc": [
     {
      "Colors": "Transparent Black",
-     "Models": "MI 9 Transparent Edition",
      "Price": "About 530 EUR"
     }
    ]
@@ -1364,6 +1378,7 @@
     {
      "Dimensions": "147.5 x 70.5 x 7.5 mm (5.81 x 2.78 x 0.30 in)",
      "Weight": "155 g (5.47 oz)",
+     "Build": "Front/back glass, aluminum frame",
      "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
     }
    ],
@@ -1436,6 +1451,8 @@
    "Misc": [
     {
      "Colors": "Violet, Blue, Gray",
+     "Models": "M1903F2G",
+     "SAR": "1.39 W/kg (head) \u00a0 \u00a0 1.39 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 280 EUR"
     }
    ],
@@ -1550,7 +1567,8 @@
    "Misc": [
     {
      "Colors": "Lavender Violet, Ocean Blue, Piano Black",
-     "Models": "MI 9",
+     "Models": "M1902F1G",
+     "SAR": "1.39 W/kg (head) \u00a0 \u00a0 1.30 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 420 EUR"
     }
    ],
@@ -1658,7 +1676,8 @@
    "Misc": [
     {
      "Colors": "Black, Blue",
-     "Models": "Redmi Go",
+     "Models": "M1903C3GG, M1903C3GH, M1903C3GI",
+     "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.50 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 80 EUR"
     }
    ]
@@ -1761,7 +1780,8 @@
    "Misc": [
     {
      "Colors": "Blue, Black, Twilight Gold",
-     "Models": "Redmi Note 7",
+     "Models": "M1901F7G, M1901F7H, M1901F7I",
+     "SAR": "0.59 W/kg (head) \u00a0 \u00a0 1.27 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 180 EUR"
     }
    ],
@@ -1870,7 +1890,8 @@
    "Misc": [
     {
      "Colors": "Dream Blue, Twilight Gold, Black",
-     "Models": "MI PLAY",
+     "Models": "M1901F9E",
+     "SAR": "0.67 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 170 EUR"
     }
    ]
@@ -2074,7 +2095,8 @@
    "Misc": [
     {
      "Colors": "Jade Green, Sapphire Blue, Onyx Black, Forbidden City Blue (10 GB only)",
-     "Models": "Mi MIX 3, MIX 3",
+     "Models": "M1810E5A",
+     "SAR": "1.45 W/kg (head) \u00a0 \u00a0 1.57 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 560 EUR"
     }
    ],
@@ -2116,6 +2138,7 @@
     {
      "Dimensions": "157.9 x 76.4 x 8.3 mm (6.22 x 3.01 x 0.33 in)",
      "Weight": "182 g (6.42 oz)",
+     "Build": "Front glass, plastic frame, aluminum back",
      "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)"
     }
    ],
@@ -2186,7 +2209,8 @@
    "Misc": [
     {
      "Colors": "Black, Blue, Rose Gold, Red",
-     "Models": "Redmi Note 6 Pro",
+     "Models": "M1806E7TG, M1806E7TH, M1806E7TI",
+     "SAR": "0.76 W/kg (head) \u00a0 \u00a0 1.48 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 160 EUR"
     }
    ],
@@ -2299,7 +2323,8 @@
    "Misc": [
     {
      "Colors": "Black (transparent back), Meteorite black, Twilight Gold",
-     "Models": "MI 8 Pro, MI 8 UD",
+     "Models": "M1807E8A",
+     "SAR": "0.97 W/kg (head) \u00a0 \u00a0 1.53 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 500 EUR"
     }
    ]
@@ -2400,7 +2425,8 @@
    "Misc": [
     {
      "Colors": "Midnight Black, Aurora Blue, Twilight Gold (China only)",
-     "Models": "MI 8 Lite",
+     "Models": "M1808D2TG",
+     "SAR": "0.75 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 230 EUR"
     }
    ],
@@ -2511,7 +2537,8 @@
    "Misc": [
     {
      "Colors": "Graphite Black, Steel Blue, Rosso Red, Armored Edition with Kevlar",
-     "Models": "POCOPHONE F1, POCO F1",
+     "Models": "M1805E10A",
+     "SAR": "0.54 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 270 EUR"
     }
    ],
@@ -2623,7 +2650,8 @@
    "Misc": [
     {
      "Colors": "Black, Gold, Blue, Red, Rose Gold",
-     "Models": "Mi A2, MI 6X",
+     "Models": "M1804D2SG, M1804D2SI",
+     "SAR": "0.96 W/kg (head) \u00a0 \u00a0 0.64 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 190 EUR"
     }
    ],
@@ -2663,6 +2691,7 @@
     {
      "Dimensions": "149.3 x 71.7 x 8.8 mm (5.88 x 2.82 x 0.35 in)",
      "Weight": "178 g (6.28 oz)",
+     "Build": "Front glass, aluminum body",
      "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
     }
    ],
@@ -2732,7 +2761,8 @@
    "Misc": [
     {
      "Colors": "Black, Blue, Gold (Global); Rose Gold, Red (China only)",
-     "Models": "Mi A2 Lite, Redmi 6 Pro",
+     "Models": "M1805D1SG",
+     "SAR": "0.55 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 180 EUR"
     }
    ],
@@ -2844,7 +2874,8 @@
    "Misc": [
     {
      "Colors": "Black, Champagne Gold, Blue",
-     "Models": "MI MAX 3",
+     "Models": "M1804E4A",
+     "SAR": "1.58 W/kg (head) \u00a0 \u00a0 1.42 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 230 EUR"
     }
    ],
@@ -2954,7 +2985,6 @@
    "Misc": [
     {
      "Colors": "Black, Rose Gold",
-     "Models": "MI PAD 4",
      "Price": "About 160 EUR"
     }
    ]
@@ -3054,7 +3084,6 @@
    "Misc": [
     {
      "Colors": "Black, Rose Gold",
-     "Models": "MI PAD 4 PLUS",
      "Price": "About 260 EUR"
     }
    ]
@@ -3086,6 +3115,7 @@
     {
      "Dimensions": "147.5 x 71.5 x 8.3 mm (5.81 x 2.81 x 0.33 in)",
      "Weight": "146 g (5.15 oz)",
+     "Build": "Plastic body",
      "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
     }
    ],
@@ -3152,7 +3182,8 @@
    "Misc": [
     {
      "Colors": "Black, Grey, Blue, Gold, Rose Gold",
-     "Models": "Redmi 6",
+     "Models": "M1804C3DG, M1804C3DH, M1804C3DI",
+     "SAR": "0.55 W/kg (head) \u00a0 \u00a0 1.42 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 120 EUR"
     }
    ]
@@ -3184,6 +3215,7 @@
     {
      "Dimensions": "147.5 x 71.5 x 8.3 mm (5.81 x 2.81 x 0.33 in)",
      "Weight": "145 g (5.11 oz)",
+     "Build": "Plastic body",
      "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
     }
    ],
@@ -3250,7 +3282,8 @@
    "Misc": [
     {
      "Colors": "Black, Grey, Blue, Gold, Rose Gold",
-     "Models": "Redmi 6A",
+     "Models": "M1804C3CG, M1804C3CH, M1804C3CI",
+     "SAR": "0.66 W/kg (head) \u00a0 \u00a0 1.52 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 90 EUR"
     }
    ]
@@ -3353,7 +3386,6 @@
    "Misc": [
     {
      "Colors": "Black (transparent back)",
-     "Models": "MI 8 Explorer Edition",
      "Price": "About 400 EUR"
     }
    ]
@@ -3456,7 +3488,8 @@
    "Misc": [
     {
      "Colors": "Black, Blue, White, Gold",
-     "Models": "MI 8",
+     "Models": "M1803E1A",
+     "SAR": "0.70 W/kg (head) \u00a0 \u00a0 1.66 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 380 EUR"
     }
    ],
@@ -3568,7 +3601,6 @@
    "Misc": [
     {
      "Colors": "Gray, Blue, Red, Gold",
-     "Models": "MI 8 SE",
      "Price": "About 260 EUR"
     }
    ],
@@ -3680,7 +3712,8 @@
    "Misc": [
     {
      "Colors": "Gray, Gold, Rose Gold, Mesmerising Blue, Stunning Black",
-     "Models": "Redmi S2, Redmi Y2",
+     "Models": "M1803E6G, M1803E6H, M1803E6I",
+     "SAR": "0.43 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 150 EUR"
     }
    ],
@@ -3792,7 +3825,8 @@
    "Misc": [
     {
      "Colors": "Black, White",
-     "Models": "Mi MIX 2S, MIX 2S",
+     "Models": "M1803D5XA",
+     "SAR": "0.54 W/kg (head) \u00a0 \u00a0 1.59 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 400 EUR"
     }
    ],
@@ -3903,6 +3937,7 @@
    "Misc": [
     {
      "Colors": "Black, Gold, Rose Gold, Blue, Flame Red",
+     "Models": "M1803E7SG, M1803E7SH",
      "SAR": "0.79 W/kg (head) \u00a0 \u00a0 1.03 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 180 EUR"
     }
@@ -4015,7 +4050,7 @@
    "Misc": [
     {
      "Colors": "Black, Champagne Gold, Rose Gold, Lake Blue",
-     "Models": "Redmi Note 5 Pro",
+     "Models": "MEI7S, MEI7",
      "SAR": "1.19 W/kg (head) \u00a0 \u00a0 0.33 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 180 EUR"
     }
@@ -4217,7 +4252,8 @@
    "Misc": [
     {
      "Colors": "Black, Gold, Blue, Rose Gold",
-     "Models": "Redmi Note 5, Redmi 5 Plus",
+     "Models": "MEG7, MEI7",
+     "SAR": "1.01 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 160 EUR"
     }
    ],
@@ -4329,7 +4365,8 @@
    "Misc": [
     {
      "Colors": "Black, Gold, Light Blue, Rose Gold",
-     "Models": "Redmi 5",
+     "Models": "MDG1, MDI1",
+     "SAR": "0.53 W/kg (head) \u00a0 \u00a0 1.53 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 160 EUR"
     }
    ],
@@ -4439,7 +4476,8 @@
    "Misc": [
     {
      "Colors": "Gold, Dark Gray, Rose Gold, Blue",
-     "Models": "Redmi 5A",
+     "Models": "MCG3B, MCI3B",
+     "SAR": "0.53 W/kg (head) \u00a0 \u00a0 1.23 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 110 EUR"
     }
    ]
@@ -4542,7 +4580,8 @@
    "Misc": [
     {
      "Colors": "Gold, Dark Grey, Silver, Rose Gold",
-     "Models": "Redmi Note 5A, Redmi Y1, Redmi Note 5A Prime",
+     "Models": "MDI6S",
+     "SAR": "1.09 W/kg (head) \u00a0 \u00a0 1.44 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 140 EUR"
     }
    ],
@@ -4655,7 +4694,8 @@
    "Misc": [
     {
      "Colors": "Gold, Dark Grey, Silver, Rose Gold",
-     "Models": "Redmi Y1 Lite",
+     "Models": "MDI6",
+     "SAR": "1.53 W/kg (head) \u00a0 \u00a0 1.32 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 90 EUR"
     }
    ]
@@ -4758,7 +4798,8 @@
    "Misc": [
     {
      "Colors": "Black, Blue (128/6 only)",
-     "Models": "Mi Note 3",
+     "Models": "MCE8",
+     "SAR": "0.50 W/kg (head) \u00a0 \u00a0 1.54 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 280 EUR"
     }
    ]
@@ -4860,7 +4901,8 @@
    "Misc": [
     {
      "Colors": "Black, White",
-     "Models": "Mi MIX 2, MIX 2",
+     "Models": "MDE5",
+     "SAR": "0.39 W/kg (head) \u00a0 \u00a0 1.77 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 410 EUR"
     }
    ],
@@ -4970,7 +5012,8 @@
    "Misc": [
     {
      "Colors": "Black, Gold, Rose Gold, Red",
-     "Models": "Mi A1, MI 5X",
+     "Models": "MDG2, MDI2",
+     "SAR": "1.75 W/kg (head) \u00a0 \u00a0 0.76 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 170 EUR"
     }
    ],
@@ -5082,7 +5125,8 @@
    "Misc": [
     {
      "Colors": "Gold, Matte Black",
-     "Models": "MI MAX 2",
+     "Models": "MDE40, MDI40",
+     "SAR": "1.22 W/kg (head) \u00a0 \u00a0 0.71 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 200 EUR"
     }
    ],
@@ -5195,7 +5239,8 @@
    "Misc": [
     {
      "Colors": "Black, Gold",
-     "Models": "Redmi 4X, Redmi 4",
+     "Models": "2016060, 2016090, MAG138, MAE136",
+     "SAR": "0.77 W/kg (head) \u00a0 \u00a0 0.83 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 110 EUR"
     }
    ],
@@ -5308,7 +5353,8 @@
    "Misc": [
     {
      "Colors": "Ceramic Black, Black, Blue, White",
-     "Models": "MI 6",
+     "Models": "MCE16",
+     "SAR": "0.41 W/kg (head) \u00a0 \u00a0 1.55 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 330 EUR"
     }
    ],
@@ -5517,7 +5563,6 @@
    "Misc": [
     {
      "Colors": "Black, Gold, Rose Gold",
-     "Models": "MI 5C",
      "Price": "About 150 EUR"
     }
    ]
@@ -5617,7 +5662,6 @@
    "Misc": [
     {
      "Colors": "Platinum Silver, Champagne Gold, Matte Black, Hatsune Miku, Sakura Powder",
-     "Models": "Redmi Note 4X",
      "Price": "About 130 EUR"
     }
    ]
@@ -5716,7 +5760,8 @@
    "Misc": [
     {
      "Colors": "Dark Gray, Gold, Black, Lake Blue (64/4GB model)",
-     "Models": "Redmi Note 4",
+     "Models": "2016100",
+     "SAR": "0.72 W/kg (head) \u00a0 \u00a0 0.67 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 150 EUR"
     }
    ],
@@ -5825,7 +5870,8 @@
    "Misc": [
     {
      "Colors": "Gold, Rose Gold, Dark Gray",
-     "Models": "Redmi 4A",
+     "Models": "2016117",
+     "SAR": "0.53 W/kg (head) \u00a0 \u00a0 1.18 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 110 EUR"
     }
    ],
@@ -6030,7 +6076,6 @@
    "Misc": [
     {
      "Colors": "Gold, Dark Gray, Silver",
-     "Models": "Redmi 4 Prime",
      "Price": "About 160 EUR"
     }
    ],
@@ -6235,7 +6280,6 @@
    "Misc": [
     {
      "Colors": "Black, White",
-     "Models": "MIX, MI MIX",
      "Price": "About 390 EUR"
     }
    ],
@@ -6346,7 +6390,8 @@
    "Misc": [
     {
      "Colors": "Black, Gold, Silver",
-     "Models": "Mi Note 2",
+     "Models": "2015213",
+     "SAR": "0.78 W/kg (head) \u00a0 \u00a0 1.38 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 310 EUR"
     }
    ],
@@ -6458,7 +6503,8 @@
    "Misc": [
     {
      "Colors": "Silver, Gray, Gold, Rose Gold",
-     "Models": "MI 5s Plus",
+     "Models": "2016070",
+     "SAR": "1.16 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 310 EUR"
     }
    ],
@@ -6571,7 +6617,8 @@
    "Misc": [
     {
      "Colors": "Silver, Gray, Gold, Rose Gold",
-     "Models": "MI 5s",
+     "Models": "2015711",
+     "SAR": "0.77 W/kg (head) \u00a0 \u00a0 1.01 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 250 EUR"
     }
    ],
@@ -6789,7 +6836,6 @@
    "Misc": [
     {
      "Colors": "Silver, Gold, Gray",
-     "Models": "Redmi Pro",
      "Price": "About 170 EUR"
     }
    ],
@@ -6897,7 +6943,6 @@
    "Misc": [
     {
      "Colors": "Gold, Dark Gray, Silver",
-     "Models": "Redmi 3X",
      "Price": "About 170 EUR"
     }
    ]
@@ -7105,7 +7150,8 @@
    "Misc": [
     {
      "Colors": "Gold, Dark Gray, Silver",
-     "Models": "Redmi 3S",
+     "Models": "2016031",
+     "SAR": "0.22 W/kg (head) \u00a0 \u00a0 1.22 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.62 W/kg (head) \u00a0 \u00a0 0.43 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 120 EUR"
     }
@@ -7330,8 +7376,8 @@
    "Misc": [
     {
      "Colors": "Black, White, Gold, Ceramic",
-     "Models": "MI 5",
-     "SAR": "0.70 W/kg (head) \u00a0 \u00a0 1.42 W/kg (body) \u00a0 \u00a0 ",
+     "Models": "2015105",
+     "SAR": "0.38 W/kg (head) \u00a0 \u00a0 0.80 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 240 EUR"
     }
    ],
@@ -7442,8 +7488,8 @@
    "Misc": [
     {
      "Colors": "Gray, Silver, Gold",
-     "Models": "MI MAX",
-     "SAR": "0.84 W/kg (head) \u00a0 \u00a0 0.63 W/kg (body) \u00a0 \u00a0 ",
+     "Models": "2016001, 2016002, 2016007",
+     "SAR": "0.49 W/kg (head) \u00a0 \u00a0 1.13 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 150 EUR"
     }
    ],
@@ -7553,7 +7599,6 @@
    "Misc": [
     {
      "Colors": "Black, White, Gold, Pink",
-     "Models": "MI 4S",
      "Price": "About 220 EUR"
     }
    ],
@@ -7664,8 +7709,8 @@
    "Misc": [
     {
      "Colors": "Silver, Gray, Gold",
-     "Models": "Redmi Note 3",
-     "SAR": "1.26 W/kg (head) \u00a0 \u00a0 ",
+     "Models": "2015116, 2015161",
+     "SAR": "0.49 W/kg (head) \u00a0 \u00a0 0.50 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.56 W/kg (head) \u00a0 \u00a0 ",
      "Price": "About 160 EUR"
     }
@@ -7777,7 +7822,8 @@
    "Misc": [
     {
      "Colors": "Gold, Dark Gray, Silver, Classic Gold",
-     "Models": "Redmi 3",
+     "Models": "2015816",
+     "SAR": "0.90 W/kg (head) \u00a0 \u00a0 0.56 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "1.33 W/kg (head) \u00a0 \u00a0 ",
      "Price": "About 160 EUR"
     }
@@ -8196,7 +8242,6 @@
    "Misc": [
     {
      "Colors": "White, grey, pink, yellow, blue",
-     "Models": "Mi-4c",
      "Price": "About 210 EUR"
     }
    ],
@@ -8310,7 +8355,8 @@
    "Misc": [
     {
      "Colors": "White, blue, yellow, pink, mint green",
-     "Models": "Redmi Note 2",
+     "Models": "2015051",
+     "SAR": "0.34 W/kg (head) \u00a0 \u00a0 0.45 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 160 EUR"
     }
    ],
@@ -8418,7 +8464,6 @@
    "Misc": [
     {
      "Colors": "Dark gray",
-     "Models": "2014813",
      "Price": "About 100 EUR"
     }
    ]
@@ -8518,7 +8563,6 @@
    "Misc": [
     {
      "Colors": "White, Dark gray",
-     "Models": "2014813",
      "SAR": "1.00 W/kg (head) \u00a0 \u00a0 ",
      "Price": "About 120 EUR"
     }
@@ -8621,8 +8665,8 @@
    "Misc": [
     {
      "Colors": "Dark Gray, Black, White, Yellow, Blue, Pink",
-     "Models": "Mi 4i",
-     "SAR": "1.29 W/kg (head) \u00a0 \u00a0 ",
+     "Models": "2015015",
+     "SAR": "0.51 W/kg (head) \u00a0 \u00a0 0.60 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 260 EUR"
     }
    ],
@@ -8731,7 +8775,6 @@
    "Misc": [
     {
      "Colors": "Black, White, Gold",
-     "Models": "MI NOTE Pro",
      "Price": "About 250 EUR"
     }
    ]
@@ -8832,7 +8875,6 @@
    "Misc": [
     {
      "Colors": "Black, White",
-     "Models": "MI NOTE LTE",
      "Price": "About 190 EUR"
     }
    ],
@@ -8940,7 +8982,6 @@
    "Misc": [
     {
      "Colors": "Black, Green, Yellow, Pink",
-     "Models": "2014813",
      "Price": "About 130 EUR"
     }
    ]
@@ -9041,7 +9082,8 @@
    "Misc": [
     {
      "Colors": "Black, White, Yellow, Pink, Green",
-     "Models": "2014818, 2014817, 2014811, 2014813, wt88047, 2014819, 2014812",
+     "Models": "2014817, 2014818",
+     "SAR": "0.70 W/kg (head) \u00a0 \u00a0 0.70 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 130 EUR"
     }
    ],
@@ -9150,7 +9192,6 @@
    "Misc": [
     {
      "Colors": "White",
-     "Models": "MI 4LTE",
      "Price": "About 230 EUR"
     }
    ]
@@ -9251,7 +9292,6 @@
    "Misc": [
     {
      "Colors": "Black/White",
-     "Models": "HM NOTE 1LTE, HM NOTE 1S",
      "Price": "About 160 EUR"
     }
    ]
@@ -9355,8 +9395,8 @@
    "Misc": [
     {
      "Colors": "Black, White",
-     "Models": "MI 4W",
-     "SAR": "1.36 W/kg (head) \u00a0 \u00a0 ",
+     "Models": "2014215",
+     "SAR": "0.71 W/kg (head) \u00a0 \u00a0 0.85 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 230 EUR"
     }
    ],
@@ -9566,7 +9606,8 @@
    "Misc": [
     {
      "Colors": "Black, White",
-     "Models": "HM NOTE 1W",
+     "Models": "2014712",
+     "SAR": "0.88 W/kg (head) \u00a0 \u00a0 0.58 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 120 EUR"
     }
    ],
@@ -9679,7 +9720,6 @@
    "Misc": [
     {
      "Colors": "White, Gray, Black, Yellow, Pink, Blue, Gold, Green (16 GB)",
-     "Models": "MI 3W",
      "Price": "About 200 EUR"
     }
    ],
@@ -9787,7 +9827,6 @@
    "Misc": [
     {
      "Colors": "Black, Chinese Red, Metallic Gray/ blue, green, yellow panels",
-     "Models": "HM 1S, HM 1SW",
      "Price": "About 90 EUR"
     }
    ],
