@@ -330,6 +330,30 @@
   }
  },
  {
+  "pyxis": {
+   "name": "MI CC 9",
+   "model": "MI CC 9"
+  }
+ },
+ {
+  "pyxis": {
+   "name": "MI CC 9",
+   "model": "Pyxis"
+  }
+ },
+ {
+  "laurus": {
+   "name": "MI CC 9e",
+   "model": "MI CC 9e"
+  }
+ },
+ {
+  "laurus": {
+   "name": "MI CC 9e",
+   "model": "laurus"
+  }
+ },
+ {
   "helium": {
    "name": "MI MAX",
    "model": "MI MAX"
