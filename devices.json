@@ -569,6 +569,22 @@
       "display_name": "红米手机4标准国际版",
       "display_name_en": "Redmi 4 Global"
     },
+    "pyxis": {
+      "display_name": "小米CC 9",
+      "display_name_en": "MI CC 9"
+    },
+    "pyxis_eea_global": {
+      "display_name": "小米CC 9 EEA",
+      "display_name_en": "MI CC 9 EEA"
+    },
+    "pyxis_global": {
+      "display_name": "小米CC 9 国际版",
+      "display_name_en": "MI CC 9 GLOBAL"
+    },
+    "pyxis_ru_global": {
+      "display_name": "小米CC 9 俄罗斯",
+      "display_name_en": "MI CC 9 RU"
+    },
     "raphael": {
       "display_name": "Redmi K20 Pro",
       "display_name_en": "Redmi K20 Pro"
