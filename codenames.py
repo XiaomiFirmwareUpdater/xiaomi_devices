@@ -51,6 +51,17 @@ def gplay():
             DEVICES.append(i)
 
 
+def tracker():
+    """
+    extract codenames form my tracker
+    """
+    url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/' \
+          'miui-updates-tracker/master/devices/names.json'
+    data = get(url).json()
+    for codename in data.keys():
+        DEVICES.append(codename)
+
+
 def main():
     """
     Generate json file of Xiaomi devices codename form various sources
@@ -58,6 +69,7 @@ def main():
     gplay()
     models()
     master()
+    tracker()
     data = list(dict.fromkeys(DEVICES))  # remove duplicates
     data.sort()  # sort
     with open('codenames.json', 'w') as out:
