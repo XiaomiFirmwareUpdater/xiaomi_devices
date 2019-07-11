@@ -804,8 +804,8 @@
    ],
    "Comms": [
     {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
-     "Bluetooth": "Yes",
+     "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+     "Bluetooth": "4.2, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, GALILEO",
      "Infrared port": "Yes",
      "Radio": "FM radio",
@@ -1883,6 +1883,7 @@
      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
      "Bluetooth": "4.2, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
+     "Radio": "FM radio",
      "USB": "microUSB 2.0, USB On-The-Go"
     }
    ],
@@ -10609,6 +10610,7 @@
      "Bluetooth": "5.0, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Infrared port": "Yes",
+     "Radio": "No",
      "USB": "Type-C 1.0 reversible connector"
     }
    ],

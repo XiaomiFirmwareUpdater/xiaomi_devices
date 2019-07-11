@@ -74,8 +74,8 @@
   ],
   "Comms": [
    {
-    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
-    "Bluetooth": "Yes",
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "4.2, A2DP, LE",
     "GPS": "Yes, with A-GPS, GLONASS, GALILEO",
     "Infrared port": "Yes",
     "Radio": "FM radio",
