@@ -1,5 +1,106 @@
 [
  {
+  "name": "Xiaomi Mi A3",
+  "codename": "",
+  "picture": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-a3.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_mi_a3-9769.php",
+  "specs": {
+   "Network": [
+    {
+     "Technology": "GSM / HSPA / LTE",
+     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+     "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100 ",
+     "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 28(700), 38(2600), 40(2300) - SIM 1 & SIM 2",
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) 450/50 Mbps"
+    }
+   ],
+   "Launch": [
+    {
+     "Announced": "2019, July",
+     "Status": "Available. Released 2019, July"
+    }
+   ],
+   "Body": [
+    {
+     "Dimensions": "153.5 x 71.9 x 8.5 mm (6.04 x 2.83 x 0.33 in)",
+     "Weight": "173.8 g (6.14 oz)",
+     "Build": "Back glass (Gorilla Glass 5), aluminum frame",
+     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+    }
+   ],
+   "Display": [
+    {
+     "Type": "Super AMOLED capacitive touchscreen, 16M colors",
+     "Size": "6.01 inches, 88.7 cm2 (~80.3% screen-to-body ratio)",
+     "Resolution": "720 x 1560 pixels, 19.5:9 ratio (~286 ppi density)",
+     "Protection": "Corning Gorilla Glass 5"
+    }
+   ],
+   "Platform": [
+    {
+     "OS": "Android 9.0 (Pie); Android One",
+     "Chipset": "Qualcomm SDM665 Snapdragon 665 (11 nm)",
+     "CPU": "Octa-core (2x2.0 GHz Kryo 260 Gold & 6x1.8 GHz Kryo 260 Silver)",
+     "GPU": "Adreno 610"
+    }
+   ],
+   "Memory": [
+    {
+     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Internal": "64/128 GB, 4 GB RAM"
+    }
+   ],
+   "Main Camera": [
+    {
+     "Triple": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\n8 MP, (ultrawide), f/2.2, 1.12\u00b5m\r\n2 MP, f/2.4, depth sensor",
+     "Features": "LED flash, HDR, panorama",
+     "Video": "2160p@30fps, 1080p@30/60/120fps"
+    }
+   ],
+   "Selfie camera": [
+    {
+     "Single": "32 MP, f/2.0, 0.8\u00b5m",
+     "Features": "HDR",
+     "Video": "1080p@30fps"
+    }
+   ],
+   "Sound": [
+    {
+     "Loudspeaker ": "Yes",
+     "3.5mm jack ": "Yes",
+     "info": "Active noise cancellation with dedicated mic"
+    }
+   ],
+   "Comms": [
+    {
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+     "Bluetooth": "5.0, A2DP, LE, aptX HD",
+     "GPS": "Yes, with A-GPS, GLONASS, BDS",
+     "Infrared port": "Yes",
+     "Radio": "FM radio",
+     "USB": "2.0, Type-C 1.0 reversible connector"
+    }
+   ],
+   "Features": [
+    {
+     "Sensors": "Fingerprint (under display), accelerometer, gyro, proximity, compass"
+    }
+   ],
+   "Battery": [
+    {
+     "info": "Non-removable Li-Po 4030 mAh battery",
+     "Charging": "Fast battery charging 18W (Quick Charge 3)"
+    }
+   ],
+   "Misc": [
+    {
+     "Colors": "Kind of Gray, Not just Blue, More than White",
+     "Price": "About 250 EUR"
+    }
+   ]
+  }
+ },
+ {
   "name": "Xiaomi Redmi 7A",
   "codename": "pine",
   "picture": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-7a-mzb8008in.jpg",
@@ -142,7 +243,7 @@
     {
      "OS": "Android 9.0 (Pie); MIUI 10",
      "Chipset": "Qualcomm SDM665 Snapdragon 665 (11 nm)",
-     "CPU": "Octa-core 2.0 GHz Kryo 260",
+     "CPU": "Octa-core (2x2.0 GHz Kryo 260 Gold & 6x1.8 GHz Kryo 260 Silver)",
      "GPU": "Adreno 610"
     }
    ],
