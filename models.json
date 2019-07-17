@@ -433,6 +433,14 @@
   }
  },
  {
+  "codename": "laurel",
+  "internal_name": "F9S",
+  "name": "Mi A3",
+  "models": {
+   "M1906F9SG, M1906F9SH": "Mi A3 Global"
+  }
+ },
+ {
   "codename": "mocha",
   "internal_name": "X6",
   "name": "Mi Pad",
