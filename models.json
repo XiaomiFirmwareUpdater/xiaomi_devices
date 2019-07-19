@@ -978,6 +978,14 @@
   }
  },
  {
+  "codename": "",
+  "internal_name": "",
+  "name": "Black Shark 2 Pro",
+  "models": {
+   "DLT-A0": "Black Shark 2 Pro"
+  }
+ },
+ {
   "codename": "beryllium",
   "internal_name": "E10",
   "name": "POCO F1",
