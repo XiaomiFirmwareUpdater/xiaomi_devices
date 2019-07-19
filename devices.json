@@ -558,6 +558,12 @@
   }
  },
  {
+  "laurel_sprout": {
+   "name": "Mi A3",
+   "model": "Mi A3"
+  }
+ },
+ {
   "once": {
    "name": "Mi Box",
    "model": "MIBOX3"
