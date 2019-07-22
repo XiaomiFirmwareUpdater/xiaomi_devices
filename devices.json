@@ -969,7 +969,7 @@
      "Type": "AMOLED capacitive touchscreen, 16M colors",
      "Size": "6.39 inches, 100.2 cm2 (~81.7% screen-to-body ratio)",
      "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
-     "info": "DCI-P3 100%\r\nAlways-on display"
+     "info": "DCI-P3 100%\r\nAlways-on display\r\n240 Hz touch-sensing"
     }
    ],
    "Platform": [
