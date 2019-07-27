@@ -437,7 +437,8 @@
   "internal_name": "F9S",
   "name": "Mi A3",
   "models": {
-   "M1906F9SG, M1906F9SH": "Mi A3 Global"
+   "M1906F9SH": "Mi A3 Global",
+   "M1906F9SI": "Mi A3 India"
   }
  },
  {
