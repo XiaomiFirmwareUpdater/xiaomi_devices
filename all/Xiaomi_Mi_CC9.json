@@ -17,7 +17,7 @@
   "Launch": [
    {
     "Announced": "2019, July",
-    "Status": "Coming soon. Exp. release 2019, July"
+    "Status": "Available. Released 2019, July"
    }
   ],
   "Body": [
@@ -95,7 +95,8 @@
   ],
   "Misc": [
    {
-    "Colors": "Black, Blue, White"
+    "Colors": "Black, Blue, White",
+    "Price": "About 260 EUR"
    }
   ]
  }
