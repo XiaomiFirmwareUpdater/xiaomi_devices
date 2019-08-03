@@ -103,6 +103,8 @@
  "perseus": "EECN",
  "perseus_global": "EEMI",
  "pine": "CMCN",
+ "pine_global": "CMMI",
+ "pine_in_global": "CMIN",
  "pisces": "XCCN",
  "platina": "DTCN",
  "platina_global": "DTMI",
