@@ -23,6 +23,7 @@
    {
     "Dimensions": "156.7 x 74.3 x 8.8 mm (6.17 x 2.93 x 0.35 in)",
     "Weight": "191 g (6.74 oz)",
+    "Build": "Front/back glass (Gorilla Glass 5), aluminum frame",
     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
    }
   ],
@@ -51,7 +52,7 @@
   ],
   "Main Camera": [
    {
-    "Triple": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, PDAF/Laser AF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4\", 1.12\u00b5m, PDAF/Laser AF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3\", 1.12\u00b5m",
+    "Triple": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, PDAF, Laser AF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4\", 1.12\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3\", 1.12\u00b5m",
     "Features": "Dual-LED flash, HDR, panorama",
     "Video": "2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
    }

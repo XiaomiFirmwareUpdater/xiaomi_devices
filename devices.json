@@ -663,7 +663,7 @@
    ],
    "Display": [
     {
-     "Type": "AMOLED capacitive touchscreen, 16M colors",
+     "Type": "Super AMOLED capacitive touchscreen, 16M colors",
      "Size": "6.39 inches, 100.2 cm2 (~86.1% screen-to-body ratio)",
      "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
      "Protection": "Corning Gorilla Glass 5",
@@ -761,6 +761,7 @@
     {
      "Dimensions": "156.7 x 74.3 x 8.8 mm (6.17 x 2.93 x 0.35 in)",
      "Weight": "191 g (6.74 oz)",
+     "Build": "Front/back glass (Gorilla Glass 5), aluminum frame",
      "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
     }
    ],
@@ -789,7 +790,7 @@
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, PDAF/Laser AF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4\", 1.12\u00b5m, PDAF/Laser AF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3\", 1.12\u00b5m",
+     "Triple": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, PDAF, Laser AF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4\", 1.12\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3\", 1.12\u00b5m",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
     }
@@ -935,7 +936,7 @@
    ],
    "Misc": [
     {
-     "Colors": "Onyx Black, Sapphire Blue, Ruby Red",
+     "Colors": "Onyx Black, Sapphire Blue, Ruby Red, Astro White",
      "Models": "M1901F71",
      "Price": "About 140 EUR"
     }
@@ -1358,7 +1359,7 @@
    ],
    "Misc": [
     {
-     "Colors": "Nebula Red, Neptune Blue, Space Black, White",
+     "Colors": "Nebula Red, Neptune Blue, Space Black, Astro White",
      "Models": "M1901F7S",
      "SAR": "0.96 W/kg (head) \u00a0 \u00a0 0.84 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 260 EUR"
@@ -1527,7 +1528,7 @@
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.5 (12GB RAM model) or f/1.8 (8GB RAM model), (wide), 1/2\", 0.8\u00b5m, PDAF/Laser AF\r\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0\u00b5m, PDAF/Laser AF, 2x optical zoom\r\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0\u00b5m, PDAF/Laser AF",
+     "Triple": "48 MP, f/1.5 (12GB RAM model) or f/1.8 (8GB RAM model), (wide), 1/2\", 0.8\u00b5m, PDAF, Laser AF\r\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0\u00b5m, PDAF, Laser AF",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
     }
@@ -1747,7 +1748,7 @@
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, 27mm (wide), 1/2\", 0.8\u00b5m, PDAF/Laser AF\r\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0\u00b5m, PDAF/Laser AF, 2x optical zoom\r\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0\u00b5m, PDAF/Laser AF",
+     "Triple": "48 MP, f/1.8, 27mm (wide), 1/2\", 0.8\u00b5m, PDAF, Laser AF\r\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0\u00b5m, PDAF, Laser AF",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
     }
