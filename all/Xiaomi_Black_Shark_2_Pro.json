@@ -39,7 +39,7 @@
   "Platform": [
    {
     "OS": "Android 9.0 (Pie)",
-    "Chipset": "Qualcomm SDM855 Snapdragon 855 Plus (7 nm)",
+    "Chipset": "Qualcomm SDM855 Snapdragon 855+ (7 nm)",
     "CPU": "Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.8 GHz Kryo 485)",
     "GPU": "Adreno 640 (700 MHz)"
    }
