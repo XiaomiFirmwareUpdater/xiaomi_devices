@@ -197,7 +197,7 @@
     {
      "Colors": "Kind of Gray, Not just Blue, More than White",
      "Models": "1906F9S",
-     "Price": "About 250 EUR"
+     "Price": "About 220 EUR"
     }
    ],
    "Tests": [
@@ -874,7 +874,7 @@
      "Size": "6.39 inches, 100.2 cm2 (~86.1% screen-to-body ratio)",
      "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
      "Protection": "Corning Gorilla Glass 5",
-     "info": "HDR"
+     "info": "DCI-P3 100%\r\nHDR10"
     }
    ],
    "Platform": [
