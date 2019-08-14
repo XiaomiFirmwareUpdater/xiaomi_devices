@@ -41,14 +41,14 @@
    {
     "OS": "Android 9.0 (Pie); MIUI 10",
     "Chipset": "Qualcomm SDM855 Snapdragon 855 (7 nm)",
-    "CPU": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.8 GHz Kryo 485)",
+    "CPU": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)",
     "GPU": "Adreno 640"
    }
   ],
   "Memory": [
    {
     "Card slot": "No",
-    "Internal": "256 GB, 8/12 GB RAM"
+    "Internal": "256GB, 8/12GB RAM"
    }
   ],
   "Main Camera": [

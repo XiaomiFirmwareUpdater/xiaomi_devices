@@ -41,14 +41,14 @@
     {
      "OS": "Android 9.0 (Pie)",
      "Chipset": "Qualcomm SDM855 Snapdragon 855+ (7 nm)",
-     "CPU": "Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.8 GHz Kryo 485)",
+     "CPU": "Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)",
      "GPU": "Adreno 640 (700 MHz)"
     }
    ],
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "128/256 GB, 12 GB RAM or 128 GB, 8 GB RAM"
+     "Internal": "128/256GB, 12GB RAM or 128GB, 8GB RAM"
     }
    ],
    "Main Camera": [
@@ -148,7 +148,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "64/128 GB, 4 GB RAM"
+     "Internal": "64/128GB, 4GB RAM"
     }
    ],
    "Main Camera": [
@@ -260,7 +260,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (dedicated slot)",
-     "Internal": "32 GB, 2/3 RAM or 16 GB, 2 GB RAM"
+     "Internal": "32GB, 2/3 RAM or 16GB, 2GB RAM"
     }
    ],
    "Main Camera": [
@@ -363,7 +363,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "64/128 GB, 6 GB RAM or 256 GB, 8 GB RAM (CC9mt only)"
+     "Internal": "64/128GB, 6GB RAM or 256GB, 8GB RAM (CC9mt only)"
     }
    ],
    "Main Camera": [
@@ -465,7 +465,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "128 GB, 6 GB RAM or 64, 4/6 GB RAM"
+     "Internal": "128GB, 6GB RAM or 64, 4/6GB RAM"
     }
    ],
    "Main Camera": [
@@ -560,14 +560,14 @@
     {
      "OS": "Android 9.0 (Pie); MIUI 10",
      "Chipset": "Qualcomm SDM855 Snapdragon 855 (7 nm)",
-     "CPU": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.8 GHz Kryo 485)",
+     "CPU": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)",
      "GPU": "Adreno 640"
     }
    ],
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "64/128 GB, 6 GB RAM"
+     "Internal": "64/128GB, 6GB RAM"
     }
    ],
    "Main Camera": [
@@ -670,7 +670,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "64/128 GB, 6 GB RAM"
+     "Internal": "64/128GB, 6GB RAM"
     }
    ],
    "Main Camera": [
@@ -784,7 +784,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "256 GB, 8 GB RAM or 64/128 GB, 6 GB RAM"
+     "Internal": "256GB, 8GB RAM or 64/128GB, 6GB RAM"
     }
    ],
    "Main Camera": [
@@ -881,14 +881,14 @@
     {
      "OS": "Android 9.0 (Pie); MIUI 10",
      "Chipset": "Qualcomm SDM855 Snapdragon 855 (7 nm)",
-     "CPU": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.8 GHz Kryo 485)",
+     "CPU": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)",
      "GPU": "Adreno 640"
     }
    ],
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "256 GB, 8 GB RAM or 128 GB, 6/8 GB RAM or 64 GB, 6 GB RAM"
+     "Internal": "256GB, 8GB RAM or 128GB, 6/8GB RAM or 64GB, 6GB RAM"
     }
    ],
    "Main Camera": [
@@ -992,7 +992,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "64 GB, 4 GB RAM or 32 GB, 3 GB RAM"
+     "Internal": "64GB, 4GB RAM or 32GB, 3GB RAM"
     }
    ],
    "Main Camera": [
@@ -1096,7 +1096,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 1 TB (dedicated slot)",
-     "Internal": "64 GB, 4 GB RAM or 32 GB, 3 GB RAM"
+     "Internal": "64GB, 4GB RAM or 32GB, 3GB RAM"
     }
    ],
    "Main Camera": [
@@ -1193,14 +1193,14 @@
     {
      "OS": "Android 9.0 (Pie)",
      "Chipset": "Qualcomm SDM855 Snapdragon 855 (7 nm)",
-     "CPU": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.41 GHz Kryo 485 & 4x1.78 GHz Kryo 485)",
+     "CPU": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)",
      "GPU": "Adreno 640"
     }
    ],
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "256 GB, 8/12 GB RAM, 128 GB, 6/8 GB RAM"
+     "Internal": "256GB, 8/12GB RAM, 128GB, 6/8GB RAM"
     }
    ],
    "Main Camera": [
@@ -1312,7 +1312,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 1 TB (dedicated slot)",
-     "Internal": "64 GB, 4 GB RAM (China only) or 32/64 GB, 3 GB RAM or 16 GB, 2 GB RAM"
+     "Internal": "64GB, 4GB RAM (China only) or 32/64GB, 3GB RAM or 16GB, 2GB RAM"
     }
    ],
    "Main Camera": [
@@ -1415,7 +1415,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "128 GB, 6 GB RAM or 64 GB, 4/6 GB RAM"
+     "Internal": "128GB, 6GB RAM or 64GB, 4/6GB RAM"
     }
    ],
    "Main Camera": [
@@ -1514,14 +1514,14 @@
     {
      "OS": "Android 9.0 (Pie); MIUI 10",
      "Chipset": "Qualcomm SDM855 Snapdragon 855 (7 nm)",
-     "CPU": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.8 GHz Kryo 485)",
+     "CPU": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)",
      "GPU": "Adreno 640"
     }
    ],
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "64/128 GB, 6 GB RAM"
+     "Internal": "64GB, 6GB RAM"
     }
    ],
    "Main Camera": [
@@ -1568,7 +1568,7 @@
    ],
    "Misc": [
     {
-     "Colors": "Sapphire Blue, Onyx Black",
+     "Colors": "Sapphire Blue",
      "Models": "M1810E5GG",
      "SAR": "1.56 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 600 EUR"
@@ -1619,14 +1619,14 @@
     {
      "OS": "Android 9.0 (Pie); MIUI 10",
      "Chipset": "Qualcomm SDM855 Snapdragon 855 (7 nm)",
-     "CPU": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.8 GHz Kryo 485)",
+     "CPU": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)",
      "GPU": "Adreno 640"
     }
    ],
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "256 GB, 8/12 GB RAM"
+     "Internal": "256GB, 8/12GB RAM"
     }
    ],
    "Main Camera": [
@@ -1730,7 +1730,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "64/128 GB, 6 GB RAM"
+     "Internal": "64/128GB, 6GB RAM"
     }
    ],
    "Main Camera": [
@@ -1839,14 +1839,14 @@
     {
      "OS": "Android 9.0 (Pie); MIUI 10",
      "Chipset": "Qualcomm SDM855 Snapdragon 855 (7 nm)",
-     "CPU": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.8 GHz Kryo 485)",
+     "CPU": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)",
      "GPU": "Adreno 640"
     }
    ],
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "64/128 GB, 6/8 GB RAM"
+     "Internal": "64/128GB, 6/8GB RAM"
     }
    ],
    "Main Camera": [
@@ -1958,7 +1958,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 128 GB (dedicated slot)",
-     "Internal": "8/16 GB, 1 GB RAM"
+     "Internal": "8/16GB, 1GB RAM"
     }
    ],
    "Main Camera": [
@@ -2060,7 +2060,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "128 GB, 4 GB RAM or 64 GB, 4/6 GB RAM or 32 GB, 3 GB RAM"
+     "Internal": "128GB, 4GB RAM or 64GB, 4/6GB RAM or 32GB, 3GB RAM"
     }
    ],
    "Main Camera": [
@@ -2172,7 +2172,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "64 GB, 4 GB RAM"
+     "Internal": "64GB, 4GB RAM"
     }
    ],
    "Main Camera": [
@@ -2274,7 +2274,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "256 GB, 10 GB RAM, 128 GB, 6/8 GB RAM"
+     "Internal": "256GB, 10GB RAM, 128GB, 6/8GB RAM"
     }
    ],
    "Main Camera": [
@@ -2376,7 +2376,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "256 GB, 8/10 GB RAM or 128 GB, 6/8 GB RAM"
+     "Internal": "256GB, 8/10GB RAM or 128GB, 6/8GB RAM"
     }
    ],
    "Main Camera": [
@@ -2490,7 +2490,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "64 GB, 4/6 GB RAM or 32 GB, 3 GB RAM"
+     "Internal": "64GB, 4/6GB RAM or 32GB, 3GB RAM"
     }
    ],
    "Main Camera": [
@@ -2604,7 +2604,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "128 GB, 6/8 GB RAM"
+     "Internal": "128GB, 6/8GB RAM"
     }
    ],
    "Main Camera": [
@@ -2707,7 +2707,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "64/128 GB, 4/6 GB RAM"
+     "Internal": "64/128GB, 4/6GB RAM"
     }
    ],
    "Main Camera": [
@@ -2819,7 +2819,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "256 GB, 8 GB RAM or 64/128 GB, 6 GB RAM"
+     "Internal": "256GB, 8GB RAM or 64/128GB, 6GB RAM"
     }
    ],
    "Main Camera": [
@@ -2931,7 +2931,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "128 GB, 6 GB RAM or 32/64 GB, 4 GB RAM"
+     "Internal": "128GB, 6GB RAM or 32/64GB, 4GB RAM"
     }
    ],
    "Main Camera": [
@@ -3042,7 +3042,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (dedicated slot)",
-     "Internal": "64 GB, 4 GB RAM or 32 GB, 3 GB RAM"
+     "Internal": "64GB, 4GB RAM or 32GB, 3GB RAM"
     }
    ],
    "Main Camera": [
@@ -3156,7 +3156,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "128 GB, 6 GB RAM or 64 GB, 4 GB RAM"
+     "Internal": "128GB, 6GB RAM or 64GB, 4GB RAM"
     }
    ],
    "Main Camera": [
@@ -3268,7 +3268,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (dedicated slot)",
-     "Internal": "64 GB, 4 GB RAM (Wi-Fi or LTE model) or 32 GB, 3 GB RAM (Wi-Fi model)"
+     "Internal": "64GB, 4GB RAM (Wi-Fi or LTE model) or 32GB, 3GB RAM (Wi-Fi model)"
     }
    ],
    "Main Camera": [
@@ -3367,7 +3367,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (dedicated slot)",
-     "Internal": "128 GB, 4 GB RAM (LTE model) or 64 GB, 4 GB RAM (Wi-Fi or LTE model)"
+     "Internal": "128GB, 4GB RAM (LTE model) or 64GB, 4GB RAM (Wi-Fi or LTE model)"
     }
    ],
    "Main Camera": [
@@ -3466,7 +3466,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (dedicated slot)",
-     "Internal": "64 GB, 4 GB RAM or 32 GB, 3 GB RAM"
+     "Internal": "64GB, 4GB RAM or 32GB, 3GB RAM"
     }
    ],
    "Main Camera": [
@@ -3566,7 +3566,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (dedicated slot)",
-     "Internal": "32 GB, 3 RAM or 16 GB, 2 GB RAM"
+     "Internal": "32GB, 3 RAM or 16GB, 2GB RAM"
     }
    ],
    "Main Camera": [
@@ -3668,7 +3668,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "128 GB, 8 GB RAM"
+     "Internal": "128GB, 8GB RAM"
     }
    ],
    "Main Camera": [
@@ -3770,7 +3770,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "64/128/256 GB, 6 GB RAM or 128 GB, 8 GB RAM"
+     "Internal": "64/128/256GB, 6GB RAM or 128GB, 8GB RAM"
     }
    ],
    "Main Camera": [
@@ -3883,7 +3883,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "128 GB, 6 GB RAM or 64 GB, 4/6 GB RAM"
+     "Internal": "128GB, 6GB RAM or 64GB, 4/6GB RAM"
     }
    ],
    "Main Camera": [
@@ -3993,7 +3993,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (dedicated slot)",
-     "Internal": "64 GB, 4 GB RAM or 32 GB, 3 GB RAM"
+     "Internal": "64GB, 4GB RAM or 32GB, 3GB RAM"
     }
    ],
    "Main Camera": [
@@ -4107,7 +4107,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "256 GB, 8 GB RAM or 64/128 GB, 6 GB RAM"
+     "Internal": "256GB, 8GB RAM or 64/128GB, 6GB RAM"
     }
    ],
    "Main Camera": [
@@ -4218,7 +4218,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 128 GB (uses shared SIM slot)",
-     "Internal": "64 GB, 4/6 GB RAM or 32 GB, 3 GB RAM"
+     "Internal": "64GB, 4/6GB RAM or 32GB, 3GB RAM"
     }
    ],
    "Main Camera": [
@@ -4331,7 +4331,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 128 GB (uses shared SIM slot)",
-     "Internal": "64 GB, 4/6 GB RAM"
+     "Internal": "64GB, 4/6GB RAM"
     }
    ],
    "Main Camera": [
@@ -4434,7 +4434,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "128 GB, 8 GB RAM or 64 GB, 6 GB RAM"
+     "Internal": "128GB, 8GB RAM or 64GB, 6GB RAM"
     }
    ],
    "Main Camera": [
@@ -4534,7 +4534,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 128 GB (uses shared SIM slot)",
-     "Internal": "64 GB, 4 GB RAM or 32 GB, 3 GB RAM"
+     "Internal": "64GB, 4GB RAM or 32GB, 3GB RAM"
     }
    ],
    "Main Camera": [
@@ -4647,7 +4647,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 128 GB (uses shared SIM slot)",
-     "Internal": "32 GB, 3/4 GB RAM or 16 GB, 2 GB RAM"
+     "Internal": "32GB, 3/4GB RAM or 16GB, 2GB RAM"
     }
    ],
    "Main Camera": [
@@ -4759,7 +4759,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 128 GB (dedicated slot)",
-     "Internal": "32 GB, 3 GB RAM or 16 GB, 2 GB RAM"
+     "Internal": "32GB, 3GB RAM or 16GB, 2GB RAM"
     }
    ],
    "Main Camera": [
@@ -4860,7 +4860,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (dedicated slot)",
-     "Internal": "64 GB, 4 GB RAM or 32 GB, 3 GB RAM"
+     "Internal": "64GB, 4GB RAM or 32GB, 3GB RAM"
     }
    ],
    "Main Camera": [
@@ -4974,7 +4974,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (dedicated slot)",
-     "Internal": "16 GB, 2 GB RAM"
+     "Internal": "16GB, 2GB RAM"
     }
    ],
    "Main Camera": [
@@ -5079,7 +5079,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "64/128 GB, 6 GB RAM"
+     "Internal": "64/128GB, 6GB RAM"
     }
    ],
    "Main Camera": [
@@ -5183,7 +5183,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "128 GB, 8 GB RAM or 64/128/256 GB, 6 GB RAM"
+     "Internal": "128GB, 8GB RAM or 64/128/256GB, 6GB RAM"
     }
    ],
    "Main Camera": [
@@ -5294,7 +5294,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 128 GB (uses shared SIM slot)",
-     "Internal": "64 GB, 4 GB RAM"
+     "Internal": "64GB, 4GB RAM"
     }
    ],
    "Main Camera": [
@@ -5407,7 +5407,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "32/64/128 GB, 4 GB RAM"
+     "Internal": "32/64/128GB, 4GB RAM"
     }
    ],
    "Main Camera": [
@@ -5519,7 +5519,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 128 GB (uses shared SIM slot)",
-     "Internal": "64 GB, 4 GB RAM or 32 GB, 3 GB RAM or 16 GB, 2 GB RAM"
+     "Internal": "64GB, 4GB RAM or 32GB, 3GB RAM or 16GB, 2GB RAM"
     }
    ],
    "Main Camera": [
@@ -5634,7 +5634,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "64/128 GB, 6 GB RAM or 64 GB, 4 GB RAM"
+     "Internal": "64/128GB, 6GB RAM or 64GB, 4GB RAM"
     }
    ],
    "Main Camera": [
@@ -5744,7 +5744,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "64 GB, 4 GB RAM"
+     "Internal": "64GB, 4GB RAM"
     }
    ],
    "Main Camera": [
@@ -5845,7 +5845,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "64 GB, 3 GB RAM"
+     "Internal": "64GB, 3GB RAM"
     }
    ],
    "Main Camera": [
@@ -5945,7 +5945,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "64 GB, 4 GB RAM or 16/32 GB, 3 RAM"
+     "Internal": "64GB, 4GB RAM or 16/32GB, 3 RAM"
     }
    ],
    "Main Camera": [
@@ -6043,7 +6043,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "64 GB, 4 GB RAM or 32 GB, 3 GB RAM; 64 GB, 3 GB RAM (China only)"
+     "Internal": "64GB, 4GB RAM or 32GB, 3GB RAM; 64GB, 3GB RAM (China only)"
     }
    ],
    "Main Camera": [
@@ -6153,7 +6153,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "16/32 GB, 2 GB RAM"
+     "Internal": "16/32GB, 2GB RAM"
     }
    ],
    "Main Camera": [
@@ -6258,7 +6258,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "16 GB, 2 GB RAM"
+     "Internal": "16GB, 2GB RAM"
     }
    ],
    "Main Camera": [
@@ -6358,7 +6358,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "32 GB, 3 GB RAM"
+     "Internal": "32GB, 3GB RAM"
     }
    ],
    "Main Camera": [
@@ -6464,7 +6464,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "64/128 GB, 6 GB RAM"
+     "Internal": "64/128GB, 6GB RAM"
     }
    ],
    "Main Camera": [
@@ -6562,7 +6562,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "256 GB, 6 GB RAM or 128 GB, 4 GB RAM"
+     "Internal": "256GB, 6GB RAM or 128GB, 4GB RAM"
     }
    ],
    "Main Camera": [
@@ -6671,7 +6671,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "64/128 GB, 6 GB RAM, 64 GB, 4 GB RAM"
+     "Internal": "64/128GB, 6GB RAM, 64GB, 4GB RAM"
     }
    ],
    "Main Camera": [
@@ -6784,7 +6784,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "128 GB, 6 GB RAM or 64 GB, 4 GB RAM"
+     "Internal": "128GB, 6GB RAM or 64GB, 4GB RAM"
     }
    ],
    "Main Camera": [
@@ -6899,7 +6899,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "128 GB, 4 GB RAM or 64 GB, 3 GB RAM"
+     "Internal": "128GB, 4GB RAM or 64GB, 3GB RAM"
     }
    ],
    "Main Camera": [
@@ -7011,7 +7011,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "16 GB, 2 GB RAM - Standard edition64 GB, 3 GB RAM - High edition64 GB, 4 GB RAM - Exclusive"
+     "Internal": "16GB, 2GB RAM - Standard edition64GB, 3GB RAM - High edition64GB, 4GB RAM - Exclusive"
     }
    ],
    "Main Camera": [
@@ -7119,7 +7119,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "128 GB, 4 GB RAM - Exclusive edition32/64 GB, 3 GB RAM - other editions"
+     "Internal": "128GB, 4GB RAM - Exclusive edition32/64GB, 3GB RAM - other editions"
     }
    ],
    "Main Camera": [
@@ -7225,7 +7225,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "32 GB, 2 GB RAM"
+     "Internal": "32GB, 2GB RAM"
     }
    ],
    "Main Camera": [
@@ -7325,7 +7325,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "32 GB, 3 GB RAM"
+     "Internal": "32GB, 3GB RAM"
     }
    ],
    "Main Camera": [
@@ -7432,7 +7432,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "16 GB, 2 GB RAM"
+     "Internal": "16GB, 2GB RAM"
     }
    ],
    "Main Camera": [
@@ -7545,7 +7545,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "32 GB, 3 GB RAM"
+     "Internal": "32GB, 3GB RAM"
     }
    ],
    "Main Camera": [
@@ -7657,7 +7657,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "128 GB, 4 GB RAM - Pro edition64 GB, 3 GB RAM - Prime edition32 GB, 3 GB RAM - Standard"
+     "Internal": "128GB, 4GB RAM - Pro edition64GB, 3GB RAM - Prime edition32GB, 3GB RAM - Standard"
     }
    ],
    "Main Camera": [
@@ -7771,7 +7771,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses SIM 1 slot)",
-     "Internal": "16 GB, 2 GB RAM; 32/64 GB, 3 GB RAM128 GB, 4 GB RAM - Prime model"
+     "Internal": "16GB, 2GB RAM; 32/64GB, 3GB RAM128GB, 4GB RAM - Prime model"
     }
    ],
    "Main Camera": [
@@ -7881,7 +7881,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "64 GB, 3 GB RAM"
+     "Internal": "64GB, 3GB RAM"
     }
    ],
    "Main Camera": [
@@ -7991,7 +7991,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "16 GB, 2 GB RAM - Standard version32 GB, 3 GB RAM - High/Special version"
+     "Internal": "16GB, 2GB RAM - Standard version32GB, 3GB RAM - High/Special version"
     }
    ],
    "Main Camera": [
@@ -8104,7 +8104,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "16 GB, 2 GB RAM"
+     "Internal": "16GB, 2GB RAM"
     }
    ],
    "Main Camera": [
@@ -8211,7 +8211,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 32 GB (dedicated slot)",
-     "Internal": "16 GB, 2 GB RAM"
+     "Internal": "16GB, 2GB RAM"
     }
    ],
    "Main Camera": [
@@ -8311,7 +8311,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "16/64 GB, 2 GB RAM"
+     "Internal": "16/64GB, 2GB RAM"
     }
    ],
    "Main Camera": [
@@ -8411,7 +8411,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "16 GB, 2 GB RAM32 GB, 3 GB RAM"
+     "Internal": "16GB, 2GB RAM32GB, 3GB RAM"
     }
    ],
    "Main Camera": [
@@ -8524,7 +8524,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "16 GB, 2 GB RAM32 GB, 3 GB RAM"
+     "Internal": "16GB, 2GB RAM32GB, 3GB RAM"
     }
    ],
    "Main Camera": [
@@ -8634,7 +8634,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 128 GB (dedicated slot) - Chinese version only",
-     "Internal": "16 GB, 2 GB RAM - Redmi Note 232 GB, 2 GB RAM - Redmi Note 2 Prime"
+     "Internal": "16GB, 2GB RAM - Redmi Note 232GB, 2GB RAM - Redmi Note 2 Prime"
     }
    ],
    "Main Camera": [
@@ -8747,7 +8747,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 32 GB (dedicated slot)",
-     "Internal": "16 GB, 2 GB RAM"
+     "Internal": "16GB, 2GB RAM"
     }
    ],
    "Main Camera": [
@@ -8846,7 +8846,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 32 GB (dedicated slot)",
-     "Internal": "16 GB, 2 GB RAM"
+     "Internal": "16GB, 2GB RAM"
     }
    ],
    "Main Camera": [
@@ -8947,7 +8947,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "16/32 GB, 2 GB RAM"
+     "Internal": "16/32GB, 2GB RAM"
     }
    ],
    "Main Camera": [
@@ -9058,7 +9058,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "64 GB, 4 GB RAM"
+     "Internal": "64GB, 4GB RAM"
     }
    ],
    "Main Camera": [
@@ -9158,7 +9158,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "16/64 GB, 3 GB RAM"
+     "Internal": "16/64GB, 3GB RAM"
     }
    ],
    "Main Camera": [
@@ -9266,7 +9266,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 32 GB (dedicated slot)",
-     "Internal": "8 GB, 1 GB RAM"
+     "Internal": "8GB, 1GB RAM"
     }
    ],
    "Main Camera": [
@@ -9365,7 +9365,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 32 GB (dedicated slot)",
-     "Internal": "8 GB, 1 GB RAM16 GB, 2 GB RAM"
+     "Internal": "8GB, 1GB RAM16GB, 2GB RAM"
     }
    ],
    "Main Camera": [
@@ -9474,7 +9474,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "16 GB, 3 GB RAM"
+     "Internal": "16GB, 3GB RAM"
     }
    ],
    "Main Camera": [
@@ -9573,7 +9573,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 64 GB (dedicated slot)",
-     "Internal": "8 GB, 2 GB RAM"
+     "Internal": "8GB, 2GB RAM"
     }
    ],
    "Main Camera": [
@@ -9676,7 +9676,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "16/64 GB, 2/3 GB RAM"
+     "Internal": "16/64GB, 2/3GB RAM"
     }
    ],
    "Main Camera": [
@@ -9787,7 +9787,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (dedicated slot)",
-     "Internal": "16/64 GB, 2 GB RAM"
+     "Internal": "16/64GB, 2GB RAM"
     }
    ],
    "Main Camera": [
@@ -9890,7 +9890,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 32 GB (dedicated slot)",
-     "Internal": "8 GB, 1/2 GB RAM"
+     "Internal": "8GB, 1/2GB RAM"
     }
    ],
    "Main Camera": [
@@ -9999,7 +9999,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "16/64 GB, 2 GB RAM"
+     "Internal": "16/64GB, 2GB RAM"
     }
    ],
    "Main Camera": [
@@ -10111,7 +10111,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 64 GB (dedicated slot)",
-     "Internal": "8 GB, 1 GB RAM"
+     "Internal": "8GB, 1GB RAM"
     }
    ],
    "Main Camera": [
@@ -10217,7 +10217,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 32 GB (dedicated slot)",
-     "Internal": "4 GB, 1 GB RAM"
+     "Internal": "4GB, 1GB RAM"
     }
    ],
    "Main Camera": [
@@ -10312,7 +10312,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "16 GB, 1 GB RAM"
+     "Internal": "16GB, 1GB RAM"
     }
    ],
    "Main Camera": [
@@ -10407,7 +10407,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "16/32 GB, 2 GB RAM"
+     "Internal": "16/32GB, 2GB RAM"
     }
    ],
    "Main Camera": [
@@ -10505,7 +10505,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "16/32 GB, 2 GB RAM"
+     "Internal": "16/32GB, 2GB RAM"
     }
    ],
    "Main Camera": [
@@ -10600,7 +10600,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 32 GB (dedicated slot)",
-     "Internal": "4 GB, 1 GB RAM"
+     "Internal": "4GB, 1GB RAM"
     }
    ],
    "Main Camera": [
@@ -10697,7 +10697,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "128 GB, 6 GB RAM or 64 GB, 4 GB RAM"
+     "Internal": "128GB, 6GB RAM or 64GB, 4GB RAM"
     }
    ],
    "Main Camera": [
@@ -10796,7 +10796,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "128 GB, 6 GB RAM or 64 GB, 4/6 GB RAM"
+     "Internal": "128GB, 6GB RAM or 64GB, 4/6GB RAM"
     }
    ],
    "Main Camera": [
@@ -10898,7 +10898,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "128 GB, 6/8 GB RAM or 64 GB, 6 GB RAM"
+     "Internal": "128GB, 6/8GB RAM or 64GB, 6GB RAM"
     }
    ],
    "Main Camera": [
@@ -11001,7 +11001,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "64 GB, 3 GB RAM"
+     "Internal": "64GB, 3GB RAM"
     }
    ],
    "Main Camera": [

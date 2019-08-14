@@ -42,14 +42,14 @@
    {
     "OS": "Android 9.0 (Pie); MIUI 10",
     "Chipset": "Qualcomm SDM855 Snapdragon 855 (7 nm)",
-    "CPU": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.8 GHz Kryo 485)",
+    "CPU": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)",
     "GPU": "Adreno 640"
    }
   ],
   "Memory": [
    {
     "Card slot": "No",
-    "Internal": "64/128 GB, 6 GB RAM"
+    "Internal": "64GB, 6GB RAM"
    }
   ],
   "Main Camera": [
@@ -96,7 +96,7 @@
   ],
   "Misc": [
    {
-    "Colors": "Sapphire Blue, Onyx Black",
+    "Colors": "Sapphire Blue",
     "Models": "M1810E5GG",
     "SAR": "1.56 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
     "Price": "About 600 EUR"
