@@ -86,7 +86,7 @@
   "Battery": [
    {
     "info": "Non-removable Li-Po 4000 mAh battery",
-    "Charging": "Fast battery charging 10W",
+    "Charging": "Battery charging 10W",
     "Stand-by": "Up to 264 h (3G)",
     "Music play": "Up to 60 h"
    }

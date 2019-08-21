@@ -87,7 +87,7 @@
   "Battery": [
    {
     "info": "Non-removable Li-Po 3080 mAh battery",
-    "Charging": "Fast battery charging 10W"
+    "Charging": "Battery charging 10W"
    }
   ],
   "Misc": [

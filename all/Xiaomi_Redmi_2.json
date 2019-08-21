@@ -87,7 +87,7 @@
   "Battery": [
    {
     "info": "Removable Li-Po 2200 mAh battery",
-    "Charging": "Fast battery charging 10W: 30% in 30 min (Quick Charge 1)"
+    "Charging": "Battery charging 10W: 30% in 30 min (Quick Charge 1)"
    }
   ],
   "Misc": [

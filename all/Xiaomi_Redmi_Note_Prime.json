@@ -84,7 +84,7 @@
   "Battery": [
    {
     "info": "Removable Li-Po 3100 mAh battery",
-    "Charging": "Fast battery charging 10W: 30% in 30 min (Quick Charge 1)",
+    "Charging": "Battery charging 10W: 30% in 30 min (Quick Charge 1)",
     "Stand-by": "Up to 775 h (3G)",
     "Talk time": "Up to 38 h (3G)",
     "Music play": "Up to 60 h"

@@ -86,7 +86,7 @@
   "Battery": [
    {
     "info": "Non-removable Li-Ion 3000 mAh battery",
-    "Charging": "Fast battery charging 10W"
+    "Charging": "Battery charging 10W"
    }
   ],
   "Misc": [

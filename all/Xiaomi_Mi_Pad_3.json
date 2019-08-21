@@ -82,7 +82,7 @@
   "Battery": [
    {
     "info": "Non-removable Li-Po 6600 mAh battery",
-    "Charging": "Fast battery charging 10W",
+    "Charging": "Battery charging 10W",
     "Stand-by": "Up to 867 h",
     "Talk time": "Up to 12 h (multimedia)"
    }

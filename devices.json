@@ -148,7 +148,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM (India)"
+     "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM (IN)"
     }
    ],
    "Main Camera": [
@@ -301,7 +301,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Po 4000 mAh battery",
-     "Charging": "Fast battery charging 10W - China only"
+     "Charging": "Battery charging 10W (China model)"
     }
    ],
    "Misc": [
@@ -614,9 +614,9 @@
    ],
    "Misc": [
     {
-     "Colors": "Carbon black, Red flame, Glacier blue, White",
+     "Colors": "Carbon black, Red flame, Glacier blue",
      "SAR": "1.03 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "About 430 EUR"
+     "Price": "About 400 EUR"
     }
    ]
   }
@@ -1138,7 +1138,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Po 4000 mAh battery",
-     "Charging": "Fast battery charging 10W"
+     "Charging": "Battery charging 10W"
     }
    ],
    "Misc": [
@@ -1312,7 +1312,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 1 TB (dedicated slot)",
-     "Internal": "16GB 2GB RAM, 32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM (China only)"
+     "Internal": "16GB 2GB RAM, 32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM (CN)"
     }
    ],
    "Main Camera": [
@@ -1354,7 +1354,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Po 4000 mAh battery",
-     "Charging": "Fast battery charging 10W"
+     "Charging": "Battery charging 10W"
     }
    ],
    "Misc": [
@@ -2213,7 +2213,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Ion 3000 mAh battery",
-     "Charging": "Fast battery charging 10W"
+     "Charging": "Battery charging 10W"
     }
    ],
    "Misc": [
@@ -2532,7 +2532,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Po 4000 mAh battery",
-     "Charging": "Fast battery charging 10W"
+     "Charging": "Battery charging 10W"
     }
    ],
    "Misc": [
@@ -3084,7 +3084,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Po 4000 mAh battery",
-     "Charging": "Fast battery charging 10W"
+     "Charging": "Battery charging 10W"
     }
    ],
    "Misc": [
@@ -3308,7 +3308,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Po 6000 mAh battery",
-     "Charging": "Fast battery charging 10W"
+     "Charging": "Battery charging 10W"
     }
    ],
    "Misc": [
@@ -3407,7 +3407,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Po 8620 mAh battery",
-     "Charging": "Fast battery charging 10W"
+     "Charging": "Battery charging 10W"
     }
    ],
    "Misc": [
@@ -4035,7 +4035,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Po 3080 mAh battery",
-     "Charging": "Fast battery charging 10W"
+     "Charging": "Battery charging 10W"
     }
    ],
    "Misc": [
@@ -4575,7 +4575,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Po 4000 mAh battery",
-     "Charging": "Fast battery charging 10W"
+     "Charging": "Battery charging 10W"
     }
    ],
    "Misc": [
@@ -4688,7 +4688,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Po 3300 mAh battery",
-     "Charging": "Fast battery charging 10W"
+     "Charging": "Battery charging 10W"
     }
    ],
    "Misc": [
@@ -5335,7 +5335,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Po 3080 mAh battery",
-     "Charging": "Fast battery charging 10W"
+     "Charging": "Battery charging 10W"
     }
    ],
    "Misc": [
@@ -5783,7 +5783,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Po 6600 mAh battery",
-     "Charging": "Fast battery charging 10W",
+     "Charging": "Battery charging 10W",
      "Stand-by": "Up to 867 h",
      "Talk time": "Up to 12 h (multimedia)"
     }
@@ -6043,7 +6043,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "32GB 3GB RAM, 64GB 3GB RAM (China), 64GB 4GB RAM"
+     "Internal": "32GB 3GB RAM, 64GB 3GB RAM (CN), 64GB 4GB RAM"
     }
    ],
    "Main Camera": [
@@ -6299,7 +6299,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Po 4100 mAh battery",
-     "Charging": "Fast battery charging 10W"
+     "Charging": "Battery charging 10W"
     }
    ],
    "Misc": [
@@ -6399,7 +6399,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Po 4100 mAh battery",
-     "Charging": "Fast battery charging 10W"
+     "Charging": "Battery charging 10W"
     }
    ],
    "Misc": [
@@ -7266,7 +7266,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Ion 4100 mAh battery",
-     "Charging": "Fast battery charging 10W"
+     "Charging": "Battery charging 10W"
     }
    ],
    "Misc": [
@@ -7366,7 +7366,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Ion 4100 mAh battery",
-     "Charging": "Fast battery charging 10W"
+     "Charging": "Battery charging 10W"
     }
    ],
    "Misc": [
@@ -7473,7 +7473,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Ion 4100 mAh battery",
-     "Charging": "Fast battery charging 10W"
+     "Charging": "Battery charging 10W"
     }
    ],
    "Misc": [
@@ -7586,7 +7586,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Ion 4100 mAh battery",
-     "Charging": "Fast battery charging 10W"
+     "Charging": "Battery charging 10W"
     }
    ],
    "Misc": [
@@ -8032,7 +8032,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Po 4050 mAh battery",
-     "Charging": "Fast battery charging 10W"
+     "Charging": "Battery charging 10W"
     }
    ],
    "Misc": [
@@ -8145,7 +8145,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Ion 4100 mAh battery",
-     "Charging": "Fast battery charging 10W"
+     "Charging": "Battery charging 10W"
     }
    ],
    "Misc": [
@@ -8251,7 +8251,7 @@
    "Battery": [
     {
      "info": "Removable Li-Po 3100 mAh battery",
-     "Charging": "Fast battery charging 10W: 30% in 30 min (Quick Charge 1)",
+     "Charging": "Battery charging 10W: 30% in 30 min (Quick Charge 1)",
      "Stand-by": "Up to 775 h (3G)",
      "Talk time": "Up to 38 h (3G)",
      "Music play": "Up to 60 h"
@@ -8350,7 +8350,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Po 6190 mAh battery",
-     "Charging": "Fast battery charging 10W",
+     "Charging": "Battery charging 10W",
      "Stand-by": "Up to 649 h",
      "Talk time": "Up to 12 h 30 min (multimedia)",
      "Music play": "Up to 100 h"
@@ -8452,7 +8452,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Po 4000 mAh battery",
-     "Charging": "Fast battery charging 10W",
+     "Charging": "Battery charging 10W",
      "Stand-by": "Up to 264 h (3G)",
      "Music play": "Up to 60 h"
     }
@@ -8675,7 +8675,7 @@
    "Battery": [
     {
      "info": "Removable Li-Po 3060 mAh battery",
-     "Charging": "Fast battery charging 10W",
+     "Charging": "Battery charging 10W",
      "Stand-by": "Up to 144 h (3G)",
      "Talk time": "Up to 11 h 30 min (3G)",
      "Music play": "Up to 46 h"
@@ -8787,7 +8787,7 @@
    "Battery": [
     {
      "info": "Removable Li-Po 2200 mAh battery",
-     "Charging": "Fast battery charging 10W: 30% in 30 min (Quick Charge 1)"
+     "Charging": "Battery charging 10W: 30% in 30 min (Quick Charge 1)"
     }
    ],
    "Misc": [
@@ -8886,7 +8886,7 @@
    "Battery": [
     {
      "info": "Removable Li-Po 2200 mAh battery",
-     "Charging": "Fast battery charging 10W: 30% in 30 min (Quick Charge 1)"
+     "Charging": "Battery charging 10W: 30% in 30 min (Quick Charge 1)"
     }
    ],
    "Misc": [
@@ -8987,7 +8987,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Ion 3120 mAh battery",
-     "Charging": "Fast battery charging 10W: 40% in 60 min (Quick Charge)",
+     "Charging": "Battery charging 10W: 40% in 60 min (Quick Charge)",
      "Talk time": "Up to 35 h (3G)"
     }
    ],
@@ -9405,7 +9405,7 @@
    "Battery": [
     {
      "info": "Removable Li-Po 2200 mAh battery",
-     "Charging": "Fast battery charging 10W: 30% in 30 min (Quick Charge 1)"
+     "Charging": "Battery charging 10W: 30% in 30 min (Quick Charge 1)"
     }
    ],
    "Misc": [
@@ -10737,7 +10737,7 @@
    "Battery": [
     {
      "info": "Non-removable battery",
-     "Charging": "Fast battery charging 10W"
+     "Charging": "Battery charging 10W"
     }
    ],
    "Misc": [

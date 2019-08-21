@@ -87,7 +87,7 @@
   "Battery": [
    {
     "info": "Non-removable Li-Ion 3120 mAh battery",
-    "Charging": "Fast battery charging 10W: 40% in 60 min (Quick Charge)",
+    "Charging": "Battery charging 10W: 40% in 60 min (Quick Charge)",
     "Talk time": "Up to 35 h (3G)"
    }
   ],
