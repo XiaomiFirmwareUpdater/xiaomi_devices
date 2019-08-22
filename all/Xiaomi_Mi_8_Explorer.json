@@ -83,7 +83,7 @@
   ],
   "Features": [
    {
-    "Sensors": "Face ID, fingerprint (under display), accelerometer, gyro, proximity, barometer, compass"
+    "Sensors": "Face ID, fingerprint (under display, optical), accelerometer, gyro, proximity, barometer, compass"
    }
   ],
   "Battery": [

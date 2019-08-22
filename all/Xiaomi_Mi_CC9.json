@@ -84,7 +84,7 @@
   ],
   "Features": [
    {
-    "Sensors": "Fingerprint (under display), accelerometer, gyro, proximity, compass"
+    "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
    }
   ],
   "Battery": [
