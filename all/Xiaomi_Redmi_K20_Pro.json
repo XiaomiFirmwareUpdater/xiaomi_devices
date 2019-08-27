@@ -97,12 +97,17 @@
     "Colors": "Carbon black, Flame red, Glacier blue, Summer Honey",
     "Models": "M1903F11I",
     "SAR": "1.03 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "About 350 EUR"
+    "Price": "About 400 EUR"
    }
   ],
   "Tests": [
    {
-    "Camera": "\nPhoto / Video"
+    "Performance": "\nBasemark OS II: 5269 / Basemark OS II 2.0: 5012Basemark X: 45788",
+    "Display": "\nContrast ratio: Infinite (nominal)",
+    "Camera": "\nPhoto / Video",
+    "Loudspeaker": "\nVoice 71dB / Noise 75dB / Ring 84dB\n",
+    "Audio quality": "\nNoise -93.9dB / Crosstalk -94.2dB",
+    "Battery life": "\n\nEndurance rating 103h\n\n"
    }
   ]
  }
