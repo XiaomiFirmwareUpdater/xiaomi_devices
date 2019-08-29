@@ -894,6 +894,26 @@
   }
  },
  {
+  "codename": "",
+  "internal_name": "C3J",
+  "name": "Redmi Note 8:",
+  "models": {
+   "M1908C3JE": "Redmi Note 8 China",
+   "M1908C3JC": "Redmi Note 8 China Unicom / China Telecom",
+   "M1908C3JG, M1908C3JH": "Redmi Note 8 Global"
+  }
+ },
+ {
+  "codename": "",
+  "internal_name": "G7",
+  "name": "Redmi Note 8 Pro:",
+  "models": {
+   "M1906G7E": "Redmi Note 8 Pro China",
+   "M1906G7T": "Redmi Note 8 Pro China Mobile",
+   "M1906G7G": "Redmi Note 8 Pro Global"
+  }
+ },
+ {
   "codename": "ysl",
   "internal_name": "E6",
   "name": "Redmi S2 / Redmi Y2",
