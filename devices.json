@@ -338,6 +338,12 @@
  {
   "pyxis": {
    "name": "MI CC 9",
+   "model": "Mi 9 Lite"
+  }
+ },
+ {
+  "pyxis": {
+   "name": "MI CC 9",
    "model": "Pyxis"
   }
  },
