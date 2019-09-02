@@ -93,6 +93,7 @@
  "grus": "Mi 9 SE China",
  "grus_eea_global": "Mi 9 SE EEA",
  "grus_global": "Mi 9 SE Global",
+ "grus_ru_global": "Mi 9 SE Russia",
  "gucci": "Redmi Note 1S 4G China",
  "gucci_global": "Redmi Note 1S 4G Global",
  "hammerhead": "Google Nexus 5",
@@ -175,6 +176,7 @@
  "onclite_eea_global": "Redmi 7 EEA",
  "onclite_global": "Redmi 7 Global",
  "onclite_in_global": "Redmi 7 India",
+ "onclite_ru_global": "Redmi 7 Russia",
  "oneday": "MiBox S",
  "oxygen": "Mi Max 2 China",
  "oxygen_global": "Mi Max 2 Global",
@@ -186,7 +188,7 @@
  "pine_eea_ti_global": "Redmi 7A-EEA-TI-GLOBAL",
  "pine_global": "Redmi 7A Global",
  "pine_in_global": "Redmi 7A India",
- "pine_ru_global": "Redmi 7A RUSSIA",
+ "pine_ru_global": "Redmi 7A Russia",
  "pisces": "MI 3 TD China",
  "pisces_alpha": "小米手机3 TD体验版",
  "pisces_global": "PISCES-GLOBAL",
@@ -284,5 +286,5 @@
  "wt98007_global": "红米手机 WCDMA国际版",
  "ysl": "Redmi S2 China",
  "ysl_global": "Redmi S2 Global - Redmi Y2",
- "ysl_ru_global": "Redmi S2/Y2 Russian"
+ "ysl_ru_global": "Redmi S2/Y2 Russia"
 }
