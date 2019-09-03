@@ -1,7 +1,7 @@
 [
  {
   "name": "Xiaomi Redmi Note 8 Pro",
-  "codename": "",
+  "codename": "begonia",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-8-pro-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_8_pro-9812.php",
   "specs": {
@@ -737,7 +737,7 @@
    "Launch": [
     {
      "Announced": "2019, August",
-     "Status": "Coming soon. Exp. release 2019, August 30"
+     "Status": "Available. Released 2019, August"
     }
    ],
    "Body": [
@@ -768,7 +768,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "64GB 6GB RAM, 128GB 6GB RAM"
+     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM"
     }
    ],
    "Main Camera": [
