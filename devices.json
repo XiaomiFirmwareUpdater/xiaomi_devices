@@ -338,6 +338,12 @@
  {
   "pyxis": {
    "name": "MI CC 9",
+   "model": "Mi 9 Lite"
+  }
+ },
+ {
+  "pyxis": {
+   "name": "MI CC 9",
    "model": "Pyxis"
   }
  },
@@ -531,6 +537,12 @@
   "capricorn": {
    "name": "Mi 5s",
    "model": "MI 5s"
+  }
+ },
+ {
+  "raphael": {
+   "name": "Mi 9T Pro",
+   "model": "Mi 9T Pro"
   }
  },
  {
