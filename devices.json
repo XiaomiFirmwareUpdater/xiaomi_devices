@@ -61,6 +61,10 @@
       "display_name": "红米手机1S WCDMA 3G国际版",
       "display_name_en": "HM 1S Global"
     },
+    "begonia": {
+      "display_name": "Redmi Note 8 Pro",
+      "display_name_en": "Redmi Note 8 Pro"
+    },
     "begonia_p70_global": {
       "display_name": "BEGONIA-P70-GLOBAL",
       "display_name_en": "BEGONIA-P70-GLOBAL"
@@ -244,6 +248,10 @@
     "gemini_global": {
       "display_name": "小米手机5 国际版",
       "display_name_en": "MI 5 Global"
+    },
+    "ginkgo": {
+      "display_name": "Redmi Note 8",
+      "display_name_en": "Redmi Note 8"
     },
     "grus": {
       "display_name": "小米手机9SE",
