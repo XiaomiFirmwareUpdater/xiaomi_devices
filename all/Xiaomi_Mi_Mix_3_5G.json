@@ -7,7 +7,7 @@
   "Network": [
    {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
-    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 ",
     "info": "CDMA2000 1xEV-DO ",
     "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
     "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 28(700), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
@@ -26,7 +26,7 @@
     "Dimensions": "157.9 x 74.7 x 8.5 mm (6.22 x 2.94 x 0.33 in)",
     "Weight": "225 g (7.94 oz)",
     "Build": "Front glass, aluminum frame (7000 series), ceramic back",
-    "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+    "SIM": "Nano-SIM"
    }
   ],
   "Display": [

@@ -76,7 +76,7 @@
     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
     "Bluetooth": "5.0, A2DP, LE, aptX HD",
     "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS",
-    "NFC": "Yes",
+    "NFC": "Yes (China only)",
     "Radio": "Yes",
     "USB": "2.0, Type-C 1.0 reversible connector, USB On-The-Go"
    }
