@@ -1,7 +1,7 @@
 [
  {
   "name": "Xiaomi Mi 9 Lite",
-  "codename": "",
+  "codename": "pyxis",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-cc9-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_9_lite-9862.php",
   "specs": {
@@ -724,7 +724,7 @@
  },
  {
   "name": "Xiaomi Redmi Note 8",
-  "codename": "",
+  "codename": "ginkgo",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-8-1.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_8-9814.php",
   "specs": {
