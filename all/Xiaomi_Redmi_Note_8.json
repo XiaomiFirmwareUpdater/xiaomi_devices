@@ -92,7 +92,10 @@
   "Misc": [
    {
     "Colors": "Crystal Green, Crystal Blue",
-    "Price": "About 130 EUR"
+    "Models": "M1908C3JH, M1908C3JG, M1908C3JI",
+    "SAR": "0.26 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
+    "SAR EU": "0.19 W/kg (head) \u00a0 \u00a0 1.09 W/kg (body) \u00a0 \u00a0 ",
+    "Price": "About 190 EUR"
    }
   ]
  }

@@ -198,7 +198,10 @@
    "Misc": [
     {
      "Colors": "Black, Red, Blue, White",
-     "Price": "About 180 EUR"
+     "Models": "2015105, M1906G7I",
+     "SAR": "1.13 W/kg (head) \u00a0 \u00a0 0.63 W/kg (body) \u00a0 \u00a0 ",
+     "SAR EU": "0.38 W/kg (head) \u00a0 \u00a0 0.80 W/kg (body) \u00a0 \u00a0 ",
+     "Price": "About 290 EUR"
     }
    ]
   }
@@ -222,7 +225,7 @@
    "Launch": [
     {
      "Announced": "2019, July",
-     "Status": "Coming soon. Exp. release 2019, September"
+     "Status": "Coming soon. Exp. release 2019, October"
     }
    ],
    "Body": [
@@ -400,7 +403,9 @@
    "Misc": [
     {
      "Colors": "Kind of Gray, Not just Blue, More than White",
-     "Models": "1906F9S",
+     "Models": "M1906F9SH, M1906F9SI",
+     "SAR": "0.53 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
+     "SAR EU": "0.30 W/kg (head) \u00a0 \u00a0 1.10 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 220 EUR"
     }
    ],
@@ -816,7 +821,10 @@
    "Misc": [
     {
      "Colors": "Crystal Green, Crystal Blue",
-     "Price": "About 130 EUR"
+     "Models": "M1908C3JH, M1908C3JG, M1908C3JI",
+     "SAR": "0.26 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
+     "SAR EU": "0.19 W/kg (head) \u00a0 \u00a0 1.09 W/kg (body) \u00a0 \u00a0 ",
+     "Price": "About 190 EUR"
     }
    ]
   }
@@ -918,7 +926,9 @@
    "Misc": [
     {
      "Colors": "Carbon black, Red flame, Glacier blue",
+     "Models": "M1903F11G",
      "SAR": "1.03 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
+     "SAR EU": "1.30 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 400 EUR"
     }
    ]
@@ -1022,7 +1032,7 @@
     {
      "Colors": "Carbon black, Red flame, Glacier blue",
      "Models": "M1903F10G",
-     "SAR": "1.34 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
+     "SAR EU": "1.34 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 300 EUR"
     }
    ],
