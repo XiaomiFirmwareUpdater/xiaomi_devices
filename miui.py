@@ -14,7 +14,7 @@ def fetch(url):
     response = get(url)
     page = BeautifulSoup(response.content, 'html.parser')
     data = page.findAll("script")
-    data = [i for i in data if not i.attrs][0].text.split('=')[1].split(';')[0]
+    data = [i.text for i in data if "var phones" in i.text][0].split('=')[1].split(';')[0]
     info = json.loads(data)
     sorted_info = sorted(info, key=lambda k: k['pid'], reverse=True)
     if 'en.' in url:
@@ -29,14 +29,35 @@ def fetch(url):
         json.dump(sorted_info, output, indent=1, ensure_ascii=False)
 
 
+def global_devices():
+    """
+    fetch MIUI downloads devices
+    """
+    headers = {
+        'pragma': 'no-cache',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'accept': 'application/json, text/javascript, */*; q=0.01',
+        'cache-control': 'no-cache',
+        'authority': 'c.mi.com',
+        'x-requested-with': 'XMLHttpRequest',
+        'referer': 'https://c.mi.com/oc/miuidownload/',
+    }
+
+    url = 'http://c.mi.com/oc/rom/getphonelist'
+    data = get(url, headers=headers).json()['data']['phone_data']['phone_list']
+    with open('c_mi.json', 'w') as output:
+        json.dump(data, output, indent=1, ensure_ascii=False)
+
+
 def main():
     """
     Scrap Xiaomi devices downloads info from official site and generate JSON files
     """
-    urls = ['http://www.miui.com/download.html', 'http://en.miui.com/download.html',
-            'http://ru.miui.com/download.html', 'http://in.miui.com/download.html']
+    urls = ['http://www.miui.com/download.html', 'http://en.miui.com/download.html']
     for url in urls:
         fetch(url)
+    global_devices()
 
 
 if __name__ == '__main__':
