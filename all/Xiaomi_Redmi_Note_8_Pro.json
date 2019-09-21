@@ -89,7 +89,7 @@
   "Battery": [
    {
     "info": "Non-removable Li-Po 4500 mAh battery",
-    "Charging": "Fast battery charging 18W (Quick Charge 4+)"
+    "Charging": "Fast battery charging 18W"
    }
   ],
   "Misc": [
