@@ -742,6 +742,16 @@
   }
  },
  {
+  "codename": "",
+  "internal_name": "C3K",
+  "name": "Redmi 8A:",
+  "models": {
+   "M1908C3KG, M1908C3KH": "Redmi 8A Global",
+   "M1908C3KI": "Redmi 8A India",
+   "M1908C3KE": "Redmi 8A China"
+  }
+ },
+ {
   "codename": "lcsh92_wet_gb9",
   "internal_name": "H3W",
   "name": "Redmi Note",
