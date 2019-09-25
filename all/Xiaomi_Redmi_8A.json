@@ -1,8 +1,8 @@
 {
- "name": "Xiaomi Redmi 7A",
- "codename": "pine",
- "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-7a-mzb8008in.jpg",
- "url": "https://www.gsmarena.com/xiaomi_redmi_7a-9716.php",
+ "name": "Xiaomi Redmi 8A",
+ "codename": "",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-8a.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_8a-9897.php",
  "specs": {
   "Network": [
    {
@@ -16,14 +16,14 @@
   ],
   "Launch": [
    {
-    "Announced": "2019, May",
-    "Status": "Available. Released 2019, June"
+    "Announced": "2019, September",
+    "Status": "Coming soon. Exp. release 2019, September 29"
    }
   ],
   "Body": [
    {
-    "Dimensions": "146.3 x 70.4 x 9.6 mm (5.76 x 2.77 x 0.38 in)",
-    "Weight": "165 g (5.82 oz)",
+    "Dimensions": "156.5 x 75.4 x 9.4 mm (6.16 x 2.97 x 0.37 in)",
+    "Weight": "188 g (6.63 oz)",
     "Build": "Front glass, plastic body",
     "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
     "info": "Splash resistant"
@@ -32,34 +32,35 @@
   "Display": [
    {
     "Type": "IPS LCD capacitive touchscreen, 16M colors",
-    "Size": "5.45 inches, 76.7 cm2 (~74.4% screen-to-body ratio)",
-    "Resolution": "720 x 1440 pixels, 18:9 ratio (~295 ppi density)"
+    "Size": "6.2 inches, 95.9 cm2 (~81.3% screen-to-body ratio)",
+    "Resolution": "720 x 1520 pixels, 19:9 ratio (~271 ppi density)",
+    "Protection": "Corning Gorilla Glass 5"
    }
   ],
   "Platform": [
    {
-    "OS": "Android 9.0 (Pie); MIUI 10.2.7",
+    "OS": "Android 9.0 (Pie); MIUI 10",
     "Chipset": "Qualcomm SDM439 Snapdragon 439 (12 nm)",
-    "CPU": "Octa-core (2x2.0 GHz Cortex-A53 & 6x1.45 GHz Cortex A53)",
+    "CPU": "Octa-core (2x1.95 GHz Cortex-A53 & 6x1.45 GHz Cortex A53)",
     "GPU": "Adreno 505"
    }
   ],
   "Memory": [
    {
-    "Card slot": "microSD, up to 256 GB (dedicated slot)",
-    "Internal": "16GB 2GB RAM, 32GB 2GB RAM, 32GB 3GB RAM"
+    "Card slot": "microSD, up to 512 GB (dedicated slot)",
+    "Internal": "32GB 2GB RAM, 32GB 3GB RAM"
    }
   ],
   "Main Camera": [
    {
-    "Single": "13 MP, f/2.2, 1.12\u00b5m, PDAF - China\r\nor\r\n12 MP, f/2.2, 1/2.9\", 1.25\u00b5m, PDAF - Global, India",
+    "Single": "12 MP, f/1.8, 1/2.55\", 1.4\u00b5m, dual pixel PDAF",
     "Features": "LED flash, HDR",
     "Video": "1080p@30fps"
    }
   ],
   "Selfie camera": [
    {
-    "Single": "5 MP, f/2.2, 1.12\u00b5m",
+    "Single": "8 MP, f/2.0, 1.12\u00b5m",
     "Features": "HDR",
     "Video": "1080p@30fps"
    }
@@ -76,8 +77,9 @@
     "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
     "Bluetooth": "4.2, A2DP, LE",
     "GPS": "Yes, with A-GPS, GLONASS, BDS",
+    "Infrared port": "Yes",
     "Radio": "FM Radio, built-in antenna",
-    "USB": "microUSB 2.0"
+    "USB": "2.0, Type-C 1.0 reversible connector, USB On-The-Go"
    }
   ],
   "Features": [
@@ -87,15 +89,13 @@
   ],
   "Battery": [
    {
-    "info": "Non-removable Li-Po 4000 mAh battery",
-    "Charging": "Battery charging 10W (China model)"
+    "info": "Non-removable Li-Po 5000 mAh battery",
+    "Charging": "Fast battery charging 18W"
    }
   ],
   "Misc": [
    {
-    "Colors": "Matte Black, Morning blue, Matte Blue, Matte Gold, Gem Red, Gem Blue",
-    "Models": "MZB7995IN, M1903C3EG, M1903C3EH, M1903C3EI",
-    "SAR": "0.74 W/kg (head) \u00a0 \u00a0 0.79 W/kg (body) \u00a0 \u00a0 ",
+    "Colors": "Midnight Black, Ocean Blue, Sunset Red",
     "Price": "About 100 EUR"
    }
   ]

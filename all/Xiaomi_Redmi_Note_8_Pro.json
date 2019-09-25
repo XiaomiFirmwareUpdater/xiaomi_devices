@@ -21,8 +21,8 @@
   ],
   "Body": [
    {
-    "Dimensions": "161.3 x 76.4 x 8.8 mm (6.35 x 3.01 x 0.35 in)",
-    "Weight": "199 g (7.02 oz)",
+    "Dimensions": "161.4 x 76.4 x 8.8 mm (6.35 x 3.01 x 0.35 in)",
+    "Weight": "200 g (7.05 oz)",
     "Build": "Front/back glass (Gorilla Glass 5)",
     "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)"
    }
@@ -32,34 +32,35 @@
     "Type": "IPS LCD capacitive touchscreen, 16M colors",
     "Size": "6.53 inches, 104.7 cm2 (~84.9% screen-to-body ratio)",
     "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~395 ppi density)",
-    "Protection": "Corning Gorilla Glass 5"
+    "Protection": "Corning Gorilla Glass 5",
+    "info": "500 nits\r\nHDR"
    }
   ],
   "Platform": [
    {
     "OS": "Android 9.0 (Pie); MIUI 10",
     "Chipset": "Mediatek Helio G90T (12nm)",
-    "CPU": "Octa-core (2x Cortex-A76 & 6x Cortex-A55)",
-    "GPU": "Mali-G76MC4"
+    "CPU": "Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+    "GPU": "Mali-G76 MC4"
    }
   ],
   "Memory": [
    {
     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-    "Internal": "64GB 6 GB RAM, 128GB 6GB RAM, 128GB 8GB RAM"
+    "Internal": "64GB 6 GB RAM, 128GB 6GB RAM, UFS2.1"
    }
   ],
   "Main Camera": [
    {
-    "Quad": "64 MP, f/1.8, (wide), 1/1.7\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m, depth sensor",
-    "Features": "Dual-LED flash, HDR, panorama",
-    "Video": "2160p@30fps, 1080p@30/60/120fps, (gyro-EIS)"
+    "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.7\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m, depth sensor",
+    "Features": "LED flash, HDR, panorama",
+    "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps, gyro-EIS"
    }
   ],
   "Selfie camera": [
    {
-    "Single": "20 MP, f/2.0",
-    "Features": "HDR",
+    "Single": "20 MP, f/2.0, 0.9\u00b5m",
+    "Features": "HDR, panorama",
     "Video": "1080p@30fps"
    }
   ],
@@ -74,7 +75,7 @@
    {
     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
     "Bluetooth": "5.0, A2DP, LE",
-    "GPS": "Yes, with A-GPS, GLONASS, BDS",
+    "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS",
     "NFC": "Yes",
     "Infrared port": "Yes",
     "Radio": "FM radio, recording",
