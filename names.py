@@ -2,6 +2,7 @@
 """Xiaomi Devices names"""
 
 import json
+import yaml
 from collections import OrderedDict
 from requests import get
 
@@ -56,8 +57,8 @@ def tracker():
     extract codenames form my tracker
     """
     url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/' \
-          'miui-updates-tracker/master/devices/names.json'
-    data = get(url).json()
+          'miui-updates-tracker/master/devices/names.yml'
+    data = yaml.load(get(url).text, Loader=yaml.CLoader)
     for codename, info in data.items():
         DEVICES.update({codename: info[0]})
 
