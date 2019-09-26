@@ -54,14 +54,14 @@
    {
     "Triple": "108 MP, f/1.7, (wide), 1/1.33\", 0.8\u00b5m, PDAF, Laser AF\r\n12 MP, f/2.0, 54mm (telephoto), 1/2.55\", 1.4\u00b5m, Dual Pixel PDAF, Laser AF, 2x optical zoom\r\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0\u00b5m, Laser AF",
     "Features": "Dual-LED flash, HDR, panorama",
-    "Video": "2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
+    "Video": "3240p@30fps, 2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
    }
   ],
   "Selfie camera": [
    {
     "Triple": "No - uses main camera",
     "Features": "Dual-LED flash, HDR, panorama",
-    "Video": "2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
+    "Video": "3240p@30fps, 2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
    }
   ],
   "Sound": [
