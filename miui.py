@@ -50,6 +50,15 @@ def global_devices():
         json.dump(data, output, indent=1, ensure_ascii=False)
 
 
+def fastboot(name, url):
+    """fetch MIUI fastboot rom devices"""
+    page = BeautifulSoup(get(url).content, 'html.parser')
+    links = [f"{i['href'].split('=')[1].split('&')[0].strip()} - {i['href'].split('=')[2].split('&')[0]}"
+             for i in page.findAll('a') if "fullromdownload" in str(i)]
+    with open(f'{name}_fastboot.txt', 'w') as output:
+        output.writelines(i + '\n' for i in sorted(links))
+
+
 def main():
     """
     Scrap Xiaomi devices downloads info from official site and generate JSON files
@@ -58,6 +67,10 @@ def main():
     for url in urls:
         fetch(url)
     global_devices()
+    fastboot_urls = {'global': 'https://en.miui.com/a-234.html',
+                     'chinese': 'https://www.miui.com/shuaji-393.html'}
+    for name, url in fastboot_urls.items():
+        fastboot(name, url)
 
 
 if __name__ == '__main__':
