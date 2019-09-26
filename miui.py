@@ -2,6 +2,7 @@
 """Xiaomi MIUI codes Info Scraper"""
 
 import json
+import yaml
 from collections import OrderedDict
 from requests import get
 
@@ -10,12 +11,12 @@ def main():
     """
     Scrap Xiaomi devices MIUI codes and generate JSON files
     """
-    current = json.loads(get(
+    current = yaml.load(get(
         "https://raw.githubusercontent.com/XiaomiFirmwareUpdater/miui-updates-tracker/master/" +
-        "stable_fastboot/stable_fastboot.json").content)
-    eol = json.loads(get(
+        "stable_fastboot/stable_fastboot.yml").text, Loader=yaml.CLoader)
+    eol = yaml.load(get(
         "https://raw.githubusercontent.com/XiaomiFirmwareUpdater/miui-updates-tracker/master/EOL/" +
-        "stable_fastboot/stable_fastboot.json").content)
+        "stable_fastboot/stable_fastboot.yml").text, Loader=yaml.CLoader)
     data = current + eol
     info = {}
     for i in data:
