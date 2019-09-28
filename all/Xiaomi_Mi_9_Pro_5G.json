@@ -1,6 +1,6 @@
 {
  "name": "Xiaomi Mi 9 Pro 5G",
- "codename": "",
+ "codename": "crux",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9-pro-5g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_9_pro_5g-9892.php",
  "specs": {
@@ -18,7 +18,7 @@
   "Launch": [
    {
     "Announced": "2019, September",
-    "Status": "Coming soon. Exp. release 2019, October"
+    "Status": "Available. Released 2019, September"
    }
   ],
   "Body": [
@@ -97,7 +97,8 @@
   ],
   "Misc": [
    {
-    "Colors": "Dream White, Titanium Black"
+    "Colors": "Dream White, Titanium Black",
+    "Price": "About 600 EUR"
    }
   ]
  }

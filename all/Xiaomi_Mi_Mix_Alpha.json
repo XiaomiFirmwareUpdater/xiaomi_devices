@@ -47,7 +47,8 @@
   "Memory": [
    {
     "Card slot": "No",
-    "Internal": "512GB 12GB RAM, UFS3.0"
+    "Internal": "512GB 12GB RAM",
+    "info": "UFS3.0"
    }
   ],
   "Main Camera": [

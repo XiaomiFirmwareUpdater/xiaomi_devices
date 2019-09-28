@@ -151,7 +151,8 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "512GB 12GB RAM, UFS3.0"
+     "Internal": "512GB 12GB RAM",
+     "info": "UFS3.0"
     }
    ],
    "Main Camera": [
@@ -205,7 +206,7 @@
  },
  {
   "name": "Xiaomi Mi 9 Pro 5G",
-  "codename": "",
+  "codename": "crux",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9-pro-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_9_pro_5g-9892.php",
   "specs": {
@@ -223,7 +224,7 @@
    "Launch": [
     {
      "Announced": "2019, September",
-     "Status": "Coming soon. Exp. release 2019, October"
+     "Status": "Available. Released 2019, September"
     }
    ],
    "Body": [
@@ -302,14 +303,15 @@
    ],
    "Misc": [
     {
-     "Colors": "Dream White, Titanium Black"
+     "Colors": "Dream White, Titanium Black",
+     "Price": "About 600 EUR"
     }
    ]
   }
  },
  {
   "name": "Xiaomi Mi 9 Pro",
-  "codename": "",
+  "codename": "crux",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_9_pro-9891.php",
   "specs": {
@@ -326,7 +328,7 @@
    "Launch": [
     {
      "Announced": "2019, September",
-     "Status": "Coming soon. Exp. release 2019, September"
+     "Status": "Available. Released 2019, September"
     }
    ],
    "Body": [
@@ -561,7 +563,8 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, UFS2.1"
+     "Internal": "64GB 6GB RAM, 128GB 6GB RAM",
+     "info": "UFS2.1"
     }
    ],
    "Main Camera": [
@@ -664,7 +667,8 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "64GB 6 GB RAM, 128GB 6GB RAM, UFS2.1"
+     "Internal": "64GB 6 GB RAM, 128GB 6GB RAM",
+     "info": "UFS2.1"
     }
    ],
    "Main Camera": [
@@ -1088,7 +1092,8 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM (CC9mt only), UFS2.1"
+     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM (CC9mt only)",
+     "info": "UFS2.1"
     }
    ],
    "Main Camera": [
@@ -2736,7 +2741,7 @@
      "Colors": "Lavender Violet, Ocean Blue, Piano Black",
      "Models": "M1902F1G",
      "SAR": "1.39 W/kg (head) \u00a0 \u00a0 1.30 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "About 420 EUR"
+     "Price": "About 340 EUR"
     }
    ],
    "Tests": [

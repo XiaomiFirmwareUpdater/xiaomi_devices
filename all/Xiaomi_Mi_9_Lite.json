@@ -46,7 +46,8 @@
   "Memory": [
    {
     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-    "Internal": "64GB 6GB RAM, 128GB 6GB RAM, UFS2.1"
+    "Internal": "64GB 6GB RAM, 128GB 6GB RAM",
+    "info": "UFS2.1"
    }
   ],
   "Main Camera": [
