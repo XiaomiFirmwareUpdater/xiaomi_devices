@@ -1,4 +1,5 @@
 aqua - F
+begonia - F
 cactus - F
 cancro - F
 cancro - F
@@ -9,10 +10,12 @@ cepheus - F
 cereus - F
 chiron - F
 clover - F
+crux - F
 davinci - F
 dipper - F
 equuleus - F
 gemini - F
+ginkgo - F
 grus - F
 helium - F
 hydrogen - F
