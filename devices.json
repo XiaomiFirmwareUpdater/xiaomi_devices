@@ -540,6 +540,12 @@
   }
  },
  {
+  "davinci": {
+   "name": "Mi 9T",
+   "model": "Mi 9T"
+  }
+ },
+ {
   "raphael": {
    "name": "Mi 9T Pro",
    "model": "Mi 9T Pro"
@@ -819,6 +825,12 @@
   "pine": {
    "name": "Redmi 7A",
    "model": "Redmi 7A"
+  }
+ },
+ {
+  "olive": {
+   "name": "Redmi 8",
+   "model": "Redmi 8"
   }
  },
  {
