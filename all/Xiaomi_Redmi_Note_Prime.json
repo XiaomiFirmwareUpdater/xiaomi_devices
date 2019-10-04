@@ -73,7 +73,7 @@
     "Bluetooth": "4.0, A2DP, LE",
     "GPS": "Yes, with A-GPS, GLONASS, BDS",
     "Radio": "Stereo FM radio",
-    "USB": "microUSB 2.0, USB Host"
+    "USB": "microUSB 2.0, USB On-The-Go"
    }
   ],
   "Features": [

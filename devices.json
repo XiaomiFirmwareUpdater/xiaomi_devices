@@ -462,7 +462,8 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "128GB 8GB RAM, 512GB 8GB RAM, 512GB 12GB RAM"
+     "Internal": "128GB 8GB RAM, 512GB 8GB RAM, 512GB 12GB RAM",
+     "info": "UFS2.1"
     }
    ],
    "Main Camera": [
@@ -722,6 +723,16 @@
      "SAR EU": "0.38 W/kg (head) \u00a0 \u00a0 0.80 W/kg (body) \u00a0 \u00a0 ",
      "Price": "About 250 EUR"
     }
+   ],
+   "Tests": [
+    {
+     "Performance": "\nBasemark OS II: 3196 / Basemark OS II 2.0: 3126Basemark X: 34654",
+     "Display": "\nContrast ratio: 1326:1 (nominal)",
+     "Camera": "\nPhoto / Video",
+     "Loudspeaker": "\nVoice 64dB / Noise 71dB / Ring 82dB\n",
+     "Audio quality": "\nNoise -93.6dB / Crosstalk -91.9dB",
+     "Battery life": "\n\nEndurance rating 114h\n\n"
+    }
    ]
   }
  },
@@ -851,7 +862,7 @@
     {
      "Dimensions": "153.5 x 71.9 x 8.5 mm (6.04 x 2.83 x 0.33 in)",
      "Weight": "173.8 g (6.14 oz)",
-     "Build": "Front/back glass (Gorilla Glass 5), aluminum frame",
+     "Build": "Front/back glass (Gorilla Glass 5), plastic frame",
      "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)"
     }
    ],
@@ -925,7 +936,7 @@
      "Models": "M1906F9SH, M1906F9SI",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.30 W/kg (head) \u00a0 \u00a0 1.10 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "About 180 EUR"
+     "Price": "$\u2009156.99 / \u00a3\u2009177.00 / \u20b9\u200912,999"
     }
    ],
    "Tests": [
@@ -1554,7 +1565,7 @@
      "Colors": "Carbon black, Red flame, Glacier blue",
      "Models": "M1903F10G",
      "SAR EU": "1.34 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "About 300 EUR"
+     "Price": "$\u2009298.64 / \u00a3\u2009264.76 / \u20b9\u200922,273"
     }
    ],
    "Tests": [
@@ -1618,7 +1629,8 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM"
+     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM",
+     "info": "UFS2.1"
     }
    ],
    "Main Camera": [
@@ -1668,7 +1680,7 @@
      "Colors": "Carbon black, Red flame, Glacier blue, Pearl White",
      "Models": "M1903F10I",
      "SAR": "1.07 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "About 260 EUR"
+     "Price": "$\u2009299.70 / \u00a3\u2009289.99 / \u20b9\u200922,263"
     }
    ]
   }
@@ -1722,7 +1734,8 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"
+     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+     "info": "UFS2.1"
     }
    ],
    "Main Camera": [
@@ -2954,7 +2967,7 @@
      "Colors": "Blue, Black, Twilight Gold, White",
      "Models": "M1901F7G, M1901F7H, M1901F7I",
      "SAR": "0.59 W/kg (head) \u00a0 \u00a0 1.27 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "About 180 EUR"
+     "Price": "$\u2009139.00 / \u00a3\u2009151.86 / \u20b9\u200911,999"
     }
    ],
    "Tests": [
@@ -8645,7 +8658,7 @@
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Infrared port": "Yes",
      "Radio": "FM radio, recording",
-     "USB": "microUSB 2.0, USB Host"
+     "USB": "microUSB 2.0, USB On-The-Go"
     }
    ],
    "Features": [
@@ -9084,7 +9097,7 @@
      "Bluetooth": "4.0, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Radio": "Stereo FM radio",
-     "USB": "microUSB 2.0, USB Host"
+     "USB": "microUSB 2.0, USB On-The-Go"
     }
    ],
    "Features": [
@@ -9620,7 +9633,7 @@
      "Bluetooth": "4.0, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Radio": "Stereo FM radio",
-     "USB": "microUSB 2.0, USB Host"
+     "USB": "microUSB 2.0, USB On-The-Go"
     }
    ],
    "Features": [
@@ -9719,7 +9732,7 @@
      "Bluetooth": "4.0, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Radio": "Stereo FM radio",
-     "USB": "microUSB 2.0, USB Host"
+     "USB": "microUSB 2.0, USB On-The-Go"
     }
    ],
    "Features": [
@@ -9820,7 +9833,7 @@
      "Bluetooth": "4.1, A2DP",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Radio": "Stereo FM radio",
-     "USB": "microUSB 2.0, USB Host"
+     "USB": "microUSB 2.0, USB On-The-Go"
     }
    ],
    "Features": [
@@ -9931,7 +9944,7 @@
      "Bluetooth": "4.1, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Radio": "No",
-     "USB": "microUSB 2.0, USB Host"
+     "USB": "microUSB 2.0, USB On-The-Go"
     }
    ],
    "Features": [
@@ -10031,7 +10044,7 @@
      "Bluetooth": "4.1, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Radio": "No",
-     "USB": "microUSB 2.0, USB Host"
+     "USB": "microUSB 2.0, USB On-The-Go"
     }
    ],
    "Features": [
@@ -10238,7 +10251,7 @@
      "Bluetooth": "4.0, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Radio": "Stereo FM radio",
-     "USB": "microUSB 2.0, USB Host"
+     "USB": "microUSB 2.0, USB On-The-Go"
     }
    ],
    "Features": [
@@ -10348,7 +10361,7 @@
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Infrared port": "Yes",
      "Radio": "FM radio",
-     "USB": "microUSB 2.0, USB Host"
+     "USB": "microUSB 2.0, USB On-The-Go"
     }
    ],
    "Features": [
@@ -10446,7 +10459,7 @@
      "Bluetooth": "4.0, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Radio": "FM radio",
-     "USB": "microUSB 2.0, USB Host"
+     "USB": "microUSB 2.0, USB On-The-Go"
     }
    ],
    "Features": [
@@ -10550,7 +10563,7 @@
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Infrared port": "Yes",
      "Radio": "FM radio",
-     "USB": "microUSB 2.0, USB Host"
+     "USB": "microUSB 2.0, USB On-The-Go"
     }
    ],
    "Features": [
@@ -10658,7 +10671,7 @@
      "Bluetooth": "4.0, A2DP",
      "GPS": "No",
      "Radio": "No",
-     "USB": "microUSB 2.0, USB Host"
+     "USB": "microUSB 2.0, USB On-The-Go"
     }
    ],
    "Features": [
@@ -10763,7 +10776,7 @@
      "Bluetooth": "4.0, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS",
      "Radio": "FM radio, recording",
-     "USB": "microUSB 2.0, USB Host"
+     "USB": "microUSB 2.0, USB On-The-Go"
     }
    ],
    "Features": [
@@ -10873,7 +10886,7 @@
      "GPS": "Yes, with A-GPS, GLONASS",
      "NFC": "Yes",
      "Radio": "FM radio",
-     "USB": "microUSB 2.0, USB Host"
+     "USB": "microUSB 2.0, USB On-The-Go"
     }
    ],
    "Features": [
@@ -10984,7 +10997,7 @@
      "Bluetooth": "4.0, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS",
      "Radio": "FM radio",
-     "USB": "microUSB 2.0, USB Host"
+     "USB": "microUSB 2.0, USB On-The-Go"
     }
    ],
    "Features": [
@@ -11090,7 +11103,7 @@
      "Bluetooth": "4.0, A2DP, LE",
      "GPS": "Yes, with A-GPS",
      "Radio": "FM radio",
-     "USB": "microUSB 2.0, USB Host"
+     "USB": "microUSB 2.0, USB On-The-Go"
     }
    ],
    "Features": [
@@ -11186,7 +11199,7 @@
      "GPS": "Yes, with A-GPS, GLONASS",
      "NFC": "Yes",
      "Radio": "FM radio",
-     "USB": "microUSB 2.0, USB Host"
+     "USB": "microUSB 2.0, USB On-The-Go"
     }
    ],
    "Features": [
@@ -11280,7 +11293,7 @@
      "Bluetooth": "4.0, A2DP",
      "GPS": "Yes, with A-GPS, GLONASS",
      "Radio": "FM radio",
-     "USB": "microUSB 2.0 (MHL TV-out), USB Host"
+     "USB": "microUSB 2.0 (MHL TV-out), USB On-The-Go"
     }
    ],
    "Features": [
@@ -11378,7 +11391,7 @@
      "Bluetooth": "4.0, A2DP",
      "GPS": "Yes, with A-GPS, GLONASS",
      "Radio": "FM radio",
-     "USB": "microUSB 2.0 (MHL TV-out), USB Host"
+     "USB": "microUSB 2.0 (MHL TV-out), USB On-The-Go"
     }
    ],
    "Features": [
@@ -11875,7 +11888,7 @@
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "NFC": "TBC",
      "Radio": "To be confirmed",
-     "USB": "microUSB 2.0, USB Host"
+     "USB": "microUSB 2.0, USB On-The-Go"
     }
    ],
    "Features": [

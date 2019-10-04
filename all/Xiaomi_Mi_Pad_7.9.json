@@ -71,7 +71,7 @@
     "Bluetooth": "4.0, A2DP",
     "GPS": "No",
     "Radio": "No",
-    "USB": "microUSB 2.0, USB Host"
+    "USB": "microUSB 2.0, USB On-The-Go"
    }
   ],
   "Features": [
