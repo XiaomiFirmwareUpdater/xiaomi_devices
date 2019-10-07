@@ -304,7 +304,7 @@
    "Misc": [
     {
      "Colors": "Dream White, Titanium Black",
-     "Price": "About 600 EUR"
+     "Price": "$\u2009587.99"
     }
    ]
   }
@@ -614,7 +614,7 @@
    "Misc": [
     {
      "Colors": "Black, Blue, White",
-     "Price": "About 260 EUR"
+     "Price": "$\u2009241.99 / \u00a3\u2009258.49"
     }
    ]
   }
@@ -668,7 +668,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "64GB 6 GB RAM, 128GB 6GB RAM",
+     "Internal": "64GB 6 GB RAM, 128GB 6GB RAM, 128GB 8GB RAM",
      "info": "UFS2.1"
     }
    ],
@@ -721,7 +721,7 @@
      "Models": "2015105, M1906G7I",
      "SAR": "1.13 W/kg (head) \u00a0 \u00a0 0.63 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.38 W/kg (head) \u00a0 \u00a0 0.80 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009219.99 / \u00a3\u2009195.99"
+     "Price": "$\u2009219.99 / \u00a3\u2009225.00"
     }
    ],
    "Tests": [
@@ -1049,7 +1049,7 @@
      "Colors": "Matte Black, Morning blue, Matte Blue, Matte Gold, Gem Red, Gem Blue",
      "Models": "MZB7995IN, M1903C3EG, M1903C3EH, M1903C3EI",
      "SAR": "0.74 W/kg (head) \u00a0 \u00a0 0.79 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "About 100 EUR"
+     "Price": "$\u200980.99 / \u00a3\u200975.98 / \u20b9\u20095,990"
     }
    ]
   }
@@ -1306,7 +1306,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB",
-     "Internal": "64GB 4GB RAM, 64GB 6 GB RAM, 128GB 6GB RAM"
+     "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM"
     }
    ],
    "Main Camera": [
@@ -1898,7 +1898,7 @@
     {
      "Colors": "Onyx Black, Sapphire Blue, Ruby Red, Astro White",
      "Models": "M1901F71",
-     "Price": "About 140 EUR"
+     "Price": "\u20b9\u20099,990"
     }
    ]
   }
@@ -6541,7 +6541,7 @@
      "Colors": "Ceramic Black, Black, Blue, White",
      "Models": "MCE16",
      "SAR": "0.41 W/kg (head) \u00a0 \u00a0 1.55 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "About 330 EUR"
+     "Price": "$\u2009435.63"
     }
    ],
    "Tests": [
