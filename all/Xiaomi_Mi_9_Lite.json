@@ -98,6 +98,14 @@
     "Colors": "Black, Blue, White",
     "Price": "$\u2009241.99 / \u00a3\u2009258.49"
    }
+  ],
+  "Tests": [
+   {
+    "Performance": "\nBasemark OS II: 3372 / Basemark OS II 2.0: 2748Basemark X: 27191",
+    "Display": "\nContrast ratio: Infinite (nominal)",
+    "Loudspeaker": "\nVoice 67dB / Noise 72dB / Ring 83dB\n",
+    "Battery life": "\n\nEndurance rating 106h\n\n"
+   }
   ]
  }
 }

@@ -1,17 +1,17 @@
 {
  "name": "Xiaomi Black Shark 2 Pro",
  "codename": "",
- "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark2-pro.jpg",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark2-pro-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_black_shark_2_pro-9779.php",
  "specs": {
   "Network": [
    {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "info": "CDMA2000 1xEV-DO ",
+    "info": "LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
     "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
-    "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-    "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (5CA) Cat18 1200/150 Mbps"
+    "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 19(800), 20(800), 28(700), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - Global",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (5CA/3CA) Cat18 1200/150 Mbps"
    }
   ],
   "Launch": [
@@ -33,7 +33,7 @@
     "Type": "AMOLED capacitive touchscreen, 16M colors",
     "Size": "6.39 inches, 100.2 cm2 (~81.7% screen-to-body ratio)",
     "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
-    "info": "DCI-P3 100%\r\nAlways-on display\r\n240 Hz touch-sensing"
+    "info": "DCI-P3 109%\r\nAlways-on display\r\n240 Hz touch-sensing"
    }
   ],
   "Platform": [
@@ -47,14 +47,15 @@
   "Memory": [
    {
     "Card slot": "No",
-    "Internal": "128GB 8GB RAM, 128GB 12GB RAM, 256GB 12GB RAM"
+    "Internal": "128GB 8GB RAM, 128GB 12GB RAM (CN), 256GB 12GB RAM",
+    "info": "UFS3.0"
    }
   ],
   "Main Camera": [
    {
     "Dual": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\n12 MP, f/2.2, (telephoto), 1.0\u00b5m, PDAF, 2x optical zoom",
     "Features": "LED flash, HDR, panorama",
-    "Video": "2160p@30/60fps, 1080p@30/60fps, 720p@1920fps"
+    "Video": "2160p@30/60fps, 1080p@30/60/120fps, 720p@1920fps"
    }
   ],
   "Selfie camera": [
@@ -93,8 +94,8 @@
   ],
   "Misc": [
    {
-    "Colors": "Electric black, Ice ash",
-    "Price": "About 450 EUR"
+    "Colors": "Shadow Black, Iceberg Grey, Gulf Blue",
+    "Price": "About 600 EUR"
    }
   ]
  }

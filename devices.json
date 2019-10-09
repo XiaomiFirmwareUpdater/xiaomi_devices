@@ -1,5 +1,107 @@
 [
  {
+  "name": "Xiaomi Redmi 8",
+  "codename": "",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-8.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_redmi_8-9800.php",
+  "specs": {
+   "Network": [
+    {
+     "Technology": "GSM / HSPA / LTE",
+     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+     "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
+     "4G bands": "LTE band 1(2100), 3(1800), 5(850), 8(900), 40(2300), 41(2500)",
+     "Speed": "HSPA, LTE-A"
+    }
+   ],
+   "Launch": [
+    {
+     "Announced": "2019, October",
+     "Status": "Coming soon. Exp. release 2019, October 12"
+    }
+   ],
+   "Body": [
+    {
+     "Dimensions": "156.5 x 75.4 x 9.4 mm (6.16 x 2.97 x 0.37 in)",
+     "Weight": "188 g (6.63 oz)",
+     "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+     "info": "Splash resistant"
+    }
+   ],
+   "Display": [
+    {
+     "Type": "IPS LCD capacitive touchscreen, 16M colors",
+     "Size": "6.22 inches, 96.6 cm2 (~81.8% screen-to-body ratio)",
+     "Resolution": "720 x 1520 pixels, 19:9 ratio (~270 ppi density)",
+     "Protection": "Corning Gorilla Glass 5"
+    }
+   ],
+   "Platform": [
+    {
+     "OS": "Android 9.0 (Pie); MIUI 9",
+     "Chipset": "Qualcomm SDM439 Snapdragon 439 (12 nm)",
+     "CPU": "Octa-core (2x1.95 GHz Cortex-A53 & 6x1.45 GHz Cortex A53)",
+     "GPU": "Adreno 505"
+    }
+   ],
+   "Memory": [
+    {
+     "Card slot": "microSD, up to 512 GB (dedicated slot)",
+     "Internal": "64GB 4GB RAM"
+    }
+   ],
+   "Main Camera": [
+    {
+     "Single": "12 MP, f/1.8, 1/2.55\", 1.4\u00b5m, Dual Pixel PDAF\r\n2 MP, depth sensor",
+     "Features": "LED flash, HDR, panorama",
+     "Video": "1080p@30fps"
+    }
+   ],
+   "Selfie camera": [
+    {
+     "Single": "8 MP, f/2.0, 1.12\u00b5m",
+     "Features": "HDR",
+     "Video": "1080p@30fps"
+    }
+   ],
+   "Sound": [
+    {
+     "Loudspeaker ": "Yes",
+     "3.5mm jack ": "Yes",
+     "info": "Active noise cancellation with dedicated mic"
+    }
+   ],
+   "Comms": [
+    {
+     "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+     "Bluetooth": "4.2, A2DP, LE",
+     "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS",
+     "Radio": "Wireless FM radio (no wired headphones required)",
+     "USB": "2.0, Type-C 1.0 reversible connector, USB On-The-Go"
+    }
+   ],
+   "Features": [
+    {
+     "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass"
+    }
+   ],
+   "Battery": [
+    {
+     "info": "Non-removable Li-Po 5000 mAh battery",
+     "Charging": "Fast battery charging 18W"
+    }
+   ],
+   "Misc": [
+    {
+     "Colors": "Onyx Black, Ruby Red, Sapphire Blue",
+     "Models": "M1908C3IC, MZB8255IN",
+     "SAR": "0.34 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
+     "Price": "About 100 EUR"
+    }
+   ]
+  }
+ },
+ {
   "name": "Xiaomi Redmi 8A",
   "codename": "",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-8a.jpg",
@@ -616,6 +718,14 @@
      "Colors": "Black, Blue, White",
      "Price": "$\u2009241.99 / \u00a3\u2009258.49"
     }
+   ],
+   "Tests": [
+    {
+     "Performance": "\nBasemark OS II: 3372 / Basemark OS II 2.0: 2748Basemark X: 27191",
+     "Display": "\nContrast ratio: Infinite (nominal)",
+     "Loudspeaker": "\nVoice 67dB / Noise 72dB / Ring 83dB\n",
+     "Battery life": "\n\nEndurance rating 106h\n\n"
+    }
    ]
   }
  },
@@ -739,17 +849,17 @@
  {
   "name": "Xiaomi Black Shark 2 Pro",
   "codename": "",
-  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark2-pro.jpg",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark2-pro-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_black_shark_2_pro-9779.php",
   "specs": {
    "Network": [
     {
      "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-     "info": "CDMA2000 1xEV-DO ",
+     "info": "LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
-     "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (5CA) Cat18 1200/150 Mbps"
+     "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 19(800), 20(800), 28(700), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - Global",
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (5CA/3CA) Cat18 1200/150 Mbps"
     }
    ],
    "Launch": [
@@ -771,7 +881,7 @@
      "Type": "AMOLED capacitive touchscreen, 16M colors",
      "Size": "6.39 inches, 100.2 cm2 (~81.7% screen-to-body ratio)",
      "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
-     "info": "DCI-P3 100%\r\nAlways-on display\r\n240 Hz touch-sensing"
+     "info": "DCI-P3 109%\r\nAlways-on display\r\n240 Hz touch-sensing"
     }
    ],
    "Platform": [
@@ -785,14 +895,15 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "128GB 8GB RAM, 128GB 12GB RAM, 256GB 12GB RAM"
+     "Internal": "128GB 8GB RAM, 128GB 12GB RAM (CN), 256GB 12GB RAM",
+     "info": "UFS3.0"
     }
    ],
    "Main Camera": [
     {
      "Dual": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\n12 MP, f/2.2, (telephoto), 1.0\u00b5m, PDAF, 2x optical zoom",
      "Features": "LED flash, HDR, panorama",
-     "Video": "2160p@30/60fps, 1080p@30/60fps, 720p@1920fps"
+     "Video": "2160p@30/60fps, 1080p@30/60/120fps, 720p@1920fps"
     }
    ],
    "Selfie camera": [
@@ -831,8 +942,8 @@
    ],
    "Misc": [
     {
-     "Colors": "Electric black, Ice ash",
-     "Price": "About 450 EUR"
+     "Colors": "Shadow Black, Iceberg Grey, Gulf Blue",
+     "Price": "About 600 EUR"
     }
    ]
   }
@@ -3613,7 +3724,7 @@
      "Colors": "Midnight Black, Aurora Blue, Twilight Gold (China only)",
      "Models": "M1808D2TG",
      "SAR": "0.75 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "About 230 EUR"
+     "Price": "$\u2009150.99 / \u00a3\u2009152.26"
     }
    ],
    "Tests": [
@@ -6200,7 +6311,7 @@
      "Colors": "Black, Gold, Rose Gold, Red",
      "Models": "MDG2, MDI2",
      "SAR": "1.75 W/kg (head) \u00a0 \u00a0 0.76 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "About 170 EUR"
+     "Price": "$\u2009149.99 / \u00a3\u2009172.90 / \u20b9\u200910,999"
     }
    ],
    "Tests": [
