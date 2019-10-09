@@ -743,6 +743,17 @@
  },
  {
   "codename": "",
+  "internal_name": "C3I",
+  "name": "Redmi 8:",
+  "models": {
+   "M1908C3IG, M1908C3IH": "Redmi 8 Global",
+   "M1908C3II": "Redmi 8 India",
+   "M1908C3IE": "Redmi 8 China",
+   "M1908C3IC": "Redmi 8 China Unicom / China Telecom"
+  }
+ },
+ {
+  "codename": "",
   "internal_name": "C3K",
   "name": "Redmi 8A:",
   "models": {
