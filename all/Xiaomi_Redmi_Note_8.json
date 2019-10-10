@@ -23,7 +23,7 @@
    {
     "Dimensions": "158.3 x 75.3 x 8.4 mm (6.23 x 2.96 x 0.33 in)",
     "Weight": "190 (6.70 oz)",
-    "Build": "Front glass, plastic body",
+    "Build": "Front/back glass (Gorilla Glass 5)",
     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
    }
   ],
@@ -31,7 +31,8 @@
    {
     "Type": "IPS LCD capacitive touchscreen, 16M colors",
     "Size": "6.3 inches, 97.4 cm2 (~81.7% screen-to-body ratio)",
-    "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~409 ppi density)"
+    "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~409 ppi density)",
+    "Protection": "Corning Gorilla Glass 5"
    }
   ],
   "Platform": [
