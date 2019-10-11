@@ -723,6 +723,7 @@
     {
      "Performance": "\nBasemark OS II: 3372 / Basemark OS II 2.0: 2748Basemark X: 27191",
      "Display": "\nContrast ratio: Infinite (nominal)",
+     "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 67dB / Noise 72dB / Ring 83dB\n",
      "Battery life": "\n\nEndurance rating 106h\n\n"
     }
@@ -1264,7 +1265,7 @@
    "Misc": [
     {
      "Colors": "Black, Blue, White",
-     "Price": "About 260 EUR"
+     "Price": "$\u2009224.99 / \u00a3\u2009249.99"
     }
    ]
   }
@@ -4535,7 +4536,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (dedicated slot)",
-     "Internal": "16GB 2GB RAM, 32GB 3 RAM"
+     "Internal": "16GB 2GB RAM, 32GB 2GB RAM, 32GB 3GB RAM"
     }
    ],
    "Main Camera": [
@@ -4582,7 +4583,7 @@
      "Colors": "Black, Grey, Blue, Gold, Rose Gold",
      "Models": "M1804C3CG, M1804C3CH, M1804C3CI",
      "SAR": "0.66 W/kg (head) \u00a0 \u00a0 1.52 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "About 90 EUR"
+     "Price": "$\u200982.85 / \u00a3\u200969.98 / \u20b9\u20095,996"
     }
    ]
   }
@@ -4788,7 +4789,7 @@
      "Colors": "Black, Blue, White, Gold",
      "Models": "M1803E1A",
      "SAR": "0.70 W/kg (head) \u00a0 \u00a0 1.66 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "About 380 EUR"
+     "Price": "$\u2009230.99 / \u00a3\u2009219.99"
     }
    ],
    "Tests": [
