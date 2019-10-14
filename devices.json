@@ -47,7 +47,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 512 GB (dedicated slot)",
-     "Internal": "64GB 4GB RAM"
+     "Internal": "32GB 3GB RAM, 64GB 4GB RAM"
     }
    ],
    "Main Camera": [
@@ -76,6 +76,7 @@
      "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
      "Bluetooth": "4.2, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS",
+     "Infrared port": "Yes",
      "Radio": "Wireless FM radio (no wired headphones required)",
      "USB": "2.0, Type-C 1.0 reversible connector, USB On-The-Go"
     }
@@ -1048,7 +1049,7 @@
      "Models": "M1906F9SH, M1906F9SI",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.30 W/kg (head) \u00a0 \u00a0 1.10 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009156.99 / \u00a3\u2009177.00 / \u20b9\u200912,999"
+     "Price": "$\u2009159.78 / \u00a3\u2009170.82 / \u20b9\u200912,999"
     }
    ],
    "Tests": [
@@ -1678,7 +1679,7 @@
      "Colors": "Carbon black, Red flame, Glacier blue",
      "Models": "M1903F10G",
      "SAR EU": "1.34 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009276.99 / \u00a3\u2009269.00 / \u20b9\u200921,499"
+     "Price": "$\u2009276.99 / \u00a3\u2009259.83 / \u20b9\u200919,999"
     }
    ],
    "Tests": [
@@ -1793,7 +1794,7 @@
      "Colors": "Carbon black, Red flame, Glacier blue, Pearl White",
      "Models": "M1903F10I",
      "SAR": "1.07 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009299.70 / \u00a3\u2009289.99 / \u20b9\u200922,263"
+     "Price": "$\u2009282.99 / \u00a3\u2009267.99 / \u20b9\u200919,999"
     }
    ]
   }
@@ -2116,7 +2117,7 @@
      "Colors": "Elegant Blue, Bold Red, Prime Black",
      "Models": "M1810F6G, M1810F6I",
      "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.25 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "About 10000 INR"
+     "Price": "$\u2009189.00 / \u00a3\u2009159.00 / \u20b9\u20097,999"
     }
    ]
   }
@@ -3080,7 +3081,7 @@
      "Colors": "Blue, Black, Twilight Gold, White",
      "Models": "M1901F7G, M1901F7H, M1901F7I",
      "SAR": "0.59 W/kg (head) \u00a0 \u00a0 1.27 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009139.00 / \u00a3\u2009151.86 / \u20b9\u200911,999"
+     "Price": "$\u2009138.85 / \u00a3\u2009147.41 / \u20b9\u20099,999"
     }
    ],
    "Tests": [
@@ -3396,7 +3397,7 @@
      "Colors": "Jade Green, Sapphire Blue, Onyx Black, Forbidden City Blue (10 GB only)",
      "Models": "M1810E5A",
      "SAR": "1.45 W/kg (head) \u00a0 \u00a0 1.57 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "About 560 EUR"
+     "Price": "$\u2009305.99 / \u00a3\u2009324.00"
     }
    ],
    "Tests": [
@@ -4175,7 +4176,7 @@
      "Colors": "Black, Champagne Gold, Blue",
      "Models": "M1804E4A",
      "SAR": "1.58 W/kg (head) \u00a0 \u00a0 1.42 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "About 230 EUR"
+     "Price": "$\u2009158.99 / \u00a3\u2009142.68"
     }
    ],
    "Tests": [
@@ -4436,7 +4437,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (dedicated slot)",
-     "Internal": "32GB 3GB RAM, 64GB 4GB RAM"
+     "Internal": "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"
     }
    ],
    "Main Camera": [
@@ -4483,7 +4484,7 @@
      "Colors": "Black, Grey, Blue, Gold, Rose Gold",
      "Models": "M1804C3DG, M1804C3DH, M1804C3DI",
      "SAR": "0.55 W/kg (head) \u00a0 \u00a0 1.42 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "About 120 EUR"
+     "Price": "$\u2009111.99 / \u00a3\u200979.98 / \u20b9\u20097,469"
     }
    ]
   }
@@ -5504,7 +5505,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 128 GB (uses shared SIM slot)",
-     "Internal": "32GB 3GB RAM, 64GB 4GB RAM"
+     "Internal": "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"
     }
    ],
    "Main Camera": [
@@ -5553,7 +5554,7 @@
      "Colors": "Black, Gold, Blue, Rose Gold",
      "Models": "MEG7, MEI7",
      "SAR": "1.01 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "About 160 EUR"
+     "Price": "$\u2009133.06 / \u00a3\u2009139.99 / \u20b9\u20097,499"
     }
    ],
    "Tests": [
@@ -6489,7 +6490,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 128 GB (uses shared SIM slot)",
-     "Internal": "16GB 2GB RAM, 32GB 3GB RAM, 64GB 4GB RAM"
+     "Internal": "16GB 2GB RAM, 32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"
     }
    ],
    "Main Camera": [
@@ -6540,7 +6541,7 @@
      "Colors": "Black, Gold",
      "Models": "2016060, 2016090, MAG138, MAE136",
      "SAR": "0.77 W/kg (head) \u00a0 \u00a0 0.83 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "About 110 EUR"
+     "Price": "$\u2009138.99 / \u00a3\u200999.99 / \u20b9\u20097,499"
     }
    ],
    "Tests": [
