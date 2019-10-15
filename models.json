@@ -742,9 +742,9 @@
   }
  },
  {
-  "codename": "",
+  "codename": "olive",
   "internal_name": "C3I",
-  "name": "Redmi 8:",
+  "name": "Redmi 8",
   "models": {
    "M1908C3IG, M1908C3IH": "Redmi 8 Global",
    "M1908C3II": "Redmi 8 India",
@@ -753,9 +753,9 @@
   }
  },
  {
-  "codename": "",
+  "codename": "olivelite",
   "internal_name": "C3K",
-  "name": "Redmi 8A:",
+  "name": "Redmi 8A",
   "models": {
    "M1908C3KG, M1908C3KH": "Redmi 8A Global",
    "M1908C3KI": "Redmi 8A India",
@@ -1002,6 +1002,14 @@
    "M1903F11A": "Redmi K20 Pro China",
    "M1903F11T": "Redmi K20 Pro China Mobile",
    "M1903F11C": "Redmi K20 Pro China Unicom / China Telecom"
+  }
+ },
+ {
+  "codename": "raphaels",
+  "internal_name": "F11",
+  "name": "Redmi K20 Pro Premium Edition",
+  "models": {
+   "M1903F11A": "Redmi K20 Pro Premium Edition China"
   }
  },
  {
