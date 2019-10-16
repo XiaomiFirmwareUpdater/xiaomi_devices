@@ -1,7 +1,7 @@
 [
  {
   "name": "Xiaomi Redmi 8",
-  "codename": "",
+  "codename": "olive",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-8.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_8-9800.php",
   "specs": {
@@ -104,7 +104,7 @@
  },
  {
   "name": "Xiaomi Redmi 8A",
-  "codename": "",
+  "codename": "olivelite",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-8a.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_8a-9897.php",
   "specs": {
@@ -518,7 +518,7 @@
  },
  {
   "name": "Xiaomi Redmi K20 Pro Premium",
-  "codename": "",
+  "codename": "raphaels",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k20pro-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k20_pro_premium-9884.php",
   "specs": {
@@ -780,7 +780,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "64GB 6 GB RAM, 128GB 6GB RAM, 128GB 8GB RAM",
+     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM",
      "info": "UFS2.1"
     }
    ],
@@ -833,7 +833,7 @@
      "Models": "2015105, M1906G7I",
      "SAR": "1.13 W/kg (head) \u00a0 \u00a0 0.63 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.38 W/kg (head) \u00a0 \u00a0 0.80 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009219.99 / \u00a3\u2009225.58"
+     "Price": "$\u2009215.99 / \u00a3\u2009225.58"
     }
    ],
    "Tests": [
@@ -1575,7 +1575,7 @@
      "Models": "M1903F11G",
      "SAR": "1.03 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "1.30 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009369.99 / \u00a3\u2009334.26"
+     "Price": "$\u2009355.00 / \u00a3\u2009323.17"
     }
    ]
   }
@@ -2436,7 +2436,7 @@
      "Colors": "Nebula Red, Neptune Blue, Space Black, Astro White",
      "Models": "M1901F7S",
      "SAR": "0.96 W/kg (head) \u00a0 \u00a0 0.84 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009214.99 / \u00a3\u2009186.88 / \u20b9\u200913,080"
+     "Price": "$\u2009213.99 / \u00a3\u2009180.00 / \u20b9\u200911,999"
     }
    ]
   }
@@ -6916,7 +6916,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "16GB 3 RAM, 32GB 3 RAM, 64GB 4GB RAM"
+     "Internal": "16GB 3GB RAM, 32GB 3GB RAM, 64GB 4GB RAM"
     }
    ],
    "Main Camera": [
