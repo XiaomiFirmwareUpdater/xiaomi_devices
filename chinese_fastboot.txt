@@ -35,6 +35,8 @@ natrium - F
 nikel - F
 nikel - F
 nitrogen - F
+olive - F
+olivelite - F
 omega - F
 onclite - F
 oxygen - F
