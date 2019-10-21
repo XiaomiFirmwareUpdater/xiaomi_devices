@@ -6,26 +6,18 @@ from bs4 import BeautifulSoup
 from requests import get
 
 
-def fetch(url):
+def china_devices():
     """
     Extract devices json from MIUI downloads page
     :param url: MIUI downloads page
     """
-    response = get(url)
+    response = get("http://www.miui.com/download.html")
     page = BeautifulSoup(response.content, 'html.parser')
     data = page.findAll("script")
     data = [i.text for i in data if "var phones" in i.text][0].split('=')[1].split(';')[0]
     info = json.loads(data)
     sorted_info = sorted(info, key=lambda k: k['pid'], reverse=True)
-    if 'en.' in url:
-        name = 'global'
-    elif 'ru.' in url:
-        name = 'russian'
-    elif 'in.' in url:
-        name = 'indian'
-    else:
-        name = 'china'
-    with open(f'{name}.json', 'w') as output:
+    with open('china.json', 'w') as output:
         json.dump(sorted_info, output, indent=1, ensure_ascii=False)
 
 
@@ -50,12 +42,21 @@ def global_devices():
         json.dump(data, output, indent=1, ensure_ascii=False)
 
 
-def fastboot(name, url):
-    """fetch MIUI fastboot rom devices"""
-    page = BeautifulSoup(get(url).content, 'html.parser')
+def china_fastboot():
+    """fetch MIUI china fastboot rom devices"""
+    page = BeautifulSoup(get("https://www.miui.com/shuaji-393.html").content, 'html.parser')
     links = [f"{i['href'].split('=')[1].split('&')[0].strip()} - {i['href'].split('=')[2].split('&')[0]}"
              for i in page.findAll('a') if "fullromdownload" in str(i)]
-    with open(f'{name}_fastboot.txt', 'w') as output:
+    with open("chinese_fastboot.txt", 'w') as output:
+        output.writelines(i + '\n' for i in sorted(links))
+
+
+def global_fastboot():
+    """fetch MIUI global fastboot rom devices"""
+    data = get("https://c.mi.com/oc/rom/getlinepackagelist").json()["data"]
+    links = [f"{i['package_url'].split('=')[1].split('&')[0].strip()} - {i['package_url'].split('=')[2].split('&')[0]}"
+             for i in data]
+    with open("global_fastboot.txt", 'w') as output:
         output.writelines(i + '\n' for i in sorted(links))
 
 
@@ -63,14 +64,10 @@ def main():
     """
     Scrap Xiaomi devices downloads info from official site and generate JSON files
     """
-    urls = ['http://www.miui.com/download.html', 'http://en.miui.com/download.html']
-    for url in urls:
-        fetch(url)
+    china_devices()
     global_devices()
-    fastboot_urls = {'global': 'https://en.miui.com/a-234.html',
-                     'chinese': 'https://www.miui.com/shuaji-393.html'}
-    for name, url in fastboot_urls.items():
-        fastboot(name, url)
+    china_fastboot()
+    global_fastboot()
 
 
 if __name__ == '__main__':
