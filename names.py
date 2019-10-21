@@ -58,7 +58,7 @@ def tracker():
     """
     url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/' \
           'miui-updates-tracker/master/devices/names.yml'
-    data = yaml.load(get(url).text, Loader=yaml.CLoader)
+    data = yaml.load(get(url).text, Loader=yaml.FullLoader)
     for codename, info in data.items():
         DEVICES.update({codename: info[0]})
 
