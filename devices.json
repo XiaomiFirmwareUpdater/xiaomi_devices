@@ -200,7 +200,7 @@
    "Misc": [
     {
      "Colors": "Midnight Black, Ocean Blue, Sunset Red",
-     "Price": "$\u200996.99 / \u00a3\u2009120.60 / \u20b9\u20096,499"
+     "Price": "$\u2009112.99 / \u00a3\u2009121.30 / \u20b9\u20096,499"
     }
    ]
   }
@@ -407,7 +407,7 @@
    "Misc": [
     {
      "Colors": "Dream White, Titanium Black",
-     "Price": "$\u2009587.99"
+     "Price": "$\u2009569.00"
     }
    ]
   }
@@ -511,7 +511,7 @@
    "Misc": [
     {
      "Colors": "Dream White, Titanium Black",
-     "Price": "$\u2009324.00 / \u00a3\u2009367.00"
+     "Price": "$\u2009329.99 / \u00a3\u2009367.00"
     }
    ]
   }
@@ -833,7 +833,7 @@
      "Models": "2015105, M1906G7I",
      "SAR": "1.13 W/kg (head) \u00a0 \u00a0 0.63 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.38 W/kg (head) \u00a0 \u00a0 0.80 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009217.80 / \u00a3\u2009269.24"
+     "Price": "$\u2009217.80 / \u00a3\u2009188.00"
     }
    ],
    "Tests": [
@@ -1162,7 +1162,7 @@
      "Colors": "Matte Black, Morning blue, Matte Blue, Matte Gold, Gem Red, Gem Blue",
      "Models": "MZB7995IN, M1903C3EG, M1903C3EH, M1903C3EI",
      "SAR": "0.74 W/kg (head) \u00a0 \u00a0 0.79 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u200980.99 / \u00a3\u200975.98 / \u20b9\u20095,599"
+     "Price": "$\u200980.99 / \u00a3\u200975.98 / \u20b9\u20094,999"
     }
    ]
   }
@@ -1266,7 +1266,7 @@
    "Misc": [
     {
      "Colors": "Black, Blue, White",
-     "Price": "$\u2009224.99 / \u00a3\u2009229.99"
+     "Price": "$\u2009224.99 / \u00a3\u2009249.59"
     }
    ]
   }
@@ -1382,8 +1382,9 @@
     {
      "Technology": "GSM / HSPA / LTE",
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-     "3G bands": "HSDPA 850 / 900 / 2100 ",
-     "4G bands": "LTE band 1(2100), 3(1800), 5(850), 8(900), 38(2600), 40(2300), 41(2500)",
+     "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
+     "info": "LTE band 1(2100), 3(1800), 5(850), 8(900), 38(2600), 40(2300), 41(2500)",
+     "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300)",
      "Speed": "HSPA 42.2/11.5 Mbps, LTE-A"
     }
    ],
@@ -1419,20 +1420,20 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB",
-     "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM"
+     "Card slot": "microSD, up to 256 GB (dedicated slot)",
+     "Internal": "32GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM"
     }
    ],
    "Main Camera": [
     {
-     "Quad": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m, depth sensor",
+     "Quad": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m, depth sensor",
      "Features": "LED flash, HDR, panorama",
-     "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps, gyro-EIS"
+     "Video": "2160p@30fps, 1080p@30/60/120fps, gyro-EIS"
     }
    ],
    "Selfie camera": [
     {
-     "Single": "13 MP, f/2.0",
+     "Single": "13 MP, f/2.0, 1.12\u00b5m",
      "Features": "HDR, panorama",
      "Video": "1080p@30fps"
     }
@@ -1446,8 +1447,8 @@
    "Comms": [
     {
      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
-     "Bluetooth": "5.0, A2DP, LE",
-     "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS",
+     "Bluetooth": "4.2, A2DP, LE",
+     "GPS": "Yes, with A-GPS, GLONASS, BDS",
      "Infrared port": "Yes",
      "Radio": "FM radio",
      "USB": "2.0, Type-C 1.0 reversible connector, USB On-The-Go"
@@ -1466,7 +1467,7 @@
    ],
    "Misc": [
     {
-     "Colors": "Crystal Green, Crystal Blue",
+     "Colors": "Neptune Blue, Moonlight White, Space Black",
      "Models": "M1908C3JH, M1908C3JG, M1908C3JI",
      "SAR": "0.26 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.19 W/kg (head) \u00a0 \u00a0 1.09 W/kg (body) \u00a0 \u00a0 ",
@@ -1575,7 +1576,7 @@
      "Models": "M1903F11G",
      "SAR": "1.03 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "1.30 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009355.00 / \u00a3\u2009317.70"
+     "Price": "$\u2009355.00 / \u00a3\u2009315.41"
     }
    ]
   }
@@ -1679,7 +1680,7 @@
      "Colors": "Carbon black, Red flame, Glacier blue",
      "Models": "M1903F10G",
      "SAR EU": "1.34 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009298.00 / \u00a3\u2009256.08 / \u20b9\u200921,792"
+     "Price": "$\u2009298.00 / \u00a3\u2009256.08 / \u20b9\u200919,999"
     }
    ],
    "Tests": [
@@ -1794,7 +1795,7 @@
      "Colors": "Carbon black, Red flame, Glacier blue, Pearl White",
      "Models": "M1903F10I",
      "SAR": "1.07 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009289.99 / \u00a3\u2009260.99 / \u20b9\u200921,790"
+     "Price": "$\u2009289.99 / \u00a3\u2009260.99 / \u20b9\u200919,999"
     }
    ]
   }
@@ -1899,7 +1900,7 @@
      "Colors": "Carbon black, Flame red, Glacier blue, Summer Honey, Pearl White",
      "Models": "M1903F11I",
      "SAR": "1.03 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009359.99 / \u00a3\u2009304.60 / \u20b9\u200927,999"
+     "Price": "$\u2009359.99 / \u00a3\u2009304.60 / \u20b9\u200924,999"
     }
    ],
    "Tests": [
@@ -2012,7 +2013,7 @@
     {
      "Colors": "Onyx Black, Sapphire Blue, Ruby Red, Astro White",
      "Models": "M1901F71",
-     "Price": "\u20b9\u20099,850"
+     "Price": "\u20b9\u20098,999"
     }
    ]
   }
@@ -2436,7 +2437,7 @@
      "Colors": "Nebula Red, Neptune Blue, Space Black, Astro White",
      "Models": "M1901F7S",
      "SAR": "0.96 W/kg (head) \u00a0 \u00a0 0.84 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009213.99 / \u00a3\u2009210.00 / \u20b9\u200912,340"
+     "Price": "$\u2009213.99 / \u00a3\u2009210.00 / \u20b9\u200911,999"
     }
    ]
   }
@@ -2752,7 +2753,7 @@
      "Colors": "Violet, Blue, Gray",
      "Models": "M1903F2G",
      "SAR": "1.39 W/kg (head) \u00a0 \u00a0 1.39 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009192.50 / \u00a3\u2009289.99"
+     "Price": "$\u2009224.99 / \u00a3\u2009299.44"
     }
    ],
    "Tests": [
@@ -3081,7 +3082,7 @@
      "Colors": "Blue, Black, Twilight Gold, White",
      "Models": "M1901F7G, M1901F7H, M1901F7I",
      "SAR": "0.59 W/kg (head) \u00a0 \u00a0 1.27 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009138.00 / \u00a3\u2009148.82 / \u20b9\u20099,999"
+     "Price": "$\u2009138.70 / \u00a3\u2009149.60 / \u20b9\u20099,999"
     }
    ],
    "Tests": [
@@ -3511,7 +3512,7 @@
      "Colors": "Black, Blue, Rose Gold, Red",
      "Models": "M1806E7TG, M1806E7TH, M1806E7TI",
      "SAR": "0.76 W/kg (head) \u00a0 \u00a0 1.48 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009129.99 / \u00a3\u2009128.99 / \u20b9\u200911,990"
+     "Price": "$\u2009132.00 / \u00a3\u2009128.99 / \u20b9\u200911,990"
     }
    ],
    "Tests": [
@@ -3625,7 +3626,7 @@
      "Colors": "Black (transparent back), Meteorite black, Twilight Gold",
      "Models": "M1807E8A",
      "SAR": "0.97 W/kg (head) \u00a0 \u00a0 1.53 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009324.00 / \u00a3\u2009309.00"
+     "Price": "$\u2009327.99 / \u00a3\u2009309.00"
     }
    ]
   }
@@ -3727,7 +3728,7 @@
      "Colors": "Midnight Black, Aurora Blue, Twilight Gold (China only)",
      "Models": "M1808D2TG",
      "SAR": "0.75 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009150.99 / \u00a3\u2009145.72"
+     "Price": "$\u2009150.99 / \u00a3\u2009175.00"
     }
    ],
    "Tests": [
@@ -3952,7 +3953,7 @@
      "Colors": "Black, Gold, Blue, Red, Rose Gold",
      "Models": "M1804D2SG, M1804D2SI",
      "SAR": "0.96 W/kg (head) \u00a0 \u00a0 0.64 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009142.99 / \u00a3\u2009150.12 / \u20b9\u20098,850"
+     "Price": "$\u2009134.99 / \u00a3\u2009139.00 / \u20b9\u20098,888"
     }
    ],
    "Tests": [
@@ -4063,7 +4064,7 @@
      "Colors": "Black, Blue, Gold (Global); Rose Gold, Red (China only)",
      "Models": "M1805D1SG",
      "SAR": "0.55 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009134.97 / \u00a3\u2009113.00"
+     "Price": "$\u2009134.97 / \u00a3\u2009106.00 / \u20b9\u20097,989"
     }
    ],
    "Tests": [
@@ -4484,7 +4485,7 @@
      "Colors": "Black, Grey, Blue, Gold, Rose Gold",
      "Models": "M1804C3DG, M1804C3DH, M1804C3DI",
      "SAR": "0.55 W/kg (head) \u00a0 \u00a0 1.42 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009111.99 / \u00a3\u200979.98 / \u20b9\u20096,499"
+     "Price": "$\u2009111.99 / \u00a3\u200979.98 / \u20b9\u20096,999"
     }
    ]
   }
@@ -4584,7 +4585,7 @@
      "Colors": "Black, Grey, Blue, Gold, Rose Gold",
      "Models": "M1804C3CG, M1804C3CH, M1804C3CI",
      "SAR": "0.66 W/kg (head) \u00a0 \u00a0 1.52 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u200982.85 / \u00a3\u200969.98 / \u20b9\u20094,999"
+     "Price": "$\u200989.95 / \u00a3\u200969.98 / \u20b9\u20094,999"
     }
    ]
   }
@@ -5554,7 +5555,7 @@
      "Colors": "Black, Gold, Blue, Rose Gold",
      "Models": "MEG7, MEI7",
      "SAR": "1.01 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009133.06 / \u00a3\u2009139.99 / \u20b9\u20098,569"
+     "Price": "$\u2009133.06 / \u00a3\u2009139.99 / \u20b9\u20097,499"
     }
    ],
    "Tests": [
@@ -5778,7 +5779,7 @@
      "Colors": "Gold, Dark Gray, Rose Gold, Blue",
      "Models": "MCG3B, MCI3B",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 1.23 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u200967.99 / \u00a3\u2009100.76 / \u20b9\u20094,792"
+     "Price": "$\u200967.99 / \u00a3\u2009100.76 / \u20b9\u20094,791"
     }
    ]
   }
@@ -6314,7 +6315,7 @@
      "Colors": "Black, Gold, Rose Gold, Red",
      "Models": "MDG2, MDI2",
      "SAR": "1.75 W/kg (head) \u00a0 \u00a0 0.76 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009149.99 / \u00a3\u2009172.90 / \u20b9\u200910,399"
+     "Price": "$\u2009149.99 / \u00a3\u2009157.62 / \u20b9\u200910,399"
     }
    ],
    "Tests": [
