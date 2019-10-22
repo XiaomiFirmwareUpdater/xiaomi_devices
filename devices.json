@@ -1049,7 +1049,7 @@
      "Models": "M1906F9SH, M1906F9SI",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.30 W/kg (head) \u00a0 \u00a0 1.10 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009159.78 / \u00a3\u2009137.98 / \u20b9\u200912,999"
+     "Price": "$\u2009156.89 / \u00a3\u2009137.98 / \u20b9\u200912,999"
     }
    ],
    "Tests": [
@@ -1421,7 +1421,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (dedicated slot)",
-     "Internal": "32GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM"
+     "Internal": "32GB 3GB RAM, 64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM, 128GB 6GB RAM"
     }
    ],
    "Main Camera": [
@@ -1471,7 +1471,7 @@
      "Models": "M1908C3JH, M1908C3JG, M1908C3JI",
      "SAR": "0.26 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.19 W/kg (head) \u00a0 \u00a0 1.09 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009199.99 / \u00a3\u2009159.00 / \u20b9\u20099,999"
+     "Price": "$\u2009155.99 / \u00a3\u2009155.00 / \u20b9\u20099,999"
     }
    ]
   }
@@ -1795,7 +1795,7 @@
      "Colors": "Carbon black, Red flame, Glacier blue, Pearl White",
      "Models": "M1903F10I",
      "SAR": "1.07 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009289.99 / \u00a3\u2009260.99 / \u20b9\u200919,999"
+     "Price": "$\u2009277.99 / \u00a3\u2009260.99 / \u20b9\u200919,999"
     }
    ]
   }
@@ -2118,7 +2118,7 @@
      "Colors": "Elegant Blue, Bold Red, Prime Black",
      "Models": "M1810F6G, M1810F6I",
      "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.25 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009189.00 / \u00a3\u2009159.00 / \u20b9\u20097,999"
+     "Price": "\u00a3\u2009159.00 / \u20b9\u20097,999"
     }
    ]
   }
@@ -2869,7 +2869,7 @@
      "Colors": "Lavender Violet, Ocean Blue, Piano Black",
      "Models": "M1902F1G",
      "SAR": "1.39 W/kg (head) \u00a0 \u00a0 1.30 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009242.99 / \u00a3\u2009309.00"
+     "Price": "$\u2009349.99 / \u00a3\u2009324.00"
     }
    ],
    "Tests": [
@@ -3840,7 +3840,7 @@
      "Colors": "Graphite Black, Steel Blue, Rosso Red, Armored Edition with Kevlar",
      "Models": "M1805E10A",
      "SAR": "0.54 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009265.99 / \u00a3\u2009239.99 / \u20b9\u200914,999"
+     "Price": "$\u2009265.99 / \u00a3\u2009239.99 / \u20b9\u200914,399"
     }
    ],
    "Tests": [
@@ -3953,7 +3953,7 @@
      "Colors": "Black, Gold, Blue, Red, Rose Gold",
      "Models": "M1804D2SG, M1804D2SI",
      "SAR": "0.96 W/kg (head) \u00a0 \u00a0 0.64 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009134.99 / \u00a3\u2009139.00 / \u20b9\u20098,888"
+     "Price": "$\u2009142.99 / \u00a3\u2009139.00 / \u20b9\u20098,199"
     }
    ],
    "Tests": [
@@ -4791,7 +4791,7 @@
      "Colors": "Black, Blue, White, Gold",
      "Models": "M1803E1A",
      "SAR": "0.70 W/kg (head) \u00a0 \u00a0 1.66 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009245.99 / \u00a3\u2009219.99"
+     "Price": "$\u2009245.99 / \u00a3\u2009241.05"
     }
    ],
    "Tests": [
@@ -5619,7 +5619,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 128 GB (uses shared SIM slot)",
-     "Internal": "16GB 2GB RAM, 32GB 3GB RAM, 32GB 4GB RAM"
+     "Internal": "16GB 2GB RAM, 32GB 3GB RAM, 32GB 4GB RAM, 64GB 4GB RAM"
     }
    ],
    "Main Camera": [
@@ -5668,7 +5668,7 @@
      "Colors": "Black, Gold, Light Blue, Rose Gold",
      "Models": "MDG1, MDI1",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 1.53 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "About 160 EUR"
+     "Price": "$\u2009127.99 / \u20b9\u20097,399"
     }
    ],
    "Tests": [
@@ -6491,7 +6491,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 128 GB (uses shared SIM slot)",
-     "Internal": "16GB 2GB RAM, 32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"
+     "Internal": "16GB 2GB RAM, 16GB 3GB RAM, 32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"
     }
    ],
    "Main Camera": [
@@ -7173,7 +7173,7 @@
      "Colors": "Gold, Rose Gold, Dark Gray",
      "Models": "2016117",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 1.18 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "About 110 EUR"
+     "Price": "$\u2009113.67 / \u20b9\u20096,999"
     }
    ],
    "Tests": [
