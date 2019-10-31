@@ -305,6 +305,14 @@
   }
  },
  {
+  "codename": "tucana",
+  "internal_name": "F4",
+  "name": "Mi Note 10",
+  "models": {
+   "M1910F4G": "Mi Note 10 Global"
+  }
+ },
+ {
   "codename": "lithium",
   "internal_name": "A8",
   "name": "Mi MIX",
@@ -412,9 +420,9 @@
   }
  },
  {
-  "codename": "",
+  "codename": "tucana",
   "internal_name": "F4",
-  "name": "Mi CC 9 Pro:",
+  "name": "Mi CC 9 Pro",
   "models": {
    "M1910F4E": "Mi CC 9 Pro China"
   }
