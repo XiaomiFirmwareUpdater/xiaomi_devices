@@ -49,7 +49,8 @@
   "Memory": [
    {
     "Card slot": "No",
-    "Internal": "64GB 6GB RAM"
+    "Internal": "64GB 6GB RAM, 128GB 6GB RAM",
+    "info": "UFS2.1"
    }
   ],
   "Main Camera": [
@@ -99,7 +100,7 @@
     "Colors": "Sapphire Blue",
     "Models": "M1810E5GG",
     "SAR": "1.56 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009359.99 / \u00a3\u2009306.14"
+    "Price": "$\u2009349.99 / \u00a3\u2009306.14"
    }
   ]
  }
