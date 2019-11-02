@@ -97,7 +97,7 @@
      "Colors": "Onyx Black, Ruby Red, Sapphire Blue",
      "Models": "M1908C3IC, MZB8255IN",
      "SAR": "0.34 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009111.69 / \u00a3\u2009130.07 / \u20b9\u20097,999"
+     "Price": "$\u2009111.69 / \u00a3\u2009130.51 / \u20b9\u20097,999"
     }
    ]
   }
@@ -200,7 +200,7 @@
    "Misc": [
     {
      "Colors": "Midnight Black, Ocean Blue, Sunset Red",
-     "Price": "$\u200996.99 / \u00a3\u2009109.28 / \u20b9\u20096,499"
+     "Price": "$\u200996.99 / \u00a3\u2009109.33 / \u20b9\u20096,499"
     }
    ]
   }
@@ -511,7 +511,7 @@
    "Misc": [
     {
      "Colors": "Dream White, Titanium Black",
-     "Price": "$\u2009324.41 / \u00a3\u2009331.32"
+     "Price": "$\u2009324.37 / \u00a3\u2009332.44"
     }
    ]
   }
@@ -717,7 +717,7 @@
    "Misc": [
     {
      "Colors": "Black, Blue, White",
-     "Price": "$\u2009224.00 / \u00a3\u2009215.99"
+     "Price": "$\u2009224.00 / \u00a3\u2009215.99 / \u20ac\u2009242.98"
     }
    ],
    "Tests": [
@@ -833,7 +833,7 @@
      "Models": "2015105, M1906G7I",
      "SAR": "1.13 W/kg (head) \u00a0 \u00a0 0.63 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.38 W/kg (head) \u00a0 \u00a0 0.80 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009210.12 / \u00a3\u2009182.00 / \u20ac\u2009243.14 / \u20b9\u200914,999"
+     "Price": "$\u2009207.55 / \u00a3\u2009182.00 / \u20ac\u2009247.99 / \u20b9\u200914,999"
     }
    ],
    "Tests": [
@@ -1050,7 +1050,7 @@
      "Models": "M1906F9SH, M1906F9SI",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.30 W/kg (head) \u00a0 \u00a0 1.10 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009147.99 / \u00a3\u2009142.07 / \u20ac\u2009198.99 / \u20b9\u200912,999"
+     "Price": "$\u2009147.99 / \u00a3\u2009142.07 / \u20ac\u2009183.17 / \u20b9\u200912,999"
     }
    ],
    "Tests": [
@@ -1163,7 +1163,7 @@
      "Colors": "Matte Black, Morning blue, Matte Blue, Matte Gold, Gem Red, Gem Blue",
      "Models": "MZB7995IN, M1903C3EG, M1903C3EH, M1903C3EI",
      "SAR": "0.74 W/kg (head) \u00a0 \u00a0 0.79 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u200980.99 / \u00a3\u200972.19 / \u20b9\u20095,549"
+     "Price": "$\u200980.99 / \u00a3\u200972.19 / \u20ac\u200980.88 / \u20b9\u20095,840"
     }
    ]
   }
@@ -1472,7 +1472,7 @@
      "Models": "M1908C3JH, M1908C3JG, M1908C3JI",
      "SAR": "0.26 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.19 W/kg (head) \u00a0 \u00a0 1.09 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009149.99 / \u00a3\u2009136.99 / \u20ac\u2009191.97 / \u20b9\u20099,999"
+     "Price": "$\u2009147.99 / \u00a3\u2009136.99 / \u20ac\u2009190.31 / \u20b9\u20099,999"
     }
    ]
   }
@@ -1681,7 +1681,7 @@
      "Colors": "Carbon black, Red flame, Glacier blue",
      "Models": "M1903F10G",
      "SAR EU": "1.34 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009278.99 / \u00a3\u2009255.49 / \u20ac\u2009293.90 / \u20b9\u200921,390"
+     "Price": "$\u2009277.99 / \u00a3\u2009255.49 / \u20ac\u2009293.50 / \u20b9\u200921,999"
     }
    ],
    "Tests": [
@@ -1796,7 +1796,7 @@
      "Colors": "Carbon black, Red flame, Glacier blue, Pearl White",
      "Models": "M1903F10I",
      "SAR": "1.07 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009259.99 / \u00a3\u2009263.99 / \u20b9\u200921,390"
+     "Price": "$\u2009259.99 / \u00a3\u2009263.99 / \u20b9\u200921,999"
     }
    ]
   }
@@ -2014,7 +2014,7 @@
     {
      "Colors": "Onyx Black, Sapphire Blue, Ruby Red, Astro White",
      "Models": "M1901F71",
-     "Price": "\u20b9\u20098,890"
+     "Price": "\u20b9\u20098,895"
     }
    ]
   }
@@ -2119,7 +2119,7 @@
      "Colors": "Elegant Blue, Bold Red, Prime Black",
      "Models": "M1810F6G, M1810F6I",
      "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.25 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "\u00a3\u2009159.00 / \u20b9\u20098,338"
+     "Price": "\u00a3\u2009159.00 / \u20b9\u20098,320"
     }
    ]
   }
@@ -2221,7 +2221,7 @@
     {
      "Colors": "Black, Silver, Blue",
      "Models": "SKW-H0, SKW-A0",
-     "Price": "$\u2009419.99 / \u00a3\u20094.35"
+     "Price": "$\u2009419.99 / \u00a3\u2009396.48"
     }
    ],
    "Tests": [
@@ -2335,7 +2335,7 @@
      "Colors": "Lunar Red, Eclipse Black, Comet Blue",
      "Models": "M1810F6LG, M1810F6LH, M1810F6LI",
      "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.25 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009106.00 / \u00a3\u200999.99 / \u20b9\u20098,499"
+     "Price": "$\u2009106.00 / \u00a3\u2009105.32 / \u20b9\u20098,499"
     }
    ]
   }
@@ -2438,7 +2438,7 @@
      "Colors": "Nebula Red, Neptune Blue, Space Black, Astro White",
      "Models": "M1901F7S",
      "SAR": "0.96 W/kg (head) \u00a0 \u00a0 0.84 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009190.89 / \u00a3\u2009210.00 / \u20b9\u200912,090"
+     "Price": "$\u2009190.89 / \u00a3\u2009210.00 / \u20b9\u200910,899"
     }
    ]
   }
@@ -2755,7 +2755,7 @@
      "Colors": "Violet, Blue, Gray",
      "Models": "M1903F2G",
      "SAR": "1.39 W/kg (head) \u00a0 \u00a0 1.39 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009223.49 / \u00a3\u2009252.30"
+     "Price": "$\u2009217.78 / \u00a3\u2009252.30 / \u20ac\u2009278.00"
     }
    ],
    "Tests": [
@@ -2871,7 +2871,7 @@
      "Colors": "Lavender Violet, Ocean Blue, Piano Black",
      "Models": "M1902F1G",
      "SAR": "1.39 W/kg (head) \u00a0 \u00a0 1.30 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009329.99 / \u00a3\u2009309.00"
+     "Price": "$\u2009329.99 / \u00a3\u2009309.00 / \u20ac\u2009383.00"
     }
    ],
    "Tests": [
@@ -3084,7 +3084,7 @@
      "Colors": "Blue, Black, Twilight Gold, White",
      "Models": "M1901F7G, M1901F7H, M1901F7I",
      "SAR": "0.59 W/kg (head) \u00a0 \u00a0 1.27 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009135.82 / \u00a3\u2009140.57 / \u20ac\u2009179.82 / \u20b9\u20099,999"
+     "Price": "$\u2009134.85 / \u00a3\u2009140.57 / \u20ac\u2009179.82 / \u20b9\u20099,999"
     }
    ],
    "Tests": [
@@ -3514,7 +3514,7 @@
      "Colors": "Black, Blue, Rose Gold, Red",
      "Models": "M1806E7TG, M1806E7TH, M1806E7TI",
      "SAR": "0.76 W/kg (head) \u00a0 \u00a0 1.48 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009169.99 / \u00a3\u2009134.35 / \u20b9\u20099,448"
+     "Price": "$\u2009169.99 / \u00a3\u2009134.35 / \u20b9\u20099,449"
     }
    ],
    "Tests": [
@@ -3628,7 +3628,7 @@
      "Colors": "Black (transparent back), Meteorite black, Twilight Gold",
      "Models": "M1807E8A",
      "SAR": "0.97 W/kg (head) \u00a0 \u00a0 1.53 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009324.41 / \u00a3\u2009309.00"
+     "Price": "$\u2009324.37 / \u00a3\u2009354.87"
     }
    ]
   }
@@ -3730,7 +3730,7 @@
      "Colors": "Midnight Black, Aurora Blue, Twilight Gold (China only)",
      "Models": "M1808D2TG",
      "SAR": "0.75 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009152.99 / \u00a3\u2009168.97"
+     "Price": "$\u2009152.99 / \u00a3\u2009165.00"
     }
    ],
    "Tests": [
@@ -3842,7 +3842,7 @@
      "Colors": "Graphite Black, Steel Blue, Rosso Red, Armored Edition with Kevlar",
      "Models": "M1805E10A",
      "SAR": "0.54 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009264.99 / \u00a3\u2009239.99 / \u20b9\u200915,090"
+     "Price": "$\u2009264.99 / \u00a3\u2009239.99 / \u20ac\u2009310.00 / \u20b9\u200915,080"
     }
    ],
    "Tests": [
@@ -3955,7 +3955,7 @@
      "Colors": "Black, Gold, Blue, Red, Rose Gold",
      "Models": "M1804D2SG, M1804D2SI",
      "SAR": "0.96 W/kg (head) \u00a0 \u00a0 0.64 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009142.99 / \u00a3\u2009139.00 / \u20b9\u20098,499"
+     "Price": "$\u2009142.99 / \u00a3\u2009129.99 / \u20b9\u20098,499"
     }
    ],
    "Tests": [
@@ -4179,7 +4179,7 @@
      "Colors": "Black, Champagne Gold, Blue",
      "Models": "M1804E4A",
      "SAR": "1.58 W/kg (head) \u00a0 \u00a0 1.42 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009159.99 / \u00a3\u2009144.88"
+     "Price": "$\u2009159.99 / \u00a3\u2009142.99"
     }
    ],
    "Tests": [
@@ -4487,7 +4487,7 @@
      "Colors": "Black, Grey, Blue, Gold, Rose Gold",
      "Models": "M1804C3DG, M1804C3DH, M1804C3DI",
      "SAR": "0.55 W/kg (head) \u00a0 \u00a0 1.42 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009111.99 / \u00a3\u200991.00 / \u20b9\u20097,775"
+     "Price": "$\u2009111.99 / \u00a3\u200991.00 / \u20b9\u20097,700"
     }
    ]
   }
@@ -5557,7 +5557,7 @@
      "Colors": "Black, Gold, Blue, Rose Gold",
      "Models": "MEG7, MEI7",
      "SAR": "1.01 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009152.99 / \u00a3\u2009139.99 / \u20b9\u20098,640"
+     "Price": "$\u2009152.99 / \u00a3\u2009139.99 / \u20b9\u20098,799"
     }
    ],
    "Tests": [
@@ -5670,7 +5670,7 @@
      "Colors": "Black, Gold, Light Blue, Rose Gold",
      "Models": "MDG1, MDI1",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 1.53 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009127.99 / \u00a3\u2009139.46 / \u20b9\u20097,399"
+     "Price": "$\u2009127.99 / \u00a3\u2009138.96 / \u20b9\u20098,599"
     }
    ],
    "Tests": [
@@ -5781,7 +5781,7 @@
      "Colors": "Gold, Dark Gray, Rose Gold, Blue",
      "Models": "MCG3B, MCI3B",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 1.23 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u200967.99 / \u00a3\u2009118.80 / \u20b9\u20094,386"
+     "Price": "$\u200967.99 / \u00a3\u2009118.80 / \u20b9\u20094,298"
     }
    ]
   }
