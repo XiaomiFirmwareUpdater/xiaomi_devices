@@ -1,7 +1,7 @@
 [
  {
-  "codename": "X1",
-  "internal_name": "`X1`",
+  "codename": "mione_plus",
+  "internal_name": "X1",
   "name": "Mi 1",
   "models": {
    "MI-ONE PLUS": "Mi 1 WCDMA",
@@ -10,8 +10,8 @@
   }
  },
  {
-  "codename": "X1",
-  "internal_name": "`X1`",
+  "codename": "mione_plus",
+  "internal_name": "X1",
   "name": "Mi 1S",
   "models": {
    "2012051": "Mi 1S WCDMA",
@@ -20,8 +20,8 @@
   }
  },
  {
-  "codename": "X2",
-  "internal_name": "`X2`",
+  "codename": "aries",
+  "internal_name": "X2",
   "name": "Mi 2",
   "models": {
    "2012061": "Mi 2 WCDMA",
@@ -29,8 +29,8 @@
   }
  },
  {
-  "codename": "X2",
-  "internal_name": "`X2`",
+  "codename": "aries",
+  "internal_name": "X2",
   "name": "Mi 2S",
   "models": {
    "2013012": "Mi 2S WCDMA",
@@ -38,24 +38,24 @@
   }
  },
  {
-  "codename": "X2A",
-  "internal_name": "`X2A`",
+  "codename": "taurus",
+  "internal_name": "X2A",
   "name": "Mi 2A",
   "models": {
    "2012121": "Mi 2A"
   }
  },
  {
-  "codename": "X3TD",
-  "internal_name": "`X3TD`",
+  "codename": "pisces",
+  "internal_name": "X3TD",
   "name": "Mi 3",
   "models": {
    "2013061": "Mi 3 TD-SCDMA"
   }
  },
  {
-  "codename": "X3W",
-  "internal_name": "`X3W`",
+  "codename": "cancro",
+  "internal_name": "X3W",
   "name": "Mi 3",
   "models": {
    "2013062": "Mi 3 WCDMA",
@@ -63,8 +63,8 @@
   }
  },
  {
-  "codename": "X4",
-  "internal_name": "`X4`",
+  "codename": "cancro",
+  "internal_name": "X4",
   "name": "Mi 4",
   "models": {
    "2014215": "Mi 4 WCDMA",
@@ -74,24 +74,24 @@
   }
  },
  {
-  "codename": "X4LTE-CT",
-  "internal_name": "`X4LTE-CT`",
+  "codename": "cancro_lte_ct",
+  "internal_name": "X4LTE-CT",
   "name": "Mi 4",
   "models": {
    "2014716, 2014726": "Mi 4 LTE China Telecom"
   }
  },
  {
-  "codename": "X9",
-  "internal_name": "`X9`",
+  "codename": "ferrari",
+  "internal_name": "X9",
   "name": "Mi 4i",
   "models": {
    "2015015": "Mi 4i Global"
   }
  },
  {
-  "codename": "X11",
-  "internal_name": "`X11`",
+  "codename": "libra",
+  "internal_name": "X11",
   "name": "Mi 4c",
   "models": {
    "2015561": "Mi 4c",
@@ -99,16 +99,16 @@
   }
  },
  {
-  "codename": "A10",
-  "internal_name": "`A10`",
+  "codename": "aqua",
+  "internal_name": "A10",
   "name": "Mi 4S",
   "models": {
    "2015911": "Mi 4S"
   }
  },
  {
-  "codename": "A1",
-  "internal_name": "`A1`",
+  "codename": "gemini",
+  "internal_name": "A1",
   "name": "Mi 5",
   "models": {
    "2015105": "Mi 5 32GB Global",
@@ -117,32 +117,32 @@
   }
  },
  {
-  "codename": "A7",
-  "internal_name": "`A7`",
+  "codename": "capricorn",
+  "internal_name": "A7",
   "name": "Mi 5s",
   "models": {
    "2015711": "Mi 5s"
   }
  },
  {
-  "codename": "B7",
-  "internal_name": "`B7`",
+  "codename": "natrium",
+  "internal_name": "B7",
   "name": "Mi 5s Plus",
   "models": {
    "2016070": "Mi 5s Plus"
   }
  },
  {
-  "codename": "C10",
-  "internal_name": "`C10`",
+  "codename": "meri",
+  "internal_name": "C10",
   "name": "Mi 5c",
   "models": {
    "2016089": "Mi 5c"
   }
  },
  {
-  "codename": "D2",
-  "internal_name": "`D2`",
+  "codename": "tiffany",
+  "internal_name": "D2",
   "name": "Mi 5X",
   "models": {
    "MDE2": "Mi 5X China",
@@ -150,8 +150,8 @@
   }
  },
  {
-  "codename": "C1",
-  "internal_name": "`C1`",
+  "codename": "sagit",
+  "internal_name": "C1",
   "name": "Mi 6",
   "models": {
    "MCE16": "Mi 6",
@@ -159,8 +159,8 @@
   }
  },
  {
-  "codename": "D2S",
-  "internal_name": "`D2S`",
+  "codename": "wayne",
+  "internal_name": "D2S",
   "name": "Mi 6X",
   "models": {
    "M1804D2SE": "Mi 6X China",
@@ -169,8 +169,8 @@
   }
  },
  {
-  "codename": "E1",
-  "internal_name": "`E1`",
+  "codename": "dipper",
+  "internal_name": "E1",
   "name": "Mi 8",
   "models": {
    "M1803E1A": "Mi 8",
@@ -179,32 +179,32 @@
   }
  },
  {
-  "codename": "E8",
-  "internal_name": "`E8`",
+  "codename": "ursa",
+  "internal_name": "E8",
   "name": "Mi 8 Explorer Edition",
   "models": {
    "M1807E8S": "Mi 8 Explorer Edition"
   }
  },
  {
-  "codename": "E1S",
-  "internal_name": "`E1S`",
+  "codename": "equuleus",
+  "internal_name": "E1S",
   "name": "Mi 8 Pro",
   "models": {
    "M1807E8A": "Mi 8 Pro"
   }
  },
  {
-  "codename": "E2",
-  "internal_name": "`E2`",
+  "codename": "sirius",
+  "internal_name": "E2",
   "name": "Mi 8 SE",
   "models": {
    "M1805E2A": "Mi 8 SE"
   }
  },
  {
-  "codename": "D2T",
-  "internal_name": "`D2T`",
+  "codename": "platina",
+  "internal_name": "D2T",
   "name": "Mi 8 Lite",
   "models": {
    "M1808D2TG": "Mi 8 Lite Global",
@@ -214,8 +214,8 @@
   }
  },
  {
-  "codename": "F1",
-  "internal_name": "`F1`",
+  "codename": "cepheus",
+  "internal_name": "F1",
   "name": "Mi 9",
   "models": {
    "M1902F1G": "Mi 9 Global",
@@ -225,16 +225,16 @@
   }
  },
  {
-  "codename": "F1X",
-  "internal_name": "`F1X`",
+  "codename": "crux",
+  "internal_name": "F1X",
   "name": "Mi 9 Pro",
   "models": {
    "M1908F1XE": "Mi 9 Pro 5G China"
   }
  },
  {
-  "codename": "F2",
-  "internal_name": "`F2`",
+  "codename": "grus",
+  "internal_name": "F2",
   "name": "Mi 9 SE",
   "models": {
    "M1903F2G": "Mi 9 SE Global",
@@ -242,32 +242,32 @@
   }
  },
  {
-  "codename": "F10",
-  "internal_name": "`F10`",
+  "codename": "davinci",
+  "internal_name": "F10",
   "name": "Mi 9T",
   "models": {
    "M1903F10G": "Mi 9T Global"
   }
  },
  {
-  "codename": "F11",
-  "internal_name": "`F11`",
+  "codename": "raphael",
+  "internal_name": "F11",
   "name": "Mi 9T Pro",
   "models": {
    "M1903F11G": "Mi 9T Pro Global"
   }
  },
  {
-  "codename": "F3B",
-  "internal_name": "`F3B`",
+  "codename": "pyxis",
+  "internal_name": "F3B",
   "name": "Mi 9 Lite",
   "models": {
    "M1904F3BG": "Mi 9 Lite Global"
   }
  },
  {
-  "codename": "X5",
-  "internal_name": "`X5`",
+  "codename": "virgo",
+  "internal_name": "X5",
   "name": "Mi Note",
   "models": {
    "2015011": "Mi Note Global",
@@ -277,8 +277,8 @@
   }
  },
  {
-  "codename": "X7",
-  "internal_name": "`X7`",
+  "codename": "leo",
+  "internal_name": "X7",
   "name": "Mi Note Pro",
   "models": {
    "2015021, 2015022": "Mi Note Pro",
@@ -286,8 +286,8 @@
   }
  },
  {
-  "codename": "A4",
-  "internal_name": "`A4`",
+  "codename": "scorpio",
+  "internal_name": "A4",
   "name": "Mi Note 2",
   "models": {
    "2015213": "Mi Note 2 Global",
@@ -296,8 +296,8 @@
   }
  },
  {
-  "codename": "C8",
-  "internal_name": "`C8`",
+  "codename": "jason",
+  "internal_name": "C8",
   "name": "Mi Note 3",
   "models": {
    "MCE8": "Mi Note 3",
@@ -305,24 +305,24 @@
   }
  },
  {
-  "codename": "F4",
-  "internal_name": "`F4`",
+  "codename": "tucana",
+  "internal_name": "F4",
   "name": "Mi Note 10",
   "models": {
    "M1910F4G": "Mi Note 10 Global"
   }
  },
  {
-  "codename": "A8",
-  "internal_name": "`A8`",
+  "codename": "lithium",
+  "internal_name": "A8",
   "name": "Mi MIX",
   "models": {
    "2016080": "Mi MIX"
   }
  },
  {
-  "codename": "D5",
-  "internal_name": "`D5`",
+  "codename": "chiron",
+  "internal_name": "D5",
   "name": "Mi MIX 2",
   "models": {
    "MDE5": "Mi MIX 2",
@@ -331,8 +331,8 @@
   }
  },
  {
-  "codename": "D5X",
-  "internal_name": "`D5X`",
+  "codename": "polaris",
+  "internal_name": "D5X",
   "name": "Mi MIX 2S",
   "models": {
    "M1803D5XA": "Mi MIX 2S Global",
@@ -342,8 +342,8 @@
   }
  },
  {
-  "codename": "E5",
-  "internal_name": "`E5`",
+  "codename": "perseus",
+  "internal_name": "E5",
   "name": "Mi MIX 3",
   "models": {
    "M1810E5A": "Mi MIX 3 Global",
@@ -351,16 +351,16 @@
   }
  },
  {
-  "codename": "E5G",
-  "internal_name": "`E5G`",
+  "codename": "andromeda",
+  "internal_name": "E5G",
   "name": "Mi MIX 3 5G",
   "models": {
    "M1810E5GG": "Mi MIX 3 5G"
   }
  },
  {
-  "codename": "B3",
-  "internal_name": "`B3`",
+  "codename": "hydrogen",
+  "internal_name": "B3",
   "name": "Mi Max",
   "models": {
    "2016002": "Mi Max Global",
@@ -368,16 +368,16 @@
   }
  },
  {
-  "codename": "B3_PRO",
-  "internal_name": "`B3_PRO`",
+  "codename": "helium",
+  "internal_name": "B3_PRO",
   "name": "Mi Max Prime",
   "models": {
    "2016007": "Mi Max Prime"
   }
  },
  {
-  "codename": "D4",
-  "internal_name": "`D4`",
+  "codename": "oxygen",
+  "internal_name": "D4",
   "name": "Mi Max 2",
   "models": {
    "MDE40": "Mi Max 2",
@@ -386,8 +386,8 @@
   }
  },
  {
-  "codename": "E4",
-  "internal_name": "`E4`",
+  "codename": "nitrogen",
+  "internal_name": "E4",
   "name": "Mi Max 3",
   "models": {
    "M1804E4A": "Mi Max 3",
@@ -396,40 +396,40 @@
   }
  },
  {
-  "codename": "F3B",
-  "internal_name": "`F3B`",
+  "codename": "pyxis",
+  "internal_name": "F3B",
   "name": "Mi CC 9",
   "models": {
    "M1904F3BC": "Mi CC 9 China"
   }
  },
  {
-  "codename": "F3M",
-  "internal_name": "`F3M`",
+  "codename": "vela",
+  "internal_name": "F3M",
   "name": "Mi CC 9 Meitu Edition",
   "models": {
    "M1904F3BT": "Mi CC 9 Meitu Edition"
   }
  },
  {
-  "codename": "F9S",
-  "internal_name": "`F9S`",
+  "codename": "laurus",
+  "internal_name": "F9S",
   "name": "Mi CC 9e",
   "models": {
    "M1906F9SC": "Mi CC 9e China"
   }
  },
  {
-  "codename": "F4",
-  "internal_name": "`F4`",
+  "codename": "tucana",
+  "internal_name": "F4",
   "name": "Mi CC 9 Pro",
   "models": {
    "M1910F4E": "Mi CC 9 Pro China"
   }
  },
  {
-  "codename": "F9",
-  "internal_name": "`F9`",
+  "codename": "lotus",
+  "internal_name": "F9",
   "name": "Mi Play",
   "models": {
    "M1901F9E": "Mi Play",
@@ -437,8 +437,8 @@
   }
  },
  {
-  "codename": "D2",
-  "internal_name": "`D2`",
+  "codename": "tissot",
+  "internal_name": "D2",
   "name": "Mi A1",
   "models": {
    "MDG2": "Mi A1 Global",
@@ -446,8 +446,8 @@
   }
  },
  {
-  "codename": "D2S",
-  "internal_name": "`D2S`",
+  "codename": "jasmine",
+  "internal_name": "D2S",
   "name": "Mi A2",
   "models": {
    "M1804D2SG": "Mi A2 Global",
@@ -455,16 +455,16 @@
   }
  },
  {
-  "codename": "D1S",
-  "internal_name": "`D1S`",
+  "codename": "daisy",
+  "internal_name": "D1S",
   "name": "Mi A2 Lite",
   "models": {
    "M1805D1SG": "Mi A2 Lite Global"
   }
  },
  {
-  "codename": "F9S",
-  "internal_name": "`F9S`",
+  "codename": "laurel",
+  "internal_name": "F9S",
   "name": "Mi A3",
   "models": {
    "M1906F9SH": "Mi A3 Global",
@@ -472,32 +472,32 @@
   }
  },
  {
-  "codename": "X6",
-  "internal_name": "`X6`",
+  "codename": "mocha",
+  "internal_name": "X6",
   "name": "Mi Pad",
   "models": {
    "A0101": "Mi Pad"
   }
  },
  {
-  "codename": "A3",
-  "internal_name": "`A3`",
+  "codename": "latte",
+  "internal_name": "A3",
   "name": "Mi Pad 2",
   "models": {
    "2015716": "Mi Pad 2"
   }
  },
  {
-  "codename": "C9",
-  "internal_name": "`C9`",
+  "codename": "cappu",
+  "internal_name": "C9",
   "name": "Mi Pad 3",
   "models": {
    "MCE91": "Mi Pad 3"
   }
  },
  {
-  "codename": "D9",
-  "internal_name": "`D9`",
+  "codename": "clover",
+  "internal_name": "D9",
   "name": "Mi Pad 4",
   "models": {
    "M1806D9W": "Mi Pad 4 Wi-Fi",
@@ -505,32 +505,32 @@
   }
  },
  {
-  "codename": "D9P",
-  "internal_name": "`D9P`",
+  "codename": "clover",
+  "internal_name": "D9P",
   "name": "Mi Pad 4 Plus",
   "models": {
    "M1806D9PE": "Mi Pad 4 Plus LTE"
   }
  },
  {
-  "codename": "H2TD",
-  "internal_name": "`H2TD`",
+  "codename": "wt93007",
+  "internal_name": "H2TD",
   "name": "Redmi 1",
   "models": {
    "2013022": "Redmi 1 TD-SCDMA"
   }
  },
  {
-  "codename": "H2W",
-  "internal_name": "`H2W`",
+  "codename": "wt98007",
+  "internal_name": "H2W",
   "name": "Redmi 1",
   "models": {
    "2013023": "Redmi 1 WCDMA"
   }
  },
  {
-  "codename": "H2A",
-  "internal_name": "`H2A`",
+  "codename": "armani",
+  "internal_name": "H2A",
   "name": "Redmi 1S",
   "models": {
    "2013029": "Redmi 1S WCDMA",
@@ -538,32 +538,32 @@
   }
  },
  {
-  "codename": "H2S",
-  "internal_name": "`H2S`",
+  "codename": "wt93807",
+  "internal_name": "H2S",
   "name": "Redmi 1S",
   "models": {
    "2014011": "Redmi 1S TD-SCDMA"
   }
  },
  {
-  "codename": "H2SLTE",
-  "internal_name": "`H2SLTE`",
+  "codename": "wt96007",
+  "internal_name": "H2SLTE",
   "name": "Redmi 1S",
   "models": {
    "2014501": "Redmi 1S 4G China Mobile"
   }
  },
  {
-  "codename": "H2X",
-  "internal_name": "`H2X`",
+  "codename": "wt86047",
+  "internal_name": "H2X",
   "name": "Redmi 2",
   "models": {
    "2014813, 2014112": "Redmi 2 China Mobile"
   }
  },
  {
-  "codename": "H2X",
-  "internal_name": "`H2X`",
+  "codename": "wt88047",
+  "internal_name": "H2X",
   "name": "Redmi 2",
   "models": {
    "2014817": "Redmi 2 Global",
@@ -574,8 +574,8 @@
   }
  },
  {
-  "codename": "H2X(LC)",
-  "internal_name": "`H2X(LC)`",
+  "codename": "lte26007",
+  "internal_name": "H2X(LC)",
   "name": "Redmi 2A",
   "models": {
    "2014502": "Redmi 2A",
@@ -583,16 +583,16 @@
   }
  },
  {
-  "codename": "H2X",
-  "internal_name": "`H2X`",
+  "codename": "wt86047",
+  "internal_name": "H2X",
   "name": "Redmi 2A",
   "models": {
    "2014816": "Redmi 2A Prime (Snapdragon 410)"
   }
  },
  {
-  "codename": "A9",
-  "internal_name": "`A9`",
+  "codename": "ido_xhdpi",
+  "internal_name": "A9",
   "name": "Redmi 3",
   "models": {
    "2015816": "Redmi 3 Global",
@@ -604,8 +604,8 @@
   }
  },
  {
-  "codename": "A12",
-  "internal_name": "`A12`",
+  "codename": "land",
+  "internal_name": "A12",
   "name": "Redmi 3S",
   "models": {
    "2016031": "Redmi 3S Global",
@@ -615,8 +615,8 @@
   }
  },
  {
-  "codename": "A12",
-  "internal_name": "`A12`",
+  "codename": "land",
+  "internal_name": "A12",
   "name": "Redmi 3X",
   "models": {
    "2016036": "Redmi 3X",
@@ -625,24 +625,24 @@
   }
  },
  {
-  "codename": "C5",
-  "internal_name": "`C5`",
+  "codename": "prada",
+  "internal_name": "C5",
   "name": "Redmi 4",
   "models": {
    "2016090": "Redmi 4"
   }
  },
  {
-  "codename": "B5W",
-  "internal_name": "`B5W`",
+  "codename": "markw",
+  "internal_name": "B5W",
   "name": "Redmi 4",
   "models": {
    "2016060": "Redmi 4 Pro"
   }
  },
  {
-  "codename": "C3A",
-  "internal_name": "`C3A`",
+  "codename": "rolex",
+  "internal_name": "C3A",
   "name": "Redmi 4A",
   "models": {
    "2016117": "Redmi 4A Global",
@@ -652,8 +652,8 @@
   }
  },
  {
-  "codename": "A13",
-  "internal_name": "`A13`",
+  "codename": "santoni",
+  "internal_name": "A13",
   "name": "Redmi 4X / Redmi 4",
   "models": {
    "MAG138": "Redmi 4X Global",
@@ -663,8 +663,8 @@
   }
  },
  {
-  "codename": "D1",
-  "internal_name": "`D1`",
+  "codename": "rosy",
+  "internal_name": "D1",
   "name": "Redmi 5",
   "models": {
    "MDG1": "Redmi 5 Global",
@@ -674,8 +674,8 @@
   }
  },
  {
-  "codename": "E7",
-  "internal_name": "`E7`",
+  "codename": "vince",
+  "internal_name": "E7",
   "name": "Redmi 5 Plus / Redmi Note 5",
   "models": {
    "MEG7": "Redmi 5 Plus Global",
@@ -685,8 +685,8 @@
   }
  },
  {
-  "codename": "C3B",
-  "internal_name": "`C3B`",
+  "codename": "riva",
+  "internal_name": "C3B",
   "name": "Redmi 5A",
   "models": {
    "MCG3B": "Redmi 5A Global",
@@ -696,8 +696,8 @@
   }
  },
  {
-  "codename": "C3D",
-  "internal_name": "`C3D`",
+  "codename": "cereus",
+  "internal_name": "C3D",
   "name": "Redmi 6",
   "models": {
    "M1804C3DG, M1804C3DH": "Redmi 6 Global",
@@ -708,8 +708,8 @@
   }
  },
  {
-  "codename": "D1S",
-  "internal_name": "`D1S`",
+  "codename": "sakura",
+  "internal_name": "D1S",
   "name": "Redmi 6 Pro",
   "models": {
    "M1805D1SI": "Redmi 6 Pro India",
@@ -719,8 +719,8 @@
   }
  },
  {
-  "codename": "C3C",
-  "internal_name": "`C3C`",
+  "codename": "cactus",
+  "internal_name": "C3C",
   "name": "Redmi 6A",
   "models": {
    "M1804C3CG, M1804C3CH": "Redmi 6A Global",
@@ -731,8 +731,8 @@
   }
  },
  {
-  "codename": "F6L",
-  "internal_name": "`F6L`",
+  "codename": "onclite",
+  "internal_name": "F6L",
   "name": "Redmi 7",
   "models": {
    "M1810F6LG, M1810F6LH": "Redmi 7 Global",
@@ -742,8 +742,8 @@
   }
  },
  {
-  "codename": "C3E",
-  "internal_name": "`C3E`",
+  "codename": "pine",
+  "internal_name": "C3E",
   "name": "Redmi 7A",
   "models": {
    "M1903C3EG, M1903C3EH": "Redmi 7A Global",
@@ -754,8 +754,8 @@
   }
  },
  {
-  "codename": "C3I",
-  "internal_name": "`C3I`",
+  "codename": "olive",
+  "internal_name": "C3I",
   "name": "Redmi 8",
   "models": {
    "M1908C3IG, M1908C3IH": "Redmi 8 Global",
@@ -765,8 +765,8 @@
   }
  },
  {
-  "codename": "C3K",
-  "internal_name": "`C3K`",
+  "codename": "olivelite",
+  "internal_name": "C3K",
   "name": "Redmi 8A",
   "models": {
    "M1908C3KG, M1908C3KH": "Redmi 8A Global",
@@ -775,8 +775,8 @@
   }
  },
  {
-  "codename": "H3W",
-  "internal_name": "`H3W`",
+  "codename": "lcsh92_wet_gb9",
+  "internal_name": "H3W",
   "name": "Redmi Note",
   "models": {
    "2014018": "Redmi Note WCDMA 1GB",
@@ -784,8 +784,8 @@
   }
  },
  {
-  "codename": "H3TD",
-  "internal_name": "`H3TD`",
+  "codename": "lcsh92_wet_xm_td",
+  "internal_name": "H3TD",
   "name": "Redmi Note",
   "models": {
    "2014017": "Redmi Note TD-SCDMA 1GB",
@@ -793,8 +793,8 @@
   }
  },
  {
-  "codename": "H3LTE",
-  "internal_name": "`H3LTE`",
+  "codename": "dior",
+  "internal_name": "H3LTE",
   "name": "Redmi Note 4G",
   "models": {
    "2014715": "Redmi Note 4G Global",
@@ -804,8 +804,8 @@
   }
  },
  {
-  "codename": "H3X",
-  "internal_name": "`H3X`",
+  "codename": "gucci",
+  "internal_name": "H3X",
   "name": "Redmi Note 1S",
   "models": {
    "2014915, 2014911": "Redmi Note 1S China Mobile",
@@ -814,8 +814,8 @@
   }
  },
  {
-  "codename": "H3Y",
-  "internal_name": "`H3Y`",
+  "codename": "hermes",
+  "internal_name": "H3Y",
   "name": "Redmi Note 2",
   "models": {
    "2015051": "Redmi Note 2 16GB",
@@ -825,8 +825,8 @@
   }
  },
  {
-  "codename": "H3Z",
-  "internal_name": "`H3Z`",
+  "codename": "hennessy",
+  "internal_name": "H3Z",
   "name": "Redmi Note 3",
   "models": {
    "2015617": "Redmi Note 3 (Mediatek)",
@@ -834,8 +834,8 @@
   }
  },
  {
-  "codename": "H3A",
-  "internal_name": "`H3A`",
+  "codename": "kenzo",
+  "internal_name": "H3A",
   "name": "Redmi Note 3",
   "models": {
    "2015116": "Redmi Note 3 (Qualcomm) Global",
@@ -843,16 +843,16 @@
   }
  },
  {
-  "codename": "H3B",
-  "internal_name": "`H3B`",
+  "codename": "kate",
+  "internal_name": "H3B",
   "name": "Redmi Note 3",
   "models": {
    "2015161": "Redmi Note 3 (Special Edition) Taiwan"
   }
  },
  {
-  "codename": "B6L",
-  "internal_name": "`B6L`",
+  "codename": "nikel",
+  "internal_name": "B6L",
   "name": "Redmi Note 4",
   "models": {
    "2016050": "Redmi Note 4 (Mediatek)",
@@ -860,8 +860,8 @@
   }
  },
  {
-  "codename": "C6",
-  "internal_name": "`C6`",
+  "codename": "mido",
+  "internal_name": "C6",
   "name": "Redmi Note 4X / Redmi Note 4",
   "models": {
    "2016100, 2016102": "Redmi Note 4 (Qualcomm) Global",
@@ -870,8 +870,8 @@
   }
  },
  {
-  "codename": "B6A",
-  "internal_name": "`B6A`",
+  "codename": "nikel",
+  "internal_name": "B6A",
   "name": "Redmi Note 4X",
   "models": {
    "MBE6A5": "Redmi Note 4X (Mediatek)",
@@ -879,8 +879,8 @@
   }
  },
  {
-  "codename": "E7S",
-  "internal_name": "`E7S`",
+  "codename": "whyred",
+  "internal_name": "E7S",
   "name": "Redmi Note 5 / Redmi Note 5 Pro",
   "models": {
    "M1803E7SG, M1803E7SH": "Redmi Note 5 Global",
@@ -891,8 +891,8 @@
   }
  },
  {
-  "codename": "D6",
-  "internal_name": "`D6`",
+  "codename": "ugglite",
+  "internal_name": "D6",
   "name": "Redmi Note 5A / Redmi Y1 Lite",
   "models": {
    "MDG6": "Redmi Note 5A Global",
@@ -902,8 +902,8 @@
   }
  },
  {
-  "codename": "D6S",
-  "internal_name": "`D6S`",
+  "codename": "ugg",
+  "internal_name": "D6S",
   "name": "Redmi Note 5A / Redmi Y1",
   "models": {
    "MDG6S": "Redmi Note 5A Prime Global",
@@ -913,8 +913,8 @@
   }
  },
  {
-  "codename": "E7T",
-  "internal_name": "`E7T`",
+  "codename": "tulip",
+  "internal_name": "E7T",
   "name": "Redmi Note 6 Pro",
   "models": {
    "M1806E7TG, M1806E7TH": "Redmi Note 6 Pro Global",
@@ -922,8 +922,8 @@
   }
  },
  {
-  "codename": "F7A",
-  "internal_name": "`F7A`",
+  "codename": "lavender",
+  "internal_name": "F7A",
   "name": "Redmi Note 7 / Redmi Note 7S",
   "models": {
    "M1901F7G, M1901F7H": "Redmi Note 7 Global",
@@ -934,8 +934,8 @@
   }
  },
  {
-  "codename": "F7B",
-  "internal_name": "`F7B`",
+  "codename": "violet",
+  "internal_name": "F7B",
   "name": "Redmi Note 7 Pro",
   "models": {
    "M1901F7S": "Redmi Note 7 Pro India",
@@ -943,8 +943,8 @@
   }
  },
  {
-  "codename": "C3J",
-  "internal_name": "`C3J`",
+  "codename": "ginkgo",
+  "internal_name": "C3J",
   "name": "Redmi Note 8",
   "models": {
    "M1908C3JG, M1908C3JH": "Redmi Note 8 Global",
@@ -954,8 +954,8 @@
   }
  },
  {
-  "codename": "G7A",
-  "internal_name": "`G7A`",
+  "codename": "begonia",
+  "internal_name": "G7A",
   "name": "Redmi Note 8 Pro",
   "models": {
    "M1906G7G": "Redmi Note 8 Pro Global",
@@ -965,8 +965,8 @@
   }
  },
  {
-  "codename": "E6",
-  "internal_name": "`E6`",
+  "codename": "ysl",
+  "internal_name": "E6",
   "name": "Redmi S2 / Redmi Y2",
   "models": {
    "M1803E6G, M1803E6H": "Redmi S2 Global",
@@ -977,8 +977,8 @@
   }
  },
  {
-  "codename": "F6",
-  "internal_name": "`F6`",
+  "codename": "onc",
+  "internal_name": "F6",
   "name": "Redmi Y3",
   "models": {
    "M1810F6G": "Redmi Y3 Global",
@@ -986,8 +986,8 @@
   }
  },
  {
-  "codename": "H3C",
-  "internal_name": "`H3C`",
+  "codename": "omega",
+  "internal_name": "H3C",
   "name": "Redmi Pro",
   "models": {
    "2016020": "Redmi Pro 32GB",
@@ -995,8 +995,8 @@
   }
  },
  {
-  "codename": "F10",
-  "internal_name": "`F10`",
+  "codename": "davinci",
+  "internal_name": "F10",
   "name": "Redmi K20",
   "models": {
    "M1903F10I": "Redmi K20 India",
@@ -1005,8 +1005,8 @@
   }
  },
  {
-  "codename": "F11",
-  "internal_name": "`F11`",
+  "codename": "raphael",
+  "internal_name": "F11",
   "name": "Redmi K20 Pro",
   "models": {
    "M1903F11I": "Redmi K20 Pro India",
@@ -1015,16 +1015,16 @@
   }
  },
  {
-  "codename": "F11",
-  "internal_name": "`F11`",
+  "codename": "raphaels",
+  "internal_name": "F11",
   "name": "Redmi K20 Pro Premium Edition",
   "models": {
    "M1903F11A": "Redmi K20 Pro Premium Edition China"
   }
  },
  {
-  "codename": "C3G",
-  "internal_name": "`C3G`",
+  "codename": "tiare",
+  "internal_name": "C3G",
   "name": "Redmi Go",
   "models": {
    "M1903C3GG, M1903C3GH": "Redmi Go Global",
@@ -1064,8 +1064,8 @@
   }
  },
  {
-  "codename": "E10",
-  "internal_name": "`E10`",
+  "codename": "beryllium",
+  "internal_name": "E10",
   "name": "POCO F1",
   "models": {
    "M1805E10A": "POCO F1"
