@@ -22,11 +22,11 @@ def main():
         details = item.split('*')
         details = [i for i in details if i]
         try:
-            codename = details[0].split('`')[1].strip()
+            codename = details[0].split('(`')[1].split('`)')[0].strip()
         except IndexError:
             codename = ''
         try:
-            internal = details[0].split('[')[1].split(']')[0].strip()
+            internal = details[0].split('[`')[1].split('`]')[0].strip()
         except IndexError:
             internal = ''
         try:
