@@ -1,5 +1,200 @@
 [
  {
+  "name": "Xiaomi Mi CC9 Pro",
+  "codename": "",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-cc9-pro-.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_mi_cc9_pro-9935.php",
+  "specs": {
+   "Network": [
+    {
+     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
+     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+     "info": "CDMA2000 1xEV-DO ",
+     "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
+     "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat15 800/150 Mbps"
+    }
+   ],
+   "Launch": [
+    {
+     "Announced": "2019, November",
+     "Status": "Coming soon. Exp. release 2019, November 11"
+    }
+   ],
+   "Body": [
+    {
+     "Dimensions": "157.8 x 74.2 x 9.7 mm (6.21 x 2.92 x 0.38 in)",
+     "Weight": "208 g (7.34 oz)",
+     "Build": "Front/back glass (Gorilla Glass 5), aluminum frame",
+     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+    }
+   ],
+   "Display": [
+    {
+     "Type": "Super AMOLED capacitive touchscreen, 16M colors",
+     "Size": "6.47 inches, 102.8 cm2 (~87.8% screen-to-body ratio)",
+     "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~398 ppi density)",
+     "Protection": "Corning Gorilla Glass 5",
+     "info": "600 nits max brightness\r\nDCI-P3\r\nHDR10"
+    }
+   ],
+   "Platform": [
+    {
+     "OS": "Android 9.0 (Pie); MIUI 11",
+     "Chipset": "Qualcomm SDM730 Snapdragon 730G (8 nm)",
+     "CPU": "Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)",
+     "GPU": "Adreno 618"
+    }
+   ],
+   "Memory": [
+    {
+     "Card slot": "No",
+     "Internal": "128GB 6GB RAM, 256GB 8GB RAM"
+    }
+   ],
+   "Main Camera": [
+    {
+     "Five": "108 MP, f/1.7, 25mm (wide), 1/1.33\", 0.8\u00b5m, PDAF, Laser AF, OIS\r\n5 MP (upscaled to 8MP), f/2.0, (telephoto), 1.0\u00b5m, PDAF, Laser AF, OIS, 5x optical zoom\r\n12 MP, f/2.0, 50mm (telephoto), 1/2.55\", 1.4\u00b5m, Dual Pixel PDAF, Laser AF, 2x optical zoom\r\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0\u00b5m, Laser AF\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)",
+     "Features": "Quad-LED dual-tone flash, HDR",
+     "Video": "2160p@30fps, 1080p@30/60/120/240fps, 720p@960fps"
+    }
+   ],
+   "Selfie camera": [
+    {
+     "Single": "32 MP, f/2.0, 0.8\u00b5m",
+     "Features": "HDR",
+     "Video": "1080p@30fps"
+    }
+   ],
+   "Sound": [
+    {
+     "Loudspeaker ": "Yes",
+     "3.5mm jack ": "Yes",
+     "info": "Active noise cancellation with dedicated mic\r\n24-bit/192kHz audio"
+    }
+   ],
+   "Comms": [
+    {
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+     "Bluetooth": "5.0, A2DP, LE, aptX HD",
+     "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS",
+     "NFC": "Yes",
+     "Infrared port": "Yes",
+     "Radio": "FM radio",
+     "USB": "2.0, Type-C 1.0 reversible connector"
+    }
+   ],
+   "Features": [
+    {
+     "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    }
+   ],
+   "Battery": [
+    {
+     "info": "Non-removable Li-Po 5260 mAh battery",
+     "Charging": "Fast battery charging 30W (58% in 30 min., 100% in 65 min.)\r\nUSB Power Delivery"
+    }
+   ],
+   "Misc": [
+    {
+     "Colors": "Aurora Green, Glacier White, Midnight Black",
+     "Models": "M1910F4E",
+     "Price": "About 400 EUR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "Xiaomi Mi Watch",
+  "codename": "",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-watch-.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_mi_watch-9941.php",
+  "specs": {
+   "Network": [
+    {
+     "Technology": "GSM / HSPA / LTE",
+     "2G bands": "GSM 850 / 900 / 1800 / 1900 ",
+     "3G bands": "HSDPA 850 / 900 / 2100 ",
+     "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 18(800), 19(800), 20(800), 26(850), 39(1900), 40(2300), 41(2500)",
+     "Speed": "HSPA, LTE"
+    }
+   ],
+   "Launch": [
+    {
+     "Announced": "2019, November",
+     "Status": "Coming soon. Exp. release 2019, November 11"
+    }
+   ],
+   "Body": [
+    {
+     "Dimensions": "44.7 x 36.9 x 12.3 mm (1.76 x 1.45 x 0.48 in)",
+     "Weight": "44 g / 56 g (1.55 oz)",
+     "SIM": "Electronic SIM card (eSIM)"
+    }
+   ],
+   "Display": [
+    {
+     "Type": "Super AMOLED capacitive touchscreen, 16M colors",
+     "Size": "1.78 inches, 10.0 cm2 (~60.8% screen-to-body ratio)",
+     "Resolution": "368 x 448 pixels (~326 ppi density)",
+     "Protection": "Corning Gorilla Glass 3 or Sapphire crystal glass"
+    }
+   ],
+   "Platform": [
+    {
+     "OS": "Proprietary wearable platform",
+     "Chipset": "Qualcomm Snapdragon Wear 3100 (28 nm)",
+     "CPU": "Quad-core 1.2 GHz Cortex-A7",
+     "GPU": "Adreno 304"
+    }
+   ],
+   "Memory": [
+    {
+     "Card slot": "No",
+     "Internal": "8GB 1GB RAM"
+    }
+   ],
+   "Camera": [
+    {
+     "info": "No"
+    }
+   ],
+   "Sound": [
+    {
+     "Loudspeaker ": "Yes",
+     "3.5mm jack ": "No"
+    }
+   ],
+   "Comms": [
+    {
+     "WLAN": "Wi-Fi 802.11 b/g/n",
+     "Bluetooth": "4.2, A2DP, LE",
+     "GPS": "Yes, with A-GPS, GLONASS, BDS",
+     "NFC": "Yes",
+     "Radio": "No",
+     "USB": "No"
+    }
+   ],
+   "Features": [
+    {
+     "Sensors": "Accelerometer, gyro, heart rate, barometer"
+    }
+   ],
+   "Battery": [
+    {
+     "info": "Non-removable Li-Ion 570 mAh / 590 mAh battery",
+     "Charging": "Wireless charging"
+    }
+   ],
+   "Misc": [
+    {
+     "Colors": "Black, Silver",
+     "Price": "About 150 EUR"
+    }
+   ]
+  }
+ },
+ {
   "name": "Xiaomi Redmi 8",
   "codename": "olive",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-8.jpg",
@@ -97,7 +292,7 @@
      "Colors": "Onyx Black, Ruby Red, Sapphire Blue",
      "Models": "M1908C3IC, MZB8255IN",
      "SAR": "0.34 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009111.69 / \u00a3\u2009128.99 / \u20b9\u20097,999"
+     "Price": "$\u2009111.69 / \u00a3\u2009129.10 / \u20b9\u20097,999"
     }
    ]
   }
@@ -511,7 +706,7 @@
    "Misc": [
     {
      "Colors": "Dream White, Titanium Black",
-     "Price": "$\u2009323.86 / \u00a3\u2009331.70"
+     "Price": "$\u2009323.86 / \u00a3\u2009331.96"
     }
    ]
   }
@@ -717,7 +912,7 @@
    "Misc": [
     {
      "Colors": "Black, Blue, White",
-     "Price": "$\u2009224.00 / \u00a3\u2009215.99 / \u20ac\u2009242.73"
+     "Price": "$\u2009224.78 / \u00a3\u2009215.99 / \u20ac\u2009242.63"
     }
    ],
    "Tests": [
@@ -946,7 +1141,7 @@
     {
      "Colors": "Shadow Black, Iceberg Grey, Gulf Blue, Streamer Purple",
      "Models": "DLT-A0",
-     "Price": "$\u2009520.99 / \u00a3\u2009699.99"
+     "Price": "$\u2009519.99 / \u00a3\u2009699.99"
     }
    ]
   }
@@ -1163,7 +1358,7 @@
      "Colors": "Matte Black, Morning blue, Matte Blue, Matte Gold, Gem Red, Gem Blue",
      "Models": "MZB7995IN, M1903C3EG, M1903C3EH, M1903C3EI",
      "SAR": "0.74 W/kg (head) \u00a0 \u00a0 0.79 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u200980.99 / \u00a3\u200972.19 / \u20ac\u200984.80 / \u20b9\u20095,643"
+     "Price": "$\u200980.99 / \u00a3\u200975.98 / \u20ac\u200984.80 / \u20b9\u20095,499"
     }
    ]
   }
@@ -1472,7 +1667,7 @@
      "Models": "M1908C3JH, M1908C3JG, M1908C3JI",
      "SAR": "0.26 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.19 W/kg (head) \u00a0 \u00a0 1.09 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009147.69 / \u00a3\u2009136.99 / \u20ac\u2009184.36 / \u20b9\u20099,999"
+     "Price": "$\u2009147.69 / \u00a3\u2009136.99 / \u20ac\u2009184.33 / \u20b9\u20099,999"
     }
    ]
   }
@@ -1577,7 +1772,7 @@
      "Models": "M1903F11G",
      "SAR": "1.03 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "1.30 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009319.33 / \u00a3\u2009299.47 / \u20ac\u2009363.00"
+     "Price": "$\u2009319.33 / \u00a3\u2009299.76 / \u20ac\u2009363.00"
     }
    ]
   }
@@ -1796,7 +1991,7 @@
      "Colors": "Carbon black, Red flame, Glacier blue, Pearl White",
      "Models": "M1903F10I",
      "SAR": "1.07 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009259.99 / \u00a3\u2009263.99 / \u20b9\u200921,999"
+     "Price": "$\u2009256.99 / \u00a3\u2009263.99 / \u20b9\u200921,999"
     }
    ]
   }
@@ -1901,7 +2096,7 @@
      "Colors": "Carbon black, Flame red, Glacier blue, Summer Honey, Pearl White",
      "Models": "M1903F11I",
      "SAR": "1.03 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009339.99 / \u00a3\u2009297.95 / \u20b9\u200927,799"
+     "Price": "$\u2009339.99 / \u00a3\u2009295.86 / \u20b9\u200927,997"
     }
    ],
    "Tests": [
@@ -2014,7 +2209,7 @@
     {
      "Colors": "Onyx Black, Sapphire Blue, Ruby Red, Astro White",
      "Models": "M1901F71",
-     "Price": "\u20b9\u20099,490"
+     "Price": "\u20b9\u20099,998"
     }
    ]
   }
@@ -2119,7 +2314,7 @@
      "Colors": "Elegant Blue, Bold Red, Prime Black",
      "Models": "M1810F6G, M1810F6I",
      "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.25 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "\u00a3\u2009159.00 / \u20b9\u20098,337"
+     "Price": "\u00a3\u2009159.00 / \u20b9\u20098,355"
     }
    ]
   }
@@ -2755,7 +2950,7 @@
      "Colors": "Violet, Blue, Gray",
      "Models": "M1903F2G",
      "SAR": "1.39 W/kg (head) \u00a0 \u00a0 1.39 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009217.49 / \u00a3\u2009252.30 / \u20ac\u2009296.00"
+     "Price": "$\u2009217.78 / \u00a3\u2009252.30 / \u20ac\u2009299.00"
     }
    ],
    "Tests": [
@@ -2871,7 +3066,7 @@
      "Colors": "Lavender Violet, Ocean Blue, Piano Black",
      "Models": "M1902F1G",
      "SAR": "1.39 W/kg (head) \u00a0 \u00a0 1.30 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009329.99 / \u00a3\u2009309.00 / \u20ac\u2009376.00"
+     "Price": "$\u2009329.99 / \u00a3\u2009309.00 / \u20ac\u2009384.00"
     }
    ],
    "Tests": [
@@ -3084,7 +3279,7 @@
      "Colors": "Blue, Black, Twilight Gold, White",
      "Models": "M1901F7G, M1901F7H, M1901F7I",
      "SAR": "0.59 W/kg (head) \u00a0 \u00a0 1.27 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009134.85 / \u00a3\u2009140.57 / \u20ac\u2009169.00 / \u20b9\u200911,999"
+     "Price": "$\u2009133.36 / \u00a3\u2009140.57 / \u20ac\u2009169.00 / \u20b9\u200911,999"
     }
    ],
    "Tests": [
@@ -3514,7 +3709,7 @@
      "Colors": "Black, Blue, Rose Gold, Red",
      "Models": "M1806E7TG, M1806E7TH, M1806E7TI",
      "SAR": "0.76 W/kg (head) \u00a0 \u00a0 1.48 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009169.99 / \u00a3\u2009134.35 / \u20b9\u20099,446"
+     "Price": "$\u2009169.99 / \u00a3\u2009154.00 / \u20b9\u20099,446"
     }
    ],
    "Tests": [
@@ -3628,7 +3823,7 @@
      "Colors": "Black (transparent back), Meteorite black, Twilight Gold",
      "Models": "M1807E8A",
      "SAR": "0.97 W/kg (head) \u00a0 \u00a0 1.53 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009324.33 / \u00a3\u2009366.47"
+     "Price": "$\u2009324.29 / \u00a3\u2009366.47"
     }
    ]
   }
@@ -3842,7 +4037,7 @@
      "Colors": "Graphite Black, Steel Blue, Rosso Red, Armored Edition with Kevlar",
      "Models": "M1805E10A",
      "SAR": "0.54 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009264.99 / \u00a3\u2009239.99 / \u20ac\u2009310.00 / \u20b9\u200915,019"
+     "Price": "$\u2009264.99 / \u00a3\u2009247.40 / \u20ac\u2009310.00 / \u20b9\u200914,899"
     }
    ],
    "Tests": [
@@ -3955,7 +4150,7 @@
      "Colors": "Black, Gold, Blue, Red, Rose Gold",
      "Models": "M1804D2SG, M1804D2SI",
      "SAR": "0.96 W/kg (head) \u00a0 \u00a0 0.64 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009142.99 / \u00a3\u2009129.99 / \u20b9\u20098,499"
+     "Price": "$\u2009142.99 / \u00a3\u2009129.99 / \u20b9\u20098,868"
     }
    ],
    "Tests": [
@@ -4066,7 +4261,7 @@
      "Colors": "Black, Blue, Gold (Global); Rose Gold, Red (China only)",
      "Models": "M1805D1SG",
      "SAR": "0.55 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009132.99 / \u00a3\u2009104.00 / \u20b9\u20097,100"
+     "Price": "$\u2009132.99 / \u00a3\u2009104.00 / \u20b9\u20097,099"
     }
    ],
    "Tests": [
@@ -4179,7 +4374,7 @@
      "Colors": "Black, Champagne Gold, Blue",
      "Models": "M1804E4A",
      "SAR": "1.58 W/kg (head) \u00a0 \u00a0 1.42 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009159.99 / \u00a3\u2009142.99"
+     "Price": "$\u2009159.99 / \u00a3\u2009141.99"
     }
    ],
    "Tests": [
@@ -4487,7 +4682,7 @@
      "Colors": "Black, Grey, Blue, Gold, Rose Gold",
      "Models": "M1804C3DG, M1804C3DH, M1804C3DI",
      "SAR": "0.55 W/kg (head) \u00a0 \u00a0 1.42 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u200996.07 / \u00a3\u200991.00 / \u20b9\u20097,690"
+     "Price": "$\u200996.07 / \u00a3\u2009109.99 / \u20b9\u20097,499"
     }
    ]
   }
@@ -4587,7 +4782,7 @@
      "Colors": "Black, Grey, Blue, Gold, Rose Gold",
      "Models": "M1804C3CG, M1804C3CH, M1804C3CI",
      "SAR": "0.66 W/kg (head) \u00a0 \u00a0 1.52 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u200989.95 / \u00a3\u200978.98 / \u20b9\u20095,899"
+     "Price": "$\u200989.95 / \u00a3\u200978.65 / \u20b9\u20095,939"
     }
    ]
   }
@@ -5355,7 +5550,7 @@
      "Colors": "Black, Champagne Gold, Rose Gold, Lake Blue",
      "Models": "MEI7S, MEI7",
      "SAR": "1.19 W/kg (head) \u00a0 \u00a0 0.33 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009249.99 / \u20b9\u20098,349"
+     "Price": "$\u2009249.99 / \u20b9\u20098,299"
     }
    ]
   }
@@ -5557,7 +5752,7 @@
      "Colors": "Black, Gold, Blue, Rose Gold",
      "Models": "MEG7, MEI7",
      "SAR": "1.01 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009152.99 / \u00a3\u2009139.99 / \u20b9\u20098,790"
+     "Price": "$\u2009152.99 / \u00a3\u2009139.99 / \u20b9\u20097,999"
     }
    ],
    "Tests": [
@@ -5670,7 +5865,7 @@
      "Colors": "Black, Gold, Light Blue, Rose Gold",
      "Models": "MDG1, MDI1",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 1.53 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009127.99 / \u00a3\u2009137.96 / \u20b9\u20098,435"
+     "Price": "$\u2009127.99 / \u00a3\u2009137.46 / \u20b9\u20098,435"
     }
    ],
    "Tests": [
@@ -5781,7 +5976,7 @@
      "Colors": "Gold, Dark Gray, Rose Gold, Blue",
      "Models": "MCG3B, MCI3B",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 1.23 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009129.99 / \u00a3\u2009118.80 / \u20b9\u20093,800"
+     "Price": "$\u2009129.99 / \u00a3\u2009118.80 / \u20b9\u20094,292"
     }
    ]
   }
