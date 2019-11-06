@@ -1,23 +1,22 @@
 {
- "name": "Xiaomi Mi CC9 Pro",
+ "name": "Xiaomi Mi Note 10 Pro",
  "codename": "",
- "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-cc9-pro-.jpg",
- "url": "https://www.gsmarena.com/xiaomi_mi_cc9_pro-9935.php",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-note10-.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_mi_note_10_pro-9945.php",
  "specs": {
   "Network": [
    {
-    "Technology": "GSM / CDMA / HSPA / LTE",
+    "Technology": "GSM / HSPA / LTE",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "info": "CDMA 800 & TD-SCDMA",
-    "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
-    "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
+    "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 ",
+    "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 18(800), 19(800), 20(800), 26(850), 28(700), 38(2600), 40(2300)",
     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat15 800/150 Mbps"
    }
   ],
   "Launch": [
    {
     "Announced": "2019, November",
-    "Status": "Coming soon. Exp. release 2019, November 11"
+    "Status": "Coming soon. Exp. release 2019, December"
    }
   ],
   "Body": [
@@ -48,12 +47,12 @@
   "Memory": [
    {
     "Card slot": "No",
-    "Internal": "128GB 6GB RAM, 256GB 8GB RAM"
+    "Internal": "256GB 8GB RAM"
    }
   ],
   "Main Camera": [
    {
-    "Five": "108 MP (8P lens - 256GB GB model), f/1.7, 25mm (wide), 1/1.33\", 0.8\u00b5m, PDAF, Laser AF, OIS\r\n12 MP, f/2.0, 50mm (telephoto), 1/2.55\", 1.4\u00b5m, Dual Pixel PDAF, Laser AF, 2x optical zoom\r\n5 MP (upscaled to 8MP), f/2.0, (telephoto), 1.0\u00b5m, PDAF, Laser AF, OIS, 5x optical zoom\r\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0\u00b5m, Laser AF\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)",
+    "Five": "108 MP (8P lens), f/1.7, 25mm (wide), 1/1.33\", 0.8\u00b5m, PDAF, Laser AF, OIS\r\n12 MP, f/2.0, 50mm (telephoto), 1/2.55\", 1.4\u00b5m, Dual Pixel PDAF, Laser AF, 2x optical zoom\r\n5 MP (upscaled to 8MP), f/2.0, (telephoto), 1.0\u00b5m, PDAF, Laser AF, OIS, 5x optical zoom\r\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0\u00b5m, Laser AF\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)",
     "Features": "Quad-LED dual-tone flash, HDR",
     "Video": "2160p@30fps, 1080p@30/60/120/240fps, 720p@960fps"
    }
@@ -97,8 +96,7 @@
   "Misc": [
    {
     "Colors": "Aurora Green, Glacier White, Midnight Black",
-    "Models": "M1910F4E",
-    "Price": "$\u2009479.99"
+    "Price": "About 650 EUR"
    }
   ]
  }

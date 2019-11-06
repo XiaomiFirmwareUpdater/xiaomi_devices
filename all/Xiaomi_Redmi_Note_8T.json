@@ -1,29 +1,28 @@
 {
- "name": "Xiaomi Redmi Note 8",
- "codename": "ginkgo",
- "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-8-1.jpg",
- "url": "https://www.gsmarena.com/xiaomi_redmi_note_8-9814.php",
+ "name": "Xiaomi Redmi Note 8T",
+ "codename": "",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-8t.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_note_8t-9946.php",
  "specs": {
   "Network": [
    {
     "Technology": "GSM / HSPA / LTE",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
     "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
-    "info": "LTE band 1(2100), 3(1800), 5(850), 8(900), 38(2600), 40(2300), 41(2500)",
-    "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300)",
+    "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 28(700), 38(2600), 40(2300)",
     "Speed": "HSPA 42.2/11.5 Mbps, LTE-A"
    }
   ],
   "Launch": [
    {
-    "Announced": "2019, August",
-    "Status": "Available. Released 2019, September"
+    "Announced": "2019, November",
+    "Status": "Coming soon. Exp. release 2019, November 8"
    }
   ],
   "Body": [
    {
-    "Dimensions": "158.3 x 75.3 x 8.4 mm (6.23 x 2.96 x 0.33 in)",
-    "Weight": "190 (6.70 oz)",
+    "Dimensions": "161.1 x 75.4 x 8.6 mm (6.34 x 2.97 x 0.34 in)",
+    "Weight": "200 g (7.05 oz)",
     "Build": "Front/back glass (Gorilla Glass 5)",
     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
    }
@@ -31,7 +30,7 @@
   "Display": [
    {
     "Type": "IPS LCD capacitive touchscreen, 16M colors",
-    "Size": "6.3 inches, 97.4 cm2 (~81.7% screen-to-body ratio)",
+    "Size": "6.3 inches, 97.4 cm2 (~80.2% screen-to-body ratio)",
     "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~409 ppi density)",
     "Protection": "Corning Gorilla Glass 5"
    }
@@ -47,7 +46,7 @@
   "Memory": [
    {
     "Card slot": "microSD, up to 256 GB (dedicated slot)",
-    "Internal": "32GB 3GB RAM, 64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM, 128GB 6GB RAM"
+    "Internal": "32GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM"
    }
   ],
   "Main Camera": [
@@ -75,6 +74,7 @@
     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
     "Bluetooth": "4.2, A2DP, LE",
     "GPS": "Yes, with A-GPS, GLONASS, BDS",
+    "NFC": "Yes",
     "Infrared port": "Yes",
     "Radio": "FM radio",
     "USB": "2.0, Type-C 1.0 reversible connector, USB On-The-Go"
@@ -93,11 +93,8 @@
   ],
   "Misc": [
    {
-    "Colors": "Neptune Blue, Moonlight White, Space Black",
-    "Models": "M1908C3JH, M1908C3JG, M1908C3JI",
-    "SAR": "0.26 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
-    "SAR EU": "0.19 W/kg (head) \u00a0 \u00a0 1.09 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009147.69 / \u00a3\u2009136.99 / \u20ac\u2009184.31 / \u20b9\u20099,999"
+    "Colors": "Stellar blue, Moon white, Midnight gray",
+    "Price": "About 180 EUR"
    }
   ]
  }
