@@ -100,6 +100,15 @@
     "SAR EU": "1.30 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
     "Price": "$\u2009319.33 / \u00a3\u2009325.99 / \u20ac\u2009354.00"
    }
+  ],
+  "Tests": [
+   {
+    "Performance": "\nBasemark OS II: 5269 / Basemark OS II 2.0: 5012Basemark X: 45788",
+    "Display": "\nContrast ratio: Infinite (nominal)",
+    "Loudspeaker": "\nVoice 71dB / Noise 75dB / Ring 84dB\n",
+    "Audio quality": "\nNoise -93.9dB / Crosstalk -94.2dB",
+    "Battery life": "\n\nEndurance rating 103h\n\n"
+   }
   ]
  }
 }

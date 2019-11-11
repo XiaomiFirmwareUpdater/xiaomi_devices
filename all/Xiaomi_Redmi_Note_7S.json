@@ -40,7 +40,7 @@
    {
     "OS": "Android 9.0 (Pie); MIUI 10",
     "Chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
-    "CPU": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+    "CPU": "Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
     "GPU": "Adreno 512"
    }
   ],
@@ -96,7 +96,7 @@
    {
     "Colors": "Onyx Black, Sapphire Blue, Ruby Red, Astro White",
     "Models": "M1901F71",
-    "Price": "\u20b9\u20099,999"
+    "Price": "\u20b9\u20098,649"
    }
   ]
  }

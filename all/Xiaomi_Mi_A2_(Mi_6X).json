@@ -39,7 +39,7 @@
    {
     "OS": "Android 8.1 (Oreo), upgradable to Android 9.0 (Pie); Android One",
     "Chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
-    "CPU": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+    "CPU": "Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
     "GPU": "Adreno 512"
    }
   ],
@@ -96,7 +96,7 @@
     "Colors": "Black, Gold, Blue, Red, Rose Gold",
     "Models": "M1804D2SG, M1804D2SI",
     "SAR": "0.96 W/kg (head) \u00a0 \u00a0 0.64 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009142.99 / \u00a3\u2009129.99 / \u20b9\u20098,499"
+    "Price": "$\u2009142.99 / \u00a3\u2009129.99 / \u20ac\u2009170.90 / \u20b9\u20098,499"
    }
   ],
   "Tests": [

@@ -17,7 +17,7 @@
   "Launch": [
    {
     "Announced": "2019, November",
-    "Status": "Coming soon. Exp. release 2019, November 11"
+    "Status": "Available. Released 2019, November"
    }
   ],
   "Body": [
@@ -30,7 +30,7 @@
   ],
   "Display": [
    {
-    "Type": "Super AMOLED capacitive touchscreen, 16M colors",
+    "Type": "AMOLED capacitive touchscreen, 16M colors",
     "Size": "6.47 inches, 102.8 cm2 (~87.8% screen-to-body ratio)",
     "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~398 ppi density)",
     "Protection": "Corning Gorilla Glass 5",

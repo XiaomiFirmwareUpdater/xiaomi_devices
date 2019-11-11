@@ -37,7 +37,7 @@
   ],
   "Platform": [
    {
-    "OS": "Android 9.0 (Pie); MIUI 9",
+    "OS": "Android 9.0 (Pie); MIUI 11",
     "Chipset": "Qualcomm SDM439 Snapdragon 439 (12 nm)",
     "CPU": "Octa-core (2x1.95 GHz Cortex-A53 & 6x1.45 GHz Cortex A53)",
     "GPU": "Adreno 505"
@@ -96,7 +96,7 @@
     "Colors": "Onyx Black, Ruby Red, Sapphire Blue",
     "Models": "M1908C3IC, MZB8255IN",
     "SAR": "0.34 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009111.69 / \u00a3\u2009128.94 / \u20b9\u20097,999"
+    "Price": "$\u2009109.99 / \u00a3\u2009123.60 / \u20b9\u20097,999"
    }
   ]
  }
