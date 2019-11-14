@@ -37,7 +37,7 @@
   ],
   "Platform": [
    {
-    "OS": "Android 7.1.2 (Nougat), 8.1 (Oreo), planned upgrade to Android 9.0 (Pie); MIUI 10",
+    "OS": "Android 7.1.2 (Nougat), 8.1 (Oreo), planned upgrade to Android 9.0 (Pie); MIUI 11",
     "Chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
     "CPU": "Octa-core 2.0 GHz Cortex-A53",
     "GPU": "Adreno 506"
@@ -95,7 +95,7 @@
     "Colors": "Black, Gold, Blue, Rose Gold",
     "Models": "MEG7, MEI7",
     "SAR": "1.01 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009152.99 / \u00a3\u2009139.99 / \u20b9\u20098,980"
+    "Price": "$\u2009152.99 / \u00a3\u2009139.99 / \u20b9\u20097,895"
    }
   ],
   "Tests": [

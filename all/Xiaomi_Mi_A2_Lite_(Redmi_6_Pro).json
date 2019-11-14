@@ -37,7 +37,7 @@
   ],
   "Platform": [
    {
-    "OS": "Android 8.1 (Oreo), upgradable to Android 9.0 (Pie); MIUI 10; Android One",
+    "OS": "Android 8.1 (Oreo), upgradable to Android 9.0 (Pie); MIUI 11; Android One",
     "Chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
     "CPU": "Octa-core 2.0 GHz Cortex-A53",
     "GPU": "Adreno 506"
@@ -96,7 +96,7 @@
     "Colors": "Black, Blue, Gold (Global); Rose Gold, Red (China only)",
     "Models": "M1805D1SG",
     "SAR": "0.55 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009132.99 / \u00a3\u2009104.00 / \u20b9\u20098,470"
+    "Price": "$\u2009132.99 / \u00a3\u2009104.00 / \u20b9\u20097,999"
    }
   ],
   "Tests": [

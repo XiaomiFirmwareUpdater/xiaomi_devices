@@ -39,7 +39,7 @@
   ],
   "Platform": [
    {
-    "OS": "Android 9.0 (Pie); MIUI 9",
+    "OS": "Android 9.0 (Pie); MIUI 11",
     "Chipset": "Qualcomm SDM632 Snapdragon 632 (14 nm)",
     "CPU": "Octa-core (4x1.8 GHz Kryo 250 Gold & 4x1.8 GHz Kryo 250 Silver)",
     "GPU": "Adreno 506"
@@ -98,7 +98,7 @@
     "Colors": "Elegant Blue, Bold Red, Prime Black",
     "Models": "M1810F6G, M1810F6I",
     "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.25 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "\u00a3\u2009159.00 / \u20b9\u20098,433"
+    "Price": "\u00a3\u2009159.00 / \u20b9\u20097,999"
    }
   ]
  }

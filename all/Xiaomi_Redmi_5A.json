@@ -37,7 +37,7 @@
   ],
   "Platform": [
    {
-    "OS": "Android 7.1.2 (Nougat); MIUI 10",
+    "OS": "Android 7.1.2 (Nougat); MIUI 11",
     "Chipset": "Qualcomm MSM8917 Snapdragon 425 (28 nm)",
     "CPU": "Quad-core 1.4 GHz Cortex-A53",
     "GPU": "Adreno 308"
@@ -94,7 +94,7 @@
     "Colors": "Gold, Dark Gray, Rose Gold, Blue",
     "Models": "MCG3B, MCI3B",
     "SAR": "0.53 W/kg (head) \u00a0 \u00a0 1.23 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009129.99 / \u00a3\u2009118.80 / \u20b9\u20094,290"
+    "Price": "$\u2009129.99 / \u00a3\u2009118.80 / \u20b9\u20095,999"
    }
   ]
  }

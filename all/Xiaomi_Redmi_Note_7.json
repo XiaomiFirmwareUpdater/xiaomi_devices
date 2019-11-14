@@ -38,7 +38,7 @@
   ],
   "Platform": [
    {
-    "OS": "Android 9.0 (Pie); MIUI 10",
+    "OS": "Android 9.0 (Pie); MIUI 11",
     "Chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
     "CPU": "Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
     "GPU": "Adreno 512"
@@ -97,7 +97,7 @@
     "Colors": "Blue, Black, Twilight Gold, White",
     "Models": "M1901F7G, M1901F7H, M1901F7I",
     "SAR": "0.59 W/kg (head) \u00a0 \u00a0 1.27 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009133.13 / \u00a3\u2009140.57 / \u20ac\u2009175.00 / \u20b9\u200911,990"
+    "Price": "$\u2009133.13 / \u00a3\u2009139.70 / \u20ac\u2009167.00 / \u20b9\u200911,799"
    }
   ],
   "Tests": [

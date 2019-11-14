@@ -38,7 +38,7 @@
   ],
   "Platform": [
    {
-    "OS": "Android 7.1.2 (Nougat); MIUI 9.1",
+    "OS": "Android 7.1.2 (Nougat); MIUI 11",
     "Chipset": "Qualcomm SDM450 Snapdragon 450 (14 nm)",
     "CPU": "Octa-core 1.8 GHz Cortex-A53",
     "GPU": "Adreno 506"
@@ -96,7 +96,7 @@
     "Colors": "Black, Gold, Light Blue, Rose Gold",
     "Models": "MDG1, MDI1",
     "SAR": "0.53 W/kg (head) \u00a0 \u00a0 1.53 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009127.99 / \u00a3\u2009134.46 / \u20b9\u20098,435"
+    "Price": "$\u2009127.99 / \u00a3\u2009132.96 / \u20b9\u20098,425"
    }
   ],
   "Tests": [
