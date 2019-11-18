@@ -678,6 +678,12 @@
   }
  },
  {
+  "magnolia": {
+   "name": "MiTV",
+   "model": "MiTV4I"
+  }
+ },
+ {
   "nino": {
    "name": "MiTV",
    "model": "MiTV-MSSP1"
