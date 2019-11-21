@@ -1,5 +1,23 @@
 [
  {
+  "pid": "363",
+  "name": "Redmi Note 8/Pro",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "V2.3",
+  "pic": "https://attach.bbs.miui.com/common/00/common_363_phone.png?Td1"
+ },
+ {
+  "pid": "362",
+  "name": "Redmi 8/8A",
+  "hot": "",
+  "update": "",
+  "type": "1",
+  "version": "V2.3",
+  "pic": "https://attach.bbs.miui.com/common/c3/common_362_phone.png?Td1"
+ },
+ {
   "pid": "361",
   "name": "小米CC9/CC9 Pro/CC9e/美图定制版",
   "hot": "",
