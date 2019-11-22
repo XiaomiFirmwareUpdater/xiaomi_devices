@@ -954,16 +954,16 @@
   }
  },
  {
-  "codename": "",
+  "codename": "willow",
   "internal_name": "C3X",
-  "name": "Redmi Note 8T:",
+  "name": "Redmi Note 8T",
   "models": {
    "M1908C3XG": "Redmi Note 8T Global"
   }
  },
  {
   "codename": "begonia",
-  "internal_name": "G7A",
+  "internal_name": "G7",
   "name": "Redmi Note 8 Pro",
   "models": {
    "M1906G7G": "Redmi Note 8 Pro Global",
