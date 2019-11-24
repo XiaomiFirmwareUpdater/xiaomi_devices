@@ -36,7 +36,7 @@
   ],
   "Platform": [
    {
-    "OS": "Android 6.0 (Marshmallow), upgradable to 7.0 (Nougat); MIUI 10",
+    "OS": "Android 6.0 (Marshmallow), upgradable to 7.0 (Nougat); MIUI 11",
     "Chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
     "CPU": "Octa-core 2.0 GHz Cortex-A53",
     "GPU": "Adreno 506"
@@ -93,7 +93,7 @@
     "Colors": "Dark Gray, Gold, Black, Lake Blue (64/4GB model)",
     "Models": "2016100",
     "SAR": "0.72 W/kg (head) \u00a0 \u00a0 0.67 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "\u00a3\u2009359.99 / \u20b9\u20097,999"
+    "Price": "\u00a3\u2009359.99 / \u20b9\u20097,790"
    }
   ],
   "Tests": [
