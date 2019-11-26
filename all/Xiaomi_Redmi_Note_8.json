@@ -97,7 +97,17 @@
     "Models": "M1908C3JH, M1908C3JG, M1908C3JI",
     "SAR": "0.26 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
     "SAR EU": "0.19 W/kg (head) \u00a0 \u00a0 1.09 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009140.99 / \u00a3\u2009129.00 / \u20ac\u2009167.94 / \u20b9\u20099,999"
+    "Price": "$\u2009142.99 / \u00a3\u2009129.00 / \u20ac\u2009171.00 / \u20b9\u20099,999"
+   }
+  ],
+  "Tests": [
+   {
+    "Performance": "\nBasemark OS II: 2923 / Basemark OS II 2.0: 2272Basemark X: 17636",
+    "Display": "\nContrast ratio: 1521:1 (nominal)",
+    "Camera": "\nPhoto / Video",
+    "Loudspeaker": "\nVoice 78dB / Noise 72dB / Ring 81dB\n",
+    "Audio quality": "\nNoise -94.0dB / Crosstalk -93.3dB",
+    "Battery life": "\n\nEndurance rating 108h\n\n"
    }
   ]
  }
