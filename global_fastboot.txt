@@ -72,6 +72,10 @@ sagit_global - F
 sakura_india_global - F
 santoni_global - F
 scorpio_global - F
+tucana_eea_global - F
+tucana_global - F
+tucana_in_global - F
+tucana_ru_global - F
 ugg_global - F
 ugglite_global - F
 vince_global - F
