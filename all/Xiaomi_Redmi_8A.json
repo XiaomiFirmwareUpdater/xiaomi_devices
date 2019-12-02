@@ -77,7 +77,6 @@
     "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
     "Bluetooth": "4.2, A2DP, LE",
     "GPS": "Yes, with A-GPS, GLONASS, BDS",
-    "Infrared port": "Yes",
     "Radio": "FM Radio, built-in antenna",
     "USB": "2.0, Type-C 1.0 reversible connector, USB On-The-Go"
    }
@@ -96,6 +95,8 @@
   "Misc": [
    {
     "Colors": "Midnight Black, Ocean Blue, Sunset Red",
+    "Models": "MZB8458IN",
+    "SAR": "0.34 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
     "Price": "$\u200995.12 / \u00a3\u200989.99 / \u20ac\u2009114.00 / \u20b9\u20096,499"
    }
   ]
