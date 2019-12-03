@@ -677,10 +677,9 @@
  {
   "codename": "vince",
   "internal_name": "E7",
-  "name": "Redmi 5 Plus / Redmi Note 5",
+  "name": "Redmi 5 Plus",
   "models": {
    "MEG7": "Redmi 5 Plus Global",
-   "MEI7": "Redmi Note 5 India",
    "MEE7": "Redmi 5 Plus China",
    "MET7": "Redmi 5 Plus China Mobile"
   }
@@ -863,7 +862,7 @@
  {
   "codename": "mido",
   "internal_name": "C6",
-  "name": "Redmi Note 4X / Redmi Note 4",
+  "name": "Redmi Note 4 / Redmi Note 4X",
   "models": {
    "2016100, 2016102": "Redmi Note 4 (Qualcomm) Global",
    "2016101": "Redmi Note 4X (Qualcomm) China",
@@ -877,6 +876,14 @@
   "models": {
    "MBE6A5": "Redmi Note 4X (Mediatek)",
    "MBT6A5": "Redmi Note 4X (Mediatek) China Mobile"
+  }
+ },
+ {
+  "codename": "vince",
+  "internal_name": "E7",
+  "name": "Redmi Note 5",
+  "models": {
+   "MEI7": "Redmi Note 5 India"
   }
  },
  {
@@ -981,36 +988,6 @@
   }
  },
  {
-  "codename": "ysl",
-  "internal_name": "E6",
-  "name": "Redmi S2 / Redmi Y2",
-  "models": {
-   "M1803E6G, M1803E6H": "Redmi S2 Global",
-   "M1803E6I": "Redmi Y2 India",
-   "M1803E6E": "Redmi S2 China",
-   "M1803E6T": "Redmi S2 China Mobile",
-   "M1803E6C": "Redmi S2 China Unicom / China Telecom"
-  }
- },
- {
-  "codename": "onc",
-  "internal_name": "F6",
-  "name": "Redmi Y3",
-  "models": {
-   "M1810F6G": "Redmi Y3 Global",
-   "M1810F6I": "Redmi Y3 India"
-  }
- },
- {
-  "codename": "omega",
-  "internal_name": "H3C",
-  "name": "Redmi Pro",
-  "models": {
-   "2016020": "Redmi Pro 32GB",
-   "2016021": "Redmi Pro 64GB / 128GB"
-  }
- },
- {
   "codename": "davinci",
   "internal_name": "F10",
   "name": "Redmi K20",
@@ -1053,12 +1030,50 @@
   }
  },
  {
+  "codename": "omega",
+  "internal_name": "H3C",
+  "name": "Redmi Pro",
+  "models": {
+   "2016020": "Redmi Pro 32GB",
+   "2016021": "Redmi Pro 64GB / 128GB"
+  }
+ },
+ {
+  "codename": "ysl",
+  "internal_name": "E6",
+  "name": "Redmi S2 / Redmi Y2",
+  "models": {
+   "M1803E6G, M1803E6H": "Redmi S2 Global",
+   "M1803E6I": "Redmi Y2 India",
+   "M1803E6E": "Redmi S2 China",
+   "M1803E6T": "Redmi S2 China Mobile",
+   "M1803E6C": "Redmi S2 China Unicom / China Telecom"
+  }
+ },
+ {
+  "codename": "onc",
+  "internal_name": "F6",
+  "name": "Redmi Y3",
+  "models": {
+   "M1810F6G": "Redmi Y3 Global",
+   "M1810F6I": "Redmi Y3 India"
+  }
+ },
+ {
   "codename": "tiare",
   "internal_name": "C3G",
   "name": "Redmi Go",
   "models": {
    "M1903C3GG, M1903C3GH": "Redmi Go Global",
    "M1903C3GI": "Redmi Go India"
+  }
+ },
+ {
+  "codename": "beryllium",
+  "internal_name": "E10",
+  "name": "POCO F1",
+  "models": {
+   "M1805E10A": "POCO F1"
   }
  },
  {
@@ -1091,14 +1106,6 @@
   "name": "Black Shark 2 Pro",
   "models": {
    "DLT-A0": "Black Shark 2 Pro"
-  }
- },
- {
-  "codename": "beryllium",
-  "internal_name": "E10",
-  "name": "POCO F1",
-  "models": {
-   "M1805E10A": "POCO F1"
   }
  }
 ]
