@@ -10,6 +10,7 @@ cepheus - F
 cereus - F
 chiron - F
 clover - F
+crux - F
 davinci - F
 dipper - F
 equuleus - F
@@ -56,6 +57,7 @@ santoni - F
 scorpio - F
 sirius - F
 tiffany - F
+tucana - F
 ugg - F
 ugglite - F
 ursa - F
