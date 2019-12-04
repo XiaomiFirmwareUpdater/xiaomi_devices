@@ -52,7 +52,7 @@
   ],
   "Main Camera": [
    {
-    "Single": "12 MP, f/2.2, 1.25\u00b5m, PDAF\r\n2 MP, depth sensor",
+    "Single": "12 MP, f/2.2, 1/2.9\", 1.25\u00b5m, PDAF\r\n2 MP, depth sensor",
     "Features": "LED flash, HDR, panorama",
     "Video": "1080p@30/60fps"
    }
@@ -97,7 +97,7 @@
     "Colors": "Lunar Red, Eclipse Black, Comet Blue",
     "Models": "M1810F6LG, M1810F6LH, M1810F6LI",
     "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.25 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009106.00 / \u00a3\u2009109.99 / \u20ac\u2009135.58 / \u20b9\u20096,999"
+    "Price": "$\u2009104.00 / \u00a3\u2009109.99 / \u20ac\u2009135.58 / \u20b9\u20096,999"
    }
   ]
  }

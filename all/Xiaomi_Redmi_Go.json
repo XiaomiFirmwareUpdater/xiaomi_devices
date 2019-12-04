@@ -49,14 +49,14 @@
   ],
   "Main Camera": [
    {
-    "Single": "8 MP, f/2.0, 1.12\u00b5m, AF",
+    "Single": "8 MP, f/2.0, 1/4.0\", 1.12\u00b5m, AF",
     "Features": "LED flash, HDR",
     "Video": "1080p@30fps"
    }
   ],
   "Selfie camera": [
    {
-    "Single": "5 MP, f/2.2, 1.12\u00b5m",
+    "Single": "5 MP, f/2.2, 1/5\", 1.12\u00b5m",
     "Features": "HDR",
     "Video": ""
    }
@@ -92,7 +92,7 @@
     "Colors": "Black, Blue",
     "Models": "M1903C3GG, M1903C3GH, M1903C3GI",
     "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.50 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u200975.98 / \u00a3\u200973.88 / \u20ac\u200982.58 / \u20b9\u20094,299"
+    "Price": "$\u200975.98 / \u00a3\u200973.88 / \u20ac\u200989.59 / \u20b9\u20094,299"
    }
   ]
  }

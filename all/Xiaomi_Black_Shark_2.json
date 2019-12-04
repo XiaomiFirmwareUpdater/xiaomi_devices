@@ -52,9 +52,9 @@
   ],
   "Main Camera": [
    {
-    "Dual": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\n12 MP, f/2.2, (telephoto), 1.0\u00b5m, PDAF, 2x optical zoom",
+    "Dual": "48 MP, f/1.8, 28mm (wide), 1/2\", 0.8\u00b5m, PDAF\r\n12 MP, f/2.2, 54mm (telephoto), 1.0\u00b5m, PDAF, 2x optical zoom",
     "Features": "LED flash, HDR, panorama",
-    "Video": "2160p@30fps, 1080p@30fps, 720p@120fps"
+    "Video": "2160p@30/60fps, 1080p@30fps, 720p@120fps"
    }
   ],
   "Selfie camera": [

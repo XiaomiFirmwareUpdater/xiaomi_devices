@@ -37,7 +37,7 @@
   ],
   "Platform": [
    {
-    "OS": "Android 8.1 (Oreo), planned upgrade to Android 9.0 (Pie); MIUI 11",
+    "OS": "Android 8.1 (Oreo), upgradable to Android 9.0 (Pie); MIUI 11",
     "Chipset": "Mediatek MT6761 Helio A22 (12 nm)",
     "CPU": "Quad-core 2.0 GHz Cortex-A53",
     "GPU": "PowerVR GE8320"

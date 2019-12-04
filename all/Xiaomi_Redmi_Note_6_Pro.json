@@ -38,7 +38,7 @@
   ],
   "Platform": [
    {
-    "OS": "Android 8.1 (Oreo), planned upgrade to Android 9.0 (Pie); MIUI 9.0",
+    "OS": "Android 8.1 (Oreo), upgradable to Android 9.0 (Pie); MIUI 11",
     "Chipset": "Qualcomm SDM636 Snapdragon 636 (14 nm)",
     "CPU": "Octa-core (4x1.8 GHz Kryo 260 Gold & 4x1.6 GHz Kryo 260 Silver)",
     "GPU": "Adreno 509"
@@ -97,7 +97,7 @@
     "Colors": "Black, Blue, Rose Gold, Red",
     "Models": "M1806E7TG, M1806E7TH, M1806E7TI",
     "SAR": "0.76 W/kg (head) \u00a0 \u00a0 1.48 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009159.99 / \u00a3\u2009129.00 / \u20b9\u20098,499"
+    "Price": "$\u2009159.99 / \u00a3\u2009129.00 / \u20b9\u20098,820"
    }
   ],
   "Tests": [

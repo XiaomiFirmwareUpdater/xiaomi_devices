@@ -38,7 +38,7 @@
   ],
   "Platform": [
    {
-    "OS": "Android 7.1 (Nougat), 8.0 (Oreo), planned upgrade to Android 9.0 (Pie); MIUI 11",
+    "OS": "Android 7.1 (Nougat), upgradable to Android 9.0 (Pie); MIUI 11",
     "Chipset": "Qualcomm MSM8998 Snapdragon 835 (10 nm)",
     "CPU": "Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)",
     "GPU": "Adreno 540"
