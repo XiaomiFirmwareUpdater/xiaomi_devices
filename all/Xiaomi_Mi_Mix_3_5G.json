@@ -11,7 +11,7 @@
     "info": "CDMA2000 1xEV-DO ",
     "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
     "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 28(700), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-    "5G": "5G NSA / Sub6 / mmWave; N78",
+    "5G": "5G band 78(3500); NSA/Sub6",
     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (5CA) Cat18 1200/150 Mbps; 5G (2+ Gbps DL)"
    }
   ],
@@ -100,7 +100,7 @@
     "Colors": "Sapphire Blue",
     "Models": "M1810E5GG",
     "SAR": "1.56 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009329.99 / \u00a3\u2009280.41"
+    "Price": "$\u2009329.99 / \u00a3\u2009275.69"
    }
   ]
  }
