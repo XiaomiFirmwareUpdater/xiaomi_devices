@@ -1,7 +1,7 @@
 [
  {
   "name": "Xiaomi Redmi Note 8T",
-  "codename": "",
+  "codename": "willow",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-8t.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_8t-9946.php",
   "specs": {
@@ -17,7 +17,7 @@
    "Launch": [
     {
      "Announced": "2019, November",
-     "Status": "Coming soon. Exp. release 2019, November 8"
+     "Status": "Available. Released 2019, November"
     }
    ],
    "Body": [
@@ -95,14 +95,14 @@
    "Misc": [
     {
      "Colors": "Stellar blue, Moon white, Midnight gray",
-     "Price": "About 180 EUR"
+     "Price": "$\u2009154.99 / \u00a3\u2009136.00 / \u20ac\u2009156.05"
     }
    ]
   }
  },
  {
   "name": "Xiaomi Mi Note 10 Pro",
-  "codename": "",
+  "codename": "tucana",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-note10-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_note_10_pro-9945.php",
   "specs": {
@@ -131,7 +131,7 @@
    ],
    "Display": [
     {
-     "Type": "Super AMOLED capacitive touchscreen, 16M colors",
+     "Type": "AMOLED capacitive touchscreen, 16M colors",
      "Size": "6.47 inches, 102.8 cm2 (~87.8% screen-to-body ratio)",
      "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~398 ppi density)",
      "Protection": "Corning Gorilla Glass 5",
@@ -161,7 +161,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "32 MP, f/2.0, 0.8\u00b5m",
+     "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -198,7 +198,7 @@
    "Misc": [
     {
      "Colors": "Aurora Green, Glacier White, Midnight Black",
-     "Price": "About 650 EUR"
+     "Price": "$\u2009649.00"
     }
    ]
   }
@@ -221,7 +221,7 @@
    "Launch": [
     {
      "Announced": "2019, November",
-     "Status": "Coming soon. Exp. release 2019, November"
+     "Status": "Available. Released 2019, November"
     }
    ],
    "Body": [
@@ -234,7 +234,7 @@
    ],
    "Display": [
     {
-     "Type": "Super AMOLED capacitive touchscreen, 16M colors",
+     "Type": "AMOLED capacitive touchscreen, 16M colors",
      "Size": "6.47 inches, 102.8 cm2 (~87.8% screen-to-body ratio)",
      "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~398 ppi density)",
      "Protection": "Corning Gorilla Glass 5",
@@ -264,7 +264,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "32 MP, f/2.0, 0.8\u00b5m",
+     "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -301,7 +301,7 @@
    "Misc": [
     {
      "Colors": "Aurora Green, Glacier White, Midnight Black",
-     "Price": "$\u2009603.90"
+     "Price": "$\u2009596.34 / \u00a3\u2009497.50 / \u20ac\u2009499.00"
     }
    ],
    "Tests": [
@@ -335,7 +335,7 @@
    "Launch": [
     {
      "Announced": "2019, November",
-     "Status": "Coming soon. Exp. release 2019, November 11"
+     "Status": "Available. Released 2019, November"
     }
    ],
    "Body": [
@@ -348,7 +348,7 @@
    ],
    "Display": [
     {
-     "Type": "Super AMOLED capacitive touchscreen, 16M colors",
+     "Type": "AMOLED capacitive touchscreen, 16M colors",
      "Size": "6.47 inches, 102.8 cm2 (~87.8% screen-to-body ratio)",
      "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~398 ppi density)",
      "Protection": "Corning Gorilla Glass 5",
@@ -378,7 +378,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "32 MP, f/2.0, 0.8\u00b5m",
+     "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -416,7 +416,7 @@
     {
      "Colors": "Aurora Green, Glacier White, Midnight Black",
      "Models": "M1910F4E",
-     "Price": "$\u2009479.99"
+     "Price": "$\u2009425.99"
     }
    ]
   }
@@ -439,14 +439,14 @@
    "Launch": [
     {
      "Announced": "2019, November",
-     "Status": "Coming soon. Exp. release 2019, November 11"
+     "Status": "Available. Released 2019, November"
     }
    ],
    "Body": [
     {
      "Dimensions": "44.7 x 36.9 x 12.3 mm (1.76 x 1.45 x 0.48 in)",
      "Weight": "44 g / 56 g (1.55 oz)",
-     "SIM": "Electronic SIM card (eSIM)"
+     "SIM": "eSIM"
     }
    ],
    "Display": [
@@ -550,7 +550,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 9.0 (Pie); MIUI 9",
+     "OS": "Android 9.0 (Pie); MIUI 11",
      "Chipset": "Qualcomm SDM439 Snapdragon 439 (12 nm)",
      "CPU": "Octa-core (2x1.95 GHz Cortex-A53 & 6x1.45 GHz Cortex A53)",
      "GPU": "Adreno 505"
@@ -571,7 +571,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "8 MP, f/2.0, 1.12\u00b5m",
+     "Single": "8 MP, f/2.0, 1/4\", 1.12\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -609,7 +609,7 @@
      "Colors": "Onyx Black, Ruby Red, Sapphire Blue",
      "Models": "M1908C3IC, MZB8255IN",
      "SAR": "0.34 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009111.69 / \u00a3\u2009128.72 / \u20b9\u20097,999"
+     "Price": "$\u2009112.69 / \u00a3\u2009118.26 / \u20ac\u2009141.80 / \u20b9\u20097,999"
     }
    ]
   }
@@ -655,7 +655,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 9.0 (Pie); MIUI 10",
+     "OS": "Android 9.0 (Pie); MIUI 11",
      "Chipset": "Qualcomm SDM439 Snapdragon 439 (12 nm)",
      "CPU": "Octa-core (2x1.95 GHz Cortex-A53 & 6x1.45 GHz Cortex A53)",
      "GPU": "Adreno 505"
@@ -664,7 +664,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 512 GB (dedicated slot)",
-     "Internal": "32GB 2GB RAM, 32GB 3GB RAM"
+     "Internal": "32GB 2GB RAM, 32GB 3GB RAM, 64GB 4GB RAM"
     }
    ],
    "Main Camera": [
@@ -676,7 +676,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "8 MP, f/2.0, 1.12\u00b5m",
+     "Single": "8 MP, f/2.0, 1/4\", 1.12\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -693,7 +693,6 @@
      "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
      "Bluetooth": "4.2, A2DP, LE",
      "GPS": "Yes, with A-GPS, GLONASS, BDS",
-     "Infrared port": "Yes",
      "Radio": "FM Radio, built-in antenna",
      "USB": "2.0, Type-C 1.0 reversible connector, USB On-The-Go"
     }
@@ -712,7 +711,9 @@
    "Misc": [
     {
      "Colors": "Midnight Black, Ocean Blue, Sunset Red",
-     "Price": "$\u200996.75 / \u00a3\u2009109.82 / \u20b9\u20096,499"
+     "Models": "MZB8458IN",
+     "SAR": "0.34 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
+     "Price": "$\u200998.99 / \u00a3\u200989.99 / \u20ac\u2009114.00 / \u20b9\u20096,499"
     }
    ]
   }
@@ -730,7 +731,7 @@
      "info": "CDMA 800 & TD-SCDMA",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
-     "5G": "5G SA / NSA / Sub6 / mmWave; N41/N78/N79",
+     "5G": "5G band 41(2500), 78(3500), 79(4700); SA/NSA/Sub6",
      "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (7CA) Cat20 2048/150 Mbps, 5G (2+ Gbps DL)"
     }
    ],
@@ -832,7 +833,7 @@
      "info": "CDMA 800 & TD-SCDMA",
      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 17(700), 41(2500) - China",
-     "5G": "5G SA / NSA / Sub6 / mmWave; N41/N78/N79",
+     "5G": "5G band 41(2500), 78(3500), 79(4700); NSA",
      "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (7CA) Cat20 2048/150 Mbps, 5G (2+ Gbps DL)"
     }
    ],
@@ -882,7 +883,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "20 MP, f/2.0, 0.9\u00b5m",
+     "Single": "20 MP, f/2.0, (wide), 1/3\", 0.9\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -986,7 +987,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "20 MP, f/2.0, 0.9\u00b5m",
+     "Single": "20 MP, f/2.0, (wide), 1/3\", 0.9\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -1023,7 +1024,7 @@
    "Misc": [
     {
      "Colors": "Dream White, Titanium Black",
-     "Price": "$\u2009320.36 / \u00a3\u2009326.00"
+     "Price": "About 500 EUR"
     }
    ]
   }
@@ -1083,14 +1084,14 @@
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, PDAF, Laser AF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4\", 1.12\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3\", 1.12\u00b5m",
+     "Triple": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, PDAF, Laser AF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4\", 1.12\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3.1\", 1.12\u00b5m",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
     }
    ],
    "Selfie camera": [
     {
-     "Single": "Motorized pop-up 20 MP, f/2.2, 0.8\u00b5m",
+     "Single": "Motorized pop-up 20 MP, f/2.2, (wide), 1/3.4\", 0.8\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -1126,7 +1127,7 @@
    "Misc": [
     {
      "Colors": "Carbon black, Flame red, Glacier blue, Summer Honey, Pearl White",
-     "Price": "$\u2009466.99"
+     "Price": "$\u2009432.99"
     }
    ]
   }
@@ -1192,7 +1193,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "32 MP, f/2.0, 0.8\u00b5m",
+     "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -1229,7 +1230,7 @@
    "Misc": [
     {
      "Colors": "Black, Blue, White",
-     "Price": "$\u20093.14 / \u00a3\u2009205.99 / \u20ac\u2009232.48"
+     "Price": "$\u2009159.88 / \u00a3\u2009189.00 / \u20ac\u2009245.00"
     }
    ],
    "Tests": [
@@ -1292,7 +1293,7 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM",
+     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
      "info": "UFS2.1"
     }
    ],
@@ -1305,7 +1306,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "20 MP, f/2.0, 0.9\u00b5m",
+     "Single": "20 MP, f/2.0, (wide), 1/3\", 0.9\u00b5m",
      "Features": "HDR, panorama",
      "Video": "1080p@30fps"
     }
@@ -1341,11 +1342,11 @@
    ],
    "Misc": [
     {
-     "Colors": "Black, Red, Blue, White, Deep Sea Blue",
+     "Colors": "Black, Red, Blue, White, Deep Sea Blue, Midnight Blue, Electric Blue",
      "Models": "2015105, M1906G7I",
      "SAR": "1.13 W/kg (head) \u00a0 \u00a0 0.63 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.38 W/kg (head) \u00a0 \u00a0 0.80 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009198.99 / \u00a3\u2009188.00 / \u20ac\u2009244.99 / \u20b9\u200914,999"
+     "Price": "$\u2009188.99 / \u00a3\u2009166.99 / \u20ac\u2009236.89 / \u20b9\u200914,999"
     }
    ],
    "Tests": [
@@ -1422,7 +1423,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "20 MP, f/2.0, 0.9\u00b5m",
+     "Single": "20 MP, f/2.0, (wide), 1/3\", 0.9\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -1457,15 +1458,15 @@
    "Misc": [
     {
      "Colors": "Shadow Black, Iceberg Grey, Gulf Blue, Streamer Purple",
-     "Models": "DLT-A0",
-     "Price": "$\u2009519.99 / \u00a3\u2009699.99"
+     "Models": "DLT-A0, DLT-H0",
+     "Price": "$\u2009459.00 / \u00a3\u2009549.00"
     }
    ]
   }
  },
  {
   "name": "Xiaomi Mi A3",
-  "codename": "laurel",
+  "codename": "laurel_sprout",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-a3.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_a3-9769.php",
   "specs": {
@@ -1523,7 +1524,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "32 MP, f/2.0, 0.8\u00b5m",
+     "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -1562,7 +1563,7 @@
      "Models": "M1906F9SH, M1906F9SI",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.30 W/kg (head) \u00a0 \u00a0 1.10 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009145.99 / \u00a3\u2009142.06 / \u20ac\u2009163.85 / \u20b9\u200912,937"
+     "Price": "$\u2009154.99 / \u00a3\u2009129.00 / \u20ac\u2009179.90 / \u20b9\u200910,748"
     }
    ],
    "Tests": [
@@ -1617,7 +1618,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 9.0 (Pie); MIUI 10.2.7",
+     "OS": "Android 9.0 (Pie); MIUI 11",
      "Chipset": "Qualcomm SDM439 Snapdragon 439 (12 nm)",
      "CPU": "Octa-core (2x2.0 GHz Cortex-A53 & 6x1.45 GHz Cortex A53)",
      "GPU": "Adreno 505"
@@ -1631,14 +1632,14 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, f/2.2, 1.12\u00b5m, PDAF - China\r\nor\r\n12 MP, f/2.2, 1/2.9\", 1.25\u00b5m, PDAF - Global, India",
+     "Single": "13 MP, f/2.2, 1/3.1\", 1.12\u00b5m, PDAF - China\r\nor\r\n12 MP, f/2.2, 1/2.9\", 1.25\u00b5m, PDAF - Global, India",
      "Features": "LED flash, HDR",
      "Video": "1080p@30fps"
     }
    ],
    "Selfie camera": [
     {
-     "Single": "5 MP, f/2.2, 1.12\u00b5m",
+     "Single": "5 MP, f/2.2, 1/5\", 1.12\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -1675,7 +1676,108 @@
      "Colors": "Matte Black, Morning blue, Matte Blue, Matte Gold, Gem Red, Gem Blue",
      "Models": "MZB7995IN, M1903C3EG, M1903C3EH, M1903C3EI",
      "SAR": "0.74 W/kg (head) \u00a0 \u00a0 0.79 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u200980.99 / \u00a3\u200972.19 / \u20ac\u200984.80 / \u20b9\u20095,499"
+     "Price": "$\u200981.99 / \u00a3\u200974.98 / \u20ac\u200990.66 / \u20b9\u20095,299"
+    }
+   ]
+  }
+ },
+ {
+  "name": "Xiaomi Mi CC9e",
+  "codename": "",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-cc9e-.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_mi_cc9e-9759.php",
+  "specs": {
+   "Network": [
+    {
+     "Technology": "GSM / CDMA / HSPA / LTE",
+     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+     "info": "CDMA 800 & TD-SCDMA",
+     "3G bands": "HSDPA 850 / 900 / 2100 ",
+     "4G bands": "LTE band 1(2100), 3(1800), 5(850), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) 450/50 Mbps"
+    }
+   ],
+   "Launch": [
+    {
+     "Announced": "2019, July",
+     "Status": "Available. Released 2019, July"
+    }
+   ],
+   "Body": [
+    {
+     "Dimensions": "153.5 x 71.9 x 8.5 mm (6.04 x 2.83 x 0.33 in)",
+     "Weight": "173.8 g (6.14 oz)",
+     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+    }
+   ],
+   "Display": [
+    {
+     "Type": "Super AMOLED capacitive touchscreen, 16M colors",
+     "Size": "6.01 inches, 88.7 cm2 (~80.3% screen-to-body ratio)",
+     "Resolution": "720 x 1560 pixels, 19.5:9 ratio (~286 ppi density)",
+     "Protection": "Corning Gorilla Glass 5"
+    }
+   ],
+   "Platform": [
+    {
+     "OS": "Android 9.0 (Pie); MIUI 10",
+     "Chipset": "Qualcomm SDM665 Snapdragon 665 (11 nm)",
+     "CPU": "Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
+     "GPU": "Adreno 610"
+    }
+   ],
+   "Memory": [
+    {
+     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM"
+    }
+   ],
+   "Main Camera": [
+    {
+     "Triple": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, depth sensor",
+     "Features": "LED flash, HDR, panorama",
+     "Video": "2160p@30fps, 1080p@30/60/120fps"
+    }
+   ],
+   "Selfie camera": [
+    {
+     "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8\u00b5m",
+     "Features": "HDR",
+     "Video": "1080p@30fps"
+    }
+   ],
+   "Sound": [
+    {
+     "Loudspeaker ": "Yes",
+     "3.5mm jack ": "Yes",
+     "info": "Active noise cancellation with dedicated mic"
+    }
+   ],
+   "Comms": [
+    {
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+     "Bluetooth": "5.0, A2DP, LE, aptX HD",
+     "GPS": "Yes, with A-GPS, GLONASS, BDS",
+     "Infrared port": "Yes",
+     "Radio": "FM radio",
+     "USB": "2.0, Type-C 1.0 reversible connector"
+    }
+   ],
+   "Features": [
+    {
+     "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    }
+   ],
+   "Battery": [
+    {
+     "info": "Non-removable Li-Po 4030 mAh battery",
+     "Charging": "Fast battery charging 18W"
+    }
+   ],
+   "Misc": [
+    {
+     "Colors": "Black, Blue, White",
+     "Price": "$\u2009153.99"
     }
    ]
   }
@@ -1742,7 +1844,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "32 MP, f/2.0, 0.8\u00b5m",
+     "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -1779,108 +1881,7 @@
    "Misc": [
     {
      "Colors": "Black, Blue, White",
-     "Price": "$\u2009224.99 / \u00a3\u2009337.99"
-    }
-   ]
-  }
- },
- {
-  "name": "Xiaomi Mi CC9e",
-  "codename": "",
-  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-cc9e-.jpg",
-  "url": "https://www.gsmarena.com/xiaomi_mi_cc9e-9759.php",
-  "specs": {
-   "Network": [
-    {
-     "Technology": "GSM / CDMA / HSPA / LTE",
-     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-     "info": "CDMA 800 & TD-SCDMA",
-     "3G bands": "HSDPA 850 / 900 / 2100 ",
-     "4G bands": "LTE band 1(2100), 3(1800), 5(850), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) 450/50 Mbps"
-    }
-   ],
-   "Launch": [
-    {
-     "Announced": "2019, July",
-     "Status": "Available. Released 2019, July"
-    }
-   ],
-   "Body": [
-    {
-     "Dimensions": "153.5 x 71.9 x 8.5 mm (6.04 x 2.83 x 0.33 in)",
-     "Weight": "173.8 g (6.14 oz)",
-     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
-    }
-   ],
-   "Display": [
-    {
-     "Type": "Super AMOLED capacitive touchscreen, 16M colors",
-     "Size": "6.01 inches, 88.7 cm2 (~80.3% screen-to-body ratio)",
-     "Resolution": "720 x 1560 pixels, 19.5:9 ratio (~286 ppi density)",
-     "Protection": "Corning Gorilla Glass 5"
-    }
-   ],
-   "Platform": [
-    {
-     "OS": "Android 9.0 (Pie); MIUI 10",
-     "Chipset": "Qualcomm SDM665 Snapdragon 665 (11 nm)",
-     "CPU": "Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
-     "GPU": "Adreno 610"
-    }
-   ],
-   "Memory": [
-    {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM"
-    }
-   ],
-   "Main Camera": [
-    {
-     "Triple": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\n8 MP, (ultrawide), f/2.2, 1.12\u00b5m\r\n2 MP, f/2.4, depth sensor",
-     "Features": "LED flash, HDR, panorama",
-     "Video": "2160p@30fps, 1080p@30/60/120fps"
-    }
-   ],
-   "Selfie camera": [
-    {
-     "Single": "32 MP, f/2.0, 0.8\u00b5m",
-     "Features": "HDR",
-     "Video": "1080p@30fps"
-    }
-   ],
-   "Sound": [
-    {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
-    }
-   ],
-   "Comms": [
-    {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
-     "Bluetooth": "5.0, A2DP, LE, aptX HD",
-     "GPS": "Yes, with A-GPS, GLONASS, BDS",
-     "Infrared port": "Yes",
-     "Radio": "FM radio",
-     "USB": "2.0, Type-C 1.0 reversible connector"
-    }
-   ],
-   "Features": [
-    {
-     "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-    }
-   ],
-   "Battery": [
-    {
-     "info": "Non-removable Li-Po 4030 mAh battery",
-     "Charging": "Fast battery charging 18W"
-    }
-   ],
-   "Misc": [
-    {
-     "Colors": "Black, Blue, White",
-     "Price": "About 170 EUR"
+     "Price": "$\u2009199.99 / \u00a3\u2009337.99"
     }
    ]
   }
@@ -1911,7 +1912,7 @@
     {
      "Dimensions": "158.3 x 75.3 x 8.4 mm (6.23 x 2.96 x 0.33 in)",
      "Weight": "190 (6.70 oz)",
-     "Build": "Front/back glass (Gorilla Glass 5)",
+     "Build": "Front/back glass (Gorilla Glass 5), plastic frame",
      "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
     }
    ],
@@ -1925,7 +1926,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 9.0 (Pie); MIUI 10",
+     "OS": "Android 9.0 (Pie); MIUI 11",
      "Chipset": "Qualcomm SDM665 Snapdragon 665 (11 nm)",
      "CPU": "Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
      "GPU": "Adreno 610"
@@ -1980,11 +1981,21 @@
    ],
    "Misc": [
     {
-     "Colors": "Neptune Blue, Moonlight White, Space Black",
+     "Colors": "Neptune Blue, Moonlight White, Space Black, Nebula Purple, Cosmic Purple",
      "Models": "M1908C3JH, M1908C3JG, M1908C3JI",
      "SAR": "0.26 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.19 W/kg (head) \u00a0 \u00a0 1.09 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009144.69 / \u00a3\u2009136.99 / \u20ac\u2009184.30 / \u20b9\u20099,999"
+     "Price": "$\u2009138.69 / \u00a3\u2009148.96 / \u20ac\u2009169.90 / \u20b9\u20099,999"
+    }
+   ],
+   "Tests": [
+    {
+     "Performance": "\nBasemark OS II: 2923 / Basemark OS II 2.0: 2272Basemark X: 17636",
+     "Display": "\nContrast ratio: 1521:1 (nominal)",
+     "Camera": "\nPhoto / Video",
+     "Loudspeaker": "\nVoice 78dB / Noise 72dB / Ring 81dB\n",
+     "Audio quality": "\nNoise -94.0dB / Crosstalk -93.3dB",
+     "Battery life": "\n\nEndurance rating 108h\n\n"
     }
    ]
   }
@@ -2043,14 +2054,14 @@
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, PDAF, Laser AF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4\", 1.12\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3\", 1.12\u00b5m",
+     "Triple": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, PDAF, Laser AF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4\", 1.12\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3.1\", 1.12\u00b5m",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
     }
    ],
    "Selfie camera": [
     {
-     "Single": "Motorized pop-up 20 MP, f/2.2, 0.8\u00b5m",
+     "Single": "Motorized pop-up 20 MP, f/2.2, (wide), 1/3.4\", 0.8\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -2089,7 +2100,16 @@
      "Models": "M1903F11G",
      "SAR": "1.03 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "1.30 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009319.33 / \u00a3\u2009325.99 / \u20ac\u2009363.00"
+     "Price": "$\u2009347.99 / \u00a3\u2009319.79 / \u20ac\u2009361.00"
+    }
+   ],
+   "Tests": [
+    {
+     "Performance": "\nBasemark OS II: 5269 / Basemark OS II 2.0: 5012Basemark X: 45788",
+     "Display": "\nContrast ratio: Infinite (nominal)",
+     "Loudspeaker": "\nVoice 71dB / Noise 75dB / Ring 84dB\n",
+     "Audio quality": "\nNoise -93.9dB / Crosstalk -94.2dB",
+     "Battery life": "\n\nEndurance rating 103h\n\n"
     }
    ]
   }
@@ -2148,14 +2168,14 @@
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4\", 1.12\u00b5m, PDAF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3\", 1.12\u00b5m",
+     "Triple": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4\", 1.12\u00b5m, PDAF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3.1\", 1.12\u00b5m",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/120/240fps, 1080p@960fps"
     }
    ],
    "Selfie camera": [
     {
-     "Single": "Motorized pop-up 20 MP, f/2.2, 0.8\u00b5m",
+     "Single": "Motorized pop-up 20 MP, f/2.2, (wide), 1/3.4\", 0.8\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -2193,7 +2213,7 @@
      "Colors": "Carbon black, Red flame, Glacier blue",
      "Models": "M1903F10G",
      "SAR EU": "1.34 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009277.99 / \u00a3\u2009255.49 / \u20ac\u2009291.99"
+     "Price": "$\u2009266.99 / \u00a3\u2009249.99 / \u20ac\u2009299.00"
     }
    ],
    "Tests": [
@@ -2263,14 +2283,14 @@
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4\", 1.12\u00b5m, PDAF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3\", 1.12\u00b5m",
+     "Triple": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4\", 1.12\u00b5m, PDAF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3.1\", 1.12\u00b5m",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/120/240fps, 1080p@960fps"
     }
    ],
    "Selfie camera": [
     {
-     "Single": "Motorized pop-up 20 MP, f/2.2, 0.8\u00b5m",
+     "Single": "Motorized pop-up 20 MP, f/2.2, (wide), 1/3.4\", 0.8\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -2288,7 +2308,7 @@
      "Bluetooth": "5.0, A2DP, LE, aptX HD",
      "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS",
      "NFC": "Yes (China only)",
-     "Radio": "Yes",
+     "Radio": "FM radio",
      "USB": "2.0, Type-C 1.0 reversible connector, USB On-The-Go"
     }
    ],
@@ -2308,7 +2328,7 @@
      "Colors": "Carbon black, Red flame, Glacier blue, Pearl White",
      "Models": "M1903F10I",
      "SAR": "1.07 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009256.99 / \u00a3\u2009263.99 / \u20b9\u200921,998"
+     "Price": "$\u2009239.99 / \u00a3\u2009232.00 / \u20b9\u200919,999"
     }
    ]
   }
@@ -2353,7 +2373,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 9.0 (Pie); MIUI 10",
+     "OS": "Android 9.0 (Pie); MIUI 11",
      "Chipset": "Qualcomm SDM855 Snapdragon 855 (7 nm)",
      "CPU": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)",
      "GPU": "Adreno 640"
@@ -2368,14 +2388,14 @@
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, PDAF, Laser AF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4\", 1.12\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3\", 1.12\u00b5m",
+     "Triple": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, PDAF, Laser AF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4\", 1.12\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3.1\", 1.12\u00b5m",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
     }
    ],
    "Selfie camera": [
     {
-     "Single": "Motorized pop-up 20 MP, f/2.2, 0.8\u00b5m",
+     "Single": "Motorized pop-up 20 MP, f/2.2, (wide), 1/3.4\", 0.8\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -2413,7 +2433,7 @@
      "Colors": "Carbon black, Flame red, Glacier blue, Summer Honey, Pearl White",
      "Models": "M1903F11I",
      "SAR": "1.03 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009315.99 / \u00a3\u2009295.86 / \u20b9\u200927,999"
+     "Price": "$\u2009235.90 / \u20b9\u200924,799"
     }
    ],
    "Tests": [
@@ -2468,9 +2488,9 @@
    ],
    "Platform": [
     {
-     "OS": "Android 9.0 (Pie); MIUI 10",
+     "OS": "Android 9.0 (Pie); MIUI 11",
      "Chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
-     "CPU": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+     "CPU": "Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
      "GPU": "Adreno 512"
     }
    ],
@@ -2526,7 +2546,7 @@
     {
      "Colors": "Onyx Black, Sapphire Blue, Ruby Red, Astro White",
      "Models": "M1901F71",
-     "Price": "\u20b9\u20099,999"
+     "Price": "\u20b9\u20097,904"
     }
    ]
   }
@@ -2572,7 +2592,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 9.0 (Pie); MIUI 9",
+     "OS": "Android 9.0 (Pie); MIUI 11",
      "Chipset": "Qualcomm SDM632 Snapdragon 632 (14 nm)",
      "CPU": "Octa-core (4x1.8 GHz Kryo 250 Gold & 4x1.8 GHz Kryo 250 Silver)",
      "GPU": "Adreno 506"
@@ -2586,14 +2606,14 @@
    ],
    "Main Camera": [
     {
-     "Dual": "12 MP, f/2.2, 1.25\u00b5m, PDAF\r\n2 MP, depth sensor",
+     "Dual": "12 MP, f/2.2, 1/2.9\", 1.25\u00b5m, PDAF\r\n2 MP, depth sensor",
      "Features": "LED flash, panorama, HDR",
      "Video": "1080p@30/60fps, gyro-EIS"
     }
    ],
    "Selfie camera": [
     {
-     "Single": "32 MP, f/2.2, 0.8\u00b5m",
+     "Single": "32 MP, f/2.2, 26mm (wide), 1/2.8\", 0.8\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -2690,14 +2710,14 @@
    ],
    "Main Camera": [
     {
-     "Dual": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\n12 MP, f/2.2, (telephoto), 1.0\u00b5m, PDAF, 2x optical zoom",
+     "Dual": "48 MP, f/1.8, 28mm (wide), 1/2\", 0.8\u00b5m, PDAF\r\n12 MP, f/2.2, 54mm (telephoto), 1.0\u00b5m, PDAF, 2x optical zoom",
      "Features": "LED flash, HDR, panorama",
-     "Video": "2160p@30fps, 1080p@30fps, 720p@120fps"
+     "Video": "2160p@30/60fps, 1080p@30fps, 720p@120fps"
     }
    ],
    "Selfie camera": [
     {
-     "Single": "20 MP, f/2.0, 0.9\u00b5m",
+     "Single": "20 MP, f/2.0, (wide), 1/3\", 0.9\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -2733,7 +2753,7 @@
     {
      "Colors": "Black, Silver, Blue",
      "Models": "SKW-H0, SKW-A0",
-     "Price": "$\u2009419.99 / \u00a3\u2009396.48"
+     "Price": "$\u2009379.99 / \u00a3\u2009363.89"
     }
    ],
    "Tests": [
@@ -2788,7 +2808,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 7.0 (Nougat), upgradable to Android 10; MIUI 11",
+     "OS": "Android 9.0 Pie, upgradable to Android 10; MIUI 11",
      "Chipset": "Qualcomm SDM632 Snapdragon 632 (14 nm)",
      "CPU": "Octa-core (4x1.8 GHz Kryo 250 Gold & 4x1.8 GHz Kryo 250 Silver)",
      "GPU": "Adreno 506"
@@ -2797,19 +2817,19 @@
    "Memory": [
     {
      "Card slot": "microSD, up to 1 TB (dedicated slot)",
-     "Internal": "16GB 2GB RAM, 32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"
+     "Internal": "16GB 2GB RAM, 32GB 2GB RAM, 32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"
     }
    ],
    "Main Camera": [
     {
-     "Single": "12 MP, f/2.2, 1.25\u00b5m, PDAF\r\n2 MP, depth sensor",
+     "Single": "12 MP, f/2.2, 1/2.9\", 1.25\u00b5m, PDAF\r\n2 MP, depth sensor",
      "Features": "LED flash, HDR, panorama",
      "Video": "1080p@30/60fps"
     }
    ],
    "Selfie camera": [
     {
-     "Single": "8 MP, f/2.0, 1.12\u00b5m",
+     "Single": "8 MP, f/2.0, 1/4\", 1.12\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -2847,7 +2867,7 @@
      "Colors": "Lunar Red, Eclipse Black, Comet Blue",
      "Models": "M1810F6LG, M1810F6LH, M1810F6LI",
      "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.25 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009106.00 / \u00a3\u2009105.32 / \u20b9\u20098,499"
+     "Price": "$\u2009104.00 / \u00a3\u2009109.99 / \u20ac\u2009134.82 / \u20b9\u20096,999"
     }
    ]
   }
@@ -2950,7 +2970,7 @@
      "Colors": "Nebula Red, Neptune Blue, Space Black, Astro White",
      "Models": "M1901F7S",
      "SAR": "0.96 W/kg (head) \u00a0 \u00a0 0.84 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009169.08 / \u00a3\u2009210.00 / \u20b9\u200910,899"
+     "Price": "$\u2009159.99 / \u00a3\u2009249.00 / \u20b9\u20099,430"
     }
    ]
   }
@@ -2968,7 +2988,7 @@
      "info": "CDMA2000 1xEV-DO ",
      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 28(700), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "5G": "5G NSA / Sub6 / mmWave; N78",
+     "5G": "5G band 78(3500); NSA/Sub6",
      "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (5CA) Cat18 1200/150 Mbps; 5G (2+ Gbps DL)"
     }
    ],
@@ -2980,7 +3000,7 @@
    ],
    "Body": [
     {
-     "Dimensions": "157.9 x 74.7 x 8.5 mm (6.22 x 2.94 x 0.33 in)",
+     "Dimensions": "157.9 x 74.7 x 9.4 mm (6.22 x 2.94 x 0.37 in)",
      "Weight": "225 g (7.94 oz)",
      "Build": "Front glass, aluminum frame (7000 series), ceramic back",
      "SIM": "Nano-SIM"
@@ -3019,7 +3039,7 @@
    ],
    "Selfie camera": [
     {
-     "Dual": "Manual pop-up 24 MP, 1/2.8\", 0.9\u00b5m\r\nManual pop-up 2 MP, depth sensor",
+     "Dual": "Manual pop-up 24 MP, f/2.0, 26mm (wide), 1/2.8\", 0.9\u00b5m\r\nManual pop-up 2 MP, depth sensor",
      "Features": "LED flash, HDR",
      "Video": "1080p@30fps"
     }
@@ -3049,7 +3069,7 @@
    "Battery": [
     {
      "info": "Non-removable Li-Po 3800 mAh battery",
-     "Charging": "Fast battery charging 18W (Quick Charge 4+)\r\nWireless charging 10W"
+     "Charging": "Fast battery charging 18W (Quick Charge 4+)"
     }
    ],
    "Misc": [
@@ -3057,7 +3077,7 @@
      "Colors": "Sapphire Blue",
      "Models": "M1810E5GG",
      "SAR": "1.56 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009349.99 / \u00a3\u2009306.14"
+     "Price": "$\u2009329.99 / \u00a3\u2009275.69"
     }
    ]
   }
@@ -3124,7 +3144,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "20 MP, f/2.0, 0.9\u00b5m",
+     "Single": "20 MP, f/2.0, (wide), 1/3\", 0.9\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -3221,14 +3241,14 @@
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.4, (telephoto), 1.12\u00b5m, PDAF\r\n13 MP, f/2.4, (ultrawide), 1.12\u00b5m",
+     "Triple": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.4, (telephoto), 1/4.0\", 1.12\u00b5m, PDAF\r\n13 MP, f/2.4, (ultrawide), 1/3.1\", 1.12\u00b5m",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps, gyro-EIS"
     }
    ],
    "Selfie camera": [
     {
-     "Single": "20 MP, f/2.0, 0.9\u00b5m",
+     "Single": "20 MP, f/2.0, (wide), 1/3\", 0.9\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -3267,7 +3287,7 @@
      "Colors": "Violet, Blue, Gray",
      "Models": "M1903F2G",
      "SAR": "1.39 W/kg (head) \u00a0 \u00a0 1.39 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009216.99 / \u00a3\u2009252.30 / \u20ac\u2009299.00"
+     "Price": "$\u2009252.99 / \u00a3\u2009229.99 / \u20ac\u2009288.90"
     }
    ],
    "Tests": [
@@ -3344,7 +3364,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "20 MP, f/2.0, 0.9\u00b5m",
+     "Single": "20 MP, f/2.0, (wide), 1/3\", 0.9\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -3383,7 +3403,7 @@
      "Colors": "Lavender Violet, Ocean Blue, Piano Black",
      "Models": "M1902F1G",
      "SAR": "1.39 W/kg (head) \u00a0 \u00a0 1.30 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009329.99 / \u00a3\u2009299.00 / \u20ac\u2009381.00"
+     "Price": "$\u2009318.99 / \u00a3\u2009274.00 / \u20ac\u2009401.00"
     }
    ],
    "Tests": [
@@ -3449,14 +3469,14 @@
    ],
    "Main Camera": [
     {
-     "Single": "8 MP, f/2.0, 1.12\u00b5m, AF",
+     "Single": "8 MP, f/2.0, 1/4.0\", 1.12\u00b5m, AF",
      "Features": "LED flash, HDR",
      "Video": "1080p@30fps"
     }
    ],
    "Selfie camera": [
     {
-     "Single": "5 MP, f/2.2, 1.12\u00b5m",
+     "Single": "5 MP, f/2.2, 1/5\", 1.12\u00b5m",
      "Features": "HDR",
      "Video": ""
     }
@@ -3492,7 +3512,7 @@
      "Colors": "Black, Blue",
      "Models": "M1903C3GG, M1903C3GH, M1903C3GI",
      "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.50 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u200967.49 / \u00a3\u200969.00 / \u20b9\u20094,499"
+     "Price": "$\u200975.98 / \u00a3\u200966.84 / \u20ac\u200985.00 / \u20b9\u20094,299"
     }
    ]
   }
@@ -3537,9 +3557,9 @@
    ],
    "Platform": [
     {
-     "OS": "Android 9.0 (Pie); MIUI 10",
+     "OS": "Android 9.0 (Pie); MIUI 11",
      "Chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
-     "CPU": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+     "CPU": "Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
      "GPU": "Adreno 512"
     }
    ],
@@ -3596,7 +3616,7 @@
      "Colors": "Blue, Black, Twilight Gold, White",
      "Models": "M1901F7G, M1901F7H, M1901F7I",
      "SAR": "0.59 W/kg (head) \u00a0 \u00a0 1.27 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009133.35 / \u00a3\u2009140.57 / \u20ac\u2009174.09 / \u20b9\u200911,999"
+     "Price": "$\u2009134.00 / \u00a3\u2009142.94 / \u20ac\u2009161.67 / \u20b9\u200910,490"
     }
    ],
    "Tests": [
@@ -3707,107 +3727,7 @@
      "Colors": "Dream Blue, Twilight Gold, Black",
      "Models": "M1901F9E",
      "SAR": "0.67 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009143.99 / \u00a3\u2009135.22"
-    }
-   ]
-  }
- },
- {
-  "name": "Xiaomi Black Shark Helo",
-  "codename": "",
-  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark2.jpg",
-  "url": "https://www.gsmarena.com/xiaomi_black_shark_helo-9382.php",
-  "specs": {
-   "Network": [
-    {
-     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
-     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-     "info": "CDMA2000 1xEV-DO ",
-     "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
-     "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat16 1024/150 Mbps"
-    }
-   ],
-   "Launch": [
-    {
-     "Announced": "2018, October",
-     "Status": "Available. Released 2018, November"
-    }
-   ],
-   "Body": [
-    {
-     "Dimensions": "160 x 75.2 x 8.7 mm (6.30 x 2.96 x 0.34 in)",
-     "Weight": "190 g (6.70 oz)",
-     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
-    }
-   ],
-   "Display": [
-    {
-     "Type": "AMOLED capacitive touchscreen, 16M colors",
-     "Size": "6.01 inches, 93.2 cm2 (~77.5% screen-to-body ratio)",
-     "Resolution": "1080 x 2160 pixels, 18:9 ratio (~402 ppi density)",
-     "info": "DCI-P3 100%\r\nAlways-on display"
-    }
-   ],
-   "Platform": [
-    {
-     "OS": "Android 8.0 (Oreo)",
-     "Chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
-     "CPU": "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver)",
-     "GPU": "Adreno 630"
-    }
-   ],
-   "Memory": [
-    {
-     "Card slot": "No",
-     "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 10GB RAM"
-    }
-   ],
-   "Main Camera": [
-    {
-     "Dual": "12 MP, f/1.8, 1.25\u00b5m, dual pixel PDAF\r\n20 MP, f/1.8, 1.0\u00b5m, AF, 2x optical zoom",
-     "Features": "Dual-LED dual-tone flash, HDR, panorama",
-     "Video": "2160p@30fps, 1080p@30fps, 720p@120fps"
-    }
-   ],
-   "Selfie camera": [
-    {
-     "Single": "20 MP, f/2.2, 1.0\u00b5m",
-     "Video": "1080p@30fps"
-    }
-   ],
-   "Sound": [
-    {
-     "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
-    }
-   ],
-   "Comms": [
-    {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
-     "Bluetooth": "5.0, A2DP, aptX HD, LE",
-     "GPS": "Yes, with A-GPS, GLONASS, BDS",
-     "Radio": "No",
-     "USB": "2.0, Type-C 1.0 reversible connector"
-    }
-   ],
-   "Features": [
-    {
-     "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
-    }
-   ],
-   "Battery": [
-    {
-     "info": "Non-removable Li-Ion 4000 mAh battery",
-     "Charging": "Fast battery charging 18W (Quick Charge 3.0)"
-    }
-   ],
-   "Misc": [
-    {
-     "Colors": "Black",
-     "Models": "AWM-A0",
-     "Price": "About 450 EUR"
+     "Price": "$\u2009143.99 / \u00a3\u2009132.43"
     }
    ]
   }
@@ -3874,7 +3794,7 @@
    ],
    "Selfie camera": [
     {
-     "Dual": "Manual pop-up 24 MP, 1/2.8\", 0.9\u00b5m\r\nManual pop-up 2 MP, depth sensor",
+     "Dual": "Manual pop-up 24 MP, f/2.0, 26mm (wide), 1/2.8\", 0.9\u00b5m\r\nManual pop-up 2 MP, depth sensor",
      "Features": "LED flash, HDR",
      "Video": "1080p@30fps"
     }
@@ -3912,7 +3832,7 @@
      "Colors": "Jade Green, Sapphire Blue, Onyx Black, Forbidden City Blue (10 GB only)",
      "Models": "M1810E5A",
      "SAR": "1.45 W/kg (head) \u00a0 \u00a0 1.57 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009338.64 / \u00a3\u2009294.20"
+     "Price": "$\u2009344.50 / \u00a3\u2009288.00"
     }
    ],
    "Tests": [
@@ -3923,6 +3843,106 @@
      "Loudspeaker": "\nVoice 67dB / Noise 71dB / Ring 73dB\n",
      "Audio quality": "\nNoise -93.2dB / Crosstalk -90.6dB",
      "Battery life": "\n\nEndurance rating 84h\n\n"
+    }
+   ]
+  }
+ },
+ {
+  "name": "Xiaomi Black Shark Helo",
+  "codename": "",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark2.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_black_shark_helo-9382.php",
+  "specs": {
+   "Network": [
+    {
+     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
+     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+     "info": "CDMA2000 1xEV-DO ",
+     "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
+     "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat16 1024/150 Mbps"
+    }
+   ],
+   "Launch": [
+    {
+     "Announced": "2018, October",
+     "Status": "Available. Released 2018, November"
+    }
+   ],
+   "Body": [
+    {
+     "Dimensions": "160 x 75.2 x 8.7 mm (6.30 x 2.96 x 0.34 in)",
+     "Weight": "190 g (6.70 oz)",
+     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+    }
+   ],
+   "Display": [
+    {
+     "Type": "AMOLED capacitive touchscreen, 16M colors",
+     "Size": "6.01 inches, 93.2 cm2 (~77.5% screen-to-body ratio)",
+     "Resolution": "1080 x 2160 pixels, 18:9 ratio (~402 ppi density)",
+     "info": "DCI-P3 100%\r\nAlways-on display"
+    }
+   ],
+   "Platform": [
+    {
+     "OS": "Android 8.0 (Oreo)",
+     "Chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+     "CPU": "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver)",
+     "GPU": "Adreno 630"
+    }
+   ],
+   "Memory": [
+    {
+     "Card slot": "No",
+     "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 10GB RAM"
+    }
+   ],
+   "Main Camera": [
+    {
+     "Dual": "12 MP, f/1.8, 1/2.9\", 1.25\u00b5m, dual pixel PDAF\r\n20 MP, f/1.8, 1.0\u00b5m, AF, 2x optical zoom",
+     "Features": "Dual-LED dual-tone flash, HDR, panorama",
+     "Video": "2160p@30fps, 1080p@30fps, 720p@120fps"
+    }
+   ],
+   "Selfie camera": [
+    {
+     "Single": "20 MP, f/2.2, (wide), 1/2.8\", 1.0\u00b5m",
+     "Video": "1080p@30fps"
+    }
+   ],
+   "Sound": [
+    {
+     "Loudspeaker ": "Yes, with stereo speakers",
+     "3.5mm jack ": "No",
+     "info": "Active noise cancellation with dedicated mic"
+    }
+   ],
+   "Comms": [
+    {
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+     "Bluetooth": "5.0, A2DP, aptX HD, LE",
+     "GPS": "Yes, with A-GPS, GLONASS, BDS",
+     "Radio": "No",
+     "USB": "2.0, Type-C 1.0 reversible connector"
+    }
+   ],
+   "Features": [
+    {
+     "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+    }
+   ],
+   "Battery": [
+    {
+     "info": "Non-removable Li-Ion 4000 mAh battery",
+     "Charging": "Fast battery charging 18W (Quick Charge 3.0)"
+    }
+   ],
+   "Misc": [
+    {
+     "Colors": "Black",
+     "Models": "AWM-A0",
+     "Price": "About 450 EUR"
     }
    ]
   }
@@ -3967,9 +3987,9 @@
    ],
    "Platform": [
     {
-     "OS": "Android 8.1 (Oreo), planned upgrade to Android 9.0 (Pie); MIUI 9.0",
+     "OS": "Android 8.1 (Oreo), upgradable to Android 9.0 (Pie); MIUI 11",
      "Chipset": "Qualcomm SDM636 Snapdragon 636 (14 nm)",
-     "CPU": "Octa-core 1.8 GHz Kryo 260",
+     "CPU": "Octa-core (4x1.8 GHz Kryo 260 Gold & 4x1.6 GHz Kryo 260 Silver)",
      "GPU": "Adreno 509"
     }
    ],
@@ -3988,7 +4008,7 @@
    ],
    "Selfie camera": [
     {
-     "Dual": "20 MP, f/2.0, 0.9\u00b5m\r\n2 MP, f/2.2, 1.75\u00b5m, depth sensor",
+     "Dual": "20 MP, f/2.0, (wide), 1/3\", 0.9\u00b5m\r\n2 MP, f/2.2, 1.75\u00b5m, depth sensor",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -4026,7 +4046,7 @@
      "Colors": "Black, Blue, Rose Gold, Red",
      "Models": "M1806E7TG, M1806E7TH, M1806E7TI",
      "SAR": "0.76 W/kg (head) \u00a0 \u00a0 1.48 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009169.99 / \u00a3\u2009154.00 / \u20b9\u20099,440"
+     "Price": "$\u2009159.99 / \u00a3\u2009129.00 / \u20b9\u20098,399"
     }
    ],
    "Tests": [
@@ -4102,7 +4122,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "20 MP, f/2.0, 0.9\u00b5m",
+     "Single": "20 MP, f/2.0, (wide), 1/3\", 0.9\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -4140,7 +4160,7 @@
      "Colors": "Black (transparent back), Meteorite black, Twilight Gold",
      "Models": "M1807E8A",
      "SAR": "0.97 W/kg (head) \u00a0 \u00a0 1.53 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009324.00 / \u00a3\u2009369.00"
+     "Price": "$\u2009299.00 / \u00a3\u2009523.97"
     }
    ]
   }
@@ -4186,7 +4206,7 @@
     {
      "OS": "Android 8.1 (Oreo), upgradable to Android 9.0 (Pie); MIUI 10.2",
      "Chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
-     "CPU": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+     "CPU": "Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
      "GPU": "Adreno 512"
     }
    ],
@@ -4205,7 +4225,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "24 MP, 1/2.8\", 0.9\u00b5m",
+     "Single": "24 MP, f/2.0, 26mm (wide), 1/2.8\", 0.9\u00b5m",
      "Features": "Auto HDR",
      "Video": "1080p@30fps"
     }
@@ -4242,7 +4262,7 @@
      "Colors": "Midnight Black, Aurora Blue, Twilight Gold (China only)",
      "Models": "M1808D2TG",
      "SAR": "0.75 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009152.99 / \u00a3\u2009164.47"
+     "Price": "$\u2009194.99 / \u00a3\u2009169.41"
     }
    ],
    "Tests": [
@@ -4317,7 +4337,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "20 MP, f/2.0, 0.9\u00b5m",
+     "Single": "20 MP, f/2.0, (wide), 1/3\", 0.9\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -4354,7 +4374,7 @@
      "Colors": "Graphite Black, Steel Blue, Rosso Red, Armored Edition with Kevlar",
      "Models": "M1805E10A",
      "SAR": "0.54 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009264.99 / \u00a3\u2009247.40 / \u20ac\u2009310.00 / \u20b9\u200914,899"
+     "Price": "$\u2009235.99 / \u00a3\u2009229.99 / \u20ac\u2009308.00 / \u20b9\u200912,468"
     }
    ],
    "Tests": [
@@ -4410,7 +4430,7 @@
     {
      "OS": "Android 8.1 (Oreo), upgradable to Android 9.0 (Pie); Android One",
      "Chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
-     "CPU": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+     "CPU": "Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
      "GPU": "Adreno 512"
     }
    ],
@@ -4429,7 +4449,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "20 MP, f/2.2, 1/2.8\", 1.0\u00b5m",
+     "Single": "20 MP, f/2.2, (wide), 1/3\", 0.9\u00b5m",
      "Features": "LED flash, Auto-HDR",
      "Video": "1080p@30fps"
     }
@@ -4467,7 +4487,7 @@
      "Colors": "Black, Gold, Blue, Red, Rose Gold",
      "Models": "M1804D2SG, M1804D2SI",
      "SAR": "0.96 W/kg (head) \u00a0 \u00a0 0.64 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009142.99 / \u00a3\u2009129.99 / \u20b9\u20098,499"
+     "Price": "$\u2009142.99 / \u00a3\u2009133.00 / \u20ac\u2009170.82 / \u20b9\u20098,163"
     }
    ],
    "Tests": [
@@ -4519,7 +4539,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 8.1 (Oreo), upgradable to Android 9.0 (Pie); MIUI 10; Android One",
+     "OS": "Android 8.1 (Oreo), upgradable to Android 9.0 (Pie); MIUI 11; Android One",
      "Chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
      "CPU": "Octa-core 2.0 GHz Cortex-A53",
      "GPU": "Adreno 506"
@@ -4578,7 +4598,7 @@
      "Colors": "Black, Blue, Gold (Global); Rose Gold, Red (China only)",
      "Models": "M1805D1SG",
      "SAR": "0.55 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009132.99 / \u00a3\u2009104.00 / \u20b9\u20097,099"
+     "Price": "$\u2009132.95 / \u00a3\u2009159.00 / \u20ac\u2009222.47 / \u20b9\u20097,470"
     }
    ],
    "Tests": [
@@ -4635,7 +4655,7 @@
     {
      "OS": "Android 8.1 (Oreo); MIUI 9.5",
      "Chipset": "Qualcomm SDM636 Snapdragon 636 (14 nm)",
-     "CPU": "Octa-core 1.8 GHz Kryo 260",
+     "CPU": "Octa-core (4x1.8 GHz Kryo 260 Gold & 4x1.6 GHz Kryo 260 Silver)",
      "GPU": "Adreno 509"
     }
    ],
@@ -4691,7 +4711,7 @@
      "Colors": "Black, Champagne Gold, Blue",
      "Models": "M1804E4A",
      "SAR": "1.58 W/kg (head) \u00a0 \u00a0 1.42 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009159.99 / \u00a3\u2009141.99"
+     "Price": "$\u2009146.99 / \u00a3\u2009134.99 / \u20ac\u2009259.00"
     }
    ],
    "Tests": [
@@ -4747,7 +4767,7 @@
     {
      "OS": "Android 8.1 (Oreo); MIUI 9",
      "Chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
-     "CPU": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+     "CPU": "Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
      "GPU": "Adreno 512"
     }
    ],
@@ -4846,7 +4866,7 @@
     {
      "OS": "Android 8.1 (Oreo); MIUI 10",
      "Chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
-     "CPU": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+     "CPU": "Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
      "GPU": "Adreno 512"
     }
    ],
@@ -4943,7 +4963,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 8.1 (Oreo), planned upgrade to Android 9.0 (Pie); MIUI 9.0",
+     "OS": "Android 8.1 (Oreo), upgradable to Android 9.0 (Pie); MIUI 11",
      "Chipset": "Mediatek MT6762 Helio P22 (12 nm)",
      "CPU": "Octa-core 2.0 GHz Cortex-A53",
      "GPU": "PowerVR GE8320"
@@ -4999,7 +5019,7 @@
      "Colors": "Black, Grey, Blue, Gold, Rose Gold",
      "Models": "M1804C3DG, M1804C3DH, M1804C3DI",
      "SAR": "0.55 W/kg (head) \u00a0 \u00a0 1.42 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u200994.89 / \u00a3\u2009109.99 / \u20b9\u20097,449"
+     "Price": "$\u2009103.99 / \u00a3\u2009109.74 / \u20b9\u20097,388"
     }
    ]
   }
@@ -5043,7 +5063,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 8.1 (Oreo), planned upgrade to Android 9.0 (Pie); MIUI 9.0",
+     "OS": "Android 8.1 (Oreo), upgradable to Android 9.0 (Pie); MIUI 11",
      "Chipset": "Mediatek MT6761 Helio A22 (12 nm)",
      "CPU": "Quad-core 2.0 GHz Cortex-A53",
      "GPU": "PowerVR GE8320"
@@ -5099,7 +5119,7 @@
      "Colors": "Black, Grey, Blue, Gold, Rose Gold",
      "Models": "M1804C3CG, M1804C3CH, M1804C3CI",
      "SAR": "0.66 W/kg (head) \u00a0 \u00a0 1.52 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u200989.95 / \u00a3\u200978.98 / \u20b9\u20095,881"
+     "Price": "$\u2009163.77 / \u00a3\u200976.82 / \u20b9\u20095,589"
     }
    ]
   }
@@ -5166,7 +5186,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "20 MP, f/2.0, 0.9\u00b5m",
+     "Single": "20 MP, f/2.0, (wide), 1/3\", 0.9\u00b5m",
      "Video": "1080p@30fps"
     }
    ],
@@ -5268,7 +5288,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "20 MP, f/2.0, 0.9\u00b5m",
+     "Single": "20 MP, f/2.0, (wide), 1/3\", 0.9\u00b5m",
      "Video": "1080p@30fps"
     }
    ],
@@ -5305,7 +5325,7 @@
      "Colors": "Black, Blue, White, Gold",
      "Models": "M1803E1A",
      "SAR": "0.70 W/kg (head) \u00a0 \u00a0 1.66 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009239.99 / \u00a3\u2009219.99"
+     "Price": "$\u2009234.99 / \u00a3\u2009208.99"
     }
    ],
    "Tests": [
@@ -5381,7 +5401,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "20 MP, f/2.0, 1.0\u00b5m",
+     "Single": "20 MP, f/2.0, (wide), 1/3\", 0.9\u00b5m",
      "Video": "1080p@30fps"
     }
    ],
@@ -5470,7 +5490,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 8.1 (Oreo), upgradable to Android 9.0 (Pie); MIUI 10.3",
+     "OS": "Android 8.1 (Oreo), upgradable to Android 9.0 (Pie); MIUI 11",
      "Chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
      "CPU": "Octa-core 2.0 GHz Cortex-A53",
      "GPU": "Adreno 506"
@@ -5491,7 +5511,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "16 MP",
+     "Single": "16 MP, f/2.0, 26mm (wide), 1/3.1\", 1.0\u00b5m",
      "Features": "HDR, LED flash",
      "Video": ""
     }
@@ -5529,7 +5549,7 @@
      "Colors": "Gray, Gold, Rose Gold, Mesmerising Blue, Stunning Black",
      "Models": "M1803E6G, M1803E6H, M1803E6I",
      "SAR": "0.43 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "About 150 EUR"
+     "Price": "$\u200984.93 / \u00a3\u2009127.28 / \u20ac\u2009171.13 / \u20b9\u20098,690"
     }
    ],
    "Tests": [
@@ -5697,7 +5717,7 @@
     {
      "OS": "Android 8.0 (Oreo); MIUI 9",
      "Chipset": "Qualcomm SDM636 Snapdragon 636 (14 nm)",
-     "CPU": "Octa-core 1.8 GHz Kryo 260",
+     "CPU": "Octa-core (4x1.8 GHz Kryo 260 Gold & 4x1.6 GHz Kryo 260 Silver)",
      "GPU": "Adreno 509"
     }
    ],
@@ -5808,9 +5828,9 @@
    ],
    "Platform": [
     {
-     "OS": "Android 7.1.2 (Nougat), upgradable to Android 9.0 (Pie); MIUI 10",
+     "OS": "Android 7.1.2 (Nougat), upgradable to Android 9.0 (Pie); MIUI 11",
      "Chipset": "Qualcomm SDM636 Snapdragon 636 (14 nm)",
-     "CPU": "Octa-core 1.8 GHz Kryo 260",
+     "CPU": "Octa-core (4x1.8 GHz Kryo 260 Gold & 4x1.6 GHz Kryo 260 Silver)",
      "GPU": "Adreno 509"
     }
    ],
@@ -5822,14 +5842,14 @@
    ],
    "Main Camera": [
     {
-     "Dual": "12 MP, f/2.2, 1.25\u00b5m, PDAF\r\n5 MP, f/2.0, 1.12\u00b5m, depth sensor",
+     "Dual": "12 MP, f/2.2, 1/2.9\", 1.25\u00b5m, PDAF\r\n5 MP, f/2.0, 1.12\u00b5m, depth sensor",
      "Features": "Dual-LED flash, panorama, HDR",
      "Video": "1080p@30fps"
     }
    ],
    "Selfie camera": [
     {
-     "Single": "20 MP, f/2.2, 1/2.8\", 1.0\u00b5m",
+     "Single": "20 MP, f/2.2, (wide), 1/3\", 0.9\u00b5m",
      "Features": "LED flash",
      "Video": "1080p@30fps"
     }
@@ -5867,7 +5887,7 @@
      "Colors": "Black, Champagne Gold, Rose Gold, Lake Blue",
      "Models": "MEI7S, MEI7",
      "SAR": "1.19 W/kg (head) \u00a0 \u00a0 0.33 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009249.99 / \u20b9\u20098,299"
+     "Price": "\u20b9\u20097,878"
     }
    ]
   }
@@ -5925,14 +5945,14 @@
    ],
    "Main Camera": [
     {
-     "Dual": "12 MP, f/1.8, 1.25\u00b5m, dual pixel PDAF\r\n20 MP, f/1.8, 1.0\u00b5m, AF, 2x optical zoom",
+     "Dual": "12 MP, f/1.8, 1/2.9\", 1.25\u00b5m, dual pixel PDAF\r\n20 MP, f/1.8, 1.0\u00b5m, AF, 2x optical zoom",
      "Features": "Dual-LED dual-tone flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30fps, 720p@120fps"
     }
    ],
    "Selfie camera": [
     {
-     "Single": "20 MP, f/2.2, 1.0\u00b5m",
+     "Single": "20 MP, f/2.2, (wide), 1/2.8\", 1.0\u03bcm",
      "Video": "1080p@30fps"
     }
    ],
@@ -6011,7 +6031,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 7.1.2 (Nougat), 8.1 (Oreo), planned upgrade to Android 9.0 (Pie); MIUI 10",
+     "OS": "Android 7.1.2 (Nougat), upgradable to Android 9.0 (Pie); MIUI 11",
      "Chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
      "CPU": "Octa-core 2.0 GHz Cortex-A53",
      "GPU": "Adreno 506"
@@ -6069,7 +6089,7 @@
      "Colors": "Black, Gold, Blue, Rose Gold",
      "Models": "MEG7, MEI7",
      "SAR": "1.01 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009152.99 / \u00a3\u2009139.99 / \u20b9\u20097,996"
+     "Price": "$\u2009152.99 / \u00a3\u2009112.84 / \u20b9\u20098,980"
     }
    ],
    "Tests": [
@@ -6124,7 +6144,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 7.1.2 (Nougat); MIUI 9.1",
+     "OS": "Android 7.1.2 (Nougat); MIUI 11",
      "Chipset": "Qualcomm SDM450 Snapdragon 450 (14 nm)",
      "CPU": "Octa-core 1.8 GHz Cortex-A53",
      "GPU": "Adreno 506"
@@ -6182,7 +6202,7 @@
      "Colors": "Black, Gold, Light Blue, Rose Gold",
      "Models": "MDG1, MDI1",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 1.53 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009127.99 / \u00a3\u2009136.46 / \u20b9\u20098,435"
+     "Price": "$\u2009127.99 / \u20b9\u20097,500"
     }
    ],
    "Tests": [
@@ -6236,7 +6256,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 7.1.2 (Nougat); MIUI 10",
+     "OS": "Android 7.1.2 (Nougat); MIUI 11",
      "Chipset": "Qualcomm MSM8917 Snapdragon 425 (28 nm)",
      "CPU": "Quad-core 1.4 GHz Cortex-A53",
      "GPU": "Adreno 308"
@@ -6293,7 +6313,7 @@
      "Colors": "Gold, Dark Gray, Rose Gold, Blue",
      "Models": "MCG3B, MCI3B",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 1.23 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009129.99 / \u00a3\u2009118.80 / \u20b9\u20094,290"
+     "Price": "$\u2009129.99 / \u00a3\u2009118.80 / \u20b9\u20095,999"
     }
    ]
   }
@@ -6337,7 +6357,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 7.1.2 (Nougat); MIUI 10",
+     "OS": "Android 7.1.2 (Nougat); MIUI 11",
      "Chipset": "Qualcomm MSM8940 Snapdragon 435 (28 nm)",
      "CPU": "Octa-core 1.4 GHz Cortex-A53",
      "GPU": "Adreno 505"
@@ -6358,7 +6378,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "16 MP, f/2.0",
+     "Single": "16 MP, f/2.0, 26mm (wide), 1/3.1\", 1.0\u00b5m",
      "Video": "1080p@30fps"
     }
    ],
@@ -6451,7 +6471,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 7.0 (Nougat); MIUI 10",
+     "OS": "Android 7.0 (Nougat); MIUI 11",
      "Chipset": "Qualcomm MSM8917 Snapdragon 425 (28 nm)",
      "CPU": "Quad-core Cortex-A53",
      "GPU": "Adreno 308"
@@ -6556,9 +6576,9 @@
    ],
    "Platform": [
     {
-     "OS": "Android 7.1 (Nougat), planned upgrade to Android 9.0 (Pie); MIUI 10",
+     "OS": "Android 7.1 (Nougat), upgradable to Android 9.0 (Pie); MIUI 10",
      "Chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
-     "CPU": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+     "CPU": "Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
      "GPU": "Adreno 512"
     }
    ],
@@ -6577,7 +6597,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "16 MP, 1.0\u00b5m",
+     "Single": "16 MP, f/2.2, 26mm (wide), 1/3.1\", 1.0\u00b5m",
      "Video": "1080p@30fps"
     }
    ],
@@ -6660,7 +6680,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 7.1 (Nougat), 8.0 (Oreo), planned upgrade to Android 9.0 (Pie); MIUI 10",
+     "OS": "Android 7.1 (Nougat), upgradable to Android 9.0 (Pie); MIUI 11",
      "Chipset": "Qualcomm MSM8998 Snapdragon 835 (10 nm)",
      "CPU": "Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)",
      "GPU": "Adreno 540"
@@ -6785,7 +6805,7 @@
    ],
    "Main Camera": [
     {
-     "Dual": "12 MP, f/2.2, 26mm (wide), 1.25\u00b5m, PDAF\r\n12 MP, f/2.6, 50mm (telephoto), 1.0\u00b5m, AF, 2x optical zoom",
+     "Dual": "12 MP, f/2.2, 26mm (wide), 1/2.9\", 1.25\u00b5m, PDAF\r\n12 MP, f/2.6, 50mm (telephoto), 1.0\u00b5m, AF, 2x optical zoom",
      "Features": "Dual-LED dual-tone flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30fps, 720p@120fps"
     }
@@ -6829,7 +6849,7 @@
      "Colors": "Black, Gold, Rose Gold, Red",
      "Models": "MDG2, MDI2",
      "SAR": "1.75 W/kg (head) \u00a0 \u00a0 0.76 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009159.00 / \u00a3\u2009157.26 / \u20b9\u200910,999"
+     "Price": "$\u2009169.99 / \u00a3\u2009146.94"
     }
    ],
    "Tests": [
@@ -6884,7 +6904,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 7.1.1 (Nougat); MIUI 10",
+     "OS": "Android 7.1.1 (Nougat); MIUI 11",
      "Chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
      "CPU": "Octa-core 2.0 GHz Cortex-A53",
      "GPU": "Adreno 506"
@@ -6996,7 +7016,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 6.0.1 (Marshmallow), upgradable to 7.1.2 (Nougat); MIUI 10",
+     "OS": "Android 6.0.1 (Marshmallow), upgradable to 7.1.2 (Nougat); MIUI 11",
      "Chipset": "Qualcomm MSM8940 Snapdragon 435 (28 nm)",
      "CPU": "Octa-core 1.4 GHz Cortex-A53",
      "GPU": "Adreno 505"
@@ -7056,7 +7076,7 @@
      "Colors": "Black, Gold",
      "Models": "2016060, 2016090, MAG138, MAE136",
      "SAR": "0.77 W/kg (head) \u00a0 \u00a0 0.83 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009138.99 / \u00a3\u200999.99 / \u20b9\u20098,499"
+     "Price": "$\u200999.99 / \u00a3\u200999.99"
     }
    ],
    "Tests": [
@@ -7111,7 +7131,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 7.1.1 (Nougat), planned upgrade to Android 9.0 (Pie); MIUI 8",
+     "OS": "Android 7.1.1 (Nougat), upgradable to Android 9.0 (Pie); MIUI 8",
      "Chipset": "Qualcomm MSM8998 Snapdragon 835 (10 nm)",
      "CPU": "Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)",
      "GPU": "Adreno 540"
@@ -7436,7 +7456,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, f/2.0, 1.12\u00b5m, PDAF",
+     "Single": "13 MP, f/2.0, 1/3.1\", 1.12\u00b5m, PDAF",
      "Features": "Dual-LED dual-tone flash, panorama, HDR",
      "Video": "1080p@30fps, 720p@120fps"
     }
@@ -7520,7 +7540,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 6.0 (Marshmallow), upgradable to 7.0 (Nougat); MIUI 10",
+     "OS": "Android 6.0 (Marshmallow), upgradable to 7.0 (Nougat); MIUI 11",
      "Chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
      "CPU": "Octa-core 2.0 GHz Cortex-A53",
      "GPU": "Adreno 506"
@@ -7534,7 +7554,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, f/2.0, 1.12\u00b5m, PDAF",
+     "Single": "13 MP, f/2.0, 1/3.1\", 1.12\u00b5m, PDAF",
      "Features": "Dual-LED dual-tone flash, panorama, HDR",
      "Video": "1080p@30fps, 720p@120fps"
     }
@@ -7577,7 +7597,7 @@
      "Colors": "Dark Gray, Gold, Black, Lake Blue (64/4GB model)",
      "Models": "2016100",
      "SAR": "0.72 W/kg (head) \u00a0 \u00a0 0.67 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "\u00a3\u2009359.99 / \u20b9\u20098,999"
+     "Price": "$\u2009219.99 / \u00a3\u2009359.99 / \u20b9\u20097,849"
     }
    ],
    "Tests": [
@@ -8053,7 +8073,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "16 MP, f/2.0, 1/3\", 1.0\u00b5m, PDAF",
+     "Single": "16 MP, f/2.0, 1/3.0\", 1.0\u00b5m, PDAF",
      "Features": "Dual-LED dual-tone flash, HDR",
      "Video": "2160p@30fps, 1080p@30fps (gyro-EIS), 720p@120fps"
     }
@@ -8275,7 +8295,7 @@
    ],
    "Main Camera": [
     {
-     "Dual": "13 MP, f/2.0, 1/3\", 1.12\u00b5m, PDAF\r\n13 MP B/W, f/2.0, 1/3\", 1.12\u00b5m",
+     "Dual": "13 MP, f/2.0, 1/3.1\", 1.12\u00b5m, PDAF\r\n13 MP B/W, f/2.0, 1/3.1\", 1.12\u00b5m",
      "Features": "Dual-LED dual-tone flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30fps"
     }
@@ -10015,7 +10035,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, f/2.0, 24mm (wide), 1/3\", 1.12\u00b5m, PDAF",
+     "Single": "13 MP, f/2.0, 24mm (wide), 1/3.1\", 1.12\u00b5m, PDAF",
      "Features": "Dual-LED dual-tone flash, panorama, HDR",
      "Video": "1080p@30fps"
     }
@@ -10965,7 +10985,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, f/1.8, 1/3\", 1.12\u00b5m, AF",
+     "Single": "13 MP, f/1.8, 1/3.1\", 1.12\u00b5m, AF",
      "Features": "LED flash, panorama, HDR",
      "Video": "2160p@30fps, 1080p@30fps, 720p@120fps, HDR"
     }
@@ -11167,7 +11187,7 @@
    ],
    "Main Camera": [
     {
-     "Single": "13 MP, f/1.8, 1/3\", 1.12\u00b5m, AF",
+     "Single": "13 MP, f/1.8, 1/3.1\", 1.12\u00b5m, AF",
      "Features": "LED flash, panorama, HDR",
      "Video": "2160p@30fps, 1080p@30fps, 720p@120fps, HDR"
     }
@@ -12136,6 +12156,107 @@
   }
  },
  {
+  "name": "Xiaomi Mi Note Plus",
+  "codename": "",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_mi_note_plus-6960.php",
+  "specs": {
+   "Network": [
+    {
+     "Technology": "GSM / HSPA / LTE",
+     "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+     "3G bands": " HSDPA",
+     "4G bands": " LTE - SIM 1 & SIM 2",
+     "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+     "GPRS": "Yes",
+     "EDGE": "Yes"
+    }
+   ],
+   "Launch": [
+    {
+     "Announced": "Not announced yet",
+     "Status": "Cancelled"
+    }
+   ],
+   "Body": [
+    {
+     "Dimensions": "-",
+     "Weight": "-",
+     "Build": "Corning Gorilla Glass 3 back panel",
+     "SIM": "Dual SIM (Micro-SIM/Nano-SIM, dual stand-by)"
+    }
+   ],
+   "Display": [
+    {
+     "Type": "IPS LCD capacitive touchscreen, 16M colors",
+     "Size": "5.7 inches, 89.6 cm2",
+     "Resolution": "1440 x 2560 pixels, 16:9 ratio (~515 ppi density)",
+     "Protection": "Corning Gorilla Glass 3"
+    }
+   ],
+   "Platform": [
+    {
+     "OS": "Android 4.4.4 (KitKat)",
+     "Chipset": "Qualcomm MSM8994 Snapdragon 810 (20 nm)",
+     "CPU": "Octa-core (4x1.5 GHz Cortex-A53 & 4x2.0 GHz Cortex-A57)",
+     "GPU": "Adreno 430"
+    }
+   ],
+   "Memory": [
+    {
+     "Card slot": "No",
+     "Internal": "64GB 3GB RAM"
+    }
+   ],
+   "Main Camera": [
+    {
+     "Single": "13 MP, f/2.0, AF",
+     "Features": "Dual-LED dual-tone flash, HDR, panorama",
+     "Video": "1080p@30fps"
+    }
+   ],
+   "Selfie camera": [
+    {
+     "Single": "4 MP, f/2.0, 1/3\", 2\u00b5m",
+     "Video": "1080p@30fps"
+    }
+   ],
+   "Sound": [
+    {
+     "Loudspeaker ": "Yes",
+     "3.5mm jack ": "Yes",
+     "info": "Active noise cancellation with dedicated mic"
+    }
+   ],
+   "Comms": [
+    {
+     "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+     "Bluetooth": "4.0, A2DP, LE",
+     "GPS": "Yes, with A-GPS, GLONASS, BDS",
+     "NFC": "TBC",
+     "Radio": "To be confirmed",
+     "USB": "microUSB 2.0, USB On-The-Go"
+    }
+   ],
+   "Features": [
+    {
+     "Sensors": "Accelerometer, proximity, compass"
+    }
+   ],
+   "Battery": [
+    {
+     "info": "Non-removable Li-Ion battery",
+     "Charging": "Fast battery charging 18W (Quick Charge 2.0)"
+    }
+   ],
+   "Misc": [
+    {
+     "Colors": "Black, White"
+    }
+   ]
+  }
+ },
+ {
   "name": "Xiaomi Mi 6c",
   "codename": "",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
@@ -12275,7 +12396,7 @@
     {
      "OS": "Android 9.0 (Pie); MIUI 11",
      "Chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
-     "CPU": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+     "CPU": "Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
      "GPU": "Adreno 512"
     }
    ],
@@ -12433,107 +12554,6 @@
     {
      "Colors": "Black, Champagne Gold, Blue",
      "Price": "About 350 EUR"
-    }
-   ]
-  }
- },
- {
-  "name": "Xiaomi Mi Note Plus",
-  "codename": "",
-  "picture": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
-  "url": "https://www.gsmarena.com/xiaomi_mi_note_plus-6960.php",
-  "specs": {
-   "Network": [
-    {
-     "Technology": "GSM / HSPA / LTE",
-     "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
-     "3G bands": " HSDPA",
-     "4G bands": " LTE - SIM 1 & SIM 2",
-     "Speed": "HSPA, LTE Cat4 150/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
-    }
-   ],
-   "Launch": [
-    {
-     "Announced": "Not announced yet",
-     "Status": "Cancelled"
-    }
-   ],
-   "Body": [
-    {
-     "Dimensions": "-",
-     "Weight": "-",
-     "Build": "Corning Gorilla Glass 3 back panel",
-     "SIM": "Dual SIM (Micro-SIM/Nano-SIM, dual stand-by)"
-    }
-   ],
-   "Display": [
-    {
-     "Type": "IPS LCD capacitive touchscreen, 16M colors",
-     "Size": "5.7 inches, 89.6 cm2",
-     "Resolution": "1440 x 2560 pixels, 16:9 ratio (~515 ppi density)",
-     "Protection": "Corning Gorilla Glass 3"
-    }
-   ],
-   "Platform": [
-    {
-     "OS": "Android 4.4.4 (KitKat)",
-     "Chipset": "Qualcomm MSM8994 Snapdragon 810 (20 nm)",
-     "CPU": "Octa-core (4x1.5 GHz Cortex-A53 & 4x2.0 GHz Cortex-A57)",
-     "GPU": "Adreno 430"
-    }
-   ],
-   "Memory": [
-    {
-     "Card slot": "No",
-     "Internal": "64GB 3GB RAM"
-    }
-   ],
-   "Main Camera": [
-    {
-     "Single": "13 MP, f/2.0, AF",
-     "Features": "Dual-LED dual-tone flash, HDR, panorama",
-     "Video": "1080p@30fps"
-    }
-   ],
-   "Selfie camera": [
-    {
-     "Single": "4 MP, f/2.0, 1/3\", 2\u00b5m",
-     "Video": "1080p@30fps"
-    }
-   ],
-   "Sound": [
-    {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
-    }
-   ],
-   "Comms": [
-    {
-     "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
-     "Bluetooth": "4.0, A2DP, LE",
-     "GPS": "Yes, with A-GPS, GLONASS, BDS",
-     "NFC": "TBC",
-     "Radio": "To be confirmed",
-     "USB": "microUSB 2.0, USB On-The-Go"
-    }
-   ],
-   "Features": [
-    {
-     "Sensors": "Accelerometer, proximity, compass"
-    }
-   ],
-   "Battery": [
-    {
-     "info": "Non-removable Li-Ion battery",
-     "Charging": "Fast battery charging 18W (Quick Charge 2.0)"
-    }
-   ],
-   "Misc": [
-    {
-     "Colors": "Black, White"
     }
    ]
   }

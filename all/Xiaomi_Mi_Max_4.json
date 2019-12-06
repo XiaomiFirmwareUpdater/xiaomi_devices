@@ -40,7 +40,7 @@
    {
     "OS": "Android 9.0 (Pie); MIUI 11",
     "Chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
-    "CPU": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+    "CPU": "Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
     "GPU": "Adreno 512"
    }
   ],
