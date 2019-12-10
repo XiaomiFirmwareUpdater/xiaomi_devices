@@ -93,8 +93,18 @@
   ],
   "Misc": [
    {
-    "Colors": "Stellar blue, Moon white, Midnight gray",
-    "Price": "$\u2009154.99 / \u00a3\u2009136.00 / \u20ac\u2009156.05"
+    "Colors": "Starscape Blue, Moonlight White, Moonshadow Grey",
+    "Price": "\u20ac\u2009156.05 / $\u2009159.00 / \u00a3\u2009136.00"
+   }
+  ],
+  "Tests": [
+   {
+    "Performance": "\nBasemark OS II: 2936 / Basemark OS II 2.0: 17586Basemark X: 2298",
+    "Display": "\nContrast ratio: 1360:1 (nominal)",
+    "Camera": "\nPhoto / Video",
+    "Loudspeaker": "\nVoice 78dB / Noise 74dB / Ring 79dB\n",
+    "Audio quality": "\nNoise -93.9dB / Crosstalk -93.7dB",
+    "Battery life": "\n\nEndurance rating 108h\n\n"
    }
   ]
  }
