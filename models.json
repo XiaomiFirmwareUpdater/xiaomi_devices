@@ -1030,6 +1030,24 @@
   }
  },
  {
+  "codename": "",
+  "internal_name": "G7A",
+  "name": "Redmi K30 5G:",
+  "models": {
+   "M2001G7AE": "Redmi K30 5G China",
+   "M2001G7AC": "Redmi K30 5G Chinese Carrier Version"
+  }
+ },
+ {
+  "codename": "phoenix",
+  "internal_name": "G7B",
+  "name": "Redmi K30 4G",
+  "models": {
+   "M1912G7BE": "Redmi K30 4G China",
+   "M1912G7BC": "Redmi K30 4G Chinese Carrier Version"
+  }
+ },
+ {
   "codename": "omega",
   "internal_name": "H3C",
   "name": "Redmi Pro",
