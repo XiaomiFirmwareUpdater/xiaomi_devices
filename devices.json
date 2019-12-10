@@ -541,6 +541,14 @@
       "display_name": "小米 MIX3国际版",
       "display_name_en": "MI MIX3 Global"
     },
+    "phoenix": {
+      "display_name": "Redmi K30",
+      "display_name_en": "Redmi K30"
+    },
+    "picasso": {
+      "display_name": "Redmi K30 5G",
+      "display_name_en": "Redmi K30  5G"
+    },
     "pine": {
       "display_name": "Redmi 7A",
       "display_name_en": "Redmi 7A"
