@@ -37,7 +37,7 @@
   ],
   "Platform": [
    {
-    "OS": "Android 9.0 (Pie), upgradable to Android 10; MIUI 11",
+    "OS": "Android 9.0 (Pie), upgradable to Android 10.0; MIUI 11",
     "Chipset": "Qualcomm SDM675 Snapdragon 675 (11 nm)",
     "CPU": "Octa-core (2x2.0 GHz Kryo 460 Gold & 6x1.7 GHz Kryo 460 Silver)",
     "GPU": "Adreno 612"
@@ -96,7 +96,7 @@
     "Colors": "Nebula Red, Neptune Blue, Space Black, Astro White",
     "Models": "M1901F7S",
     "SAR": "0.96 W/kg (head) \u00a0 \u00a0 0.84 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009149.00 / \u00a3\u2009249.00 / \u20b9\u20098,889"
+    "Price": "$\u2009149.00 / \u00a3\u2009249.00 / \u20b9\u20098,750"
    }
   ]
  }

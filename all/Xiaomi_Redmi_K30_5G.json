@@ -38,7 +38,7 @@
   ],
   "Platform": [
    {
-    "OS": "Android 10; MIUI 11",
+    "OS": "Android 10.0; MIUI 11",
     "Chipset": "Qualcomm SDM765 Snapdragon 765G (7 nm)",
     "CPU": "Octa-core (1x2.4 GHz Kryo 475 Prime & 1x2.2 GHz Kryo 475 Gold & 6x1.8 GHz Kryo 475 Silver)",
     "GPU": "Adreno 620"

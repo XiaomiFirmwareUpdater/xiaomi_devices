@@ -17,7 +17,7 @@
   "Launch": [
    {
     "Announced": "2019, December",
-    "Status": "Coming soon. Exp. release 2019, December 12"
+    "Status": "Available. Released 2019, December"
    }
   ],
   "Body": [
@@ -38,7 +38,7 @@
   ],
   "Platform": [
    {
-    "OS": "Android 10; MIUI 11",
+    "OS": "Android 10.0; MIUI 11",
     "Chipset": "Qualcomm SDM730 Snapdragon 730G (8 nm)",
     "CPU": "Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)",
     "GPU": "Adreno 618"
