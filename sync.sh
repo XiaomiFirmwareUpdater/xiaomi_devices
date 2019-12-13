@@ -1,4 +1,4 @@
-pip3 install requests
+pip3 install -r requirements.txt
 python3 miui.py
 git add miui.json && git -c "user.name=XiaomiFirmwareUpdater" -c "user.email=xiaomifirmwareupdater@gmail.com" commit -m "Sync: $(date +%d.%m.%Y) [skip ci]"
 git push https://$XFU@github.com/XiaomiFirmwareUpdater/xiaomi_devices.git HEAD:miui_codes
