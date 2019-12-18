@@ -54,7 +54,7 @@
    ],
    "Main Camera": [
     {
-     "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.7\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m, depth sensor",
+     "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.7\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m, depth sensor",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/120fps, 720p@960fps"
     }
@@ -159,7 +159,7 @@
    ],
    "Main Camera": [
     {
-     "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.7\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m, depth sensor",
+     "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.7\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m, depth sensor",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/120fps, 720p@960fps"
     }
@@ -221,7 +221,7 @@
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 28(700), 38(2600), 40(2300)",
-     "Speed": "HSPA 42.2/11.5 Mbps, LTE-A"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (4CA) Cat12 600/50 Mbps"
     }
    ],
    "Launch": [
@@ -234,7 +234,7 @@
     {
      "Dimensions": "161.1 x 75.4 x 8.6 mm (6.34 x 2.97 x 0.34 in)",
      "Weight": "200 g (7.05 oz)",
-     "Build": "Front/back glass (Gorilla Glass 5)",
+     "Build": "Front/back glass (Gorilla Glass 5), plastic frame",
      "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
     }
    ],
@@ -262,14 +262,14 @@
    ],
    "Main Camera": [
     {
-     "Quad": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m, depth sensor",
+     "Quad": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m, depth sensor",
      "Features": "LED flash, HDR, panorama",
-     "Video": "2160p@30fps, 1080p@30/60/120fps, gyro-EIS"
+     "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps; gyro-EIS"
     }
    ],
    "Selfie camera": [
     {
-     "Single": "13 MP, f/2.0, 1.12\u00b5m",
+     "Single": "13 MP, f/2.0, (wide), 1/3.1\", 1.12\u00b5m",
      "Features": "HDR, panorama",
      "Video": "1080p@30fps"
     }
@@ -305,7 +305,7 @@
    "Misc": [
     {
      "Colors": "Starscape Blue, Moonlight White, Moonshadow Grey",
-     "Price": "$\u2009159.00 / \u00a3\u2009134.00 / \u20ac\u2009156.05"
+     "Price": "$\u2009179.00 / \u00a3\u2009151.01 / \u20ac\u2009166.89"
     }
    ],
    "Tests": [
@@ -338,7 +338,7 @@
    "Launch": [
     {
      "Announced": "2019, November",
-     "Status": "Coming soon. Exp. release 2019, December"
+     "Status": "Available. Released 2019, December"
     }
    ],
    "Body": [
@@ -521,7 +521,7 @@
    "Misc": [
     {
      "Colors": "Aurora Green, Glacier White, Midnight Black",
-     "Price": "$\u2009439.00 / \u00a3\u2009465.60 / \u20ac\u2009485.99"
+     "Price": "$\u2009539.00 / \u00a3\u2009493.50 / \u20ac\u2009490.00"
     }
    ],
    "Tests": [
@@ -636,7 +636,7 @@
     {
      "Colors": "Aurora Green, Glacier White, Midnight Black",
      "Models": "M1910F4E",
-     "Price": "$\u2009408.49"
+     "Price": "$\u2009397.74"
     }
    ]
   }
@@ -829,7 +829,7 @@
      "Colors": "Onyx Black, Ruby Red, Sapphire Blue",
      "Models": "M1908C3IC, MZB8255IN",
      "SAR": "0.34 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009114.99 / \u00a3\u2009117.08 / \u20ac\u2009141.80 / \u20b9\u20097,999"
+     "Price": "$\u2009114.99 / \u00a3\u2009117.87 / \u20ac\u2009141.80 / \u20b9\u20097,999"
     }
    ]
   }
@@ -933,7 +933,7 @@
      "Colors": "Midnight Black, Ocean Blue, Sunset Red",
      "Models": "MZB8458IN",
      "SAR": "0.34 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009101.99 / \u00a3\u200999.99 / \u20ac\u2009114.00 / \u20b9\u20096,499"
+     "Price": "$\u2009102.99 / \u00a3\u2009103.50 / \u20ac\u2009114.00 / \u20b9\u20096,499"
     }
    ]
   }
@@ -1096,7 +1096,7 @@
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, 27mm (wide), 1/2\", 0.8\u00b5m, PDAF, Laser AF\r\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0\u00b5m, PDAF, Laser AF",
+     "Triple": "48 MP, f/1.8, 27mm (wide), 1/2.0\", 0.8\u00b5m, PDAF, Laser AF\r\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0\u00b5m, PDAF, Laser AF",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
     }
@@ -1140,7 +1140,7 @@
    "Misc": [
     {
      "Colors": "Dream White, Titanium Black",
-     "Price": "$\u2009569.00"
+     "Price": "$\u2009559.99"
     }
    ]
   }
@@ -1200,7 +1200,7 @@
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, 27mm (wide), 1/2\", 0.8\u00b5m, PDAF, Laser AF\r\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0\u00b5m, PDAF, Laser AF",
+     "Triple": "48 MP, f/1.8, 27mm (wide), 1/2.0\", 0.8\u00b5m, PDAF, Laser AF\r\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0\u00b5m, PDAF, Laser AF",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
     }
@@ -1304,7 +1304,7 @@
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, PDAF, Laser AF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4\", 1.12\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3.1\", 1.12\u00b5m",
+     "Triple": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8\u00b5m, PDAF, Laser AF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4.0\", 1.12\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3.1\", 1.12\u00b5m",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
     }
@@ -1406,7 +1406,7 @@
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\n8 MP, (ultrawide)\r\n2 MP, depth sensor",
+     "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, depth sensor",
      "Features": "LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps"
     }
@@ -1450,7 +1450,7 @@
    "Misc": [
     {
      "Colors": "Black, Blue, White",
-     "Price": "$\u2009225.99 / \u00a3\u2009188.00 / \u20ac\u2009255.89"
+     "Price": "$\u2009239.00 / \u00a3\u2009186.00 / \u20ac\u2009255.99"
     }
    ],
    "Tests": [
@@ -1519,7 +1519,7 @@
    ],
    "Main Camera": [
     {
-     "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.7\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m, depth sensor",
+     "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.7\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m, depth sensor",
      "Features": "LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps, gyro-EIS"
     }
@@ -1566,7 +1566,7 @@
      "Models": "2015105, M1906G7I",
      "SAR": "1.13 W/kg (head) \u00a0 \u00a0 0.63 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.38 W/kg (head) \u00a0 \u00a0 0.80 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009183.99 / \u00a3\u2009166.00 / \u20ac\u2009229.90 / \u20b9\u200914,999"
+     "Price": "$\u2009183.99 / \u00a3\u2009177.90 / \u20ac\u2009229.90 / \u20b9\u200914,999"
     }
    ],
    "Tests": [
@@ -1636,7 +1636,7 @@
    ],
    "Main Camera": [
     {
-     "Dual": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\n12 MP, f/2.2, (telephoto), 1.0\u00b5m, PDAF, 2x optical zoom",
+     "Dual": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n12 MP, f/2.2, (telephoto), 1.0\u00b5m, PDAF, 2x optical zoom",
      "Features": "LED flash, HDR, panorama",
      "Video": "2160p@30/60fps, 1080p@30/60/120fps, 720p@1920fps"
     }
@@ -1679,7 +1679,7 @@
     {
      "Colors": "Shadow Black, Iceberg Grey, Gulf Blue, Streamer Purple",
      "Models": "DLT-A0, DLT-H0",
-     "Price": "$\u2009459.00 / \u00a3\u2009549.00"
+     "Price": "$\u2009513.99 / \u00a3\u2009448.00"
     }
    ]
   }
@@ -1737,7 +1737,7 @@
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4\", 1.12\u00b5m\r\n2 MP, f/2.4, depth sensor",
+     "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, depth sensor",
      "Features": "LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/60/120fps"
     }
@@ -1783,7 +1783,7 @@
      "Models": "M1906F9SH, M1906F9SI",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.30 W/kg (head) \u00a0 \u00a0 1.10 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009159.53 / \u00a3\u2009128.00 / \u20ac\u2009179.90 / \u20b9\u200911,499"
+     "Price": "$\u2009159.53 / \u00a3\u2009147.99 / \u20ac\u2009177.34 / \u20b9\u200910,710"
     }
    ],
    "Tests": [
@@ -1896,7 +1896,7 @@
      "Colors": "Matte Black, Morning blue, Matte Blue, Matte Gold, Gem Red, Gem Blue",
      "Models": "MZB7995IN, M1903C3EG, M1903C3EH, M1903C3EI",
      "SAR": "0.74 W/kg (head) \u00a0 \u00a0 0.79 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u200982.99 / \u00a3\u200974.98 / \u20ac\u200990.66 / \u20b9\u20095,299"
+     "Price": "$\u200982.99 / \u00a3\u200974.98 / \u20ac\u2009103.67 / \u20b9\u20095,299"
     }
    ]
   }
@@ -1954,7 +1954,7 @@
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, depth sensor",
+     "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, depth sensor",
      "Features": "LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/60/120fps"
     }
@@ -2057,7 +2057,7 @@
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\n8 MP, (ultrawide)\r\n2 MP, depth sensor",
+     "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, depth sensor",
      "Features": "LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps"
     }
@@ -2119,7 +2119,7 @@
      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
      "info": "LTE band 1(2100), 3(1800), 5(850), 8(900), 38(2600), 40(2300), 41(2500)",
      "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300)",
-     "Speed": "HSPA 42.2/11.5 Mbps, LTE-A"
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (4CA) Cat12 600/50 Mbps"
     }
    ],
    "Launch": [
@@ -2160,14 +2160,14 @@
    ],
    "Main Camera": [
     {
-     "Quad": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m, depth sensor",
+     "Quad": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m, depth sensor",
      "Features": "LED flash, HDR, panorama",
-     "Video": "2160p@30fps, 1080p@30/60/120fps, gyro-EIS"
+     "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps; gyro-EIS"
     }
    ],
    "Selfie camera": [
     {
-     "Single": "13 MP, f/2.0, 1.12\u00b5m",
+     "Single": "13 MP, f/2.0, (wide), 1/3.1\", 1.12\u00b5m",
      "Features": "HDR, panorama",
      "Video": "1080p@30fps"
     }
@@ -2205,7 +2205,7 @@
      "Models": "M1908C3JH, M1908C3JG, M1908C3JI",
      "SAR": "0.26 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.19 W/kg (head) \u00a0 \u00a0 1.09 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009137.99 / \u00a3\u2009136.99 / \u20ac\u2009169.02 / \u20b9\u20099,999"
+     "Price": "$\u2009137.69 / \u00a3\u2009136.99 / \u20ac\u2009169.02 / \u20b9\u20099,999"
     }
    ],
    "Tests": [
@@ -2274,7 +2274,7 @@
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, PDAF, Laser AF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4\", 1.12\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3.1\", 1.12\u00b5m",
+     "Triple": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8\u00b5m, PDAF, Laser AF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4.0\", 1.12\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3.1\", 1.12\u00b5m",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
     }
@@ -2320,7 +2320,7 @@
      "Models": "M1903F11G",
      "SAR": "1.03 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "1.30 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009355.00 / \u00a3\u2009312.75 / \u20ac\u2009364.00"
+     "Price": "$\u2009355.00 / \u00a3\u2009317.93 / \u20ac\u2009369.00"
     }
    ],
    "Tests": [
@@ -2388,7 +2388,7 @@
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4\", 1.12\u00b5m, PDAF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3.1\", 1.12\u00b5m",
+     "Triple": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4.0\", 1.12\u00b5m, PDAF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3.1\", 1.12\u00b5m",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/120/240fps, 1080p@960fps"
     }
@@ -2503,7 +2503,7 @@
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4\", 1.12\u00b5m, PDAF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3.1\", 1.12\u00b5m",
+     "Triple": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4.0\", 1.12\u00b5m, PDAF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3.1\", 1.12\u00b5m",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/120/240fps, 1080p@960fps"
     }
@@ -2548,7 +2548,7 @@
      "Colors": "Carbon black, Red flame, Glacier blue, Pearl White",
      "Models": "M1903F10I",
      "SAR": "1.07 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009239.99 / \u20b9\u200919,897"
+     "Price": "$\u2009239.99 / \u20b9\u200919,790"
     }
    ]
   }
@@ -2608,7 +2608,7 @@
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, PDAF, Laser AF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4\", 1.12\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3.1\", 1.12\u00b5m",
+     "Triple": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8\u00b5m, PDAF, Laser AF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4.0\", 1.12\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3.1\", 1.12\u00b5m",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
     }
@@ -2653,7 +2653,7 @@
      "Colors": "Carbon black, Flame red, Glacier blue, Summer Honey, Pearl White",
      "Models": "M1903F11I",
      "SAR": "1.03 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009335.99 / \u20b9\u200924,399"
+     "Price": "$\u2009341.99 / \u20b9\u200923,999"
     }
    ],
    "Tests": [
@@ -2722,14 +2722,14 @@
    ],
    "Main Camera": [
     {
-     "Dual": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\n5 MP, f/2.2, depth sensor",
+     "Dual": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n5 MP, f/2.2, depth sensor",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "1080p@30/60/120fps, (gyro-EIS)"
     }
    ],
    "Selfie camera": [
     {
-     "Single": "13 MP, f/2.0, 1.12\u00b5m",
+     "Single": "13 MP, f/2.0, (wide), 1/3.1\", 1.12\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -2871,7 +2871,7 @@
      "Colors": "Elegant Blue, Bold Red, Prime Black",
      "Models": "M1810F6G, M1810F6I",
      "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.25 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "\u00a3\u2009159.00 / \u20b9\u20097,890"
+     "Price": "\u00a3\u2009159.00 / \u20b9\u20097,999"
     }
    ]
   }
@@ -2930,7 +2930,7 @@
    ],
    "Main Camera": [
     {
-     "Dual": "48 MP, f/1.8, 28mm (wide), 1/2\", 0.8\u00b5m, PDAF\r\n12 MP, f/2.2, 54mm (telephoto), 1.0\u00b5m, PDAF, 2x optical zoom",
+     "Dual": "48 MP, f/1.8, 28mm (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n12 MP, f/2.2, 54mm (telephoto), 1.0\u00b5m, PDAF, 2x optical zoom",
      "Features": "LED flash, HDR, panorama",
      "Video": "2160p@30/60fps, 1080p@30fps, 720p@120fps"
     }
@@ -2973,7 +2973,7 @@
     {
      "Colors": "Black, Silver, Blue",
      "Models": "SKW-H0, SKW-A0",
-     "Price": "$\u2009379.99 / \u00a3\u2009355.91"
+     "Price": "$\u2009379.99 / \u00a3\u2009361.77"
     }
    ],
    "Tests": [
@@ -3087,7 +3087,7 @@
      "Colors": "Lunar Red, Eclipse Black, Comet Blue",
      "Models": "M1810F6LG, M1810F6LH, M1810F6LI",
      "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.25 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009104.00 / \u00a3\u200994.99 / \u20ac\u2009130.90 / \u20b9\u20096,999"
+     "Price": "$\u2009120.99 / \u00a3\u200994.99 / \u20ac\u2009131.54 / \u20b9\u20097,355"
     }
    ]
   }
@@ -3145,7 +3145,7 @@
    ],
    "Main Camera": [
     {
-     "Dual": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\n5 MP, f/2.4, depth sensor",
+     "Dual": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n5 MP, f/2.4, depth sensor",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/60/120fps, (gyro-EIS)"
     }
@@ -3190,7 +3190,7 @@
      "Colors": "Nebula Red, Neptune Blue, Space Black, Astro White",
      "Models": "M1901F7S",
      "SAR": "0.96 W/kg (head) \u00a0 \u00a0 0.84 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009149.00 / \u00a3\u2009249.00 / \u20b9\u20098,750"
+     "Price": "$\u2009149.00 / \u00a3\u2009249.00 / \u20b9\u20098,669"
     }
    ]
   }
@@ -3297,7 +3297,7 @@
      "Colors": "Sapphire Blue",
      "Models": "M1810E5GG",
      "SAR": "1.56 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009329.99 / \u00a3\u2009269.60"
+     "Price": "$\u2009329.99 / \u00a3\u2009274.08"
     }
    ]
   }
@@ -3357,7 +3357,7 @@
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.5 (12GB RAM model) or f/1.8 (8GB RAM model), (wide), 1/2\", 0.8\u00b5m, PDAF, Laser AF\r\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0\u00b5m, PDAF, Laser AF",
+     "Triple": "48 MP, f/1.5 (12GB RAM model) or f/1.8 (8GB RAM model), (wide), 1/2.0\", 0.8\u00b5m, PDAF, Laser AF\r\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0\u00b5m, PDAF, Laser AF",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
     }
@@ -3461,7 +3461,7 @@
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.4, (telephoto), 1/4.0\", 1.12\u00b5m, PDAF\r\n13 MP, f/2.4, (ultrawide), 1/3.1\", 1.12\u00b5m",
+     "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.4, (telephoto), 1/4.0\", 1.12\u00b5m, PDAF\r\n13 MP, f/2.4, (ultrawide), 1/3.1\", 1.12\u00b5m",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps, gyro-EIS"
     }
@@ -3507,7 +3507,7 @@
      "Colors": "Violet, Blue, Gray",
      "Models": "M1903F2G",
      "SAR": "1.39 W/kg (head) \u00a0 \u00a0 1.39 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009249.99 / \u00a3\u2009219.99 / \u20ac\u2009299.00"
+     "Price": "$\u2009249.99 / \u00a3\u2009209.99 / \u20ac\u2009299.00"
     }
    ],
    "Tests": [
@@ -3577,7 +3577,7 @@
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, 27mm (wide), 1/2\", 0.8\u00b5m, PDAF, Laser AF\r\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0\u00b5m, PDAF, Laser AF",
+     "Triple": "48 MP, f/1.8, 27mm (wide), 1/2.0\", 0.8\u00b5m, PDAF, Laser AF\r\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0\u00b5m, PDAF, Laser AF",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
     }
@@ -3623,7 +3623,7 @@
      "Colors": "Lavender Violet, Ocean Blue, Piano Black",
      "Models": "M1902F1G",
      "SAR": "1.39 W/kg (head) \u00a0 \u00a0 1.30 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009318.99 / \u00a3\u2009269.00 / \u20ac\u2009432.89"
+     "Price": "$\u2009318.99 / \u00a3\u2009269.00 / \u20ac\u2009434.42"
     }
    ],
    "Tests": [
@@ -3732,7 +3732,7 @@
      "Colors": "Black, Blue",
      "Models": "M1903C3GG, M1903C3GH, M1903C3GI",
      "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.50 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u200975.98 / \u00a3\u200986.70 / \u20ac\u200997.75 / \u20b9\u20094,299"
+     "Price": "$\u200975.98 / \u00a3\u200986.26 / \u20ac\u200996.83 / \u20b9\u20094,299"
     }
    ]
   }
@@ -3791,14 +3791,14 @@
    ],
    "Main Camera": [
     {
-     "Dual": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\n5 MP, f/2.2, depth sensor\r\nor\r\n12 MP, f/2.2, (wide), 1/2.9\", 1.25\u00b5m, PDAF\r\n2 MP, f/2.4, depth sensor",
+     "Dual": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n5 MP, f/2.2, depth sensor\r\nor\r\n12 MP, f/2.2, (wide), 1/2.9\", 1.25\u00b5m, PDAF\r\n2 MP, f/2.4, depth sensor",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "1080p@30/60/120fps, (gyro-EIS)"
     }
    ],
    "Selfie camera": [
     {
-     "Single": "13 MP, f/2.0, 1.12\u00b5m",
+     "Single": "13 MP, f/2.0, (wide), 1/3.1\", 1.12\u00b5m",
      "Features": "HDR",
      "Video": "1080p@30fps"
     }
@@ -3836,7 +3836,7 @@
      "Colors": "Blue, Black, Twilight Gold, White",
      "Models": "M1901F7G, M1901F7H, M1901F7I",
      "SAR": "0.59 W/kg (head) \u00a0 \u00a0 1.27 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009134.98 / \u00a3\u2009142.94 / \u20ac\u2009161.67 / \u20b9\u20099,950"
+     "Price": "$\u2009134.99 / \u00a3\u2009142.53 / \u20ac\u2009161.82 / \u20b9\u20099,981"
     }
    ],
    "Tests": [
@@ -3947,7 +3947,7 @@
      "Colors": "Dream Blue, Twilight Gold, Black",
      "Models": "M1901F9E",
      "SAR": "0.67 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009143.99 / \u00a3\u2009129.22"
+     "Price": "$\u2009143.99 / \u00a3\u2009129.94"
     }
    ]
   }
@@ -4052,7 +4052,7 @@
      "Colors": "Jade Green, Sapphire Blue, Onyx Black, Forbidden City Blue (10 GB only)",
      "Models": "M1810E5A",
      "SAR": "1.45 W/kg (head) \u00a0 \u00a0 1.57 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009344.50 / \u00a3\u2009269.00"
+     "Price": "$\u2009348.99 / \u00a3\u2009269.00"
     }
    ],
    "Tests": [
@@ -4266,7 +4266,7 @@
      "Colors": "Black, Blue, Rose Gold, Red",
      "Models": "M1806E7TG, M1806E7TH, M1806E7TI",
      "SAR": "0.76 W/kg (head) \u00a0 \u00a0 1.48 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009159.99 / \u00a3\u2009129.00 / \u20b9\u20098,808"
+     "Price": "$\u2009159.99 / \u00a3\u2009129.00 / \u20b9\u20098,399"
     }
    ],
    "Tests": [
@@ -4482,7 +4482,7 @@
      "Colors": "Midnight Black, Aurora Blue, Twilight Gold (China only)",
      "Models": "M1808D2TG",
      "SAR": "0.75 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009194.50 / \u00a3\u2009169.41"
+     "Price": "$\u2009193.50 / \u00a3\u2009168.91"
     }
    ],
    "Tests": [
@@ -4594,7 +4594,7 @@
      "Colors": "Graphite Black, Steel Blue, Rosso Red, Armored Edition with Kevlar",
      "Models": "M1805E10A",
      "SAR": "0.54 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009239.99 / \u00a3\u2009199.99 / \u20ac\u2009302.00 / \u20b9\u200910,950"
+     "Price": "$\u2009259.00 / \u00a3\u2009199.99 / \u20ac\u2009302.00 / \u20b9\u200911,999"
     }
    ],
    "Tests": [
@@ -4707,7 +4707,7 @@
      "Colors": "Black, Gold, Blue, Red, Rose Gold",
      "Models": "M1804D2SG, M1804D2SI",
      "SAR": "0.96 W/kg (head) \u00a0 \u00a0 0.64 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009142.99 / \u00a3\u2009133.00 / \u20ac\u2009174.83 / \u20b9\u20096,999"
+     "Price": "$\u2009142.99 / \u00a3\u2009149.99 / \u20ac\u2009175.00 / \u20b9\u20098,199"
     }
    ],
    "Tests": [
@@ -4818,7 +4818,7 @@
      "Colors": "Black, Blue, Gold (Global); Rose Gold, Red (China only)",
      "Models": "M1805D1SG",
      "SAR": "0.55 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009132.99 / \u00a3\u2009159.00 / \u20ac\u2009206.69 / \u20b9\u20097,999"
+     "Price": "$\u2009132.99 / \u00a3\u2009159.00 / \u20ac\u2009222.66 / \u20b9\u20097,998"
     }
    ],
    "Tests": [
@@ -4931,7 +4931,7 @@
      "Colors": "Black, Champagne Gold, Blue",
      "Models": "M1804E4A",
      "SAR": "1.58 W/kg (head) \u00a0 \u00a0 1.42 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009153.99 / \u00a3\u2009130.99 / \u20ac\u2009238.76"
+     "Price": "$\u2009153.99 / \u00a3\u2009134.99 / \u20ac\u2009238.76"
     }
    ],
    "Tests": [
@@ -5239,7 +5239,7 @@
      "Colors": "Black, Grey, Blue, Gold, Rose Gold",
      "Models": "M1804C3DG, M1804C3DH, M1804C3DI",
      "SAR": "0.55 W/kg (head) \u00a0 \u00a0 1.42 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009107.63 / \u00a3\u2009109.99 / \u20b9\u20097,199"
+     "Price": "$\u2009107.63 / \u00a3\u2009109.99 / \u20b9\u20097,490"
     }
    ]
   }
@@ -5339,7 +5339,7 @@
      "Colors": "Black, Grey, Blue, Gold, Rose Gold",
      "Models": "M1804C3CG, M1804C3CH, M1804C3CI",
      "SAR": "0.66 W/kg (head) \u00a0 \u00a0 1.52 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "\u00a3\u200977.41 / \u20b9\u20095,485"
+     "Price": "\u00a3\u200972.64 / \u20b9\u20095,470"
     }
    ]
   }
@@ -5545,7 +5545,7 @@
      "Colors": "Black, Blue, White, Gold",
      "Models": "M1803E1A",
      "SAR": "0.70 W/kg (head) \u00a0 \u00a0 1.66 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009229.99 / \u00a3\u2009208.99"
+     "Price": "$\u2009224.99 / \u00a3\u2009208.99"
     }
    ],
    "Tests": [
@@ -5733,7 +5733,7 @@
     {
      "Single": "16 MP, f/2.0, 26mm (wide), 1/3.1\", 1.0\u00b5m",
      "Features": "HDR, LED flash",
-     "Video": ""
+     "Video": "1080p@30fps"
     }
    ],
    "Sound": [
@@ -5769,7 +5769,7 @@
      "Colors": "Gray, Gold, Rose Gold, Mesmerising Blue, Stunning Black",
      "Models": "M1803E6G, M1803E6H, M1803E6I",
      "SAR": "0.43 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u200984.93 / \u00a3\u2009169.63 / \u20ac\u2009170.40 / \u20b9\u20098,599"
+     "Price": "$\u200984.93 / \u00a3\u2009175.42 / \u20ac\u2009170.40 / \u20b9\u20098,599"
     }
    ],
    "Tests": [
@@ -5956,7 +5956,7 @@
    ],
    "Selfie camera": [
     {
-     "Single": "13 MP, f/2.0, 1.12\u00b5m",
+     "Single": "13 MP, f/2.0, (wide), 1/3.1\", 1.12\u00b5m",
      "Features": "LED flash",
      "Video": "1080p@30fps"
     }
@@ -6107,7 +6107,7 @@
      "Colors": "Black, Champagne Gold, Rose Gold, Lake Blue",
      "Models": "MEI7S, MEI7",
      "SAR": "1.19 W/kg (head) \u00a0 \u00a0 0.33 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "\u20b9\u20096,900"
+     "Price": "\u20b9\u20097,900"
     }
    ]
   }
@@ -6309,7 +6309,7 @@
      "Colors": "Black, Gold, Blue, Rose Gold",
      "Models": "MEG7, MEI7",
      "SAR": "1.01 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009152.99 / \u00a3\u2009110.55 / \u20b9\u20098,980"
+     "Price": "$\u2009152.99 / \u00a3\u2009117.61 / \u20b9\u20098,980"
     }
    ],
    "Tests": [
@@ -6422,7 +6422,7 @@
      "Colors": "Black, Gold, Light Blue, Rose Gold",
      "Models": "MDG1, MDI1",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 1.53 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009127.99 / \u20b9\u20098,378"
+     "Price": "$\u2009127.99 / \u20b9\u20098,308"
     }
    ],
    "Tests": [
@@ -6533,7 +6533,7 @@
      "Colors": "Gold, Dark Gray, Rose Gold, Blue",
      "Models": "MCG3B, MCI3B",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 1.23 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009129.99 / \u00a3\u200997.41 / \u20b9\u20095,999"
+     "Price": "$\u2009129.99 / \u00a3\u200998.96 / \u20b9\u20095,999"
     }
    ]
   }
@@ -7817,7 +7817,7 @@
      "Colors": "Dark Gray, Gold, Black, Lake Blue (64/4GB model)",
      "Models": "2016100",
      "SAR": "0.72 W/kg (head) \u00a0 \u00a0 0.67 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009165.99 / \u00a3\u2009359.99 / \u20b9\u20097,249"
+     "Price": "$\u2009219.99 / \u00a3\u2009359.99 / \u20b9\u20097,249"
     }
    ],
    "Tests": [
@@ -11629,7 +11629,7 @@
    "Selfie camera": [
     {
      "Single": "5 MP",
-     "Video": ""
+     "Video": "720p@30fps"
     }
    ],
    "Sound": [
@@ -12477,6 +12477,104 @@
   }
  },
  {
+  "name": "Xiaomi Redmi Pro 2",
+  "codename": "",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pro-2-r1.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_redmi_pro_2-8558.php",
+  "specs": {
+   "Network": [
+    {
+     "Technology": "GSM / HSPA / LTE",
+     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+     "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
+     "4G bands": " LTE (unspecified)",
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (5CA) Cat18 1200/150 Mbps"
+    }
+   ],
+   "Launch": [
+    {
+     "Announced": "Not announced yet",
+     "Status": "Cancelled"
+    }
+   ],
+   "Body": [
+    {
+     "Dimensions": "-",
+     "Weight": "-",
+     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+    }
+   ],
+   "Display": [
+    {
+     "Type": "AMOLED capacitive touchscreen, 16M colors",
+     "Size": "6.39 inches, 100.2 cm2",
+     "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)"
+    }
+   ],
+   "Platform": [
+    {
+     "OS": "Android 9.0 (Pie)",
+     "Chipset": "Qualcomm SM8150 Snapdragon 855 (7 nm)",
+     "CPU": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)",
+     "GPU": "Adreno 640"
+    }
+   ],
+   "Memory": [
+    {
+     "Card slot": "microSD",
+     "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM"
+    }
+   ],
+   "Main Camera": [
+    {
+     "Triple": "48 MP, 1/2.0\", (wide), 0.8\u00b5m, PDAF\r\nSecondary unknown camera\r\nThird unknown camera",
+     "Features": "Dual-LED dual-tone flash, HDR, panorama",
+     "Video": "2160p@30fps, 1080p@30fps"
+    }
+   ],
+   "Selfie camera": [
+    {
+     "Single": "Motorized pop-up 20 MP, f/2.0, (wide), 1/2.8\", 1.0\u03bcm",
+     "Video": ""
+    }
+   ],
+   "Sound": [
+    {
+     "Loudspeaker ": "Yes",
+     "3.5mm jack ": "Yes",
+     "info": "Active noise cancellation with dedicated mic"
+    }
+   ],
+   "Comms": [
+    {
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+     "Bluetooth": "5.0, A2DP, LE",
+     "GPS": "Yes, with dual-band A-GPS, GLONASS, BDS, GALILEO, QZSS",
+     "NFC": "Yes",
+     "Infrared port": "Yes",
+     "Radio": "No",
+     "USB": "Type-C 1.0 reversible connector"
+    }
+   ],
+   "Features": [
+    {
+     "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    }
+   ],
+   "Battery": [
+    {
+     "info": "Non-removable Li-Po 3600 mAh battery",
+     "Charging": "Fast battery charging 27W"
+    }
+   ],
+   "Misc": [
+    {
+     "Colors": "Red, Blue, Black"
+    }
+   ]
+  }
+ },
+ {
   "name": "Xiaomi Mi 6c",
   "codename": "",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
@@ -12628,7 +12726,7 @@
    ],
    "Main Camera": [
     {
-     "Dual": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\nTOF 3D camera",
+     "Dual": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\nTOF 3D camera",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30fps, 720p/1080p@30fps (gyro-EIS)"
     }
@@ -12672,108 +12770,6 @@
     {
      "Colors": "Black, Champagne Gold, Blue",
      "Price": "About 300 EUR"
-    }
-   ]
-  }
- },
- {
-  "name": "Xiaomi Mi Max 4 Pro",
-  "codename": "",
-  "picture": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
-  "url": "https://www.gsmarena.com/xiaomi_mi_max_4_pro-9552.php",
-  "specs": {
-   "Network": [
-    {
-     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
-     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-     "info": "CDMA2000 1xEV-DO ",
-     "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
-     "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA, LTE"
-    }
-   ],
-   "Launch": [
-    {
-     "Announced": "Not announced yet",
-     "Status": "Cancelled"
-    }
-   ],
-   "Body": [
-    {
-     "Dimensions": "-",
-     "Weight": "-",
-     "Build": "Front glass, aluminum body",
-     "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)"
-    }
-   ],
-   "Display": [
-    {
-     "Type": "IPS LCD capacitive touchscreen, 16M colors",
-     "Size": "7.2 inches, 128.3 cm2",
-     "Resolution": "1080 x 2310 pixels (~354 ppi density)",
-     "Protection": "Corning Gorilla Glass 5"
-    }
-   ],
-   "Platform": [
-    {
-     "OS": "Android 9.0 (Pie); MIUI 11",
-     "Chipset": "Qualcomm SDM675 Snapdragon 675 (11 nm)",
-     "CPU": "Octa-core (2x2.0 GHz Kryo 460 Gold & 6x1.7 GHz Kryo 460 Silver)",
-     "GPU": "Adreno 612"
-    }
-   ],
-   "Memory": [
-    {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM"
-    }
-   ],
-   "Main Camera": [
-    {
-     "Dual": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\n20 MP",
-     "Features": "Dual-LED flash, HDR, panorama",
-     "Video": "2160p@30fps, 720p/1080p@30fps (gyro-EIS), 960fps"
-    }
-   ],
-   "Selfie camera": [
-    {
-     "Single": "8 MP, f/2.0, 1/4\", 1.12\u00b5m",
-     "Features": "HDR",
-     "Video": "1080p@30fps"
-    }
-   ],
-   "Sound": [
-    {
-     "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
-    }
-   ],
-   "Comms": [
-    {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot",
-     "Bluetooth": "5.0, A2DP, LE",
-     "GPS": "Yes, with A-GPS, GLONASS, BDS",
-     "Infrared port": "Yes",
-     "Radio": "No",
-     "USB": "Type-C 1.0 reversible connector"
-    }
-   ],
-   "Features": [
-    {
-     "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-    }
-   ],
-   "Battery": [
-    {
-     "info": "Non-removable Li-Po 5800 mAh battery",
-     "Charging": "Fast battery charging 18W"
-    }
-   ],
-   "Misc": [
-    {
-     "Colors": "Black, Champagne Gold, Blue",
-     "Price": "About 350 EUR"
     }
    ]
   }

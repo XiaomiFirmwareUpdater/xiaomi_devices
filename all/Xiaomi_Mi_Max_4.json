@@ -52,7 +52,7 @@
   ],
   "Main Camera": [
    {
-    "Dual": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\nTOF 3D camera",
+    "Dual": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\nTOF 3D camera",
     "Features": "Dual-LED flash, HDR, panorama",
     "Video": "2160p@30fps, 720p/1080p@30fps (gyro-EIS)"
    }

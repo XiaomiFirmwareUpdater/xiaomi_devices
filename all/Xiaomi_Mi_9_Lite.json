@@ -52,7 +52,7 @@
   ],
   "Main Camera": [
    {
-    "Triple": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\n8 MP, (ultrawide)\r\n2 MP, depth sensor",
+    "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, depth sensor",
     "Features": "LED flash, HDR, panorama",
     "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps"
    }
@@ -96,7 +96,7 @@
   "Misc": [
    {
     "Colors": "Black, Blue, White",
-    "Price": "$\u2009239.00 / \u00a3\u2009186.00 / \u20ac\u2009255.89"
+    "Price": "$\u2009239.00 / \u00a3\u2009186.00 / \u20ac\u2009255.99"
    }
   ],
   "Tests": [

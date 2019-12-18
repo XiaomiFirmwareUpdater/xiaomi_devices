@@ -10,7 +10,7 @@
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
     "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
     "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 28(700), 38(2600), 40(2300)",
-    "Speed": "HSPA 42.2/11.5 Mbps, LTE-A"
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (4CA) Cat12 600/50 Mbps"
    }
   ],
   "Launch": [
@@ -23,7 +23,7 @@
    {
     "Dimensions": "161.1 x 75.4 x 8.6 mm (6.34 x 2.97 x 0.34 in)",
     "Weight": "200 g (7.05 oz)",
-    "Build": "Front/back glass (Gorilla Glass 5)",
+    "Build": "Front/back glass (Gorilla Glass 5), plastic frame",
     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
    }
   ],
@@ -51,14 +51,14 @@
   ],
   "Main Camera": [
    {
-    "Quad": "48 MP, f/1.8, 26mm (wide), 1/2\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m, depth sensor",
+    "Quad": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m, depth sensor",
     "Features": "LED flash, HDR, panorama",
-    "Video": "2160p@30fps, 1080p@30/60/120fps, gyro-EIS"
+    "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps; gyro-EIS"
    }
   ],
   "Selfie camera": [
    {
-    "Single": "13 MP, f/2.0, 1.12\u00b5m",
+    "Single": "13 MP, f/2.0, (wide), 1/3.1\", 1.12\u00b5m",
     "Features": "HDR, panorama",
     "Video": "1080p@30fps"
    }
@@ -94,7 +94,7 @@
   "Misc": [
    {
     "Colors": "Starscape Blue, Moonlight White, Moonshadow Grey",
-    "Price": "$\u2009179.00 / \u00a3\u2009159.91 / \u20ac\u2009156.05"
+    "Price": "$\u2009179.00 / \u00a3\u2009151.01 / \u20ac\u2009166.89"
    }
   ],
   "Tests": [

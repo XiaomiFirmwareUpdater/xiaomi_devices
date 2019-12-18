@@ -52,14 +52,14 @@
   ],
   "Main Camera": [
    {
-    "Dual": "48 MP, f/1.8, (wide), 1/2\", 0.8\u00b5m, PDAF\r\n5 MP, f/2.2, depth sensor\r\nor\r\n12 MP, f/2.2, (wide), 1/2.9\", 1.25\u00b5m, PDAF\r\n2 MP, f/2.4, depth sensor",
+    "Dual": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n5 MP, f/2.2, depth sensor\r\nor\r\n12 MP, f/2.2, (wide), 1/2.9\", 1.25\u00b5m, PDAF\r\n2 MP, f/2.4, depth sensor",
     "Features": "Dual-LED flash, HDR, panorama",
     "Video": "1080p@30/60/120fps, (gyro-EIS)"
    }
   ],
   "Selfie camera": [
    {
-    "Single": "13 MP, f/2.0, 1.12\u00b5m",
+    "Single": "13 MP, f/2.0, (wide), 1/3.1\", 1.12\u00b5m",
     "Features": "HDR",
     "Video": "1080p@30fps"
    }
@@ -97,7 +97,7 @@
     "Colors": "Blue, Black, Twilight Gold, White",
     "Models": "M1901F7G, M1901F7H, M1901F7I",
     "SAR": "0.59 W/kg (head) \u00a0 \u00a0 1.27 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009134.99 / \u00a3\u2009140.13 / \u20ac\u2009161.82 / \u20b9\u20099,987"
+    "Price": "$\u2009134.99 / \u00a3\u2009142.53 / \u20ac\u2009161.82 / \u20b9\u20099,981"
    }
   ],
   "Tests": [
