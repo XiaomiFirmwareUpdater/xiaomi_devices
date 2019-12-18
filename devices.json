@@ -678,6 +678,12 @@
   }
  },
  {
+  "machuca": {
+   "name": "MiTV",
+   "model": "MiTV-MSSP3"
+  }
+ },
+ {
   "magnolia": {
    "name": "MiTV",
    "model": "MiTV4I"
@@ -687,6 +693,12 @@
   "nino": {
    "name": "MiTV",
    "model": "MiTV-MSSP1"
+  }
+ },
+ {
+  "volver": {
+   "name": "MiTV",
+   "model": "MiTV-MSSP2"
   }
  },
  {
