@@ -9,8 +9,8 @@
     "Technology": "GSM / HSPA / LTE",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
     "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
-    "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300) - Global",
     "info": "LTE band 1(2100), 3(1800), 5(850), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
+    "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300) - Global",
     "Speed": "HSPA, LTE-A"
    }
   ],
@@ -34,7 +34,8 @@
     "Type": "IPS LCD capacitive touchscreen, 16M colors",
     "Size": "6.2 inches, 95.9 cm2 (~81.3% screen-to-body ratio)",
     "Resolution": "720 x 1520 pixels, 19:9 ratio (~271 ppi density)",
-    "Protection": "Corning Gorilla Glass 5"
+    "Protection": "Corning Gorilla Glass 5",
+    "info": "400 nits typ. brightness"
    }
   ],
   "Platform": [
@@ -95,9 +96,10 @@
   "Misc": [
    {
     "Colors": "Midnight Black, Ocean Blue, Sunset Red",
-    "Models": "MZB8458IN",
-    "SAR": "0.34 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009102.99 / \u00a3\u2009103.46 / \u20ac\u2009114.00 / \u20b9\u20096,499"
+    "Models": "MZB8458IN, M1908C3KG, M1908C3KH",
+    "SAR": "0.48 W/kg (head) \u00a0 \u00a0 1.07 W/kg (body) \u00a0 \u00a0 ",
+    "SAR EU": "0.23 W/kg (head) \u00a0 \u00a0 1.48 W/kg (body) \u00a0 \u00a0 ",
+    "Price": "$\u2009102.99 / \u00a3\u2009104.06 / \u20ac\u2009114.00 / \u20b9\u20096,499"
    }
   ]
  }
