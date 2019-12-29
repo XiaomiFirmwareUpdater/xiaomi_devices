@@ -1,7 +1,7 @@
 [
  {
   "name": "Xiaomi Redmi K30",
-  "codename": "",
+  "codename": "picasso",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k30-9991.php",
   "specs": {
@@ -99,14 +99,14 @@
     {
      "Colors": "Blue, Red, Purple",
      "Models": "M1912G7BE, M1912G7BC",
-     "Price": "About 210 EUR"
+     "Price": "$\u2009244.99"
     }
    ]
   }
  },
  {
   "name": "Xiaomi Redmi K30 5G",
-  "codename": "",
+  "codename": "picasso",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k30_5g-9979.php",
   "specs": {
@@ -204,7 +204,7 @@
     {
      "Colors": "Blue, Red, Purple, White",
      "Models": "M1912G7BE, M1912G7BC",
-     "Price": "About 260 EUR"
+     "Price": "$\u2009326.89"
     }
    ]
   }
@@ -305,7 +305,7 @@
    "Misc": [
     {
      "Colors": "Starscape Blue, Moonlight White, Moonshadow Grey",
-     "Price": "$\u2009179.00 / \u00a3\u2009151.01 / \u20ac\u2009166.89"
+     "Price": "$\u2009158.00 / \u00a3\u2009136.99 / \u20ac\u2009156.05"
     }
    ],
    "Tests": [
@@ -418,7 +418,10 @@
    "Misc": [
     {
      "Colors": "Aurora Green, Glacier White, Midnight Black",
-     "Price": "$\u2009584.00"
+     "Models": "M1910F4S",
+     "SAR": "1.19 W/kg (head) \u00a0 \u00a0 1.18 W/kg (body) \u00a0 \u00a0 ",
+     "SAR EU": "1.11 W/kg (head) \u00a0 \u00a0 1.39 W/kg (body) \u00a0 \u00a0 ",
+     "Price": "$\u2009584.00 / \u00a3\u2009429.99 / \u20ac\u2009607.50"
     }
    ]
   }
@@ -521,7 +524,10 @@
    "Misc": [
     {
      "Colors": "Aurora Green, Glacier White, Midnight Black",
-     "Price": "$\u2009539.00 / \u00a3\u2009493.50 / \u20ac\u2009490.00"
+     "Models": "M1910F4G",
+     "SAR": "1.19 W/kg (head) \u00a0 \u00a0 1.18 W/kg (body) \u00a0 \u00a0 ",
+     "SAR EU": "1.11 W/kg (head) \u00a0 \u00a0 1.39 W/kg (body) \u00a0 \u00a0 ",
+     "Price": "$\u2009429.00 / \u00a3\u2009419.22 / \u20ac\u2009489.00"
     }
    ],
    "Tests": [
@@ -636,7 +642,7 @@
     {
      "Colors": "Aurora Green, Glacier White, Midnight Black",
      "Models": "M1910F4E",
-     "Price": "$\u2009397.74"
+     "Price": "$\u2009396.99 / \u00a3\u2009429.99"
     }
    ]
   }
@@ -741,8 +747,9 @@
     {
      "Technology": "GSM / HSPA / LTE",
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-     "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
-     "4G bands": "LTE band 1(2100), 3(1800), 5(850), 8(900), 40(2300), 41(2500)",
+     "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - Global",
+     "info": "LTE band 1(2100), 3(1800), 5(850), 8(900), 40(2300), 41(2500) - India",
+     "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300) - Global",
      "Speed": "HSPA, LTE-A"
     }
    ],
@@ -765,7 +772,8 @@
      "Type": "IPS LCD capacitive touchscreen, 16M colors",
      "Size": "6.22 inches, 96.6 cm2 (~81.8% screen-to-body ratio)",
      "Resolution": "720 x 1520 pixels, 19:9 ratio (~270 ppi density)",
-     "Protection": "Corning Gorilla Glass 5"
+     "Protection": "Corning Gorilla Glass 5",
+     "info": "400 nits typ. brightness"
     }
    ],
    "Platform": [
@@ -827,9 +835,10 @@
    "Misc": [
     {
      "Colors": "Onyx Black, Ruby Red, Sapphire Blue",
-     "Models": "M1908C3IC, MZB8255IN",
+     "Models": "M1908C3IC, MZB8255IN, M1908C3IG, M1908C3IH",
      "SAR": "0.34 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009114.99 / \u00a3\u2009117.87 / \u20ac\u2009141.80 / \u20b9\u20097,999"
+     "SAR EU": "0.23 W/kg (head) \u00a0 \u00a0 1.48 W/kg (body) \u00a0 \u00a0 ",
+     "Price": "$\u2009112.55 / \u00a3\u2009117.87 / \u20ac\u2009132.93 / \u20b9\u20097,999"
     }
    ]
   }
@@ -845,8 +854,8 @@
      "Technology": "GSM / HSPA / LTE",
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
-     "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300) - Global",
      "info": "LTE band 1(2100), 3(1800), 5(850), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
+     "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300) - Global",
      "Speed": "HSPA, LTE-A"
     }
    ],
@@ -870,7 +879,8 @@
      "Type": "IPS LCD capacitive touchscreen, 16M colors",
      "Size": "6.2 inches, 95.9 cm2 (~81.3% screen-to-body ratio)",
      "Resolution": "720 x 1520 pixels, 19:9 ratio (~271 ppi density)",
-     "Protection": "Corning Gorilla Glass 5"
+     "Protection": "Corning Gorilla Glass 5",
+     "info": "400 nits typ. brightness"
     }
    ],
    "Platform": [
@@ -931,9 +941,10 @@
    "Misc": [
     {
      "Colors": "Midnight Black, Ocean Blue, Sunset Red",
-     "Models": "MZB8458IN",
-     "SAR": "0.34 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009102.99 / \u00a3\u2009103.50 / \u20ac\u2009114.00 / \u20b9\u20096,499"
+     "Models": "MZB8458IN, M1908C3KG, M1908C3KH",
+     "SAR": "0.48 W/kg (head) \u00a0 \u00a0 1.07 W/kg (body) \u00a0 \u00a0 ",
+     "SAR EU": "0.23 W/kg (head) \u00a0 \u00a0 1.48 W/kg (body) \u00a0 \u00a0 ",
+     "Price": "$\u2009102.99 / \u00a3\u200999.99 / \u20ac\u2009124.00 / \u20b9\u20096,499"
     }
    ]
   }
@@ -958,7 +969,7 @@
    "Launch": [
     {
      "Announced": "2019, September",
-     "Status": "Coming soon. Exp. release 2019, December"
+     "Status": "Coming soon. Exp. release 2020, January"
     }
    ],
    "Body": [
@@ -1257,10 +1268,11 @@
   "specs": {
    "Network": [
     {
-     "Technology": "GSM / HSPA / LTE",
+     "Technology": "GSM / CDMA / HSPA / LTE",
      "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+     "info": "CDMA 800 & TD-SCDMA",
      "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
-     "4G bands": " LTE (unspecified)",
+     "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
      "Speed": "HSPA 42.2/5.76 Mbps, LTE-A"
     }
    ],
@@ -1347,7 +1359,7 @@
    "Misc": [
     {
      "Colors": "Carbon black, Flame red, Glacier blue, Summer Honey, Pearl White",
-     "Price": "$\u2009432.99"
+     "Price": "$\u2009415.99"
     }
    ]
   }
@@ -1449,8 +1461,11 @@
    ],
    "Misc": [
     {
-     "Colors": "Black, Blue, White",
-     "Price": "$\u2009239.00 / \u00a3\u2009186.00 / \u20ac\u2009255.99"
+     "Colors": "Pearl White, Aurora Blue, Onyx Grey",
+     "Models": "M1904F3BG",
+     "SAR": "1.19 W/kg (head) \u00a0 \u00a0 1.15 W/kg (body) \u00a0 \u00a0 ",
+     "SAR EU": "1.42 W/kg (head) \u00a0 \u00a0 1.40 W/kg (body) \u00a0 \u00a0 ",
+     "Price": "$\u2009239.00 / \u00a3\u2009186.00 / \u20ac\u2009252.00"
     }
    ],
    "Tests": [
@@ -1566,7 +1581,7 @@
      "Models": "2015105, M1906G7I",
      "SAR": "1.13 W/kg (head) \u00a0 \u00a0 0.63 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.38 W/kg (head) \u00a0 \u00a0 0.80 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009183.99 / \u00a3\u2009177.90 / \u20ac\u2009229.90 / \u20b9\u200914,999"
+     "Price": "$\u2009181.99 / \u00a3\u2009169.00 / \u20ac\u2009229.00 / \u20b9\u200914,999"
     }
    ],
    "Tests": [
@@ -1679,7 +1694,7 @@
     {
      "Colors": "Shadow Black, Iceberg Grey, Gulf Blue, Streamer Purple",
      "Models": "DLT-A0, DLT-H0",
-     "Price": "$\u2009513.99 / \u00a3\u2009448.00"
+     "Price": "$\u2009513.99 / \u00a3\u2009431.00"
     }
    ]
   }
@@ -1716,8 +1731,8 @@
    "Display": [
     {
      "Type": "Super AMOLED capacitive touchscreen, 16M colors",
-     "Size": "6.01 inches, 88.7 cm2 (~80.3% screen-to-body ratio)",
-     "Resolution": "720 x 1560 pixels, 19.5:9 ratio (~286 ppi density)",
+     "Size": "6.09 inches, 91.0 cm2 (~82.5% screen-to-body ratio)",
+     "Resolution": "720 x 1560 pixels, 19.5:9 ratio (~282 ppi density)",
      "Protection": "Corning Gorilla Glass 5"
     }
    ],
@@ -1783,7 +1798,7 @@
      "Models": "M1906F9SH, M1906F9SI",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.30 W/kg (head) \u00a0 \u00a0 1.10 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009159.53 / \u00a3\u2009147.99 / \u20ac\u2009177.34 / \u20b9\u200910,710"
+     "Price": "$\u2009158.21 / \u00a3\u2009129.00 / \u20ac\u2009179.31 / \u20b9\u200911,497"
     }
    ],
    "Tests": [
@@ -1896,108 +1911,7 @@
      "Colors": "Matte Black, Morning blue, Matte Blue, Matte Gold, Gem Red, Gem Blue",
      "Models": "MZB7995IN, M1903C3EG, M1903C3EH, M1903C3EI",
      "SAR": "0.74 W/kg (head) \u00a0 \u00a0 0.79 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u200982.99 / \u00a3\u200974.98 / \u20ac\u2009103.67 / \u20b9\u20095,299"
-    }
-   ]
-  }
- },
- {
-  "name": "Xiaomi Mi CC9e",
-  "codename": "",
-  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-cc9e-.jpg",
-  "url": "https://www.gsmarena.com/xiaomi_mi_cc9e-9759.php",
-  "specs": {
-   "Network": [
-    {
-     "Technology": "GSM / CDMA / HSPA / LTE",
-     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-     "info": "CDMA 800 & TD-SCDMA",
-     "3G bands": "HSDPA 850 / 900 / 2100 ",
-     "4G bands": "LTE band 1(2100), 3(1800), 5(850), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) 450/50 Mbps"
-    }
-   ],
-   "Launch": [
-    {
-     "Announced": "2019, July",
-     "Status": "Available. Released 2019, July"
-    }
-   ],
-   "Body": [
-    {
-     "Dimensions": "153.5 x 71.9 x 8.5 mm (6.04 x 2.83 x 0.33 in)",
-     "Weight": "173.8 g (6.14 oz)",
-     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
-    }
-   ],
-   "Display": [
-    {
-     "Type": "Super AMOLED capacitive touchscreen, 16M colors",
-     "Size": "6.01 inches, 88.7 cm2 (~80.3% screen-to-body ratio)",
-     "Resolution": "720 x 1560 pixels, 19.5:9 ratio (~286 ppi density)",
-     "Protection": "Corning Gorilla Glass 5"
-    }
-   ],
-   "Platform": [
-    {
-     "OS": "Android 9.0 (Pie); MIUI 10",
-     "Chipset": "Qualcomm SDM665 Snapdragon 665 (11 nm)",
-     "CPU": "Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
-     "GPU": "Adreno 610"
-    }
-   ],
-   "Memory": [
-    {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
-     "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM"
-    }
-   ],
-   "Main Camera": [
-    {
-     "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, depth sensor",
-     "Features": "LED flash, HDR, panorama",
-     "Video": "2160p@30fps, 1080p@30/60/120fps"
-    }
-   ],
-   "Selfie camera": [
-    {
-     "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8\u00b5m",
-     "Features": "HDR",
-     "Video": "1080p@30fps"
-    }
-   ],
-   "Sound": [
-    {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
-    }
-   ],
-   "Comms": [
-    {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
-     "Bluetooth": "5.0, A2DP, LE, aptX HD",
-     "GPS": "Yes, with A-GPS, GLONASS, BDS",
-     "Infrared port": "Yes",
-     "Radio": "FM radio",
-     "USB": "2.0, Type-C 1.0 reversible connector"
-    }
-   ],
-   "Features": [
-    {
-     "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-    }
-   ],
-   "Battery": [
-    {
-     "info": "Non-removable Li-Po 4030 mAh battery",
-     "Charging": "Fast battery charging 18W"
-    }
-   ],
-   "Misc": [
-    {
-     "Colors": "Black, Blue, White",
-     "Price": "$\u2009153.99"
+     "Price": "$\u200975.49 / \u00a3\u200972.98 / \u20ac\u200984.88 / \u20b9\u20094,999"
     }
    ]
   }
@@ -2107,6 +2021,107 @@
   }
  },
  {
+  "name": "Xiaomi Mi CC9e",
+  "codename": "",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-cc9e-.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_mi_cc9e-9759.php",
+  "specs": {
+   "Network": [
+    {
+     "Technology": "GSM / CDMA / HSPA / LTE",
+     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+     "info": "CDMA 800 & TD-SCDMA",
+     "3G bands": "HSDPA 850 / 900 / 2100 ",
+     "4G bands": "LTE band 1(2100), 3(1800), 5(850), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) 450/50 Mbps"
+    }
+   ],
+   "Launch": [
+    {
+     "Announced": "2019, July",
+     "Status": "Available. Released 2019, July"
+    }
+   ],
+   "Body": [
+    {
+     "Dimensions": "153.5 x 71.9 x 8.5 mm (6.04 x 2.83 x 0.33 in)",
+     "Weight": "173.8 g (6.14 oz)",
+     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+    }
+   ],
+   "Display": [
+    {
+     "Type": "Super AMOLED capacitive touchscreen, 16M colors",
+     "Size": "6.01 inches, 88.7 cm2 (~80.3% screen-to-body ratio)",
+     "Resolution": "720 x 1560 pixels, 19.5:9 ratio (~286 ppi density)",
+     "Protection": "Corning Gorilla Glass 5"
+    }
+   ],
+   "Platform": [
+    {
+     "OS": "Android 9.0 (Pie); MIUI 10",
+     "Chipset": "Qualcomm SDM665 Snapdragon 665 (11 nm)",
+     "CPU": "Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
+     "GPU": "Adreno 610"
+    }
+   ],
+   "Memory": [
+    {
+     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM"
+    }
+   ],
+   "Main Camera": [
+    {
+     "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, depth sensor",
+     "Features": "LED flash, HDR, panorama",
+     "Video": "2160p@30fps, 1080p@30/60/120fps"
+    }
+   ],
+   "Selfie camera": [
+    {
+     "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8\u00b5m",
+     "Features": "HDR",
+     "Video": "1080p@30fps"
+    }
+   ],
+   "Sound": [
+    {
+     "Loudspeaker ": "Yes",
+     "3.5mm jack ": "Yes",
+     "info": "Active noise cancellation with dedicated mic"
+    }
+   ],
+   "Comms": [
+    {
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+     "Bluetooth": "5.0, A2DP, LE, aptX HD",
+     "GPS": "Yes, with A-GPS, GLONASS, BDS",
+     "Infrared port": "Yes",
+     "Radio": "FM radio",
+     "USB": "2.0, Type-C 1.0 reversible connector"
+    }
+   ],
+   "Features": [
+    {
+     "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    }
+   ],
+   "Battery": [
+    {
+     "info": "Non-removable Li-Po 4030 mAh battery",
+     "Charging": "Fast battery charging 18W"
+    }
+   ],
+   "Misc": [
+    {
+     "Colors": "Black, Blue, White",
+     "Price": "$\u2009153.99"
+    }
+   ]
+  }
+ },
+ {
   "name": "Xiaomi Redmi Note 8",
   "codename": "ginkgo",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-8-1.jpg",
@@ -2205,7 +2220,7 @@
      "Models": "M1908C3JH, M1908C3JG, M1908C3JI",
      "SAR": "0.26 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.19 W/kg (head) \u00a0 \u00a0 1.09 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009137.69 / \u00a3\u2009136.99 / \u20ac\u2009169.02 / \u20b9\u20099,999"
+     "Price": "$\u2009137.59 / \u00a3\u2009131.99 / \u20ac\u2009154.90 / \u20b9\u20099,999"
     }
    ],
    "Tests": [
@@ -2320,7 +2335,7 @@
      "Models": "M1903F11G",
      "SAR": "1.03 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "1.30 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009355.00 / \u00a3\u2009317.93 / \u20ac\u2009369.00"
+     "Price": "$\u2009355.00 / \u00a3\u2009315.76 / \u20ac\u2009379.00"
     }
    ],
    "Tests": [
@@ -2433,7 +2448,7 @@
      "Colors": "Carbon black, Red flame, Glacier blue",
      "Models": "M1903F10G",
      "SAR EU": "1.34 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009266.99 / \u00a3\u2009265.00 / \u20ac\u2009299.00"
+     "Price": "$\u2009266.99 / \u00a3\u2009255.99 / \u20ac\u2009299.00"
     }
    ],
    "Tests": [
@@ -2548,7 +2563,7 @@
      "Colors": "Carbon black, Red flame, Glacier blue, Pearl White",
      "Models": "M1903F10I",
      "SAR": "1.07 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009239.99 / \u20b9\u200919,790"
+     "Price": "$\u2009229.99 / \u20b9\u200917,889"
     }
    ]
   }
@@ -2653,7 +2668,7 @@
      "Colors": "Carbon black, Flame red, Glacier blue, Summer Honey, Pearl White",
      "Models": "M1903F11I",
      "SAR": "1.03 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009341.99 / \u20b9\u200923,999"
+     "Price": "$\u2009341.99 / \u20b9\u200919,999"
     }
    ],
    "Tests": [
@@ -2973,7 +2988,7 @@
     {
      "Colors": "Black, Silver, Blue",
      "Models": "SKW-H0, SKW-A0",
-     "Price": "$\u2009379.99 / \u00a3\u2009361.77"
+     "Price": "$\u2009379.99 / \u00a3\u2009365.65"
     }
    ],
    "Tests": [
@@ -3087,7 +3102,7 @@
      "Colors": "Lunar Red, Eclipse Black, Comet Blue",
      "Models": "M1810F6LG, M1810F6LH, M1810F6LI",
      "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.25 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009120.99 / \u00a3\u200994.99 / \u20ac\u2009131.54 / \u20b9\u20097,355"
+     "Price": "$\u2009118.99 / \u00a3\u200994.99 / \u20ac\u2009115.18 / \u20b9\u20096,999"
     }
    ]
   }
@@ -3190,7 +3205,7 @@
      "Colors": "Nebula Red, Neptune Blue, Space Black, Astro White",
      "Models": "M1901F7S",
      "SAR": "0.96 W/kg (head) \u00a0 \u00a0 0.84 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009149.00 / \u00a3\u2009249.00 / \u20b9\u20098,669"
+     "Price": "$\u2009157.36 / \u00a3\u2009249.00 / \u20b9\u20098,281"
     }
    ]
   }
@@ -3297,7 +3312,7 @@
      "Colors": "Sapphire Blue",
      "Models": "M1810E5GG",
      "SAR": "1.56 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009329.99 / \u00a3\u2009274.08"
+     "Price": "$\u2009309.99 / \u00a3\u2009277.04"
     }
    ]
   }
@@ -3507,7 +3522,7 @@
      "Colors": "Violet, Blue, Gray",
      "Models": "M1903F2G",
      "SAR": "1.39 W/kg (head) \u00a0 \u00a0 1.39 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009249.99 / \u00a3\u2009209.99 / \u20ac\u2009299.00"
+     "Price": "$\u2009153.99 / \u00a3\u2009209.99 / \u20ac\u2009307.00"
     }
    ],
    "Tests": [
@@ -3572,7 +3587,7 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "64GB 6GB RAM, 64GB 8GB RAM, 128GB 6GB RAM, 128GB 8GB RAM"
+     "Internal": "64GB 6GB RAM, 64GB 8GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"
     }
    ],
    "Main Camera": [
@@ -3623,7 +3638,7 @@
      "Colors": "Lavender Violet, Ocean Blue, Piano Black",
      "Models": "M1902F1G",
      "SAR": "1.39 W/kg (head) \u00a0 \u00a0 1.30 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009318.99 / \u00a3\u2009269.00 / \u20ac\u2009434.42"
+     "Price": "$\u2009315.99 / \u00a3\u2009269.00 / \u20ac\u2009333.00"
     }
    ],
    "Tests": [
@@ -3732,7 +3747,7 @@
      "Colors": "Black, Blue",
      "Models": "M1903C3GG, M1903C3GH, M1903C3GI",
      "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.50 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u200975.98 / \u00a3\u200986.26 / \u20ac\u200996.83 / \u20b9\u20094,299"
+     "Price": "$\u200975.98 / \u00a3\u200976.58 / \u20ac\u200999.90 / \u20b9\u20093,999"
     }
    ]
   }
@@ -3836,7 +3851,7 @@
      "Colors": "Blue, Black, Twilight Gold, White",
      "Models": "M1901F7G, M1901F7H, M1901F7I",
      "SAR": "0.59 W/kg (head) \u00a0 \u00a0 1.27 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009134.99 / \u00a3\u2009142.53 / \u20ac\u2009161.82 / \u20b9\u20099,981"
+     "Price": "$\u2009135.99 / \u00a3\u2009139.99 / \u20ac\u2009158.90 / \u20b9\u20099,350"
     }
    ],
    "Tests": [
@@ -3953,6 +3968,106 @@
   }
  },
  {
+  "name": "Xiaomi Black Shark Helo",
+  "codename": "",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark2.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_black_shark_helo-9382.php",
+  "specs": {
+   "Network": [
+    {
+     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
+     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+     "info": "CDMA2000 1xEV-DO ",
+     "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
+     "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat16 1024/150 Mbps"
+    }
+   ],
+   "Launch": [
+    {
+     "Announced": "2018, October",
+     "Status": "Available. Released 2018, November"
+    }
+   ],
+   "Body": [
+    {
+     "Dimensions": "160 x 75.2 x 8.7 mm (6.30 x 2.96 x 0.34 in)",
+     "Weight": "190 g (6.70 oz)",
+     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+    }
+   ],
+   "Display": [
+    {
+     "Type": "AMOLED capacitive touchscreen, 16M colors",
+     "Size": "6.01 inches, 93.2 cm2 (~77.5% screen-to-body ratio)",
+     "Resolution": "1080 x 2160 pixels, 18:9 ratio (~402 ppi density)",
+     "info": "DCI-P3 100%\r\nAlways-on display"
+    }
+   ],
+   "Platform": [
+    {
+     "OS": "Android 8.0 (Oreo)",
+     "Chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+     "CPU": "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver)",
+     "GPU": "Adreno 630"
+    }
+   ],
+   "Memory": [
+    {
+     "Card slot": "No",
+     "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 10GB RAM"
+    }
+   ],
+   "Main Camera": [
+    {
+     "Dual": "12 MP, f/1.8, 1/2.9\", 1.25\u00b5m, dual pixel PDAF\r\n20 MP, f/1.8, 1.0\u00b5m, AF, 2x optical zoom",
+     "Features": "Dual-LED dual-tone flash, HDR, panorama",
+     "Video": "2160p@30fps, 1080p@30fps, 720p@120fps"
+    }
+   ],
+   "Selfie camera": [
+    {
+     "Single": "20 MP, f/2.2, (wide), 1/2.8\", 1.0\u00b5m",
+     "Video": "1080p@30fps"
+    }
+   ],
+   "Sound": [
+    {
+     "Loudspeaker ": "Yes, with stereo speakers",
+     "3.5mm jack ": "No",
+     "info": "Active noise cancellation with dedicated mic"
+    }
+   ],
+   "Comms": [
+    {
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+     "Bluetooth": "5.0, A2DP, aptX HD, LE",
+     "GPS": "Yes, with A-GPS, GLONASS, BDS",
+     "Radio": "No",
+     "USB": "2.0, Type-C 1.0 reversible connector"
+    }
+   ],
+   "Features": [
+    {
+     "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+    }
+   ],
+   "Battery": [
+    {
+     "info": "Non-removable Li-Ion 4000 mAh battery",
+     "Charging": "Fast battery charging 18W (Quick Charge 3.0)"
+    }
+   ],
+   "Misc": [
+    {
+     "Colors": "Black",
+     "Models": "AWM-A0",
+     "Price": "About 450 EUR"
+    }
+   ]
+  }
+ },
+ {
   "name": "Xiaomi Mi Mix 3",
   "codename": "perseus",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix3.jpg",
@@ -4052,7 +4167,7 @@
      "Colors": "Jade Green, Sapphire Blue, Onyx Black, Forbidden City Blue (10 GB only)",
      "Models": "M1810E5A",
      "SAR": "1.45 W/kg (head) \u00a0 \u00a0 1.57 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009348.99 / \u00a3\u2009269.00"
+     "Price": "$\u2009329.99 / \u00a3\u2009269.00"
     }
    ],
    "Tests": [
@@ -4063,106 +4178,6 @@
      "Loudspeaker": "\nVoice 67dB / Noise 71dB / Ring 73dB\n",
      "Audio quality": "\nNoise -93.2dB / Crosstalk -90.6dB",
      "Battery life": "\n\nEndurance rating 84h\n\n"
-    }
-   ]
-  }
- },
- {
-  "name": "Xiaomi Black Shark Helo",
-  "codename": "",
-  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark2.jpg",
-  "url": "https://www.gsmarena.com/xiaomi_black_shark_helo-9382.php",
-  "specs": {
-   "Network": [
-    {
-     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
-     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-     "info": "CDMA2000 1xEV-DO ",
-     "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
-     "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat16 1024/150 Mbps"
-    }
-   ],
-   "Launch": [
-    {
-     "Announced": "2018, October",
-     "Status": "Available. Released 2018, November"
-    }
-   ],
-   "Body": [
-    {
-     "Dimensions": "160 x 75.2 x 8.7 mm (6.30 x 2.96 x 0.34 in)",
-     "Weight": "190 g (6.70 oz)",
-     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
-    }
-   ],
-   "Display": [
-    {
-     "Type": "AMOLED capacitive touchscreen, 16M colors",
-     "Size": "6.01 inches, 93.2 cm2 (~77.5% screen-to-body ratio)",
-     "Resolution": "1080 x 2160 pixels, 18:9 ratio (~402 ppi density)",
-     "info": "DCI-P3 100%\r\nAlways-on display"
-    }
-   ],
-   "Platform": [
-    {
-     "OS": "Android 8.0 (Oreo)",
-     "Chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
-     "CPU": "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver)",
-     "GPU": "Adreno 630"
-    }
-   ],
-   "Memory": [
-    {
-     "Card slot": "No",
-     "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 10GB RAM"
-    }
-   ],
-   "Main Camera": [
-    {
-     "Dual": "12 MP, f/1.8, 1/2.9\", 1.25\u00b5m, dual pixel PDAF\r\n20 MP, f/1.8, 1.0\u00b5m, AF, 2x optical zoom",
-     "Features": "Dual-LED dual-tone flash, HDR, panorama",
-     "Video": "2160p@30fps, 1080p@30fps, 720p@120fps"
-    }
-   ],
-   "Selfie camera": [
-    {
-     "Single": "20 MP, f/2.2, (wide), 1/2.8\", 1.0\u00b5m",
-     "Video": "1080p@30fps"
-    }
-   ],
-   "Sound": [
-    {
-     "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
-    }
-   ],
-   "Comms": [
-    {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
-     "Bluetooth": "5.0, A2DP, aptX HD, LE",
-     "GPS": "Yes, with A-GPS, GLONASS, BDS",
-     "Radio": "No",
-     "USB": "2.0, Type-C 1.0 reversible connector"
-    }
-   ],
-   "Features": [
-    {
-     "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
-    }
-   ],
-   "Battery": [
-    {
-     "info": "Non-removable Li-Ion 4000 mAh battery",
-     "Charging": "Fast battery charging 18W (Quick Charge 3.0)"
-    }
-   ],
-   "Misc": [
-    {
-     "Colors": "Black",
-     "Models": "AWM-A0",
-     "Price": "About 450 EUR"
     }
    ]
   }
@@ -4266,7 +4281,7 @@
      "Colors": "Black, Blue, Rose Gold, Red",
      "Models": "M1806E7TG, M1806E7TH, M1806E7TI",
      "SAR": "0.76 W/kg (head) \u00a0 \u00a0 1.48 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009159.99 / \u00a3\u2009129.00 / \u20b9\u20098,399"
+     "Price": "$\u2009159.99 / \u00a3\u2009129.00 / \u20b9\u20097,674"
     }
    ],
    "Tests": [
@@ -4380,7 +4395,7 @@
      "Colors": "Black (transparent back), Meteorite black, Twilight Gold",
      "Models": "M1807E8A",
      "SAR": "0.97 W/kg (head) \u00a0 \u00a0 1.53 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009299.00 / \u00a3\u2009299.00"
+     "Price": "$\u2009293.99 / \u00a3\u2009299.00 / \u20ac\u2009352.99"
     }
    ]
   }
@@ -4482,7 +4497,7 @@
      "Colors": "Midnight Black, Aurora Blue, Twilight Gold (China only)",
      "Models": "M1808D2TG",
      "SAR": "0.75 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009193.50 / \u00a3\u2009168.91"
+     "Price": "$\u2009145.99 / \u00a3\u2009170.77"
     }
    ],
    "Tests": [
@@ -4594,7 +4609,7 @@
      "Colors": "Graphite Black, Steel Blue, Rosso Red, Armored Edition with Kevlar",
      "Models": "M1805E10A",
      "SAR": "0.54 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009259.00 / \u00a3\u2009199.99 / \u20ac\u2009302.00 / \u20b9\u200911,999"
+     "Price": "$\u2009239.00 / \u00a3\u2009239.99 / \u20ac\u2009299.00 / \u20b9\u200911,499"
     }
    ],
    "Tests": [
@@ -4707,7 +4722,7 @@
      "Colors": "Black, Gold, Blue, Red, Rose Gold",
      "Models": "M1804D2SG, M1804D2SI",
      "SAR": "0.96 W/kg (head) \u00a0 \u00a0 0.64 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009142.99 / \u00a3\u2009149.99 / \u20ac\u2009175.00 / \u20b9\u20098,199"
+     "Price": "$\u2009142.99 / \u00a3\u2009124.99 / \u20ac\u2009182.00 / \u20b9\u20098,630"
     }
    ],
    "Tests": [
@@ -4818,7 +4833,7 @@
      "Colors": "Black, Blue, Gold (Global); Rose Gold, Red (China only)",
      "Models": "M1805D1SG",
      "SAR": "0.55 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009132.99 / \u00a3\u2009159.00 / \u20ac\u2009222.66 / \u20b9\u20097,998"
+     "Price": "$\u2009132.99 / \u00a3\u2009199.99 / \u20ac\u2009211.02 / \u20b9\u20097,478"
     }
    ],
    "Tests": [
@@ -4931,7 +4946,7 @@
      "Colors": "Black, Champagne Gold, Blue",
      "Models": "M1804E4A",
      "SAR": "1.58 W/kg (head) \u00a0 \u00a0 1.42 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009153.99 / \u00a3\u2009134.99 / \u20ac\u2009238.76"
+     "Price": "$\u2009153.99 / \u00a3\u2009134.99"
     }
    ],
    "Tests": [
@@ -5239,7 +5254,7 @@
      "Colors": "Black, Grey, Blue, Gold, Rose Gold",
      "Models": "M1804C3DG, M1804C3DH, M1804C3DI",
      "SAR": "0.55 W/kg (head) \u00a0 \u00a0 1.42 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009107.63 / \u00a3\u2009109.99 / \u20b9\u20097,490"
+     "Price": "$\u2009103.99 / \u00a3\u2009109.99 / \u20b9\u20097,299"
     }
    ]
   }
@@ -5339,7 +5354,7 @@
      "Colors": "Black, Grey, Blue, Gold, Rose Gold",
      "Models": "M1804C3CG, M1804C3CH, M1804C3CI",
      "SAR": "0.66 W/kg (head) \u00a0 \u00a0 1.52 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "\u00a3\u200972.64 / \u20b9\u20095,470"
+     "Price": "\u00a3\u200973.86 / \u20b9\u20095,399"
     }
    ]
   }
@@ -5545,7 +5560,7 @@
      "Colors": "Black, Blue, White, Gold",
      "Models": "M1803E1A",
      "SAR": "0.70 W/kg (head) \u00a0 \u00a0 1.66 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009224.99 / \u00a3\u2009208.99"
+     "Price": "$\u2009224.99 / \u00a3\u2009244.99"
     }
    ],
    "Tests": [
@@ -5769,7 +5784,7 @@
      "Colors": "Gray, Gold, Rose Gold, Mesmerising Blue, Stunning Black",
      "Models": "M1803E6G, M1803E6H, M1803E6I",
      "SAR": "0.43 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u200984.93 / \u00a3\u2009175.42 / \u20ac\u2009170.40 / \u20b9\u20098,599"
+     "Price": "$\u2009105.99 / \u00a3\u2009121.95 / \u20ac\u2009173.35 / \u20b9\u20097,970"
     }
    ],
    "Tests": [
@@ -5882,7 +5897,7 @@
      "Colors": "Black, White",
      "Models": "M1803D5XA",
      "SAR": "0.54 W/kg (head) \u00a0 \u00a0 1.59 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "About 400 EUR"
+     "Price": "$\u2009229.99 / \u00a3\u2009215.00 / \u20ac\u2009289.00 / \u20b9\u200945,000"
     }
    ],
    "Tests": [
@@ -6309,7 +6324,7 @@
      "Colors": "Black, Gold, Blue, Rose Gold",
      "Models": "MEG7, MEI7",
      "SAR": "1.01 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009152.99 / \u00a3\u2009117.61 / \u20b9\u20098,980"
+     "Price": "$\u2009152.99 / \u00a3\u2009110.55 / \u20b9\u20098,855"
     }
    ],
    "Tests": [
@@ -6422,7 +6437,7 @@
      "Colors": "Black, Gold, Light Blue, Rose Gold",
      "Models": "MDG1, MDI1",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 1.53 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009127.99 / \u20b9\u20098,308"
+     "Price": "$\u2009127.99 / \u20b9\u20097,990"
     }
    ],
    "Tests": [
@@ -6533,7 +6548,7 @@
      "Colors": "Gold, Dark Gray, Rose Gold, Blue",
      "Models": "MCG3B, MCI3B",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 1.23 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009129.99 / \u00a3\u200998.96 / \u20b9\u20095,999"
+     "Price": "$\u2009129.99 / \u00a3\u2009118.80 / \u20b9\u20095,999"
     }
    ]
   }
@@ -7069,7 +7084,7 @@
      "Colors": "Black, Gold, Rose Gold, Red",
      "Models": "MDG2, MDI2",
      "SAR": "1.75 W/kg (head) \u00a0 \u00a0 0.76 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009169.99 / \u00a3\u2009144.05"
+     "Price": "$\u2009169.99 / \u00a3\u2009148.15"
     }
    ],
    "Tests": [
@@ -7817,7 +7832,7 @@
      "Colors": "Dark Gray, Gold, Black, Lake Blue (64/4GB model)",
      "Models": "2016100",
      "SAR": "0.72 W/kg (head) \u00a0 \u00a0 0.67 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009219.99 / \u00a3\u2009359.99 / \u20b9\u20097,249"
+     "Price": "$\u2009219.99 / \u00a3\u2009359.99 / \u20b9\u20097,290"
     }
    ],
    "Tests": [
@@ -12376,205 +12391,6 @@
   }
  },
  {
-  "name": "Xiaomi Mi Note Plus",
-  "codename": "",
-  "picture": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
-  "url": "https://www.gsmarena.com/xiaomi_mi_note_plus-6960.php",
-  "specs": {
-   "Network": [
-    {
-     "Technology": "GSM / HSPA / LTE",
-     "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
-     "3G bands": " HSDPA",
-     "4G bands": " LTE - SIM 1 & SIM 2",
-     "Speed": "HSPA, LTE Cat4 150/50 Mbps",
-     "GPRS": "Yes",
-     "EDGE": "Yes"
-    }
-   ],
-   "Launch": [
-    {
-     "Announced": "Not announced yet",
-     "Status": "Cancelled"
-    }
-   ],
-   "Body": [
-    {
-     "Dimensions": "-",
-     "Weight": "-",
-     "Build": "Corning Gorilla Glass 3 back panel",
-     "SIM": "Dual SIM (Micro-SIM/Nano-SIM, dual stand-by)"
-    }
-   ],
-   "Display": [
-    {
-     "Type": "IPS LCD capacitive touchscreen, 16M colors",
-     "Size": "5.7 inches, 89.6 cm2",
-     "Resolution": "1440 x 2560 pixels, 16:9 ratio (~515 ppi density)",
-     "Protection": "Corning Gorilla Glass 3"
-    }
-   ],
-   "Platform": [
-    {
-     "OS": "Android 4.4.4 (KitKat)",
-     "Chipset": "Qualcomm MSM8994 Snapdragon 810 (20 nm)",
-     "CPU": "Octa-core (4x1.5 GHz Cortex-A53 & 4x2.0 GHz Cortex-A57)",
-     "GPU": "Adreno 430"
-    }
-   ],
-   "Memory": [
-    {
-     "Card slot": "No",
-     "Internal": "64GB 3GB RAM"
-    }
-   ],
-   "Main Camera": [
-    {
-     "Single": "13 MP, f/2.0, AF",
-     "Features": "Dual-LED dual-tone flash, HDR, panorama",
-     "Video": "1080p@30fps"
-    }
-   ],
-   "Selfie camera": [
-    {
-     "Single": "4 MP, f/2.0, 1/3\", 2\u00b5m",
-     "Video": "1080p@30fps"
-    }
-   ],
-   "Sound": [
-    {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
-    }
-   ],
-   "Comms": [
-    {
-     "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
-     "Bluetooth": "4.0, A2DP, LE",
-     "GPS": "Yes, with A-GPS, GLONASS, BDS",
-     "NFC": "TBC",
-     "Radio": "To be confirmed",
-     "USB": "microUSB 2.0, USB On-The-Go"
-    }
-   ],
-   "Features": [
-    {
-     "Sensors": "Accelerometer, proximity, compass"
-    }
-   ],
-   "Battery": [
-    {
-     "info": "Non-removable Li-Ion battery",
-     "Charging": "Fast battery charging 18W (Quick Charge 2.0)"
-    }
-   ],
-   "Misc": [
-    {
-     "Colors": "Black, White"
-    }
-   ]
-  }
- },
- {
-  "name": "Xiaomi Redmi Pro 2",
-  "codename": "",
-  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pro-2-r1.jpg",
-  "url": "https://www.gsmarena.com/xiaomi_redmi_pro_2-8558.php",
-  "specs": {
-   "Network": [
-    {
-     "Technology": "GSM / HSPA / LTE",
-     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-     "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
-     "4G bands": " LTE (unspecified)",
-     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (5CA) Cat18 1200/150 Mbps"
-    }
-   ],
-   "Launch": [
-    {
-     "Announced": "Not announced yet",
-     "Status": "Cancelled"
-    }
-   ],
-   "Body": [
-    {
-     "Dimensions": "-",
-     "Weight": "-",
-     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
-    }
-   ],
-   "Display": [
-    {
-     "Type": "AMOLED capacitive touchscreen, 16M colors",
-     "Size": "6.39 inches, 100.2 cm2",
-     "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)"
-    }
-   ],
-   "Platform": [
-    {
-     "OS": "Android 9.0 (Pie)",
-     "Chipset": "Qualcomm SM8150 Snapdragon 855 (7 nm)",
-     "CPU": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)",
-     "GPU": "Adreno 640"
-    }
-   ],
-   "Memory": [
-    {
-     "Card slot": "microSD",
-     "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM"
-    }
-   ],
-   "Main Camera": [
-    {
-     "Triple": "48 MP, 1/2.0\", (wide), 0.8\u00b5m, PDAF\r\nSecondary unknown camera\r\nThird unknown camera",
-     "Features": "Dual-LED dual-tone flash, HDR, panorama",
-     "Video": "2160p@30fps, 1080p@30fps"
-    }
-   ],
-   "Selfie camera": [
-    {
-     "Single": "Motorized pop-up 20 MP, f/2.0, (wide), 1/2.8\", 1.0\u03bcm",
-     "Video": ""
-    }
-   ],
-   "Sound": [
-    {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
-    }
-   ],
-   "Comms": [
-    {
-     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
-     "Bluetooth": "5.0, A2DP, LE",
-     "GPS": "Yes, with dual-band A-GPS, GLONASS, BDS, GALILEO, QZSS",
-     "NFC": "Yes",
-     "Infrared port": "Yes",
-     "Radio": "No",
-     "USB": "Type-C 1.0 reversible connector"
-    }
-   ],
-   "Features": [
-    {
-     "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-    }
-   ],
-   "Battery": [
-    {
-     "info": "Non-removable Li-Po 3600 mAh battery",
-     "Charging": "Fast battery charging 27W"
-    }
-   ],
-   "Misc": [
-    {
-     "Colors": "Red, Blue, Black"
-    }
-   ]
-  }
- },
- {
   "name": "Xiaomi Mi 6c",
   "codename": "",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
@@ -12668,6 +12484,107 @@
    "Misc": [
     {
      "Colors": "Black, Gold, Rose Gold"
+    }
+   ]
+  }
+ },
+ {
+  "name": "Xiaomi Mi 9X",
+  "codename": "",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9-.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_mi_9x-9650.php",
+  "specs": {
+   "Network": [
+    {
+     "Technology": "GSM / CDMA / HSPA / LTE",
+     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+     "info": "CDMA 800 & TD-SCDMA",
+     "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
+     "4G bands": " LTE (unspecified)",
+     "Speed": "HSPA, LTE-A"
+    }
+   ],
+   "Launch": [
+    {
+     "Announced": "Not announced yet",
+     "Status": "Cancelled"
+    }
+   ],
+   "Body": [
+    {
+     "Dimensions": "-",
+     "Weight": "-",
+     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+    }
+   ],
+   "Display": [
+    {
+     "Type": "Super AMOLED capacitive touchscreen, 16M colors",
+     "Size": "6.39 inches, 100.2 cm2",
+     "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
+     "info": "DCI-P3"
+    }
+   ],
+   "Platform": [
+    {
+     "OS": "Android 9.0 (Pie); MIUI 10",
+     "Chipset": "Qualcomm SDM675 Snapdragon 675 (11 nm)",
+     "CPU": "Octa-core (2x2.0 GHz Kryo 460 Gold & 6x1.7 GHz Kryo 460 Silver)",
+     "GPU": "Adreno 612"
+    }
+   ],
+   "Memory": [
+    {
+     "Card slot": "No",
+     "Internal": "64GB 6GB RAM"
+    }
+   ],
+   "Main Camera": [
+    {
+     "Triple": "48 MP, f/1.8, 27mm (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, (telephoto), PDAF, 2x optical zoom\r\n13 MP, (wide)",
+     "Features": "Dual-LED flash, HDR, panorama",
+     "Video": "2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
+    }
+   ],
+   "Selfie camera": [
+    {
+     "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8\u00b5m",
+     "Features": "HDR",
+     "Video": "1080p@30fps"
+    }
+   ],
+   "Sound": [
+    {
+     "Loudspeaker ": "Yes",
+     "3.5mm jack ": "No",
+     "info": "Active noise cancellation with dedicated mic"
+    }
+   ],
+   "Comms": [
+    {
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot",
+     "Bluetooth": "5.0, A2DP, LE, aptX HD",
+     "GPS": "Yes, with A-GPS, GLONASS, GALILEO",
+     "NFC": "Yes",
+     "Infrared port": "Yes",
+     "Radio": "No",
+     "USB": "2.0, Type-C 1.0 reversible connector, USB On-The-Go"
+    }
+   ],
+   "Features": [
+    {
+     "Sensors": "Fingerprint, accelerometer, gyro, proximity, compass"
+    }
+   ],
+   "Battery": [
+    {
+     "info": "Non-removable Li-Po 3300 mAh battery",
+     "Charging": "Fast battery charging 18W"
+    }
+   ],
+   "Misc": [
+    {
+     "Colors": "Various"
     }
    ]
   }
@@ -12770,6 +12687,108 @@
     {
      "Colors": "Black, Champagne Gold, Blue",
      "Price": "About 300 EUR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "Xiaomi Mi Max 4 Pro",
+  "codename": "",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_mi_max_4_pro-9552.php",
+  "specs": {
+   "Network": [
+    {
+     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
+     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+     "info": "CDMA2000 1xEV-DO ",
+     "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
+     "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
+     "Speed": "HSPA, LTE"
+    }
+   ],
+   "Launch": [
+    {
+     "Announced": "Not announced yet",
+     "Status": "Cancelled"
+    }
+   ],
+   "Body": [
+    {
+     "Dimensions": "-",
+     "Weight": "-",
+     "Build": "Front glass, aluminum body",
+     "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)"
+    }
+   ],
+   "Display": [
+    {
+     "Type": "IPS LCD capacitive touchscreen, 16M colors",
+     "Size": "7.2 inches, 128.3 cm2",
+     "Resolution": "1080 x 2310 pixels (~354 ppi density)",
+     "Protection": "Corning Gorilla Glass 5"
+    }
+   ],
+   "Platform": [
+    {
+     "OS": "Android 9.0 (Pie); MIUI 11",
+     "Chipset": "Qualcomm SDM675 Snapdragon 675 (11 nm)",
+     "CPU": "Octa-core (2x2.0 GHz Kryo 460 Gold & 6x1.7 GHz Kryo 460 Silver)",
+     "GPU": "Adreno 612"
+    }
+   ],
+   "Memory": [
+    {
+     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM"
+    }
+   ],
+   "Main Camera": [
+    {
+     "Dual": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n20 MP",
+     "Features": "Dual-LED flash, HDR, panorama",
+     "Video": "2160p@30fps, 720p/1080p@30fps (gyro-EIS), 960fps"
+    }
+   ],
+   "Selfie camera": [
+    {
+     "Single": "8 MP, f/2.0, 1/4\", 1.12\u00b5m",
+     "Features": "HDR",
+     "Video": "1080p@30fps"
+    }
+   ],
+   "Sound": [
+    {
+     "Loudspeaker ": "Yes, with stereo speakers",
+     "3.5mm jack ": "Yes",
+     "info": "Active noise cancellation with dedicated mic"
+    }
+   ],
+   "Comms": [
+    {
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot",
+     "Bluetooth": "5.0, A2DP, LE",
+     "GPS": "Yes, with A-GPS, GLONASS, BDS",
+     "Infrared port": "Yes",
+     "Radio": "No",
+     "USB": "Type-C 1.0 reversible connector"
+    }
+   ],
+   "Features": [
+    {
+     "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    }
+   ],
+   "Battery": [
+    {
+     "info": "Non-removable Li-Po 5800 mAh battery",
+     "Charging": "Fast battery charging 18W"
+    }
+   ],
+   "Misc": [
+    {
+     "Colors": "Black, Champagne Gold, Blue",
+     "Price": "About 350 EUR"
     }
    ]
   }
