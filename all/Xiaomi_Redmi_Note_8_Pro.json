@@ -23,7 +23,7 @@
    {
     "Dimensions": "161.4 x 76.4 x 8.8 mm (6.35 x 3.01 x 0.35 in)",
     "Weight": "200 g (7.05 oz)",
-    "Build": "Front/back glass (Gorilla Glass 5)",
+    "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), plastic frame",
     "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)"
    }
   ],
@@ -97,10 +97,10 @@
   "Misc": [
    {
     "Colors": "Black, Red, Blue, White, Deep Sea Blue, Midnight Blue, Electric Blue",
-    "Models": "2015105, M1906G7I",
-    "SAR": "1.13 W/kg (head) \u00a0 \u00a0 0.63 W/kg (body) \u00a0 \u00a0 ",
-    "SAR EU": "0.38 W/kg (head) \u00a0 \u00a0 0.80 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009181.99 / \u00a3\u2009179.00 / \u20ac\u2009222.90 / \u20b9\u200914,999"
+    "Models": "2015105, M1906G7I, M1906G7G",
+    "SAR": "1.15 W/kg (head) \u00a0 \u00a0 1.18 W/kg (body) \u00a0 \u00a0 ",
+    "SAR EU": "1.00 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
+    "Price": "$\u2009181.99 / \u00a3\u2009178.99 / \u20ac\u2009222.90 / \u20b9\u200914,999"
    }
   ],
   "Tests": [
