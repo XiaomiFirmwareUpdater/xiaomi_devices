@@ -76,6 +76,8 @@ tucana_eea_global - F
 tucana_global - F
 tucana_in_global - F
 tucana_ru_global - F
+tulip_global - F
+tulip_ru_global - F
 ugg_global - F
 ugglite_global - F
 vince_global - F
