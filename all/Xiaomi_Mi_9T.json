@@ -38,7 +38,7 @@
   ],
   "Platform": [
    {
-    "OS": "Android 9.0 (Pie); MIUI 10",
+    "OS": "Android 9.0 (Pie), upgradable to Android 10.0; MIUI 11",
     "Chipset": "Qualcomm SDM730 Snapdragon 730 (8 nm)",
     "CPU": "Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)",
     "GPU": "Adreno 618"
@@ -97,7 +97,7 @@
     "Colors": "Carbon black, Red flame, Glacier blue",
     "Models": "M1903F10G",
     "SAR EU": "1.34 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "\u20ac\u2009299.00 / $\u2009266.99 / \u00a3\u2009255.99"
+    "Price": "$\u2009266.99 / \u00a3\u2009255.99 / \u20ac\u2009299.00"
    }
   ],
   "Tests": [
