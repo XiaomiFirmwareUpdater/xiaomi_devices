@@ -23,6 +23,10 @@
   "Mi Pad 4 / Plus",
   "MIPAD4"
  ],
+ "crux": [
+  "Mi 9 Pro 5G",
+  "MI9Pro5G"
+ ],
  "davinci": [
   "Redmi K20 / Mi 9T",
   "HMK20MI9T"
@@ -42,6 +46,10 @@
  "grus": [
   "Mi 9 SE",
   "MI9SE"
+ ],
+ "ginkgo": [
+  "Redmi Note 8",
+  "HMNote8"
  ],
  "helium": [
   "Mi Max Pro",
@@ -75,6 +83,10 @@
   "Mi MIX",
   "MIMIX"
  ],
+ "laurus": [
+  "Mi CC 9e",
+  "MICC9e"
+ ],
  "markw": [
   "Redmi 4 Prime/Pro",
   "HM4Pro"
@@ -107,6 +119,10 @@
   "Redmi 7",
   "HM7"
  ],
+ "olive": [
+  "Redmi 8",
+  "HM8"
+ ],
  "oxygen": [
   "Mi Max 2",
   "MIMAX2"
@@ -131,9 +147,13 @@
   "Redmi 4",
   "HM4"
  ],
+ "phoenix": [
+  "Redmi K30",
+  "HMK30"
+ ],
  "pyxis": [
   "Mi CC9",
-  "MiCC9"
+  "MI9LiteMiCC9"
  ],
  "raphael": [
   "Redmi K20 Pro / Mi 9T Pro",
@@ -175,6 +195,10 @@
   "Mi 5X ",
   "MI5X"
  ],
+ "tucana": [
+  "MI NOTE 10 / MI CC 9 Pro",
+  "MiNote10_CC9Pro"
+ ],
  "tulip": [
   "Redmi Note 6 Pro",
   "HMNote6Pro"
@@ -206,6 +230,10 @@
  "whyred": [
   "Redmi Note 5",
   "HMNote5Pro"
+ ],
+ "willow": [
+  "Redmi Note 8T",
+  "HMNote8T"
  ],
  "ysl": [
   "Redmi S2",
