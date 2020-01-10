@@ -123,6 +123,10 @@
   "Redmi 8",
   "HM8"
  ],
+ "olivelite": [
+  "Redmi 8A",
+  "HM8A"
+ ],
  "oxygen": [
   "Mi Max 2",
   "MIMAX2"
@@ -197,7 +201,7 @@
  ],
  "tucana": [
   "MI NOTE 10 / MI CC 9 Pro",
-  "MINote10_MICC9Pro"
+  "MINote10"
  ],
  "tulip": [
   "Redmi Note 6 Pro",
