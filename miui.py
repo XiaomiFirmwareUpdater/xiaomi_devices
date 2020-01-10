@@ -24,6 +24,7 @@ def main():
         version = i['version']
         miui_code = version.split('.')[-1][1:5]
         info.update({codename: miui_code})
+    info.update({"HM2013023": "HBMI", "lcsh92_wet_jb9_global": "HDMI"})
     sorted_data = OrderedDict(sorted(info.items()))
     with open('miui.json', 'w') as output:
         json.dump(sorted_data, output, indent=1)

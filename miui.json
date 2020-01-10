@@ -1,4 +1,5 @@
 {
+ "HM2013023": "HBMI",
  "HM2013023_sg_global": "HBMI",
  "HM2014011": "HFCN",
  "HM2014501": "HHCN",
@@ -74,6 +75,7 @@
  "hydrogen": "BCCN",
  "hydrogen_global": "BCMI",
  "ido_xhdpi": "AICN",
+ "ido_xhdpi_global": "AIMI",
  "jasmine_global": "DIMI",
  "jason": "CHCN",
  "jason_global": "CHMI",
@@ -91,6 +93,7 @@
  "lavender_in_global": "FGIN",
  "lavender_ru_global": "FGRU",
  "lcsh92_wet_jb9": "HDCN",
+ "lcsh92_wet_jb9_global": "HDMI",
  "lcsh92_wet_tdd": "HECN",
  "leo": "XHCN",
  "libra": "XKCN",
