@@ -32,8 +32,8 @@
   "Display": [
    {
     "Type": "IPS LCD capacitive touchscreen, 16M colors",
-    "Size": "6.2 inches, 95.9 cm2 (~81.3% screen-to-body ratio)",
-    "Resolution": "720 x 1520 pixels, 19:9 ratio (~271 ppi density)",
+    "Size": "6.22 inches, 96.6 cm2 (~81.8% screen-to-body ratio)",
+    "Resolution": "720 x 1520 pixels, 19:9 ratio (~270 ppi density)",
     "Protection": "Corning Gorilla Glass 5",
     "info": "400 nits typ. brightness"
    }
@@ -55,7 +55,7 @@
   "Main Camera": [
    {
     "Single": "12 MP, f/1.8, 1/2.55\", 1.4\u00b5m, dual pixel PDAF",
-    "Features": "LED flash, HDR",
+    "Features": "LED flash, HDR, panorama",
     "Video": "1080p@30fps"
    }
   ],
