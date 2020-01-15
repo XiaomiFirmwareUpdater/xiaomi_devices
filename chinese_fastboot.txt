@@ -42,13 +42,13 @@ onclite - F
 oxygen - F
 perseus - F
 phoenix - F
+picasso - F
 pine - F
 platina - F
 polaris - F
 prada - F
 pyxis - F
 raphael - F
-raphaels - F
 riva - F
 rolex - F
 rosy - F
