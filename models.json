@@ -1095,11 +1095,12 @@
   }
  },
  {
-  "codename": "",
+  "codename": "shark",
   "internal_name": "",
-  "name": "Black Shark",
+  "name": "Black Shark (`shark`)",
   "models": {
-   "SKR-A0": "Black Shark"
+   "SKR-H0": "Black Shark Global",
+   "SKR-A0": "Black Shark China"
   }
  },
  {
@@ -1107,23 +1108,25 @@
   "internal_name": "",
   "name": "Black Shark Helo",
   "models": {
-   "AWM-A0": "Black Shark Helo"
+   "AWM-A0": "Black Shark Helo China"
   }
  },
  {
-  "codename": "",
+  "codename": "skywalker",
   "internal_name": "",
-  "name": "Black Shark 2",
+  "name": "Black Shark 2 (`skywalker`)",
   "models": {
-   "SKW-A0": "Black Shark 2"
+   "SKW-H0": "Black Shark 2 Global",
+   "SKW-A0": "Black Shark 2 China"
   }
  },
  {
-  "codename": "",
+  "codename": "darklighter",
   "internal_name": "",
-  "name": "Black Shark 2 Pro",
+  "name": "Black Shark 2 Pro (`darklighter`)",
   "models": {
-   "DLT-A0": "Black Shark 2 Pro"
+   "DLT-H0": "Black Shark 2 Pro Global",
+   "DLT-A0": "Black Shark 2 Pro China"
   }
  }
 ]
