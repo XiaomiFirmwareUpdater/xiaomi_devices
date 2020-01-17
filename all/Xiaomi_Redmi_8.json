@@ -54,7 +54,7 @@
   ],
   "Main Camera": [
    {
-    "Single": "12 MP, f/1.8, 1/2.55\", 1.4\u00b5m, Dual Pixel PDAF\r\n2 MP, depth sensor",
+    "Single": "12 MP, f/1.8, 1/2.55\", 1.4\u00b5m, Dual Pixel PDAF\r\n2 MP, 1/5.0\", 1.75\u00b5m, depth sensor",
     "Features": "LED flash, HDR, panorama",
     "Video": "1080p@30fps"
    }

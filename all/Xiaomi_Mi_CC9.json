@@ -49,12 +49,12 @@
    {
     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM",
-    "info": "UFS2.1"
+    "info": "UFS 2.1"
    }
   ],
   "Main Camera": [
    {
-    "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, depth sensor",
+    "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, 1/5.0\", 1.75\u00b5m, depth sensor",
     "Features": "LED flash, HDR, panorama",
     "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps"
    }

@@ -51,7 +51,7 @@
   ],
   "Main Camera": [
    {
-    "Dual": "12 MP, f/1.9, 1/2.55\", 1.4\u00b5m, dual pixel PDAF\r\n5 MP, f/2.0, 1/5\", 1.12\u00b5m, depth sensor",
+    "Dual": "12 MP, f/1.9, 1/2.55\", 1.4\u00b5m, dual pixel PDAF\r\n5 MP, f/2.0, 1/5.0\", 1.12\u00b5m, depth sensor",
     "Features": "LED flash, HDR, panorama",
     "Video": "2160p@30fps, 1080p@60/120fps, 1080p@30fps (gyro-EIS)"
    }
@@ -95,7 +95,7 @@
     "Colors": "Midnight Black, Aurora Blue, Twilight Gold (China only)",
     "Models": "M1808D2TG",
     "SAR": "0.75 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009138.99 / \u00a3\u2009170.87"
+    "Price": "$\u2009142.99 / \u00a3\u2009170.87"
    }
   ],
   "Tests": [

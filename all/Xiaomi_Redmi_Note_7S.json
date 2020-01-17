@@ -52,7 +52,7 @@
   ],
   "Main Camera": [
    {
-    "Dual": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n5 MP, f/2.2, depth sensor",
+    "Dual": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n5 MP, f/2.2, 1/5.0\", 1.12\u00b5m, depth sensor",
     "Features": "Dual-LED flash, HDR, panorama",
     "Video": "1080p@30/60/120fps, (gyro-EIS)"
    }
@@ -96,7 +96,7 @@
    {
     "Colors": "Onyx Black, Sapphire Blue, Ruby Red, Astro White",
     "Models": "M1901F71",
-    "Price": "\u20b9\u20098,999"
+    "Price": "\u20b9\u20098,989"
    }
   ]
  }

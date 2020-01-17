@@ -51,7 +51,7 @@
   ],
   "Main Camera": [
    {
-    "Dual": "12 MP, f/2.2, 1/2.9\", 1.25\u00b5m, PDAF\r\n5 MP, f/2.0, 1.12\u00b5m, depth sensor",
+    "Dual": "12 MP, f/2.2, 1/2.9\", 1.25\u00b5m, PDAF\r\n5 MP, f/2.0, 1/5.0\", 1.12\u00b5m, depth sensor",
     "Features": "Dual-LED flash, panorama, HDR",
     "Video": "1080p@30fps"
    }
@@ -96,7 +96,7 @@
     "Colors": "Black, Champagne Gold, Rose Gold, Lake Blue",
     "Models": "MEI7S, MEI7",
     "SAR": "1.19 W/kg (head) \u00a0 \u00a0 0.33 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "\u20b9\u20097,798"
+    "Price": "\u20b9\u20097,799"
    }
   ]
  }

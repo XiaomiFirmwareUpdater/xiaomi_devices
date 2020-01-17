@@ -51,7 +51,7 @@
   ],
   "Main Camera": [
    {
-    "Dual": "12 MP, f/2.2, 1.25 \u03bcm, PDAF\r\n5 MP, f/2.2, 1.12 \u03bcm, depth sensor",
+    "Dual": "12 MP, f/2.2, 1.25 \u03bcm, PDAF\r\n5 MP, f/2.2, 1/5.0\", 1.12\u00b5m, depth sensor",
     "Features": "LED flash, HDR, panorama",
     "Video": "1080p@30fps"
    }
@@ -93,7 +93,7 @@
     "Colors": "Black, Grey, Blue, Gold, Rose Gold",
     "Models": "M1804C3DG, M1804C3DH, M1804C3DI",
     "SAR": "0.55 W/kg (head) \u00a0 \u00a0 1.42 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009107.63 / \u00a3\u2009109.99 / \u20ac\u2009151.61 / \u20b9\u20096,999"
+    "Price": "$\u2009103.99 / \u00a3\u2009109.99 / \u20ac\u2009151.61 / \u20b9\u20096,999"
    }
   ]
  }

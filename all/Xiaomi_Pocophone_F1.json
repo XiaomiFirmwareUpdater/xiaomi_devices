@@ -51,7 +51,7 @@
   ],
   "Main Camera": [
    {
-    "Dual": "12 MP, f/1.9, 1/2.55\", 1.4\u00b5m, dual pixel PDAF\r\n5 MP, f/2.0, 1.12\u00b5m, depth sensor",
+    "Dual": "12 MP, f/1.9, 1/2.55\", 1.4\u00b5m, dual pixel PDAF\r\n5 MP, f/2.0, 1/5.0\", 1.12\u00b5m, depth sensor",
     "Features": "Dual-LED flash, HDR, panorama",
     "Video": "2160p@30/60fps, 1080p@30fps (gyro-EIS), 1080p@240fps, 720p@960fps"
    }
@@ -95,7 +95,7 @@
     "Colors": "Graphite Black, Steel Blue, Rosso Red, Armored Edition with Kevlar",
     "Models": "M1805E10A",
     "SAR": "0.54 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009239.00 / \u00a3\u2009243.41 / \u20b9\u200911,349"
+    "Price": "$\u2009239.00 / \u00a3\u2009239.99 / \u20b9\u200911,349"
    }
   ],
   "Tests": [

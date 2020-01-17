@@ -53,7 +53,7 @@
   ],
   "Main Camera": [
    {
-    "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, depth sensor",
+    "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, 1/5.0\", 1.75\u00b5m, depth sensor",
     "Features": "LED flash, HDR, panorama",
     "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps"
    }
@@ -100,7 +100,7 @@
     "Models": "M1904F3BG",
     "SAR": "1.19 W/kg (head) \u00a0 \u00a0 1.15 W/kg (body) \u00a0 \u00a0 ",
     "SAR EU": "1.42 W/kg (head) \u00a0 \u00a0 1.40 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009233.00 / \u00a3\u2009215.00 / \u20ac\u2009255.99"
+    "Price": "$\u2009233.00 / \u00a3\u2009209.99 / \u20ac\u2009262.78"
    }
   ],
   "Tests": [
