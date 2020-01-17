@@ -438,6 +438,12 @@
   }
  },
  {
+  "lotus": {
+   "name": "MI PLAY",
+   "model": "MI PLAY"
+  }
+ },
+ {
   "sagit": {
    "name": "MI6",
    "model": "MI 6"
@@ -552,6 +558,24 @@
   }
  },
  {
+  "pyxis": {
+   "name": "Mi 9 Lite",
+   "model": "Mi 9 Lite"
+  }
+ },
+ {
+  "grus": {
+   "name": "Mi 9 SE",
+   "model": "MI 9 SE"
+  }
+ },
+ {
+  "grus": {
+   "name": "Mi 9 SE",
+   "model": "Mi 9 SE"
+  }
+ },
+ {
   "davinci": {
    "name": "Mi 9T",
    "model": "Mi 9T"
@@ -618,9 +642,21 @@
   }
  },
  {
+  "tucana": {
+   "name": "Mi Note 10",
+   "model": "Mi Note 10"
+  }
+ },
+ {
   "scorpio": {
    "name": "Mi Note2",
    "model": "Mi Note 2"
+  }
+ },
+ {
+  "crux": {
+   "name": "Mi9 Pro 5G",
+   "model": "Mi9 Pro 5G"
   }
  },
  {
@@ -705,6 +741,12 @@
   "entrapment": {
    "name": "MiTV2",
    "model": "MiTV2"
+  }
+ },
+ {
+  "matrix": {
+   "name": "MiTV4C",
+   "model": "MiTV4C"
   }
  },
  {
