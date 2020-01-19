@@ -51,7 +51,7 @@
   ],
   "Main Camera": [
    {
-    "Dual": "13 MP, f/2.0, PDAF\r\n5 MP, depth sensor",
+    "Dual": "13 MP, f/2.0, PDAF\r\n5 MP, f/2.4, 1/5.0\", 1.12\u00b5m, depth sensor",
     "Features": "Dual-LED dual-tone flash, HDR, panorama",
     "Video": "1080p@30fps, 720p@120fps"
    }
