@@ -17,7 +17,7 @@
   "Launch": [
    {
     "Announced": "2019, December",
-    "Status": "Coming soon. Exp. release 2020, January 7"
+    "Status": "Available. Released 2020, January"
    }
   ],
   "Body": [
@@ -47,14 +47,14 @@
   ],
   "Memory": [
    {
-    "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+    "Card slot": "microSDXC (uses shared SIM slot)",
     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
     "info": "UFS 2.1\n\n"
    }
   ],
   "Main Camera": [
    {
-    "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.7\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m, depth sensor",
+    "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.7\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n5 MP, f/2.4, 1/5.0\", 1.12\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m, depth sensor",
     "Features": "Dual-LED flash, HDR, panorama",
     "Video": "2160p@30fps, 1080p@30/120fps, 720p@960fps"
    }
@@ -70,7 +70,7 @@
    {
     "Loudspeaker ": "Yes",
     "3.5mm jack ": "Yes",
-    "info": "24-bit/192kHz audio\r\nActive noise cancellation with dedicated mic"
+    "info": "24-bit/192kHz audio\n"
    }
   ],
   "Comms": [

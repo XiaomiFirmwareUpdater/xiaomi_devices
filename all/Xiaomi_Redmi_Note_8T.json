@@ -45,7 +45,7 @@
   ],
   "Memory": [
    {
-    "Card slot": "microSD, up to 256 GB (dedicated slot)",
+    "Card slot": "microSDXC (dedicated slot)",
     "Internal": "32GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM"
    }
   ],
@@ -66,8 +66,7 @@
   "Sound": [
    {
     "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes",
-    "info": "Active noise cancellation with dedicated mic"
+    "3.5mm jack ": "Yes"
    }
   ],
   "Comms": [
@@ -95,7 +94,7 @@
   "Misc": [
    {
     "Colors": "Starscape Blue, Moonlight White, Moonshadow Grey",
-    "Price": "$\u2009158.00 / \u00a3\u2009126.99 / \u20ac\u2009156.05"
+    "Price": "$\u2009148.00 / \u00a3\u2009126.99 / \u20ac\u2009156.89"
    }
   ],
   "Tests": [

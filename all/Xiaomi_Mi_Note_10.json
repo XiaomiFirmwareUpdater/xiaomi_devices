@@ -68,7 +68,7 @@
    {
     "Loudspeaker ": "Yes",
     "3.5mm jack ": "Yes",
-    "info": "Active noise cancellation with dedicated mic\r\n24-bit/192kHz audio"
+    "info": "\r\n24-bit/192kHz audio"
    }
   ],
   "Comms": [
@@ -99,7 +99,7 @@
     "Models": "M1910F4G",
     "SAR": "1.19 W/kg (head) \u00a0 \u00a0 1.18 W/kg (body) \u00a0 \u00a0 ",
     "SAR EU": "1.11 W/kg (head) \u00a0 \u00a0 1.39 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009428.00 / \u00a3\u2009372.00 / \u20ac\u2009459.89"
+    "Price": "$\u2009428.00 / \u00a3\u2009370.00 / \u20ac\u2009469.00"
    }
   ],
   "Tests": [

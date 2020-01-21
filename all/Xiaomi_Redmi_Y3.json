@@ -47,7 +47,7 @@
   ],
   "Memory": [
    {
-    "Card slot": "microSD, up to 1 TB (dedicated slot)",
+    "Card slot": "microSDXC (dedicated slot)",
     "Internal": "32GB 3GB RAM, 64GB 4GB RAM"
    }
   ],
@@ -68,8 +68,7 @@
   "Sound": [
    {
     "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes",
-    "info": "Active noise cancellation with dedicated mic"
+    "3.5mm jack ": "Yes"
    }
   ],
   "Comms": [

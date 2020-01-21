@@ -45,7 +45,7 @@
   ],
   "Memory": [
    {
-    "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+    "Card slot": "microSDXC (uses shared SIM slot)",
     "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM"
    }
   ],
@@ -66,8 +66,7 @@
   "Sound": [
    {
     "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes",
-    "info": "Active noise cancellation with dedicated mic"
+    "3.5mm jack ": "Yes"
    }
   ],
   "Comms": [
@@ -97,7 +96,7 @@
     "Models": "M1906F9SH, M1906F9SI",
     "SAR": "0.53 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
     "SAR EU": "0.30 W/kg (head) \u00a0 \u00a0 1.10 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009160.00 / \u00a3\u2009148.66 / \u20ac\u2009179.90 / \u20b9\u200910,985"
+    "Price": "$\u2009163.00 / \u00a3\u2009148.66 / \u20ac\u2009179.90 / \u20b9\u200910,985"
    }
   ],
   "Tests": [

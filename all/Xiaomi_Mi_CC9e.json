@@ -46,7 +46,7 @@
   ],
   "Memory": [
    {
-    "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+    "Card slot": "microSDXC (uses shared SIM slot)",
     "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM"
    }
   ],
@@ -67,8 +67,7 @@
   "Sound": [
    {
     "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes",
-    "info": "Active noise cancellation with dedicated mic"
+    "3.5mm jack ": "Yes"
    }
   ],
   "Comms": [
