@@ -44,7 +44,7 @@
   ],
   "Memory": [
    {
-    "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+    "Card slot": "microSDXC (uses shared SIM slot)",
     "Internal": "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"
    }
   ],
@@ -65,7 +65,7 @@
    {
     "Loudspeaker ": "Yes",
     "3.5mm jack ": "Yes",
-    "info": "24-bit/192kHz audio\r\nActive noise cancellation with dedicated mic"
+    "info": "24-bit/192kHz audio\n"
    }
   ],
   "Comms": [
@@ -93,7 +93,7 @@
     "Colors": "Dark Gray, Gold, Black, Lake Blue (64/4GB model)",
     "Models": "2016100",
     "SAR": "0.72 W/kg (head) \u00a0 \u00a0 0.67 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "\u00a3\u2009359.99 / \u20b9\u20097,349"
+    "Price": "\u00a3\u2009359.99 / \u20b9\u20096,949"
    }
   ],
   "Tests": [

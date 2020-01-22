@@ -45,7 +45,7 @@
   ],
   "Memory": [
    {
-    "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+    "Card slot": "microSDXC (uses shared SIM slot)",
     "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM, 128GB 6GB RAM"
    }
   ],
@@ -66,8 +66,7 @@
   "Sound": [
    {
     "Loudspeaker ": "Yes",
-    "3.5mm jack ": "No",
-    "info": "Active noise cancellation with dedicated mic"
+    "3.5mm jack ": "No"
    }
   ],
   "Comms": [
@@ -95,7 +94,7 @@
     "Colors": "Midnight Black, Aurora Blue, Twilight Gold (China only)",
     "Models": "M1808D2TG",
     "SAR": "0.75 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009142.99 / \u00a3\u2009170.87"
+    "Price": "$\u2009142.99 / \u00a3\u2009170.32"
    }
   ],
   "Tests": [

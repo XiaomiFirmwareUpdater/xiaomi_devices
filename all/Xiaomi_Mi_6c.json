@@ -51,7 +51,7 @@
   ],
   "Main Camera": [
    {
-    "Dual": "12 MP, 1/2.9\", 1.25\u00b5m, PDAF, OIS\r\n5 MP, depth sensor",
+    "Dual": "12 MP, 1/2.9\", 1.25\u00b5m, PDAF, OIS\r\n5 MP, f/2.4, 1/5.0\", 1.12\u00b5m, depth sensor",
     "Features": "Dual-LED dual-tone flash, HDR, panorama",
     "Video": "1080p@30fps"
    }
@@ -65,8 +65,7 @@
   "Sound": [
    {
     "Loudspeaker ": "Yes",
-    "3.5mm jack ": "No",
-    "info": "Active noise cancellation with dedicated mic"
+    "3.5mm jack ": "No"
    }
   ],
   "Comms": [

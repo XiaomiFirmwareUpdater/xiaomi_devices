@@ -48,14 +48,14 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
-     "info": "UFS2.1\n\n"
+     "info": "UFS 2.1\n\n"
     }
    ],
    "Main Camera": [
     {
-     "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.7\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m, depth sensor",
+     "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.7\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m, depth sensor",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/120fps, 720p@960fps"
     }
@@ -71,7 +71,7 @@
     {
      "Loudspeaker ": "Yes",
      "3.5mm jack ": "Yes",
-     "info": "24-bit/192kHz audio\r\nActive noise cancellation with dedicated mic"
+     "info": "24-bit/192kHz audio\n"
     }
    ],
    "Comms": [
@@ -100,7 +100,7 @@
     {
      "Colors": "Blue, Red, Purple",
      "Models": "M1912G7BE, M1912G7BC",
-     "Price": "$\u2009243.99"
+     "Price": "$\u2009243.69"
     }
    ]
   }
@@ -124,7 +124,7 @@
    "Launch": [
     {
      "Announced": "2019, December",
-     "Status": "Coming soon. Exp. release 2020, January 7"
+     "Status": "Available. Released 2020, January"
     }
    ],
    "Body": [
@@ -154,14 +154,14 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
-     "info": "UFS2.1\n\n"
+     "info": "UFS 2.1\n\n"
     }
    ],
    "Main Camera": [
     {
-     "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.7\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m, depth sensor",
+     "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.7\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n5 MP, f/2.4, 1/5.0\", 1.12\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m, depth sensor",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/120fps, 720p@960fps"
     }
@@ -177,7 +177,7 @@
     {
      "Loudspeaker ": "Yes",
      "3.5mm jack ": "Yes",
-     "info": "24-bit/192kHz audio\r\nActive noise cancellation with dedicated mic"
+     "info": "24-bit/192kHz audio\n"
     }
    ],
    "Comms": [
@@ -258,13 +258,13 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (dedicated slot)",
+     "Card slot": "microSDXC (dedicated slot)",
      "Internal": "32GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM"
     }
    ],
    "Main Camera": [
     {
-     "Quad": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m, depth sensor",
+     "Quad": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m, depth sensor",
      "Features": "LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps; gyro-EIS"
     }
@@ -307,7 +307,7 @@
    "Misc": [
     {
      "Colors": "Starscape Blue, Moonlight White, Moonshadow Grey",
-     "Price": "$\u2009167.45 / \u00a3\u2009136.99 / \u20ac\u2009156.05"
+     "Price": "$\u2009148.00 / \u00a3\u2009126.99 / \u20ac\u2009156.89"
     }
    ],
    "Tests": [
@@ -392,7 +392,7 @@
     {
      "Loudspeaker ": "Yes",
      "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic\r\n24-bit/192kHz audio"
+     "info": "\r\n24-bit/192kHz audio"
     }
    ],
    "Comms": [
@@ -423,7 +423,7 @@
      "Models": "M1910F4S",
      "SAR": "1.19 W/kg (head) \u00a0 \u00a0 1.18 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "1.11 W/kg (head) \u00a0 \u00a0 1.39 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009589.00 / \u00a3\u2009429.99 / \u20ac\u2009607.50"
+     "Price": "$\u2009479.00 / \u00a3\u2009409.99 / \u20ac\u2009525.00"
     }
    ]
   }
@@ -498,7 +498,7 @@
     {
      "Loudspeaker ": "Yes",
      "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic\r\n24-bit/192kHz audio"
+     "info": "\r\n24-bit/192kHz audio"
     }
    ],
    "Comms": [
@@ -529,7 +529,7 @@
      "Models": "M1910F4G",
      "SAR": "1.19 W/kg (head) \u00a0 \u00a0 1.18 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "1.11 W/kg (head) \u00a0 \u00a0 1.39 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009472.37 / \u00a3\u2009380.00 / \u20ac\u2009488.00"
+     "Price": "$\u2009428.00 / \u00a3\u2009370.00 / \u20ac\u2009459.00"
     }
    ],
    "Tests": [
@@ -615,7 +615,7 @@
     {
      "Loudspeaker ": "Yes",
      "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic\r\n24-bit/192kHz audio"
+     "info": "\r\n24-bit/192kHz audio"
     }
    ],
    "Comms": [
@@ -644,7 +644,97 @@
     {
      "Colors": "Aurora Green, Glacier White, Midnight Black",
      "Models": "M1910F4E",
-     "Price": "$\u2009396.99 / \u00a3\u2009429.99"
+     "Price": "$\u2009389.99 / \u00a3\u2009409.99"
+    }
+   ]
+  }
+ },
+ {
+  "name": "Xiaomi Watch Color",
+  "codename": "",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch-color-.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_watch_color-10014.php",
+  "specs": {
+   "Network": [
+    {
+     "Technology": "No cellular connectivity",
+     "2G bands": " N/A",
+     "3G bands": " N/A",
+     "4G bands": " N/A",
+     "Speed": "No",
+     "GPRS": "No",
+     "EDGE": "No"
+    }
+   ],
+   "Launch": [
+    {
+     "Announced": "2020, January",
+     "Status": "Available. Released 2020, January"
+    }
+   ],
+   "Body": [
+    {
+     "Dimensions": "53.3 x 46.2 x 11.4 mm (2.10 x 1.82 x 0.45 in)",
+     "Weight": "-",
+     "Build": "Glass front, stainless steel frame, plastic back",
+     "SIM": "No",
+     "info": "Waterproof (5ATM)"
+    }
+   ],
+   "Display": [
+    {
+     "Type": "AMOLED capacitive touchscreen, 16M colors",
+     "Size": "1.39 inches, 6.2 cm2 (~25.3% screen-to-body ratio)",
+     "Resolution": "454 x 454 pixels, 1:1 ratio (~462 ppi density)"
+    }
+   ],
+   "Platform": [
+    {
+     "OS": "Proprietary wearable platform"
+    }
+   ],
+   "Memory": [
+    {
+     "Card slot": "No"
+    }
+   ],
+   "Camera": [
+    {
+     "info": "No"
+    }
+   ],
+   "Sound": [
+    {
+     "Loudspeaker ": "Yes",
+     "3.5mm jack ": "No"
+    }
+   ],
+   "Comms": [
+    {
+     "WLAN": "Wi-Fi 802.11 b/g/n",
+     "Bluetooth": "5.0, A2DP, LE",
+     "GPS": "Yes, with GLONASS",
+     "NFC": "Yes",
+     "Radio": "No",
+     "USB": "No"
+    }
+   ],
+   "Features": [
+    {
+     "Sensors": "Accelerometer, gyro, heart rate, barometer"
+    }
+   ],
+   "Battery": [
+    {
+     "info": "Non-removable Li-Ion 420 mAh battery",
+     "Stand-by": "Up to 336 h"
+    }
+   ],
+   "Misc": [
+    {
+     "Colors": "Black, Silver",
+     "Models": "XMWT06",
+     "Price": "About 100 EUR"
     }
    ]
   }
@@ -765,6 +855,7 @@
     {
      "Dimensions": "156.5 x 75.4 x 9.4 mm (6.16 x 2.97 x 0.37 in)",
      "Weight": "188 g (6.63 oz)",
+     "Build": "Glass front (Gorilla Glass 5), plastic back, plastic frame",
      "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
      "info": "Splash resistant"
     }
@@ -788,13 +879,13 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 512 GB (dedicated slot)",
+     "Card slot": "microSDXC (dedicated slot)",
      "Internal": "32GB 3GB RAM, 64GB 4GB RAM"
     }
    ],
    "Main Camera": [
     {
-     "Single": "12 MP, f/1.8, 1/2.55\", 1.4\u00b5m, Dual Pixel PDAF\r\n2 MP, depth sensor",
+     "Single": "12 MP, f/1.8, 1/2.55\", 1.4\u00b5m, Dual Pixel PDAF\r\n2 MP, 1/5.0\", 1.75\u00b5m, depth sensor",
      "Features": "LED flash, HDR, panorama",
      "Video": "1080p@30fps"
     }
@@ -809,8 +900,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -836,11 +926,11 @@
    ],
    "Misc": [
     {
-     "Colors": "Onyx Black, Ruby Red, Sapphire Blue",
+     "Colors": "Onyx Black, Ruby Red, Sapphire Blue, Phantom Red",
      "Models": "M1908C3IC, MZB8255IN, M1908C3IG, M1908C3IH",
      "SAR": "0.34 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.23 W/kg (head) \u00a0 \u00a0 1.48 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009107.99 / \u00a3\u2009117.87 / \u20ac\u2009128.80 / \u20b9\u20097,999"
+     "Price": "$\u2009108.89 / \u00a3\u2009115.00 / \u20ac\u2009135.99 / \u20b9\u20097,999"
     }
    ]
   }
@@ -879,8 +969,8 @@
    "Display": [
     {
      "Type": "IPS LCD capacitive touchscreen, 16M colors",
-     "Size": "6.2 inches, 95.9 cm2 (~81.3% screen-to-body ratio)",
-     "Resolution": "720 x 1520 pixels, 19:9 ratio (~271 ppi density)",
+     "Size": "6.22 inches, 96.6 cm2 (~81.8% screen-to-body ratio)",
+     "Resolution": "720 x 1520 pixels, 19:9 ratio (~270 ppi density)",
      "Protection": "Corning Gorilla Glass 5",
      "info": "400 nits typ. brightness"
     }
@@ -895,14 +985,14 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 512 GB (dedicated slot)",
+     "Card slot": "microSDXC (dedicated slot)",
      "Internal": "32GB 2GB RAM, 32GB 3GB RAM, 64GB 4GB RAM"
     }
    ],
    "Main Camera": [
     {
      "Single": "12 MP, f/1.8, 1/2.55\", 1.4\u00b5m, dual pixel PDAF",
-     "Features": "LED flash, HDR",
+     "Features": "LED flash, HDR, panorama",
      "Video": "1080p@30fps"
     }
    ],
@@ -916,8 +1006,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -946,7 +1035,7 @@
      "Models": "MZB8458IN, M1908C3KG, M1908C3KH",
      "SAR": "0.48 W/kg (head) \u00a0 \u00a0 1.07 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.23 W/kg (head) \u00a0 \u00a0 1.48 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u200998.99 / \u00a3\u2009102.58 / \u20ac\u2009118.03 / \u20b9\u20096,499"
+     "Price": "$\u200999.99 / \u00a3\u2009105.08 / \u20ac\u2009114.00 / \u20b9\u20095,999"
     }
    ]
   }
@@ -1001,7 +1090,7 @@
     {
      "Card slot": "No",
      "Internal": "512GB 12GB RAM",
-     "info": "UFS3.0"
+     "info": "UFS 3.0"
     }
    ],
    "Main Camera": [
@@ -1021,8 +1110,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "No"
     }
    ],
    "Comms": [
@@ -1124,8 +1212,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "No"
     }
    ],
    "Comms": [
@@ -1228,8 +1315,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "No"
     }
    ],
    "Comms": [
@@ -1313,7 +1399,7 @@
     {
      "Card slot": "No",
      "Internal": "128GB 8GB RAM, 512GB 8GB RAM, 512GB 12GB RAM",
-     "info": "UFS2.1"
+     "info": "UFS 2.1"
     }
    ],
    "Main Camera": [
@@ -1334,7 +1420,7 @@
     {
      "Loudspeaker ": "Yes",
      "3.5mm jack ": "Yes",
-     "info": "24-bit/192kHz audio\r\nActive noise cancellation with dedicated mic"
+     "info": "24-bit/192kHz audio\n"
     }
    ],
    "Comms": [
@@ -1414,14 +1500,14 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "64GB 6GB RAM, 128GB 6GB RAM",
-     "info": "UFS2.1"
+     "info": "UFS 2.1"
     }
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, depth sensor",
+     "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, 1/5.0\", 1.75\u00b5m, depth sensor",
      "Features": "LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps"
     }
@@ -1436,8 +1522,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -1468,7 +1553,7 @@
      "Models": "M1904F3BG",
      "SAR": "1.19 W/kg (head) \u00a0 \u00a0 1.15 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "1.42 W/kg (head) \u00a0 \u00a0 1.40 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009239.00 / \u00a3\u2009229.00 / \u20ac\u2009255.99"
+     "Price": "$\u2009247.90 / \u00a3\u2009184.24 / \u20ac\u2009262.82"
     }
    ],
    "Tests": [
@@ -1530,14 +1615,14 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
-     "info": "UFS2.1"
+     "info": "UFS 2.1"
     }
    ],
    "Main Camera": [
     {
-     "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.7\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m, depth sensor",
+     "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.7\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m, depth sensor",
      "Features": "LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps, gyro-EIS"
     }
@@ -1552,8 +1637,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -1580,11 +1664,11 @@
    ],
    "Misc": [
     {
-     "Colors": "Black, Red, Blue, White, Deep Sea Blue, Midnight Blue, Electric Blue",
+     "Colors": "Black, Red, Blue, White, Deep Sea Blue, Midnight Blue, Electric Blue, Twilight Orange",
      "Models": "2015105, M1906G7I, M1906G7G",
      "SAR": "1.15 W/kg (head) \u00a0 \u00a0 1.18 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "1.00 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009181.99 / \u00a3\u2009178.99 / \u20ac\u2009222.90 / \u20b9\u200914,999"
+     "Price": "$\u2009176.63 / \u00a3\u2009189.99 / \u20ac\u2009207.00 / \u20b9\u200913,999"
     }
    ],
    "Tests": [
@@ -1601,7 +1685,7 @@
  },
  {
   "name": "Xiaomi Black Shark 2 Pro",
-  "codename": "",
+  "codename": "darklighter",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark2-pro-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_black_shark_2_pro-9779.php",
   "specs": {
@@ -1649,7 +1733,7 @@
     {
      "Card slot": "No",
      "Internal": "128GB 8GB RAM, 128GB 12GB RAM, 256GB 12GB RAM",
-     "info": "UFS3.0"
+     "info": "UFS 3.0"
     }
    ],
    "Main Camera": [
@@ -1669,8 +1753,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "No"
     }
    ],
    "Comms": [
@@ -1697,7 +1780,7 @@
     {
      "Colors": "Shadow Black, Iceberg Grey, Gulf Blue, Streamer Purple",
      "Models": "DLT-A0, DLT-H0",
-     "Price": "$\u2009513.99 / \u00a3\u2009431.00"
+     "Price": "$\u2009513.99 / \u00a3\u2009549.00"
     }
    ]
   }
@@ -1749,13 +1832,13 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM"
     }
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, depth sensor",
+     "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m, depth sensor",
      "Features": "LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/60/120fps"
     }
@@ -1770,8 +1853,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -1801,7 +1883,7 @@
      "Models": "M1906F9SH, M1906F9SI",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.30 W/kg (head) \u00a0 \u00a0 1.10 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009159.00 / \u00a3\u2009149.66 / \u20ac\u2009198.67 / \u20b9\u200911,441"
+     "Price": "$\u2009163.00 / \u00a3\u2009147.99 / \u20ac\u2009173.68 / \u20b9\u200910,985"
     }
    ],
    "Tests": [
@@ -1864,7 +1946,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (dedicated slot)",
+     "Card slot": "microSDXC (dedicated slot)",
      "Internal": "16GB 2GB RAM, 32GB 2GB RAM, 32GB 3GB RAM"
     }
    ],
@@ -1885,8 +1967,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -1914,7 +1995,7 @@
      "Colors": "Matte Black, Morning blue, Matte Blue, Matte Gold, Gem Red, Gem Blue",
      "Models": "MZB7995IN, M1903C3EG, M1903C3EH, M1903C3EI",
      "SAR": "0.74 W/kg (head) \u00a0 \u00a0 0.79 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u200975.49 / \u00a3\u200969.98 / \u20ac\u200993.65 / \u20b9\u20094,999"
+     "Price": "$\u200982.99 / \u00a3\u200974.98 / \u20ac\u200987.85 / \u20b9\u20094,999"
     }
    ]
   }
@@ -1945,6 +2026,7 @@
     {
      "Dimensions": "156.8 x 74.5 x 8.7 mm (6.17 x 2.93 x 0.34 in)",
      "Weight": "179 g (6.31 oz)",
+     "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
      "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
     }
    ],
@@ -1967,14 +2049,14 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM",
-     "info": "UFS2.1"
+     "info": "UFS 2.1"
     }
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, depth sensor",
+     "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, 1/5.0\", 1.75\u00b5m, depth sensor",
      "Features": "LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps"
     }
@@ -1989,8 +2071,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -2018,7 +2099,7 @@
    "Misc": [
     {
      "Colors": "Black, Blue, White",
-     "Price": "$\u2009208.99 / \u00a3\u2009337.99"
+     "Price": "$\u2009212.99 / \u00a3\u2009337.99"
     }
    ]
   }
@@ -2049,6 +2130,7 @@
     {
      "Dimensions": "153.5 x 71.9 x 8.5 mm (6.04 x 2.83 x 0.33 in)",
      "Weight": "173.8 g (6.14 oz)",
+     "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), plastic frame",
      "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
     }
    ],
@@ -2070,13 +2152,13 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM"
     }
    ],
    "Main Camera": [
     {
-     "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, depth sensor",
+     "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m, depth sensor",
      "Features": "LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/60/120fps"
     }
@@ -2091,8 +2173,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -2172,13 +2253,13 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (dedicated slot)",
+     "Card slot": "microSDXC (dedicated slot)",
      "Internal": "32GB 3GB RAM, 64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM, 128GB 6GB RAM"
     }
    ],
    "Main Camera": [
     {
-     "Quad": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m, depth sensor",
+     "Quad": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m, depth sensor",
      "Features": "LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps; gyro-EIS"
     }
@@ -2223,7 +2304,7 @@
      "Models": "M1908C3JH, M1908C3JG, M1908C3JI",
      "SAR": "0.26 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.19 W/kg (head) \u00a0 \u00a0 1.09 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009137.19 / \u00a3\u2009136.99 / \u20ac\u2009166.22 / \u20b9\u20099,999"
+     "Price": "$\u2009133.95 / \u00a3\u2009126.99 / \u20ac\u2009174.99 / \u20b9\u20099,999"
     }
    ],
    "Tests": [
@@ -2308,7 +2389,7 @@
     {
      "Loudspeaker ": "Yes",
      "3.5mm jack ": "Yes",
-     "info": "24-bit/192kHz audio\r\nActive noise cancellation with dedicated mic"
+     "info": "24-bit/192kHz audio\n"
     }
    ],
    "Comms": [
@@ -2338,7 +2419,7 @@
      "Models": "M1903F11G",
      "SAR": "1.03 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "1.30 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009345.99 / \u00a3\u2009314.57 / \u20ac\u2009375.00"
+     "Price": "$\u2009340.00 / \u00a3\u2009315.14 / \u20ac\u2009365.99"
     }
    ],
    "Tests": [
@@ -2392,7 +2473,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 9.0 (Pie); MIUI 10",
+     "OS": "Android 9.0 (Pie), upgradable to Android 10.0; MIUI 11",
      "Chipset": "Qualcomm SDM730 Snapdragon 730 (8 nm)",
      "CPU": "Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)",
      "GPU": "Adreno 618"
@@ -2422,7 +2503,7 @@
     {
      "Loudspeaker ": "Yes",
      "3.5mm jack ": "Yes",
-     "info": "24-bit/192kHz audio\r\nActive noise cancellation with dedicated mic"
+     "info": "24-bit/192kHz audio\n"
     }
    ],
    "Comms": [
@@ -2451,7 +2532,7 @@
      "Colors": "Carbon black, Red flame, Glacier blue",
      "Models": "M1903F10G",
      "SAR EU": "1.34 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "\u20ac\u2009299.00 / $\u2009266.99 / \u00a3\u2009255.99"
+     "Price": "$\u2009264.00 / \u00a3\u2009269.00 / \u20ac\u2009299.00"
     }
    ],
    "Tests": [
@@ -2516,7 +2597,7 @@
     {
      "Card slot": "No",
      "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM",
-     "info": "UFS2.1"
+     "info": "UFS 2.1"
     }
    ],
    "Main Camera": [
@@ -2537,7 +2618,7 @@
     {
      "Loudspeaker ": "Yes",
      "3.5mm jack ": "Yes",
-     "info": "24-bit/192kHz audio\r\nActive noise cancellation with dedicated mic"
+     "info": "24-bit/192kHz audio\n"
     }
    ],
    "Comms": [
@@ -2566,7 +2647,7 @@
      "Colors": "Carbon black, Red flame, Glacier blue, Pearl White",
      "Models": "M1903F10I",
      "SAR": "1.07 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009229.99 / \u20b9\u200919,557"
+     "Price": "$\u2009278.78 / \u20b9\u200919,999"
     }
    ]
   }
@@ -2621,7 +2702,7 @@
     {
      "Card slot": "No",
      "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
-     "info": "UFS2.1"
+     "info": "UFS 2.1"
     }
    ],
    "Main Camera": [
@@ -2642,7 +2723,7 @@
     {
      "Loudspeaker ": "Yes",
      "3.5mm jack ": "Yes",
-     "info": "24-bit/192kHz audio\r\nActive noise cancellation with dedicated mic"
+     "info": "24-bit/192kHz audio\n"
     }
    ],
    "Comms": [
@@ -2671,7 +2752,7 @@
      "Colors": "Carbon black, Flame red, Glacier blue, Summer Honey, Pearl White",
      "Models": "M1903F11I",
      "SAR": "1.03 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009365.99 / \u20b9\u200923,799"
+     "Price": "$\u2009369.99 / \u20b9\u200922,599"
     }
    ],
    "Tests": [
@@ -2734,13 +2815,13 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "32GB 3GB RAM, 64GB 4GB RAM"
     }
    ],
    "Main Camera": [
     {
-     "Dual": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n5 MP, f/2.2, depth sensor",
+     "Dual": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n5 MP, f/2.2, 1/5.0\", 1.12\u00b5m, depth sensor",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "1080p@30/60/120fps, (gyro-EIS)"
     }
@@ -2755,8 +2836,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -2784,7 +2864,7 @@
     {
      "Colors": "Onyx Black, Sapphire Blue, Ruby Red, Astro White",
      "Models": "M1901F71",
-     "Price": "\u20b9\u20098,999"
+     "Price": "\u20b9\u20098,879"
     }
    ]
   }
@@ -2838,13 +2918,13 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 1 TB (dedicated slot)",
+     "Card slot": "microSDXC (dedicated slot)",
      "Internal": "32GB 3GB RAM, 64GB 4GB RAM"
     }
    ],
    "Main Camera": [
     {
-     "Dual": "12 MP, f/2.2, 1/2.9\", 1.25\u00b5m, PDAF\r\n2 MP, depth sensor",
+     "Dual": "12 MP, f/2.2, 1/2.9\", 1.25\u00b5m, PDAF\r\n2 MP, 1/5.0\", 1.75\u00b5m, depth sensor",
      "Features": "LED flash, panorama, HDR",
      "Video": "1080p@30/60fps, gyro-EIS"
     }
@@ -2859,8 +2939,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -2963,8 +3042,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "No"
     }
    ],
    "Comms": [
@@ -2991,7 +3069,7 @@
     {
      "Colors": "Black, Silver, Blue",
      "Models": "SKW-H0, SKW-A0",
-     "Price": "$\u2009379.99 / \u00a3\u2009360.80"
+     "Price": "$\u2009345.99 / \u00a3\u2009359.00 / \u20ac\u2009439.00 / \u20b9\u200929,999"
     }
    ],
    "Tests": [
@@ -3032,6 +3110,7 @@
     {
      "Dimensions": "158.7 x 75.6 x 8.5 mm (6.25 x 2.98 x 0.33 in)",
      "Weight": "180 g (6.35 oz)",
+     "Build": "Glass front (Gorilla Glass 5), plastic back, plastic frame",
      "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
      "info": "Splash resistant"
     }
@@ -3054,13 +3133,13 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 1 TB (dedicated slot)",
+     "Card slot": "microSDXC (dedicated slot)",
      "Internal": "16GB 2GB RAM, 32GB 2GB RAM, 32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"
     }
    ],
    "Main Camera": [
     {
-     "Single": "12 MP, f/2.2, 1/2.9\", 1.25\u00b5m, PDAF\r\n2 MP, depth sensor",
+     "Single": "12 MP, f/2.2, 1/2.9\", 1.25\u00b5m, PDAF\r\n2 MP, 1/5.0\", 1.75\u00b5m, depth sensor",
      "Features": "LED flash, HDR, panorama",
      "Video": "1080p@30/60fps"
     }
@@ -3075,8 +3154,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -3105,7 +3183,7 @@
      "Colors": "Lunar Red, Eclipse Black, Comet Blue",
      "Models": "M1810F6LG, M1810F6LH, M1810F6LI",
      "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.25 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009109.99 / \u00a3\u200994.99 / \u20ac\u2009115.18 / \u20b9\u20097,398"
+     "Price": "$\u2009111.99 / \u00a3\u2009109.95 / \u20ac\u2009140.17 / \u20b9\u20097,498"
     }
    ]
   }
@@ -3157,13 +3235,13 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM"
     }
    ],
    "Main Camera": [
     {
-     "Dual": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n5 MP, f/2.4, depth sensor",
+     "Dual": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n5 MP, f/2.4, 1/5.0\", 1.12\u00b5m, depth sensor",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/60/120fps, (gyro-EIS)"
     }
@@ -3178,8 +3256,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -3208,7 +3285,7 @@
      "Colors": "Nebula Red, Neptune Blue, Space Black, Astro White",
      "Models": "M1901F7S",
      "SAR": "0.96 W/kg (head) \u00a0 \u00a0 0.84 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009157.41 / \u00a3\u2009249.00 / \u20b9\u20098,099"
+     "Price": "$\u2009163.95 / \u00a3\u2009249.00 / \u20b9\u20097,847"
     }
    ]
   }
@@ -3265,7 +3342,7 @@
     {
      "Card slot": "No",
      "Internal": "64GB 6GB RAM, 128GB 6GB RAM",
-     "info": "UFS2.1"
+     "info": "UFS 2.1"
     }
    ],
    "Main Camera": [
@@ -3285,8 +3362,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "No"
     }
    ],
    "Comms": [
@@ -3315,7 +3391,7 @@
      "Colors": "Sapphire Blue",
      "Models": "M1810E5GG",
      "SAR": "1.56 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009309.99 / \u00a3\u2009264.67"
+     "Price": "$\u2009289.00 / \u00a3\u2009414.57 / \u20ac\u2009429.00"
     }
    ]
   }
@@ -3390,8 +3466,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "No"
     }
    ],
    "Comms": [
@@ -3494,8 +3569,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "No"
     }
    ],
    "Comms": [
@@ -3525,7 +3599,7 @@
      "Colors": "Violet, Blue, Gray",
      "Models": "M1903F2G",
      "SAR": "1.39 W/kg (head) \u00a0 \u00a0 1.39 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009153.99 / \u00a3\u2009209.99 / \u20ac\u2009300.00"
+     "Price": "$\u2009153.99 / \u00a3\u2009209.00 / \u20ac\u2009301.00"
     }
    ],
    "Tests": [
@@ -3610,8 +3684,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "No"
     }
    ],
    "Comms": [
@@ -3641,7 +3714,7 @@
      "Colors": "Lavender Violet, Ocean Blue, Piano Black",
      "Models": "M1902F1G",
      "SAR": "1.39 W/kg (head) \u00a0 \u00a0 1.30 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009322.00 / \u00a3\u2009269.00 / \u20ac\u2009360.00"
+     "Price": "$\u2009319.99 / \u00a3\u2009294.90 / \u20ac\u2009333.00"
     }
    ],
    "Tests": [
@@ -3681,6 +3754,7 @@
     {
      "Dimensions": "140.4 x 70.1 x 8.4 mm (5.53 x 2.76 x 0.33 in)",
      "Weight": "137 g (4.83 oz)",
+     "Build": "Glass front, plastic back, plastic frame",
      "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
     }
    ],
@@ -3701,7 +3775,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 128 GB (dedicated slot)",
+     "Card slot": "microSDXC (dedicated slot)",
      "Internal": "8GB 1GB RAM, 16GB 1GB RAM"
     }
    ],
@@ -3722,8 +3796,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -3750,7 +3823,7 @@
      "Colors": "Black, Blue",
      "Models": "M1903C3GG, M1903C3GH, M1903C3GI",
      "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.50 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u200975.98 / \u00a3\u200976.58 / \u20ac\u2009104.70 / \u20b9\u20094,299"
+     "Price": "$\u200975.98 / \u00a3\u200980.30 / \u20ac\u200989.40 / \u20b9\u20094,299"
     }
    ]
   }
@@ -3803,13 +3876,13 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "32GB 3GB RAM, 64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM"
     }
    ],
    "Main Camera": [
     {
-     "Dual": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n5 MP, f/2.2, depth sensor\r\nor\r\n12 MP, f/2.2, (wide), 1/2.9\", 1.25\u00b5m, PDAF\r\n2 MP, f/2.4, depth sensor",
+     "Dual": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n5 MP, f/2.2, 1/5.0\", 1.12\u00b5m, depth sensor\r\nor\r\n12 MP, f/2.2, (wide), 1/2.9\", 1.25\u00b5m, PDAF\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m, depth sensor",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "1080p@30/60/120fps, (gyro-EIS)"
     }
@@ -3824,8 +3897,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -3854,7 +3926,7 @@
      "Colors": "Blue, Black, Twilight Gold, White",
      "Models": "M1901F7G, M1901F7H, M1901F7I",
      "SAR": "0.59 W/kg (head) \u00a0 \u00a0 1.27 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009135.99 / \u00a3\u2009135.13 / \u20ac\u2009158.90 / \u20b9\u20099,985"
+     "Price": "$\u2009137.93 / \u00a3\u2009135.71 / \u20ac\u2009165.82 / \u20b9\u20099,399"
     }
    ],
    "Tests": [
@@ -3915,7 +3987,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "64GB 4GB RAM"
     }
    ],
@@ -3936,8 +4008,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -4037,8 +4108,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "No"
     }
    ],
    "Comms": [
@@ -4140,8 +4210,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "No"
     }
    ],
    "Comms": [
@@ -4170,7 +4239,7 @@
      "Colors": "Jade Green, Sapphire Blue, Onyx Black, Forbidden City Blue (10 GB only)",
      "Models": "M1810E5A",
      "SAR": "1.45 W/kg (head) \u00a0 \u00a0 1.57 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009329.99 / \u00a3\u2009269.00"
+     "Price": "$\u2009368.12 / \u00a3\u2009279.55"
     }
    ],
    "Tests": [
@@ -4233,13 +4302,13 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "32GB 3GB RAM, 64GB 4GB RAM, 64GB 6GB RAM"
     }
    ],
    "Main Camera": [
     {
-     "Dual": "12 MP, f/1.9, 1/2.55\", 1.4\u00b5m, dual pixel PDAF\r\n5 MP, f/2.2, 1.12\u00b5m, depth sensor",
+     "Dual": "12 MP, f/1.9, 1/2.55\", 1.4\u00b5m, dual pixel PDAF\r\n5 MP, f/2.2, 1/5.0\", 1.12\u00b5m, depth sensor",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "1080p@30fps"
     }
@@ -4254,8 +4323,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -4284,7 +4352,7 @@
      "Colors": "Black, Blue, Rose Gold, Red",
      "Models": "M1806E7TG, M1806E7TH, M1806E7TI",
      "SAR": "0.76 W/kg (head) \u00a0 \u00a0 1.48 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009159.99 / \u00a3\u2009129.00 / \u20b9\u20096,999"
+     "Price": "$\u2009159.99 / \u00a3\u2009129.00 / \u20b9\u20096,933"
     }
    ],
    "Tests": [
@@ -4368,8 +4436,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "No"
     }
    ],
    "Comms": [
@@ -4398,7 +4465,7 @@
      "Colors": "Black (transparent back), Meteorite black, Twilight Gold",
      "Models": "M1807E8A",
      "SAR": "0.97 W/kg (head) \u00a0 \u00a0 1.53 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009293.99 / \u00a3\u2009275.97 / \u20ac\u2009352.99"
+     "Price": "$\u2009319.99 / \u00a3\u2009240.28"
     }
    ]
   }
@@ -4450,13 +4517,13 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM, 128GB 6GB RAM"
     }
    ],
    "Main Camera": [
     {
-     "Dual": "12 MP, f/1.9, 1/2.55\", 1.4\u00b5m, dual pixel PDAF\r\n5 MP, f/2.0, 1/5\", 1.12\u00b5m, depth sensor",
+     "Dual": "12 MP, f/1.9, 1/2.55\", 1.4\u00b5m, dual pixel PDAF\r\n5 MP, f/2.0, 1/5.0\", 1.12\u00b5m, depth sensor",
      "Features": "LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@60/120fps, 1080p@30fps (gyro-EIS)"
     }
@@ -4471,8 +4538,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "No"
     }
    ],
    "Comms": [
@@ -4500,7 +4566,7 @@
      "Colors": "Midnight Black, Aurora Blue, Twilight Gold (China only)",
      "Models": "M1808D2TG",
      "SAR": "0.75 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009138.99 / \u00a3\u2009168.44"
+     "Price": "$\u2009142.99 / \u00a3\u2009170.32"
     }
    ],
    "Tests": [
@@ -4562,13 +4628,13 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM"
     }
    ],
    "Main Camera": [
     {
-     "Dual": "12 MP, f/1.9, 1/2.55\", 1.4\u00b5m, dual pixel PDAF\r\n5 MP, f/2.0, 1.12\u00b5m, depth sensor",
+     "Dual": "12 MP, f/1.9, 1/2.55\", 1.4\u00b5m, dual pixel PDAF\r\n5 MP, f/2.0, 1/5.0\", 1.12\u00b5m, depth sensor",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30/60fps, 1080p@30fps (gyro-EIS), 1080p@240fps, 720p@960fps"
     }
@@ -4583,8 +4649,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -4612,7 +4677,7 @@
      "Colors": "Graphite Black, Steel Blue, Rosso Red, Armored Edition with Kevlar",
      "Models": "M1805E10A",
      "SAR": "0.54 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009239.00 / \u00a3\u2009199.99 / \u20ac\u2009289.00 / \u20b9\u200911,499"
+     "Price": "$\u2009220.00 / \u00a3\u2009235.99 / \u20b9\u200912,880"
     }
    ],
    "Tests": [
@@ -4695,8 +4760,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "No"
     }
    ],
    "Comms": [
@@ -4725,7 +4789,7 @@
      "Colors": "Black, Gold, Blue, Red, Rose Gold",
      "Models": "M1804D2SG, M1804D2SI",
      "SAR": "0.96 W/kg (head) \u00a0 \u00a0 0.64 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009142.99 / \u00a3\u2009124.99 / \u20ac\u2009182.00 / \u20b9\u20098,774"
+     "Price": "$\u2009142.99 / \u00a3\u2009149.99 / \u20ac\u2009203.89 / \u20b9\u20098,390"
     }
    ],
    "Tests": [
@@ -4785,13 +4849,13 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (dedicated slot)",
+     "Card slot": "microSDXC (dedicated slot)",
      "Internal": "32GB 3GB RAM, 64GB 4GB RAM"
     }
    ],
    "Main Camera": [
     {
-     "Dual": "12 MP, f/2.2, 1.25 \u03bcm, PDAF\r\n5 MP, f/2.2, 1.12 \u03bcm, depth sensor",
+     "Dual": "12 MP, f/2.2, 1.25 \u03bcm, PDAF\r\n5 MP, f/2.2, 1/5.0\", 1.12\u00b5m, depth sensor",
      "Features": "LED flash, HDR, panorama",
      "Video": "1080p@30fps (gyro-EIS)"
     }
@@ -4806,8 +4870,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -4836,7 +4899,7 @@
      "Colors": "Black, Blue, Gold (Global); Rose Gold, Red (China only)",
      "Models": "M1805D1SG",
      "SAR": "0.55 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009132.99 / \u00a3\u2009199.99 / \u20ac\u2009211.02 / \u20b9\u20096,999"
+     "Price": "\u00a3\u2009199.99 / \u20ac\u2009195.99 / \u20b9\u20096,999"
     }
    ],
    "Tests": [
@@ -4899,13 +4962,13 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "64GB 4GB RAM, 128GB 6GB RAM"
     }
    ],
    "Main Camera": [
     {
-     "Dual": "12 MP, f/1.9, 1/2.55\", 1.4\u00b5m, dual pixel PDAF\r\n5 MP, depth sensor",
+     "Dual": "12 MP, f/1.9, 1/2.55\", 1.4\u00b5m, dual pixel PDAF\r\n5 MP, f/2.2, 1/5.0\", 1.12\u00b5m, depth sensor",
      "Features": "Dual-LED flash, HDR, panorama",
      "Video": "2160p@30fps, 720p/1080p@30fps (gyro-EIS), 720p@120fps"
     }
@@ -4919,8 +4982,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -4949,7 +5011,7 @@
      "Colors": "Black, Champagne Gold, Blue",
      "Models": "M1804E4A",
      "SAR": "1.58 W/kg (head) \u00a0 \u00a0 1.42 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009153.99 / \u00a3\u2009136.99"
+     "Price": "$\u2009153.99 / \u00a3\u2009143.99"
     }
    ],
    "Tests": [
@@ -5011,7 +5073,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (dedicated slot)",
+     "Card slot": "microSDXC (dedicated slot)",
      "Internal": "32GB 3GB RAM, 64GB 4GB RAM"
     }
    ],
@@ -5031,8 +5093,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -5110,7 +5171,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (dedicated slot)",
+     "Card slot": "microSDXC (dedicated slot)",
      "Internal": "64GB 4GB RAM, 128GB 4GB RAM"
     }
    ],
@@ -5130,8 +5191,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -5209,13 +5269,13 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (dedicated slot)",
+     "Card slot": "microSDXC (dedicated slot)",
      "Internal": "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"
     }
    ],
    "Main Camera": [
     {
-     "Dual": "12 MP, f/2.2, 1.25 \u03bcm, PDAF\r\n5 MP, f/2.2, 1.12 \u03bcm, depth sensor",
+     "Dual": "12 MP, f/2.2, 1.25 \u03bcm, PDAF\r\n5 MP, f/2.2, 1/5.0\", 1.12\u00b5m, depth sensor",
      "Features": "LED flash, HDR, panorama",
      "Video": "1080p@30fps"
     }
@@ -5229,8 +5289,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -5257,7 +5316,7 @@
      "Colors": "Black, Grey, Blue, Gold, Rose Gold",
      "Models": "M1804C3DG, M1804C3DH, M1804C3DI",
      "SAR": "0.55 W/kg (head) \u00a0 \u00a0 1.42 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009103.99 / \u00a3\u2009109.99 / \u20b9\u20096,999"
+     "Price": "$\u2009103.99 / \u00a3\u2009109.99 / \u20ac\u2009151.61 / \u20b9\u20096,897"
     }
    ]
   }
@@ -5309,7 +5368,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (dedicated slot)",
+     "Card slot": "microSDXC (dedicated slot)",
      "Internal": "16GB 2GB RAM, 32GB 2GB RAM, 32GB 3GB RAM"
     }
    ],
@@ -5329,8 +5388,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -5357,7 +5415,7 @@
      "Colors": "Black, Grey, Blue, Gold, Rose Gold",
      "Models": "M1804C3CG, M1804C3CH, M1804C3CI",
      "SAR": "0.66 W/kg (head) \u00a0 \u00a0 1.52 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "\u00a3\u200978.98 / \u20b9\u20095,399"
+     "Price": "$\u2009225.20 / \u00a3\u200984.42 / \u20b9\u20095,425"
     }
    ]
   }
@@ -5431,8 +5489,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "No"
     }
    ],
    "Comms": [
@@ -5505,7 +5562,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 8.1 (Oreo), upgradable to Android 9.0 (Pie); MIUI 10.1",
+     "OS": "Android 8.1 (Oreo), upgradable to Android 10.0; MIUI 11",
      "Chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
      "CPU": "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver)",
      "GPU": "Adreno 630"
@@ -5533,8 +5590,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "No"
     }
    ],
    "Comms": [
@@ -5563,7 +5619,7 @@
      "Colors": "Black, Blue, White, Gold",
      "Models": "M1803E1A",
      "SAR": "0.70 W/kg (head) \u00a0 \u00a0 1.66 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009224.99 / \u00a3\u2009244.99"
+     "Price": "$\u2009224.99 / \u00a3\u2009245.00"
     }
    ],
    "Tests": [
@@ -5604,6 +5660,7 @@
     {
      "Dimensions": "147.3 x 73.1 x 7.5 mm (5.80 x 2.88 x 0.30 in)",
      "Weight": "164 g (5.78 oz)",
+     "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
      "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
     }
    ],
@@ -5632,7 +5689,7 @@
    ],
    "Main Camera": [
     {
-     "Dual": "12 MP, f/1.9, 1/2.55\", 1.4\u00b5m, dual pixel PDAF\r\n5 MP, f/2.0, 1.12\u00b5m, depth sensor",
+     "Dual": "12 MP, f/1.9, 1/2.55\", 1.4\u00b5m, dual pixel PDAF\r\n5 MP, f/2.0, 1/5.0\", 1.12\u00b5m, depth sensor",
      "Features": "LED flash, HDR, panorama",
      "Video": "2160p@30fps, 1080p@30/120fps"
     }
@@ -5646,8 +5703,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "No"
     }
    ],
    "Comms": [
@@ -5736,13 +5792,13 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (dedicated slot)",
+     "Card slot": "microSDXC (dedicated slot)",
      "Internal": "32GB 3GB RAM, 64GB 4GB RAM"
     }
    ],
    "Main Camera": [
     {
-     "Dual": "12 MP, f/2.2, 1.25\u03bcm, PDAF\r\n5 MP, depth sensor",
+     "Dual": "12 MP, f/2.2, 1.25\u03bcm, PDAF\r\n5 MP, f/2.4, 1/5.0\", 1.12\u00b5m, depth sensor",
      "Features": "LED flash, panorama, HDR",
      "Video": "1080p@30fps (gyro-EIS)"
     }
@@ -5757,8 +5813,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -5787,7 +5842,7 @@
      "Colors": "Gray, Gold, Rose Gold, Mesmerising Blue, Stunning Black",
      "Models": "M1803E6G, M1803E6H, M1803E6I",
      "SAR": "0.43 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009105.99 / \u00a3\u2009121.95 / \u20ac\u2009204.82 / \u20b9\u20097,879"
+     "Price": "$\u2009105.99 / \u00a3\u2009100.58 / \u20ac\u2009200.00 / \u20b9\u20096,699"
     }
    ],
    "Tests": [
@@ -5842,7 +5897,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 8.0 (Oreo), upgradable to Android 9.0 (Pie); MIUI 10",
+     "OS": "Android 8.0 (Oreo), upgradable to Android 10.0; MIUI 11",
      "Chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
      "CPU": "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver)",
      "GPU": "Adreno 630"
@@ -5870,8 +5925,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "No"
     }
    ],
    "Comms": [
@@ -5900,7 +5954,7 @@
      "Colors": "Black, White",
      "Models": "M1803D5XA",
      "SAR": "0.54 W/kg (head) \u00a0 \u00a0 1.59 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009229.99 / \u00a3\u2009236.46 / \u20ac\u2009299.00 / \u20b9\u200947,500"
+     "Price": "$\u2009229.99 / \u00a3\u2009216.96 / \u20ac\u2009279.20 / \u20b9\u200945,000"
     }
    ],
    "Tests": [
@@ -5961,7 +6015,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 128 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "32GB 3GB RAM, 64GB 4GB RAM, 64GB 6GB RAM"
     }
    ],
@@ -5982,8 +6036,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -6074,13 +6127,13 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 128 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "64GB 4GB RAM, 64GB 6GB RAM"
     }
    ],
    "Main Camera": [
     {
-     "Dual": "12 MP, f/2.2, 1/2.9\", 1.25\u00b5m, PDAF\r\n5 MP, f/2.0, 1.12\u00b5m, depth sensor",
+     "Dual": "12 MP, f/2.2, 1/2.9\", 1.25\u00b5m, PDAF\r\n5 MP, f/2.0, 1/5.0\", 1.12\u00b5m, depth sensor",
      "Features": "Dual-LED flash, panorama, HDR",
      "Video": "1080p@30fps"
     }
@@ -6095,8 +6148,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -6125,14 +6177,14 @@
      "Colors": "Black, Champagne Gold, Rose Gold, Lake Blue",
      "Models": "MEI7S, MEI7",
      "SAR": "1.19 W/kg (head) \u00a0 \u00a0 0.33 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "\u20b9\u20097,950"
+     "Price": "\u20b9\u20097,898"
     }
    ]
   }
  },
  {
   "name": "Xiaomi Black Shark",
-  "codename": "",
+  "codename": "shark",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark.jpg",
   "url": "https://www.gsmarena.com/xiaomi_black_shark-9164.php",
   "specs": {
@@ -6197,8 +6249,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "No"
     }
    ],
    "Comms": [
@@ -6277,7 +6328,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 128 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"
     }
    ],
@@ -6297,8 +6348,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -6327,7 +6377,7 @@
      "Colors": "Black, Gold, Blue, Rose Gold",
      "Models": "MEG7, MEI7",
      "SAR": "1.01 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009152.99 / \u00a3\u2009117.61 / \u20b9\u20098,748"
+     "Price": "$\u2009152.99 / \u00a3\u2009110.55 / \u20b9\u20098,999"
     }
    ],
    "Tests": [
@@ -6390,7 +6440,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 128 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "16GB 2GB RAM, 32GB 3GB RAM, 32GB 4GB RAM, 64GB 4GB RAM"
     }
    ],
@@ -6410,8 +6460,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -6440,7 +6489,7 @@
      "Colors": "Black, Gold, Light Blue, Rose Gold",
      "Models": "MDG1, MDI1",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 1.53 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009127.99 / \u20b9\u20098,279"
+     "Price": "$\u2009127.99 / \u20b9\u20097,399"
     }
    ],
    "Tests": [
@@ -6502,7 +6551,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 128 GB (dedicated slot)",
+     "Card slot": "microSDXC (dedicated slot)",
      "Internal": "16GB 2GB RAM, 32GB 3GB RAM"
     }
    ],
@@ -6522,8 +6571,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -6551,7 +6599,7 @@
      "Colors": "Gold, Dark Gray, Rose Gold, Blue",
      "Models": "MCG3B, MCI3B",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 1.23 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009129.99 / \u00a3\u200999.45 / \u20b9\u20095,999"
+     "Price": "$\u2009129.99 / \u00a3\u2009118.80 / \u20b9\u20095,999"
     }
    ]
   }
@@ -6603,7 +6651,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (dedicated slot)",
+     "Card slot": "microSDXC (dedicated slot)",
      "Internal": "32GB 3GB RAM, 64GB 4GB RAM"
     }
    ],
@@ -6623,8 +6671,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -6717,7 +6764,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (dedicated slot)",
+     "Card slot": "microSDXC (dedicated slot)",
      "Internal": "16GB 2GB RAM"
     }
    ],
@@ -6737,8 +6784,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -6843,7 +6889,7 @@
     {
      "Loudspeaker ": "Yes, with stereo speakers",
      "3.5mm jack ": "No",
-     "info": "24-bit/192kHz audio\r\nActive noise cancellation with dedicated mic"
+     "info": "24-bit/192kHz audio\n"
     }
    ],
    "Comms": [
@@ -6946,8 +6992,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "No"
     }
    ],
    "Comms": [
@@ -7037,7 +7082,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 128 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "64GB 4GB RAM"
     }
    ],
@@ -7057,8 +7102,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -7087,7 +7131,7 @@
      "Colors": "Black, Gold, Rose Gold, Red",
      "Models": "MDG2, MDI2",
      "SAR": "1.75 W/kg (head) \u00a0 \u00a0 0.76 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009169.99 / \u00a3\u2009146.11"
+     "Price": "$\u2009169.99 / \u00a3\u2009148.22"
     }
    ],
    "Tests": [
@@ -7150,7 +7194,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "32GB 4GB RAM, 64GB 4GB RAM, 128GB 4GB RAM"
     }
    ],
@@ -7170,8 +7214,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -7240,7 +7283,7 @@
     {
      "Dimensions": "139.2 x 70 x 8.7 mm (5.48 x 2.76 x 0.34 in)",
      "Weight": "150 g (5.29 oz)",
-     "Build": "Glass front (Gorilla Glass), aluminum back, aluminum frame",
+     "Build": "Glass front (Gorilla Glass), aluminum back, aluminum frame, plastic ends",
      "SIM": "Hybrid Dual SIM (Nano-SIM/ Micro-SIM, dual stand-by)"
     }
    ],
@@ -7262,7 +7305,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 128 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "16GB 2GB RAM, 16GB 3GB RAM, 32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"
     }
    ],
@@ -7282,8 +7325,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -7397,8 +7439,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "No"
     }
    ],
    "Comms": [
@@ -7506,8 +7547,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -7608,8 +7648,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -7688,7 +7727,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "16GB 3GB RAM, 32GB 3GB RAM, 64GB 4GB RAM"
     }
    ],
@@ -7709,7 +7748,7 @@
     {
      "Loudspeaker ": "Yes",
      "3.5mm jack ": "Yes",
-     "info": "24-bit/192kHz audio\r\nActive noise cancellation with dedicated mic"
+     "info": "24-bit/192kHz audio\n"
     }
    ],
    "Comms": [
@@ -7786,7 +7825,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"
     }
    ],
@@ -7807,7 +7846,7 @@
     {
      "Loudspeaker ": "Yes",
      "3.5mm jack ": "Yes",
-     "info": "24-bit/192kHz audio\r\nActive noise cancellation with dedicated mic"
+     "info": "24-bit/192kHz audio\n"
     }
    ],
    "Comms": [
@@ -7835,7 +7874,7 @@
      "Colors": "Dark Gray, Gold, Black, Lake Blue (64/4GB model)",
      "Models": "2016100",
      "SAR": "0.72 W/kg (head) \u00a0 \u00a0 0.67 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009219.99 / \u00a3\u2009359.99 / \u20b9\u200910,999"
+     "Price": "\u00a3\u2009359.99 / \u20b9\u20096,949"
     }
    ],
    "Tests": [
@@ -7896,7 +7935,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "16GB 2GB RAM, 32GB 2GB RAM"
     }
    ],
@@ -7916,8 +7955,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -8001,7 +8039,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "16GB 2GB RAM"
     }
    ],
@@ -8021,8 +8059,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -8101,7 +8138,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "32GB 3GB RAM"
     }
    ],
@@ -8121,8 +8158,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -8227,8 +8263,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -8325,8 +8360,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -8435,7 +8469,7 @@
     {
      "Loudspeaker ": "Yes",
      "3.5mm jack ": "Yes",
-     "info": "24-bit/192kHz audio\r\nActive noise cancellation with dedicated mic"
+     "info": "24-bit/192kHz audio\n"
     }
    ],
    "Comms": [
@@ -8547,8 +8581,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -8662,8 +8695,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -8754,7 +8786,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "16GB 2GB RAM (Standard), 64GB 3GB RAM (High), 64GB 4GB RAM (Exclusive)"
     }
    ],
@@ -8775,7 +8807,7 @@
     {
      "Loudspeaker ": "Yes",
      "3.5mm jack ": "Yes",
-     "info": "24-bit/192kHz audio\r\nActive noise cancellation with dedicated mic"
+     "info": "24-bit/192kHz audio\n"
     }
    ],
    "Comms": [
@@ -8862,13 +8894,13 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "32GB 3GB RAM, 64GB 3GB RAM, 128GB 4GB RAM (Exclusive edition)"
     }
    ],
    "Main Camera": [
     {
-     "Dual": "13 MP, f/2.0, PDAF\r\n5 MP, depth sensor",
+     "Dual": "13 MP, f/2.0, PDAF\r\n5 MP, f/2.4, 1/5.0\", 1.12\u00b5m, depth sensor",
      "Features": "Dual-LED dual-tone flash, HDR, panorama",
      "Video": "1080p@30fps, 720p@120fps"
     }
@@ -8882,8 +8914,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -8968,7 +8999,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "32GB 2GB RAM"
     }
    ],
@@ -8988,8 +9019,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -9068,7 +9098,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "32GB 3GB RAM"
     }
    ],
@@ -9088,8 +9118,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -9175,7 +9204,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "16GB 2GB RAM"
     }
    ],
@@ -9195,8 +9224,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -9288,7 +9316,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "32GB 3GB RAM"
     }
    ],
@@ -9308,8 +9336,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -9420,8 +9447,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -9514,7 +9540,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses SIM 1 slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "16GB 2GB RAM, 32GB 3GB RAM, 64GB 3GB RAM, 128GB 4GB RAM (Prime)"
     }
    ],
@@ -9534,8 +9560,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -9624,7 +9649,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "64GB 3GB RAM"
     }
    ],
@@ -9644,8 +9669,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -9734,7 +9758,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "16GB 2GB RAM (Standard version), 32GB 3GB RAM (High/Special version)"
     }
    ],
@@ -9755,7 +9779,7 @@
     {
      "Loudspeaker ": "Yes",
      "3.5mm jack ": "Yes",
-     "info": "24-bit/192kHz audio\r\nActive noise cancellation with dedicated mic"
+     "info": "24-bit/192kHz audio\n"
     }
    ],
    "Comms": [
@@ -9847,7 +9871,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "16GB 2GB RAM"
     }
    ],
@@ -9867,8 +9891,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -9954,7 +9977,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 32 GB (dedicated slot)",
+     "Card slot": "microSDHC (dedicated slot)",
      "Internal": "16GB 2GB RAM"
     }
    ],
@@ -9974,8 +9997,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -10073,8 +10095,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -10175,7 +10196,7 @@
     {
      "Loudspeaker ": "Yes",
      "3.5mm jack ": "Yes",
-     "info": "24-bit/192kHz audio\r\nActive noise cancellation with dedicated mic"
+     "info": "24-bit/192kHz audio\n"
     }
    ],
    "Comms": [
@@ -10287,8 +10308,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -10377,7 +10397,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 128 GB (dedicated slot) - Chinese version only",
+     "Card slot": "microSDXC (dedicated slot) - Chinese version only",
      "Internal": "16GB 2GB RAM (Standard), 32GB 2GB RAM (Prime)"
     }
    ],
@@ -10397,8 +10417,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -10490,7 +10509,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 32 GB (dedicated slot)",
+     "Card slot": "microSDHC (dedicated slot)",
      "Internal": "16GB 2GB RAM"
     }
    ],
@@ -10510,8 +10529,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -10589,7 +10607,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 32 GB (dedicated slot)",
+     "Card slot": "microSDHC (dedicated slot)",
      "Internal": "16GB 2GB RAM"
     }
    ],
@@ -10609,8 +10627,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -10710,8 +10727,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -10821,8 +10837,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -10922,7 +10937,7 @@
     {
      "Loudspeaker ": "Yes",
      "3.5mm jack ": "Yes",
-     "info": "24-bit/192kHz audio\r\nActive noise cancellation with dedicated mic"
+     "info": "24-bit/192kHz audio\n"
     }
    ],
    "Comms": [
@@ -11009,7 +11024,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 32 GB (dedicated slot)",
+     "Card slot": "microSDHC (dedicated slot)",
      "Internal": "8GB 1GB RAM"
     }
    ],
@@ -11029,8 +11044,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -11108,7 +11122,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 32 GB (dedicated slot)",
+     "Card slot": "microSDHC (dedicated slot)",
      "Internal": "8GB 1GB RAM, 16GB 2GB RAM"
     }
    ],
@@ -11128,8 +11142,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -11237,8 +11250,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -11316,7 +11328,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 64 GB (dedicated slot)",
+     "Card slot": "microSDXC (dedicated slot)",
      "Internal": "8GB 2GB RAM"
     }
    ],
@@ -11336,8 +11348,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -11439,8 +11450,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -11530,7 +11540,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (dedicated slot)",
+     "Card slot": "microSDXC (dedicated slot)",
      "Internal": "16GB 2GB RAM, 64GB 2GB RAM"
     }
    ],
@@ -11633,7 +11643,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 32 GB (dedicated slot)",
+     "Card slot": "microSDHC (dedicated slot)",
      "Internal": "8GB 1GB RAM, 8GB 2GB RAM"
     }
    ],
@@ -11653,8 +11663,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -11762,8 +11771,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -11854,7 +11862,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 64 GB (dedicated slot)",
+     "Card slot": "microSDXC (dedicated slot)",
      "Internal": "8GB 1GB RAM"
     }
    ],
@@ -11874,8 +11882,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -11960,7 +11967,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 32 GB (dedicated slot)",
+     "Card slot": "microSDHC (dedicated slot)",
      "Internal": "4GB 1GB RAM"
     }
    ],
@@ -11980,8 +11987,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -12075,8 +12081,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -12171,7 +12176,7 @@
     {
      "Loudspeaker ": "Yes",
      "3.5mm jack ": "Yes",
-     "info": "Dolby mobile\r\nActive noise cancellation with dedicated mic"
+     "info": "Dolby mobile\n"
     }
    ],
    "Comms": [
@@ -12268,8 +12273,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -12343,7 +12347,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 32 GB (dedicated slot)",
+     "Card slot": "microSDHC (dedicated slot)",
      "Internal": "4GB 1GB RAM"
     }
    ],
@@ -12446,7 +12450,7 @@
    ],
    "Main Camera": [
     {
-     "Dual": "12 MP, 1/2.9\", 1.25\u00b5m, PDAF, OIS\r\n5 MP, depth sensor",
+     "Dual": "12 MP, 1/2.9\", 1.25\u00b5m, PDAF, OIS\r\n5 MP, f/2.4, 1/5.0\", 1.12\u00b5m, depth sensor",
      "Features": "Dual-LED dual-tone flash, HDR, panorama",
      "Video": "1080p@30fps"
     }
@@ -12460,8 +12464,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "No"
     }
    ],
    "Comms": [
@@ -12559,8 +12562,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "No"
     }
    ],
    "Comms": [
@@ -12640,7 +12642,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM"
     }
    ],
@@ -12661,8 +12663,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -12742,7 +12743,7 @@
    ],
    "Memory": [
     {
-     "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+     "Card slot": "microSDXC (uses shared SIM slot)",
      "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM"
     }
    ],
@@ -12763,8 +12764,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "Yes",
-     "info": "Active noise cancellation with dedicated mic"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [
@@ -12792,6 +12792,201 @@
     {
      "Colors": "Black, Champagne Gold, Blue",
      "Price": "About 350 EUR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "Xiaomi Mi Note Plus",
+  "codename": "",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_mi_note_plus-6960.php",
+  "specs": {
+   "Network": [
+    {
+     "Technology": "GSM / HSPA / LTE",
+     "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+     "3G bands": " HSDPA",
+     "4G bands": " LTE - SIM 1 & SIM 2",
+     "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+     "GPRS": "Yes",
+     "EDGE": "Yes"
+    }
+   ],
+   "Launch": [
+    {
+     "Announced": "Not announced yet",
+     "Status": "Cancelled"
+    }
+   ],
+   "Body": [
+    {
+     "Dimensions": "-",
+     "Weight": "-",
+     "SIM": "Dual SIM (Micro-SIM/Nano-SIM, dual stand-by)"
+    }
+   ],
+   "Display": [
+    {
+     "Type": "IPS LCD capacitive touchscreen, 16M colors",
+     "Size": "5.7 inches, 89.6 cm2",
+     "Resolution": "1440 x 2560 pixels, 16:9 ratio (~515 ppi density)"
+    }
+   ],
+   "Platform": [
+    {
+     "OS": "Android 4.4.4 (KitKat)",
+     "Chipset": "Qualcomm MSM8994 Snapdragon 810 (20 nm)",
+     "CPU": "Octa-core (4x1.5 GHz Cortex-A53 & 4x2.0 GHz Cortex-A57)",
+     "GPU": "Adreno 430"
+    }
+   ],
+   "Memory": [
+    {
+     "Card slot": "No",
+     "Internal": "64GB 3GB RAM"
+    }
+   ],
+   "Main Camera": [
+    {
+     "Single": "13 MP, f/2.0, AF",
+     "Features": "Dual-LED dual-tone flash, HDR, panorama",
+     "Video": "1080p@30fps"
+    }
+   ],
+   "Selfie camera": [
+    {
+     "Single": "4 MP, f/2.0, 1/3\", 2\u00b5m",
+     "Video": "1080p@30fps"
+    }
+   ],
+   "Sound": [
+    {
+     "Loudspeaker ": "Yes",
+     "3.5mm jack ": "Yes"
+    }
+   ],
+   "Comms": [
+    {
+     "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+     "Bluetooth": "4.0, A2DP, LE",
+     "GPS": "Yes, with A-GPS, GLONASS, BDS",
+     "NFC": "TBC",
+     "Radio": "To be confirmed",
+     "USB": "microUSB 2.0, USB On-The-Go"
+    }
+   ],
+   "Features": [
+    {
+     "Sensors": "Accelerometer, proximity, compass"
+    }
+   ],
+   "Battery": [
+    {
+     "info": "Non-removable Li-Ion battery",
+     "Charging": "Fast battery charging 18W (Quick Charge 2.0)"
+    }
+   ],
+   "Misc": [
+    {
+     "Colors": "Black, White"
+    }
+   ]
+  }
+ },
+ {
+  "name": "Xiaomi Redmi Pro 2",
+  "codename": "",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pro-2-r1.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_redmi_pro_2-8558.php",
+  "specs": {
+   "Network": [
+    {
+     "Technology": "GSM / HSPA / LTE",
+     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+     "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
+     "4G bands": " LTE (unspecified)",
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (5CA) Cat18 1200/150 Mbps"
+    }
+   ],
+   "Launch": [
+    {
+     "Announced": "Not announced yet",
+     "Status": "Cancelled"
+    }
+   ],
+   "Body": [
+    {
+     "Dimensions": "-",
+     "Weight": "-",
+     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+    }
+   ],
+   "Display": [
+    {
+     "Type": "AMOLED capacitive touchscreen, 16M colors",
+     "Size": "6.39 inches, 100.2 cm2",
+     "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)"
+    }
+   ],
+   "Platform": [
+    {
+     "OS": "Android 9.0 (Pie)",
+     "Chipset": "Qualcomm SM8150 Snapdragon 855 (7 nm)",
+     "CPU": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)",
+     "GPU": "Adreno 640"
+    }
+   ],
+   "Memory": [
+    {
+     "Card slot": "microSD",
+     "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM"
+    }
+   ],
+   "Main Camera": [
+    {
+     "Triple": "48 MP, 1/2.0\", (wide), 0.8\u00b5m, PDAF\r\nSecondary unknown camera\r\nThird unknown camera",
+     "Features": "Dual-LED dual-tone flash, HDR, panorama",
+     "Video": "2160p@30fps, 1080p@30fps"
+    }
+   ],
+   "Selfie camera": [
+    {
+     "Single": "Motorized pop-up 20 MP, f/2.0, (wide), 1/2.8\", 1.0\u03bcm",
+     "Video": ""
+    }
+   ],
+   "Sound": [
+    {
+     "Loudspeaker ": "Yes",
+     "3.5mm jack ": "Yes"
+    }
+   ],
+   "Comms": [
+    {
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+     "Bluetooth": "5.0, A2DP, LE",
+     "GPS": "Yes, with dual-band A-GPS, GLONASS, BDS, GALILEO, QZSS",
+     "NFC": "Yes",
+     "Infrared port": "Yes",
+     "Radio": "No",
+     "USB": "Type-C 1.0 reversible connector"
+    }
+   ],
+   "Features": [
+    {
+     "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    }
+   ],
+   "Battery": [
+    {
+     "info": "Non-removable Li-Po 3600 mAh battery",
+     "Charging": "Fast battery charging 27W"
+    }
+   ],
+   "Misc": [
+    {
+     "Colors": "Red, Blue, Black"
     }
    ]
   }

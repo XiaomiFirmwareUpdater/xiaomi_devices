@@ -25,7 +25,6 @@
    {
     "Dimensions": "-",
     "Weight": "-",
-    "Build": "Corning Gorilla Glass 3 back panel",
     "SIM": "Dual SIM (Micro-SIM/Nano-SIM, dual stand-by)"
    }
   ],
@@ -33,8 +32,7 @@
    {
     "Type": "IPS LCD capacitive touchscreen, 16M colors",
     "Size": "5.7 inches, 89.6 cm2",
-    "Resolution": "1440 x 2560 pixels, 16:9 ratio (~515 ppi density)",
-    "Protection": "Corning Gorilla Glass 3"
+    "Resolution": "1440 x 2560 pixels, 16:9 ratio (~515 ppi density)"
    }
   ],
   "Platform": [
@@ -67,8 +65,7 @@
   "Sound": [
    {
     "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes",
-    "info": "Active noise cancellation with dedicated mic"
+    "3.5mm jack ": "Yes"
    }
   ],
   "Comms": [

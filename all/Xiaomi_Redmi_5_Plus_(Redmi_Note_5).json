@@ -45,7 +45,7 @@
   ],
   "Memory": [
    {
-    "Card slot": "microSD, up to 128 GB (uses shared SIM slot)",
+    "Card slot": "microSDXC (uses shared SIM slot)",
     "Internal": "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"
    }
   ],
@@ -65,8 +65,7 @@
   "Sound": [
    {
     "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes",
-    "info": "Active noise cancellation with dedicated mic"
+    "3.5mm jack ": "Yes"
    }
   ],
   "Comms": [
@@ -95,7 +94,7 @@
     "Colors": "Black, Gold, Blue, Rose Gold",
     "Models": "MEG7, MEI7",
     "SAR": "1.01 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009152.99 / \u00a3\u2009117.61 / \u20b9\u20098,999"
+    "Price": "$\u2009152.99 / \u00a3\u2009110.55 / \u20b9\u20098,999"
    }
   ],
   "Tests": [

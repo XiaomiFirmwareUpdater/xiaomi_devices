@@ -45,7 +45,7 @@
   ],
   "Memory": [
    {
-    "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+    "Card slot": "microSDXC (uses shared SIM slot)",
     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM"
    }
   ],
@@ -66,8 +66,7 @@
   "Sound": [
    {
     "Loudspeaker ": "Yes, with stereo speakers",
-    "3.5mm jack ": "Yes",
-    "info": "Active noise cancellation with dedicated mic"
+    "3.5mm jack ": "Yes"
    }
   ],
   "Comms": [
@@ -95,7 +94,7 @@
     "Colors": "Graphite Black, Steel Blue, Rosso Red, Armored Edition with Kevlar",
     "Models": "M1805E10A",
     "SAR": "0.54 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009229.00 / \u00a3\u2009235.99 / \u20b9\u200911,299"
+    "Price": "$\u2009220.00 / \u00a3\u2009235.99 / \u20b9\u200912,880"
    }
   ],
   "Tests": [

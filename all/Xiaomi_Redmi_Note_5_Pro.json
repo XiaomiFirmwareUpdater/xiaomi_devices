@@ -45,7 +45,7 @@
   ],
   "Memory": [
    {
-    "Card slot": "microSD, up to 128 GB (uses shared SIM slot)",
+    "Card slot": "microSDXC (uses shared SIM slot)",
     "Internal": "64GB 4GB RAM, 64GB 6GB RAM"
    }
   ],
@@ -66,8 +66,7 @@
   "Sound": [
    {
     "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes",
-    "info": "Active noise cancellation with dedicated mic"
+    "3.5mm jack ": "Yes"
    }
   ],
   "Comms": [
@@ -96,7 +95,7 @@
     "Colors": "Black, Champagne Gold, Rose Gold, Lake Blue",
     "Models": "MEI7S, MEI7",
     "SAR": "1.19 W/kg (head) \u00a0 \u00a0 0.33 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "\u20b9\u20097,398"
+    "Price": "\u20b9\u20097,898"
    }
   ]
  }

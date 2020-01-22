@@ -45,7 +45,7 @@
   ],
   "Memory": [
    {
-    "Card slot": "microSD, up to 128 GB (dedicated slot) - Chinese version only",
+    "Card slot": "microSDXC (dedicated slot) - Chinese version only",
     "Internal": "16GB 2GB RAM (Standard), 32GB 2GB RAM (Prime)"
    }
   ],
@@ -65,8 +65,7 @@
   "Sound": [
    {
     "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes",
-    "info": "Active noise cancellation with dedicated mic"
+    "3.5mm jack ": "Yes"
    }
   ],
   "Comms": [

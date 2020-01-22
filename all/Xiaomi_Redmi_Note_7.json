@@ -46,7 +46,7 @@
   ],
   "Memory": [
    {
-    "Card slot": "microSD, up to 256 GB (uses shared SIM slot)",
+    "Card slot": "microSDXC (uses shared SIM slot)",
     "Internal": "32GB 3GB RAM, 64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM"
    }
   ],
@@ -67,8 +67,7 @@
   "Sound": [
    {
     "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes",
-    "info": "Active noise cancellation with dedicated mic"
+    "3.5mm jack ": "Yes"
    }
   ],
   "Comms": [
@@ -97,7 +96,7 @@
     "Colors": "Blue, Black, Twilight Gold, White",
     "Models": "M1901F7G, M1901F7H, M1901F7I",
     "SAR": "0.59 W/kg (head) \u00a0 \u00a0 1.27 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009137.93 / \u00a3\u2009136.65 / \u20ac\u2009164.34 / \u20b9\u20099,399"
+    "Price": "$\u2009137.93 / \u00a3\u2009135.71 / \u20ac\u2009165.82 / \u20b9\u20099,399"
    }
   ],
   "Tests": [

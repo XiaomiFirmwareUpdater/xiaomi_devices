@@ -45,7 +45,7 @@
   ],
   "Memory": [
    {
-    "Card slot": "microSD, up to 128 GB (uses shared SIM slot)",
+    "Card slot": "microSDXC (uses shared SIM slot)",
     "Internal": "64GB 4GB RAM"
    }
   ],
@@ -65,8 +65,7 @@
   "Sound": [
    {
     "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes",
-    "info": "Active noise cancellation with dedicated mic"
+    "3.5mm jack ": "Yes"
    }
   ],
   "Comms": [
@@ -95,7 +94,7 @@
     "Colors": "Black, Gold, Rose Gold, Red",
     "Models": "MDG2, MDI2",
     "SAR": "1.75 W/kg (head) \u00a0 \u00a0 0.76 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009169.99 / \u00a3\u200984.99"
+    "Price": "$\u2009169.99 / \u00a3\u2009148.22"
    }
   ],
   "Tests": [
