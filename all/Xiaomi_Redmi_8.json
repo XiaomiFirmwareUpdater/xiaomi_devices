@@ -49,7 +49,8 @@
   "Memory": [
    {
     "Card slot": "microSDXC (dedicated slot)",
-    "Internal": "32GB 3GB RAM, 64GB 4GB RAM"
+    "Internal": "32GB 3GB RAM, 64GB 4GB RAM",
+    "info": "eMMC"
    }
   ],
   "Main Camera": [

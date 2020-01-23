@@ -47,7 +47,8 @@
   "Memory": [
    {
     "Card slot": "No",
-    "Internal": "64GB 6GB RAM, 128GB 6GB RAM"
+    "Internal": "64GB 6GB RAM, 128GB 6GB RAM",
+    "info": "UFS 2.0"
    }
   ],
   "Main Camera": [
