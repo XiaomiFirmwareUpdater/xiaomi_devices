@@ -101,6 +101,13 @@
     "Models": "M1912G7BE, M1912G7BC",
     "Price": "$\u2009243.69"
    }
+  ],
+  "Tests": [
+   {
+    "Display": "\nContrast ratio: 1128:1 (nominal)",
+    "Audio quality": "\nNoise -94.0dB / Crosstalk -93.0dB",
+    "Battery life": "\n\nEndurance rating 101h\n\n"
+   }
   ]
  }
 }
