@@ -39,7 +39,7 @@
   ],
   "Platform": [
    {
-    "OS": "Android 9.0 (Pie); MIUI 10",
+    "OS": "Android 9.0 (Pie), upgradable to Android 10.0; MIUI 11",
     "Chipset": "Qualcomm SM8150 Snapdragon 855 (7 nm)",
     "CPU": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)",
     "GPU": "Adreno 640"
@@ -99,7 +99,7 @@
     "Colors": "Lavender Violet, Ocean Blue, Piano Black",
     "Models": "M1902F1G",
     "SAR": "1.39 W/kg (head) \u00a0 \u00a0 1.30 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009319.99 / \u00a3\u2009294.90 / \u20ac\u2009333.00"
+    "Price": "$\u2009319.99 / \u00a3\u2009356.09 / \u20ac\u2009367.00"
    }
   ],
   "Tests": [
