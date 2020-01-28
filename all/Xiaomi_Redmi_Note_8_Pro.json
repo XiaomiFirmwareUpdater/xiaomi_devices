@@ -99,12 +99,12 @@
     "Models": "2015105, M1906G7I, M1906G7G",
     "SAR": "1.15 W/kg (head) \u00a0 \u00a0 1.18 W/kg (body) \u00a0 \u00a0 ",
     "SAR EU": "1.00 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009176.63 / \u00a3\u2009204.99 / \u20ac\u2009212.99 / \u20b9\u200914,989"
+    "Price": "$\u2009176.63 / \u00a3\u2009200.00 / \u20ac\u2009212.99 / \u20b9\u200914,950"
    }
   ],
   "Tests": [
    {
-    "Performance": "\nBasemark OS II: 3196 / Basemark OS II 2.0: 3126Basemark X: 34654",
+    "Performance": "\r\nAnTuTu: 224759 (v7); 279355 (v8)\r\nGeekBench: 6999 (v4.4); 1622 (v5.1)\r\nGFXBench: 14fps (ES 3.1 onscreen)",
     "Display": "\nContrast ratio: 1326:1 (nominal)",
     "Camera": "\nPhoto / Video",
     "Loudspeaker": "\nVoice 64dB / Noise 71dB / Ring 82dB\n",

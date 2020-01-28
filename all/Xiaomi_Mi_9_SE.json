@@ -99,12 +99,12 @@
     "Colors": "Violet, Blue, Gray",
     "Models": "M1903F2G",
     "SAR": "1.39 W/kg (head) \u00a0 \u00a0 1.39 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009153.99 / \u00a3\u2009229.49 / \u20ac\u2009313.51"
+    "Price": "$\u2009153.99 / \u00a3\u2009229.50 / \u20ac\u2009313.51"
    }
   ],
   "Tests": [
    {
-    "Performance": "\nBasemark OS II 2.0: 2841 / Basemark X: 30100",
+    "Performance": "\r\nBasemark OS II 2.0: 2841Basemark X: 30100",
     "Display": "\nContrast ratio: Infinite (nominal)",
     "Camera": "\nPhoto / Video",
     "Loudspeaker": "\nVoice 86dB / Noise 79dB / Ring 87dB\n",

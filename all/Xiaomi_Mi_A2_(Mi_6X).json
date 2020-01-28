@@ -46,7 +46,8 @@
   "Memory": [
    {
     "Card slot": "No",
-    "Internal": "32GB 4GB RAM, 64GB 4GB RAM, 128GB 6GB RAM"
+    "Internal": "32GB 4GB RAM, 64GB 4GB RAM, 128GB 6GB RAM",
+    "info": "eMMC 5.1"
    }
   ],
   "Main Camera": [
@@ -100,7 +101,7 @@
   ],
   "Tests": [
    {
-    "Performance": "\nBasemark OS II: 2631 / Basemark OS II 2.0: 2240Basemark X: 21378",
+    "Performance": "\r\nBasemark OS II 2.0: 2240Basemark X: 21378",
     "Camera": "\nPhoto / Video",
     "Loudspeaker": "\nVoice 89dB / Noise 72dB / Ring 89dB\n",
     "Battery life": "\n\nEndurance rating 73h\n\n"

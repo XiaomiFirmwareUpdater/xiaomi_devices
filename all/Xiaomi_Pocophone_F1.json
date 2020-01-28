@@ -95,12 +95,12 @@
     "Colors": "Graphite Black, Steel Blue, Rosso Red, Armored Edition with Kevlar",
     "Models": "M1805E10A",
     "SAR": "0.54 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009220.00 / \u00a3\u2009235.99 / \u20b9\u200912,499"
+    "Price": "$\u2009220.00 / \u00a3\u2009235.99 / \u20b9\u200911,999"
    }
   ],
   "Tests": [
    {
-    "Performance": "\nBasemark OS II: 4034 / Basemark OS II 2.0: 3713Basemark X: 43652",
+    "Performance": "\r\nBasemark OS II 2.0: 3713Basemark X: 43652",
     "Display": "\nContrast ratio: 1468:1 (nominal), 3.059 (sunlight)",
     "Camera": "\nPhoto / Video",
     "Loudspeaker": "\nVoice 72dB / Noise 74dB / Ring 86dB\n",

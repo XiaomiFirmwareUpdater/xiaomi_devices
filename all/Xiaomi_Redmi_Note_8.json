@@ -103,7 +103,7 @@
   ],
   "Tests": [
    {
-    "Performance": "\nBasemark OS II: 2923 / Basemark OS II 2.0: 2272Basemark X: 17636",
+    "Performance": "\r\nBasemark OS II 2.0: 2272Basemark X: 17636",
     "Display": "\nContrast ratio: 1521:1 (nominal)",
     "Camera": "\nPhoto / Video",
     "Loudspeaker": "\nVoice 78dB / Noise 72dB / Ring 81dB\n",

@@ -99,12 +99,12 @@
     "Colors": "Lavender Violet, Ocean Blue, Piano Black",
     "Models": "M1902F1G",
     "SAR": "1.39 W/kg (head) \u00a0 \u00a0 1.30 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009319.99 / \u00a3\u2009356.09 / \u20ac\u2009367.00"
+    "Price": "$\u2009319.99 / \u00a3\u2009334.00 / \u20ac\u2009367.00"
    }
   ],
   "Tests": [
    {
-    "Performance": "\nBasemark OS II: 5074 / Basemark OS II 2.0: 5346Basemark X: 45089",
+    "Performance": "\r\nBasemark OS II 2.0: 5346Basemark X: 45089",
     "Display": "\nContrast ratio: Infinite (nominal), 3.921 (sunlight)",
     "Camera": "\nPhoto / Video",
     "Loudspeaker": "\nVoice 70dB / Noise 74dB / Ring 81dB\n",

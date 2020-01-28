@@ -94,12 +94,12 @@
     "Colors": "Black, Gold, Blue, Rose Gold",
     "Models": "MEG7, MEI7",
     "SAR": "1.01 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009152.99 / \u00a3\u2009110.55 / \u20b9\u20098,950"
+    "Price": "$\u2009152.99 / \u00a3\u2009117.61 / \u20b9\u20098,980"
    }
   ],
   "Tests": [
    {
-    "Performance": "\nBasemark OS II: 1426 / Basemark OS II 2.0: 1226Basemark X: 10484",
+    "Performance": "\r\nBasemark OS II 2.0: 1226Basemark X: 10484",
     "Display": "\nContrast ratio: 1431:1 (nominal), 2.913 (sunlight)",
     "Camera": "\nPhoto / Video",
     "Loudspeaker": "\nVoice 71dB / Noise 72dB / Ring 87dB\n",

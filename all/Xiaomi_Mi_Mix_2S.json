@@ -100,7 +100,7 @@
   ],
   "Tests": [
    {
-    "Performance": "\nBasemark OS II: 4282 / Basemark OS II 2.0: 3155Basemark X: 44267",
+    "Performance": "\r\nBasemark OS II 2.0: 3155Basemark X: 44267",
     "Loudspeaker": "\nVoice 68dB / Noise 70dB / Ring 81dB\n",
     "Audio quality": "\nNoise -93.0dB / Crosstalk -92.5dB",
     "Battery life": "\n\nEndurance rating 59h\n\n"

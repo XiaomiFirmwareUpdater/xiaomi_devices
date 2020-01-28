@@ -46,7 +46,8 @@
   "Memory": [
    {
     "Card slot": "microSDXC (dedicated slot)",
-    "Internal": "16GB 2GB RAM, 32GB 3GB RAM"
+    "Internal": "16GB 2GB RAM, 32GB 3GB RAM",
+    "info": "eMMC 5.1"
    }
   ],
   "Main Camera": [
