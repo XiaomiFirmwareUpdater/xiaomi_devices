@@ -47,7 +47,8 @@
   "Memory": [
    {
     "Card slot": "microSDXC (uses shared SIM slot)",
-    "Internal": "32GB 3GB RAM, 64GB 4GB RAM"
+    "Internal": "32GB 3GB RAM, 64GB 4GB RAM",
+    "info": "eMMC 5.1"
    }
   ],
   "Main Camera": [
@@ -95,7 +96,7 @@
    {
     "Colors": "Onyx Black, Sapphire Blue, Ruby Red, Astro White",
     "Models": "M1901F71",
-    "Price": "\u20b9\u20098,895"
+    "Price": "\u20b9\u20098,850"
    }
   ]
  }

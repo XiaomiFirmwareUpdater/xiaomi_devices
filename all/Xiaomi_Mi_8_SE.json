@@ -99,7 +99,7 @@
   ],
   "Tests": [
    {
-    "Performance": "\r\nBasemark OS II 2.0: 2658Basemark X: 27560",
+    "Performance": "\r\nAnTuTu: 169044 (v7)\nGeekBench: 5912 (v4.4)\nGFXBench: 12fps (ES 3.1 onscreen)",
     "Display": "\nContrast ratio: Infinite (nominal), 3.901 (sunlight)",
     "Camera": "\nPhoto / Video",
     "Loudspeaker": "\nVoice 70dB / Noise 74dB / Ring 85dB\n",

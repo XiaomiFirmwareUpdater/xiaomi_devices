@@ -46,7 +46,8 @@
   "Memory": [
    {
     "Card slot": "microSDXC (dedicated slot)",
-    "Internal": "32GB 3GB RAM, 64GB 4GB RAM"
+    "Internal": "32GB 3GB RAM, 64GB 4GB RAM",
+    "info": "eMMC 5.1"
    }
   ],
   "Main Camera": [
@@ -101,7 +102,7 @@
   ],
   "Tests": [
    {
-    "Performance": "\r\nBasemark OS II 2.0: 942Basemark X: 8084",
+    "Performance": "\r\nGeekBench: 2610 (v4.4)\nGFXBench: 5.6fps (ES 3.1 onscreen)",
     "Display": "\nContrast ratio: 1673:1 (nominal), 2.556 (sunlight)",
     "Camera": "\nPhoto / Video",
     "Loudspeaker": "\nVoice 68dB / Noise 72dB / Ring 86dB\n",

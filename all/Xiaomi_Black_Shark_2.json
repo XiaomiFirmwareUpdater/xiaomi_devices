@@ -47,7 +47,8 @@
   "Memory": [
    {
     "Card slot": "No",
-    "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM"
+    "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",
+    "info": "UFS 2.1"
    }
   ],
   "Main Camera": [
@@ -99,7 +100,7 @@
   ],
   "Tests": [
    {
-    "Performance": "\r\nBasemark OS II 2.0: 3450Basemark X: 43768",
+    "Performance": "\r\nAnTuTu: 343460 (v7)\nGeekBench: 11192 (v4.4)\nGFXBench: 36fps (ES 3.1 onscreen)",
     "Display": "\nContrast ratio: Infinite (nominal)",
     "Camera": "\nPhoto / Video",
     "Loudspeaker": "\nVoice 67dB / Noise 73dB / Ring 82dB\n",

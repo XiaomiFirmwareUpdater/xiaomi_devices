@@ -98,12 +98,12 @@
     "Colors": "Carbon black, Flame red, Glacier blue, Summer Honey, Pearl White",
     "Models": "M1903F11I",
     "SAR": "1.03 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009369.99 / \u20b9\u200920,999"
+    "Price": "$\u2009369.99 / \u20b9\u200920,974"
    }
   ],
   "Tests": [
    {
-    "Performance": "\r\nBasemark OS II 2.0: 5012Basemark X: 45788",
+    "Performance": "\r\nAnTuTu: 368846 (v7), 437823 (v8)\nGeekBench: 10684 (v4.4), 2732 (v5.1)\nGFXBench: 36fps (ES 3.1 onscreen)",
     "Display": "\nContrast ratio: Infinite (nominal)",
     "Camera": "\nPhoto / Video",
     "Loudspeaker": "\nVoice 71dB / Noise 75dB / Ring 84dB\n",

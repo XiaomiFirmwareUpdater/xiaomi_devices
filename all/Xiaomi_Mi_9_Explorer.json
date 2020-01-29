@@ -48,7 +48,8 @@
   "Memory": [
    {
     "Card slot": "No",
-    "Internal": "256GB 8GB RAM, 256GB 12GB RAM"
+    "Internal": "256GB 8GB RAM, 256GB 12GB RAM",
+    "info": "UFS 2.1"
    }
   ],
   "Main Camera": [

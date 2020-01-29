@@ -45,7 +45,8 @@
   "Memory": [
    {
     "Card slot": "microSDXC (uses shared SIM slot)",
-    "Internal": "16GB 2GB RAM, 32GB 2GB RAM"
+    "Internal": "16GB 2GB RAM, 32GB 2GB RAM",
+    "info": "eMMC 5.1"
    }
   ],
   "Main Camera": [
@@ -97,6 +98,7 @@
   ],
   "Tests": [
    {
+    "Performance": "\r\nGeekBench: 1781 (v4.4)",
     "Camera": "\nPhoto / Video"
    }
   ]

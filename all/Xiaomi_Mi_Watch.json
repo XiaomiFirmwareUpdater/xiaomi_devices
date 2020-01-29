@@ -45,7 +45,8 @@
   "Memory": [
    {
     "Card slot": "No",
-    "Internal": "8GB 1GB RAM"
+    "Internal": "8GB 1GB RAM",
+    "info": "eMMC 4.5"
    }
   ],
   "Camera": [

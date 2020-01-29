@@ -46,7 +46,8 @@
   "Memory": [
    {
     "Card slot": "microSDXC (dedicated slot)",
-    "Internal": "16GB 2GB RAM, 32GB 2GB RAM, 32GB 3GB RAM"
+    "Internal": "16GB 2GB RAM, 32GB 2GB RAM, 32GB 3GB RAM",
+    "info": "eMMC 5.1"
    }
   ],
   "Main Camera": [
@@ -92,7 +93,12 @@
     "Colors": "Black, Grey, Blue, Gold, Rose Gold",
     "Models": "M1804C3CG, M1804C3CH, M1804C3CI",
     "SAR": "0.66 W/kg (head) \u00a0 \u00a0 1.52 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009225.20 / \u00a3\u200972.63 / \u20b9\u20095,399"
+    "Price": "$\u2009225.20 / \u00a3\u200976.10 / \u20b9\u20095,749"
+   }
+  ],
+  "Tests": [
+   {
+    "Performance": "\r\nAnTuTu: 61660 (v7)\nGeekBench: 2450 (v4.4)\nGFXBench: 3.1fps (ES 3.1 onscreen)"
    }
   ]
  }

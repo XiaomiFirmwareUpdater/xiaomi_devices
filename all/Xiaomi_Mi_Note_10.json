@@ -105,7 +105,12 @@
   ],
   "Tests": [
    {
-    "Performance": "\r\nBasemark OS II 2.0: 3278"
+    "Performance": "\r\nAnTuTu: 213566 (v7), 256717 (v8)\nGeekBench: 6737 (v4.4)\nGFXBench: 15fps (ES 3.1 onscreen)",
+    "Display": "\nContrast ratio: Infinite (nominal)",
+    "Camera": "\nPhoto / Video",
+    "Loudspeaker": "\nVoice 69dB / Noise 72dB / Ring 66dB\n",
+    "Audio quality": "\nNoise -92.3dB / Crosstalk -89.7dB",
+    "Battery life": "\n\nEndurance rating 95h\n\n"
    }
   ]
  }

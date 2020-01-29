@@ -96,7 +96,7 @@
   ],
   "Tests": [
    {
-    "Performance": "\nBasemark OS II: 1648 / Basemark OS II 2.0: 1696Basemark X: 23846",
+    "Performance": "\r\nBasemark OS II 2.0: 1696Basemark X: 23846",
     "Camera": "\nPhoto / Video",
     "Battery life": "\n\nEndurance rating 80h\n\n"
    }

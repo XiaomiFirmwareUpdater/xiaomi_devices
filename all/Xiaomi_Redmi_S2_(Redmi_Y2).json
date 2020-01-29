@@ -46,7 +46,8 @@
   "Memory": [
    {
     "Card slot": "microSDXC (dedicated slot)",
-    "Internal": "32GB 3GB RAM, 64GB 4GB RAM"
+    "Internal": "32GB 3GB RAM, 64GB 4GB RAM",
+    "info": "eMMC 5.1"
    }
   ],
   "Main Camera": [
@@ -95,12 +96,12 @@
     "Colors": "Gray, Gold, Rose Gold, Mesmerising Blue, Stunning Black",
     "Models": "M1803E6G, M1803E6H, M1803E6I",
     "SAR": "0.43 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009105.99 / \u00a3\u2009100.58 / \u20ac\u2009169.95 / \u20b9\u20097,192"
+    "Price": "$\u2009105.99 / \u00a3\u2009100.58 / \u20ac\u2009169.95 / \u20b9\u20097,719"
    }
   ],
   "Tests": [
    {
-    "Performance": "\r\nBasemark OS II 2.0: 1186Basemark X: 10453",
+    "Performance": "\r\nAnTuTu: 77488 (v7)\nGeekBench: 4313 (v4.4)\nGFXBench: 7.4fps (ES 3.1 onscreen)",
     "Display": "\nContrast ratio: 1072:1 (nominal), 3.077 (sunlight)",
     "Camera": "\nPhoto / Video",
     "Loudspeaker": "\nVoice 68dB / Noise 69dB / Ring 82dB\n",

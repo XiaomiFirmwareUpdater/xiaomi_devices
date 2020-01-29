@@ -100,7 +100,7 @@
   ],
   "Tests": [
    {
-    "Performance": "\nBasemark OS II: 2814 / Basemark OS II 2.0: 2381Basemark X: 36506",
+    "Performance": "\r\nGFXBench: 20fps (ES 3.1 onscreen)",
     "Display": "\nContrast ratio: 66800 (nominal), 3.228 (sunlight)",
     "Camera": "\nPhoto / Video",
     "Loudspeaker": "\nVoice 63dB / Noise 68dB / Ring 76dB\n",

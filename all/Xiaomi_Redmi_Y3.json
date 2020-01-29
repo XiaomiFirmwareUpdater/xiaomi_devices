@@ -48,7 +48,8 @@
   "Memory": [
    {
     "Card slot": "microSDXC (dedicated slot)",
-    "Internal": "32GB 3GB RAM, 64GB 4GB RAM"
+    "Internal": "32GB 3GB RAM, 64GB 4GB RAM",
+    "info": "eMMC 5.1"
    }
   ],
   "Main Camera": [
@@ -97,7 +98,12 @@
     "Colors": "Elegant Blue, Bold Red, Prime Black",
     "Models": "M1810F6G, M1810F6I",
     "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.25 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "\u20b9\u20097,990"
+    "Price": "\u20b9\u20097,999"
+   }
+  ],
+  "Tests": [
+   {
+    "Performance": "\r\nAnTuTu: 103259 (v7)\nGeekBench: 4292 (v4.4)\nGFXBench: 7.7fps (ES 3.1 onscreen)"
    }
   ]
  }

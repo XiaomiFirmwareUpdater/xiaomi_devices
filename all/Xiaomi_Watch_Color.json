@@ -44,7 +44,8 @@
   ],
   "Memory": [
    {
-    "Card slot": "No"
+    "Card slot": "No",
+    "info": "eMMC"
    }
   ],
   "Camera": [

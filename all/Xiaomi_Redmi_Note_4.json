@@ -45,7 +45,8 @@
   "Memory": [
    {
     "Card slot": "microSDXC (uses shared SIM slot)",
-    "Internal": "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"
+    "Internal": "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM",
+    "info": "eMMC 5.1"
    }
   ],
   "Main Camera": [
@@ -98,7 +99,7 @@
   ],
   "Tests": [
    {
-    "Performance": "\nBasemark OS II: 1290 / Basemark OS II 2.0: 1050Basemark X: 10446",
+    "Performance": "\r\nGFXBench: 3.4fps (ES 3.1 onscreen)",
     "Display": "\nContrast ratio: 1503:1 (nominal), 2.714 (sunlight)",
     "Camera": "\nPhoto / Video",
     "Loudspeaker": "\nVoice 67dB / Noise 70dB / Ring 81dB\n",

@@ -48,7 +48,7 @@
    {
     "Card slot": "microSDXC (uses shared SIM slot)",
     "Internal": "32GB 3GB RAM, 64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM",
-    "info": "eMMC"
+    "info": "eMMC 5.1"
    }
   ],
   "Main Camera": [
@@ -97,12 +97,12 @@
     "Colors": "Blue, Black, Twilight Gold, White",
     "Models": "M1901F7G, M1901F7H, M1901F7I",
     "SAR": "0.59 W/kg (head) \u00a0 \u00a0 1.27 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009137.93 / \u00a3\u2009139.99 / \u20ac\u2009169.99 / \u20b9\u20099,970"
+    "Price": "$\u2009137.93 / \u00a3\u2009139.99 / \u20ac\u2009169.90 / \u20b9\u20099,200"
    }
   ],
   "Tests": [
    {
-    "Performance": "\r\nBasemark OS II 2.0: 2260Basemark X: 21201",
+    "Performance": "\r\nAnTuTu: 139075 (v7)\r\nGeekBench: 5411 (v4.4)\r\nGFXBench: 7.7fps (ES 3.1 onscreen)",
     "Display": "\nContrast ratio: 1338:1 (nominal), 2.893 (sunlight)",
     "Camera": "\nPhoto / Video",
     "Loudspeaker": "\nVoice 69dB / Noise 71dB / Ring 90dB\n",
