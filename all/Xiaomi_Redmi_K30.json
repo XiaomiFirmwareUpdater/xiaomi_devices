@@ -104,7 +104,7 @@
   ],
   "Tests": [
    {
-    "Performance": "\r\nAnTuTu: 218200 (v7), 272229 (v8)\nGeekBench: 7008 (v4.4), 1692 (v5.1)\nGFXBench: 15fps (ES 3.1 onscreen)",
+    "Performance": "\r\nAnTuTu: 218200 (v7), 272229 (v8)\r\nGeekBench: 7008 (v4.4), 1692 (v5.1)\r\nGFXBench: 15fps (ES 3.1 onscreen)",
     "Display": "\nContrast ratio: 1378:1 (nominal)",
     "Camera": "\nPhoto / Video",
     "Audio quality": "\nNoise -94.0dB / Crosstalk -93.0dB",
