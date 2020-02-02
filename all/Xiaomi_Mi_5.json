@@ -47,7 +47,8 @@
   "Memory": [
    {
     "Card slot": "No",
-    "Internal": "32GB 3GB RAM (Standard), 64GB 3GB RAM (Prime), 128GB 4GB RAM (Pro)"
+    "Internal": "32GB 3GB RAM (Standard), 64GB 3GB RAM (Prime), 128GB 4GB RAM (Pro)",
+    "info": "UFS 2.0"
    }
   ],
   "Main Camera": [
@@ -101,7 +102,7 @@
   ],
   "Tests": [
    {
-    "Performance": "\nBasemark OS II: 2444 / Basemark OS II 2.0: 2180Basemark X: 33110",
+    "Performance": "\r\nBasemark OS II 2.0: 2180Basemark X: 33110",
     "Display": "\nContrast ratio: 1227:1 (nominal), 3.240 (sunlight)",
     "Camera": "\nPhoto / Video",
     "Loudspeaker": "\nVoice 67dB / Noise 67dB / Ring 74dB\n",

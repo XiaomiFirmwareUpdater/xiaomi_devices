@@ -46,7 +46,8 @@
   "Memory": [
    {
     "Card slot": "microSDXC (uses shared SIM slot)",
-    "Internal": "32GB 2GB RAM"
+    "Internal": "32GB 2GB RAM",
+    "info": "eMMC 5.1"
    }
   ],
   "Main Camera": [

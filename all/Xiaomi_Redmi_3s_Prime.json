@@ -46,7 +46,8 @@
   "Memory": [
    {
     "Card slot": "microSDXC (uses shared SIM slot)",
-    "Internal": "32GB 3GB RAM"
+    "Internal": "32GB 3GB RAM",
+    "info": "eMMC 5.1"
    }
   ],
   "Main Camera": [
@@ -98,7 +99,7 @@
   ],
   "Tests": [
    {
-    "Performance": "\nBasemark OS II 2.0: 800 / Basemark X: 7263",
+    "Performance": "\r\nGFXBench: 4.9fps (ES 3.1 onscreen)",
     "Camera": "\nPhoto / Video",
     "Battery life": "\n\nEndurance rating 85h\n\n"
    }
