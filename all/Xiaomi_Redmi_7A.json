@@ -40,7 +40,7 @@
    {
     "OS": "Android 9.0 (Pie); MIUI 11",
     "Chipset": "Qualcomm SDM439 Snapdragon 439 (12 nm)",
-    "CPU": "Octa-core (2x1.95 GHz Cortex-A53 & 4x1.45 GHz Cortex A53)",
+    "CPU": "Octa-core (4x1.95 GHz Cortex-A53 & 4x1.45 GHz Cortex A53)",
     "GPU": "Adreno 505"
    }
   ],
