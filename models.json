@@ -1095,6 +1095,14 @@
   }
  },
  {
+  "codename": "phoenixin",
+  "internal_name": "G7B",
+  "name": "POCO X2",
+  "models": {
+   "M1912G7BI": "POCO X2 India"
+  }
+ },
+ {
   "codename": "shark",
   "internal_name": "",
   "name": "Black Shark (`shark`)",
