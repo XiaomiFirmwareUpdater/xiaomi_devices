@@ -1,5 +1,111 @@
 [
  {
+  "name": "Xiaomi Poco X2",
+  "codename": "",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x2.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_poco_x2-10050.php",
+  "specs": {
+   "Network": [
+    {
+     "Technology": "GSM / HSPA / LTE",
+     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+     "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
+     "4G bands": "LTE band 1(2100), 3(1800), 5(850), 8(900), 40(2300), 41(2500)",
+     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A"
+    }
+   ],
+   "Launch": [
+    {
+     "Announced": "2020, February",
+     "Status": "Coming soon. Exp. release 2020, February 11"
+    }
+   ],
+   "Body": [
+    {
+     "Dimensions": "165.3 x 76.6 x 8.8 mm (6.51 x 3.02 x 0.35 in)",
+     "Weight": "208 g (7.34 oz)",
+     "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
+     "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+     "info": "Splash resistant"
+    }
+   ],
+   "Display": [
+    {
+     "Type": "IPS LCD capacitive touchscreen, 16M colors",
+     "Size": "6.67 inches, 112.5 cm2 (~88.8% screen-to-body ratio)",
+     "Resolution": "1080 x 2400 pixels, 20:9 ratio (~386 ppi density)",
+     "Protection": "Corning Gorilla Glass 5",
+     "info": "HDR10\r\n120Hz\r\n500 nits typ. brightness"
+    }
+   ],
+   "Platform": [
+    {
+     "OS": "Android 10.0; MIUI 11",
+     "Chipset": "Qualcomm SDM730 Snapdragon 730G (8 nm)",
+     "CPU": "Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)",
+     "GPU": "Adreno 618"
+    }
+   ],
+   "Memory": [
+    {
+     "Card slot": "microSDXC (uses shared SIM slot)",
+     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM",
+     "info": "UFS 2.1\n\n"
+    }
+   ],
+   "Main Camera": [
+    {
+     "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.7\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m, depth sensor",
+     "Features": "Dual-LED flash, HDR, panorama",
+     "Video": "2160p@30fps, 1080p@30/120fps, 720p@960fps; gyro-EIS"
+    }
+   ],
+   "Selfie camera": [
+    {
+     "Dual": "20 MP, f/2.2, 27mm (wide), 1/3.4\", 0.8\u00b5m\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m, depth sensor",
+     "Features": "HDR",
+     "Video": "1080p@30fps"
+    }
+   ],
+   "Sound": [
+    {
+     "Loudspeaker ": "Yes",
+     "3.5mm jack ": "Yes",
+     "info": "24-bit/192kHz audio"
+    }
+   ],
+   "Comms": [
+    {
+     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+     "Bluetooth": "5.0, A2DP, LE",
+     "GPS": "Yes, with A-GPS, GLONASS, BDS",
+     "Infrared port": "Yes",
+     "Radio": "FM radio, recording",
+     "USB": "2.0, Type-C 1.0 reversible connector, USB On-The-Go"
+    }
+   ],
+   "Features": [
+    {
+     "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+    }
+   ],
+   "Battery": [
+    {
+     "info": "Non-removable Li-Po 4500 mAh battery",
+     "Charging": "Fast battery charging 27W (100% in 68 min)"
+    }
+   ],
+   "Misc": [
+    {
+     "Colors": "Atlantis Blue, Matrix Purple, Phoenix Red",
+     "Models": "MZB9011IN, MZB9012IN, MZB9013IN, MZB8741IN, MZB8742IN, MZB8743IN, MZB8744IN, MZB8745IN, MZB8746IN",
+     "SAR": "1.08 W/kg (head) \u00a0 \u00a0 0.62 W/kg (body) \u00a0 \u00a0 ",
+     "Price": "About 200 EUR"
+    }
+   ]
+  }
+ },
+ {
   "name": "Xiaomi Redmi K30",
   "codename": "picasso",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30.jpg",
@@ -32,8 +138,8 @@
    "Display": [
     {
      "Type": "IPS LCD capacitive touchscreen, 16M colors",
-     "Size": "6.67 inches, 107.4 cm2 (~84.8% screen-to-body ratio)",
-     "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+     "Size": "6.67 inches, 112.5 cm2 (~88.8% screen-to-body ratio)",
+     "Resolution": "1080 x 2400 pixels, 20:9 ratio (~386 ppi density)",
      "Protection": "Corning Gorilla Glass 5",
      "info": "HDR10\r\n120Hz"
     }
@@ -57,7 +163,7 @@
     {
      "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.7\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m, depth sensor",
      "Features": "Dual-LED flash, HDR, panorama",
-     "Video": "2160p@30fps, 1080p@30/120fps, 720p@960fps"
+     "Video": "2160p@30fps, 1080p@30/120fps, 720p@960fps; gyro-EIS"
     }
    ],
    "Selfie camera": [
@@ -101,6 +207,15 @@
      "Colors": "Blue, Red, Purple",
      "Models": "M1912G7BE, M1912G7BC",
      "Price": "$\u2009243.69"
+    }
+   ],
+   "Tests": [
+    {
+     "Performance": "\r\nAnTuTu: 218200 (v7), 272229 (v8)\r\nGeekBench: 7008 (v4.4), 1692 (v5.1)\r\nGFXBench: 15fps (ES 3.1 onscreen)",
+     "Display": "\nContrast ratio: 1378:1 (nominal)",
+     "Camera": "\nPhoto / Video",
+     "Audio quality": "\nNoise -94.0dB / Crosstalk -93.0dB",
+     "Battery life": "\n\nEndurance rating 101h\n\n"
     }
    ]
   }
@@ -259,7 +374,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (dedicated slot)",
-     "Internal": "32GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM"
+     "Internal": "32GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM",
+     "info": "eMMC"
     }
    ],
    "Main Camera": [
@@ -307,12 +423,12 @@
    "Misc": [
     {
      "Colors": "Starscape Blue, Moonlight White, Moonshadow Grey",
-     "Price": "$\u2009148.00 / \u00a3\u2009126.99 / \u20ac\u2009156.89"
+     "Price": "$\u2009157.00 / \u00a3\u2009126.99 / \u20ac\u2009168.00"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 2936 / Basemark OS II 2.0: 17586Basemark X: 2298",
+     "Performance": "\r\nAnTuTu: 141077 (v7), 167395 (v8)\nGeekBench: 5620 (v4.4)\nGFXBench: 5.9fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: 1360:1 (nominal)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 78dB / Noise 74dB / Ring 79dB\n",
@@ -371,7 +487,8 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "256GB 8GB RAM"
+     "Internal": "256GB 8GB RAM",
+     "info": "UFS 2.0"
     }
    ],
    "Main Camera": [
@@ -423,7 +540,7 @@
      "Models": "M1910F4S",
      "SAR": "1.19 W/kg (head) \u00a0 \u00a0 1.18 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "1.11 W/kg (head) \u00a0 \u00a0 1.39 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009479.00 / \u00a3\u2009409.99 / \u20ac\u2009525.00"
+     "Price": "$\u2009545.00 / \u00a3\u2009409.99 / \u20ac\u2009529.00"
     }
    ]
   }
@@ -477,7 +594,8 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "128GB 6GB RAM"
+     "Internal": "128GB 6GB RAM",
+     "info": "UFS 2.0"
     }
    ],
    "Main Camera": [
@@ -529,12 +647,12 @@
      "Models": "M1910F4G",
      "SAR": "1.19 W/kg (head) \u00a0 \u00a0 1.18 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "1.11 W/kg (head) \u00a0 \u00a0 1.39 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009428.00 / \u00a3\u2009370.00 / \u20ac\u2009459.00"
+     "Price": "$\u2009428.00 / \u00a3\u2009364.00 / \u20ac\u2009459.00"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 3925 / Basemark OS II 2.0: 3278Basemark X: 33337",
+     "Performance": "\r\nAnTuTu: 213566 (v7), 256717 (v8)\nGeekBench: 6737 (v4.4)\nGFXBench: 15fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: Infinite (nominal)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 69dB / Noise 72dB / Ring 66dB\n",
@@ -594,7 +712,8 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"
+     "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+     "info": "UFS 2.1"
     }
    ],
    "Main Camera": [
@@ -644,7 +763,12 @@
     {
      "Colors": "Aurora Green, Glacier White, Midnight Black",
      "Models": "M1910F4E",
-     "Price": "$\u2009389.99 / \u00a3\u2009409.99"
+     "Price": "$\u2009389.87 / \u00a3\u2009409.99"
+    }
+   ],
+   "Tests": [
+    {
+     "Performance": "\r\nAnTuTu: 236051 (v8)"
     }
    ]
   }
@@ -695,7 +819,8 @@
    ],
    "Memory": [
     {
-     "Card slot": "No"
+     "Card slot": "No",
+     "info": "eMMC"
     }
    ],
    "Camera": [
@@ -786,7 +911,8 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "8GB 1GB RAM"
+     "Internal": "8GB 1GB RAM",
+     "info": "eMMC 4.5"
     }
    ],
    "Camera": [
@@ -873,14 +999,15 @@
     {
      "OS": "Android 9.0 (Pie); MIUI 11",
      "Chipset": "Qualcomm SDM439 Snapdragon 439 (12 nm)",
-     "CPU": "Octa-core (2x1.95 GHz Cortex-A53 & 6x1.45 GHz Cortex A53)",
+     "CPU": "Octa-core (4x1.95 GHz Cortex-A53 & 4x1.45 GHz Cortex A53)",
      "GPU": "Adreno 505"
     }
    ],
    "Memory": [
     {
      "Card slot": "microSDXC (dedicated slot)",
-     "Internal": "32GB 3GB RAM, 64GB 4GB RAM"
+     "Internal": "32GB 3GB RAM, 64GB 4GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -930,7 +1057,7 @@
      "Models": "M1908C3IC, MZB8255IN, M1908C3IG, M1908C3IH",
      "SAR": "0.34 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.23 W/kg (head) \u00a0 \u00a0 1.48 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009108.89 / \u00a3\u2009115.00 / \u20ac\u2009135.99 / \u20b9\u20097,999"
+     "Price": "$\u2009109.99 / \u00a3\u2009112.00 / \u20ac\u2009129.00 / \u20b9\u20099,092"
     }
    ]
   }
@@ -979,14 +1106,15 @@
     {
      "OS": "Android 9.0 (Pie); MIUI 11",
      "Chipset": "Qualcomm SDM439 Snapdragon 439 (12 nm)",
-     "CPU": "Octa-core (2x1.95 GHz Cortex-A53 & 6x1.45 GHz Cortex A53)",
+     "CPU": "Octa-core (4x1.95 GHz Cortex-A53 & 4x1.45 GHz Cortex A53)",
      "GPU": "Adreno 505"
     }
    ],
    "Memory": [
     {
      "Card slot": "microSDXC (dedicated slot)",
-     "Internal": "32GB 2GB RAM, 32GB 3GB RAM, 64GB 4GB RAM"
+     "Internal": "32GB 2GB RAM, 32GB 3GB RAM, 64GB 4GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -1035,7 +1163,12 @@
      "Models": "MZB8458IN, M1908C3KG, M1908C3KH",
      "SAR": "0.48 W/kg (head) \u00a0 \u00a0 1.07 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.23 W/kg (head) \u00a0 \u00a0 1.48 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u200999.99 / \u00a3\u2009105.08 / \u20ac\u2009114.00 / \u20b9\u20095,999"
+     "Price": "$\u200999.99 / \u00a3\u2009105.08 / \u20ac\u2009121.00 / \u20b9\u20096,499"
+    }
+   ],
+   "Tests": [
+    {
+     "Performance": "\r\nAnTuTu: 89901 (v8)\nGeekBench: 3030 (v4.4)\nGFXBench: 7fps (ES 3.1 onscreen)"
     }
    ]
   }
@@ -1192,7 +1325,8 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM"
+     "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+     "info": "UFS 3.0"
     }
    ],
    "Main Camera": [
@@ -1295,7 +1429,8 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM"
+     "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+     "info": "UFS 2.1"
     }
    ],
    "Main Camera": [
@@ -1478,7 +1613,7 @@
      "Dimensions": "156.8 x 74.5 x 8.7 mm (6.17 x 2.93 x 0.34 in)",
      "Weight": "179 g (6.31 oz)",
      "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
-     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+     "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)"
     }
    ],
    "Display": [
@@ -1553,12 +1688,12 @@
      "Models": "M1904F3BG",
      "SAR": "1.19 W/kg (head) \u00a0 \u00a0 1.15 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "1.42 W/kg (head) \u00a0 \u00a0 1.40 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009247.90 / \u00a3\u2009184.24 / \u20ac\u2009262.82"
+     "Price": "\u20ac\u2009249.00 / $\u2009233.00 / \u00a3\u2009240.07"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 3372 / Basemark OS II 2.0: 2748Basemark X: 27191",
+     "Performance": "\r\nAnTuTu: 175478 (v7), 215277 (v8)\nGeekBench: 5989 (v4.4), 1518 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: Infinite (nominal)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 67dB / Noise 72dB / Ring 83dB\n",
@@ -1668,12 +1803,12 @@
      "Models": "2015105, M1906G7I, M1906G7G",
      "SAR": "1.15 W/kg (head) \u00a0 \u00a0 1.18 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "1.00 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009176.63 / \u00a3\u2009189.99 / \u20ac\u2009207.00 / \u20b9\u200913,999"
+     "Price": "$\u2009179.99 / \u00a3\u2009126.99 / \u20ac\u2009219.89 / \u20b9\u200914,999"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 3196 / Basemark OS II 2.0: 3126Basemark X: 34654",
+     "Performance": "\r\nAnTuTu: 224759 (v7), 279355 (v8)\nGeekBench: 6999 (v4.4), 1622 (v5.1)\nGFXBench: 14fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: 1326:1 (nominal)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 64dB / Noise 71dB / Ring 82dB\n",
@@ -1780,7 +1915,7 @@
     {
      "Colors": "Shadow Black, Iceberg Grey, Gulf Blue, Streamer Purple",
      "Models": "DLT-A0, DLT-H0",
-     "Price": "$\u2009513.99 / \u00a3\u2009549.00"
+     "Price": "$\u2009513.99 / \u00a3\u2009472.00"
     }
    ]
   }
@@ -1833,7 +1968,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM"
+     "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",
+     "info": "UFS 2.1"
     }
    ],
    "Main Camera": [
@@ -1883,12 +2019,12 @@
      "Models": "M1906F9SH, M1906F9SI",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.30 W/kg (head) \u00a0 \u00a0 1.10 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009163.00 / \u00a3\u2009147.99 / \u20ac\u2009173.68 / \u20b9\u200910,985"
+     "Price": "$\u2009165.00 / \u00a3\u2009168.00 / \u20ac\u2009196.00 / \u20b9\u200910,783"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 2867 / Basemark OS II 2.0: 2345Basemark X: 17948",
+     "Performance": "\r\nBasemark OS II 2.0: 2345Basemark X: 17948",
      "Display": "\nContrast ratio: Infinite (nominal)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 74dB / Noise 74dB / Ring 81dB\n",
@@ -1940,14 +2076,15 @@
     {
      "OS": "Android 9.0 (Pie); MIUI 11",
      "Chipset": "Qualcomm SDM439 Snapdragon 439 (12 nm)",
-     "CPU": "Octa-core (2x2.0 GHz Cortex-A53 & 6x1.45 GHz Cortex A53)",
+     "CPU": "Octa-core (4x1.95 GHz Cortex-A53 & 4x1.45 GHz Cortex A53)",
      "GPU": "Adreno 505"
     }
    ],
    "Memory": [
     {
      "Card slot": "microSDXC (dedicated slot)",
-     "Internal": "16GB 2GB RAM, 32GB 2GB RAM, 32GB 3GB RAM"
+     "Internal": "16GB 2GB RAM, 32GB 2GB RAM, 32GB 3GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -1995,7 +2132,7 @@
      "Colors": "Matte Black, Morning blue, Matte Blue, Matte Gold, Gem Red, Gem Blue",
      "Models": "MZB7995IN, M1903C3EG, M1903C3EH, M1903C3EI",
      "SAR": "0.74 W/kg (head) \u00a0 \u00a0 0.79 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u200982.99 / \u00a3\u200974.98 / \u20ac\u200987.85 / \u20b9\u20094,999"
+     "Price": "\u20ac\u200987.85 / $\u200983.34 / \u00a3\u200974.98 / \u20b9\u20094,999"
     }
    ]
   }
@@ -2027,7 +2164,7 @@
      "Dimensions": "156.8 x 74.5 x 8.7 mm (6.17 x 2.93 x 0.34 in)",
      "Weight": "179 g (6.31 oz)",
      "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
-     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+     "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)"
     }
    ],
    "Display": [
@@ -2131,7 +2268,7 @@
      "Dimensions": "153.5 x 71.9 x 8.5 mm (6.04 x 2.83 x 0.33 in)",
      "Weight": "173.8 g (6.14 oz)",
      "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), plastic frame",
-     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+     "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)"
     }
    ],
    "Display": [
@@ -2254,7 +2391,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (dedicated slot)",
-     "Internal": "32GB 3GB RAM, 64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM, 128GB 6GB RAM"
+     "Internal": "32GB 3GB RAM, 64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",
+     "info": "eMMC"
     }
    ],
    "Main Camera": [
@@ -2304,12 +2442,12 @@
      "Models": "M1908C3JH, M1908C3JG, M1908C3JI",
      "SAR": "0.26 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "0.19 W/kg (head) \u00a0 \u00a0 1.09 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009133.95 / \u00a3\u2009126.99 / \u20ac\u2009174.99 / \u20b9\u20099,999"
+     "Price": "$\u2009134.79 / \u00a3\u2009126.99 / \u20ac\u2009154.90 / \u20b9\u20099,999"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 2923 / Basemark OS II 2.0: 2272Basemark X: 17636",
+     "Performance": "\r\nAnTuTu: 141915 (v7), 161572 (v8)\nGeekBench: 5590 (v4.4), 1339 (v5.1)\nGFXBench: 5.9fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: 1521:1 (nominal)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 78dB / Noise 72dB / Ring 81dB\n",
@@ -2368,7 +2506,8 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM"
+     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM",
+     "info": "UFS 2.1"
     }
    ],
    "Main Camera": [
@@ -2419,12 +2558,12 @@
      "Models": "M1903F11G",
      "SAR": "1.03 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
      "SAR EU": "1.30 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009340.00 / \u00a3\u2009315.14 / \u20ac\u2009365.99"
+     "Price": "$\u2009340.00 / \u00a3\u2009319.08 / \u20ac\u2009389.00"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 5269 / Basemark OS II 2.0: 5012Basemark X: 45788",
+     "Performance": "\r\nBasemark OS II 2.0: 5012Basemark X: 45788",
      "Display": "\nContrast ratio: Infinite (nominal)",
      "Loudspeaker": "\nVoice 71dB / Noise 75dB / Ring 84dB\n",
      "Audio quality": "\nNoise -93.9dB / Crosstalk -94.2dB",
@@ -2482,7 +2621,8 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "64GB 6GB RAM, 128GB 6GB RAM"
+     "Internal": "64GB 6GB RAM, 128GB 6GB RAM",
+     "info": "UFS 2.0"
     }
    ],
    "Main Camera": [
@@ -2532,12 +2672,12 @@
      "Colors": "Carbon black, Red flame, Glacier blue",
      "Models": "M1903F10G",
      "SAR EU": "1.34 W/kg (head) \u00a0 \u00a0 1.51 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009264.00 / \u00a3\u2009269.00 / \u20ac\u2009299.00"
+     "Price": "\u20ac\u2009286.50 / $\u2009249.99 / \u00a3\u2009242.29"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 3802 / Basemark OS II 2.0: 3102Basemark X: 31318",
+     "Performance": "\r\nBasemark OS II 2.0: 3102Basemark X: 31318",
      "Display": "\nContrast ratio: Infinite (nominal)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 70dB / Noise 74dB / Ring 81dB\n",
@@ -2647,7 +2787,7 @@
      "Colors": "Carbon black, Red flame, Glacier blue, Pearl White",
      "Models": "M1903F10I",
      "SAR": "1.07 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009278.78 / \u20b9\u200919,999"
+     "Price": "$\u2009239.99 / \u20b9\u200916,989"
     }
    ]
   }
@@ -2752,12 +2892,12 @@
      "Colors": "Carbon black, Flame red, Glacier blue, Summer Honey, Pearl White",
      "Models": "M1903F11I",
      "SAR": "1.03 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009369.99 / \u20b9\u200922,599"
+     "Price": "$\u2009369.99 / \u20b9\u200920,899"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 5269 / Basemark OS II 2.0: 5012Basemark X: 45788",
+     "Performance": "\r\nAnTuTu: 368846 (v7), 437823 (v8)\nGeekBench: 10684 (v4.4), 2732 (v5.1)\nGFXBench: 36fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: Infinite (nominal)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 71dB / Noise 75dB / Ring 84dB\n",
@@ -2816,7 +2956,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "32GB 3GB RAM, 64GB 4GB RAM"
+     "Internal": "32GB 3GB RAM, 64GB 4GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -2864,7 +3005,7 @@
     {
      "Colors": "Onyx Black, Sapphire Blue, Ruby Red, Astro White",
      "Models": "M1901F71",
-     "Price": "\u20b9\u20098,879"
+     "Price": "\u20b9\u20097,649"
     }
    ]
   }
@@ -2919,7 +3060,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (dedicated slot)",
-     "Internal": "32GB 3GB RAM, 64GB 4GB RAM"
+     "Internal": "32GB 3GB RAM, 64GB 4GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -2968,7 +3110,12 @@
      "Colors": "Elegant Blue, Bold Red, Prime Black",
      "Models": "M1810F6G, M1810F6I",
      "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.25 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "\u00a3\u2009159.00 / \u20b9\u20097,999"
+     "Price": "\u20b9\u20097,999"
+    }
+   ],
+   "Tests": [
+    {
+     "Performance": "\r\nAnTuTu: 103259 (v7)\nGeekBench: 4292 (v4.4)\nGFXBench: 7.7fps (ES 3.1 onscreen)"
     }
    ]
   }
@@ -3022,7 +3169,8 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM"
+     "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",
+     "info": "UFS 2.1"
     }
    ],
    "Main Camera": [
@@ -3069,12 +3217,12 @@
     {
      "Colors": "Black, Silver, Blue",
      "Models": "SKW-H0, SKW-A0",
-     "Price": "$\u2009345.99 / \u00a3\u2009359.00 / \u20ac\u2009439.00 / \u20b9\u200929,999"
+     "Price": "$\u2009345.99 / \u00a3\u2009399.00 / \u20ac\u2009439.00 / \u20b9\u200929,999"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 4361 / Basemark OS II 2.0: 3450Basemark X: 43768",
+     "Performance": "\r\nAnTuTu: 343460 (v7)\nGeekBench: 11192 (v4.4)\nGFXBench: 36fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: Infinite (nominal)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 67dB / Noise 73dB / Ring 82dB\n",
@@ -3134,7 +3282,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (dedicated slot)",
-     "Internal": "16GB 2GB RAM, 32GB 2GB RAM, 32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"
+     "Internal": "16GB 2GB RAM, 32GB 2GB RAM, 32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -3183,7 +3332,12 @@
      "Colors": "Lunar Red, Eclipse Black, Comet Blue",
      "Models": "M1810F6LG, M1810F6LH, M1810F6LI",
      "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.25 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009111.99 / \u00a3\u2009109.95 / \u20ac\u2009140.17 / \u20b9\u20097,498"
+     "Price": "$\u2009111.99 / \u00a3\u2009109.95 / \u20ac\u2009143.34 / \u20b9\u20097,250"
+    }
+   ],
+   "Tests": [
+    {
+     "Performance": "\r\nAnTuTu: 102616 (v7)\nGeekBench: 4276 (v4.4)\nGFXBench: 7.7fps (ES 3.1 onscreen)"
     }
    ]
   }
@@ -3236,7 +3390,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM"
+     "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM",
+     "info": "UFS 2.1"
     }
    ],
    "Main Camera": [
@@ -3285,7 +3440,12 @@
      "Colors": "Nebula Red, Neptune Blue, Space Black, Astro White",
      "Models": "M1901F7S",
      "SAR": "0.96 W/kg (head) \u00a0 \u00a0 0.84 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009163.95 / \u00a3\u2009249.00 / \u20b9\u20097,847"
+     "Price": "$\u2009163.95 / \u00a3\u2009208.90 / \u20b9\u20097,982"
+    }
+   ],
+   "Tests": [
+    {
+     "Performance": "\r\nAnTuTu: 180754 (v7), 215308 (v8)\nGeekBench: 6620 (v4.4), 1624 (v5.1)\nGFXBench: 7.9fps (ES 3.1 onscreen)"
     }
    ]
   }
@@ -3391,7 +3551,7 @@
      "Colors": "Sapphire Blue",
      "Models": "M1810E5GG",
      "SAR": "1.56 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009289.00 / \u00a3\u2009414.57 / \u20ac\u2009429.00"
+     "Price": "$\u2009289.00 / \u00a3\u2009287.99 / \u20ac\u2009379.95"
     }
    ]
   }
@@ -3446,7 +3606,8 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "256GB 8GB RAM, 256GB 12GB RAM"
+     "Internal": "256GB 8GB RAM, 256GB 12GB RAM",
+     "info": "UFS 2.1"
     }
    ],
    "Main Camera": [
@@ -3549,7 +3710,8 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "64GB 6GB RAM, 128GB 6GB RAM"
+     "Internal": "64GB 6GB RAM, 128GB 6GB RAM",
+     "info": "UFS 2.0"
     }
    ],
    "Main Camera": [
@@ -3599,12 +3761,12 @@
      "Colors": "Violet, Blue, Gray",
      "Models": "M1903F2G",
      "SAR": "1.39 W/kg (head) \u00a0 \u00a0 1.39 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009153.99 / \u00a3\u2009209.00 / \u20ac\u2009301.00"
+     "Price": "$\u2009153.99 / \u00a3\u2009279.99 / \u20ac\u2009315.00"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II 2.0: 2841 / Basemark X: 30100",
+     "Performance": "\r\nAnTuTu: 180057 (v7)\nGeekBench: 6017 (v4.4)\nGFXBench: 14fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: Infinite (nominal)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 86dB / Noise 79dB / Ring 87dB\n",
@@ -3655,7 +3817,7 @@
    ],
    "Platform": [
     {
-     "OS": "Android 9.0 (Pie); MIUI 10",
+     "OS": "Android 9.0 (Pie), upgradable to Android 10.0; MIUI 11",
      "Chipset": "Qualcomm SM8150 Snapdragon 855 (7 nm)",
      "CPU": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)",
      "GPU": "Adreno 640"
@@ -3664,7 +3826,8 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "64GB 6GB RAM, 64GB 8GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"
+     "Internal": "64GB 6GB RAM, 64GB 8GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+     "info": "UFS 2.1"
     }
    ],
    "Main Camera": [
@@ -3714,12 +3877,12 @@
      "Colors": "Lavender Violet, Ocean Blue, Piano Black",
      "Models": "M1902F1G",
      "SAR": "1.39 W/kg (head) \u00a0 \u00a0 1.30 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009319.99 / \u00a3\u2009294.90 / \u20ac\u2009333.00"
+     "Price": "$\u2009319.99 / \u00a3\u2009269.00 / \u20ac\u2009368.00"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 5074 / Basemark OS II 2.0: 5346Basemark X: 45089",
+     "Performance": "\r\nAnTuTu: 372006 (v7)\nGeekBench: 11181 (v4.4)\nGFXBench: 35fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: Infinite (nominal), 3.921 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 70dB / Noise 74dB / Ring 81dB\n",
@@ -3776,7 +3939,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (dedicated slot)",
-     "Internal": "8GB 1GB RAM, 16GB 1GB RAM"
+     "Internal": "8GB 1GB RAM, 16GB 1GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -3823,7 +3987,7 @@
      "Colors": "Black, Blue",
      "Models": "M1903C3GG, M1903C3GH, M1903C3GI",
      "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.50 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u200975.98 / \u00a3\u200980.30 / \u20ac\u200989.40 / \u20b9\u20094,299"
+     "Price": "$\u200975.98 / \u00a3\u200979.12 / \u20ac\u200991.07 / \u20b9\u20094,299"
     }
    ]
   }
@@ -3877,7 +4041,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "32GB 3GB RAM, 64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM"
+     "Internal": "32GB 3GB RAM, 64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -3926,12 +4091,12 @@
      "Colors": "Blue, Black, Twilight Gold, White",
      "Models": "M1901F7G, M1901F7H, M1901F7I",
      "SAR": "0.59 W/kg (head) \u00a0 \u00a0 1.27 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009137.93 / \u00a3\u2009135.71 / \u20ac\u2009165.82 / \u20b9\u20099,399"
+     "Price": "$\u2009141.99 / \u00a3\u2009139.99 / \u20ac\u2009169.99 / \u20b9\u2009111"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 2716 / Basemark OS II 2.0: 2260Basemark X: 21201",
+     "Performance": "\r\nAnTuTu: 139075 (v7)\r\nGeekBench: 5411 (v4.4)\r\nGFXBench: 7.7fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: 1338:1 (nominal), 2.893 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 69dB / Noise 71dB / Ring 90dB\n",
@@ -3988,7 +4153,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "64GB 4GB RAM"
+     "Internal": "64GB 4GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -4190,7 +4356,8 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 256GB 10GB RAM"
+     "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 256GB 10GB RAM",
+     "info": "UFS 2.1"
     }
    ],
    "Main Camera": [
@@ -4244,7 +4411,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 4696 / Basemark OS II 2.0: 4034Basemark X: 43563",
+     "Performance": "\r\nAnTuTu: 292353 (v7), 352130 (v8)\nGeekBench: 9065 (v4.4), 2170 (v5.1)\nGFXBench: 30fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: Infinite (nominal), 4.291(sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 67dB / Noise 71dB / Ring 73dB\n",
@@ -4303,7 +4470,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "32GB 3GB RAM, 64GB 4GB RAM, 64GB 6GB RAM"
+     "Internal": "32GB 3GB RAM, 64GB 4GB RAM, 64GB 6GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -4352,12 +4520,12 @@
      "Colors": "Black, Blue, Rose Gold, Red",
      "Models": "M1806E7TG, M1806E7TH, M1806E7TI",
      "SAR": "0.76 W/kg (head) \u00a0 \u00a0 1.48 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009159.99 / \u00a3\u2009129.00 / \u20b9\u20096,933"
+     "Price": "$\u2009159.99 / \u00a3\u2009129.00 / \u20b9\u200980"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 2363 / Basemark OS II 2.0: 1812Basemark X: 15025",
+     "Performance": "\r\nAnTuTu: 115605 (v7)\nGeekBench: 4933 (v4.4)\nGFXBench: 5.9fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: 1532:1 (nominal), 2.966 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 70dB / Noise 73dB / Ring 85dB\n",
@@ -4416,7 +4584,8 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "128GB 6GB RAM, 128GB 8GB RAM"
+     "Internal": "128GB 6GB RAM, 128GB 8GB RAM",
+     "info": "UFS 2.1"
     }
    ],
    "Main Camera": [
@@ -4465,7 +4634,7 @@
      "Colors": "Black (transparent back), Meteorite black, Twilight Gold",
      "Models": "M1807E8A",
      "SAR": "0.97 W/kg (head) \u00a0 \u00a0 1.53 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009319.99 / \u00a3\u2009240.28"
+     "Price": "$\u2009319.99 / \u00a3\u2009289.00"
     }
    ]
   }
@@ -4518,7 +4687,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM, 128GB 6GB RAM"
+     "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -4566,12 +4736,12 @@
      "Colors": "Midnight Black, Aurora Blue, Twilight Gold (China only)",
      "Models": "M1808D2TG",
      "SAR": "0.75 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009142.99 / \u00a3\u2009170.32"
+     "Price": "$\u2009142.99 / \u00a3\u2009179.99"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 2769 / Basemark OS II 2.0: 2338Basemark X: 21269",
+     "Performance": "\r\nAnTuTu: 143257 (v7)\nGeekBench: 5894 (v4.4)\nGFXBench: 8fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: 1453 (nominal), 2.862 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 67dB / Noise 77dB / Ring 77dB\n",
@@ -4629,7 +4799,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM"
+     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM",
+     "info": "UFS 2.1"
     }
    ],
    "Main Camera": [
@@ -4677,12 +4848,12 @@
      "Colors": "Graphite Black, Steel Blue, Rosso Red, Armored Edition with Kevlar",
      "Models": "M1805E10A",
      "SAR": "0.54 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009220.00 / \u00a3\u2009235.99 / \u20b9\u200912,880"
+     "Price": "$\u2009229.00 / \u00a3\u2009224.95 / \u20ac\u2009323.00 / \u20b9\u200911,389"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 4034 / Basemark OS II 2.0: 3713Basemark X: 43652",
+     "Performance": "\r\nAnTuTu: 265314 (v7)\r\nGeekBench: 9003 (v4.4)\r\nGFXBench: 31fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: 1468:1 (nominal), 3.059 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 72dB / Noise 74dB / Ring 86dB\n",
@@ -4740,7 +4911,8 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "32GB 4GB RAM, 64GB 4GB RAM, 128GB 6GB RAM"
+     "Internal": "32GB 4GB RAM, 64GB 4GB RAM, 128GB 6GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -4789,12 +4961,12 @@
      "Colors": "Black, Gold, Blue, Red, Rose Gold",
      "Models": "M1804D2SG, M1804D2SI",
      "SAR": "0.96 W/kg (head) \u00a0 \u00a0 0.64 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009142.99 / \u00a3\u2009149.99 / \u20ac\u2009203.89 / \u20b9\u20098,390"
+     "Price": "$\u2009150.99 / \u00a3\u2009149.98 / \u20ac\u2009217.36 / \u20b9\u20098,181"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 2631 / Basemark OS II 2.0: 2240Basemark X: 21378",
+     "Performance": "\r\nAnTuTu: 130927 (v7), 172886 (v8)\nGeekBench: 4625 (v4.4), 1157 (v5.1)\nGFXBench: 8.6fps (ES 3.1 onscreen)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 89dB / Noise 72dB / Ring 89dB\n",
      "Battery life": "\n\nEndurance rating 73h\n\n"
@@ -4850,7 +5022,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (dedicated slot)",
-     "Internal": "32GB 3GB RAM, 64GB 4GB RAM"
+     "Internal": "32GB 3GB RAM, 64GB 4GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -4899,12 +5072,12 @@
      "Colors": "Black, Blue, Gold (Global); Rose Gold, Red (China only)",
      "Models": "M1805D1SG",
      "SAR": "0.55 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "\u00a3\u2009199.99 / \u20ac\u2009195.99 / \u20b9\u20096,999"
+     "Price": "\u00a3\u2009199.99 / \u20b9\u20097,950"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 1354 / Basemark OS II 2.0: 1219Basemark X: 10525",
+     "Performance": "\r\nAnTuTu: 77964 (v7)\nGeekBench: 4388 (v4.4)\nGFXBench: 3.4fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: 1268:1 (nominal), 3.087 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 70dB / Noise 74dB / Ring 86dB\n",
@@ -4963,7 +5136,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "64GB 4GB RAM, 128GB 6GB RAM"
+     "Internal": "64GB 4GB RAM, 128GB 6GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -5016,7 +5190,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 2427 / Basemark OS II 2.0: 2013Basemark X: 14950",
+     "Performance": "\r\nAnTuTu: 119229 (v7)\nGeekBench: 4907 (v4.4)\nGFXBench: 6fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: 1462 (nominal), 3.061 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 68dB / Noise 71dB / Ring 83dB\n",
@@ -5270,7 +5444,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (dedicated slot)",
-     "Internal": "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"
+     "Internal": "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -5316,7 +5491,12 @@
      "Colors": "Black, Grey, Blue, Gold, Rose Gold",
      "Models": "M1804C3DG, M1804C3DH, M1804C3DI",
      "SAR": "0.55 W/kg (head) \u00a0 \u00a0 1.42 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009103.99 / \u00a3\u2009109.99 / \u20ac\u2009151.61 / \u20b9\u20096,897"
+     "Price": "$\u2009103.99 / \u00a3\u2009157.00 / \u20b9\u20096,895"
+    }
+   ],
+   "Tests": [
+    {
+     "Performance": "\r\nAnTuTu: 75182 (v7)\nGeekBench: 3639 (v4.4)\nGFXBench: 4.8fps (ES 3.1 onscreen)"
     }
    ]
   }
@@ -5369,7 +5549,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (dedicated slot)",
-     "Internal": "16GB 2GB RAM, 32GB 2GB RAM, 32GB 3GB RAM"
+     "Internal": "16GB 2GB RAM, 32GB 2GB RAM, 32GB 3GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -5415,7 +5596,12 @@
      "Colors": "Black, Grey, Blue, Gold, Rose Gold",
      "Models": "M1804C3CG, M1804C3CH, M1804C3CI",
      "SAR": "0.66 W/kg (head) \u00a0 \u00a0 1.52 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009225.20 / \u00a3\u200984.42 / \u20b9\u20095,425"
+     "Price": "$\u2009225.20 / \u00a3\u200969.43 / \u20b9\u20094,999"
+    }
+   ],
+   "Tests": [
+    {
+     "Performance": "\r\nAnTuTu: 61660 (v7)\nGeekBench: 2450 (v4.4)\nGFXBench: 3.1fps (ES 3.1 onscreen)"
     }
    ]
   }
@@ -5571,7 +5757,8 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM"
+     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM",
+     "info": "UFS 2.1"
     }
    ],
    "Main Camera": [
@@ -5619,12 +5806,12 @@
      "Colors": "Black, Blue, White, Gold",
      "Models": "M1803E1A",
      "SAR": "0.70 W/kg (head) \u00a0 \u00a0 1.66 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009224.99 / \u00a3\u2009245.00"
+     "Price": "$\u2009224.99 / \u00a3\u2009239.48"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 4283 / Basemark OS II 2.0: 3858Basemark X: 43285",
+     "Performance": "\r\nAnTuTu: 217298 (v7), 341687 (v8)\nGeekBench: 8494 (v4.4), 2002 (v5.1)\nGFXBench: 33fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: Infinite (nominal), 4.086 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 68dB / Noise 72dB / Ring 82dB\n",
@@ -5735,7 +5922,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 3326 / Basemark OS II 2.0: 2658Basemark X: 27560",
+     "Performance": "\r\nAnTuTu: 169044 (v7)\nGeekBench: 5912 (v4.4)\nGFXBench: 12fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: Infinite (nominal), 3.901 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 70dB / Noise 74dB / Ring 85dB\n",
@@ -5793,7 +5980,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (dedicated slot)",
-     "Internal": "32GB 3GB RAM, 64GB 4GB RAM"
+     "Internal": "32GB 3GB RAM, 64GB 4GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -5842,12 +6030,12 @@
      "Colors": "Gray, Gold, Rose Gold, Mesmerising Blue, Stunning Black",
      "Models": "M1803E6G, M1803E6H, M1803E6I",
      "SAR": "0.43 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009105.99 / \u00a3\u2009100.58 / \u20ac\u2009200.00 / \u20b9\u20096,699"
+     "Price": "$\u2009105.99 / \u00a3\u2009100.58 / \u20ac\u2009164.52 / \u20b9\u200978"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 1276 / Basemark OS II 2.0: 1186Basemark X: 10453",
+     "Performance": "\r\nAnTuTu: 77488 (v7)\nGeekBench: 4313 (v4.4)\nGFXBench: 7.4fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: 1072:1 (nominal), 3.077 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 68dB / Noise 69dB / Ring 82dB\n",
@@ -5954,12 +6142,12 @@
      "Colors": "Black, White",
      "Models": "M1803D5XA",
      "SAR": "0.54 W/kg (head) \u00a0 \u00a0 1.59 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009229.99 / \u00a3\u2009216.96 / \u20ac\u2009279.20 / \u20b9\u200945,000"
+     "Price": "$\u2009239.99 / \u00a3\u2009216.97 / \u20ac\u2009269.23 / \u20b9\u200945,000"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 4282 / Basemark OS II 2.0: 3155Basemark X: 44267",
+     "Performance": "\r\nAnTuTu: 270814 (v7)\nGeekBench: 9158 (v4.4)\nGFXBench: 34fps (ES 3.1 onscreen)",
      "Loudspeaker": "\nVoice 68dB / Noise 70dB / Ring 81dB\n",
      "Audio quality": "\nNoise -93.0dB / Crosstalk -92.5dB",
      "Battery life": "\n\nEndurance rating 59h\n\n"
@@ -6070,7 +6258,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 2404 / Basemark OS II 2.0: 1925Basemark X: 14799",
+     "Performance": "\r\nAnTuTu: 115195 (v7)\nGeekBench: 4918 (v4.4)\nGFXBench: 6fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: 1893 (nominal), 3.393 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 68dB / Noise 71dB / Ring 84dB\n",
@@ -6128,7 +6316,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "64GB 4GB RAM, 64GB 6GB RAM"
+     "Internal": "64GB 4GB RAM, 64GB 6GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -6177,7 +6366,12 @@
      "Colors": "Black, Champagne Gold, Rose Gold, Lake Blue",
      "Models": "MEI7S, MEI7",
      "SAR": "1.19 W/kg (head) \u00a0 \u00a0 0.33 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "\u20b9\u20097,898"
+     "Price": "\u20b9\u20098,499"
+    }
+   ],
+   "Tests": [
+    {
+     "Performance": "\r\nAnTuTu: 107737 (v7)\nGeekBench: 4696 (v4.4)"
     }
    ]
   }
@@ -6208,6 +6402,7 @@
     {
      "Dimensions": "161.6 x 75.4 x 9.3 mm (6.36 x 2.97 x 0.37 in)",
      "Weight": "190 g (6.70 oz)",
+     "Build": "Glass front, aluminum back, aluminum frame",
      "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
     }
    ],
@@ -6329,7 +6524,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"
+     "Internal": "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -6377,12 +6573,12 @@
      "Colors": "Black, Gold, Blue, Rose Gold",
      "Models": "MEG7, MEI7",
      "SAR": "1.01 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009152.99 / \u00a3\u2009110.55 / \u20b9\u20098,999"
+     "Price": "$\u2009152.99 / \u00a3\u2009110.55 / \u20b9\u20098,980"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 1426 / Basemark OS II 2.0: 1226Basemark X: 10484",
+     "Performance": "\r\nGeekBench: 4309 (v4.4)\nGFXBench: 3.4fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: 1431:1 (nominal), 2.913 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 71dB / Noise 72dB / Ring 87dB\n",
@@ -6441,7 +6637,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "16GB 2GB RAM, 32GB 3GB RAM, 32GB 4GB RAM, 64GB 4GB RAM"
+     "Internal": "16GB 2GB RAM, 32GB 3GB RAM, 32GB 4GB RAM, 64GB 4GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -6489,12 +6686,12 @@
      "Colors": "Black, Gold, Light Blue, Rose Gold",
      "Models": "MDG1, MDI1",
      "SAR": "0.53 W/kg (head) \u00a0 \u00a0 1.53 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009127.99 / \u20b9\u20097,399"
+     "Price": "$\u2009127.99 / \u20b9\u20097,915"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 1313 / Basemark OS II 2.0: 1222Basemark X: 9953",
+     "Performance": "\r\nGeekBench: 4018 (v4.4)\nGFXBench: 6.8fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: 1331 (nominal), 2.951 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 66dB / Noise 68dB / Ring 82dB\n",
@@ -6552,7 +6749,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (dedicated slot)",
-     "Internal": "16GB 2GB RAM, 32GB 3GB RAM"
+     "Internal": "16GB 2GB RAM, 32GB 3GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -6652,7 +6850,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (dedicated slot)",
-     "Internal": "32GB 3GB RAM, 64GB 4GB RAM"
+     "Internal": "32GB 3GB RAM, 64GB 4GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -6707,7 +6906,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 1050 / Basemark OS II 2.0: 942Basemark X: 8084",
+     "Performance": "\r\nGeekBench: 2610 (v4.4)\nGFXBench: 5.6fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: 1673:1 (nominal), 2.556 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 68dB / Noise 72dB / Ring 86dB\n",
@@ -6765,7 +6964,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (dedicated slot)",
-     "Internal": "16GB 2GB RAM"
+     "Internal": "16GB 2GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -7026,7 +7226,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 4365 / Basemark OS II 2.0: 3578Basemark X: 38349",
+     "Performance": "\r\nGeekBench: 6234 (v4.4)\nGFXBench: 24fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: 1287 (nominal), 3.19 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 67dB / Noise 71dB / Ring 82dB\n",
@@ -7083,7 +7283,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "64GB 4GB RAM"
+     "Internal": "64GB 4GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -7131,12 +7332,12 @@
      "Colors": "Black, Gold, Rose Gold, Red",
      "Models": "MDG2, MDI2",
      "SAR": "1.75 W/kg (head) \u00a0 \u00a0 0.76 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "$\u2009169.99 / \u00a3\u2009148.22"
+     "Price": "$\u2009169.99 / \u00a3\u2009181.60 / \u20b9\u200970"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 1392 / Basemark OS II 2.0: 1262Basemark X: 10472",
+     "Performance": "\r\nGeekBench: 4292 (v4.4)\nGFXBench: 3.5fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: 1570:1 (nominal), 2.689 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 74dB / Noise 73dB / Ring 90dB\n",
@@ -7195,7 +7396,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "32GB 4GB RAM, 64GB 4GB RAM, 128GB 4GB RAM"
+     "Internal": "32GB 4GB RAM, 64GB 4GB RAM, 128GB 4GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -7248,7 +7450,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 1235 / Basemark OS II 2.0: 1107Basemark X: 10482",
+     "Performance": "\r\nGeekBench: 2445 (v4.4)\nGFXBench: 3.5fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: 1294:1 (nominal), 2.561 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 78dB / Noise 71dB / Ring 79dB\n",
@@ -7306,7 +7508,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "16GB 2GB RAM, 16GB 3GB RAM, 32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"
+     "Internal": "16GB 2GB RAM, 16GB 3GB RAM, 32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -7361,7 +7564,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 946 / Basemark OS II 2.0: 832Basemark X: 7608",
+     "Performance": "\r\nGeekBench: 1819 (v4.4)\nGFXBench: 5.1fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: 915 (nominal), 2.920 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 64dB / Noise 70dB / Ring 72dB\n",
@@ -7474,7 +7677,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 4402 / Basemark OS II 2.0: 3547Basemark X: 38541",
+     "Performance": "\r\nGeekBench: 6719 (v4.4)\nGFXBench: 25fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: 1305:1 (nominal), 3.767 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 66dB / Noise 69dB / Ring 84dB\n",
@@ -7728,7 +7931,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "16GB 3GB RAM, 32GB 3GB RAM, 64GB 4GB RAM"
+     "Internal": "16GB 3GB RAM, 32GB 3GB RAM, 64GB 4GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -7826,7 +8030,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"
+     "Internal": "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -7874,12 +8079,12 @@
      "Colors": "Dark Gray, Gold, Black, Lake Blue (64/4GB model)",
      "Models": "2016100",
      "SAR": "0.72 W/kg (head) \u00a0 \u00a0 0.67 W/kg (body) \u00a0 \u00a0 ",
-     "Price": "\u00a3\u2009359.99 / \u20b9\u20096,949"
+     "Price": "\u00a3\u2009359.99 / \u20b9\u20097,349"
     }
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 1290 / Basemark OS II 2.0: 1050Basemark X: 10446",
+     "Performance": "\r\nGFXBench: 3.4fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: 1503:1 (nominal), 2.714 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 67dB / Noise 70dB / Ring 81dB\n",
@@ -7936,7 +8141,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "16GB 2GB RAM, 32GB 2GB RAM"
+     "Internal": "16GB 2GB RAM, 32GB 2GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -7988,6 +8194,7 @@
    ],
    "Tests": [
     {
+     "Performance": "\r\nGeekBench: 1781 (v4.4)",
      "Camera": "\nPhoto / Video"
     }
    ]
@@ -8040,7 +8247,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "16GB 2GB RAM"
+     "Internal": "16GB 2GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -8139,7 +8347,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "32GB 3GB RAM"
+     "Internal": "32GB 3GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -8392,7 +8601,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 2503 / Basemark OS II 2.0: 2364Basemark X: 37346",
+     "Performance": "\r\nGFXBench: 17fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: 1489:1 (nominal), 2.658 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 64dB / Noise 72dB / Ring 86dB\n",
@@ -8504,7 +8713,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 2814 / Basemark OS II 2.0: 2381Basemark X: 36506",
+     "Performance": "\r\nGFXBench: 20fps (ES 3.1 onscreen)",
      "Display": "\nContrast ratio: 66800 (nominal), 3.228 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 63dB / Noise 68dB / Ring 76dB\n",
@@ -8616,7 +8825,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 2677 / Basemark OS II 2.0: 2434Basemark X: 36062",
+     "Performance": "\r\nBasemark OS II 2.0: 2434Basemark X: 36062",
      "Display": "\nContrast ratio: 1448:1 (nominal), 2.884 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 65dB / Noise 68dB / Ring 70dB\n",
@@ -8729,7 +8938,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 2507 / Basemark OS II 2.0: 2378Basemark X: 36240",
+     "Performance": "\r\nBasemark OS II 2.0: 2378Basemark X: 36240",
      "Display": "\nContrast ratio: 1294:1 (nominal), 3.276 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 64dB / Noise 70dB / Ring 84dB\n",
@@ -8838,7 +9047,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II 2.0: 1728 / Basemark X: 13666",
+     "Performance": "\r\nBasemark OS II 2.0: 1728Basemark X: 13666",
      "Display": "\nContrast ratio: 1158 (nominal),  2.145 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 64dB / Noise 67dB / Ring 76dB\n",
@@ -8945,7 +9154,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 1648 / Basemark OS II 2.0: 1696Basemark X: 23846",
+     "Performance": "\r\nBasemark OS II 2.0: 1696Basemark X: 23846",
      "Camera": "\nPhoto / Video",
      "Battery life": "\n\nEndurance rating 80h\n\n"
     }
@@ -9000,7 +9209,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "32GB 2GB RAM"
+     "Internal": "32GB 2GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -9099,7 +9309,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "32GB 3GB RAM"
+     "Internal": "32GB 3GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -9151,7 +9362,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II 2.0: 800 / Basemark X: 7263",
+     "Performance": "\r\nGFXBench: 4.9fps (ES 3.1 onscreen)",
      "Camera": "\nPhoto / Video",
      "Battery life": "\n\nEndurance rating 85h\n\n"
     }
@@ -9205,7 +9416,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "16GB 2GB RAM"
+     "Internal": "16GB 2GB RAM",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -9259,7 +9471,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 882 / Basemark OS II 2.0: 882Basemark X: 7263",
+     "Performance": "\r\nBasemark OS II 2.0: 882Basemark X: 7263",
      "Display": "\nContrast ratio: 1087:1 (nominal), 2.913 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 66dB / Noise 70dB / Ring 70dB\n",
@@ -9317,7 +9529,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "32GB 3GB RAM"
+     "Internal": "32GB 3GB RAM",
+     "info": "eMMC 4.5"
     }
    ],
    "Main Camera": [
@@ -9369,7 +9582,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 826 / Basemark OS II 2.0: 5427Basemark X: 262",
+     "Performance": "\r\nBasemark OS II 2.0: 5427Basemark X: 262",
      "Display": "\nContrast ratio: 1145:1 (nominal), 2.803 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 67dB / Noise 70dB / Ring 74dB\n",
@@ -9428,7 +9641,8 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "32GB 3GB RAM (Standard), 64GB 3GB RAM (Prime), 128GB 4GB RAM (Pro)"
+     "Internal": "32GB 3GB RAM (Standard), 64GB 3GB RAM (Prime), 128GB 4GB RAM (Pro)",
+     "info": "UFS 2.0"
     }
    ],
    "Main Camera": [
@@ -9482,7 +9696,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 2444 / Basemark OS II 2.0: 2180Basemark X: 33110",
+     "Performance": "\r\nBasemark OS II 2.0: 2180Basemark X: 33110",
      "Display": "\nContrast ratio: 1227:1 (nominal), 3.240 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 67dB / Noise 67dB / Ring 74dB\n",
@@ -9593,7 +9807,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II 2.0: 1362 / Basemark X: 15487",
+     "Performance": "\r\nBasemark OS II 2.0: 1362Basemark X: 15487",
      "Display": "\nContrast ratio: 922 (nominal),  1.996 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 67dB / Noise 66dB / Ring 68dB\n",
@@ -9701,7 +9915,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 1303 / Basemark OS II 2.0: 1545Basemark X: 12990",
+     "Performance": "\r\nBasemark OS II 2.0: 1545Basemark X: 12990",
      "Display": "\nContrast ratio: 975:1 (nominal), 2.095 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 73dB / Noise 68dB / Ring 82dB\n",
@@ -9759,7 +9973,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "16GB 2GB RAM (Standard version), 32GB 3GB RAM (High/Special version)"
+     "Internal": "16GB 2GB RAM (Standard version), 32GB 3GB RAM (High/Special version)",
+     "info": "eMMC 5.1"
     }
    ],
    "Main Camera": [
@@ -9814,7 +10029,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 1914 / Basemark OS II 2.0: 1426Basemark X: 14717",
+     "Performance": "\r\nBasemark OS II 2.0: 1426Basemark X: 14717",
      "Display": "\nContrast ratio: 953:1 (nominal), 2.249 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 66dB / Noise 66dB / Ring 75dB\n",
@@ -9872,7 +10087,8 @@
    "Memory": [
     {
      "Card slot": "microSDXC (uses shared SIM slot)",
-     "Internal": "16GB 2GB RAM"
+     "Internal": "16GB 2GB RAM",
+     "info": "eMMC 4.5"
     }
    ],
    "Main Camera": [
@@ -9978,7 +10194,8 @@
    "Memory": [
     {
      "Card slot": "microSDHC (dedicated slot)",
-     "Internal": "16GB 2GB RAM"
+     "Internal": "16GB 2GB RAM",
+     "info": "eMMC 4.5"
     }
    ],
    "Main Camera": [
@@ -10231,7 +10448,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 956 / Basemark OS II 2.0: 1018Basemark X: 8540",
+     "Performance": "\r\nBasemark OS II 2.0: 1018Basemark X: 8540",
      "Display": "\nContrast ratio: 953 (nominal),  2.249 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 66dB / Noise 66dB / Ring 75dB\n",
@@ -10340,7 +10557,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 1464 / Basemark OS II 2.0: 1233Basemark X: 12096",
+     "Performance": "\r\nBasemark OS II 2.0: 1233Basemark X: 12096",
      "Display": "\nContrast ratio: 1609 (nominal),  2.574(sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 73dB / Noise 66dB / Ring 77dB\n",
@@ -10454,7 +10671,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 930 / Basemark OS II 2.0: 1063Basemark X: 8518",
+     "Performance": "\r\nBasemark OS II 2.0: 1063Basemark X: 8518",
      "Display": "\nContrast ratio: 953 (nominal),  2.166 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 66dB / Noise 66dB / Ring 76dB\n",
@@ -10510,7 +10727,8 @@
    "Memory": [
     {
      "Card slot": "microSDHC (dedicated slot)",
-     "Internal": "16GB 2GB RAM"
+     "Internal": "16GB 2GB RAM",
+     "info": "eMMC 4.5"
     }
    ],
    "Main Camera": [
@@ -10608,7 +10826,8 @@
    "Memory": [
     {
      "Card slot": "microSDHC (dedicated slot)",
-     "Internal": "16GB 2GB RAM"
+     "Internal": "16GB 2GB RAM",
+     "info": "eMMC 4.5"
     }
    ],
    "Main Camera": [
@@ -10708,7 +10927,8 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "16GB 2GB RAM, 32GB 2GB RAM"
+     "Internal": "16GB 2GB RAM, 32GB 2GB RAM",
+     "info": "eMMC 4.5"
     }
    ],
    "Main Camera": [
@@ -10761,7 +10981,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 843 / Basemark X: 4875",
+     "Performance": "\r\nBasemark X: 4875",
      "Display": "\nContrast ratio: 1055:1 (nominal), 2.641 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 63dB / Noise 65dB / Ring 68dB\n",
@@ -10968,7 +11188,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 1370 / Basemark OS II 2.0: 1353Basemark X: 13075",
+     "Performance": "\r\nBasemark OS II 2.0: 1353Basemark X: 13075",
      "Display": "\nContrast ratio: 1453:1 (nominal), 2.234 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 75dB / Noise 68dB / Ring 83dB\n",
@@ -11123,7 +11343,8 @@
    "Memory": [
     {
      "Card slot": "microSDHC (dedicated slot)",
-     "Internal": "8GB 1GB RAM, 16GB 2GB RAM"
+     "Internal": "8GB 1GB RAM, 16GB 2GB RAM",
+     "info": "eMMC 4.5"
     }
    ],
    "Main Camera": [
@@ -11175,7 +11396,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 509 / Basemark OS II 2.0: 511",
+     "Performance": "\r\nBasemark OS II 2.0: 511",
      "Display": "\nContrast ratio: 974:1 (nominal), 1.763 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 70dB / Noise 70dB / Ring 77dB\n",
@@ -11485,7 +11706,6 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 1324",
      "Display": "\nContrast ratio: 929 (nominal), 2.424 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 62dB / Noise 62dB / Ring 66dB\n",
@@ -11591,7 +11811,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 1192 / Basemark X: 24456",
+     "Performance": "\r\nBasemark X: 24456",
      "Camera": "\nPhoto / Video"
     }
    ]
@@ -11695,7 +11915,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 452 / Basemark OS II 2.0: 479Basemark X: 2974",
+     "Performance": "\r\nBasemark OS II 2.0: 479Basemark X: 2974",
      "Display": "\nContrast ratio: 1016 (nominal), 2.119 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 65dB / Noise 66dB / Ring 75dB\n",
@@ -11752,7 +11972,8 @@
    "Memory": [
     {
      "Card slot": "No",
-     "Internal": "16GB 2GB RAM, 64GB 2GB RAM"
+     "Internal": "16GB 2GB RAM, 64GB 2GB RAM",
+     "info": "eMMC 4.5"
     }
    ],
    "Main Camera": [
@@ -11806,7 +12027,6 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 1234",
      "Display": "\nContrast ratio: 907 (nominal), 2.001 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 69dB / Noise 66dB / Ring 75dB\n",
@@ -11912,7 +12132,7 @@
    ],
    "Tests": [
     {
-     "Performance": "\nBasemark OS II: 394 / Basemark OS II 2.0: 454",
+     "Performance": "\r\nBasemark OS II 2.0: 454",
      "Display": "\nContrast ratio: 1370 (nominal), 1.350 (sunlight)",
      "Camera": "\nPhoto / Video",
      "Loudspeaker": "\nVoice 66dB / Noise 65dB / Ring 71dB\n",
@@ -12175,8 +12395,7 @@
    "Sound": [
     {
      "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
-     "info": "Dolby mobile\n"
+     "3.5mm jack ": "Yes"
     }
    ],
    "Comms": [

@@ -94,7 +94,7 @@
   ],
   "Tests": [
    {
-    "Performance": "\nBasemark OS II: 1192 / Basemark X: 24456",
+    "Performance": "\r\nBasemark X: 24456",
     "Camera": "\nPhoto / Video"
    }
   ]

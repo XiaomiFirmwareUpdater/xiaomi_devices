@@ -47,7 +47,8 @@
   "Memory": [
    {
     "Card slot": "microSDHC (dedicated slot)",
-    "Internal": "8GB 1GB RAM, 16GB 2GB RAM"
+    "Internal": "8GB 1GB RAM, 16GB 2GB RAM",
+    "info": "eMMC 4.5"
    }
   ],
   "Main Camera": [
@@ -99,7 +100,7 @@
   ],
   "Tests": [
    {
-    "Performance": "\nBasemark OS II: 509 / Basemark OS II 2.0: 511",
+    "Performance": "\r\nBasemark OS II 2.0: 511",
     "Display": "\nContrast ratio: 974:1 (nominal), 1.763 (sunlight)",
     "Camera": "\nPhoto / Video",
     "Loudspeaker": "\nVoice 70dB / Noise 70dB / Ring 77dB\n",

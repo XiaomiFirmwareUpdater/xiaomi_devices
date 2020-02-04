@@ -1,23 +1,22 @@
 {
- "name": "Xiaomi Redmi K30",
- "codename": "picasso",
- "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30.jpg",
- "url": "https://www.gsmarena.com/xiaomi_redmi_k30-9991.php",
+ "name": "Xiaomi Poco X2",
+ "codename": "",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x2.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_poco_x2-10050.php",
  "specs": {
   "Network": [
    {
-    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
+    "Technology": "GSM / HSPA / LTE",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "info": "CDMA2000 1xEV-DO ",
-    "3G bands": "HSDPA 850 / 900 / 2100 ",
-    "4G bands": "LTE band 1(2100), 3(1800), 5(850), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
+    "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
+    "4G bands": "LTE band 1(2100), 3(1800), 5(850), 8(900), 40(2300), 41(2500)",
     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A"
    }
   ],
   "Launch": [
    {
-    "Announced": "2019, December",
-    "Status": "Available. Released 2019, December"
+    "Announced": "2020, February",
+    "Status": "Coming soon. Exp. release 2020, February 11"
    }
   ],
   "Body": [
@@ -25,7 +24,8 @@
     "Dimensions": "165.3 x 76.6 x 8.8 mm (6.51 x 3.02 x 0.35 in)",
     "Weight": "208 g (7.34 oz)",
     "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
-    "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)"
+    "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+    "info": "Splash resistant"
    }
   ],
   "Display": [
@@ -34,7 +34,7 @@
     "Size": "6.67 inches, 112.5 cm2 (~88.8% screen-to-body ratio)",
     "Resolution": "1080 x 2400 pixels, 20:9 ratio (~386 ppi density)",
     "Protection": "Corning Gorilla Glass 5",
-    "info": "HDR10\r\n120Hz"
+    "info": "HDR10\r\n120Hz\r\n500 nits typ. brightness"
    }
   ],
   "Platform": [
@@ -48,7 +48,7 @@
   "Memory": [
    {
     "Card slot": "microSDXC (uses shared SIM slot)",
-    "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+    "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM",
     "info": "UFS 2.1\n\n"
    }
   ],
@@ -70,17 +70,16 @@
    {
     "Loudspeaker ": "Yes",
     "3.5mm jack ": "Yes",
-    "info": "24-bit/192kHz audio\n"
+    "info": "24-bit/192kHz audio"
    }
   ],
   "Comms": [
    {
     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
-    "Bluetooth": "5.0, A2DP, LE, aptX HD",
-    "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS",
-    "NFC": "Yes",
+    "Bluetooth": "5.0, A2DP, LE",
+    "GPS": "Yes, with A-GPS, GLONASS, BDS",
     "Infrared port": "Yes",
-    "Radio": "FM radio",
+    "Radio": "FM radio, recording",
     "USB": "2.0, Type-C 1.0 reversible connector, USB On-The-Go"
    }
   ],
@@ -97,18 +96,10 @@
   ],
   "Misc": [
    {
-    "Colors": "Blue, Red, Purple",
-    "Models": "M1912G7BE, M1912G7BC",
-    "Price": "$\u2009243.69"
-   }
-  ],
-  "Tests": [
-   {
-    "Performance": "\r\nAnTuTu: 218200 (v7), 272229 (v8)\r\nGeekBench: 7008 (v4.4), 1692 (v5.1)\r\nGFXBench: 15fps (ES 3.1 onscreen)",
-    "Display": "\nContrast ratio: 1378:1 (nominal)",
-    "Camera": "\nPhoto / Video",
-    "Audio quality": "\nNoise -94.0dB / Crosstalk -93.0dB",
-    "Battery life": "\n\nEndurance rating 101h\n\n"
+    "Colors": "Atlantis Blue, Matrix Purple, Phoenix Red",
+    "Models": "MZB9011IN, MZB9012IN, MZB9013IN, MZB8741IN, MZB8742IN, MZB8743IN, MZB8744IN, MZB8745IN, MZB8746IN",
+    "SAR": "1.08 W/kg (head) \u00a0 \u00a0 0.62 W/kg (body) \u00a0 \u00a0 ",
+    "Price": "About 200 EUR"
    }
   ]
  }

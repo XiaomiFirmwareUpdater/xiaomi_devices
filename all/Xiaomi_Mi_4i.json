@@ -47,7 +47,8 @@
   "Memory": [
    {
     "Card slot": "No",
-    "Internal": "16GB 2GB RAM, 32GB 2GB RAM"
+    "Internal": "16GB 2GB RAM, 32GB 2GB RAM",
+    "info": "eMMC 4.5"
    }
   ],
   "Main Camera": [
@@ -100,7 +101,7 @@
   ],
   "Tests": [
    {
-    "Performance": "\nBasemark OS II: 843 / Basemark X: 4875",
+    "Performance": "\r\nBasemark X: 4875",
     "Display": "\nContrast ratio: 1055:1 (nominal), 2.641 (sunlight)",
     "Camera": "\nPhoto / Video",
     "Loudspeaker": "\nVoice 63dB / Noise 65dB / Ring 68dB\n",
