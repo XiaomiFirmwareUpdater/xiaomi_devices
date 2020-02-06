@@ -47,7 +47,8 @@
   "Memory": [
    {
     "Card slot": "No",
-    "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM"
+    "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM",
+    "info": "UFS 2.1"
    }
   ],
   "Main Camera": [
@@ -95,7 +96,7 @@
     "Colors": "Black, White",
     "Models": "M1803D5XA",
     "SAR": "0.54 W/kg (head) \u00a0 \u00a0 1.59 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009239.99 / \u00a3\u2009216.97 / \u20ac\u2009269.23 / \u20b9\u200945,000"
+    "Price": "$\u2009239.99 / \u00a3\u2009216.97 / \u20ac\u2009269.74 / \u20b9\u200945,000"
    }
   ],
   "Tests": [
