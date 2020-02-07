@@ -54,7 +54,7 @@
   ],
   "Main Camera": [
    {
-    "Five": "108 MP (8P lens - 256GB GB model), f/1.7, 25mm (wide), 1/1.33\", 0.8\u00b5m, PDAF, Laser AF, OIS\r\n12 MP, f/2.0, 50mm (telephoto), 1/2.55\", 1.4\u00b5m, Dual Pixel PDAF, Laser AF, 2x optical zoom\r\n5 MP (upscaled to 8MP), f/2.0, (telephoto), 1.0\u00b5m, PDAF, Laser AF, OIS, 5x optical zoom\r\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0\u00b5m, Laser AF\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m (dedicated macro camera)",
+    "Five": "108 MP (8P lens - 256GB GB model), f/1.7, 25mm (wide), 1/1.33\", 0.8\u00b5m, PDAF, Laser AF, OIS\r\n12 MP, f/2.0, 50mm (telephoto), 1/2.55\", 1.4\u00b5m, Dual Pixel PDAF, Laser AF, 2x optical zoom\r\n5 MP (upscaled to 8MP), f/2.0, (telephoto), 1.0\u00b5m, PDAF, Laser AF, OIS, 5x optical zoom\r\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0\u00b5m, Laser AF\r\n2 MP, f/2.4, (macro), 1/5.0\", 1.75\u00b5m",
     "Features": "Quad-LED dual-tone flash, HDR",
     "Video": "2160p@30fps, 1080p@30/60/120/240fps, 720p@960fps"
    }

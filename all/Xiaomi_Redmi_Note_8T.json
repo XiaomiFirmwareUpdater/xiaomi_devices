@@ -52,7 +52,7 @@
   ],
   "Main Camera": [
    {
-    "Quad": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m (dedicated macro camera)\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m, depth sensor",
+    "Quad": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, (macro), 1/5.0\", 1.75\u00b5m\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m, depth sensor",
     "Features": "LED flash, HDR, panorama",
     "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps; gyro-EIS"
    }
@@ -95,7 +95,7 @@
   "Misc": [
    {
     "Colors": "Starscape Blue, Moonlight White, Moonshadow Grey",
-    "Price": "$\u2009157.00 / \u00a3\u2009126.99 / \u20ac\u2009168.00"
+    "Price": "$\u2009157.00 / \u00a3\u2009126.99 / \u20ac\u2009177.99"
    }
   ],
   "Tests": [
