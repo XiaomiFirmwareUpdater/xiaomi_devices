@@ -1112,9 +1112,9 @@
   }
  },
  {
-  "codename": "",
+  "codename": "bullhead",
   "internal_name": "",
-  "name": "Black Shark Helo",
+  "name": "Black Shark Helo (`bullhead`)",
   "models": {
    "AWM-A0": "Black Shark Helo China"
   }
