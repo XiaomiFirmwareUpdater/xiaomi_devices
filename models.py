@@ -42,7 +42,14 @@ def main():
             model_name = i.split(':')[1].strip()
             models_.update({model: model_name})
         info.update({"models": models_})
-        DEVICES.update({codename: info})
+        try:
+            if DEVICES[codename]:
+                DEVICES[codename]['internal_name'] = f"{DEVICES[codename]['internal_name']}/{internal}" \
+                    if DEVICES[codename]['internal_name'] != internal else internal
+                DEVICES[codename]['name'] = f"{DEVICES[codename]['name']}/{name}"
+                DEVICES[codename]['models'] = {**DEVICES[codename]['models'], **models_}
+        except KeyError:
+            DEVICES.update({codename: info})
     with open('models.json', 'w') as output:
         json.dump(DEVICES, output, indent=1)
 
