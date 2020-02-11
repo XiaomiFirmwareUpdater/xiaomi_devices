@@ -5,7 +5,7 @@ import re
 import json
 from requests import get
 
-DEVICES = []
+DEVICES = {}
 
 
 def main():
@@ -34,7 +34,6 @@ def main():
         except IndexError:
             name = details[0].split(':')[0].strip()
         models = details[1].replace('\n\n', '\n').strip().splitlines()
-        info.update({"codename": codename})
         info.update({"internal_name": internal})
         info.update({"name": name})
         models_ = {}
@@ -43,7 +42,7 @@ def main():
             model_name = i.split(':')[1].strip()
             models_.update({model: model_name})
         info.update({"models": models_})
-        DEVICES.append(info)
+        DEVICES.update({codename: info})
     with open('models.json', 'w') as output:
         json.dump(DEVICES, output, indent=1)
 
