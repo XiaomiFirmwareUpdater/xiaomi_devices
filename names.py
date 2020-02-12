@@ -32,10 +32,10 @@ def models():
     url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/' +\
           'xiaomi_devices/models/models.json'
     data = get(url).json()
-    for i in data:
-        if not i['codename']:
+    for codename, info in data.items():
+        if not codename:
             continue
-        DEVICES.update({i['codename']: i['name']})
+        DEVICES.update({codename: info['name']})
 
 
 def gplay():
