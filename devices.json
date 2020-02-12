@@ -165,6 +165,22 @@
       "display_name": "CLOVER-GLOBAL",
       "display_name_en": "CLOVER-GLOBAL"
     },
+    "cmi": {
+      "display_name": "小米10 Pro",
+      "display_name_en": "Mi 10 Pro"
+    },
+    "cmi_eea_global": {
+      "display_name": "小米10 Pro 欧盟版",
+      "display_name_en": "Mi 10 Pro-EEA-GLOBAL"
+    },
+    "cmi_global": {
+      "display_name": "小米10Prp 国际版",
+      "display_name_en": "Mi 10 Pro-GLOBAL"
+    },
+    "cmi_in_global": {
+      "display_name": "小米10Pro 印度版",
+      "display_name_en": "Mi 10 Pro IN-GLOBAL"
+    },
     "comet_global": {
       "display_name": "COMET-GLOBAL",
       "display_name_en": "COMET-GLOBAL"
@@ -768,6 +784,54 @@
     "ugglite_global": {
       "display_name": "红米Note 5A 标准版国际版",
       "display_name_en": "Redmi Note 5A/Redmi Y1 lite"
+    },
+    "umi": {
+      "display_name": "小米10",
+      "display_name_en": "Mi10"
+    },
+    "umi_eea_global": {
+      "display_name": "小米10 欧盟版",
+      "display_name_en": "Mi10-EEA-GLOBAL"
+    },
+    "umi_eea_hg_global": {
+      "display_name": "小米10-EEA-HG-GLOBAL",
+      "display_name_en": "Mi10-EEA-HG-GLOBAL"
+    },
+    "umi_eea_or_global": {
+      "display_name": "小米10-EEA-OR-GLOBAL",
+      "display_name_en": "Mi10-EEA-OR-GLOBAL"
+    },
+    "umi_eea_sf_global": {
+      "display_name": "小米10-EEA-SF-GLOBAL",
+      "display_name_en": "Mi10-EEA-SF-GLOBAL"
+    },
+    "umi_eea_tf_global": {
+      "display_name": "小米10-EEA-TF-GLOBAL",
+      "display_name_en": "Mi10-EEA-TF-GLOBAL"
+    },
+    "umi_eea_ti_global": {
+      "display_name": "小米10-EEA-TI-GLOBAL",
+      "display_name_en": "Mi10-EEA-TI-GLOBAL"
+    },
+    "umi_eea_vf_global": {
+      "display_name": "小米10-EEA-VF-GLOBAL",
+      "display_name_en": "Mi10-EEA-VF-GLOBAL"
+    },
+    "umi_global": {
+      "display_name": "小米10 国际版",
+      "display_name_en": "Mi10-GLOBAL"
+    },
+    "umi_id_global": {
+      "display_name": "小米10 印尼版",
+      "display_name_en": "Mi10-ID-GLOBAL"
+    },
+    "umi_in_global": {
+      "display_name": "小米10 印度版",
+      "display_name_en": "Mi10-IN-GLOBAL"
+    },
+    "umi_ru_global": {
+      "display_name": "小米10 俄罗斯版",
+      "display_name_en": "Mi10-RU-GLOBAL"
     },
     "ursa": {
       "display_name": "小米手机8透明探索版",
