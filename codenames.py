@@ -30,7 +30,7 @@ def models():
     url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/' +\
           'xiaomi_devices/models/models.json'
     data = get(url).json()
-    codenames = [i['codename'] for i in data]
+    codenames = list(data.keys())
     for i in codenames:
         if i:
             DEVICES.append(i)
