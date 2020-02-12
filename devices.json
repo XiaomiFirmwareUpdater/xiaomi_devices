@@ -19,6 +19,10 @@
   "Mi MIX 2",
   "MIMix2"
  ],
+ "cmi": [
+  "Mi 10 Pro",
+  "MI10Pro"
+ ],
  "clover": [
   "Mi Pad 4 / Plus",
   "MIPAD4"
@@ -218,6 +222,10 @@
  "ugglite": [
   "Redmi Note 5A Lite / Y1 Lite",
   "HMNote5ALITE"
+ ],
+ "umi": [
+  "Mi 10",
+  "MI10"
  ],
  "ursa": [
   "Mi 8 Explorer",
