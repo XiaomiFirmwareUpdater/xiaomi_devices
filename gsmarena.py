@@ -104,7 +104,7 @@ def scrap_info(url):
     info.update({'specs': out})
     name = name.replace(' ', '_')
     with open(f'all/{name}.json', 'w') as output:
-        json.dump(info, output, indent=1)
+        json.dump(info, output, indent=1, ensure_ascii=False)
     ALL.append(info)
 
 
@@ -137,7 +137,7 @@ def main():
         print(f'Fetching: {device}')
         scrap_info(device)
     with open('devices.json', 'w') as output:
-        json.dump(ALL, output, indent=1)
+        json.dump(ALL, output, indent=1, ensure_ascii=False)
 
 
 if __name__ == '__main__':
