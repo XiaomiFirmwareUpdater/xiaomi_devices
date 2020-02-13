@@ -528,6 +528,30 @@
   }
  },
  {
+  "umi": {
+   "name": "Mi 10",
+   "model": "Mi 10"
+  }
+ },
+ {
+  "umi": {
+   "name": "Mi 10",
+   "model": "Umi"
+  }
+ },
+ {
+  "cmi": {
+   "name": "Mi 10 Pro",
+   "model": "Cmi"
+  }
+ },
+ {
+  "cmi": {
+   "name": "Mi 10 Pro",
+   "model": "Mi 10 Pro"
+  }
+ },
+ {
   "pisces": {
    "name": "Mi 3",
    "model": "MI 3"
