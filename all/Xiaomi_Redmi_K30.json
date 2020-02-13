@@ -1,6 +1,6 @@
 {
  "name": "Xiaomi Redmi K30",
- "codename": "picasso",
+ "codename": "phoenix",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_k30-9991.php",
  "specs": {
@@ -8,8 +8,8 @@
    {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "info": "CDMA2000 1xEV-DO ",
-    "3G bands": "HSDPA 850 / 900 / 2100 ",
+    "": "CDMA2000 1xEV-DO",
+    "3G bands": "HSDPA 850 / 900 / 2100",
     "4G bands": "LTE band 1(2100), 3(1800), 5(850), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A"
    }
@@ -34,7 +34,7 @@
     "Size": "6.67 inches, 112.5 cm2 (~88.8% screen-to-body ratio)",
     "Resolution": "1080 x 2400 pixels, 20:9 ratio (~386 ppi density)",
     "Protection": "Corning Gorilla Glass 5",
-    "info": "HDR10\r\n120Hz"
+    "": "HDR10\r\n120Hz"
    }
   ],
   "Platform": [
@@ -49,28 +49,28 @@
    {
     "Card slot": "microSDXC (uses shared SIM slot)",
     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
-    "info": "UFS 2.1\n\n"
+    "": "UFS 2.1"
    }
   ],
   "Main Camera": [
    {
-    "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.7\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, (macro), 1/5.0\", 1.75\u00b5m\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m, depth sensor",
+    "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.7\", 0.8µm, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12µm\r\n2 MP, f/2.4, (macro), 1/5.0\", 1.75µm\r\n2 MP, f/2.4, (depth)",
     "Features": "Dual-LED flash, HDR, panorama",
     "Video": "2160p@30fps, 1080p@30/120fps, 720p@960fps; gyro-EIS"
    }
   ],
   "Selfie camera": [
    {
-    "Dual": "20 MP, f/2.2, 27mm (wide), 1/3.4\", 0.8\u00b5m\r\n2 MP, f/2.4, 1/5\", 1.75\u00b5m, depth sensor",
+    "Dual": "20 MP, f/2.2, 27mm (wide), 1/3.4\", 0.8µm\r\n2 MP, f/2.4, 1/5\", 1.75µm, depth sensor",
     "Features": "HDR",
     "Video": "1080p@30fps"
    }
   ],
   "Sound": [
    {
-    "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes",
-    "info": "24-bit/192kHz audio\n"
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "Yes",
+    "": "24-bit/192kHz audio"
    }
   ],
   "Comms": [
@@ -91,7 +91,7 @@
   ],
   "Battery": [
    {
-    "info": "Non-removable Li-Po 4500 mAh battery",
+    "": "Non-removable Li-Po 4500 mAh battery",
     "Charging": "Fast battery charging 27W (100% in 68 min)"
    }
   ],
@@ -99,16 +99,16 @@
    {
     "Colors": "Blue, Red, Purple",
     "Models": "M1912G7BE, M1912G7BC",
-    "Price": "$\u2009243.69"
+    "Price": "$ 243.69"
    }
   ],
   "Tests": [
    {
-    "Performance": "\r\nAnTuTu: 218200 (v7), 272229 (v8)\r\nGeekBench: 7008 (v4.4), 1692 (v5.1)\r\nGFXBench: 15fps (ES 3.1 onscreen)",
-    "Display": "\nContrast ratio: 1378:1 (nominal)",
-    "Camera": "\nPhoto / Video",
-    "Audio quality": "\nNoise -94.0dB / Crosstalk -93.0dB",
-    "Battery life": "\n\nEndurance rating 101h\n\n"
+    "Performance": "AnTuTu: 218200 (v7), 272229 (v8)\r\nGeekBench: 7008 (v4.4), 1692 (v5.1)\r\nGFXBench: 15fps (ES 3.1 onscreen)",
+    "Display": "Contrast ratio: 1378:1 (nominal)",
+    "Camera": "Photo / Video",
+    "Audio quality": "Noise -94.0dB / Crosstalk -93.0dB",
+    "Battery life": "Endurance rating 101h"
    }
   ]
  }

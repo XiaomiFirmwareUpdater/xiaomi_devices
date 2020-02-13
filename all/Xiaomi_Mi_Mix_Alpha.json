@@ -1,6 +1,6 @@
 {
  "name": "Xiaomi Mi Mix Alpha",
- "codename": "",
+ "codename": "darco",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix-alpha.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_mix_alpha-9893.php",
  "specs": {
@@ -8,11 +8,11 @@
    {
     "Technology": "GSM / CDMA / HSPA / LTE / 5G",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "info": "CDMA 800 & TD-SCDMA",
-    "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
+    "": "CDMA 800 & TD-SCDMA",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
     "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
     "5G": "5G band 41(2500), 78(3500), 79(4700); SA/NSA/Sub6",
-    "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (7CA) Cat20 2048/150 Mbps, 5G (2+ Gbps DL)"
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (7CA) Cat20 2000/150 Mbps, 5G (2+ Gbps DL)"
    }
   ],
   "Launch": [
@@ -48,12 +48,12 @@
    {
     "Card slot": "No",
     "Internal": "512GB 12GB RAM",
-    "info": "UFS 3.0"
+    "": "UFS 3.0"
    }
   ],
   "Main Camera": [
    {
-    "Triple": "108 MP, f/1.7, (wide), 1/1.33\", 0.8\u00b5m, PDAF, Laser AF\r\n12 MP, f/2.0, 54mm (telephoto), 1/2.55\", 1.4\u00b5m, Dual Pixel PDAF, Laser AF, 2x optical zoom\r\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0\u00b5m, Laser AF",
+    "Triple": "108 MP, f/1.7, (wide), 1/1.33\", 0.8µm, PDAF, Laser AF\r\n12 MP, f/2.0, 54mm (telephoto), 1/2.55\", 1.4µm, Dual Pixel PDAF, Laser AF, 2x optical zoom\r\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0µm, Laser AF",
     "Features": "Dual-LED flash, HDR, panorama",
     "Video": "3240p@30fps, 2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
    }
@@ -67,8 +67,8 @@
   ],
   "Sound": [
    {
-    "Loudspeaker ": "Yes",
-    "3.5mm jack ": "No"
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "No"
    }
   ],
   "Comms": [
@@ -87,7 +87,7 @@
   ],
   "Battery": [
    {
-    "info": "Non-removable Li-Po 4050 mAh battery",
+    "": "Non-removable Li-Po 4050 mAh battery",
     "Charging": "Fast battery charging 40W"
    }
   ],

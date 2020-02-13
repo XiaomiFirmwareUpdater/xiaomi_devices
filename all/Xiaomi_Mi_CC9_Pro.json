@@ -1,6 +1,6 @@
 {
  "name": "Xiaomi Mi CC9 Pro",
- "codename": "",
+ "codename": "tucana",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-cc9-pro-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_cc9_pro-9935.php",
  "specs": {
@@ -8,8 +8,8 @@
    {
     "Technology": "GSM / CDMA / HSPA / LTE",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "info": "CDMA 800 & TD-SCDMA",
-    "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
+    "": "CDMA 800 & TD-SCDMA",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
     "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat15 800/150 Mbps"
    }
@@ -34,7 +34,7 @@
     "Size": "6.47 inches, 102.8 cm2 (~87.8% screen-to-body ratio)",
     "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~398 ppi density)",
     "Protection": "Corning Gorilla Glass 5",
-    "info": "600 nits max brightness\r\nDCI-P3\r\nHDR10\r\nAlways-on display"
+    "": "600 nits max brightness\r\nDCI-P3\r\nHDR10\r\nAlways-on display"
    }
   ],
   "Platform": [
@@ -49,28 +49,28 @@
    {
     "Card slot": "No",
     "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
-    "info": "UFS 2.1"
+    "": "UFS 2.1"
    }
   ],
   "Main Camera": [
    {
-    "Five": "108 MP (8P lens - 256GB GB model), f/1.7, 25mm (wide), 1/1.33\", 0.8\u00b5m, PDAF, Laser AF, OIS\r\n12 MP, f/2.0, 50mm (telephoto), 1/2.55\", 1.4\u00b5m, Dual Pixel PDAF, Laser AF, 2x optical zoom\r\n5 MP (upscaled to 8MP), f/2.0, (telephoto), 1.0\u00b5m, PDAF, Laser AF, OIS, 5x optical zoom\r\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0\u00b5m, Laser AF\r\n2 MP, f/2.4, (macro), 1/5.0\", 1.75\u00b5m",
+    "Five": "108 MP (8P lens - 256GB GB model), f/1.7, 25mm (wide), 1/1.33\", 0.8µm, PDAF, Laser AF, OIS\r\n12 MP, f/2.0, 50mm (telephoto), 1/2.55\", 1.4µm, Dual Pixel PDAF, Laser AF, 2x optical zoom\r\n5 MP (upscaled to 8MP), f/2.0, (telephoto), 1.0µm, PDAF, Laser AF, OIS, 5x optical zoom\r\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0µm, Laser AF\r\n2 MP, f/2.4, (macro), 1/5.0\", 1.75µm",
     "Features": "Quad-LED dual-tone flash, HDR",
     "Video": "2160p@30fps, 1080p@30/60/120/240fps, 720p@960fps"
    }
   ],
   "Selfie camera": [
    {
-    "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8\u00b5m",
+    "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8µm",
     "Features": "HDR",
     "Video": "1080p@30fps"
    }
   ],
   "Sound": [
    {
-    "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes",
-    "info": "\r\n24-bit/192kHz audio"
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "Yes",
+    "": "24-bit/192kHz audio"
    }
   ],
   "Comms": [
@@ -91,7 +91,7 @@
   ],
   "Battery": [
    {
-    "info": "Non-removable Li-Po 5260 mAh battery",
+    "": "Non-removable Li-Po 5260 mAh battery",
     "Charging": "Fast battery charging 30W (58% in 30 min., 100% in 65 min.)\r\nUSB Power Delivery"
    }
   ],
@@ -99,12 +99,12 @@
    {
     "Colors": "Aurora Green, Glacier White, Midnight Black",
     "Models": "M1910F4E",
-    "Price": "$\u2009389.87 / \u00a3\u2009409.99"
+    "Price": "$ 399.99 / £ 409.99"
    }
   ],
   "Tests": [
    {
-    "Performance": "\r\nAnTuTu: 236051 (v8)"
+    "Performance": "AnTuTu: 236051 (v8)"
    }
   ]
  }

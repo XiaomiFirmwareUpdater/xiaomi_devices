@@ -8,11 +8,11 @@
    {
     "Technology": "GSM / CDMA / HSPA / LTE / 5G",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "info": "CDMA 800 & TD-SCDMA",
-    "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
+    "": "CDMA 800 & TD-SCDMA",
+    "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
     "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 17(700), 41(2500) - China",
     "5G": "5G band 41(2500), 78(3500), 79(4700); NSA",
-    "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (7CA) Cat20 2048/150 Mbps, 5G (2+ Gbps DL)"
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (7CA) Cat20 2000/150 Mbps, 5G (2+ Gbps DL)"
    }
   ],
   "Launch": [
@@ -35,7 +35,7 @@
     "Size": "6.39 inches, 100.2 cm2 (~85.5% screen-to-body ratio)",
     "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
     "Protection": "Corning Gorilla Glass 6",
-    "info": "DCI-P3\r\nHDR10"
+    "": "DCI-P3\r\nHDR10"
    }
   ],
   "Platform": [
@@ -50,27 +50,27 @@
    {
     "Card slot": "No",
     "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
-    "info": "UFS 3.0"
+    "": "UFS 3.0"
    }
   ],
   "Main Camera": [
    {
-    "Triple": "48 MP, f/1.8, 27mm (wide), 1/2.0\", 0.8\u00b5m, PDAF, Laser AF\r\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0\u00b5m, PDAF, Laser AF",
+    "Triple": "48 MP, f/1.8, 27mm (wide), 1/2.0\", 0.8µm, PDAF, Laser AF\r\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0µm, PDAF, Laser AF, 2x optical zoom\r\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0µm, PDAF, Laser AF",
     "Features": "Dual-LED flash, HDR, panorama",
     "Video": "2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
    }
   ],
   "Selfie camera": [
    {
-    "Single": "20 MP, f/2.0, (wide), 1/3\", 0.9\u00b5m",
+    "Single": "20 MP, f/2.0, (wide), 1/3\", 0.9µm",
     "Features": "HDR",
     "Video": "1080p@30fps"
    }
   ],
   "Sound": [
    {
-    "Loudspeaker ": "Yes",
-    "3.5mm jack ": "No"
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "No"
    }
   ],
   "Comms": [
@@ -91,14 +91,14 @@
   ],
   "Battery": [
    {
-    "info": "Non-removable Li-Po 4000 mAh battery",
+    "": "Non-removable Li-Po 4000 mAh battery",
     "Charging": "Fast battery charging 40W (Quick Charge 4+)\r\nFast wireless charging 30W\r\nPower bank/Reverse wireless charging 10W"
    }
   ],
   "Misc": [
    {
     "Colors": "Dream White, Titanium Black",
-    "Price": "$\u2009559.99"
+    "Price": "$ 559.99"
    }
   ]
  }

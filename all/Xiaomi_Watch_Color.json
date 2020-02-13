@@ -7,9 +7,9 @@
   "Network": [
    {
     "Technology": "No cellular connectivity",
-    "2G bands": " N/A",
-    "3G bands": " N/A",
-    "4G bands": " N/A",
+    "2G bands": "N/A",
+    "3G bands": "N/A",
+    "4G bands": "N/A",
     "Speed": "No",
     "GPRS": "No",
     "EDGE": "No"
@@ -27,7 +27,7 @@
     "Weight": "-",
     "Build": "Glass front, stainless steel frame, plastic back",
     "SIM": "No",
-    "info": "Waterproof (5ATM)"
+    "": "Waterproof (5ATM)"
    }
   ],
   "Display": [
@@ -45,18 +45,18 @@
   "Memory": [
    {
     "Card slot": "No",
-    "info": "eMMC"
+    "": "eMMC"
    }
   ],
   "Camera": [
    {
-    "info": "No"
+    "": "No"
    }
   ],
   "Sound": [
    {
-    "Loudspeaker ": "Yes",
-    "3.5mm jack ": "No"
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "No"
    }
   ],
   "Comms": [
@@ -76,7 +76,7 @@
   ],
   "Battery": [
    {
-    "info": "Non-removable Li-Ion 420 mAh battery",
+    "": "Non-removable Li-Ion 420 mAh battery",
     "Stand-by": "Up to 336 h"
    }
   ],

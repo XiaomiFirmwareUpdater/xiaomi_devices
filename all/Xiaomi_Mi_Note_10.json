@@ -8,7 +8,7 @@
    {
     "Technology": "GSM / HSPA / LTE",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 ",
+    "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
     "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 18(800), 19(800), 20(800), 26(850), 28(700), 38(2600), 40(2300)",
     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat15 800/150 Mbps"
    }
@@ -33,7 +33,7 @@
     "Size": "6.47 inches, 102.8 cm2 (~87.8% screen-to-body ratio)",
     "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~398 ppi density)",
     "Protection": "Corning Gorilla Glass 5",
-    "info": "600 nits max brightness\r\nDCI-P3\r\nHDR10\r\nAlways-on display"
+    "": "600 nits max brightness\r\nDCI-P3\r\nHDR10\r\nAlways-on display"
    }
   ],
   "Platform": [
@@ -48,28 +48,28 @@
    {
     "Card slot": "No",
     "Internal": "128GB 6GB RAM",
-    "info": "UFS 2.0"
+    "": "UFS 2.0"
    }
   ],
   "Main Camera": [
    {
-    "Five": "108 MP (7P lens), f/1.7, 25mm (wide), 1/1.33\", 0.8\u00b5m, PDAF, Laser AF, OIS\r\n12 MP, f/2.0, 50mm (telephoto), 1/2.55\", 1.4\u00b5m, Dual Pixel PDAF, Laser AF, 2x optical zoom\r\n5 MP (upscaled to 8MP), f/2.0, (telephoto), 1.0\u00b5m, PDAF, Laser AF, OIS, 5x optical zoom\r\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0\u00b5m, Laser AF\r\n2 MP, f/2.4, (macro), 1/5.0\", 1.75\u00b5m",
+    "Five": "108 MP (7P lens), f/1.7, 25mm (wide), 1/1.33\", 0.8µm, PDAF, Laser AF, OIS\r\n12 MP, f/2.0, 50mm (telephoto), 1/2.55\", 1.4µm, Dual Pixel PDAF, Laser AF, 2x optical zoom\r\n5 MP (upscaled to 8MP), f/2.0, (telephoto), 1.0µm, PDAF, Laser AF, OIS, 5x optical zoom\r\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0µm, Laser AF\r\n2 MP, f/2.4, (macro), 1/5.0\", 1.75µm",
     "Features": "Quad-LED dual-tone flash, HDR",
     "Video": "2160p@30fps, 1080p@30/60/120/240fps, 720p@960fps"
    }
   ],
   "Selfie camera": [
    {
-    "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8\u00b5m",
+    "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8µm",
     "Features": "HDR",
     "Video": "1080p@30fps"
    }
   ],
   "Sound": [
    {
-    "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes",
-    "info": "\r\n24-bit/192kHz audio"
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "Yes",
+    "": "24-bit/192kHz audio"
    }
   ],
   "Comms": [
@@ -90,7 +90,7 @@
   ],
   "Battery": [
    {
-    "info": "Non-removable Li-Po 5260 mAh battery",
+    "": "Non-removable Li-Po 5260 mAh battery",
     "Charging": "Fast battery charging 30W (58% in 30 min., 100% in 65 min.)\r\nUSB Power Delivery"
    }
   ],
@@ -98,19 +98,19 @@
    {
     "Colors": "Aurora Green, Glacier White, Midnight Black",
     "Models": "M1910F4G",
-    "SAR": "1.19 W/kg (head) \u00a0 \u00a0 1.18 W/kg (body) \u00a0 \u00a0 ",
-    "SAR EU": "1.11 W/kg (head) \u00a0 \u00a0 1.39 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009428.00 / \u00a3\u2009382.00 / \u20ac\u2009454.99"
+    "SAR": "1.19 W/kg (head)     1.18 W/kg (body)",
+    "SAR EU": "1.11 W/kg (head)     1.39 W/kg (body)",
+    "Price": "$ 458.94 / £ 382.00 / € 449.00"
    }
   ],
   "Tests": [
    {
-    "Performance": "\r\nAnTuTu: 213566 (v7), 256717 (v8)\nGeekBench: 6737 (v4.4)\nGFXBench: 15fps (ES 3.1 onscreen)",
-    "Display": "\nContrast ratio: Infinite (nominal)",
-    "Camera": "\nPhoto / Video",
-    "Loudspeaker": "\nVoice 69dB / Noise 72dB / Ring 66dB\n",
-    "Audio quality": "\nNoise -92.3dB / Crosstalk -89.7dB",
-    "Battery life": "\n\nEndurance rating 95h\n\n"
+    "Performance": "AnTuTu: 213566 (v7), 256717 (v8)\nGeekBench: 6737 (v4.4)\nGFXBench: 15fps (ES 3.1 onscreen)",
+    "Display": "Contrast ratio: Infinite (nominal)",
+    "Camera": "Photo / Video",
+    "Loudspeaker": "Voice 69dB / Noise 72dB / Ring 66dB",
+    "Audio quality": "Noise -92.3dB / Crosstalk -89.7dB",
+    "Battery life": "Endurance rating 95h"
    }
   ]
  }

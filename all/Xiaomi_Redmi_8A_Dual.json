@@ -1,23 +1,22 @@
 {
- "name": "Xiaomi Redmi 8A",
- "codename": "olivelite",
- "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-8a.jpg",
- "url": "https://www.gsmarena.com/xiaomi_redmi_8a-9897.php",
+ "name": "Xiaomi Redmi 8A Dual",
+ "codename": "olivewood",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-8a-dual.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_8a_dual-10078.php",
  "specs": {
   "Network": [
    {
     "Technology": "GSM / HSPA / LTE",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
     "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
-    "": "LTE band 1(2100), 3(1800), 5(850), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
-    "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300) - Global",
+    "4G bands": "LTE band 1(2100), 3(1800), 5(850), 8(900), 40(2300), 41(2500)",
     "Speed": "HSPA, LTE-A"
    }
   ],
   "Launch": [
    {
-    "Announced": "2019, September",
-    "Status": "Available. Released 2019, September"
+    "Announced": "2020, February 11",
+    "Status": "Coming soon. Exp. release 2020, February 18"
    }
   ],
   "Body": [
@@ -49,13 +48,13 @@
   "Memory": [
    {
     "Card slot": "microSDXC (dedicated slot)",
-    "Internal": "32GB 2GB RAM, 32GB 3GB RAM, 64GB 4GB RAM",
+    "Internal": "32GB 2GB RAM, 32GB 3GB RAM",
     "": "eMMC 5.1"
    }
   ],
   "Main Camera": [
    {
-    "Single": "12 MP, f/1.8, (wide), 1/2.55\", 1.4µm, dual pixel PDAF",
+    "Dual": "13 MP, f/2.2, (wide), 1/3.1\", 1.12µm, PDAF\r\n2 MP, f/2.4, (depth)",
     "Features": "LED flash, HDR, panorama",
     "Video": "1080p@30fps"
    }
@@ -90,21 +89,13 @@
   "Battery": [
    {
     "": "Non-removable Li-Po 5000 mAh battery",
-    "Charging": "Fast battery charging 18W"
+    "Charging": "Fast battery charging 18W\r\nPower bank/Reverse charging"
    }
   ],
   "Misc": [
    {
-    "Colors": "Midnight Black, Ocean Blue, Sunset Red",
-    "Models": "MZB8458IN, M1908C3KG, M1908C3KH",
-    "SAR": "0.48 W/kg (head)     1.07 W/kg (body)",
-    "SAR EU": "0.23 W/kg (head)     1.48 W/kg (body)",
-    "Price": "$ 99.99 / £ 99.99 / € 99.90 / ₹ 6,499"
-   }
-  ],
-  "Tests": [
-   {
-    "Performance": "AnTuTu: 89901 (v8)\r\nGeekBench: 3030 (v4.4)\r\nGFXBench: 7fps (ES 3.1 onscreen)"
+    "Colors": "Sky White, Sea Blue, Midnight Grey",
+    "Price": "About 80 EUR"
    }
   ]
  }
