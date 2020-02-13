@@ -3,12 +3,12 @@
 
 import json
 import re
+from time import sleep
 from bs4 import BeautifulSoup
 from requests import get
 
 LINKS = []
 ALL = []
-CODENAME = ''
 
 
 def get_codename(name):
@@ -17,52 +17,60 @@ def get_codename(name):
     :param name: Device's name
     :return: codename
     """
-    url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/' +\
+    url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/' + \
           'xiaomi_devices/models/models.json'
     devices = get(url).json()
-    global CODENAME
     alt_name = ''
     if '(' in name:
         alt_name = name.split('(')[1].split(')')[0].strip().lower()
         name = name.replace('Xiaomi', '').split('(')[0].strip().lower()
     else:
         name = name.replace('Xiaomi', '').strip().lower()
+    print(name)
     # a workaround for poco devices
     if 'pocophone' in name.lower():
         name = name.replace('pocophone', 'poco')
     # a workaround for some devices
     if 'redmi 5 plus' in alt_name:
-        CODENAME = 'vince'
-        return CODENAME
-    elif 'redmi note 5 ai' in name:
-        CODENAME = 'whyred'
-        return CODENAME
-    elif name == 'redmi note':
-        CODENAME = 'lcsh92_wet_gb9'
-        return CODENAME
-    elif name == 'redmi 4 (4x)':
-        CODENAME = 'santoni'
-        return CODENAME
-    elif name == 'redmi note 3' and not alt_name:
-        CODENAME = 'kenzo'
-        return CODENAME
-    elif name == 'redmi note 4' and not alt_name:
-        CODENAME = 'mido'
-        return CODENAME
-    elif name == 'redmi note 7':
-        CODENAME = 'lavender'
-        return CODENAME
-    if re.match(r'^[a-zA-Z]*\s[a-zA-Z]*\s[0-9]$', name):  # Match exact device for main models
+        return 'vince'
+    if 'redmi note 5 ai' in name:
+        return 'whyred'
+    if name == 'redmi note':
+        return 'lcsh92_wet_gb9'
+    if name == 'redmi 4 (4x)':
+        return 'santoni'
+    if name == 'redmi note 3' and not alt_name:
+        return 'kenzo'
+    if name == 'redmi note 4' and not alt_name:
+        return 'mido'
+    if name == 'redmi note 7':
+        device_codename = 'lavender'
+        return device_codename
+    if name == 'redmi k30':
+        return 'phoenix'
+    if name == 'mi mix alpha':
+        return 'darco'
+    if 'cc9' in name:
+        name = name.replace('cc9', 'cc 9')
+        print(name)
+    try:
+        device_codename = [codename for codename, info in devices.items()
+                           if name.lower() == info['name'].lower()][0]
+    except IndexError:
         try:
-            CODENAME = [i['codename'] for i in devices if name == str(i['name']).lower()][0]
+            device_codename = [codename for codename, info in devices.items() if name in str(info['models']).lower()][0]
         except IndexError:
-            CODENAME = ''
-    else:
-        try:
-            CODENAME = [i['codename'] for i in devices if name in str(i['models']).lower()][0]
-        except IndexError:
-            CODENAME = ''
-    return CODENAME
+            try:
+                device_codename = [codename for codename, info in devices.items()
+                                   if name.startswith(info['name'].split('/')[1].lower())][0]
+            except IndexError:
+                try:
+                    device_codename = [codename for codename, info in devices.items()
+                                       if info['name'].lower().startswith(name.lower())][0]
+                except IndexError:
+                    device_codename = ''
+    print(device_codename)
+    return device_codename
 
 
 def scrap_info(url):
@@ -87,13 +95,13 @@ def scrap_info(url):
         feature = ''
         for tr in table.findAll("tr"):
             for th in tr.findAll("th"):
-                feature = th.text
+                feature = th.text.strip()
             for td in tr.findAll("td", {"class": "ttl"}):
-                header = td.text
+                header = td.text.strip()
                 if header == '\u00a0':
                     header = 'info'
             for td in tr.findAll("td", {"class": "nfo"}):
-                detail = td.text
+                detail = td.text.strip()
             details.update({header: detail})
         features.append(details)
         out.update({feature: features})
@@ -136,6 +144,7 @@ def main():
     for device in LINKS:
         print(f'Fetching: {device}')
         scrap_info(device)
+        sleep(10)
     with open('devices.json', 'w') as output:
         json.dump(ALL, output, indent=1, ensure_ascii=False)
 
