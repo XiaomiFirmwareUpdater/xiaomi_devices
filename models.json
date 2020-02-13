@@ -222,6 +222,25 @@
    "M1904F3BC": "Mi CC 9 China"
   }
  },
+ "umi": {
+  "internal_name": "J2",
+  "name": "Mi 10",
+  "models": {
+   "M2001J2G": "Mi 10 Global",
+   "M2001J2I": "Mi 10 India",
+   "M2001J2E": "Mi 10 China",
+   "M2001J2C": "Mi 10 Chinese Carrier Version"
+  }
+ },
+ "cmi": {
+  "internal_name": "J1",
+  "name": "Mi 10 Pro",
+  "models": {
+   "M2001J1G": "Mi 10 Pro Global",
+   "M2001J1E": "Mi 10 Pro China",
+   "M2001J1C": "Mi 10 Pro Chinese Carrier Version"
+  }
+ },
  "virgo": {
   "internal_name": "X5",
   "name": "Mi Note",
