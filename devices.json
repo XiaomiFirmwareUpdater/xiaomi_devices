@@ -69,8 +69,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes",
      "info": "24-bit/192kHz audio"
     }
    ],
@@ -175,8 +175,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes",
      "info": "24-bit/192kHz audio\n"
     }
    ],
@@ -290,8 +290,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes",
      "info": "24-bit/192kHz audio\n"
     }
    ],
@@ -394,8 +394,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -507,8 +507,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes",
      "info": "\r\n24-bit/192kHz audio"
     }
    ],
@@ -614,8 +614,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes",
      "info": "\r\n24-bit/192kHz audio"
     }
    ],
@@ -732,8 +732,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes",
      "info": "\r\n24-bit/192kHz audio"
     }
    ],
@@ -830,8 +830,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -922,8 +922,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -1026,8 +1026,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -1133,8 +1133,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -1242,8 +1242,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -1345,8 +1345,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -1449,8 +1449,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -1553,8 +1553,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes",
      "info": "24-bit/192kHz audio\n"
     }
    ],
@@ -1656,8 +1656,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -1771,8 +1771,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -1887,8 +1887,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes, with stereo speakers",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -1988,8 +1988,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -2103,8 +2103,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -2207,8 +2207,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -2309,8 +2309,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -2411,8 +2411,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -2526,8 +2526,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes",
      "info": "24-bit/192kHz audio\n"
     }
    ],
@@ -2641,8 +2641,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes",
      "info": "24-bit/192kHz audio\n"
     }
    ],
@@ -2756,8 +2756,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes",
      "info": "24-bit/192kHz audio\n"
     }
    ],
@@ -2861,8 +2861,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes",
      "info": "24-bit/192kHz audio\n"
     }
    ],
@@ -2976,8 +2976,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -3080,8 +3080,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -3189,8 +3189,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes, with stereo speakers",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -3302,8 +3302,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -3410,8 +3410,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -3521,8 +3521,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -3626,8 +3626,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -3730,8 +3730,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -3846,8 +3846,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -3959,8 +3959,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -4061,8 +4061,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -4173,8 +4173,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -4273,8 +4273,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes, with stereo speakers",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -4376,8 +4376,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -4490,8 +4490,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -4604,8 +4604,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -4707,8 +4707,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -4819,8 +4819,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes, with stereo speakers",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -4931,8 +4931,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -5042,8 +5042,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -5155,8 +5155,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes, with stereo speakers",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -5266,8 +5266,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes, with stereo speakers",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -5364,8 +5364,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes, with stereo speakers",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -5463,8 +5463,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -5568,8 +5568,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -5674,8 +5674,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -5776,8 +5776,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -5889,8 +5889,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -6000,8 +6000,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -6112,8 +6112,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -6223,8 +6223,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -6336,8 +6336,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -6443,8 +6443,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes, with stereo speakers",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -6543,8 +6543,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -6656,8 +6656,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -6768,8 +6768,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -6869,8 +6869,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -6983,8 +6983,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -7087,8 +7087,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "No",
+     "Loudspeaker": "Yes, with stereo speakers",
+     "3.5mm jack": "No",
      "info": "24-bit/192kHz audio\n"
     }
    ],
@@ -7191,8 +7191,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -7302,8 +7302,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -7415,8 +7415,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes, with stereo speakers",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -7527,8 +7527,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -7641,8 +7641,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes, with stereo speakers",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -7749,8 +7749,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes, with stereo speakers",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -7850,8 +7850,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -7950,8 +7950,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes",
      "info": "24-bit/192kHz audio\n"
     }
    ],
@@ -8049,8 +8049,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes",
      "info": "24-bit/192kHz audio\n"
     }
    ],
@@ -8160,8 +8160,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -8266,8 +8266,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -8366,8 +8366,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -8471,8 +8471,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -8568,8 +8568,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -8676,8 +8676,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes",
      "info": "24-bit/192kHz audio\n"
     }
    ],
@@ -8789,8 +8789,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -8903,8 +8903,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -9014,8 +9014,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes",
      "info": "24-bit/192kHz audio\n"
     }
    ],
@@ -9122,8 +9122,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -9228,8 +9228,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -9328,8 +9328,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -9435,8 +9435,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -9548,8 +9548,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -9660,8 +9660,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -9773,8 +9773,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -9882,8 +9882,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -9992,8 +9992,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes",
      "info": "24-bit/192kHz audio\n"
     }
    ],
@@ -10106,8 +10106,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -10213,8 +10213,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -10311,8 +10311,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes, with stereo speakers",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -10411,8 +10411,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes",
      "info": "24-bit/192kHz audio\n"
     }
    ],
@@ -10524,8 +10524,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -10633,8 +10633,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -10746,8 +10746,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -10845,8 +10845,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -10946,8 +10946,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -11056,8 +11056,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -11155,8 +11155,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes",
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes",
      "info": "24-bit/192kHz audio\n"
     }
    ],
@@ -11263,8 +11263,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -11362,8 +11362,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -11470,8 +11470,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -11568,8 +11568,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -11670,8 +11670,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -11778,8 +11778,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes, with stereo speakers",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -11882,8 +11882,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -11991,8 +11991,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -12101,8 +12101,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -12206,8 +12206,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -12300,8 +12300,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -12394,8 +12394,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -12491,8 +12491,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -12585,8 +12585,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -12682,8 +12682,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -12780,8 +12780,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "No"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "No"
     }
    ],
    "Comms": [
@@ -12881,8 +12881,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes, with stereo speakers",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -12982,8 +12982,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes, with stereo speakers",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes, with stereo speakers",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -13081,8 +13081,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
@@ -13177,8 +13177,8 @@
    ],
    "Sound": [
     {
-     "Loudspeaker ": "Yes",
-     "3.5mm jack ": "Yes"
+     "Loudspeaker": "Yes",
+     "3.5mm jack": "Yes"
     }
    ],
    "Comms": [
