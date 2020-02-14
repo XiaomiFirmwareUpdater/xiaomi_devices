@@ -8,8 +8,8 @@
    {
     "Technology": "GSM / HSPA / LTE",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
-    "info": "LTE band 1(2100), 3(1800), 5(850), 8(900), 38(2600), 40(2300), 41(2500)",
+    "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "": "LTE band 1(2100), 3(1800), 5(850), 8(900), 38(2600), 40(2300), 41(2500)",
     "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300)",
     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (4CA) Cat12 600/50 Mbps"
    }
@@ -48,27 +48,27 @@
    {
     "Card slot": "microSDXC (dedicated slot)",
     "Internal": "32GB 3GB RAM, 64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",
-    "info": "eMMC"
+    "": "eMMC"
    }
   ],
   "Main Camera": [
    {
-    "Quad": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, (macro), 1/5.0\", 1.75\u00b5m\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m, depth sensor",
+    "Quad": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12µm\r\n2 MP, f/2.4, (macro), 1/5.0\", 1.75µm\r\n2 MP, f/2.4, (depth)",
     "Features": "LED flash, HDR, panorama",
     "Video": "2160p@30fps, 1080p@30/60/120fps; gyro-EIS"
    }
   ],
   "Selfie camera": [
    {
-    "Single": "13 MP, f/2.0, (wide), 1/3.1\", 1.12\u00b5m",
+    "Single": "13 MP, f/2.0, (wide), 1/3.1\", 1.12µm",
     "Features": "HDR, panorama",
     "Video": "1080p@30fps"
    }
   ],
   "Sound": [
    {
-    "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes"
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "Yes"
    }
   ],
   "Comms": [
@@ -88,7 +88,7 @@
   ],
   "Battery": [
    {
-    "info": "Non-removable Li-Po 4000 mAh battery",
+    "": "Non-removable Li-Po 4000 mAh battery",
     "Charging": "Fast battery charging 18W"
    }
   ],
@@ -96,19 +96,19 @@
    {
     "Colors": "Neptune Blue, Moonlight White, Space Black, Nebula Purple, Cosmic Purple",
     "Models": "M1908C3JH, M1908C3JG, M1908C3JI",
-    "SAR": "0.26 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body) \u00a0 \u00a0 ",
-    "SAR EU": "0.19 W/kg (head) \u00a0 \u00a0 1.09 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009134.79 / \u00a3\u2009126.99 / \u20ac\u2009149.90 / \u20b9\u20099,999"
+    "SAR": "0.26 W/kg (head)     1.00 W/kg (body)",
+    "SAR EU": "0.19 W/kg (head)     1.09 W/kg (body)",
+    "Price": "$ 134.79 / £ 127.99 / € 164.90 / ₹ 10,499"
    }
   ],
   "Tests": [
    {
-    "Performance": "\r\nAnTuTu: 141915 (v7), 161572 (v8)\r\nGeekBench: 5590 (v4.4), 1339 (v5.1)\r\nGFXBench: 5.9fps (ES 3.1 onscreen)",
-    "Display": "\nContrast ratio: 1521:1 (nominal)",
-    "Camera": "\nPhoto / Video",
-    "Loudspeaker": "\nVoice 78dB / Noise 72dB / Ring 81dB\n",
-    "Audio quality": "\nNoise -94.0dB / Crosstalk -93.3dB",
-    "Battery life": "\n\nEndurance rating 108h\n\n"
+    "Performance": "AnTuTu: 141915 (v7), 161572 (v8)\r\nGeekBench: 5590 (v4.4), 1339 (v5.1)\r\nGFXBench: 5.9fps (ES 3.1 onscreen)",
+    "Display": "Contrast ratio: 1521:1 (nominal)",
+    "Camera": "Photo / Video",
+    "Loudspeaker": "Voice 78dB / Noise 72dB / Ring 81dB",
+    "Audio quality": "Noise -94.0dB / Crosstalk -93.3dB",
+    "Battery life": "Endurance rating 108h"
    }
   ]
  }

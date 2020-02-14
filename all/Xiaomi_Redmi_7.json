@@ -8,7 +8,7 @@
    {
     "Technology": "GSM / CDMA / HSPA / LTE",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "info": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
+    "": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
     "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - Global",
     "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300) - Global",
     "Speed": "HSPA, LTE-A"
@@ -26,7 +26,7 @@
     "Weight": "180 g (6.35 oz)",
     "Build": "Glass front (Gorilla Glass 5), plastic back, plastic frame",
     "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
-    "info": "Splash resistant"
+    "": "Splash resistant"
    }
   ],
   "Display": [
@@ -49,27 +49,27 @@
    {
     "Card slot": "microSDXC (dedicated slot)",
     "Internal": "16GB 2GB RAM, 32GB 2GB RAM, 32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM",
-    "info": "eMMC 5.1"
+    "": "eMMC 5.1"
    }
   ],
   "Main Camera": [
    {
-    "Single": "12 MP, f/2.2, 1/2.9\", 1.25\u00b5m, PDAF\r\n2 MP, 1/5.0\", 1.75\u00b5m, depth sensor",
+    "Single": "12 MP, f/2.2, 1/2.9\", 1.25µm, PDAF\r\n2 MP, (depth)",
     "Features": "LED flash, HDR, panorama",
     "Video": "1080p@30/60fps"
    }
   ],
   "Selfie camera": [
    {
-    "Single": "8 MP, f/2.0, 1/4\", 1.12\u00b5m",
+    "Single": "8 MP, f/2.0, 1/4\", 1.12µm",
     "Features": "HDR",
     "Video": "1080p@30fps"
    }
   ],
   "Sound": [
    {
-    "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes"
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "Yes"
    }
   ],
   "Comms": [
@@ -89,7 +89,7 @@
   ],
   "Battery": [
    {
-    "info": "Non-removable Li-Po 4000 mAh battery",
+    "": "Non-removable Li-Po 4000 mAh battery",
     "Charging": "Battery charging 10W"
    }
   ],
@@ -97,13 +97,14 @@
    {
     "Colors": "Lunar Red, Eclipse Black, Comet Blue",
     "Models": "M1810F6LG, M1810F6LH, M1810F6LI",
-    "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.25 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009117.99 / \u00a3\u2009109.95 / \u20ac\u2009148.18 / \u20b9\u20097,250"
+    "SAR": "1.10 W/kg (head)     1.02 W/kg (body)",
+    "SAR EU": "0.58 W/kg (head)     1.25 W/kg (body)",
+    "Price": "$ 118.86 / £ 109.95 / € 139.90 / ₹ 7,250"
    }
   ],
   "Tests": [
    {
-    "Performance": "\r\nAnTuTu: 102616 (v7)\nGeekBench: 4276 (v4.4)\nGFXBench: 7.7fps (ES 3.1 onscreen)"
+    "Performance": "AnTuTu: 102616 (v7)\nGeekBench: 4276 (v4.4)\nGFXBench: 7.7fps (ES 3.1 onscreen)"
    }
   ]
  }

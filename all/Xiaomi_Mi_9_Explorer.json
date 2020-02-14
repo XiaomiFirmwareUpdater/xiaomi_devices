@@ -8,8 +8,8 @@
    {
     "Technology": "GSM / CDMA / HSPA / LTE",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "info": "CDMA 800 & TD-SCDMA",
-    "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
+    "": "CDMA 800 & TD-SCDMA",
+    "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
     "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 17(700), 20(800), 28(700), 38(2600), 39(1900), 40(2300)",
     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (5CA) Cat18 1200/150 Mbps"
    }
@@ -34,7 +34,7 @@
     "Size": "6.39 inches, 100.2 cm2 (~85.2% screen-to-body ratio)",
     "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
     "Protection": "Corning Gorilla Glass 6",
-    "info": "DCI-P3\r\nHDR10"
+    "": "DCI-P3\r\nHDR10"
    }
   ],
   "Platform": [
@@ -49,27 +49,27 @@
    {
     "Card slot": "No",
     "Internal": "256GB 8GB RAM, 256GB 12GB RAM",
-    "info": "UFS 2.1"
+    "": "UFS 2.1"
    }
   ],
   "Main Camera": [
    {
-    "Triple": "48 MP, f/1.5 (12GB RAM model) or f/1.8 (8GB RAM model), (wide), 1/2.0\", 0.8\u00b5m, PDAF, Laser AF\r\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0\u00b5m, PDAF, Laser AF, 2x optical zoom\r\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0\u00b5m, PDAF, Laser AF",
+    "Triple": "48 MP, f/1.5 (12GB RAM model) or f/1.8 (8GB RAM model), (wide), 1/2.0\", 0.8µm, PDAF, Laser AF\r\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0µm, PDAF, Laser AF, 2x optical zoom\r\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0µm, PDAF, Laser AF",
     "Features": "Dual-LED flash, HDR, panorama",
     "Video": "2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
    }
   ],
   "Selfie camera": [
    {
-    "Single": "20 MP, f/2.0, (wide), 1/3\", 0.9\u00b5m",
+    "Single": "20 MP, f/2.0, (wide), 1/3\", 0.9µm",
     "Features": "HDR",
     "Video": "1080p@30fps"
    }
   ],
   "Sound": [
    {
-    "Loudspeaker ": "Yes",
-    "3.5mm jack ": "No"
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "No"
    }
   ],
   "Comms": [
@@ -90,7 +90,7 @@
   ],
   "Battery": [
    {
-    "info": "Non-removable Li-Po 3300 mAh battery",
+    "": "Non-removable Li-Po 3300 mAh battery",
     "Charging": "Fast battery charging 27W (Quick Charge 4+)\r\nFast wireless charging 20W"
    }
   ],

@@ -8,7 +8,7 @@
    {
     "Technology": "GSM / HSPA / LTE",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
     "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 40(2300), 41(2500)",
     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat9 450/50 Mbps"
    }
@@ -47,12 +47,12 @@
    {
     "Card slot": "microSDXC (uses shared SIM slot)",
     "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM",
-    "info": "UFS 2.1"
+    "": "UFS 2.1"
    }
   ],
   "Main Camera": [
    {
-    "Dual": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n5 MP, f/2.4, 1/5.0\", 1.12\u00b5m, depth sensor",
+    "Dual": "48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, PDAF\r\n5 MP, f/2.4, (depth)",
     "Features": "Dual-LED flash, HDR, panorama",
     "Video": "2160p@30fps, 1080p@30/60/120fps, (gyro-EIS)"
    }
@@ -66,8 +66,8 @@
   ],
   "Sound": [
    {
-    "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes"
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "Yes"
    }
   ],
   "Comms": [
@@ -87,7 +87,7 @@
   ],
   "Battery": [
    {
-    "info": "Non-removable Li-Po 4000 mAh battery",
+    "": "Non-removable Li-Po 4000 mAh battery",
     "Charging": "Fast battery charging 18W (Quick Charge 4)"
    }
   ],
@@ -95,13 +95,13 @@
    {
     "Colors": "Nebula Red, Neptune Blue, Space Black, Astro White",
     "Models": "M1901F7S",
-    "SAR": "0.96 W/kg (head) \u00a0 \u00a0 0.84 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009164.49 / \u00a3\u2009208.90 / \u20b9\u20098,982"
+    "SAR": "0.96 W/kg (head)     0.84 W/kg (body)",
+    "Price": "$ 163.89 / £ 208.90 / ₹ 7,894"
    }
   ],
   "Tests": [
    {
-    "Performance": "\r\nAnTuTu: 180754 (v7), 215308 (v8)\nGeekBench: 6620 (v4.4), 1624 (v5.1)\nGFXBench: 7.9fps (ES 3.1 onscreen)"
+    "Performance": "AnTuTu: 180754 (v7), 215308 (v8)\nGeekBench: 6620 (v4.4), 1624 (v5.1)\nGFXBench: 7.9fps (ES 3.1 onscreen)"
    }
   ]
  }

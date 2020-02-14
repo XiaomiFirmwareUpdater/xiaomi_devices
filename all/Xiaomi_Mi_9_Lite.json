@@ -8,7 +8,7 @@
    {
     "Technology": "GSM / HSPA / LTE",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
+    "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
     "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 28(700), 38(2600), 40(2300)",
     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A"
    }
@@ -33,7 +33,7 @@
     "Size": "6.39 inches, 100.2 cm2 (~85.8% screen-to-body ratio)",
     "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
     "Protection": "Corning Gorilla Glass 5",
-    "info": "600 nits max brightness \r\nHDR"
+    "": "600 nits max brightness \r\nHDR"
    }
   ],
   "Platform": [
@@ -48,27 +48,27 @@
    {
     "Card slot": "microSDXC (uses shared SIM slot)",
     "Internal": "64GB 6GB RAM, 128GB 6GB RAM",
-    "info": "UFS 2.1"
+    "": "UFS 2.1"
    }
   ],
   "Main Camera": [
    {
-    "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, 1/5.0\", 1.75\u00b5m, depth sensor",
+    "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, PDAF\r\n8 MP, (ultrawide), 1/4.0\", 1.12µm\r\n2 MP, (depth)",
     "Features": "LED flash, HDR, panorama",
     "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps"
    }
   ],
   "Selfie camera": [
    {
-    "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8\u00b5m",
+    "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8µm",
     "Features": "HDR",
     "Video": "1080p@30fps"
    }
   ],
   "Sound": [
    {
-    "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes"
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "Yes"
    }
   ],
   "Comms": [
@@ -89,7 +89,7 @@
   ],
   "Battery": [
    {
-    "info": "Non-removable Li-Po 4030 mAh battery",
+    "": "Non-removable Li-Po 4030 mAh battery",
     "Charging": "Fast battery charging 18W"
    }
   ],
@@ -97,18 +97,18 @@
    {
     "Colors": "Pearl White, Aurora Blue, Onyx Grey",
     "Models": "M1904F3BG",
-    "SAR": "1.19 W/kg (head) \u00a0 \u00a0 1.15 W/kg (body) \u00a0 \u00a0 ",
-    "SAR EU": "1.42 W/kg (head) \u00a0 \u00a0 1.40 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009254.99 / \u00a3\u2009242.96 / \u20ac\u2009249.00"
+    "SAR": "1.19 W/kg (head)     1.15 W/kg (body)",
+    "SAR EU": "1.42 W/kg (head)     1.40 W/kg (body)",
+    "Price": "$ 257.95 / £ 245.00 / € 248.20"
    }
   ],
   "Tests": [
    {
-    "Performance": "\r\nAnTuTu: 175478 (v7), 215277 (v8)\nGeekBench: 5989 (v4.4), 1518 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
-    "Display": "\nContrast ratio: Infinite (nominal)",
-    "Camera": "\nPhoto / Video",
-    "Loudspeaker": "\nVoice 67dB / Noise 72dB / Ring 83dB\n",
-    "Battery life": "\n\nEndurance rating 106h\n\n"
+    "Performance": "AnTuTu: 175478 (v7), 215277 (v8)\nGeekBench: 5989 (v4.4), 1518 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
+    "Display": "Contrast ratio: Infinite (nominal)",
+    "Camera": "Photo / Video",
+    "Loudspeaker": "Voice 67dB / Noise 72dB / Ring 83dB",
+    "Battery life": "Endurance rating 106h"
    }
   ]
  }

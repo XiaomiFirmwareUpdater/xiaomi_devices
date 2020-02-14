@@ -8,8 +8,8 @@
    {
     "Technology": "GSM / CDMA / HSPA / LTE",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "info": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
-    "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
+    "": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
     "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300) - Global",
     "Speed": "HSPA, LTE-A"
    }
@@ -34,7 +34,7 @@
     "Size": "5.97 inches, 87.5 cm2 (~84.1% screen-to-body ratio)",
     "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~432 ppi density)",
     "Protection": "Corning Gorilla Glass 5",
-    "info": "HDR"
+    "": "HDR"
    }
   ],
   "Platform": [
@@ -49,27 +49,27 @@
    {
     "Card slot": "No",
     "Internal": "64GB 6GB RAM, 128GB 6GB RAM",
-    "info": "UFS 2.0"
+    "": "UFS 2.0"
    }
   ],
   "Main Camera": [
    {
-    "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.4, (telephoto), 1/4.0\", 1.12\u00b5m, PDAF\r\n13 MP, f/2.4, (ultrawide), 1/3.1\", 1.12\u00b5m",
+    "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, PDAF\r\n8 MP, f/2.4, (telephoto), 1/4.0\", 1.12µm, PDAF\r\n13 MP, f/2.4, (ultrawide), 1/3.1\", 1.12µm",
     "Features": "Dual-LED flash, HDR, panorama",
     "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps, gyro-EIS"
    }
   ],
   "Selfie camera": [
    {
-    "Single": "20 MP, f/2.0, (wide), 1/3\", 0.9\u00b5m",
+    "Single": "20 MP, f/2.0, (wide), 1/3\", 0.9µm",
     "Features": "HDR",
     "Video": "1080p@30fps"
    }
   ],
   "Sound": [
    {
-    "Loudspeaker ": "Yes",
-    "3.5mm jack ": "No"
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "No"
    }
   ],
   "Comms": [
@@ -90,7 +90,7 @@
   ],
   "Battery": [
    {
-    "info": "Non-removable Li-Po 3070 mAh battery",
+    "": "Non-removable Li-Po 3070 mAh battery",
     "Charging": "Fast battery charging 18W"
    }
   ],
@@ -98,18 +98,19 @@
    {
     "Colors": "Violet, Blue, Gray",
     "Models": "M1903F2G",
-    "SAR": "1.39 W/kg (head) \u00a0 \u00a0 1.39 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009153.99 / \u00a3\u2009249.95 / \u20ac\u2009316.80"
+    "SAR": "1.39 W/kg (head)     1.39 W/kg (body)",
+    "SAR EU": "1.19 W/kg (head)     1.17 W/kg (body)",
+    "Price": "$ 153.99 / £ 248.99 / € 316.80"
    }
   ],
   "Tests": [
    {
-    "Performance": "\r\nAnTuTu: 180057 (v7)\nGeekBench: 6017 (v4.4)\nGFXBench: 14fps (ES 3.1 onscreen)",
-    "Display": "\nContrast ratio: Infinite (nominal)",
-    "Camera": "\nPhoto / Video",
-    "Loudspeaker": "\nVoice 86dB / Noise 79dB / Ring 87dB\n",
-    "Audio quality": "\nNoise -93.5dB / Crosstalk -93.5dB",
-    "Battery life": "\n\nEndurance rating 73h\n\n"
+    "Performance": "AnTuTu: 180057 (v7)\nGeekBench: 6017 (v4.4)\nGFXBench: 14fps (ES 3.1 onscreen)",
+    "Display": "Contrast ratio: Infinite (nominal)",
+    "Camera": "Photo / Video",
+    "Loudspeaker": "Voice 86dB / Noise 79dB / Ring 87dB",
+    "Audio quality": "Noise -93.5dB / Crosstalk -93.5dB",
+    "Battery life": "Endurance rating 73h"
    }
   ]
  }

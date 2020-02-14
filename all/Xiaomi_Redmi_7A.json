@@ -8,9 +8,9 @@
    {
     "Technology": "GSM / HSPA / LTE",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
     "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300) - Global",
-    "info": "LTE band 1(2100), 3(1800), 5(850), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
+    "": "LTE band 1(2100), 3(1800), 5(850), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
     "Speed": "HSPA, LTE-A"
    }
   ],
@@ -26,7 +26,7 @@
     "Weight": "165 g (5.82 oz)",
     "Build": "Glass front, plastic back, plastic frame",
     "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
-    "info": "Splash resistant"
+    "": "Splash resistant"
    }
   ],
   "Display": [
@@ -48,27 +48,27 @@
    {
     "Card slot": "microSDXC (dedicated slot)",
     "Internal": "16GB 2GB RAM, 32GB 2GB RAM, 32GB 3GB RAM",
-    "info": "eMMC 5.1"
+    "": "eMMC 5.1"
    }
   ],
   "Main Camera": [
    {
-    "Single": "13 MP, f/2.2, 1/3.1\", 1.12\u00b5m, PDAF - China\r\nor\r\n12 MP, f/2.2, 1/2.9\", 1.25\u00b5m, PDAF - Global, India",
+    "Single": "13 MP, f/2.2, 1/3.1\", 1.12µm, PDAF - China\r\nor\r\n12 MP, f/2.2, 1/2.9\", 1.25µm, PDAF - Global, India",
     "Features": "LED flash, HDR",
     "Video": "1080p@30fps"
    }
   ],
   "Selfie camera": [
    {
-    "Single": "5 MP, f/2.2, 1/5\", 1.12\u00b5m",
+    "Single": "5 MP, f/2.2, 1/5\", 1.12µm",
     "Features": "HDR",
     "Video": "1080p@30fps"
    }
   ],
   "Sound": [
    {
-    "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes"
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "Yes"
    }
   ],
   "Comms": [
@@ -87,7 +87,7 @@
   ],
   "Battery": [
    {
-    "info": "Non-removable Li-Po 4000 mAh battery",
+    "": "Non-removable Li-Po 4000 mAh battery",
     "Charging": "Battery charging 10W (China model)"
    }
   ],
@@ -95,8 +95,9 @@
    {
     "Colors": "Matte Black, Morning blue, Matte Blue, Matte Gold, Gem Red, Gem Blue",
     "Models": "MZB7995IN, M1903C3EG, M1903C3EH, M1903C3EI",
-    "SAR": "0.74 W/kg (head) \u00a0 \u00a0 0.79 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u200984.99 / \u00a3\u200974.98 / \u20ac\u200995.85 / \u20b9\u20094,999"
+    "SAR": "1.00 W/kg (head)     1.12 W/kg (body)",
+    "SAR EU": "0.56 W/kg (head)     1.17 W/kg (body)",
+    "Price": "$ 84.99 / £ 74.98 / € 87.85 / ₹ 5,499"
    }
   ]
  }

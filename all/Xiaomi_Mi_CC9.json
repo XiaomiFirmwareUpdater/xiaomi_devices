@@ -1,6 +1,6 @@
 {
  "name": "Xiaomi Mi CC9",
- "codename": "",
+ "codename": "pyxis",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-cc9-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_cc9-9749.php",
  "specs": {
@@ -8,8 +8,8 @@
    {
     "Technology": "GSM / CDMA / HSPA / LTE",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "info": "CDMA 800 & TD-SCDMA",
-    "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
+    "": "CDMA 800 & TD-SCDMA",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
     "4G bands": "LTE band 1(2100), 3(1800), 5(850), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A"
    }
@@ -34,7 +34,7 @@
     "Size": "6.39 inches, 100.2 cm2 (~85.8% screen-to-body ratio)",
     "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
     "Protection": "Corning Gorilla Glass 5",
-    "info": "403 nits max brightness\r\nHDR"
+    "": "403 nits max brightness\r\nHDR"
    }
   ],
   "Platform": [
@@ -49,27 +49,27 @@
    {
     "Card slot": "microSDXC (uses shared SIM slot)",
     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM",
-    "info": "UFS 2.1"
+    "": "UFS 2.1"
    }
   ],
   "Main Camera": [
    {
-    "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, 1/5.0\", 1.75\u00b5m, depth sensor",
+    "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, PDAF\r\n8 MP, (ultrawide), 1/4.0\", 1.12µm\r\n2 MP, (depth)",
     "Features": "LED flash, HDR, panorama",
     "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps"
    }
   ],
   "Selfie camera": [
    {
-    "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8\u00b5m",
+    "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8µm",
     "Features": "HDR",
     "Video": "1080p@30fps"
    }
   ],
   "Sound": [
    {
-    "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes"
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "Yes"
    }
   ],
   "Comms": [
@@ -90,14 +90,14 @@
   ],
   "Battery": [
    {
-    "info": "Non-removable Li-Po 4030 mAh battery",
+    "": "Non-removable Li-Po 4030 mAh battery",
     "Charging": "Fast battery charging 18W"
    }
   ],
   "Misc": [
    {
     "Colors": "Black, Blue, White",
-    "Price": "$\u2009219.99 / \u00a3\u2009337.99"
+    "Price": "$ 219.99 / £ 337.99"
    }
   ]
  }

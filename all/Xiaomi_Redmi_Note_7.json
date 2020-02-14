@@ -9,7 +9,7 @@
     "Technology": "GSM / HSPA / LTE",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
     "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - Global",
-    "info": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
+    "": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
     "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 28(700), 38(2600), 40(2300) - Global",
     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat12 600/150 Mbps"
    }
@@ -48,27 +48,27 @@
    {
     "Card slot": "microSDXC (uses shared SIM slot)",
     "Internal": "32GB 3GB RAM, 64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM",
-    "info": "eMMC 5.1"
+    "": "eMMC 5.1"
    }
   ],
   "Main Camera": [
    {
-    "Dual": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n5 MP, f/2.2, 1/5.0\", 1.12\u00b5m, depth sensor\r\nor\r\n12 MP, f/2.2, (wide), 1/2.9\", 1.25\u00b5m, PDAF\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m, depth sensor",
+    "Dual": "48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, PDAF\r\n5 MP, f/2.2, (depth)\r\nor\r\n12 MP, f/2.2, (wide), 1/2.9\", 1.25µm, PDAF\r\n2 MP, f/2.4, (depth)",
     "Features": "Dual-LED flash, HDR, panorama",
     "Video": "1080p@30/60/120fps, (gyro-EIS)"
    }
   ],
   "Selfie camera": [
    {
-    "Single": "13 MP, f/2.0, (wide), 1/3.1\", 1.12\u00b5m",
+    "Single": "13 MP, f/2.0, (wide), 1/3.1\", 1.12µm",
     "Features": "HDR",
     "Video": "1080p@30fps"
    }
   ],
   "Sound": [
    {
-    "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes"
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "Yes"
    }
   ],
   "Comms": [
@@ -88,7 +88,7 @@
   ],
   "Battery": [
    {
-    "info": "Non-removable Li-Po 4000 mAh battery",
+    "": "Non-removable Li-Po 4000 mAh battery",
     "Charging": "Fast battery charging 18W (Quick Charge 4)"
    }
   ],
@@ -96,18 +96,19 @@
    {
     "Colors": "Blue, Black, Twilight Gold, White",
     "Models": "M1901F7G, M1901F7H, M1901F7I",
-    "SAR": "0.59 W/kg (head) \u00a0 \u00a0 1.27 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009141.99 / \u00a3\u2009139.99 / \u20ac\u2009186.89 / \u20b9\u20099,980"
+    "SAR": "1.15 W/kg (head)     1.17 W/kg (body)",
+    "SAR EU": "0.59 W/kg (head)     1.27 W/kg (body)",
+    "Price": "$ 141.99 / £ 139.99 / € 161.63 / ₹ 9,500"
    }
   ],
   "Tests": [
    {
-    "Performance": "\r\nAnTuTu: 139075 (v7)\r\nGeekBench: 5411 (v4.4)\r\nGFXBench: 7.7fps (ES 3.1 onscreen)",
-    "Display": "\nContrast ratio: 1338:1 (nominal), 2.893 (sunlight)",
-    "Camera": "\nPhoto / Video",
-    "Loudspeaker": "\nVoice 69dB / Noise 71dB / Ring 90dB\n",
-    "Audio quality": "\nNoise -90.7dB / Crosstalk -94.5dB",
-    "Battery life": "\n\nEndurance rating 108h\n\n"
+    "Performance": "AnTuTu: 139075 (v7)\r\nGeekBench: 5411 (v4.4)\r\nGFXBench: 7.7fps (ES 3.1 onscreen)",
+    "Display": "Contrast ratio: 1338:1 (nominal), 2.893 (sunlight)",
+    "Camera": "Photo / Video",
+    "Loudspeaker": "Voice 69dB / Noise 71dB / Ring 90dB",
+    "Audio quality": "Noise -90.7dB / Crosstalk -94.5dB",
+    "Battery life": "Endurance rating 108h"
    }
   ]
  }

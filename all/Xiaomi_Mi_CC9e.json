@@ -1,6 +1,6 @@
 {
  "name": "Xiaomi Mi CC9e",
- "codename": "",
+ "codename": "laurus",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-cc9e-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_cc9e-9759.php",
  "specs": {
@@ -8,8 +8,8 @@
    {
     "Technology": "GSM / CDMA / HSPA / LTE",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "info": "CDMA 800 & TD-SCDMA",
-    "3G bands": "HSDPA 850 / 900 / 2100 ",
+    "": "CDMA 800 & TD-SCDMA",
+    "3G bands": "HSDPA 850 / 900 / 2100",
     "4G bands": "LTE band 1(2100), 3(1800), 5(850), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) 450/50 Mbps"
    }
@@ -48,27 +48,27 @@
    {
     "Card slot": "microSDXC (uses shared SIM slot)",
     "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM",
-    "info": "eMMC 5.1"
+    "": "eMMC 5.1"
    }
   ],
   "Main Camera": [
    {
-    "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m, depth sensor",
+    "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, PDAF\r\n8 MP, f/2.2, (ultrawide), 1/4.0\", 1.12µm\r\n2 MP, f/2.4, (depth)",
     "Features": "LED flash, HDR, panorama",
     "Video": "2160p@30fps, 1080p@30/60/120fps"
    }
   ],
   "Selfie camera": [
    {
-    "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8\u00b5m",
+    "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8µm",
     "Features": "HDR",
     "Video": "1080p@30fps"
    }
   ],
   "Sound": [
    {
-    "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes"
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "Yes"
    }
   ],
   "Comms": [
@@ -88,14 +88,14 @@
   ],
   "Battery": [
    {
-    "info": "Non-removable Li-Po 4030 mAh battery",
+    "": "Non-removable Li-Po 4030 mAh battery",
     "Charging": "Fast battery charging 18W"
    }
   ],
   "Misc": [
    {
     "Colors": "Black, Blue, White",
-    "Price": "$\u2009153.99"
+    "Price": "$ 153.99"
    }
   ]
  }

@@ -8,7 +8,7 @@
    {
     "Technology": "GSM / HSPA / LTE",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100 ",
+    "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
     "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 28(700), 38(2600), 40(2300)",
     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 400/50 Mbps"
    }
@@ -47,27 +47,27 @@
    {
     "Card slot": "microSDXC (uses shared SIM slot)",
     "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",
-    "info": "UFS 2.1"
+    "": "UFS 2.1"
    }
   ],
   "Main Camera": [
    {
-    "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12\u00b5m\r\n2 MP, f/2.4, 1/5.0\", 1.75\u00b5m, depth sensor",
+    "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12µm\r\n2 MP, f/2.4, (depth)",
     "Features": "LED flash, HDR, panorama",
     "Video": "2160p@30fps, 1080p@30/60/120fps"
    }
   ],
   "Selfie camera": [
    {
-    "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8\u00b5m",
+    "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8µm",
     "Features": "HDR",
     "Video": "1080p@30fps"
    }
   ],
   "Sound": [
    {
-    "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes"
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "Yes"
    }
   ],
   "Comms": [
@@ -87,7 +87,7 @@
   ],
   "Battery": [
    {
-    "info": "Non-removable Li-Po 4030 mAh battery",
+    "": "Non-removable Li-Po 4030 mAh battery",
     "Charging": "Fast battery charging 18W (Quick Charge 3)"
    }
   ],
@@ -95,19 +95,19 @@
    {
     "Colors": "Kind of Gray, Not just Blue, More than White",
     "Models": "M1906F9SH, M1906F9SI",
-    "SAR": "0.53 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body) \u00a0 \u00a0 ",
-    "SAR EU": "0.30 W/kg (head) \u00a0 \u00a0 1.10 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009166.99 / \u00a3\u2009169.99 / \u20ac\u2009189.00 / \u20b9\u200910,771"
+    "SAR": "0.53 W/kg (head)     0.72 W/kg (body)",
+    "SAR EU": "0.30 W/kg (head)     1.10 W/kg (body)",
+    "Price": "$ 176.99 / £ 159.99 / € 209.90 / ₹ 10,644"
    }
   ],
   "Tests": [
    {
-    "Performance": "\r\nBasemark OS II 2.0: 2345Basemark X: 17948",
-    "Display": "\nContrast ratio: Infinite (nominal)",
-    "Camera": "\nPhoto / Video",
-    "Loudspeaker": "\nVoice 74dB / Noise 74dB / Ring 81dB\n",
-    "Audio quality": "\nNoise -93.7dB / Crosstalk -93.0dB",
-    "Battery life": "\n\nEndurance rating 101h\n\n"
+    "Performance": "Basemark OS II 2.0: 2345Basemark X: 17948",
+    "Display": "Contrast ratio: Infinite (nominal)",
+    "Camera": "Photo / Video",
+    "Loudspeaker": "Voice 74dB / Noise 74dB / Ring 81dB",
+    "Audio quality": "Noise -93.7dB / Crosstalk -93.0dB",
+    "Battery life": "Endurance rating 101h"
    }
   ]
  }

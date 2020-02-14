@@ -8,7 +8,7 @@
    {
     "Technology": "GSM / HSPA / LTE",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
+    "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
     "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 28(700), 38(2600), 40(2300), 41(2500)",
     "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
    }
@@ -46,27 +46,27 @@
    {
     "Card slot": "microSDXC (dedicated slot)",
     "Internal": "8GB 1GB RAM, 16GB 1GB RAM",
-    "info": "eMMC 5.1"
+    "": "eMMC 5.1"
    }
   ],
   "Main Camera": [
    {
-    "Single": "8 MP, f/2.0, 1/4.0\", 1.12\u00b5m, AF",
+    "Single": "8 MP, f/2.0, 1/4.0\", 1.12µm, AF",
     "Features": "LED flash, HDR",
     "Video": "1080p@30fps"
    }
   ],
   "Selfie camera": [
    {
-    "Single": "5 MP, f/2.2, 1/5\", 1.12\u00b5m",
+    "Single": "5 MP, f/2.2, 1/5\", 1.12µm",
     "Features": "HDR",
     "Video": ""
    }
   ],
   "Sound": [
    {
-    "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes"
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "Yes"
    }
   ],
   "Comms": [
@@ -85,15 +85,15 @@
   ],
   "Battery": [
    {
-    "info": "Non-removable Li-Ion 3000 mAh battery"
+    "": "Non-removable Li-Ion 3000 mAh battery"
    }
   ],
   "Misc": [
    {
     "Colors": "Black, Blue",
     "Models": "M1903C3GG, M1903C3GH, M1903C3GI",
-    "SAR": "0.58 W/kg (head) \u00a0 \u00a0 1.50 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u200973.98 / \u00a3\u200971.00 / \u20ac\u200999.00 / \u20b9\u20094,299"
+    "SAR": "0.58 W/kg (head)     1.50 W/kg (body)",
+    "Price": "$ 73.98 / £ 71.00 / € 88.65 / ₹ 4,299"
    }
   ]
  }

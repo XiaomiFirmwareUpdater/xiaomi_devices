@@ -95,7 +95,10 @@
   "Misc": [
    {
     "Colors": "Starscape Blue, Moonlight White, Moonshadow Grey",
-    "Price": "$ 136.99 / £ 120.99 / € 166.00"
+    "Models": "M1908C3XG",
+    "SAR": "1.02 W/kg (head)     1.18 W/kg (body)",
+    "SAR EU": "0.74 W/kg (head)     1.30 W/kg (body)",
+    "Price": "$ 157.00 / £ 120.99 / € 166.00"
    }
   ],
   "Tests": [
