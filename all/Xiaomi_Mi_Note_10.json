@@ -100,12 +100,12 @@
     "Models": "M1910F4G",
     "SAR": "1.19 W/kg (head)     1.18 W/kg (body)",
     "SAR EU": "1.11 W/kg (head)     1.39 W/kg (body)",
-    "Price": "$ 454.99 / £ 382.00 / € 444.00"
+    "Price": "$ 454.99 / £ 364.57 / € 444.00"
    }
   ],
   "Tests": [
    {
-    "Performance": "AnTuTu: 213566 (v7), 256717 (v8)\nGeekBench: 6737 (v4.4)\nGFXBench: 15fps (ES 3.1 onscreen)",
+    "Performance": "AnTuTu: 213566 (v7), 256717 (v8)\r\nGeekBench: 6737 (v4.4)\r\nGFXBench: 15fps (ES 3.1 onscreen)",
     "Display": "Contrast ratio: Infinite (nominal)",
     "Camera": "Photo / Video",
     "Loudspeaker": "Voice 69dB / Noise 72dB / Ring 66dB",
