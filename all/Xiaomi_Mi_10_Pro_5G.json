@@ -92,7 +92,7 @@
   "Battery": [
    {
     "": "Non-removable Li-Po 4500 mAh battery",
-    "Charging": "Fast battery charging 50W\r\nPower Delivery 3.0\r\nFast wireless charging 30W\r\nPower bank/Reverse wireless charging 10W"
+    "Charging": "Fast battery charging 50W\r\nPower Delivery 3.0\r\nFast wireless charging 30W\r\nPower bank/Reverse wireless charging 5W"
    }
   ],
   "Misc": [

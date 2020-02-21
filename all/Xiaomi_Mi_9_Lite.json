@@ -99,12 +99,12 @@
     "Models": "M1904F3BG",
     "SAR": "1.19 W/kg (head)     1.15 W/kg (body)",
     "SAR EU": "1.42 W/kg (head)     1.40 W/kg (body)",
-    "Price": "$ 254.97 / £ 225.99 / € 249.00"
+    "Price": "$ 245.99 / £ 223.99 / € 267.00"
    }
   ],
   "Tests": [
    {
-    "Performance": "AnTuTu: 175478 (v7), 215277 (v8)\nGeekBench: 5989 (v4.4), 1518 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
+    "Performance": "AnTuTu: 175478 (v7), 215277 (v8)\r\nGeekBench: 5989 (v4.4), 1518 (v5.1)\r\nGFXBench: 12fps (ES 3.1 onscreen)",
     "Display": "Contrast ratio: Infinite (nominal)",
     "Camera": "Photo / Video",
     "Loudspeaker": "Voice 67dB / Noise 72dB / Ring 83dB",
