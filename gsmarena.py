@@ -51,7 +51,7 @@ def get_codename(name):
     if name == 'poco X2':
         return 'phoenixin'
     if name == 'mi mix alpha':
-        return 'darco'
+        return 'draco'
     if 'cc9' in name:
         name = name.replace('cc9', 'cc 9')
         print(name)
@@ -146,7 +146,7 @@ def main():
     for device in LINKS:
         print(f'Fetching: {device}')
         scrap_info(device)
-        sleep(10)
+        sleep(25)
     with open('devices.json', 'w') as output:
         json.dump(ALL, output, indent=1, ensure_ascii=False)
 
