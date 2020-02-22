@@ -48,6 +48,8 @@ def get_codename(name):
         return device_codename
     if name == 'redmi k30':
         return 'phoenix'
+    if name == 'poco X2':
+        return 'phoenixin'
     if name == 'mi mix alpha':
         return 'darco'
     if 'cc9' in name:
