@@ -143,6 +143,7 @@
  "perseus": "EECN",
  "perseus_global": "EEMI",
  "phoenix": "GHCN",
+ "phoenixin_in_global": "GHIN",
  "picasso": "GICN",
  "pine": "CMCN",
  "pine_eea_global": "CMEU",
