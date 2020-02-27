@@ -19,6 +19,8 @@ davinci_ru_global - F
 davinciin_in_global - F
 dipper_global - F
 dipper_ru_global - F
+equuleus_global - F
+equuleus_ru_global - F
 gemini_global - F
 ginkgo_global - F
 grus_eea_global - F
