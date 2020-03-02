@@ -79,6 +79,10 @@
   "Redmi 3S/3X",
   "HM3SHM3X"
  ],
+ "laurus": [
+  "Mi CC 9e",
+  "MICC9e"
+ ],
  "lavender": [
   "Redmi Note 7",
   "HMNote7"
@@ -87,9 +91,13 @@
   "Mi MIX",
   "MIMIX"
  ],
- "laurus": [
-  "Mi CC 9e",
-  "MICC9e"
+ "lmi": [
+  "Redmi K30 Pro",
+  "HMK30Pro"
+ ],
+ "lmipro": [
+  "Redmi K30 Pro Zoom Edition",
+  "HMK30ProZE"
  ],
  "markw": [
   "Redmi 4 Prime/Pro",
