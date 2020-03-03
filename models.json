@@ -228,8 +228,7 @@
   "models": {
    "M2001J2G": "Mi 10 Global",
    "M2001J2I": "Mi 10 India",
-   "M2001J2E": "Mi 10 China",
-   "M2001J2C": "Mi 10 Chinese Carrier Version"
+   "M2001J2E, M2001J2C": "Mi 10 China"
   }
  },
  "cmi": {
@@ -237,8 +236,7 @@
   "name": "Mi 10 Pro",
   "models": {
    "M2001J1G": "Mi 10 Pro Global",
-   "M2001J1E": "Mi 10 Pro China",
-   "M2001J1C": "Mi 10 Pro Chinese Carrier Version"
+   "M2001J1E, M2001J1C": "Mi 10 Pro China"
   }
  },
  "virgo": {
@@ -966,6 +964,20 @@
   "models": {
    "DLT-H0": "Black Shark 2 Pro Global",
    "DLT-A0": "Black Shark 2 Pro China"
+  }
+ },
+ "klein": {
+  "internal_name": "",
+  "name": "Black Shark 3 (`klein`)",
+  "models": {
+   "KLE-A0": "Black Shark 3"
+  }
+ },
+ "mobius": {
+  "internal_name": "",
+  "name": "Black Shark 3 Pro (`mobius`)",
+  "models": {
+   "MBU-A0": "Black Shark 3 Pro"
   }
  }
 }
