@@ -31,8 +31,8 @@
   "Display": [
    {
     "Type": "IPS LCD capacitive touchscreen, 16M colors",
-    "Size": "6.67 inches, 112.5 cm2 (~88.8% screen-to-body ratio)",
-    "Resolution": "1080 x 2400 pixels, 20:9 ratio (~386 ppi density)",
+    "Size": "6.67 inches, 107.4 cm2 (~84.8% screen-to-body ratio)",
+    "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
     "Protection": "Corning Gorilla Glass 5",
     "": "HDR10\r\n120Hz"
    }
@@ -54,7 +54,7 @@
   ],
   "Main Camera": [
    {
-    "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.7\", 0.8µm, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12µm\r\n2 MP, f/2.4, (macro), 1/5.0\", 1.75µm\r\n2 MP, f/2.4, (depth)",
+    "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.72\", 0.8µm, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12µm\r\n2 MP, f/2.4, (macro), 1/5.0\", 1.75µm\r\n2 MP, f/2.4, (depth)",
     "Features": "Dual-LED flash, HDR, panorama",
     "Video": "2160p@30fps, 1080p@30/120fps, 720p@960fps; gyro-EIS"
    }
@@ -80,7 +80,7 @@
     "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS",
     "NFC": "Yes",
     "Infrared port": "Yes",
-    "Radio": "FM radio",
+    "Radio": "FM radio, recording",
     "USB": "2.0, Type-C 1.0 reversible connector, USB On-The-Go"
    }
   ],
@@ -99,7 +99,7 @@
    {
     "Colors": "Blue, Red, Purple",
     "Models": "M1912G7BE, M1912G7BC",
-    "Price": "$ 243.69"
+    "Price": "$ 254.99"
    }
   ],
   "Tests": [
