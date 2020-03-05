@@ -10,6 +10,7 @@ cepheus - F
 cereus - F
 chiron - F
 clover - F
+cmi - F
 crux - F
 davinci - F
 dipper - F
