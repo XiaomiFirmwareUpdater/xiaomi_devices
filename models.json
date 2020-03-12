@@ -849,6 +849,20 @@
    "M1906G7I": "Redmi Note 8 Pro India"
   }
  },
+ "curtana": {
+  "internal_name": "J6A1",
+  "name": "Redmi Note 9 Pro",
+  "models": {
+   "M2003J6A1I": "Redmi Note 9 Pro India"
+  }
+ },
+ "": {
+  "internal_name": "J6B1",
+  "name": "Redmi Note 9 Pro Max:",
+  "models": {
+   "M2003J6B1I": "Redmi Note 9 Pro Max India"
+  }
+ },
  "davinciin": {
   "internal_name": "F10",
   "name": "Redmi K20",
