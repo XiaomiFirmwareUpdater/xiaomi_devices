@@ -34,7 +34,7 @@
     "Size": "6.47 inches, 102.8 cm2 (~87.8% screen-to-body ratio)",
     "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~398 ppi density)",
     "Protection": "Corning Gorilla Glass 5",
-    "": "600 nits max brightness\r\nDCI-P3\r\nHDR10\r\nAlways-on display"
+    "": "600 nits max brightness (advertised)\r\nDCI-P3\r\nHDR10\r\nAlways-on display"
    }
   ],
   "Platform": [
@@ -92,14 +92,14 @@
   "Battery": [
    {
     "": "Non-removable Li-Po 5260 mAh battery",
-    "Charging": "Fast battery charging 30W (58% in 30 min., 100% in 65 min.)\r\nUSB Power Delivery"
+    "Charging": "Fast charging 30W, 58% in 30 min, 100% in 65 min (advertised)\r\nUSB Power Delivery"
    }
   ],
   "Misc": [
    {
     "Colors": "Aurora Green, Glacier White, Midnight Black",
     "Models": "M1910F4E",
-    "Price": "$ 396.55"
+    "Price": "$ 399.99"
    }
   ],
   "Tests": [

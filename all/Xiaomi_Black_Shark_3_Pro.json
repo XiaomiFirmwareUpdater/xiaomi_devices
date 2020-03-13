@@ -35,7 +35,7 @@
     "Type": "AMOLED capacitive touchscreen, 16M colors",
     "Size": "7.1 inches, 123.7 cm2 (~83.6% screen-to-body ratio)",
     "Resolution": "1440 x 3120 pixels, 19.5:9 ratio (~484 ppi density)",
-    "": "DCI-P3\r\nAlways-on display\r\n90Hz\r\n270Hz touch-sensing\r\n500 nits typ. brightness\r\nHDR10+"
+    "": "DCI-P3\r\nAlways-on display\r\n90Hz\r\n270Hz touch-sensing\r\n500 nits typ. brightness (advertised)\r\nHDR10+"
    }
   ],
   "Platform": [
@@ -90,13 +90,13 @@
   "Battery": [
    {
     "": "Non-removable Li-Po 5000 mAh battery",
-    "Charging": "Fast battery charging 65W: 100% in 38 min\r\nMagnetic charging 18W"
+    "Charging": "Fast charging 65W, 100% in 38 min (advertised)\r\nMagnetic charging 18W"
    }
   ],
   "Misc": [
    {
     "Colors": "Phantom Black, Armor Gray",
-    "Price": "About 600 EUR"
+    "Price": "$ 859.00"
    }
   ]
  }

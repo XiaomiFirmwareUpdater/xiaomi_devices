@@ -92,14 +92,14 @@
   "Battery": [
    {
     "": "Non-removable Li-Po 4500 mAh battery",
-    "Charging": "Fast battery charging 30W  (100% in 57 min)"
+    "Charging": "Fast charging 30W, 100% in 57 min (advertised)"
    }
   ],
   "Misc": [
    {
     "Colors": "Blue, Red, Purple, White",
     "Models": "M1912G7BE, M1912G7BC",
-    "Price": "$ 326.89"
+    "Price": "$ 297.99"
    }
   ]
  }

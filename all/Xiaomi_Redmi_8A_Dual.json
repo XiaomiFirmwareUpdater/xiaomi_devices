@@ -34,7 +34,7 @@
     "Size": "6.22 inches, 96.6 cm2 (~81.8% screen-to-body ratio)",
     "Resolution": "720 x 1520 pixels, 19:9 ratio (~270 ppi density)",
     "Protection": "Corning Gorilla Glass 5",
-    "": "400 nits typ. brightness"
+    "": "400 nits typ. brightness (advertised)"
    }
   ],
   "Platform": [
@@ -89,13 +89,13 @@
   "Battery": [
    {
     "": "Non-removable Li-Po 5000 mAh battery",
-    "Charging": "Fast battery charging 18W\r\nPower bank/Reverse charging"
+    "Charging": "Fast charging 18W\r\nPower bank/Reverse charging"
    }
   ],
   "Misc": [
    {
     "Colors": "Sky White, Sea Blue, Midnight Grey",
-    "Price": "£ 125.83 / ₹ 6,499"
+    "Price": "₹ 6,499"
    }
   ]
  }

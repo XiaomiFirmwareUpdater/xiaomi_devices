@@ -34,7 +34,7 @@
     "Size": "6.67 inches, 109.2 cm2 (~89.8% screen-to-body ratio)",
     "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~386 ppi density)",
     "Protection": "Corning Gorilla Glass 5",
-    "": "DCI-P3\r\nHDR10+\r\n90Hz\r\n180Hz touch-sensing\r\n500 nits typ. brightness"
+    "": "DCI-P3\r\nHDR10+\r\n90Hz\r\n180Hz touch-sensing\r\n500 nits typ. brightness (advertised)"
    }
   ],
   "Platform": [
@@ -92,7 +92,7 @@
   "Battery": [
    {
     "": "Non-removable Li-Po 4780 mAh battery",
-    "Charging": "Fast battery charging 30W\r\nPower Delivery 3.0\r\nFast wireless charging 30W\r\nPower bank/Reverse wireless charging 5W"
+    "Charging": "Fast charging 30W\r\nPower Delivery 3.0\r\nFast wireless charging 30W\r\nPower bank/Reverse wireless charging 5W"
    }
   ],
   "Misc": [

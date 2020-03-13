@@ -34,7 +34,7 @@
     "Size": "6.67 inches, 107.4 cm2 (~84.8% screen-to-body ratio)",
     "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
     "Protection": "Corning Gorilla Glass 5",
-    "": "HDR10\r\n120Hz\r\n500 nits typ. brightness"
+    "": "HDR10\r\n120Hz\r\n500 nits typ. brightness (advertised)"
    }
   ],
   "Platform": [
@@ -91,7 +91,7 @@
   "Battery": [
    {
     "": "Non-removable Li-Po 4500 mAh battery",
-    "Charging": "Fast battery charging 27W (100% in 68 min)"
+    "Charging": "Fast charging 27W, 100% in 68 min (advertised)"
    }
   ],
   "Misc": [
