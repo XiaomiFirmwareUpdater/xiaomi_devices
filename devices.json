@@ -31,6 +31,10 @@
   "Mi 9 Pro 5G",
   "MI9Pro5G"
  ],
+ "curtana": [
+  "Redmi Note 9 Pro",
+  "HMNote9Pro"
+ ],
  "davinci": [
   "Redmi K20 / Mi 9T",
   "HMK20MI9T"
@@ -42,6 +46,10 @@
  "equuleus": [
   "Mi 8 Pro",
   "MI8Pro"
+ ],
+ "excalibur": [
+  "Redmi Note 9 Pro Max",
+  "HMNote9ProMax"
  ],
  "gemini": [
   "Mi 5 / Pro",
