@@ -1,5 +1,11 @@
 [
  {
+  "id": "1900378",
+  "name": "Redmi Note 9 Pro/Max",
+  "pic_url": "0",
+  "item_identify": ""
+ },
+ {
   "id": "1900377",
   "name": "Mi Note 10/Pro",
   "pic_url": "http://u01.appmifile.com/images/2019/11/26/ee26d502-5938-4984-b7dd-fc8afe3bc456.png",
@@ -66,12 +72,6 @@
   "item_identify": ""
  },
  {
-  "id": "1700343",
-  "name": "Mi MIX 2S",
-  "pic_url": "http://u01.appmifile.com/images/2019/07/04/76a141e1-15ad-4f3f-b31e-98c2742b4ca3.png",
-  "item_identify": ""
- },
- {
   "id": "1700357",
   "name": "Mi MIX 3",
   "pic_url": "http://u01.appmifile.com/images/2019/07/04/48ccd235-7c0a-483c-9061-8426c8d0e4de.png",
@@ -81,6 +81,12 @@
   "id": "1700365",
   "name": "Redmi Go",
   "pic_url": "http://u01.appmifile.com/images/2019/09/09/23dd633e-ec26-4086-8d41-4800592ece40.png",
+  "item_identify": ""
+ },
+ {
+  "id": "1700343",
+  "name": "Mi MIX 2S",
+  "pic_url": "http://u01.appmifile.com/images/2019/07/04/76a141e1-15ad-4f3f-b31e-98c2742b4ca3.png",
   "item_identify": ""
  },
  {
@@ -144,15 +150,15 @@
   "item_identify": ""
  },
  {
-  "id": "1700333",
-  "name": "Mi A1",
-  "pic_url": "http://u01.appmifile.com/images/2019/11/21/d3522f82-6b21-4329-afdf-6d16229dbfef.png",
-  "item_identify": ""
- },
- {
   "id": "1700351",
   "name": "Xiaomi Mi Max 3",
   "pic_url": "http://u01.appmifile.com/images/2019/07/04/1a27ea25-f439-42fc-8d75-7bab0460e92e.png",
+  "item_identify": ""
+ },
+ {
+  "id": "1700333",
+  "name": "Mi A1",
+  "pic_url": "http://u01.appmifile.com/images/2019/11/21/d3522f82-6b21-4329-afdf-6d16229dbfef.png",
   "item_identify": ""
  },
  {
@@ -240,12 +246,6 @@
   "item_identify": ""
  },
  {
-  "id": "1700037",
-  "name": "Xiaomi Mi 2A",
-  "pic_url": "http://static.bbs.miui.com/static/download/images/mi2_a136_219.png",
-  "item_identify": ""
- },
- {
   "id": "1700298",
   "name": "Redmi 3/Prime",
   "pic_url": "http://u01.appmifile.com/images/2019/11/21/b87806d1-9ad2-4553-b62d-286828dd2436.png",
@@ -261,6 +261,12 @@
   "id": "1700082",
   "name": "Redmi 1",
   "pic_url": "http://static.bbs.miui.com/static/download/images/mihm.png",
+  "item_identify": ""
+ },
+ {
+  "id": "1700037",
+  "name": "Xiaomi Mi 2A",
+  "pic_url": "http://static.bbs.miui.com/static/download/images/mi2_a136_219.png",
   "item_identify": ""
  },
  {
@@ -300,27 +306,21 @@
   "item_identify": ""
  },
  {
-  "id": "1700240",
-  "name": "Xiaomi Mi 4",
-  "pic_url": "http://attach.bbs.miui.com/common/f3/common_241_phone.png?ji4",
-  "item_identify": ""
- },
- {
   "id": "1700362",
   "name": "Mi Play",
   "pic_url": "http://u01.appmifile.com/images/2019/07/04/5e5b29e4-1267-40d8-88f7-0d4cbd00d20c.png",
   "item_identify": ""
  },
  {
-  "id": "1700316",
-  "name": "Xiaomi Mi Note 2",
-  "pic_url": "http://u01.appmifile.com/images/2019/07/04/24248423-2377-40a3-95be-76bdd78588c1.png",
+  "id": "1700240",
+  "name": "Xiaomi Mi 4",
+  "pic_url": "http://attach.bbs.miui.com/common/f3/common_241_phone.png?ji4",
   "item_identify": ""
  },
  {
-  "id": "1900378",
-  "name": "Redmi Note 9 Pro/Max",
-  "pic_url": "0",
+  "id": "1700316",
+  "name": "Xiaomi Mi Note 2",
+  "pic_url": "http://u01.appmifile.com/images/2019/07/04/24248423-2377-40a3-95be-76bdd78588c1.png",
   "item_identify": ""
  },
  {
