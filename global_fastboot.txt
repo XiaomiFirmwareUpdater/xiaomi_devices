@@ -13,6 +13,8 @@ cepheus_global - F
 cepheus_ru_global - F
 cereus_global - F
 chiron_global - F
+curtana_global - F
+curtana_in_global - F
 davinci_eea_global - F
 davinci_global - F
 davinci_ru_global - F
