@@ -851,8 +851,9 @@
  },
  "curtana": {
   "internal_name": "J6A1",
-  "name": "Redmi Note 9 Pro",
+  "name": "Redmi Note 9 Pro / Redmi Note 9S",
   "models": {
+   "M2003J6A1G": "Redmi Note 9S Global",
    "M2003J6A1I": "Redmi Note 9 Pro India"
   }
  },
