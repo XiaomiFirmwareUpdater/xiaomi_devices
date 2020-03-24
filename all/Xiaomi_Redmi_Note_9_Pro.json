@@ -54,14 +54,14 @@
   ],
   "Main Camera": [
    {
-    "Quad": "48 MP, f/1.8, (wide), 1/2.25\", 0.8µm, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12µm\r\n5 MP, f/2.4, (macro), 1.12µm\r\n2 MP, f/2.4, (depth)",
+    "Quad": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12µm\r\n5 MP, f/2.4, (macro), 1.12µm\r\n2 MP, f/2.4, (depth)",
     "Features": "LED flash, HDR, panorama",
     "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps, gyro-EIS"
    }
   ],
   "Selfie camera": [
    {
-    "Single": "16 MP, (wide), 1.0µm",
+    "Single": "16 MP, f/2.5, (wide), 1.0µm",
     "Features": "HDR, panorama",
     "Video": "1080p@30fps"
    }
@@ -96,7 +96,7 @@
   "Misc": [
    {
     "Colors": "Aurora Blue, Glacier White, Interstellar Black",
-    "Price": "£ 209.90 / ₹ 12,999"
+    "Price": "£ 209.90"
    }
   ]
  }
