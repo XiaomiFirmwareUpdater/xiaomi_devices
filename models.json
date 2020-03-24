@@ -901,6 +901,13 @@
    "M1912G7BC": "Redmi K30 4G Chinese Carrier Version"
   }
  },
+ "lmi": {
+  "internal_name": "J11",
+  "name": "Redmi K30 Pro",
+  "models": {
+   "M2001J11E, M2001J11C": "Redmi K30 Pro China"
+  }
+ },
  "omega": {
   "internal_name": "H3C",
   "name": "Redmi Pro",
