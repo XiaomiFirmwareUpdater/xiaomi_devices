@@ -1,6 +1,6 @@
 {
  "name": "Xiaomi Redmi K30 Pro",
- "codename": "",
+ "codename": "lmi",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_k30_pro-10140.php",
  "specs": {
@@ -55,7 +55,7 @@
   ],
   "Main Camera": [
    {
-    "Quad": "64 MP, 26mm (wide), 1/1.72\", 0.8µm, PDAF\r\n5 MP, 50mm (telephoto), AF, 2x optical zoom\r\n13 MP, 13mm (ultrawide)\r\n2 MP, (depth)",
+    "Quad": "64 MP, 26mm (wide), 1/1.72\", 0.8µm, PDAF\r\n5 MP, 50mm (telephoto macro), AF\r\n13 MP, 13mm (ultrawide)\r\n2 MP, (depth)",
     "Features": "Dual-LED dual-tone flash, HDR, panorama",
     "Video": "4320p@24/30fps, 2160p@30/60fps, 1080p@30/60/120/240fps, 1080p@960fps; gyro-EIS"
    }
