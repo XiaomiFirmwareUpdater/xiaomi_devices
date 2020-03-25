@@ -905,7 +905,14 @@
   "internal_name": "J11",
   "name": "Redmi K30 Pro",
   "models": {
-   "M2001J11E, M2001J11C": "Redmi K30 Pro China"
+   "M2001J11C": "Redmi K30 Pro China"
+  }
+ },
+ "lmipro": {
+  "internal_name": "J11",
+  "name": "Redmi K30 Pro Zoom Edition",
+  "models": {
+   "M2001J11E": "Redmi K30 Pro Zoom Edition China"
   }
  },
  "omega": {
