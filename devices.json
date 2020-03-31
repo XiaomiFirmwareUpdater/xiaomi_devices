@@ -180,6 +180,12 @@
   }
  },
  {
+  "umi": {
+   "name": "MI 10",
+   "model": "Mi 10"
+  }
+ },
+ {
   "aries": {
    "name": "MI 2",
    "model": "MI 2"
