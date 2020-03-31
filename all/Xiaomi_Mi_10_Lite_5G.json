@@ -1,0 +1,98 @@
+{
+ "name": "Xiaomi Mi 10 Lite 5G",
+ "codename": "",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi10-lite-5g-r.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_mi_10_lite_5g-10159.php",
+ "specs": {
+  "Network": [
+   {
+    "Technology": "GSM / HSPA / LTE / 5G",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands": "LTE (unspecified)",
+    "5G": "5G SA/NSA",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE-A, 5G"
+   }
+  ],
+  "Launch": [
+   {
+    "Announced": "2020, March 27",
+    "Status": "Coming soon. Exp. release 2020, May"
+   }
+  ],
+  "Body": [
+   {
+    "Dimensions": "-",
+    "Weight": "-",
+    "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+   }
+  ],
+  "Display": [
+   {
+    "Type": "AMOLED capacitive touchscreen, 16M colors",
+    "Size": "6.57 inches, 106.0 cm2",
+    "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~392 ppi density)"
+   }
+  ],
+  "Platform": [
+   {
+    "OS": "Android 10.0; MIUI 11",
+    "Chipset": "Qualcomm SDM765 Snapdragon 765G (7 nm)",
+    "CPU": "Octa-core (1x2.4 GHz Kryo 475 Prime & 1x2.2 GHz Kryo 475 Gold & 6x1.8 GHz Kryo 475 Silver)",
+    "GPU": "Adreno 620"
+   }
+  ],
+  "Memory": [
+   {
+    "Card slot": "microSDXC",
+    "Internal": "128GB 6GB RAM, 128GB 8GB RAM",
+    "": "UFS 2.1"
+   }
+  ],
+  "Main Camera": [
+   {
+    "Quad": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12µm\r\n5 MP, f/2.4, (macro), 1.12µm\r\n2 MP, f/2.4, (depth)",
+    "Features": "Dual-LED flash, HDR, panorama",
+    "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@960fps, gyro-EIS"
+   }
+  ],
+  "Selfie camera": [
+   {
+    "Single": "16 MP, f/2.5, (wide), 1.0µm",
+    "Features": "HDR, panorama",
+    "Video": "1080p@30fps"
+   }
+  ],
+  "Sound": [
+   {
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "Yes"
+   }
+  ],
+  "Comms": [
+   {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+    "Bluetooth": "5.0, A2DP, LE",
+    "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS",
+    "USB": "2.0, Type-C 1.0 reversible connector"
+   }
+  ],
+  "Features": [
+   {
+    "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   }
+  ],
+  "Battery": [
+   {
+    "": "Non-removable Li-Po 4160 mAh battery",
+    "Charging": "Fast charging 20W"
+   }
+  ],
+  "Misc": [
+   {
+    "Colors": "Black, Blue, White",
+    "Price": "About 350 EUR"
+   }
+  ]
+ }
+}

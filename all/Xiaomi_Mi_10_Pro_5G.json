@@ -9,8 +9,9 @@
     "Technology": "GSM / HSPA / LTE / 5G",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
     "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
-    "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 17(700), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-    "5G": "5G band 1(2100), 3(1800), 41(2500), 78(3500), 79(4700); SA/NSA",
+    "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 28(700), 32(1500), 38(2600), 40(2300) - Global",
+    "": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 17(700), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
+    "5G": "5G band 1(2100), 3(1800), 41(2500), 78(3500), 79(4700); SA/NSA - China5G band 1(2100), 3(1800), 7(2600), 28(700), 77(3700), 78(3500); Sub6 - Global",
     "Speed": "HSPA 42.2/5.76 Mbps, LTE-A, 5G (2+ Gbps DL)"
    }
   ],
@@ -22,7 +23,7 @@
   ],
   "Body": [
    {
-    "Dimensions": "162.6 x 74.8 x 9 mm (6.40 x 2.94 x 0.35 in)",
+    "Dimensions": "162.5 x 74.8 x 9 mm (6.40 x 2.94 x 0.35 in)",
     "Weight": "208 g (7.34 oz)",
     "Build": "Glass front (Gorilla Glass 5), glass back, aluminum frame",
     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
@@ -97,8 +98,8 @@
   ],
   "Misc": [
    {
-    "Colors": "Pearl White, Starry blue",
-    "Price": "About 660 EUR"
+    "Colors": "Alpine White, Solstice Grey",
+    "Price": "About 1000 EUR"
    }
   ]
  }

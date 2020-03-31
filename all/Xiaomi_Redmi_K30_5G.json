@@ -47,14 +47,14 @@
   ],
   "Memory": [
    {
-    "Card slot": "microSDXC (uses shared SIM slot)",
+    "Card slot": "No",
     "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
     "": "UFS 2.1"
    }
   ],
   "Main Camera": [
    {
-    "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.72\", 0.8µm, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12µm\r\n2 MP, f/2.4, (macro), 1/5.0\", 1.75µm\r\n2 MP, f/2.4, (depth)",
+    "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.72\", 0.8µm, PDAF\r\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12µm\r\n5 MP, f/2.4, (macro), 1/5.0\", 1.75µm\r\n2 MP, f/2.4, (depth)",
     "Features": "Dual-LED flash, HDR, panorama",
     "Video": "2160p@30fps, 1080p@30/120fps, 720p@960fps; gyro-EIS"
    }
@@ -99,7 +99,7 @@
    {
     "Colors": "Blue, Red, Purple, White",
     "Models": "M1912G7BE, M1912G7BC",
-    "Price": "$ 289.99"
+    "Price": "$ 269.99"
    }
   ]
  }
