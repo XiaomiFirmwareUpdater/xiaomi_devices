@@ -28,6 +28,7 @@ laurus - F
 lavender - F
 libra - F
 lithium - F
+lmi - F
 lotus - F
 markw - F
 meri - F
