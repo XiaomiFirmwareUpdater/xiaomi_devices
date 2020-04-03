@@ -239,6 +239,13 @@
    "M2001J1E, M2001J1C": "Mi 10 Pro China"
   }
  },
+ "": {
+  "internal_name": "J9",
+  "name": "Mi 10 Lite:",
+  "models": {
+   "M2002J9G, M2002J9S": "Mi 10 Lite Global"
+  }
+ },
  "virgo": {
   "internal_name": "X5",
   "name": "Mi Note",
@@ -666,9 +673,9 @@
  },
  "olivewood": {
   "internal_name": "C3K3",
-  "name": "Redmi 8A Dual",
+  "name": "Redmi 8A Dual / Redmi 8A Pro",
   "models": {
-   "M2001C3K3I": "Redmi 8A Dual India"
+   "M2001C3K3I": "Redmi 8A Dual India / Redmi 8A Pro Global"
   }
  },
  "lcsh92_wet_gb9": {
@@ -853,7 +860,7 @@
   "internal_name": "J6A1",
   "name": "Redmi Note 9 Pro / Redmi Note 9S",
   "models": {
-   "M2003J6A1G": "Redmi Note 9S Global",
+   "M2003J6A1G, M2003J6A1R": "Redmi Note 9S Global",
    "M2003J6A1I": "Redmi Note 9 Pro India"
   }
  },
