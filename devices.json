@@ -144,6 +144,18 @@
   }
  },
  {
+  "lmiinpro": {
+   "name": "K30 PRO",
+   "model": "Redmi K30 Pro 5G Zoom Edition"
+  }
+ },
+ {
+  "lmiin": {
+   "name": "K30 pro",
+   "model": "Redmi K30 Pro 5G"
+  }
+ },
+ {
   "ursa": {
    "name": "MI  8  Explorer  Edition",
    "model": "MI 8 Explorer Edition"
