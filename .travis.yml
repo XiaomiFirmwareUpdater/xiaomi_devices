@@ -1,7 +1,8 @@
-sudo: required
+os: linux
+dist: xenial
 language: python
 python:
-  - "3.6"
+  - "3.7"
 
 script:
   - chmod +x sync.sh && ./sync.sh
