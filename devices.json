@@ -144,9 +144,21 @@
   }
  },
  {
+  "lmi": {
+   "name": "K30 PRO",
+   "model": "POCO F2 Pro"
+  }
+ },
+ {
   "lmiinpro": {
    "name": "K30 PRO",
    "model": "Redmi K30 Pro 5G Zoom Edition"
+  }
+ },
+ {
+  "lmi": {
+   "name": "K30 Pro",
+   "model": "POCO F2 Pro"
   }
  },
  {
@@ -567,6 +579,12 @@
   "cmi": {
    "name": "Mi 10 Pro",
    "model": "Mi 10 Pro"
+  }
+ },
+ {
+  "monet": {
+   "name": "Mi 10 lite 5G",
+   "model": "M2002J9G"
   }
  },
  {
