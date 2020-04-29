@@ -1,1 +1,1082 @@
-[]
+[
+ {
+  "braveheart": {
+   "name": "China",
+   "model": "MiTV"
+  }
+ },
+ {
+  "armani": {
+   "name": "HM 1SC",
+   "model": "HM 1AC"
+  }
+ },
+ {
+  "armani": {
+   "name": "HM 1SC",
+   "model": "HM 1S"
+  }
+ },
+ {
+  "armani": {
+   "name": "HM 1SC",
+   "model": "HM 1SC"
+  }
+ },
+ {
+  "armani": {
+   "name": "HM 1SC",
+   "model": "HM 1SW"
+  }
+ },
+ {
+  "HM2014501": {
+   "name": "HM 1SLTETD",
+   "model": "2014501"
+  }
+ },
+ {
+  "HM2014011": {
+   "name": "HM 1STD",
+   "model": "2014011"
+  }
+ },
+ {
+  "lte26007": {
+   "name": "HM 2A",
+   "model": "2014502"
+  }
+ },
+ {
+  "lte26007": {
+   "name": "HM 2A",
+   "model": "HM 2A"
+  }
+ },
+ {
+  "HM2014819": {
+   "name": "HM 2LTE-BR",
+   "model": "2014819"
+  }
+ },
+ {
+  "HM2014813": {
+   "name": "HM 2LTE-CMCC",
+   "model": "2014813"
+  }
+ },
+ {
+  "HM2014812": {
+   "name": "HM 2LTE-CT",
+   "model": "2014812"
+  }
+ },
+ {
+  "HM2014811": {
+   "name": "HM 2LTE-CU",
+   "model": "2014811"
+  }
+ },
+ {
+  "HM2014818": {
+   "name": "HM 2LTE-IN",
+   "model": "2014818"
+  }
+ },
+ {
+  "HM2014817": {
+   "name": "HM 2LTE-SA",
+   "model": "2014817"
+  }
+ },
+ {
+  "dior": {
+   "name": "HM NOTE 1LTETD",
+   "model": "HM NOTE 1LTE"
+  }
+ },
+ {
+  "dior": {
+   "name": "HM NOTE 1LTETD",
+   "model": "HM NOTE 1LTETD"
+  }
+ },
+ {
+  "dior": {
+   "name": "HM NOTE 1LTETD",
+   "model": "HM NOTE 1LTEW"
+  }
+ },
+ {
+  "gucci": {
+   "name": "HM NOTE 1S CT",
+   "model": "HM NOTE 1S"
+  }
+ },
+ {
+  "gucci": {
+   "name": "HM NOTE 1S CT",
+   "model": "gucci"
+  }
+ },
+ {
+  "lcsh92_wet_tdd": {
+   "name": "HM NOTE 1TD",
+   "model": "HM NOTE 1TD"
+  }
+ },
+ {
+  "lcsh92_wet_jb9": {
+   "name": "HM NOTE 1W",
+   "model": "HM NOTE 1W"
+  }
+ },
+ {
+  "hermes": {
+   "name": "HM Note 2",
+   "model": "Redmi Note 2"
+  }
+ },
+ {
+  "HM2013022": {
+   "name": "Hong Mi",
+   "model": "2013022"
+  }
+ },
+ {
+  "lmi": {
+   "name": "K30 PRO",
+   "model": "POCO F2 Pro"
+  }
+ },
+ {
+  "lmiinpro": {
+   "name": "K30 PRO",
+   "model": "Redmi K30 Pro 5G Zoom Edition"
+  }
+ },
+ {
+  "lmi": {
+   "name": "K30 Pro",
+   "model": "POCO F2 Pro"
+  }
+ },
+ {
+  "lmiin": {
+   "name": "K30 pro",
+   "model": "Redmi K30 Pro 5G"
+  }
+ },
+ {
+  "ursa": {
+   "name": "MI  8  Explorer  Edition",
+   "model": "MI 8 Explorer Edition"
+  }
+ },
+ {
+  "equuleus": {
+   "name": "MI  8  Pro",
+   "model": "MI 8 Pro"
+  }
+ },
+ {
+  "equuleus": {
+   "name": "MI  8  Pro",
+   "model": "MI 8 UD"
+  }
+ },
+ {
+  "nitrogen": {
+   "name": "MI  MAX  3",
+   "model": "MI MAX 3"
+  }
+ },
+ {
+  "lotus": {
+   "name": "MI  PLAY",
+   "model": "MI PLAY"
+  }
+ },
+ {
+  "lotus": {
+   "name": "MI  PLAY",
+   "model": "lotus"
+  }
+ },
+ {
+  "umi": {
+   "name": "MI 10",
+   "model": "Mi 10"
+  }
+ },
+ {
+  "aries": {
+   "name": "MI 2",
+   "model": "MI 2"
+  }
+ },
+ {
+  "aries": {
+   "name": "MI 2",
+   "model": "MI 2S"
+  }
+ },
+ {
+  "taurus": {
+   "name": "MI 2A",
+   "model": "MI 2A"
+  }
+ },
+ {
+  "cancro": {
+   "name": "MI 3W",
+   "model": "MI 3W"
+  }
+ },
+ {
+  "cancro": {
+   "name": "MI 4LTE",
+   "model": "MI 4C"
+  }
+ },
+ {
+  "cancro": {
+   "name": "MI 4LTE",
+   "model": "MI 4LTE"
+  }
+ },
+ {
+  "cancro": {
+   "name": "MI 4LTE",
+   "model": "MI 4W"
+  }
+ },
+ {
+  "cancro": {
+   "name": "MI 4LTE-CT",
+   "model": "MI 4LTE"
+  }
+ },
+ {
+  "aqua": {
+   "name": "MI 4s",
+   "model": "MI 4S"
+  }
+ },
+ {
+  "meri": {
+   "name": "MI 5C",
+   "model": "MI 5C"
+  }
+ },
+ {
+  "meri": {
+   "name": "MI 5C",
+   "model": "Meri"
+  }
+ },
+ {
+  "tiffany": {
+   "name": "MI 5X",
+   "model": "MI 5X"
+  }
+ },
+ {
+  "natrium": {
+   "name": "MI 5s Plus",
+   "model": "MI 5s Plus"
+  }
+ },
+ {
+  "wayne": {
+   "name": "MI 6X",
+   "model": "MI 6X"
+  }
+ },
+ {
+  "dipper": {
+   "name": "MI 8",
+   "model": "MI 8"
+  }
+ },
+ {
+  "platina": {
+   "name": "MI 8 Lite",
+   "model": "MI 8 Lite"
+  }
+ },
+ {
+  "platina": {
+   "name": "MI 8 Lite",
+   "model": "Platina"
+  }
+ },
+ {
+  "sirius": {
+   "name": "MI 8 SE",
+   "model": "MI 8 SE"
+  }
+ },
+ {
+  "sirius": {
+   "name": "MI 8 SE",
+   "model": "sirius"
+  }
+ },
+ {
+  "equuleus": {
+   "name": "MI 8 UD",
+   "model": "MI 8 Pro"
+  }
+ },
+ {
+  "equuleus": {
+   "name": "MI 8 UD",
+   "model": "MI 8 UD"
+  }
+ },
+ {
+  "equuleus": {
+   "name": "MI 8 UD",
+   "model": "equuleus"
+  }
+ },
+ {
+  "cepheus": {
+   "name": "MI 9",
+   "model": "MI 9"
+  }
+ },
+ {
+  "grus": {
+   "name": "MI 9 SE",
+   "model": "MI 9 SE"
+  }
+ },
+ {
+  "grus": {
+   "name": "MI 9 SE",
+   "model": "Mi 9 SE"
+  }
+ },
+ {
+  "pyxis": {
+   "name": "MI CC 9",
+   "model": "MI CC 9"
+  }
+ },
+ {
+  "pyxis": {
+   "name": "MI CC 9",
+   "model": "Mi 9 Lite"
+  }
+ },
+ {
+  "pyxis": {
+   "name": "MI CC 9",
+   "model": "Pyxis"
+  }
+ },
+ {
+  "laurus": {
+   "name": "MI CC 9e",
+   "model": "MI CC 9e"
+  }
+ },
+ {
+  "laurus": {
+   "name": "MI CC 9e",
+   "model": "laurus"
+  }
+ },
+ {
+  "tucana": {
+   "name": "MI CC9 Pro",
+   "model": "MI CC9 Pro"
+  }
+ },
+ {
+  "tucana": {
+   "name": "MI CC9 Pro",
+   "model": "Mi Note 10"
+  }
+ },
+ {
+  "helium": {
+   "name": "MI MAX",
+   "model": "MI MAX"
+  }
+ },
+ {
+  "hydrogen": {
+   "name": "MI MAX",
+   "model": "MI MAX"
+  }
+ },
+ {
+  "oxygen": {
+   "name": "MI MAX 2",
+   "model": "MI MAX 2"
+  }
+ },
+ {
+  "nitrogen": {
+   "name": "MI MAX 3",
+   "model": "MI MAX 3"
+  }
+ },
+ {
+  "polaris": {
+   "name": "MI MIX 2S",
+   "model": "Mi MIX 2S"
+  }
+ },
+ {
+  "virgo": {
+   "name": "MI NOTE LTE",
+   "model": "MI NOTE LTE"
+  }
+ },
+ {
+  "leo": {
+   "name": "MI NOTE Pro",
+   "model": "MI NOTE Pro"
+  }
+ },
+ {
+  "jason": {
+   "name": "MI Note 3",
+   "model": "Mi Note 3"
+  }
+ },
+ {
+  "mocha": {
+   "name": "MI PAD",
+   "model": "MI PAD"
+  }
+ },
+ {
+  "cappu": {
+   "name": "MI PAD 3",
+   "model": "MI PAD 3"
+  }
+ },
+ {
+  "clover": {
+   "name": "MI PAD 4",
+   "model": "MI PAD 4"
+  }
+ },
+ {
+  "lotus": {
+   "name": "MI PLAY",
+   "model": "MI PLAY"
+  }
+ },
+ {
+  "sagit": {
+   "name": "MI6",
+   "model": "MI 6"
+  }
+ },
+ {
+  "kungfupanda": {
+   "name": "MIBOXPRO",
+   "model": "MiBOX_PRO"
+  }
+ },
+ {
+  "latte": {
+   "name": "MIPAD2",
+   "model": "MI PAD 2"
+  }
+ },
+ {
+  "missionimpossible": {
+   "name": "MITV3S",
+   "model": "MiTV3S"
+  }
+ },
+ {
+  "pulpfiction": {
+   "name": "MITV3S-55/60",
+   "model": "MiTV3S"
+  }
+ },
+ {
+  "pulpfiction": {
+   "name": "MITV3S-55/60",
+   "model": "MiTV4"
+  }
+ },
+ {
+  "lithium": {
+   "name": "MIX",
+   "model": "MIX"
+  }
+ },
+ {
+  "lithium": {
+   "name": "MIX",
+   "model": "lithium"
+  }
+ },
+ {
+  "chiron": {
+   "name": "MIX 2",
+   "model": "MIX 2"
+  }
+ },
+ {
+  "chiron": {
+   "name": "MIX 2",
+   "model": "Mi MIX 2"
+  }
+ },
+ {
+  "polaris": {
+   "name": "MIX 2S",
+   "model": "MIX 2S"
+  }
+ },
+ {
+  "polaris": {
+   "name": "MIX 2S",
+   "model": "Mi MIX 2S"
+  }
+ },
+ {
+  "perseus": {
+   "name": "MIX 3",
+   "model": "MIX 3"
+  }
+ },
+ {
+  "perseus": {
+   "name": "MIX 3",
+   "model": "Mi MIX 3"
+  }
+ },
+ {
+  "umi": {
+   "name": "Mi 10",
+   "model": "Mi 10"
+  }
+ },
+ {
+  "umi": {
+   "name": "Mi 10",
+   "model": "Umi"
+  }
+ },
+ {
+  "cmi": {
+   "name": "Mi 10 Pro",
+   "model": "Cmi"
+  }
+ },
+ {
+  "cmi": {
+   "name": "Mi 10 Pro",
+   "model": "Mi 10 Pro"
+  }
+ },
+ {
+  "monet": {
+   "name": "Mi 10 lite 5G",
+   "model": "M2002J9G"
+  }
+ },
+ {
+  "pisces": {
+   "name": "Mi 3",
+   "model": "MI 3"
+  }
+ },
+ {
+  "libra": {
+   "name": "Mi 4c",
+   "model": "Mi-4c"
+  }
+ },
+ {
+  "ferrari": {
+   "name": "Mi 4i",
+   "model": "Mi 4i"
+  }
+ },
+ {
+  "gemini": {
+   "name": "Mi 5",
+   "model": "MI 5"
+  }
+ },
+ {
+  "capricorn": {
+   "name": "Mi 5s",
+   "model": "MI 5s"
+  }
+ },
+ {
+  "pyxis": {
+   "name": "Mi 9 Lite",
+   "model": "Mi 9 Lite"
+  }
+ },
+ {
+  "grus": {
+   "name": "Mi 9 SE",
+   "model": "MI 9 SE"
+  }
+ },
+ {
+  "grus": {
+   "name": "Mi 9 SE",
+   "model": "Mi 9 SE"
+  }
+ },
+ {
+  "davinci": {
+   "name": "Mi 9T",
+   "model": "Mi 9T"
+  }
+ },
+ {
+  "raphael": {
+   "name": "Mi 9T Pro",
+   "model": "Mi 9T Pro"
+  }
+ },
+ {
+  "tissot_sprout": {
+   "name": "Mi A1",
+   "model": "MI A1"
+  }
+ },
+ {
+  "tissot_sprout": {
+   "name": "Mi A1",
+   "model": "Mi A1"
+  }
+ },
+ {
+  "jasmine_sprout": {
+   "name": "Mi A2",
+   "model": "Mi A2"
+  }
+ },
+ {
+  "daisy_sprout": {
+   "name": "Mi A2 Lite",
+   "model": "Mi A2 Lite"
+  }
+ },
+ {
+  "laurel_sprout": {
+   "name": "Mi A3",
+   "model": "Mi A3"
+  }
+ },
+ {
+  "once": {
+   "name": "Mi Box",
+   "model": "MIBOX3"
+  }
+ },
+ {
+  "anglee": {
+   "name": "\"Mi Laser Projector 150\"\"\"",
+   "model": "MiProjA1"
+  }
+ },
+ {
+  "andromeda": {
+   "name": "Mi MIX 3 5G",
+   "model": "Mi MIX 3 5G"
+  }
+ },
+ {
+  "virgo": {
+   "name": "Mi Note",
+   "model": "MI NOTE LTE"
+  }
+ },
+ {
+  "tucana": {
+   "name": "Mi Note 10",
+   "model": "Mi Note 10"
+  }
+ },
+ {
+  "scorpio": {
+   "name": "Mi Note2",
+   "model": "Mi Note 2"
+  }
+ },
+ {
+  "eva": {
+   "name": "Mi smart projector",
+   "model": "MiProjM05"
+  }
+ },
+ {
+  "crux": {
+   "name": "Mi9 Pro 5G",
+   "model": "Mi9 Pro 5G"
+  }
+ },
+ {
+  "casablanca": {
+   "name": "MiBOX1S",
+   "model": "MiBOX1S"
+  }
+ },
+ {
+  "dredd": {
+   "name": "MiBOX2",
+   "model": "MiBOX2"
+  }
+ },
+ {
+  "queenchristina": {
+   "name": "MiBOX3S",
+   "model": "MiBOX3S"
+  }
+ },
+ {
+  "forrestgump": {
+   "name": "MiBOX_mini",
+   "model": "MiBOX_mini"
+  }
+ },
+ {
+  "oneday": {
+   "name": "MiBox S",
+   "model": "MIBOX4"
+  }
+ },
+ {
+  "amelie": {
+   "name": "MiTV",
+   "model": "MiTV-MSSP0"
+  }
+ },
+ {
+  "dangal": {
+   "name": "MiTV",
+   "model": "MiTV-AXSO0"
+  }
+ },
+ {
+  "dangalFHD": {
+   "name": "MiTV",
+   "model": "MiTV-AXSO1"
+  }
+ },
+ {
+  "dangalUHD": {
+   "name": "MiTV",
+   "model": "MiTV-AXSO2"
+  }
+ },
+ {
+  "machuca": {
+   "name": "MiTV",
+   "model": "MiTV-MSSP3"
+  }
+ },
+ {
+  "magnolia": {
+   "name": "MiTV",
+   "model": "MiTV4I"
+  }
+ },
+ {
+  "nino": {
+   "name": "MiTV",
+   "model": "MiTV-MSSP1"
+  }
+ },
+ {
+  "volver": {
+   "name": "MiTV",
+   "model": "MiTV-MSSP2"
+  }
+ },
+ {
+  "entrapment": {
+   "name": "MiTV2",
+   "model": "MiTV2"
+  }
+ },
+ {
+  "matrix": {
+   "name": "MiTV4C",
+   "model": "MiTV4C"
+  }
+ },
+ {
+  "beryllium": {
+   "name": "POCO F1",
+   "model": "POCOPHONE F1"
+  }
+ },
+ {
+  "HM2013023": {
+   "name": "Redmi",
+   "model": "2013023"
+  }
+ },
+ {
+  "tiare": {
+   "name": "Redmi  Go",
+   "model": "Redmi Go"
+  }
+ },
+ {
+  "tulip": {
+   "name": "Redmi  Note  6  Pro",
+   "model": "Redmi Note 6 Pro"
+  }
+ },
+ {
+  "violet": {
+   "name": "Redmi  Note  7 Pro",
+   "model": "Redmi Note 7 Pro"
+  }
+ },
+ {
+  "ysl": {
+   "name": "Redmi  S2",
+   "model": "Redmi S2"
+  }
+ },
+ {
+  "ido": {
+   "name": "Redmi 3",
+   "model": "Redmi 3"
+  }
+ },
+ {
+  "ido": {
+   "name": "Redmi 3",
+   "model": "ido"
+  }
+ },
+ {
+  "land": {
+   "name": "Redmi 3S",
+   "model": "Redmi 3S"
+  }
+ },
+ {
+  "prada": {
+   "name": "Redmi 4",
+   "model": "Redmi 4"
+  }
+ },
+ {
+  "markw": {
+   "name": "Redmi 4 Pro",
+   "model": "Redmi 4"
+  }
+ },
+ {
+  "rolex": {
+   "name": "Redmi 4A",
+   "model": "Redmi 4A"
+  }
+ },
+ {
+  "santoni": {
+   "name": "Redmi 4X",
+   "model": "Redmi 4X"
+  }
+ },
+ {
+  "santoni": {
+   "name": "Redmi 4X",
+   "model": "santoni"
+  }
+ },
+ {
+  "rosy": {
+   "name": "Redmi 5",
+   "model": "Redmi 5"
+  }
+ },
+ {
+  "vince": {
+   "name": "Redmi 5 Plus",
+   "model": "Redmi 5 Plus"
+  }
+ },
+ {
+  "vince": {
+   "name": "Redmi 5 Plus",
+   "model": "Redmi Note 5"
+  }
+ },
+ {
+  "riva": {
+   "name": "Redmi 5A",
+   "model": "Redmi 5A"
+  }
+ },
+ {
+  "cereus": {
+   "name": "Redmi 6",
+   "model": "Redmi 6"
+  }
+ },
+ {
+  "sakura_india": {
+   "name": "Redmi 6 Pro",
+   "model": "Redmi 6 Pro"
+  }
+ },
+ {
+  "cactus": {
+   "name": "Redmi 6A",
+   "model": "Redmi 6A"
+  }
+ },
+ {
+  "sakura": {
+   "name": "Redmi 6Pro",
+   "model": "Redmi 6 Pro"
+  }
+ },
+ {
+  "onc": {
+   "name": "Redmi 7",
+   "model": "ONC"
+  }
+ },
+ {
+  "onc": {
+   "name": "Redmi 7",
+   "model": "Redmi 7"
+  }
+ },
+ {
+  "pine": {
+   "name": "Redmi 7A",
+   "model": "Redmi 7A"
+  }
+ },
+ {
+  "olive": {
+   "name": "Redmi 8",
+   "model": "Redmi 8"
+  }
+ },
+ {
+  "tiare": {
+   "name": "Redmi Go",
+   "model": "Redmi Go"
+  }
+ },
+ {
+  "lmipro": {
+   "name": "Redmi K30 Pro Zoom Edition",
+   "model": "Redmi K30 Pro Zoom Edition"
+  }
+ },
+ {
+  "hennessy": {
+   "name": "Redmi Note 3",
+   "model": "Redmi Note 3"
+  }
+ },
+ {
+  "kate": {
+   "name": "Redmi Note 3",
+   "model": "Redmi Note 3"
+  }
+ },
+ {
+  "kenzo": {
+   "name": "Redmi Note 3",
+   "model": "Redmi Note 3"
+  }
+ },
+ {
+  "mido": {
+   "name": "Redmi Note 4",
+   "model": "Redmi Note 4"
+  }
+ },
+ {
+  "mido": {
+   "name": "Redmi Note 4",
+   "model": "Redmi Note 4X"
+  }
+ },
+ {
+  "nikel": {
+   "name": "Redmi Note 4",
+   "model": "Redmi Note 4"
+  }
+ },
+ {
+  "whyred": {
+   "name": "Redmi Note 5",
+   "model": "Redmi Note 5"
+  }
+ },
+ {
+  "whyred": {
+   "name": "Redmi Note 5 Pro",
+   "model": "Redmi Note 5"
+  }
+ },
+ {
+  "whyred": {
+   "name": "Redmi Note 5 Pro",
+   "model": "Redmi Note 5 Pro"
+  }
+ },
+ {
+  "ugg": {
+   "name": "Redmi Note 5A",
+   "model": "Redmi Note 5A"
+  }
+ },
+ {
+  "ugg": {
+   "name": "Redmi Note 5A",
+   "model": "Redmi Y1"
+  }
+ },
+ {
+  "ugglite": {
+   "name": "Redmi Note 5A",
+   "model": "Redmi Note 5A"
+  }
+ },
+ {
+  "omega": {
+   "name": "Redmi Pro",
+   "model": "Redmi Pro"
+  }
+ },
+ {
+  "ysl": {
+   "name": "Redmi S2",
+   "model": "Redmi S2"
+  }
+ },
+ {
+  "once": {
+   "name": "TELEBEE",
+   "model": "MIBOX3"
+  }
+ },
+ {
+  "baiji": {
+   "name": "\u5c0f\u7c73\u624b\u8868",
+   "model": "Mi Watch"
+  }
+ }
+]
