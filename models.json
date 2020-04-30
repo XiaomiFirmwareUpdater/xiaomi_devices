@@ -239,9 +239,9 @@
    "M2001J1E, M2001J1C": "Mi 10 Pro China"
   }
  },
- "": {
+ "monet": {
   "internal_name": "J9",
-  "name": "Mi 10 Lite:",
+  "name": "Mi 10 Lite",
   "models": {
    "M2002J9E": "Mi 10 Lite China",
    "M2002J9G, M2002J9S": "Mi 10 Lite Global"
@@ -289,6 +289,13 @@
    "M1910F4G": "Mi Note 10 Global",
    "M1910F4S": "Mi Note 10 Pro Global",
    "M1910F4E": "Mi CC 9 Pro China"
+  }
+ },
+ "": {
+  "internal_name": "F4L",
+  "name": "Mi Note 10 Lite:",
+  "models": {
+   "M2002F4LG": "Mi Note 10 Lite Global"
   }
  },
  "lithium": {
@@ -857,6 +864,13 @@
    "M1906G7I": "Redmi Note 8 Pro India"
   }
  },
+ "merlin": {
+  "internal_name": "J15S",
+  "name": "Redmi Note 9",
+  "models": {
+   "M2003J15SS": "Redmi Note 9 Global"
+  }
+ },
  "curtana": {
   "internal_name": "J6A1",
   "name": "Redmi Note 9 Pro / Redmi Note 9S",
@@ -870,6 +884,13 @@
   "name": "Redmi Note 9 Pro Max",
   "models": {
    "M2003J6B1I": "Redmi Note 9 Pro Max India"
+  }
+ },
+ "joyeuse": {
+  "internal_name": "J6B2",
+  "name": "Redmi Note 9 Pro",
+  "models": {
+   "M2003J6B2G": "Redmi Note 9 Pro Global"
   }
  },
  "davinciin": {
