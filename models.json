@@ -868,7 +868,14 @@
   "internal_name": "J15S",
   "name": "Redmi Note 9",
   "models": {
-   "M2003J15SS": "Redmi Note 9 Global"
+   "M2003J15SS": "Redmi Note 9 Global (No NFC)"
+  }
+ },
+ "merlinnfc": {
+  "internal_name": "J15S",
+  "name": "Redmi Note 9",
+  "models": {
+   "M2003J15SG": "Redmi Note 9 Global (NFC)"
   }
  },
  "curtana": {
