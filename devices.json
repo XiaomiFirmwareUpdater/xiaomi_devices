@@ -570,6 +570,12 @@
   }
  },
  {
+  "vangogh": {
+   "name": "Mi 10 Lite zoom",
+   "model": "M2002J9E"
+  }
+ },
+ {
   "cmi": {
    "name": "Mi 10 Pro",
    "model": "Cmi"
@@ -705,6 +711,18 @@
   "tucana": {
    "name": "Mi Note 10",
    "model": "Mi Note 10"
+  }
+ },
+ {
+  "toco": {
+   "name": "Mi Note 10 Lite",
+   "model": "Mi Note 10 Lite"
+  }
+ },
+ {
+  "toco": {
+   "name": "Mi Note 10 Lite",
+   "model": "toco"
   }
  },
  {
