@@ -13,8 +13,8 @@ def china_devices():
     """
     response = get("http://www.miui.com/download.html")
     page = BeautifulSoup(response.content, 'html.parser')
-    data = page.findAll("script")
-    data = [i.text for i in data if "var phones" in i.text][0].split('=')[1].split(';')[0]
+    data = page.select("script")
+    data = [str(i) for i in data if "var phones" in str(i)][0].split('=')[1].split(';')[0]
     info = json.loads(data)
     sorted_info = sorted(info, key=lambda k: k['pid'], reverse=True)
     with open('china.json', 'w') as output:
