@@ -65,6 +65,7 @@ ugg - F
 ugglite - F
 umi - F
 ursa - F
+vangogh - F
 vela - F
 vince - F
 violet - F
