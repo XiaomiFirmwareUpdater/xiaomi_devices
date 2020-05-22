@@ -36,7 +36,6 @@ helium_global - F
 hydrogen_global - F
 joyeuse_eea_global - F
 joyeuse_global - F
-joyeuse_id_global - F
 joyeuse_ru_global - F
 lavender_eea_global - F
 lavender_global - F
@@ -50,6 +49,9 @@ lmi_in_global - F
 lmi_ru_global - F
 merlin_eea_global - F
 merlin_global - F
+merlin_id_global - F
+merlin_in_global - F
+merlin_ru_global - F
 mido_global - F
 natrium_global - F
 olive_eea_global - F
