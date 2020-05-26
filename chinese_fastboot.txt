@@ -1,5 +1,7 @@
 aqua - F
+atom - F
 begonia - F
+bomb - F
 cactus - F
 cancro - F
 cancro - F
