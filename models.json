@@ -873,9 +873,10 @@
  },
  "merlin": {
   "internal_name": "J15S",
-  "name": "Redmi Note 9",
+  "name": "Redmi Note 9/Redmi 10X 4G",
   "models": {
-   "M2003J15SS": "Redmi Note 9 Global (No NFC)"
+   "M2003J15SS": "Redmi Note 9 Global (No NFC)",
+   "M2003J15SC": "Redmi 10X 4G China"
   }
  },
  "merlinnfc": {
@@ -912,6 +913,20 @@
   "name": "Redmi Note 9 Pro",
   "models": {
    "M2003J6B2G": "Redmi Note 9 Pro Global"
+  }
+ },
+ "atom": {
+  "internal_name": "J7A",
+  "name": "Redmi 10X 5G",
+  "models": {
+   "M2004J7AC": "Redmi 10X 5G China"
+  }
+ },
+ "bomb": {
+  "internal_name": "J7B",
+  "name": "Redmi 10X Pro 5G",
+  "models": {
+   "M2004J7BC": "Redmi 10X Pro 5G China"
   }
  },
  "davinciin": {
