@@ -477,6 +477,14 @@
       "display_name": "Redmi 10X 4G",
       "display_name_en": "Redmi 10X 4G"
     },
+    "merlin_eea_global": {
+      "display_name": "HM-J15S-EEA-GLOBAL",
+      "display_name_en": "HM-J15S-EEA-GLOBAL"
+    },
+    "merlin_global": {
+      "display_name": "HM-J15S-GLOBAL",
+      "display_name_en": "HM-J15S-GLOBAL"
+    },
     "mido": {
       "display_name": "红米Note4X 高通版",
       "display_name_en": ""
