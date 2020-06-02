@@ -36,7 +36,7 @@ def global_devices():
         'referer': 'https://c.mi.com/oc/miuidownload/',
     }
 
-    url = 'http://c.mi.com/oc/rom/getphonelist'
+    url = 'https://c.mi.com/oc/rom/getphonelist'
     data = get(url, headers=headers).json()['data']['phone_data']['phone_list']
     with open('c_mi.json', 'w') as output:
         json.dump(data, output, indent=1, ensure_ascii=False)
