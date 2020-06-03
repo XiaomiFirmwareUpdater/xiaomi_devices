@@ -3,9 +3,17 @@
   "Mi MIX 3 5G China",
   "MIMix35G"
  ],
+ "atom": [
+  "Redmi 10X 5G China",
+  "HM10X5G"
+ ],
  "beryllium": [
   "Pocophone F1",
   "POCOF1"
+ ],
+ "bomb": [
+  "Redmi 10X Pro 5G China",
+  "HM10XPro"
  ],
  "capricorn": [
   "Mi 5s",
@@ -87,6 +95,10 @@
   "Redmi Note 3 SE",
   "HMNote3SE"
  ],
+ "lancelot": [
+  "Redmi 9",
+  "HM9"
+ ],
  "land": [
   "Redmi 3S/3X",
   "HM3SHM3X"
@@ -122,6 +134,10 @@
  "mido": [
   "Redmi Note 4/4X Global",
   "HMNote4X"
+ ],
+ "monet": [
+  "Mi 10 Lite 5G Global",
+  "MI10LITE5G"
  ],
  "meri": [
   "Mi 5C",
