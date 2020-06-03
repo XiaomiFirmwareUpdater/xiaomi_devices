@@ -20,6 +20,7 @@ curtana_eea_global - F
 curtana_global - F
 curtana_in_global - F
 curtana_ru_global - F
+daisy_global - F
 davinci_eea_global - F
 davinci_global - F
 davinci_ru_global - F
@@ -34,9 +35,11 @@ grus_eea_global - F
 grus_global - F
 helium_global - F
 hydrogen_global - F
+jasmine_global - F
 joyeuse_eea_global - F
 joyeuse_global - F
 joyeuse_ru_global - F
+laurel_sprout_global - F
 lavender_eea_global - F
 lavender_global - F
 lavender_in_global - F
@@ -94,6 +97,11 @@ sagit_global - F
 sakura_india_global - F
 santoni_global - F
 scorpio_global - F
+tiare_eea_global - F
+tiare_global - F
+tiare_in_global - F
+tiare_ru_global - F
+tissot_global - F
 toco_eea_global - F
 toco_global - F
 toco_ru_global - F
