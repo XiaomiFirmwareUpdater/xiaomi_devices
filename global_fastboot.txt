@@ -39,6 +39,7 @@ jasmine_global - F
 joyeuse_eea_global - F
 joyeuse_global - F
 joyeuse_ru_global - F
+laurel_sprout_eea_global - F
 laurel_sprout_global - F
 lavender_eea_global - F
 lavender_global - F
@@ -57,6 +58,8 @@ merlin_in_global - F
 merlin_ru_global - F
 mido_global - F
 natrium_global - F
+nitrogen_global - F
+nitrogen_ru_global - F
 olive_eea_global - F
 olive_global - F
 olive_id_global - F
