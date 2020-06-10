@@ -693,6 +693,14 @@
    "M2001C3K3I": "Redmi 8A Dual India / Redmi 8A Pro Global"
   }
  },
+ "lancelot": {
+  "internal_name": "J19",
+  "name": "Redmi 9",
+  "models": {
+   "M2004J19G": "Redmi 9 Global",
+   "M2004J19I": "Redmi 9 India"
+  }
+ },
  "lcsh92_wet_gb9": {
   "internal_name": "H3W",
   "name": "Redmi Note",
