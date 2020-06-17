@@ -3,6 +3,8 @@ andromeda_global - F
 aries_global - F
 begonia_eea_global - F
 begonia_global - F
+begonia_id_global - F
+begonia_in_global - F
 begonia_ru_global - F
 beryllium_global - F
 cactus_global - F
@@ -31,6 +33,8 @@ equuleus_global - F
 equuleus_ru_global - F
 gemini_global - F
 ginkgo_global - F
+ginkgo_id_global - F
+ginkgo_in_global - F
 grus_eea_global - F
 grus_global - F
 helium_global - F
