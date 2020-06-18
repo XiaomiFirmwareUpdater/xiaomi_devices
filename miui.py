@@ -38,6 +38,11 @@ def global_devices():
 
     url = 'https://c.mi.com/oc/rom/getphonelist'
     data = get(url, headers=headers).json()['data']['phone_data']['phone_list']
+    unified = []
+    for item in data:
+        if 'http://' in item['pic_url']:
+            item['pic_url'] = item['pic_url'].replace('http://', 'https://')
+        unified.append(data)
     with open('c_mi.json', 'w') as output:
         json.dump(data, output, indent=1, ensure_ascii=False)
 
