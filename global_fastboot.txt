@@ -43,6 +43,11 @@ jasmine_global - F
 joyeuse_eea_global - F
 joyeuse_global - F
 joyeuse_ru_global - F
+lancelot_eea_global - F
+lancelot_global - F
+lancelot_id_global - F
+lancelot_in_global - F
+lancelot_ru_global - F
 laurel_sprout_eea_global - F
 laurel_sprout_global - F
 lavender_eea_global - F
