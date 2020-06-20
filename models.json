@@ -693,7 +693,7 @@
    "M2001C3K3I": "Redmi 8A Dual India / Redmi 8A Pro Global"
   }
  },
- "lancelot": {
+ "galahad": {
   "internal_name": "J19",
   "name": "Redmi 9",
   "models": {
@@ -702,9 +702,9 @@
    "M2004J19I": "Redmi 9 India"
   }
  },
- "": {
+ "lancelot": {
   "internal_name": "J19A",
-  "name": "Redmi 9:",
+  "name": "Redmi 9",
   "models": {
    "M2004J19AG": "Redmi 9 Global (NFC)"
   }
