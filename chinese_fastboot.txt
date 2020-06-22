@@ -48,6 +48,7 @@ oxygen - F
 perseus - F
 phoenix - F
 picasso - F
+picasso_48m - F
 pine - F
 platina - F
 polaris - F
