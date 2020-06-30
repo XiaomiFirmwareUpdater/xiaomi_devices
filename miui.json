@@ -135,6 +135,7 @@
  "mocha": "XFCN",
  "mocha_global": "XFMI",
  "monet_eea_global": "JIEU",
+ "monet_global": "JIMI",
  "natrium": "BGCN",
  "natrium_global": "BGMI",
  "nikel": "BFCN",
