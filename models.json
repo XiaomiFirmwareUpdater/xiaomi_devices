@@ -243,7 +243,7 @@
   "internal_name": "J9",
   "name": "Mi 10 Lite",
   "models": {
-   "M2002J9G": "Mi 10 Lite Global"
+   "M2002J9G, M2002J9R": "Mi 10 Lite Global"
   }
  },
  "vangogh": {
@@ -693,7 +693,7 @@
    "M2001C3K3I": "Redmi 8A Dual India / Redmi 8A Pro Global"
   }
  },
- "galahad": {
+ "lancelot": {
   "internal_name": "J19",
   "name": "Redmi 9",
   "models": {
@@ -702,11 +702,18 @@
    "M2004J19I": "Redmi 9 India"
   }
  },
- "lancelot": {
+ "galahad": {
   "internal_name": "J19A",
   "name": "Redmi 9",
   "models": {
    "M2004J19AG": "Redmi 9 Global (NFC)"
+  }
+ },
+ "": {
+  "internal_name": "C3L",
+  "name": "Redmi 9A:",
+  "models": {
+   "M2006C3LG": "Redmi 9A Global"
   }
  },
  "lcsh92_wet_gb9": {
@@ -1104,6 +1111,7 @@
   "internal_name": "",
   "name": "Black Shark 3 Pro (`mobius`)",
   "models": {
+   "MBU-H0": "Black Shark 3 Pro Global",
    "MBU-A0": "Black Shark 3 Pro China"
   }
  }
