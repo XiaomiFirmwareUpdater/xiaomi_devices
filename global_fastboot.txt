@@ -60,6 +60,9 @@ lmi_global - F
 lmi_id_global - F
 lmi_in_global - F
 lmi_ru_global - F
+lotus_eea_global - F
+lotus_global - F
+lotus_ru_global - F
 merlin_eea_global - F
 merlin_global - F
 merlin_id_global - F
