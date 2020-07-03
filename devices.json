@@ -690,6 +690,12 @@
   }
  },
  {
+  "angleeUHD": {
+   "name": "Mi Laser Projector 4K",
+   "model": "MiProjL1"
+  }
+ },
+ {
   "andromeda": {
    "name": "Mi MIX 3 5G",
    "model": "Mi MIX 3 5G"
