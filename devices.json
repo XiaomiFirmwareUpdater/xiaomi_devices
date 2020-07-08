@@ -353,9 +353,29 @@
       "display_name": "红米Note3 全网通国际版",
       "display_name_en": "Redmi Note 3 Global"
     },
+    "lancelot": {
+      "display_name": "Redmi 9",
+      "display_name_en": "Redmi 9"
+    },
+    "lancelot_eea_global": {
+      "display_name": "Redmi 9-EEA-GLOBAL",
+      "display_name_en": "Redmi 9-EEA-GLOBAL"
+    },
     "lancelot_global": {
       "display_name": "Redmi 9国际版",
       "display_name_en": "Redmi 9-GLOBAL"
+    },
+    "lancelot_id_global": {
+      "display_name": "Redmi 9-ID-GLOBAL",
+      "display_name_en": "Redmi 9-ID-GLOBAL"
+    },
+    "lancelot_in_global": {
+      "display_name": "Redmi 9-IN-GLOBAL",
+      "display_name_en": "Redmi 9-IN-GLOBAL"
+    },
+    "lancelot_ru_global": {
+      "display_name": "Redmi 9-RU-GLOBAL",
+      "display_name_en": "Redmi 9-RU-GLOBAL"
     },
     "land": {
       "display_name": "红米手机3S/3X",
