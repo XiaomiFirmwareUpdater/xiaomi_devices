@@ -24,6 +24,7 @@ helium - F
 hydrogen - F
 jason - F
 kenzo - F
+lancelot - F
 land - F
 latte - F
 laurus - F
