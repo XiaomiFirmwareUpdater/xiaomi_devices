@@ -69,6 +69,8 @@ merlin_id_global - F
 merlin_in_global - F
 merlin_ru_global - F
 mido_global - F
+monet_eea_global - F
+monet_global - F
 natrium_global - F
 nitrogen_global - F
 nitrogen_ru_global - F
