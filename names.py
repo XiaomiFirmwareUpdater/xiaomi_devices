@@ -57,7 +57,7 @@ def tracker():
     extract codenames form my tracker
     """
     url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/' \
-          'miui-updates-tracker/V3/data/devices.yml'
+          'miui-updates-tracker/master/data/devices.yml'
     data = yaml.load(get(url).text, Loader=yaml.FullLoader)
     for codename, info in data.items():
         DEVICES.update({codename: info[0]})
