@@ -716,6 +716,13 @@
    "M2006C3LG": "Redmi 9A Global"
   }
  },
+ "angelica": {
+  "internal_name": "C3M",
+  "name": "Redmi 9C",
+  "models": {
+   "M2006C3MG": "Redmi 9C Global"
+  }
+ },
  "lcsh92_wet_gb9": {
   "internal_name": "H3W",
   "name": "Redmi Note",
