@@ -23,6 +23,11 @@ curtana_global - F
 curtana_in_global - F
 curtana_ru_global - F
 daisy_global - F
+dandelion_eea_global - F
+dandelion_global - F
+dandelion_id_global - F
+dandelion_in_global - F
+dandelion_ru_global - F
 davinci_eea_global - F
 davinci_global - F
 davinci_ru_global - F
@@ -84,6 +89,7 @@ olivelite_global - F
 olivelite_id_global - F
 olivelite_in_global - F
 olivelite_ru_global - F
+olivewood_id_global - F
 onc_in_global - F
 onclite_eea_global - F
 onclite_global - F
