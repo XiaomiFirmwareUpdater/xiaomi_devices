@@ -40,6 +40,8 @@ gemini_global - F
 ginkgo_global - F
 ginkgo_id_global - F
 ginkgo_in_global - F
+gram_global - F
+gram_in_global - F
 grus_eea_global - F
 grus_global - F
 helium_global - F
