@@ -243,14 +243,15 @@
   "internal_name": "J9",
   "name": "Mi 10 Lite",
   "models": {
-   "M2002J9G, M2002J9R": "Mi 10 Lite Global"
+   "M2002J9G": "Mi 10 Lite Global",
+   "M2002J9S": "Mi 10 Lite Korea",
+   "M2002J9R, XIG01": "Mi 10 Lite Japan"
   }
  },
  "vangogh": {
   "internal_name": "J9",
   "name": "Mi 10 Lite Zoom",
   "models": {
-   "M2002J9S": "Mi 10 Lite Zoom Global",
    "M2002J9E": "Mi 10 Lite Zoom China"
   }
  },
