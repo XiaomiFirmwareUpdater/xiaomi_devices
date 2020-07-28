@@ -714,7 +714,8 @@
   "internal_name": "C3L",
   "name": "Redmi 9A",
   "models": {
-   "M2006C3LG": "Redmi 9A Global"
+   "M2006C3LG": "Redmi 9A Global",
+   "M2006C3LC": "Redmi 9A China"
   }
  },
  "angelica": {
@@ -1116,10 +1117,10 @@
  },
  "klein": {
   "internal_name": "",
-  "name": "Black Shark 3 (`klein`)",
+  "name": "Black Shark 3 (`klein`)/Black Shark 3S (`klein`)",
   "models": {
    "KLE-H0": "Black Shark 3 Global",
-   "KLE-A0": "Black Shark 3 China"
+   "KLE-A0": "Black Shark 3S China"
   }
  },
  "mobius": {
