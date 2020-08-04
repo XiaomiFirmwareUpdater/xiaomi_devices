@@ -14,7 +14,7 @@ def master():
     """
     url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/' +\
           'xiaomi_devices/master/devices.json'
-    data = get(url).json()['data']
+    data = get(url).json()
     codenames = []
     for key in data.keys():
         codenames.append(key)
