@@ -15,7 +15,7 @@ def master():
     """
     url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/' +\
           'xiaomi_devices/master/devices.json'
-    data = get(url).json()['data']
+    data = get(url).json()
     for key, value in data.items():
         if not key:
             continue
