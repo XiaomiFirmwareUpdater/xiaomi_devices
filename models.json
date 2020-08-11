@@ -255,6 +255,13 @@
    "M2002J9E": "Mi 10 Lite Zoom China"
   }
  },
+ "cas": {
+  "internal_name": "J1S",
+  "name": "Mi 10 Ultra",
+  "models": {
+   "M2007J1SC": "Mi 10 Ultra China"
+  }
+ },
  "virgo": {
   "internal_name": "X5",
   "name": "Mi Note",
@@ -1026,6 +1033,13 @@
   "name": "Redmi K30 Pro Zoom Edition",
   "models": {
    "M2001J11I": "Redmi K30 Pro Zoom Edition India"
+  }
+ },
+ "cezanne": {
+  "internal_name": "J10",
+  "name": "Redmi K30 Ultra",
+  "models": {
+   "M2006J10C": "Redmi K30 Ultra China"
   }
  },
  "omega": {
