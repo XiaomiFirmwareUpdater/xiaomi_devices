@@ -1,6 +1,6 @@
 {
  "andromeda": [
-  "Mi MIX 3 5G China",
+  "Mi MIX 3 5G",
   "MIMix35G"
  ],
  "atom": [
@@ -18,6 +18,10 @@
  "capricorn": [
   "Mi 5s",
   "MI5S"
+ ],
+ "cas": [
+  "Mi 10 Ultra",
+  "MI10Ultra"
  ],
  "cepheus": [
   "Mi 9",
