@@ -131,6 +131,10 @@
     "display_name": "小米手机5S 国际版",
     "display_name_en": "MI 5s Global"
   },
+  "cas": {
+    "display_name": "Mi10 Ultra",
+    "display_name_en": "Mi10 Ultra"
+  },
   "cepheus": {
     "display_name": "小米手机9",
     "display_name_en": "MI 9"
@@ -146,6 +150,10 @@
   "cereus_global": {
     "display_name": "红米手机6国际版",
     "display_name_en": "Redmi 6"
+  },
+  "cezanne": {
+    "display_name": "Redmi K30 Ultra",
+    "display_name_en": "Redmi K30 Ultra"
   },
   "chiron": {
     "display_name": "小米MIX2",
