@@ -1,5 +1,8 @@
 andromeda_eea_global - F
 andromeda_global - F
+angelica_eea_global - F
+angelica_global - F
+angelica_id_global - F
 aries_global - F
 begonia_eea_global - F
 begonia_global - F
