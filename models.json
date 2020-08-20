@@ -707,7 +707,7 @@
   "models": {
    "M2004J19C": "Redmi 9 China",
    "M2004J19G": "Redmi 9 Global (No NFC)",
-   "M2004J19I": "Redmi 9 Prime India"
+   "M2004J19I, M2004J19PI": "Redmi 9 Prime India"
   }
  },
  "galahad": {
@@ -719,10 +719,11 @@
  },
  "dandelion": {
   "internal_name": "C3L",
-  "name": "Redmi 9A",
+  "name": "Redmi 9A / Redmi 9AT",
   "models": {
    "M2006C3LG": "Redmi 9A Global",
-   "M2006C3LC": "Redmi 9A China"
+   "M2006C3LC": "Redmi 9A China",
+   "M2006C3LVG": "Redmi 9AT Global"
   }
  },
  "angelica": {
@@ -730,6 +731,13 @@
   "name": "Redmi 9C",
   "models": {
    "M2006C3MG": "Redmi 9C Global"
+  }
+ },
+ "": {
+  "internal_name": "C3MN",
+  "name": "Redmi 9C NFC:",
+  "models": {
+   "M2006C3MNG": "Redmi 9C NFC Global"
   }
  },
  "lcsh92_wet_gb9": {
