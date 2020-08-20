@@ -8,8 +8,10 @@ cancro - F
 cancro_lte_ct - F
 cappu - F
 capricorn - F
+cas - F
 cepheus - F
 cereus - F
+cezanne - F
 chiron - F
 clover - F
 cmi - F
