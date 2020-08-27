@@ -703,7 +703,7 @@
  },
  "lancelot": {
   "internal_name": "J19",
-  "name": "Redmi 9",
+  "name": "Redmi 9 / Redmi 9 Prime",
   "models": {
    "M2004J19C": "Redmi 9 China",
    "M2004J19G": "Redmi 9 Global (No NFC)",
@@ -733,11 +733,18 @@
    "M2006C3MG": "Redmi 9C Global"
   }
  },
- "": {
+ "angelican": {
   "internal_name": "C3MN",
-  "name": "Redmi 9C NFC:",
+  "name": "Redmi 9C NFC",
   "models": {
    "M2006C3MNG": "Redmi 9C NFC Global"
+  }
+ },
+ "angelicain": {
+  "internal_name": "C3MI",
+  "name": "Redmi 9",
+  "models": {
+   "M2006C3MII": "Redmi 9 India"
   }
  },
  "lcsh92_wet_gb9": {
