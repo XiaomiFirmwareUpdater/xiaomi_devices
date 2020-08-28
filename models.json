@@ -707,7 +707,7 @@
   "models": {
    "M2004J19C": "Redmi 9 China",
    "M2004J19G": "Redmi 9 Global (No NFC)",
-   "M2004J19I, M2004J19PI": "Redmi 9 Prime India"
+   "M2004J19I": "Redmi 9 Prime India"
   }
  },
  "galahad": {
@@ -741,10 +741,10 @@
   }
  },
  "angelicain": {
-  "internal_name": "C3MI",
+  "internal_name": "C3M",
   "name": "Redmi 9",
   "models": {
-   "M2006C3MII": "Redmi 9 India"
+   "M2006C3MI": "Redmi 9 India"
   }
  },
  "lcsh92_wet_gb9": {
@@ -1010,7 +1010,14 @@
   "name": "Redmi K30 5G",
   "models": {
    "M2001G7AE": "Redmi K30 5G China / Redmi K30 5G Speed Edition China",
-   "M2001G7AC": "Redmi K30 5G China / Redmi K30i China"
+   "M2001G7AC": "Redmi K30 5G China"
+  }
+ },
+ "picasso48m": {
+  "internal_name": "G7A",
+  "name": "Redmi K30i 5G",
+  "models": {
+   "M2001G7AC": "Redmi K30i 5G China"
   }
  },
  "phoenix": {
