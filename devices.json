@@ -582,6 +582,12 @@
   }
  },
  {
+  "cas": {
+   "name": "Mi 10 Ultra",
+   "model": "M2007J1SC"
+  }
+ },
+ {
   "monet": {
    "name": "Mi 10 lite 5G",
    "model": "M2002J9G"
