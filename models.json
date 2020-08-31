@@ -723,7 +723,8 @@
   "models": {
    "M2006C3LG": "Redmi 9A Global",
    "M2006C3LC": "Redmi 9A China",
-   "M2006C3LVG": "Redmi 9AT Global"
+   "M2006C3LVG": "Redmi 9AT Global",
+   "M2006C3LI": "Redmi 9A India"
   }
  },
  "angelica": {
@@ -740,11 +741,11 @@
    "M2006C3MNG": "Redmi 9C NFC Global"
   }
  },
- "angelicain": {
-  "internal_name": "C3M",
+ "cattail": {
+  "internal_name": "C3MI",
   "name": "Redmi 9",
   "models": {
-   "M2006C3MI": "Redmi 9 India"
+   "M2006C3MII": "Redmi 9 India"
   }
  },
  "lcsh92_wet_gb9": {
