@@ -705,9 +705,9 @@
   "internal_name": "J19",
   "name": "Redmi 9 / Redmi 9 Prime",
   "models": {
-   "M2004J19C": "Redmi 9 China",
    "M2004J19G": "Redmi 9 Global (No NFC)",
-   "M2004J19I": "Redmi 9 Prime India"
+   "M2004J19I": "Redmi 9 Prime India",
+   "M2004J19C": "Redmi 9 China"
   }
  },
  "galahad": {
@@ -719,12 +719,13 @@
  },
  "dandelion": {
   "internal_name": "C3L",
-  "name": "Redmi 9A / Redmi 9AT",
+  "name": "Redmi 9A / Redmi 9AT / Redmi 9i",
   "models": {
    "M2006C3LG": "Redmi 9A Global",
-   "M2006C3LC": "Redmi 9A China",
    "M2006C3LVG": "Redmi 9AT Global",
-   "M2006C3LI": "Redmi 9A India"
+   "M2006C3LI": "Redmi 9A India",
+   "M2006C3LII": "Redmi 9i India",
+   "M2006C3LC": "Redmi 9A China"
   }
  },
  "angelica": {
@@ -1114,11 +1115,32 @@
    "M1912G7BI": "POCO X2 India"
   }
  },
+ "surya": {
+  "internal_name": "J20C",
+  "name": "POCO X3 NFC",
+  "models": {
+   "M2007J20CG": "POCO X3 NFC Global"
+  }
+ },
+ "shiva": {
+  "internal_name": "J19P",
+  "name": "POCO M2",
+  "models": {
+   "M2004J19PI": "POCO M2 India"
+  }
+ },
  "gram": {
   "internal_name": "J6C",
   "name": "POCO M2 Pro",
   "models": {
    "M2003J6CI": "POCO M2 Pro India"
+  }
+ },
+ "angelicain": {
+  "internal_name": "C3M",
+  "name": "POCO C3",
+  "models": {
+   "M2006C3MI": "POCO C3 India"
   }
  },
  "shark": {
