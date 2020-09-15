@@ -3,6 +3,9 @@ andromeda_global - F
 angelica_eea_global - F
 angelica_global - F
 angelica_id_global - F
+angelican_eea_global - F
+angelican_global - F
+angelican_ru_global - F
 aries_global - F
 begonia_eea_global - F
 begonia_global - F
