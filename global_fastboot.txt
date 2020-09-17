@@ -17,6 +17,7 @@ beryllium_global - F
 cactus_global - F
 cancro_global - F
 capricorn_global - F
+cattail_in_global - F
 cepheus_eea_global - F
 cepheus_global - F
 cepheus_ru_global - F
@@ -107,6 +108,7 @@ onclite_ru_global - F
 oxygen_global - F
 perseus_global - F
 perseus_ru_global - F
+phoenix_global - F
 phoenixin_in_global - F
 pine_eea_global - F
 pine_global - F
@@ -130,6 +132,11 @@ sagit_global - F
 sakura_india_global - F
 santoni_global - F
 scorpio_global - F
+surya_eea_global - F
+surya_global - F
+surya_id_global - F
+surya_in_global - F
+surya_ru_global - F
 tiare_eea_global - F
 tiare_global - F
 tiare_in_global - F
