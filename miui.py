@@ -49,7 +49,7 @@ def global_devices():
 
 def china_fastboot():
     """fetch MIUI china fastboot rom devices"""
-    page = BeautifulSoup(get("https://www.miui.com/shuaji-393.html").content, 'html.parser')
+    page = BeautifulSoup(get("https://www.miui.com/shuaji-393.html", headers={'User-Agent': 'Mozilla/5.0 (Linux; U; Android 10; zh-cn; M2007J1SC Build/QKQ1.200419.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.8.25'}).content, 'html.parser')
     links = [f"{i['href'].split('=')[1].split('&')[0].strip()} - {i['href'].split('=')[2].split('&')[0]}"
              for i in page.findAll('a') if "fullromdownload" in str(i)]
     with open("chinese_fastboot.txt", 'w') as output:
