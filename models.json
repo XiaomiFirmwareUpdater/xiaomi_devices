@@ -262,6 +262,21 @@
    "M2007J1SC": "Mi 10 Ultra China"
   }
  },
+ "apollo": {
+  "internal_name": "J3S",
+  "name": "Mi 10T/Mi 10T Pro",
+  "models": {
+   "M2007J3SY": "Mi 10T Global",
+   "M2007J3SG": "Mi 10T Pro Global"
+  }
+ },
+ "gauguin": {
+  "internal_name": "J17",
+  "name": "Mi 10T Lite",
+  "models": {
+   "M2007J17G": "Mi 10T Lite Global"
+  }
+ },
  "virgo": {
   "internal_name": "X5",
   "name": "Mi Note",
@@ -732,7 +747,8 @@
   "internal_name": "C3M",
   "name": "Redmi 9C",
   "models": {
-   "M2006C3MG": "Redmi 9C Global"
+   "M2006C3MG": "Redmi 9C Global",
+   "M2006C3MT": "Redmi 9C Thailand"
   }
  },
  "angelican": {
