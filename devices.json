@@ -600,6 +600,18 @@
   }
  },
  {
+  "apollo": {
+   "name": "Mi 10T",
+   "model": "M2007J3SY"
+  }
+ },
+ {
+  "apollo": {
+   "name": "Mi 10T Pro",
+   "model": "M2007J3SG"
+  }
+ },
+ {
   "pisces": {
    "name": "Mi 3",
    "model": "MI 3"
