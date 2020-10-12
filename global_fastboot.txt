@@ -6,6 +6,10 @@ angelica_id_global - F
 angelican_eea_global - F
 angelican_global - F
 angelican_ru_global - F
+apollo_eea_global - F
+apollo_global - F
+apollo_in_global - F
+apollo_ru_global - F
 aries_global - F
 begonia_eea_global - F
 begonia_global - F
