@@ -606,6 +606,12 @@
   }
  },
  {
+  "gauguin": {
+   "name": "Mi 10T Lite",
+   "model": "M2007J17G"
+  }
+ },
+ {
   "apollo": {
    "name": "Mi 10T Pro",
    "model": "M2007J3SG"
