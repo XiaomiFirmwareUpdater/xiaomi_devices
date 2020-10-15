@@ -264,10 +264,11 @@
  },
  "apollo": {
   "internal_name": "J3S",
-  "name": "Mi 10T/Mi 10T Pro",
+  "name": "Mi 10T / Mi 10T Pro",
   "models": {
    "M2007J3SY": "Mi 10T Global",
-   "M2007J3SG": "Mi 10T Pro Global"
+   "M2007J3SG": "Mi 10T Pro Global",
+   "M2007J3SI": "Mi 10T / Mi 10T Pro India"
   }
  },
  "gauguin": {
