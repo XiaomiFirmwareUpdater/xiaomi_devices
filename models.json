@@ -80,9 +80,9 @@
   "internal_name": "A1",
   "name": "Mi 5",
   "models": {
-   "2015105": "Mi 5 32GB Global",
-   "2015201": "Mi 5 32GB China",
-   "2015628": "Mi 5 64GB / 128GB China"
+   "2015105": "Mi 5 (32GB) Global",
+   "2015201": "Mi 5 (32GB) China",
+   "2015628": "Mi 5 (64GB & 128GB) China"
   }
  },
  "capricorn": {
@@ -770,16 +770,16 @@
   "internal_name": "H3W",
   "name": "Redmi Note",
   "models": {
-   "2014018": "Redmi Note WCDMA 1GB",
-   "2013121": "Redmi Note WCDMA 2GB"
+   "2014018": "Redmi Note WCDMA (1GB RAM)",
+   "2013121": "Redmi Note WCDMA (2GB RAM)"
   }
  },
  "lcsh92_wet_xm_td": {
   "internal_name": "H3TD",
   "name": "Redmi Note",
   "models": {
-   "2014017": "Redmi Note TD-SCDMA 1GB",
-   "2013122": "Redmi Note TD-SCDMA 2GB"
+   "2014017": "Redmi Note TD-SCDMA (1GB RAM)",
+   "2013122": "Redmi Note TD-SCDMA (2GB RAM)"
   }
  },
  "dior": {
@@ -794,10 +794,10 @@
  },
  "gucci": {
   "internal_name": "H3X",
-  "name": "Redmi Note 1S",
+  "name": "Redmi Note 1S / Redmi Note Prime",
   "models": {
+   "2014912": "Redmi Note 1S China Unicom / Redmi Note Prime India",
    "2014915, 2014911": "Redmi Note 1S China Mobile",
-   "2014912": "Redmi Note 1S China Unicom",
    "2014916, 2014910": "Redmi Note 1S China Telecom"
   }
  },
@@ -805,10 +805,10 @@
   "internal_name": "H3Y",
   "name": "Redmi Note 2",
   "models": {
-   "2015051": "Redmi Note 2 16GB",
-   "2015712": "Redmi Note 2 32GB",
-   "2015052, 2015055": "Redmi Note 2 16GB China Mobile",
-   "2015056": "Redmi Note 2 32GB China Mobile"
+   "2015051": "Redmi Note 2 (16GB)",
+   "2015712": "Redmi Note 2 (32GB)",
+   "2015052, 2015055": "Redmi Note 2 (16GB) China Mobile",
+   "2015056": "Redmi Note 2 (32GB) China Mobile"
   }
  },
  "hennessy": {
@@ -1062,20 +1062,6 @@
    "M2001J11E": "Redmi K30 Pro Zoom Edition China"
   }
  },
- "lmiin": {
-  "internal_name": "J11",
-  "name": "Redmi K30 Pro",
-  "models": {
-   "M2001J11I": "Redmi K30 Pro India"
-  }
- },
- "lmiinpro": {
-  "internal_name": "J11",
-  "name": "Redmi K30 Pro Zoom Edition",
-  "models": {
-   "M2001J11I": "Redmi K30 Pro Zoom Edition India"
-  }
- },
  "cezanne": {
   "internal_name": "J10",
   "name": "Redmi K30 Ultra",
@@ -1087,8 +1073,8 @@
   "internal_name": "H3C",
   "name": "Redmi Pro",
   "models": {
-   "2016020": "Redmi Pro 32GB",
-   "2016021": "Redmi Pro 64GB / 128GB"
+   "2016020": "Redmi Pro (32GB)",
+   "2016021": "Redmi Pro (64GB & 128GB)"
   }
  },
  "ysl": {
