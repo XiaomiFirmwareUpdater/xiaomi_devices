@@ -48,6 +48,7 @@ dipper_global - F
 dipper_ru_global - F
 equuleus_global - F
 equuleus_ru_global - F
+excalibur_in_global - F
 gemini_global - F
 ginkgo_global - F
 ginkgo_id_global - F
