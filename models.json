@@ -264,11 +264,12 @@
  },
  "apollo": {
   "internal_name": "J3S",
-  "name": "Mi 10T / Mi 10T Pro",
+  "name": "Mi 10T / Mi 10T Pro/Redmi K30S",
   "models": {
    "M2007J3SY": "Mi 10T Global",
    "M2007J3SG": "Mi 10T Pro Global",
-   "M2007J3SI": "Mi 10T / Mi 10T Pro India"
+   "M2007J3SI": "Mi 10T / Mi 10T Pro India",
+   "M2007J3SC": "Redmi K30S China"
   }
  },
  "gauguin": {
@@ -949,6 +950,7 @@
   "name": "Redmi Note 9/Redmi 10X 4G",
   "models": {
    "M2003J15SS": "Redmi Note 9 Global (No NFC)",
+   "M2003J15SI": "Redmi Note 9 India",
    "M2003J15SC": "Redmi 10X 4G China"
   }
  },
@@ -957,13 +959,6 @@
   "name": "Redmi Note 9",
   "models": {
    "M2003J15SG": "Redmi Note 9 Global (NFC)"
-  }
- },
- "merlinin": {
-  "internal_name": "J15S",
-  "name": "Redmi Note 9",
-  "models": {
-   "M2003J15SI": "Redmi Note 9 India"
   }
  },
  "curtana": {
