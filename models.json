@@ -264,12 +264,12 @@
  },
  "apollo": {
   "internal_name": "J3S",
-  "name": "Mi 10T / Mi 10T Pro/Redmi K30S",
+  "name": "Mi 10T / Mi 10T Pro/Redmi K30S Ultra",
   "models": {
    "M2007J3SY": "Mi 10T Global",
    "M2007J3SG": "Mi 10T Pro Global",
    "M2007J3SI": "Mi 10T / Mi 10T Pro India",
-   "M2007J3SC": "Redmi K30S China"
+   "M2007J3SC": "Redmi K30S Ultra China"
   }
  },
  "gauguin": {
