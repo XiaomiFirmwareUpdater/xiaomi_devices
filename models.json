@@ -264,11 +264,12 @@
  },
  "apollo": {
   "internal_name": "J3S",
-  "name": "Mi 10T / Mi 10T Pro/Redmi K30S Ultra",
+  "name": "Mi 10T/Mi 10T Pro/Redmi K30S Ultra",
   "models": {
    "M2007J3SY": "Mi 10T Global",
+   "M2007J3SP": "Mi 10T India",
    "M2007J3SG": "Mi 10T Pro Global",
-   "M2007J3SI": "Mi 10T / Mi 10T Pro India",
+   "M2007J3SI": "Mi 10T Pro India",
    "M2007J3SC": "Redmi K30S Ultra China"
   }
  },
@@ -1124,7 +1125,8 @@
   "internal_name": "J20C",
   "name": "POCO X3 NFC",
   "models": {
-   "M2007J20CG": "POCO X3 NFC Global"
+   "M2007J20CG": "POCO X3 NFC Global",
+   "M2007J20CT": "POCO X3 NFC Thailand"
   }
  },
  "shiva": {
