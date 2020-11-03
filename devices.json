@@ -19,6 +19,10 @@
     "display_name": "红米手机1S TD 4G版",
     "display_name_en": ""
   },
+  "apollo": {
+    "display_name": "Redmi K30S 至尊纪念版",
+    "display_name_en": "Redmi K30S Ultra"
+  },
   "aqua": {
     "display_name": "小米手机4s",
     "display_name_en": "MI 4S"
@@ -70,6 +74,10 @@
   "begonia_p70_global": {
     "display_name": "BEGONIA-P70-GLOBAL",
     "display_name_en": "BEGONIA-P70-GLOBAL"
+  },
+  "begonia_yunke": {
+    "display_name": "XM-G7-YUNKE",
+    "display_name_en": "XM-G7-YUNKE"
   },
   "beryllium_global": {
     "display_name": "POCO F1 国际版",
