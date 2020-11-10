@@ -3,1198 +3,1199 @@
   "internal_name": "X1",
   "name": "Mi 1/Mi 1S",
   "models": {
-   "MI-ONE PLUS": "Mi 1 WCDMA",
-   "MI-ONE C1": "Mi 1 CDMA",
-   "MI-ONE": "Mi 1 Lite",
-   "2012051": "Mi 1S WCDMA",
-   "2012053": "Mi 1S CDMA",
-   "2012052": "Mi 1S Lite"
+   "`MI-ONE PLUS`": "Mi 1 WCDMA",
+   "`MI-ONE C1`": "Mi 1 CDMA",
+   "`MI-ONE`": "Mi 1 Lite",
+   "`2012051`": "Mi 1S WCDMA",
+   "`2012053`": "Mi 1S CDMA",
+   "`2012052`": "Mi 1S Lite"
   }
  },
  "aries": {
   "internal_name": "X2",
   "name": "Mi 2/Mi 2S",
   "models": {
-   "2012061": "Mi 2 WCDMA",
-   "2012062": "Mi 2 CDMA",
-   "2013012": "Mi 2S WCDMA",
-   "2013021": "Mi 2S CDMA"
+   "`2012061`": "Mi 2 WCDMA",
+   "`2012062`": "Mi 2 CDMA",
+   "`2013012`": "Mi 2S WCDMA",
+   "`2013021`": "Mi 2S CDMA"
   }
  },
  "taurus": {
   "internal_name": "X2A",
   "name": "Mi 2A",
   "models": {
-   "2012121": "Mi 2A"
+   "`2012121`": "Mi 2A"
   }
  },
  "pisces": {
   "internal_name": "X3TD",
   "name": "Mi 3",
   "models": {
-   "2013061": "Mi 3 TD-SCDMA"
+   "`2013061`": "Mi 3 TD-SCDMA"
   }
  },
  "cancro": {
   "internal_name": "X3W/X4",
   "name": "Mi 3/Mi 4",
   "models": {
-   "2013062": "Mi 3 WCDMA",
-   "2013063": "Mi 3 CDMA",
-   "2014215": "Mi 4 WCDMA",
-   "2014218": "Mi 4 CDMA",
-   "2014216": "Mi 4 LTE China Mobile",
-   "2014719": "Mi 4 LTE China Unicom"
+   "`2013062`": "Mi 3 WCDMA",
+   "`2013063`": "Mi 3 CDMA",
+   "`2014215`": "Mi 4 WCDMA",
+   "`2014218`": "Mi 4 CDMA",
+   "`2014216`": "Mi 4 LTE China Mobile",
+   "`2014719`": "Mi 4 LTE China Unicom"
   }
  },
  "cancro_lte_ct": {
   "internal_name": "X4LTE-CT",
   "name": "Mi 4",
   "models": {
-   "2014716, 2014726": "Mi 4 LTE China Telecom"
+   "`2014716` `2014726`": "Mi 4 LTE China Telecom"
   }
  },
  "ferrari": {
   "internal_name": "X9",
   "name": "Mi 4i",
   "models": {
-   "2015015": "Mi 4i Global"
+   "`2015015`": "Mi 4i Global"
   }
  },
  "libra": {
   "internal_name": "X11",
   "name": "Mi 4c",
   "models": {
-   "2015561": "Mi 4c",
-   "2015562": "Mi 4c China Mobile"
+   "`2015561`": "Mi 4c",
+   "`2015562`": "Mi 4c China Mobile"
   }
  },
  "aqua": {
   "internal_name": "A10",
   "name": "Mi 4S",
   "models": {
-   "2015911": "Mi 4S"
+   "`2015911`": "Mi 4S"
   }
  },
  "gemini": {
   "internal_name": "A1",
   "name": "Mi 5",
   "models": {
-   "2015105": "Mi 5 (32GB) Global",
-   "2015201": "Mi 5 (32GB) China",
-   "2015628": "Mi 5 (64GB & 128GB) China"
+   "`2015105`": "Mi 5 (32GB) Global",
+   "`2015201`": "Mi 5 (32GB) China",
+   "`2015628`": "Mi 5 (64GB & 128GB) China"
   }
  },
  "capricorn": {
   "internal_name": "A7",
   "name": "Mi 5s",
   "models": {
-   "2015711": "Mi 5s"
+   "`2015711`": "Mi 5s"
   }
  },
  "natrium": {
   "internal_name": "B7",
   "name": "Mi 5s Plus",
   "models": {
-   "2016070": "Mi 5s Plus"
+   "`2016070`": "Mi 5s Plus"
   }
  },
  "meri": {
   "internal_name": "C10",
   "name": "Mi 5c",
   "models": {
-   "2016089": "Mi 5c"
+   "`2016089`": "Mi 5c"
   }
  },
  "tiffany": {
   "internal_name": "D2",
   "name": "Mi 5X",
   "models": {
-   "MDE2": "Mi 5X China",
-   "MDT2": "Mi 5X China Mobile"
+   "`MDE2`": "Mi 5X China",
+   "`MDT2`": "Mi 5X China Mobile"
   }
  },
  "sagit": {
   "internal_name": "C1",
   "name": "Mi 6",
   "models": {
-   "MCE16": "Mi 6",
-   "MCT1": "Mi 6 China Mobile"
+   "`MCE16`": "Mi 6",
+   "`MCT1`": "Mi 6 China Mobile"
   }
  },
  "wayne": {
   "internal_name": "D2S",
   "name": "Mi 6X",
   "models": {
-   "M1804D2SE": "Mi 6X China",
-   "M1804D2ST": "Mi 6X China Mobile",
-   "M1804D2SC": "Mi 6X China Unicom / China Telecom"
+   "`M1804D2SE`": "Mi 6X China",
+   "`M1804D2ST`": "Mi 6X China Mobile",
+   "`M1804D2SC`": "Mi 6X China Unicom / China Telecom"
   }
  },
  "dipper": {
   "internal_name": "E1",
   "name": "Mi 8",
   "models": {
-   "M1803E1A": "Mi 8",
-   "M1803E1T": "Mi 8 China Mobile",
-   "M1803E1C": "Mi 8 China Unicom / China Telecom"
+   "`M1803E1A`": "Mi 8",
+   "`M1803E1T`": "Mi 8 China Mobile",
+   "`M1803E1C`": "Mi 8 China Unicom / China Telecom"
   }
  },
  "ursa": {
   "internal_name": "E8",
   "name": "Mi 8 Explorer Edition",
   "models": {
-   "M1807E8S": "Mi 8 Explorer Edition"
+   "`M1807E8S`": "Mi 8 Explorer Edition"
   }
  },
  "equuleus": {
   "internal_name": "E1S",
   "name": "Mi 8 Pro",
   "models": {
-   "M1807E8A": "Mi 8 Pro"
+   "`M1807E8A`": "Mi 8 Pro"
   }
  },
  "sirius": {
   "internal_name": "E2",
   "name": "Mi 8 SE",
   "models": {
-   "M1805E2A": "Mi 8 SE"
+   "`M1805E2A`": "Mi 8 SE"
   }
  },
  "platina": {
   "internal_name": "D2T",
   "name": "Mi 8 Lite",
   "models": {
-   "M1808D2TG": "Mi 8 Lite Global",
-   "M1808D2TE": "Mi 8 Lite China",
-   "M1808D2TT": "Mi 8 Lite China Mobile",
-   "M1808D2TC": "Mi 8 Lite China Unicom / China Telecom"
+   "`M1808D2TG`": "Mi 8 Lite Global",
+   "`M1808D2TE`": "Mi 8 Lite China",
+   "`M1808D2TT`": "Mi 8 Lite China Mobile",
+   "`M1808D2TC`": "Mi 8 Lite China Unicom / China Telecom"
   }
  },
  "cepheus": {
   "internal_name": "F1",
   "name": "Mi 9",
   "models": {
-   "M1902F1G": "Mi 9 Global",
-   "M1902F1A": "Mi 9 China",
-   "M1902F1T": "Mi 9 China Mobile",
-   "M1902F1C": "Mi 9 China Unicom / China Telecom"
+   "`M1902F1G`": "Mi 9 Global",
+   "`M1902F1A`": "Mi 9 China",
+   "`M1902F1T`": "Mi 9 China Mobile",
+   "`M1902F1C`": "Mi 9 China Unicom / China Telecom"
   }
  },
  "crux": {
   "internal_name": "F1X",
   "name": "Mi 9 Pro",
   "models": {
-   "M1908F1XE": "Mi 9 Pro 5G China"
+   "`M1908F1XE`": "Mi 9 Pro 5G China"
   }
  },
  "grus": {
   "internal_name": "F2",
   "name": "Mi 9 SE",
   "models": {
-   "M1903F2G": "Mi 9 SE Global",
-   "M1903F2A": "Mi 9 SE China"
+   "`M1903F2G`": "Mi 9 SE Global",
+   "`M1903F2A`": "Mi 9 SE China"
   }
  },
  "davinci": {
   "internal_name": "F10",
   "name": "Mi 9T/Redmi K20",
   "models": {
-   "M1903F10G": "Mi 9T Global",
-   "M1903F10A": "Redmi K20 China",
-   "M1903F10C": "Redmi K20 Chinese Carrier Version"
+   "`M1903F10G`": "Mi 9T Global",
+   "`M1903F10A`": "Redmi K20 China",
+   "`M1903F10C`": "Redmi K20 Chinese Carrier Version"
   }
  },
  "raphael": {
   "internal_name": "F11",
   "name": "Mi 9T Pro/Redmi K20 Pro",
   "models": {
-   "M1903F11G": "Mi 9T Pro Global",
-   "M1903F11A": "Redmi K20 Pro China",
-   "M1903F11C": "Redmi K20 Pro Chinese Carrier Version"
+   "`M1903F11G`": "Mi 9T Pro Global",
+   "`M1903F11A`": "Redmi K20 Pro China",
+   "`M1903F11C`": "Redmi K20 Pro Chinese Carrier Version"
   }
  },
  "pyxis": {
   "internal_name": "F3B",
   "name": "Mi 9 Lite/Mi CC 9",
   "models": {
-   "M1904F3BG": "Mi 9 Lite Global",
-   "M1904F3BC": "Mi CC 9 China"
+   "`M1904F3BG`": "Mi 9 Lite Global",
+   "`M1904F3BC`": "Mi CC 9 China"
   }
  },
  "umi": {
   "internal_name": "J2",
   "name": "Mi 10",
   "models": {
-   "M2001J2G": "Mi 10 Global",
-   "M2001J2I": "Mi 10 India",
-   "M2001J2E, M2001J2C": "Mi 10 China"
+   "`M2001J2G`": "Mi 10 Global",
+   "`M2001J2I`": "Mi 10 India",
+   "`M2001J2E` `M2001J2C`": "Mi 10 China"
   }
  },
  "cmi": {
   "internal_name": "J1",
   "name": "Mi 10 Pro",
   "models": {
-   "M2001J1G": "Mi 10 Pro Global",
-   "M2001J1E, M2001J1C": "Mi 10 Pro China"
+   "`M2001J1G`": "Mi 10 Pro Global",
+   "`M2001J1E` `M2001J1C`": "Mi 10 Pro China"
   }
  },
  "monet": {
   "internal_name": "J9",
   "name": "Mi 10 Lite",
   "models": {
-   "M2002J9G": "Mi 10 Lite Global",
-   "M2002J9S": "Mi 10 Lite Korea",
-   "M2002J9R, XIG01": "Mi 10 Lite Japan"
+   "`M2002J9G`": "Mi 10 Lite Global",
+   "`M2002J9S`": "Mi 10 Lite Korea",
+   "`M2002J9R`": "Mi 10 Lite Japan",
+   "`XIG01`": "Mi 10 Lite Japan (NTT docomo)"
   }
  },
  "vangogh": {
   "internal_name": "J9",
   "name": "Mi 10 Lite Zoom",
   "models": {
-   "M2002J9E": "Mi 10 Lite Zoom China"
+   "`M2002J9E`": "Mi 10 Lite Zoom China"
   }
  },
  "cas": {
   "internal_name": "J1S",
   "name": "Mi 10 Ultra",
   "models": {
-   "M2007J1SC": "Mi 10 Ultra China"
+   "`M2007J1SC`": "Mi 10 Ultra China"
   }
  },
  "apollo": {
   "internal_name": "J3S",
   "name": "Mi 10T/Mi 10T Pro/Redmi K30S Ultra",
   "models": {
-   "M2007J3SY": "Mi 10T Global",
-   "M2007J3SP": "Mi 10T India",
-   "M2007J3SG": "Mi 10T Pro Global",
-   "M2007J3SI": "Mi 10T Pro India",
-   "M2007J3SC": "Redmi K30S Ultra China"
+   "`M2007J3SY`": "Mi 10T Global",
+   "`M2007J3SP`": "Mi 10T India",
+   "`M2007J3SG`": "Mi 10T Pro Global",
+   "`M2007J3SI`": "Mi 10T Pro India",
+   "`M2007J3SC`": "Redmi K30S Ultra China"
   }
  },
  "gauguin": {
   "internal_name": "J17",
   "name": "Mi 10T Lite",
   "models": {
-   "M2007J17G": "Mi 10T Lite Global"
+   "`M2007J17G`": "Mi 10T Lite Global"
   }
  },
  "virgo": {
   "internal_name": "X5",
   "name": "Mi Note",
   "models": {
-   "2015011": "Mi Note Global",
-   "2014616, 2014619": "Mi Note China",
-   "2014618": "Mi Note China Mobile",
-   "2014617": "Mi Note China Unicom"
+   "`2015011`": "Mi Note Global",
+   "`2014616` `201461`9": "Mi Note China",
+   "`2014618`": "Mi Note China Mobile",
+   "`2014617`": "Mi Note China Unicom"
   }
  },
  "leo": {
   "internal_name": "X7",
   "name": "Mi Note Pro",
   "models": {
-   "2015021, 2015022": "Mi Note Pro",
-   "2015501": "Mi Note Pro China Mobile"
+   "`2015021` `2015022`": "Mi Note Pro",
+   "`2015501`": "Mi Note Pro China Mobile"
   }
  },
  "scorpio": {
   "internal_name": "A4",
   "name": "Mi Note 2",
   "models": {
-   "2015213": "Mi Note 2 Global",
-   "2015211": "Mi Note 2 China",
-   "2015212": "Mi Note 2 China Mobile"
+   "`2015213`": "Mi Note 2 Global",
+   "`2015211`": "Mi Note 2 China",
+   "`2015212`": "Mi Note 2 China Mobile"
   }
  },
  "jason": {
   "internal_name": "C8",
   "name": "Mi Note 3",
   "models": {
-   "MCE8": "Mi Note 3",
-   "MCT8": "Mi Note 3 China Mobile"
+   "`MCE8`": "Mi Note 3",
+   "`MCT8`": "Mi Note 3 China Mobile"
   }
  },
  "tucana": {
   "internal_name": "F4",
   "name": "Mi Note 10/Mi CC 9 Pro",
   "models": {
-   "M1910F4G": "Mi Note 10 Global",
-   "M1910F4S": "Mi Note 10 Pro Global",
-   "M1910F4E": "Mi CC 9 Pro China"
+   "`M1910F4G`": "Mi Note 10 Global",
+   "`M1910F4S`": "Mi Note 10 Pro Global",
+   "`M1910F4E`": "Mi CC 9 Pro China"
   }
  },
  "toco": {
   "internal_name": "F4L",
   "name": "Mi Note 10 Lite",
   "models": {
-   "M2002F4LG": "Mi Note 10 Lite Global"
+   "`M2002F4LG`": "Mi Note 10 Lite Global"
   }
  },
  "lithium": {
   "internal_name": "A8",
   "name": "Mi MIX",
   "models": {
-   "2016080": "Mi MIX"
+   "`2016080`": "Mi MIX"
   }
  },
  "chiron": {
   "internal_name": "D5",
   "name": "Mi MIX 2",
   "models": {
-   "MDE5": "Mi MIX 2",
-   "MDT5": "Mi MIX 2 China Mobile",
-   "MDE5S": "Mi MIX 2 Unibody Ceramic Edition"
+   "`MDE5`": "Mi MIX 2",
+   "`MDT5`": "Mi MIX 2 China Mobile",
+   "`MDE5S`": "Mi MIX 2 Unibody Ceramic Edition"
   }
  },
  "polaris": {
   "internal_name": "D5X",
   "name": "Mi MIX 2S",
   "models": {
-   "M1803D5XA": "Mi MIX 2S Global",
-   "M1803D5XE": "Mi MIX 2S China",
-   "M1803D5XT": "Mi MIX 2S China Mobile",
-   "M1803D5XC": "Mi MIX 2S China Unicom / China Telecom"
+   "`M1803D5XA`": "Mi MIX 2S Global",
+   "`M1803D5XE`": "Mi MIX 2S China",
+   "`M1803D5XT`": "Mi MIX 2S China Mobile",
+   "`M1803D5XC`": "Mi MIX 2S China Unicom / China Telecom"
   }
  },
  "perseus": {
   "internal_name": "E5",
   "name": "Mi MIX 3",
   "models": {
-   "M1810E5A": "Mi MIX 3 Global",
-   "M1810E5E": "Mi MIX 3 China"
+   "`M1810E5A`": "Mi MIX 3 Global",
+   "`M1810E5E`": "Mi MIX 3 China"
   }
  },
  "andromeda": {
   "internal_name": "E5G",
   "name": "Mi MIX 3 5G",
   "models": {
-   "M1810E5GG": "Mi MIX 3 5G"
+   "`M1810E5GG`": "Mi MIX 3 5G"
   }
  },
  "hydrogen": {
   "internal_name": "B3",
   "name": "Mi Max",
   "models": {
-   "2016002": "Mi Max Global",
-   "2016001": "Mi Max China"
+   "`2016002`": "Mi Max Global",
+   "`2016001`": "Mi Max China"
   }
  },
  "helium": {
   "internal_name": "B3_PRO",
   "name": "Mi Max Prime",
   "models": {
-   "2016007": "Mi Max Prime"
+   "`2016007`": "Mi Max Prime"
   }
  },
  "oxygen": {
   "internal_name": "D4",
   "name": "Mi Max 2",
   "models": {
-   "MDE40": "Mi Max 2",
-   "MDT4": "Mi Max 2 China Mobile",
-   "MDI40": "Mi Max 2 India"
+   "`MDE40`": "Mi Max 2",
+   "`MDT4`": "Mi Max 2 China Mobile",
+   "`MDI40`": "Mi Max 2 India"
   }
  },
  "nitrogen": {
   "internal_name": "E4",
   "name": "Mi Max 3",
   "models": {
-   "M1804E4A": "Mi Max 3",
-   "M1804E4T": "Mi Max 3 China Mobile",
-   "M1804E4C": "Mi Max 3 China Unicom / China Telecom"
+   "`M1804E4A`": "Mi Max 3",
+   "`M1804E4T`": "Mi Max 3 China Mobile",
+   "`M1804E4C`": "Mi Max 3 China Unicom / China Telecom"
   }
  },
  "vela": {
   "internal_name": "F3M",
   "name": "Mi CC 9 Meitu Edition",
   "models": {
-   "M1904F3BT": "Mi CC 9 Meitu Edition"
+   "`M1904F3BT`": "Mi CC 9 Meitu Edition China"
   }
  },
  "laurus": {
   "internal_name": "F9S",
   "name": "Mi CC 9e",
   "models": {
-   "M1906F9SC": "Mi CC 9e China"
+   "`M1906F9SC`": "Mi CC 9e China"
   }
  },
  "lotus": {
   "internal_name": "F9",
   "name": "Mi Play",
   "models": {
-   "M1901F9E": "Mi Play",
-   "M1901F9T": "Mi Play China Mobile"
+   "`M1901F9E`": "Mi Play",
+   "`M1901F9T`": "Mi Play China Mobile"
   }
  },
  "tissot": {
   "internal_name": "D2",
   "name": "Mi A1",
   "models": {
-   "MDG2": "Mi A1 Global",
-   "MDI2": "Mi A1 India"
+   "`MDG2`": "Mi A1 Global",
+   "`MDI2`": "Mi A1 India"
   }
  },
  "jasmine": {
   "internal_name": "D2S",
   "name": "Mi A2",
   "models": {
-   "M1804D2SG": "Mi A2 Global",
-   "M1804D2SI": "Mi A2 India"
+   "`M1804D2SG`": "Mi A2 Global",
+   "`M1804D2SI`": "Mi A2 India"
   }
  },
  "daisy": {
   "internal_name": "D1S",
   "name": "Mi A2 Lite",
   "models": {
-   "M1805D1SG": "Mi A2 Lite Global"
+   "`M1805D1SG`": "Mi A2 Lite Global"
   }
  },
  "laurel_sprout": {
   "internal_name": "F9S",
   "name": "Mi A3",
   "models": {
-   "M1906F9SH": "Mi A3 Global",
-   "M1906F9SI": "Mi A3 India"
+   "`M1906F9SH`": "Mi A3 Global",
+   "`M1906F9SI`": "Mi A3 India"
   }
  },
  "mocha": {
   "internal_name": "X6",
   "name": "Mi Pad",
   "models": {
-   "A0101": "Mi Pad"
+   "`A0101`": "Mi Pad"
   }
  },
  "latte": {
   "internal_name": "A3",
   "name": "Mi Pad 2",
   "models": {
-   "2015716": "Mi Pad 2"
+   "`2015716`": "Mi Pad 2"
   }
  },
  "cappu": {
   "internal_name": "C9",
   "name": "Mi Pad 3",
   "models": {
-   "MCE91": "Mi Pad 3"
+   "`MCE91`": "Mi Pad 3"
   }
  },
  "clover": {
   "internal_name": "D9/D9P",
   "name": "Mi Pad 4/Mi Pad 4 Plus",
   "models": {
-   "M1806D9W": "Mi Pad 4 Wi-Fi",
-   "M1806D9E": "Mi Pad 4 LTE",
-   "M1806D9PE": "Mi Pad 4 Plus LTE"
+   "`M1806D9W`": "Mi Pad 4 Wi-Fi",
+   "`M1806D9E`": "Mi Pad 4 LTE",
+   "`M1806D9PE`": "Mi Pad 4 Plus LTE"
   }
  },
  "wt93007": {
   "internal_name": "H2TD",
   "name": "Redmi 1",
   "models": {
-   "2013022": "Redmi 1 TD-SCDMA"
+   "`2013022`": "Redmi 1 TD-SCDMA"
   }
  },
  "wt98007": {
   "internal_name": "H2W",
   "name": "Redmi 1",
   "models": {
-   "2013023": "Redmi 1 WCDMA"
+   "`2013023`": "Redmi 1 WCDMA"
   }
  },
  "armani": {
   "internal_name": "H2A",
   "name": "Redmi 1S",
   "models": {
-   "2013029": "Redmi 1S WCDMA",
-   "2013028": "Redmi 1S CDMA"
+   "`2013029`": "Redmi 1S WCDMA",
+   "`2013028`": "Redmi 1S CDMA"
   }
  },
  "wt93807": {
   "internal_name": "H2S",
   "name": "Redmi 1S",
   "models": {
-   "2014011": "Redmi 1S TD-SCDMA"
+   "`2014011`": "Redmi 1S TD-SCDMA"
   }
  },
  "wt96007": {
   "internal_name": "H2SLTE",
   "name": "Redmi 1S",
   "models": {
-   "2014501": "Redmi 1S 4G China Mobile"
+   "`2014501`": "Redmi 1S 4G China Mobile"
   }
  },
  "wt86047": {
   "internal_name": "H2X",
   "name": "Redmi 2/Redmi 2A",
   "models": {
-   "2014813, 2014112": "Redmi 2 China Mobile",
-   "2014816": "Redmi 2A Prime (Snapdragon 410)"
+   "`2014813` `2014112`": "Redmi 2 China Mobile",
+   "`2014816`": "Redmi 2A Prime (Snapdragon 410)"
   }
  },
  "wt88047": {
   "internal_name": "H2X",
   "name": "Redmi 2",
   "models": {
-   "2014817": "Redmi 2 Global",
-   "2014818": "Redmi 2 India",
-   "2014819": "Redmi 2 Brazil",
-   "2014811": "Redmi 2 China Unicom",
-   "2014812, 2014821": "Redmi 2 China Telecom"
+   "`2014817`": "Redmi 2 Global",
+   "`2014818`": "Redmi 2 India",
+   "`2014819`": "Redmi 2 Brazil",
+   "`2014811`": "Redmi 2 China Unicom",
+   "`2014812` `2014821`": "Redmi 2 China Telecom"
   }
  },
  "lte26007": {
   "internal_name": "H2X(LC)",
   "name": "Redmi 2A",
   "models": {
-   "2014502": "Redmi 2A",
-   "2014512, 2014055": "Redmi 2A Prime"
+   "`2014502`": "Redmi 2A",
+   "`2014512` `2014055`": "Redmi 2A Prime"
   }
  },
  "ido_xhdpi": {
   "internal_name": "A9",
   "name": "Redmi 3",
   "models": {
-   "2015816": "Redmi 3 Global",
-   "2015811, 2015815": "Redmi 3 China",
-   "2015812": "Redmi 3 China Mobile",
-   "2015810": "Redmi 3 China Unicom",
-   "2015817, 2015819": "Redmi 3 Prime China",
-   "2015818": "Redmi 3 Prime China Unicom"
+   "`2015816`": "Redmi 3 Global",
+   "`2015811` `2015815`": "Redmi 3 China",
+   "`2015812`": "Redmi 3 China Mobile",
+   "`2015810`": "Redmi 3 China Unicom",
+   "`2015817` `2015819`": "Redmi 3 Prime China",
+   "`2015818`": "Redmi 3 Prime China Unicom"
   }
  },
  "land": {
   "internal_name": "A12",
   "name": "Redmi 3S/Redmi 3X",
   "models": {
-   "2016031": "Redmi 3S Global",
-   "2016037": "Redmi 3S India",
-   "2016032": "Redmi 3S Prime India",
-   "2016030": "Redmi 3S China",
-   "2016036": "Redmi 3X",
-   "2016035": "Redmi 3X China Mobile",
-   "2016033": "Redmi 3X China Unicom"
+   "`2016031`": "Redmi 3S Global",
+   "`2016037`": "Redmi 3S India",
+   "`2016032`": "Redmi 3S Prime India",
+   "`2016030`": "Redmi 3S China",
+   "`2016036`": "Redmi 3X",
+   "`2016035`": "Redmi 3X China Mobile",
+   "`2016033`": "Redmi 3X China Unicom"
   }
  },
  "prada": {
   "internal_name": "C5",
   "name": "Redmi 4",
   "models": {
-   "2016090": "Redmi 4"
+   "`2016090`": "Redmi 4"
   }
  },
  "markw": {
   "internal_name": "B5W",
   "name": "Redmi 4",
   "models": {
-   "2016060": "Redmi 4 Pro"
+   "`2016060`": "Redmi 4 Pro"
   }
  },
  "rolex": {
   "internal_name": "C3A",
   "name": "Redmi 4A",
   "models": {
-   "2016117": "Redmi 4A Global",
-   "2016116": "Redmi 4A India",
-   "2016111": "Redmi 4A China",
-   "2016112": "Redmi 4A China Mobile"
+   "`2016117`": "Redmi 4A Global",
+   "`2016116`": "Redmi 4A India",
+   "`2016111`": "Redmi 4A China",
+   "`2016112`": "Redmi 4A China Mobile"
   }
  },
  "santoni": {
   "internal_name": "A13",
   "name": "Redmi 4X / Redmi 4",
   "models": {
-   "MAG138": "Redmi 4X Global",
-   "MAI132": "Redmi 4 India",
-   "MAE136": "Redmi 4X China",
-   "MAT136": "Redmi 4X China Mobile"
+   "`MAG138`": "Redmi 4X Global",
+   "`MAI132`": "Redmi 4 India",
+   "`MAE136`": "Redmi 4X China",
+   "`MAT136`": "Redmi 4X China Mobile"
   }
  },
  "rosy": {
   "internal_name": "D1",
   "name": "Redmi 5",
   "models": {
-   "MDG1": "Redmi 5 Global",
-   "MDI1": "Redmi 5 India",
-   "MDE1": "Redmi 5 China",
-   "MDT1": "Redmi 5 China Mobile"
+   "`MDG1`": "Redmi 5 Global",
+   "`MDI1`": "Redmi 5 India",
+   "`MDE1`": "Redmi 5 China",
+   "`MDT1`": "Redmi 5 China Mobile"
   }
  },
  "vince": {
   "internal_name": "E7",
   "name": "Redmi 5 Plus/Redmi Note 5",
   "models": {
-   "MEG7": "Redmi 5 Plus Global",
-   "MEE7": "Redmi 5 Plus China",
-   "MET7": "Redmi 5 Plus China Mobile",
-   "MEI7": "Redmi Note 5 India"
+   "`MEG7`": "Redmi 5 Plus Global",
+   "`MEE7`": "Redmi 5 Plus China",
+   "`MET7`": "Redmi 5 Plus China Mobile",
+   "`MEI7`": "Redmi Note 5 India"
   }
  },
  "riva": {
   "internal_name": "C3B",
   "name": "Redmi 5A",
   "models": {
-   "MCG3B": "Redmi 5A Global",
-   "MCI3B": "Redmi 5A India",
-   "MCE3B": "Redmi 5A China",
-   "MCT3B": "Redmi 5A China Mobile"
+   "`MCG3B`": "Redmi 5A Global",
+   "`MCI3B`": "Redmi 5A India",
+   "`MCE3B`": "Redmi 5A China",
+   "`MCT3B`": "Redmi 5A China Mobile"
   }
  },
  "cereus": {
   "internal_name": "C3D",
   "name": "Redmi 6",
   "models": {
-   "M1804C3DG, M1804C3DH": "Redmi 6 Global",
-   "M1804C3DI": "Redmi 6 India",
-   "M1804C3DE": "Redmi 6 China",
-   "M1804C3DT": "Redmi 6 China Mobile",
-   "M1804C3DC": "Redmi 6 China Unicom / China Telecom"
+   "`M1804C3DG` `M1804C3DH`": "Redmi 6 Global",
+   "`M1804C3DI`": "Redmi 6 India",
+   "`M1804C3DE`": "Redmi 6 China",
+   "`M1804C3DT`": "Redmi 6 China Mobile",
+   "`M1804C3DC`": "Redmi 6 China Unicom / China Telecom"
   }
  },
  "sakura": {
   "internal_name": "D1S",
   "name": "Redmi 6 Pro",
   "models": {
-   "M1805D1SI": "Redmi 6 Pro India",
-   "M1805D1SE": "Redmi 6 Pro China",
-   "M1805D1ST": "Redmi 6 Pro China Mobile",
-   "M1805D1SC": "Redmi 6 Pro China Unicom / China Telecom"
+   "`M1805D1SI`": "Redmi 6 Pro India",
+   "`M1805D1SE`": "Redmi 6 Pro China",
+   "`M1805D1ST`": "Redmi 6 Pro China Mobile",
+   "`M1805D1SC`": "Redmi 6 Pro China Unicom / China Telecom"
   }
  },
  "cactus": {
   "internal_name": "C3C",
   "name": "Redmi 6A",
   "models": {
-   "M1804C3CG, M1804C3CH": "Redmi 6A Global",
-   "M1804C3CI": "Redmi 6A India",
-   "M1804C3CE": "Redmi 6A China",
-   "M1804C3CT": "Redmi 6A China Mobile",
-   "M1804C3CC": "Redmi 6A China Unicom / China Telecom"
+   "`M1804C3CG` `M1804C3CH`": "Redmi 6A Global",
+   "`M1804C3CI`": "Redmi 6A India",
+   "`M1804C3CE`": "Redmi 6A China",
+   "`M1804C3CT`": "Redmi 6A China Mobile",
+   "`M1804C3CC`": "Redmi 6A China Unicom / China Telecom"
   }
  },
  "onclite": {
   "internal_name": "F6L",
   "name": "Redmi 7",
   "models": {
-   "M1810F6LG, M1810F6LH": "Redmi 7 Global",
-   "M1810F6LI": "Redmi 7 India",
-   "M1810F6LE": "Redmi 7 China",
-   "M1810F6LT": "Redmi 7 Chinese Carrier Version"
+   "`M1810F6LG` `M1810F6LH`": "Redmi 7 Global",
+   "`M1810F6LI`": "Redmi 7 India",
+   "`M1810F6LE`": "Redmi 7 China",
+   "`M1810F6LT`": "Redmi 7 Chinese Carrier Version"
   }
  },
  "pine": {
   "internal_name": "C3E",
   "name": "Redmi 7A",
   "models": {
-   "M1903C3EG, M1903C3EH": "Redmi 7A Global",
-   "M1903C3EI": "Redmi 7A India",
-   "M1903C3EE": "Redmi 7A China",
-   "M1903C3ET": "Redmi 7A China Mobile",
-   "M1903C3EC": "Redmi 7A China Unicom / China Telecom"
+   "`M1903C3EG` `M1903C3EH`": "Redmi 7A Global",
+   "`M1903C3EI`": "Redmi 7A India",
+   "`M1903C3EE`": "Redmi 7A China",
+   "`M1903C3ET`": "Redmi 7A China Mobile",
+   "`M1903C3EC`": "Redmi 7A China Unicom / China Telecom"
   }
  },
  "olive": {
   "internal_name": "C3I",
   "name": "Redmi 8",
   "models": {
-   "M1908C3IG, M1908C3IH": "Redmi 8 Global",
-   "M1908C3II": "Redmi 8 India",
-   "M1908C3IE": "Redmi 8 China",
-   "M1908C3IC": "Redmi 8 Chinese Carrier Version"
+   "`M1908C3IG` `M1908C3IH`": "Redmi 8 Global",
+   "`M1908C3II`": "Redmi 8 India",
+   "`M1908C3IE`": "Redmi 8 China",
+   "`M1908C3IC`": "Redmi 8 Chinese Carrier Version"
   }
  },
  "olivelite": {
   "internal_name": "C3K",
   "name": "Redmi 8A",
   "models": {
-   "M1908C3KG, M1908C3KH": "Redmi 8A Global",
-   "M1908C3KI": "Redmi 8A India",
-   "M1908C3KE": "Redmi 8A China"
+   "`M1908C3KG` `M1908C3KH`": "Redmi 8A Global",
+   "`M1908C3KI`": "Redmi 8A India",
+   "`M1908C3KE`": "Redmi 8A China"
   }
  },
  "olivewood": {
   "internal_name": "C3K3",
   "name": "Redmi 8A Dual / Redmi 8A Pro",
   "models": {
-   "M2001C3K3I": "Redmi 8A Dual India / Redmi 8A Pro Global"
+   "`M2001C3K3I`": "Redmi 8A Dual India / Redmi 8A Pro Global"
   }
  },
  "lancelot": {
   "internal_name": "J19",
   "name": "Redmi 9 / Redmi 9 Prime",
   "models": {
-   "M2004J19G": "Redmi 9 Global (No NFC)",
-   "M2004J19I": "Redmi 9 Prime India",
-   "M2004J19C": "Redmi 9 China"
+   "`M2004J19G`": "Redmi 9 Global (No NFC)",
+   "`M2004J19I`": "Redmi 9 Prime India",
+   "`M2004J19C`": "Redmi 9 China"
   }
  },
  "galahad": {
   "internal_name": "J19A",
   "name": "Redmi 9",
   "models": {
-   "M2004J19AG": "Redmi 9 Global (NFC)"
+   "`M2004J19AG`": "Redmi 9 Global (NFC)"
   }
  },
  "dandelion": {
   "internal_name": "C3L",
   "name": "Redmi 9A / Redmi 9AT / Redmi 9i",
   "models": {
-   "M2006C3LG": "Redmi 9A Global",
-   "M2006C3LVG": "Redmi 9AT Global",
-   "M2006C3LI": "Redmi 9A India",
-   "M2006C3LII": "Redmi 9i India",
-   "M2006C3LC": "Redmi 9A China"
+   "`M2006C3LG`": "Redmi 9A Global",
+   "`M2006C3LVG`": "Redmi 9AT Global",
+   "`M2006C3LI`": "Redmi 9A India",
+   "`M2006C3LII`": "Redmi 9i India",
+   "`M2006C3LC`": "Redmi 9A China"
   }
  },
  "angelica": {
   "internal_name": "C3M",
   "name": "Redmi 9C",
   "models": {
-   "M2006C3MG": "Redmi 9C Global",
-   "M2006C3MT": "Redmi 9C Thailand"
+   "`M2006C3MG`": "Redmi 9C Global",
+   "`M2006C3MT`": "Redmi 9C Thailand"
   }
  },
  "angelican": {
   "internal_name": "C3MN",
   "name": "Redmi 9C NFC",
   "models": {
-   "M2006C3MNG": "Redmi 9C NFC Global"
+   "`M2006C3MNG`": "Redmi 9C NFC Global"
   }
  },
  "cattail": {
   "internal_name": "C3MI",
   "name": "Redmi 9",
   "models": {
-   "M2006C3MII": "Redmi 9 India"
+   "`M2006C3MII`": "Redmi 9 India"
   }
  },
  "lcsh92_wet_gb9": {
   "internal_name": "H3W",
   "name": "Redmi Note",
   "models": {
-   "2014018": "Redmi Note WCDMA (1GB RAM)",
-   "2013121": "Redmi Note WCDMA (2GB RAM)"
+   "`2014018`": "Redmi Note WCDMA (1GB RAM)",
+   "`2013121`": "Redmi Note WCDMA (2GB RAM)"
   }
  },
  "lcsh92_wet_xm_td": {
   "internal_name": "H3TD",
   "name": "Redmi Note",
   "models": {
-   "2014017": "Redmi Note TD-SCDMA (1GB RAM)",
-   "2013122": "Redmi Note TD-SCDMA (2GB RAM)"
+   "`2014017`": "Redmi Note TD-SCDMA (1GB RAM)",
+   "`2013122`": "Redmi Note TD-SCDMA (2GB RAM)"
   }
  },
  "dior": {
   "internal_name": "H3LTE",
   "name": "Redmi Note 4G",
   "models": {
-   "2014715": "Redmi Note 4G Global",
-   "2014712": "Redmi Note 4G India",
-   "2014022": "Redmi Note 4G China Mobile",
-   "2014021": "Redmi Note 4G China Unicom"
+   "`2014715`": "Redmi Note 4G Global",
+   "`2014712`": "Redmi Note 4G India",
+   "`2014022`": "Redmi Note 4G China Mobile",
+   "`2014021`": "Redmi Note 4G China Unicom"
   }
  },
  "gucci": {
   "internal_name": "H3X",
   "name": "Redmi Note 1S / Redmi Note Prime",
   "models": {
-   "2014912": "Redmi Note 1S China Unicom / Redmi Note Prime India",
-   "2014915, 2014911": "Redmi Note 1S China Mobile",
-   "2014916, 2014910": "Redmi Note 1S China Telecom"
+   "`2014912`": "Redmi Note 1S China Unicom / Redmi Note Prime India",
+   "`2014915` `2014911`": "Redmi Note 1S China Mobile",
+   "`2014916` `2014910`": "Redmi Note 1S China Telecom"
   }
  },
  "hermes": {
   "internal_name": "H3Y",
   "name": "Redmi Note 2",
   "models": {
-   "2015051": "Redmi Note 2 (16GB)",
-   "2015712": "Redmi Note 2 (32GB)",
-   "2015052, 2015055": "Redmi Note 2 (16GB) China Mobile",
-   "2015056": "Redmi Note 2 (32GB) China Mobile"
+   "`2015051`": "Redmi Note 2 (16GB)",
+   "`2015712`": "Redmi Note 2 (32GB)",
+   "`2015052` `2015055`": "Redmi Note 2 (16GB) China Mobile",
+   "`2015056`": "Redmi Note 2 (32GB) China Mobile"
   }
  },
  "hennessy": {
   "internal_name": "H3Z",
   "name": "Redmi Note 3",
   "models": {
-   "2015617": "Redmi Note 3 (Mediatek)",
-   "2015611": "Redmi Note 3 (Mediatek) China Mobile"
+   "`2015617`": "Redmi Note 3 (Mediatek)",
+   "`2015611`": "Redmi Note 3 (Mediatek) China Mobile"
   }
  },
  "kenzo": {
   "internal_name": "H3A",
   "name": "Redmi Note 3",
   "models": {
-   "2015116": "Redmi Note 3 (Qualcomm) Global",
-   "2015112, 2015115": "Redmi Note 3 (Qualcomm) China"
+   "`2015116`": "Redmi Note 3 (Qualcomm) Global",
+   "`2015112` `2015115`": "Redmi Note 3 (Qualcomm) China"
   }
  },
  "kate": {
   "internal_name": "H3B",
   "name": "Redmi Note 3",
   "models": {
-   "2015161": "Redmi Note 3 (Special Edition) Taiwan"
+   "`2015161`": "Redmi Note 3 (Special Edition) Taiwan"
   }
  },
  "nikel": {
   "internal_name": "B6L/B6A",
   "name": "Redmi Note 4/Redmi Note 4X",
   "models": {
-   "2016050": "Redmi Note 4 (Mediatek)",
-   "2016051": "Redmi Note 4 (Mediatek) China Mobile",
-   "MBE6A5": "Redmi Note 4X (Mediatek)",
-   "MBT6A5": "Redmi Note 4X (Mediatek) China Mobile"
+   "`2016050`": "Redmi Note 4 (Mediatek)",
+   "`2016051`": "Redmi Note 4 (Mediatek) China Mobile",
+   "`MBE6A5`": "Redmi Note 4X (Mediatek)",
+   "`MBT6A5`": "Redmi Note 4X (Mediatek) China Mobile"
   }
  },
  "mido": {
   "internal_name": "C6",
   "name": "Redmi Note 4 / Redmi Note 4X",
   "models": {
-   "2016100, 2016102": "Redmi Note 4 (Qualcomm) Global",
-   "2016101": "Redmi Note 4X (Qualcomm) China",
-   "2016130": "Redmi Note 4X (Qualcomm) China Mobile"
+   "`2016100` `2016102`": "Redmi Note 4 (Qualcomm) Global",
+   "`2016101`": "Redmi Note 4X (Qualcomm) China",
+   "`2016130`": "Redmi Note 4X (Qualcomm) China Mobile"
   }
  },
  "whyred": {
   "internal_name": "E7S",
   "name": "Redmi Note 5 / Redmi Note 5 Pro",
   "models": {
-   "M1803E7SG, M1803E7SH": "Redmi Note 5 Global",
-   "MEI7S": "Redmi Note 5 Pro India",
-   "MEE7S": "Redmi Note 5 China",
-   "MET7S": "Redmi Note 5 China Mobile",
-   "MEC7S": "Redmi Note 5 China Unicom / China Telecom"
+   "`M1803E7SG` `M1803E7SH`": "Redmi Note 5 Global",
+   "`MEI7S`": "Redmi Note 5 Pro India",
+   "`MEE7S`": "Redmi Note 5 China",
+   "`MET7S`": "Redmi Note 5 China Mobile",
+   "`MEC7S`": "Redmi Note 5 China Unicom / China Telecom"
   }
  },
  "ugglite": {
   "internal_name": "D6",
   "name": "Redmi Note 5A / Redmi Y1 Lite",
   "models": {
-   "MDG6": "Redmi Note 5A Global",
-   "MDI6": "Redmi Y1 Lite India",
-   "MDE6": "Redmi Note 5A China",
-   "MDT6": "Redmi Note 5A China Mobile"
+   "`MDG6`": "Redmi Note 5A Global",
+   "`MDI6`": "Redmi Y1 Lite India",
+   "`MDE6`": "Redmi Note 5A China",
+   "`MDT6`": "Redmi Note 5A China Mobile"
   }
  },
  "ugg": {
   "internal_name": "D6S",
   "name": "Redmi Note 5A / Redmi Y1",
   "models": {
-   "MDG6S": "Redmi Note 5A Prime Global",
-   "MDI6S": "Redmi Y1 India",
-   "MDE6S": "Redmi Note 5A Prime China",
-   "MDT6S": "Redmi Note 5A Prime China Mobile"
+   "`MDG6S`": "Redmi Note 5A Prime Global",
+   "`MDI6S`": "Redmi Y1 India",
+   "`MDE6S`": "Redmi Note 5A Prime China",
+   "`MDT6S`": "Redmi Note 5A Prime China Mobile"
   }
  },
  "tulip": {
   "internal_name": "E7T",
   "name": "Redmi Note 6 Pro",
   "models": {
-   "M1806E7TG, M1806E7TH": "Redmi Note 6 Pro Global",
-   "M1806E7TI": "Redmi Note 6 Pro India"
+   "`M1806E7TG` `M1806E7TH`": "Redmi Note 6 Pro Global",
+   "`M1806E7TI`": "Redmi Note 6 Pro India"
   }
  },
  "lavender": {
   "internal_name": "F7A",
   "name": "Redmi Note 7 / Redmi Note 7S",
   "models": {
-   "M1901F7G, M1901F7H": "Redmi Note 7 Global",
-   "M1901F7I": "Redmi Note 7 / Redmi Note 7S India",
-   "M1901F7E": "Redmi Note 7 China",
-   "M1901F7T": "Redmi Note 7 China Mobile",
-   "M1901F7C": "Redmi Note 7 China Unicom / China Telecom"
+   "`M1901F7G` `M1901F7H`": "Redmi Note 7 Global",
+   "`M1901F7I`": "Redmi Note 7 / Redmi Note 7S India",
+   "`M1901F7E`": "Redmi Note 7 China",
+   "`M1901F7T`": "Redmi Note 7 China Mobile",
+   "`M1901F7C`": "Redmi Note 7 China Unicom / China Telecom"
   }
  },
  "violet": {
   "internal_name": "F7B",
   "name": "Redmi Note 7 Pro",
   "models": {
-   "M1901F7S": "Redmi Note 7 Pro India",
-   "M1901F7BE": "Redmi Note 7 Pro China"
+   "`M1901F7S`": "Redmi Note 7 Pro India",
+   "`M1901F7BE`": "Redmi Note 7 Pro China"
   }
  },
  "ginkgo": {
   "internal_name": "C3J",
   "name": "Redmi Note 8",
   "models": {
-   "M1908C3JG, M1908C3JH": "Redmi Note 8 Global",
-   "M1908C3JI": "Redmi Note 8 India",
-   "M1908C3JE": "Redmi Note 8 China",
-   "M1908C3JC": "Redmi Note 8 Chinese Carrier Version"
+   "`M1908C3JG` `M1908C3JH`": "Redmi Note 8 Global",
+   "`M1908C3JI`": "Redmi Note 8 India",
+   "`M1908C3JE`": "Redmi Note 8 China",
+   "`M1908C3JC`": "Redmi Note 8 Chinese Carrier Version"
   }
  },
  "willow": {
   "internal_name": "C3X",
   "name": "Redmi Note 8T",
   "models": {
-   "M1908C3XG": "Redmi Note 8T Global"
+   "`M1908C3XG`": "Redmi Note 8T Global"
   }
  },
  "begonia": {
   "internal_name": "G7",
   "name": "Redmi Note 8 Pro",
   "models": {
-   "M1906G7G": "Redmi Note 8 Pro Global",
-   "M1906G7E": "Redmi Note 8 Pro China",
-   "M1906G7T": "Redmi Note 8 Pro Chinese Carrier Version"
+   "`M1906G7G`": "Redmi Note 8 Pro Global",
+   "`M1906G7E`": "Redmi Note 8 Pro China",
+   "`M1906G7T`": "Redmi Note 8 Pro Chinese Carrier Version"
   }
  },
  "begoniain": {
   "internal_name": "G7",
   "name": "Redmi Note 8 Pro",
   "models": {
-   "M1906G7I": "Redmi Note 8 Pro India"
+   "`M1906G7I`": "Redmi Note 8 Pro India"
   }
  },
  "merlin": {
   "internal_name": "J15S",
   "name": "Redmi Note 9/Redmi 10X 4G",
   "models": {
-   "M2003J15SS": "Redmi Note 9 Global (No NFC)",
-   "M2003J15SI": "Redmi Note 9 India",
-   "M2003J15SC": "Redmi 10X 4G China"
+   "`M2003J15SS`": "Redmi Note 9 Global (No NFC)",
+   "`M2003J15SI`": "Redmi Note 9 India",
+   "`M2003J15SC`": "Redmi 10X 4G China"
   }
  },
  "merlinnfc": {
   "internal_name": "J15S",
   "name": "Redmi Note 9",
   "models": {
-   "M2003J15SG": "Redmi Note 9 Global (NFC)"
+   "`M2003J15SG`": "Redmi Note 9 Global (NFC)"
   }
  },
  "curtana": {
   "internal_name": "J6A1",
   "name": "Redmi Note 9 Pro / Redmi Note 9S",
   "models": {
-   "M2003J6A1G": "Redmi Note 9S Global",
-   "M2003J6A1R": "Redmi Note 9S Global (Japan / Korea)",
-   "M2003J6A1I": "Redmi Note 9 Pro India"
+   "`M2003J6A1G`": "Redmi Note 9S Global",
+   "`M2003J6A1R`": "Redmi Note 9S Global (Japan / Korea)",
+   "`M2003J6A1I`": "Redmi Note 9 Pro India"
   }
  },
  "excalibur": {
   "internal_name": "J6B1",
   "name": "Redmi Note 9 Pro Max",
   "models": {
-   "M2003J6B1I": "Redmi Note 9 Pro Max India"
+   "`M2003J6B1I`": "Redmi Note 9 Pro Max India"
   }
  },
  "joyeuse": {
   "internal_name": "J6B2",
   "name": "Redmi Note 9 Pro",
   "models": {
-   "M2003J6B2G": "Redmi Note 9 Pro Global"
+   "`M2003J6B2G`": "Redmi Note 9 Pro Global"
   }
  },
  "atom": {
   "internal_name": "J7A",
   "name": "Redmi 10X 5G",
   "models": {
-   "M2004J7AC": "Redmi 10X 5G China"
+   "`M2004J7AC`": "Redmi 10X 5G China"
   }
  },
  "bomb": {
   "internal_name": "J7B",
   "name": "Redmi 10X Pro 5G",
   "models": {
-   "M2004J7BC": "Redmi 10X Pro 5G China"
+   "`M2004J7BC`": "Redmi 10X Pro 5G China"
   }
  },
  "davinciin": {
   "internal_name": "F10",
   "name": "Redmi K20",
   "models": {
-   "M1903F10I": "Redmi K20 India"
+   "`M1903F10I`": "Redmi K20 India"
   }
  },
  "raphaelin": {
   "internal_name": "F11",
   "name": "Redmi K20 Pro",
   "models": {
-   "M1903F11I": "Redmi K20 Pro India"
+   "`M1903F11I`": "Redmi K20 Pro India"
   }
  },
  "raphaels": {
   "internal_name": "F11",
   "name": "Redmi K20 Pro Premium Edition",
   "models": {
-   "M1903F11A": "Redmi K20 Pro Premium Edition China"
+   "`M1903F11A`": "Redmi K20 Pro Premium Edition China"
   }
  },
  "picasso": {
   "internal_name": "G7A",
   "name": "Redmi K30 5G",
   "models": {
-   "M2001G7AE": "Redmi K30 5G China / Redmi K30 5G Speed Edition China",
-   "M2001G7AC": "Redmi K30 5G China"
+   "`M2001G7AE`": "Redmi K30 5G China / Redmi K30 5G Speed Edition China",
+   "`M2001G7AC`": "Redmi K30 5G China"
   }
  },
  "picasso48m": {
   "internal_name": "G7A",
   "name": "Redmi K30i 5G",
   "models": {
-   "M2001G7AC": "Redmi K30i 5G China"
+   "`M2001G7AC`": "Redmi K30i 5G China"
   }
  },
  "phoenix": {
   "internal_name": "G7B",
   "name": "Redmi K30 4G",
   "models": {
-   "M1912G7BE": "Redmi K30 4G China",
-   "M1912G7BC": "Redmi K30 4G Chinese Carrier Version"
+   "`M1912G7BE`": "Redmi K30 4G China",
+   "`M1912G7BC`": "Redmi K30 4G Chinese Carrier Version"
   }
  },
  "lmi": {
   "internal_name": "J11",
   "name": "Redmi K30 Pro/POCO F2 Pro",
   "models": {
-   "M2001J11C": "Redmi K30 Pro China",
-   "M2004J11G": "POCO F2 Pro"
+   "`M2001J11C`": "Redmi K30 Pro China",
+   "`M2004J11G`": "POCO F2 Pro"
   }
  },
  "lmipro": {
   "internal_name": "J11",
   "name": "Redmi K30 Pro Zoom Edition",
   "models": {
-   "M2001J11E": "Redmi K30 Pro Zoom Edition China"
+   "`M2001J11E`": "Redmi K30 Pro Zoom Edition China"
   }
  },
  "cezanne": {
   "internal_name": "J10",
   "name": "Redmi K30 Ultra",
   "models": {
-   "M2006J10C": "Redmi K30 Ultra China"
+   "`M2006J10C`": "Redmi K30 Ultra China"
   }
  },
  "omega": {
   "internal_name": "H3C",
   "name": "Redmi Pro",
   "models": {
-   "2016020": "Redmi Pro (32GB)",
-   "2016021": "Redmi Pro (64GB & 128GB)"
+   "`2016020`": "Redmi Pro (32GB)",
+   "`2016021`": "Redmi Pro (64GB & 128GB)"
   }
  },
  "ysl": {
   "internal_name": "E6",
   "name": "Redmi S2 / Redmi Y2",
   "models": {
-   "M1803E6G, M1803E6H": "Redmi S2 Global",
-   "M1803E6I": "Redmi Y2 India",
-   "M1803E6E": "Redmi S2 China",
-   "M1803E6T": "Redmi S2 China Mobile",
-   "M1803E6C": "Redmi S2 China Unicom / China Telecom"
+   "`M1803E6G` `M1803E6H`": "Redmi S2 Global",
+   "`M1803E6I`": "Redmi Y2 India",
+   "`M1803E6E`": "Redmi S2 China",
+   "`M1803E6T`": "Redmi S2 China Mobile",
+   "`M1803E6C`": "Redmi S2 China Unicom / China Telecom"
   }
  },
  "onc": {
   "internal_name": "F6",
   "name": "Redmi Y3",
   "models": {
-   "M1810F6G": "Redmi Y3 Global",
-   "M1810F6I": "Redmi Y3 India"
+   "`M1810F6G`": "Redmi Y3 Global",
+   "`M1810F6I`": "Redmi Y3 India"
   }
  },
  "tiare": {
   "internal_name": "C3G",
   "name": "Redmi Go",
   "models": {
-   "M1903C3GG, M1903C3GH": "Redmi Go Global",
-   "M1903C3GI": "Redmi Go India"
+   "`M1903C3GG` `M1903C3GH`": "Redmi Go Global",
+   "`M1903C3GI`": "Redmi Go India"
   }
  },
  "beryllium": {
   "internal_name": "E10",
   "name": "POCO F1",
   "models": {
-   "M1805E10A": "POCO F1"
+   "`M1805E10A`": "POCO F1"
   }
  },
  "phoenixin": {
   "internal_name": "G7B",
   "name": "POCO X2",
   "models": {
-   "M1912G7BI": "POCO X2 India"
+   "`M1912G7BI`": "POCO X2 India"
   }
  },
  "karna": {
   "internal_name": "J20C",
   "name": "POCO X3",
   "models": {
-   "M2007J20CI": "POCO X3 India"
+   "`M2007J20CI`": "POCO X3 India"
   }
  },
  "surya": {
   "internal_name": "J20C",
   "name": "POCO X3 NFC",
   "models": {
-   "M2007J20CG": "POCO X3 NFC Global",
-   "M2007J20CT": "POCO X3 NFC Thailand"
+   "`M2007J20CG`": "POCO X3 NFC Global",
+   "`M2007J20CT`": "POCO X3 NFC Thailand"
   }
  },
  "shiva": {
   "internal_name": "J19P",
   "name": "POCO M2",
   "models": {
-   "M2004J19PI": "POCO M2 India"
+   "`M2004J19PI`": "POCO M2 India"
   }
  },
  "gram": {
   "internal_name": "J6C",
   "name": "POCO M2 Pro",
   "models": {
-   "M2003J6CI": "POCO M2 Pro India"
+   "`M2003J6CI`": "POCO M2 Pro India"
   }
  },
  "angelicain": {
   "internal_name": "C3M",
   "name": "POCO C3",
   "models": {
-   "M2006C3MI": "POCO C3 India"
+   "`M2006C3MI`": "POCO C3 India"
   }
  },
  "shark": {
   "internal_name": "",
   "name": "Black Shark (`shark`)",
   "models": {
-   "SKR-H0": "Black Shark Global",
-   "SKR-A0": "Black Shark China"
+   "`SKR-H0`": "Black Shark Global",
+   "`SKR-A0`": "Black Shark China"
   }
  },
  "bullhead": {
   "internal_name": "",
   "name": "Black Shark Helo (`bullhead`)",
   "models": {
-   "AWM-A0": "Black Shark Helo China"
+   "`AWM-A0`": "Black Shark Helo China"
   }
  },
  "skywalker": {
   "internal_name": "",
   "name": "Black Shark 2 (`skywalker`)",
   "models": {
-   "SKW-H0": "Black Shark 2 Global",
-   "SKW-A0": "Black Shark 2 China"
+   "`SKW-H0`": "Black Shark 2 Global",
+   "`SKW-A0`": "Black Shark 2 China"
   }
  },
  "darklighter": {
   "internal_name": "",
   "name": "Black Shark 2 Pro (`darklighter`)",
   "models": {
-   "DLT-H0": "Black Shark 2 Pro Global",
-   "DLT-A0": "Black Shark 2 Pro China"
+   "`DLT-H0`": "Black Shark 2 Pro Global",
+   "`DLT-A0`": "Black Shark 2 Pro China"
   }
  },
  "klein": {
   "internal_name": "",
   "name": "Black Shark 3 (`klein`)/Black Shark 3S (`klein`)",
   "models": {
-   "KLE-H0": "Black Shark 3 Global",
-   "KLE-A0": "Black Shark 3S China"
+   "`KLE-H0`": "Black Shark 3 Global",
+   "`KLE-A0`": "Black Shark 3S China"
   }
  },
  "mobius": {
   "internal_name": "",
   "name": "Black Shark 3 Pro (`mobius`)",
   "models": {
-   "MBU-H0": "Black Shark 3 Pro Global",
-   "MBU-A0": "Black Shark 3 Pro China"
+   "`MBU-H0`": "Black Shark 3 Pro Global",
+   "`MBU-A0`": "Black Shark 3 Pro China"
   }
  }
 }
