@@ -26,7 +26,7 @@ def extract_info():
     for line in data:
         info = {}
         details = {}
-        if line.startswith('|Xiaomi|'):
+        if line.startswith(('|Xiaomi|','|Redmi|','|POCO|')):
             name = line.split('|')[2]
             codename = line.split('|')[3]
             model = line.split('|')[4]
