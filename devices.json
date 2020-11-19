@@ -1,5 +1,419 @@
 [
  {
+  "lmi": {
+   "name": "POCO F2 Pro",
+   "model": "POCO F2 Pro"
+  }
+ },
+ {
+  "shiva": {
+   "name": "POCO M2",
+   "model": "M2004J19PI"
+  }
+ },
+ {
+  "gram": {
+   "name": "POCO M2 Pro",
+   "model": "POCO M2 Pro"
+  }
+ },
+ {
+  "phoenixin": {
+   "name": "POCO X2",
+   "model": "POCO X2"
+  }
+ },
+ {
+  "karna": {
+   "name": "POCO X3",
+   "model": "M2007J20CI"
+  }
+ },
+ {
+  "surya": {
+   "name": "POCO X3 NFC",
+   "model": "M2007J20CG"
+  }
+ },
+ {
+  "lmi": {
+   "name": "K30 PRO",
+   "model": "Lmi"
+  }
+ },
+ {
+  "lmi": {
+   "name": "K30 PRO",
+   "model": "Redmi K30 Pro"
+  }
+ },
+ {
+  "raphaelin": {
+   "name": "Mi  9T  Pro",
+   "model": "Redmi K20 Pro"
+  }
+ },
+ {
+  "davinci": {
+   "name": "Mi 9T",
+   "model": "Mi 9T"
+  }
+ },
+ {
+  "pine": {
+   "name": "Redmi  7A",
+   "model": "Redmi 7A"
+  }
+ },
+ {
+  "pine": {
+   "name": "Redmi  7A",
+   "model": "pine"
+  }
+ },
+ {
+  "lavender": {
+   "name": "Redmi  Note  7",
+   "model": "Redmi Note 7"
+  }
+ },
+ {
+  "apricot": {
+   "name": "Redmi 10X",
+   "model": "M2004J7AC"
+  }
+ },
+ {
+  "atom": {
+   "name": "Redmi 10X",
+   "model": "M2004J7AC"
+  }
+ },
+ {
+  "atom": {
+   "name": "Redmi 10X",
+   "model": "atom"
+  }
+ },
+ {
+  "merlin": {
+   "name": "Redmi 10X 4G",
+   "model": "M2003J15SC"
+  }
+ },
+ {
+  "banana": {
+   "name": "Redmi 10X Pro",
+   "model": "M2004J7BC"
+  }
+ },
+ {
+  "bomb": {
+   "name": "Redmi 10X pro",
+   "model": "M2004J7BC"
+  }
+ },
+ {
+  "bomb": {
+   "name": "Redmi 10X pro",
+   "model": "bomb"
+  }
+ },
+ {
+  "cereus": {
+   "name": "Redmi 6",
+   "model": "Redmi 6"
+  }
+ },
+ {
+  "onc": {
+   "name": "Redmi 7",
+   "model": "Redmi 7"
+  }
+ },
+ {
+  "onc": {
+   "name": "Redmi 7",
+   "model": "Redmi Y3"
+  }
+ },
+ {
+  "pine": {
+   "name": "Redmi 7A",
+   "model": "Redmi 7A"
+  }
+ },
+ {
+  "olive": {
+   "name": "Redmi 8",
+   "model": "Redmi 8"
+  }
+ },
+ {
+  "olivelite": {
+   "name": "Redmi 8A",
+   "model": "Redmi 8A"
+  }
+ },
+ {
+  "olivewood": {
+   "name": "Redmi 8A Dual",
+   "model": "Redmi 8A Dual"
+  }
+ },
+ {
+  "olivewood": {
+   "name": "Redmi 8A Dual",
+   "model": "Redmi 8A Pro"
+  }
+ },
+ {
+  "cattail": {
+   "name": "Redmi 9",
+   "model": "M2006C3MII"
+  }
+ },
+ {
+  "cattail": {
+   "name": "Redmi 9",
+   "model": "cattail"
+  }
+ },
+ {
+  "galahad": {
+   "name": "Redmi 9",
+   "model": "M2004J19C"
+  }
+ },
+ {
+  "galahad": {
+   "name": "Redmi 9",
+   "model": "galahad"
+  }
+ },
+ {
+  "lancelot": {
+   "name": "Redmi 9",
+   "model": "M2004J19C"
+  }
+ },
+ {
+  "lancelot": {
+   "name": "Redmi 9 Prime",
+   "model": "M2004J19C"
+  }
+ },
+ {
+  "dandelion": {
+   "name": "Redmi 9A",
+   "model": "M2006C3LC"
+  }
+ },
+ {
+  "dandelion": {
+   "name": "Redmi 9A",
+   "model": "M2006C3LG"
+  }
+ },
+ {
+  "dandelion": {
+   "name": "Redmi 9A",
+   "model": "M2006C3LI"
+  }
+ },
+ {
+  "dandelion": {
+   "name": "Redmi 9A",
+   "model": "M2006C3LVG"
+  }
+ },
+ {
+  "dandelion": {
+   "name": "Redmi 9A",
+   "model": "dandelion"
+  }
+ },
+ {
+  "angelica": {
+   "name": "Redmi 9C",
+   "model": "M2006C3MG"
+  }
+ },
+ {
+  "angelica": {
+   "name": "Redmi 9C",
+   "model": "angelica"
+  }
+ },
+ {
+  "angelican": {
+   "name": "Redmi 9C NFC",
+   "model": "M2006C3MNG"
+  }
+ },
+ {
+  "angelican": {
+   "name": "Redmi 9C NFC",
+   "model": "angelican"
+  }
+ },
+ {
+  "davinci": {
+   "name": "Redmi K20",
+   "model": "Mi 9T"
+  }
+ },
+ {
+  "davinci": {
+   "name": "Redmi K20",
+   "model": "Redmi K20"
+  }
+ },
+ {
+  "davinciin": {
+   "name": "Redmi K20",
+   "model": "Redmi K20"
+  }
+ },
+ {
+  "raphael": {
+   "name": "Redmi K20 Pro",
+   "model": "Mi 9T Pro"
+  }
+ },
+ {
+  "raphael": {
+   "name": "Redmi K20 Pro",
+   "model": "Redmi K20 Pro"
+  }
+ },
+ {
+  "raphael": {
+   "name": "Redmi K20 Pro",
+   "model": "Redmi K20 Pro Premium Edition"
+  }
+ },
+ {
+  "phoenix": {
+   "name": "Redmi K30",
+   "model": "Redmi K30"
+  }
+ },
+ {
+  "picasso": {
+   "name": "Redmi K30 5G",
+   "model": "Redmi K30 5G"
+  }
+ },
+ {
+  "cezanne": {
+   "name": "Redmi K30 Ultra",
+   "model": "M2006J10C"
+  }
+ },
+ {
+  "picasso": {
+   "name": "Redmi K30i 5G",
+   "model": "Redmi K30i 5G"
+  }
+ },
+ {
+  "lavender": {
+   "name": "Redmi Note 7",
+   "model": "Redmi Note 7"
+  }
+ },
+ {
+  "ginkgo": {
+   "name": "Redmi Note 8",
+   "model": "GINKGO"
+  }
+ },
+ {
+  "ginkgo": {
+   "name": "Redmi Note 8",
+   "model": "Redmi Note 8"
+  }
+ },
+ {
+  "begonia": {
+   "name": "Redmi Note 8 Pro",
+   "model": "Redmi Note 8 Pro"
+  }
+ },
+ {
+  "begoniain": {
+   "name": "Redmi Note 8 pro",
+   "model": "Redmi Note 8 Pro"
+  }
+ },
+ {
+  "willow": {
+   "name": "Redmi Note 8T",
+   "model": "Redmi Note 8T"
+  }
+ },
+ {
+  "willow": {
+   "name": "Redmi Note 8T",
+   "model": "willow"
+  }
+ },
+ {
+  "merlin": {
+   "name": "Redmi Note 9",
+   "model": "M2003J15SC"
+  }
+ },
+ {
+  "merlinnfc": {
+   "name": "Redmi Note 9",
+   "model": "M2003J15SC"
+  }
+ },
+ {
+  "curtana": {
+   "name": "Redmi Note 9 Pro",
+   "model": "Redmi Note 9 Pro"
+  }
+ },
+ {
+  "curtana": {
+   "name": "Redmi Note 9 Pro",
+   "model": "curtana"
+  }
+ },
+ {
+  "joyeuse": {
+   "name": "Redmi Note 9 Pro",
+   "model": "Redmi Note 9 Pro"
+  }
+ },
+ {
+  "excalibur": {
+   "name": "Redmi Note 9 Pro Max",
+   "model": "Redmi Note 9 Pro Max"
+  }
+ },
+ {
+  "gauguinpro": {
+   "name": "Redmi Note 9 pro",
+   "model": "M2007J17C"
+  }
+ },
+ {
+  "curtana": {
+   "name": "Redmi Note 9S",
+   "model": "Redmi Note 9 Pro"
+  }
+ },
+ {
+  "curtana": {
+   "name": "Redmi Note 9S",
+   "model": "Redmi Note 9S"
+  }
+ },
+ {
   "braveheart": {
    "name": "China",
    "model": "MiTV"
