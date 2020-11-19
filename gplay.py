@@ -9,7 +9,7 @@ def get_devices_list():
     """
     Download latest certified devices list
     """
-    url = "https://raw.githubusercontent.com/androidtrackers/" +\
+    url = "https://raw.githubusercontent.com/androidtrackers/" + \
           "certified-android-devices/master/README.md"
     response = get(url)
     with open('devices.md', 'wb') as out:
@@ -26,7 +26,7 @@ def extract_info():
     for line in data:
         info = {}
         details = {}
-        if line.startswith('|Xiaomi|'):
+        if line.startswith('|Xiaomi|') or line.startswith('|Redmi|') or line.startswith('|POCO|'):
             name = line.split('|')[2]
             codename = line.split('|')[3]
             model = line.split('|')[4]
