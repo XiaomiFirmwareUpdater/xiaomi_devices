@@ -1144,6 +1144,14 @@
    "`M2003J6CI`": "POCO M2 Pro India"
   }
  },
+ "citrus": {
+  "internal_name": "J19C",
+  "name": "POCO M3",
+  "models": {
+   "`M2010J19CG`": "POCO M3 Global",
+   "`M2010J19CT`": "POCO M3 Thailand"
+  }
+ },
  "angelicain": {
   "internal_name": "C3M",
   "name": "POCO C3",
