@@ -963,6 +963,27 @@
    "`M2003J15SG`": "Redmi Note 9 Global (NFC)"
   }
  },
+ "lime": {
+  "internal_name": "J19S",
+  "name": "Redmi Note 9 4G",
+  "models": {
+   "`M2010J19SC`": "Redmi Note 9 4G China"
+  }
+ },
+ "cannon": {
+  "internal_name": "J22",
+  "name": "Redmi Note 9 5G",
+  "models": {
+   "`M2007J22C`": "Redmi Note 9 5G China"
+  }
+ },
+ "cannong": {
+  "internal_name": "J22",
+  "name": "Redmi Note 9T",
+  "models": {
+   "`M2007J22G`": "Redmi Note 9T 5G Global"
+  }
+ },
  "curtana": {
   "internal_name": "J6A1",
   "name": "Redmi Note 9 Pro / Redmi Note 9S",
@@ -984,6 +1005,13 @@
   "name": "Redmi Note 9 Pro",
   "models": {
    "`M2003J6B2G`": "Redmi Note 9 Pro Global"
+  }
+ },
+ "gauguinpro": {
+  "internal_name": "J17",
+  "name": "Redmi Note 9 Pro",
+  "models": {
+   "`M2007J17C`": "Redmi Note 9 Pro 5G China"
   }
  },
  "atom": {
