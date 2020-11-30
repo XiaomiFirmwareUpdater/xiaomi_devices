@@ -1,5 +1,11 @@
 [
  {
+  "angelicain": {
+   "name": "POCO C3",
+   "model": "M2006C3MI"
+  }
+ },
+ {
   "lmi": {
    "name": "POCO F2 Pro",
    "model": "POCO F2 Pro"
@@ -15,6 +21,18 @@
   "gram": {
    "name": "POCO M2 Pro",
    "model": "POCO M2 Pro"
+  }
+ },
+ {
+  "citrus": {
+   "name": "POCO M3",
+   "model": "M2010J19CG"
+  }
+ },
+ {
+  "citrus": {
+   "name": "POCO M3",
+   "model": "M2010J19CI"
   }
  },
  {
@@ -198,6 +216,12 @@
   }
  },
  {
+  "lime": {
+   "name": "Redmi 9 Power",
+   "model": "M2010J19SI"
+  }
+ },
+ {
   "lancelot": {
    "name": "Redmi 9 Prime",
    "model": "M2004J19C"
@@ -312,6 +336,12 @@
   }
  },
  {
+  "apollo": {
+   "name": "Redmi K30S Ultra",
+   "model": "M2007J3SC"
+  }
+ },
+ {
   "picasso": {
    "name": "Redmi K30i 5G",
    "model": "Redmi K30i 5G"
@@ -360,6 +390,12 @@
   }
  },
  {
+  "cannon": {
+   "name": "Redmi Note 9",
+   "model": "M2007J22C"
+  }
+ },
+ {
   "merlin": {
    "name": "Redmi Note 9",
    "model": "M2003J15SC"
@@ -369,6 +405,12 @@
   "merlinnfc": {
    "name": "Redmi Note 9",
    "model": "M2003J15SC"
+  }
+ },
+ {
+  "lime": {
+   "name": "Redmi Note 9 4G",
+   "model": "M2010J19SC"
   }
  },
  {
@@ -1022,6 +1064,12 @@
  {
   "apollo": {
    "name": "Mi 10T",
+   "model": "M2007J3SP"
+  }
+ },
+ {
+  "apollo": {
+   "name": "Mi 10T",
    "model": "M2007J3SY"
   }
  },
@@ -1035,6 +1083,18 @@
   "apollo": {
    "name": "Mi 10T Pro",
    "model": "M2007J3SG"
+  }
+ },
+ {
+  "apollo": {
+   "name": "Mi 10T pro",
+   "model": "M2007J3SI"
+  }
+ },
+ {
+  "gauguininpro": {
+   "name": "Mi 10i",
+   "model": "M2007J17I"
   }
  },
  {
@@ -1527,6 +1587,12 @@
   "ugglite": {
    "name": "Redmi Note 5A",
    "model": "Redmi Note 5A"
+  }
+ },
+ {
+  "ginkgo": {
+   "name": "Redmi Note 8",
+   "model": "Redmi Note 8"
   }
  },
  {
