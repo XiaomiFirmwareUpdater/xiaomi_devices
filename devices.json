@@ -115,6 +115,10 @@
     "display_name": "小米手机4 电信4G版",
     "display_name_en": ""
   },
+  "cannon": {
+    "display_name": "Redmi Note 9",
+    "display_name_en": "Redmi Note 9"
+  },
   "cappu": {
     "display_name": "小米平板3",
     "display_name_en": "MI PAD 3"
@@ -274,6 +278,10 @@
   "ferrari_global": {
     "display_name": "小米手机4i 国际版",
     "display_name_en": "Mi 4i Global"
+  },
+  "gauguin": {
+    "display_name": "Redmi Note 9 Pro",
+    "display_name_en": "Redmi Note 9 Pro"
   },
   "gemini": {
     "display_name": "小米手机5",
@@ -466,6 +474,10 @@
   "libra": {
     "display_name": "小米手机4c",
     "display_name_en": "Mi-4c"
+  },
+  "lime": {
+    "display_name": "Redmi Note 9 4G",
+    "display_name_en": "Redmi Note 9 4G"
   },
   "lithium": {
     "display_name": "小米MIX",
