@@ -1332,6 +1332,12 @@
   }
  },
  {
+  "tarzan": {
+   "name": "MiTV",
+   "model": "MiTV-MOOQ1"
+  }
+ },
+ {
   "volver": {
    "name": "MiTV",
    "model": "MiTV-MSSP2"
