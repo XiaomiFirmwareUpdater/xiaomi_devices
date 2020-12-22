@@ -22,6 +22,8 @@
  "apollo_global": "JDMI",
  "apollo_id_global": "JDID",
  "apollo_in_global": "JDIN",
+ "apollo_ru_global": "JDRU",
+ "apollo_tr_global": "JDTR",
  "aqua": "AJCN",
  "aries": "XACN",
  "aries_global": "XAMI",
