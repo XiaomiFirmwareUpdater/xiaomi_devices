@@ -7,6 +7,7 @@ cactus - F
 cancro - F
 cancro - F
 cancro_lte_ct - F
+cannon - F
 cappu - F
 capricorn - F
 cas - F
@@ -21,6 +22,7 @@ dandelion - F
 davinci - F
 dipper - F
 equuleus - F
+gauguin - F
 gemini - F
 ginkgo - F
 grus - F
@@ -34,6 +36,7 @@ latte - F
 laurus - F
 lavender - F
 libra - F
+lime - F
 lithium - F
 lmi - F
 lotus - F
