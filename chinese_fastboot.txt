@@ -79,6 +79,7 @@ umi - F
 ursa - F
 vangogh - F
 vela - F
+venus - F
 vince - F
 violet - F
 wayne - F
