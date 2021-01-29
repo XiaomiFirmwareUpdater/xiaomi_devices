@@ -20,6 +20,10 @@ begonia_ru_global - F
 beryllium_global - F
 cactus_global - F
 cancro_global - F
+cannong_eea_global - F
+cannong_global - F
+cannong_ru_global - F
+cannong_tw_global - F
 capricorn_global - F
 cattail_in_global - F
 cepheus_eea_global - F
