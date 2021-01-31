@@ -35,6 +35,10 @@
   "Mi MIX 2",
   "MIMix2"
  ],
+ "citrus": [
+  "POCO M3",
+  "POCOM3"
+ ],
  "cmi": [
   "Mi 10 Pro",
   "MI10Pro"
@@ -66,6 +70,10 @@
  "excalibur": [
   "Redmi Note 9 Pro Max",
   "HMNote9ProMax"
+ ],
+ "gauguin": [
+  "Mi 10T Lite / Mi 10i / Redmi Note 9 Pro China",
+  "HMNote9Pro5G_MI10TLite"
  ],
  "gemini": [
   "Mi 5 / Pro",
@@ -118,6 +126,10 @@
  "lavender": [
   "Redmi Note 7",
   "HMNote7"
+ ],
+ "lime": [
+  "Redmi 9T / Redmi Note 9 4G China",
+  "HMNote94G_HM9T"
  ],
  "lithium": [
   "Mi MIX",
@@ -294,6 +306,10 @@
  "vangogh": [
   "Mi 10 Lite Zoom China",
   "MI10LiteZoom"
+ ],
+ "venus": [
+  "Mi 11",
+  "MI11"
  ],
  "vince": [
   "Redmi 5 Plus",
