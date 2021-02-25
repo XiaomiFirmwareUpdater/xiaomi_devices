@@ -1115,6 +1115,20 @@
    "`M2006J10C`": "Redmi K30 Ultra China"
   }
  },
+ "alioth": {
+  "internal_name": "K11A",
+  "name": "Redmi K40",
+  "models": {
+   "`M2012K11AC`": "Redmi K40 China"
+  }
+ },
+ "haydn": {
+  "internal_name": "K11",
+  "name": "Redmi K40 Pro / Redmi K40 Pro+",
+  "models": {
+   "`M2012K11C`": "Redmi K40 Pro China / Redmi K40 Pro+ China"
+  }
+ },
  "omega": {
   "internal_name": "H3C",
   "name": "Redmi Pro",
