@@ -348,6 +348,24 @@
   }
  },
  {
+  "alioth": {
+   "name": "Redmi K40",
+   "model": "M2012K11AC"
+  }
+ },
+ {
+  "haydn": {
+   "name": "Redmi K40 Pro",
+   "model": "M2012K11C"
+  }
+ },
+ {
+  "haydn": {
+   "name": "Redmi K40 Pro +",
+   "model": "M2012K11C"
+  }
+ },
+ {
   "lavender": {
    "name": "Redmi Note 7",
    "model": "Redmi Note 7"
@@ -1104,6 +1122,12 @@
   }
  },
  {
+  "renoir": {
+   "name": "Mi 11 Lite 5G",
+   "model": "M2101K9G"
+  }
+ },
+ {
   "pisces": {
    "name": "Mi 3",
    "model": "MI 3"
@@ -1299,6 +1323,12 @@
   "amelie": {
    "name": "MiTV",
    "model": "MiTV-MSSP0"
+  }
+ },
+ {
+  "croods": {
+   "name": "MiTV",
+   "model": "MiTV-MOOQ0"
   }
  },
  {
