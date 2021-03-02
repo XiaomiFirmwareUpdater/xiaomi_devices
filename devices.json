@@ -19,6 +19,10 @@
     "display_name": "红米手机1S TD 4G版",
     "display_name_en": ""
   },
+  "alioth": {
+    "display_name": "Redmi K40",
+    "display_name_en": "Redmi K40"
+  },
   "apollo": {
     "display_name": "Redmi K30S 至尊纪念版",
     "display_name_en": "Redmi K30S Ultra"
@@ -322,6 +326,10 @@
   "hammerhead": {
     "display_name": "Google Nexus 5",
     "display_name_en": ""
+  },
+  "haydn": {
+    "display_name": "Redmi K40 Pro",
+    "display_name_en": "Redmi K40 Pro"
   },
   "helium": {
     "display_name": "小米Max 高配版",
