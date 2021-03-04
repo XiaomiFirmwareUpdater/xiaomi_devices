@@ -1,4 +1,8 @@
 {
+ "alioth": [
+  "Redmi K40/POCO F3/Mi 11X",
+  "HMK40"
+ ],
  "andromeda": [
   "Mi MIX 3 5G",
   "MIMix35G"
@@ -86,6 +90,10 @@
  "ginkgo": [
   "Redmi Note 8",
   "HMNote8"
+ ],
+ "haydn": [
+  "Redmi K40 Pro/+ / Mi 11X Pro",
+  "HMK40Pro"
  ],
  "helium": [
   "Mi Max Pro",
