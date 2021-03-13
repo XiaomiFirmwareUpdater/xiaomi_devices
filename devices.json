@@ -366,9 +366,27 @@
   }
  },
  {
+  "sunny": {
+   "name": "Redmi Note 10",
+   "model": "M2101K7AG"
+  }
+ },
+ {
   "sweet": {
    "name": "Redmi Note 10 Pro",
    "model": "M2101K6G"
+  }
+ },
+ {
+  "sweetin": {
+   "name": "Redmi Note 10 Pro",
+   "model": "M2101K6P"
+  }
+ },
+ {
+  "sweetin": {
+   "name": "Redmi Note 10 Pro Max",
+   "model": "M2101K6I"
   }
  },
  {
@@ -1083,6 +1101,18 @@
   "monet": {
    "name": "Mi 10 lite 5G",
    "model": "M2002J9S"
+  }
+ },
+ {
+  "thyme": {
+   "name": "Mi 10S",
+   "model": "M2102J2SC"
+  }
+ },
+ {
+  "thyme": {
+   "name": "Mi 10S",
+   "model": "Thyme"
   }
  },
  {
