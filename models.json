@@ -250,7 +250,7 @@
   }
  },
  "vangogh": {
-  "internal_name": "J9",
+  "internal_name": "J9A",
   "name": "Mi 10 Lite Zoom",
   "models": {
    "`M2002J9E`": "Mi 10 Lite Zoom China"
@@ -1165,7 +1165,7 @@
   "internal_name": "J11",
   "name": "Redmi K30 Pro Zoom Edition",
   "models": {
-   "`M2001J11E`": "Redmi K30 Pro Zoom Edition China"
+   "`M2001J11C` `M2001J11E`": "Redmi K30 Pro Zoom Edition China"
   }
  },
  "cezanne": {
