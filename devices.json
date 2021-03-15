@@ -92,7 +92,7 @@
   "HMNote8"
  ],
  "haydn": [
-  "Redmi K40 Pro/+ / Mi 11X Pro",
+  "Redmi K40 Pro/+ / Mi 11i / Mi 11X Pro",
   "HMK40Pro"
  ],
  "helium": [
@@ -267,7 +267,7 @@
   "Redmi 6 Pro",
   "HM6Pro"
  ],
- "santon": [
+ "santoni": [
   "Redmi 4X",
   "HM4X"
  ],
@@ -290,6 +290,10 @@
  "sweet": [
   "Redmi Note 10 Pro",
   "HMNote10Pro"
+ ],
+ "thyme": [
+  "Mi 10S",
+  "MI10S"
  ],
  "tiffany": [
   "Mi 5X ",
