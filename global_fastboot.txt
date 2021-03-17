@@ -104,6 +104,10 @@ merlin_id_global - F
 merlin_in_global - F
 merlin_ru_global - F
 mido_global - F
+mojito_eea_global - F
+mojito_global - F
+mojito_ru_global - F
+mojito_tr_global - F
 monet_eea_global - F
 monet_global - F
 natrium_global - F
@@ -157,6 +161,15 @@ surya_global - F
 surya_id_global - F
 surya_in_global - F
 surya_ru_global - F
+sweet_eea_global - F
+sweet_global - F
+sweet_id_global - F
+sweet_id_global - F
+sweet_in_global - F
+sweet_in_global - F
+sweet_ru_global - F
+sweet_tr_global - F
+sweet_tw_global - F
 tiare_eea_global - F
 tiare_global - F
 tiare_in_global - F

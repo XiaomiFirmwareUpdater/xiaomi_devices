@@ -360,15 +360,15 @@
   "item_identify": ""
  },
  {
-  "id": "1700316",
-  "name": "Xiaomi Mi Note 2",
-  "pic_url": "https://u01.appmifile.com/images/2019/07/04/24248423-2377-40a3-95be-76bdd78588c1.png",
-  "item_identify": ""
- },
- {
   "id": "1700354",
   "name": "Mi A2 Lite",
   "pic_url": "https://u01.appmifile.com/images/2019/07/04/a9e0ae65-ceb3-46f1-bef8-f926055088df.png",
+  "item_identify": ""
+ },
+ {
+  "id": "1700316",
+  "name": "Xiaomi Mi Note 2",
+  "pic_url": "https://u01.appmifile.com/images/2019/07/04/24248423-2377-40a3-95be-76bdd78588c1.png",
   "item_identify": ""
  },
  {
@@ -393,6 +393,18 @@
   "id": "1900387",
   "name": "POCO M3",
   "pic_url": "https://i02.appmifile.com/864_bbs_en/08/01/2021/98de761810.png",
+  "item_identify": ""
+ },
+ {
+  "id": "1900389",
+  "name": "Redmi Note10 Pro",
+  "pic_url": "https://i02.appmifile.com/722_bbs_en/17/03/2021/0a1f35dd47.jpeg",
+  "item_identify": ""
+ },
+ {
+  "id": "1900390",
+  "name": "Redmi Note 10",
+  "pic_url": "0",
   "item_identify": ""
  }
 ]
