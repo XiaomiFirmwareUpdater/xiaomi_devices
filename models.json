@@ -1158,7 +1158,7 @@
   "name": "Redmi K30 Pro/POCO F2 Pro",
   "models": {
    "`M2001J11C`": "Redmi K30 Pro China",
-   "`M2004J11G`": "POCO F2 Pro"
+   "`M2004J11G`": "POCO F2 Pro Global"
   }
  },
  "lmipro": {
@@ -1177,16 +1177,18 @@
  },
  "alioth": {
   "internal_name": "K11A",
-  "name": "Redmi K40",
+  "name": "Redmi K40/POCO F3",
   "models": {
-   "`M2012K11AC`": "Redmi K40 China"
+   "`M2012K11AC`": "Redmi K40 China",
+   "`M2012K11AG`": "POCO F3 Global"
   }
  },
  "haydn": {
   "internal_name": "K11",
-  "name": "Redmi K40 Pro / Redmi K40 Pro+",
+  "name": "Redmi K40 Pro / Redmi K40 Pro+/POCO F3 Pro",
   "models": {
-   "`M2012K11C`": "Redmi K40 Pro China / Redmi K40 Pro+ China"
+   "`M2012K11C`": "Redmi K40 Pro China / Redmi K40 Pro+ China",
+   "`M2012K11G`": "POCO F3 Pro Global"
   }
  },
  "omega": {
@@ -1251,6 +1253,13 @@
   "models": {
    "`M2007J20CG`": "POCO X3 NFC Global",
    "`M2007J20CT`": "POCO X3 NFC Thailand"
+  }
+ },
+ "vayu": {
+  "internal_name": "J20S",
+  "name": "POCO X3 Pro",
+  "models": {
+   "`M2102J20SG`": "POCO X3 Pro Global"
   }
  },
  "shiva": {
@@ -1328,6 +1337,20 @@
   "models": {
    "`MBU-H0`": "Black Shark 3 Pro Global",
    "`MBU-A0`": "Black Shark 3 Pro China"
+  }
+ },
+ "penrose": {
+  "internal_name": "",
+  "name": "Black Shark 4 (`penrose`)",
+  "models": {
+   "`PRS-A0`": "Black Shark 4 China"
+  }
+ },
+ "kaiser": {
+  "internal_name": "",
+  "name": "Black Shark 4 Pro (`kaiser`)",
+  "models": {
+   "`KSR-A0`": "Black Shark 4 Pro China"
   }
  }
 }
