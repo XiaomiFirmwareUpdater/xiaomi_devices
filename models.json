@@ -303,6 +303,59 @@
    "`M2011K2C`": "Mi 11 China"
   }
  },
+ "mars": {
+  "internal_name": "K1A",
+  "name": "Mi 11 Pro",
+  "models": {
+   "`M2102K1AC`": "Mi 11 Pro China"
+  }
+ },
+ "star": {
+  "internal_name": "K1",
+  "name": "Mi 11 Ultra",
+  "models": {
+   "`M2102K1C`": "Mi 11 Ultra China",
+   "`M2102K1G`": "Mi 11 Ultra Global"
+  }
+ },
+ "renoir": {
+  "internal_name": "K9",
+  "name": "Mi 11 Lite 5G",
+  "models": {
+   "`M2101K9C`": "Mi 11 Lite 5G China",
+   "`M2101K9G`": "Mi 11 Lite 5G Global"
+  }
+ },
+ "courbet": {
+  "internal_name": "K9A",
+  "name": "Mi 11 Lite",
+  "models": {
+   "`M2101K9AG`": "Mi 11 Lite 4G Global",
+   "`M2101K9AI`": "Mi 11 Lite 4G India"
+  }
+ },
+ "haydn": {
+  "internal_name": "K11",
+  "name": "Mi 11i/Redmi K40 Pro / Redmi K40 Pro+",
+  "models": {
+   "`M2012K11G`": "Mi 11i Global",
+   "`M2012K11C`": "Redmi K40 Pro China / Redmi K40 Pro+ China"
+  }
+ },
+ "aliothin": {
+  "internal_name": "K11A",
+  "name": "Mi 11X",
+  "models": {
+   "`M2012K11AI`": "Mi 11X India"
+  }
+ },
+ "haydnin": {
+  "internal_name": "K11",
+  "name": "Mi 11X Pro",
+  "models": {
+   "`M2012K11I`": "Mi 11X Pro India"
+  }
+ },
  "virgo": {
   "internal_name": "X5",
   "name": "Mi Note",
@@ -806,7 +859,7 @@
   "internal_name": "J19S",
   "name": "Redmi 9T",
   "models": {
-   "`M2010J19SY`": "Redmi 9T Global",
+   "`M2010J19SY`": "Redmi 9T Global (NFC)",
    "`M2010J19SL`": "Redmi 9T Brazil"
   }
  },
@@ -1016,7 +1069,8 @@
   "name": "Redmi Note 9T",
   "models": {
    "`M2007J22G`": "Redmi Note 9T 5G Global",
-   "`M2007J22R`": "Redmi Note 9T 5G Japan"
+   "`M2007J22R`": "Redmi Note 9T 5G Japan",
+   "`A001XM`": "Redmi Note 9T 5G SoftBank"
   }
  },
  "curtana": {
@@ -1181,14 +1235,6 @@
   "models": {
    "`M2012K11AC`": "Redmi K40 China",
    "`M2012K11AG`": "POCO F3 Global"
-  }
- },
- "haydn": {
-  "internal_name": "K11",
-  "name": "Redmi K40 Pro / Redmi K40 Pro+/POCO F3 Pro",
-  "models": {
-   "`M2012K11C`": "Redmi K40 Pro China / Redmi K40 Pro+ China",
-   "`M2012K11G`": "POCO F3 Pro Global"
   }
  },
  "omega": {
