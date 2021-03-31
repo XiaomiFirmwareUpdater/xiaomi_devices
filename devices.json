@@ -1,7 +1,7 @@
 {
  "alioth": [
   "Redmi K40/POCO F3/Mi 11X",
-  "HMK40"
+  "HMK40_POCOF3"
  ],
  "andromeda": [
   "Mi MIX 3 5G",
@@ -97,7 +97,7 @@
  ],
  "haydn": [
   "Redmi K40 Pro/+ / Mi 11i / Mi 11X Pro",
-  "HMK40Pro"
+  "HMK40Pro_MI11i"
  ],
  "helium": [
   "Mi Max Pro",
