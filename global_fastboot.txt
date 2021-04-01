@@ -195,6 +195,13 @@ umi_global - F
 umi_id_global - F
 umi_in_global - F
 umi_ru_global - F
+vayu_eea_global - F
+vayu_global - F
+vayu_id_global - F
+vayu_in_global - F
+vayu_ru_global - F
+vayu_tr_global - F
+vayu_tw_global - F
 venus_eea_global - F
 venus_global - F
 venus_id_global - F
