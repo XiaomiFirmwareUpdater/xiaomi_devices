@@ -35,6 +35,7 @@ citrus_eea_global - F
 citrus_global - F
 citrus_id_global - F
 citrus_in_global - F
+citrus_ru_global - F
 cmi_eea_global - F
 cmi_global - F
 cmi_in_global - F
