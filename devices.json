@@ -159,6 +159,10 @@
   "Redmi 4 Prime/Pro",
   "HM4Pro"
  ],
+ "mars": [
+  "Mi 11 Pro",
+  "MI11Pro_MI11Ultra"
+ ],
  "merlin": [
   "Redmi Note 9/Redmi 10X 4G",
   "HM10X_HMNote9"
@@ -286,6 +290,10 @@
  "sirius": [
   "Mi 8 SE",
   "MI8SE"
+ ],
+ "star": [
+  "Mi 11 Ultra",
+  "MI11Pro_MI11Ultra"
  ],
  "sunny": [
   "Redmi Note 10",
