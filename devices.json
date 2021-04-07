@@ -751,6 +751,10 @@
     "display_name": "Redmi K20 Pro 印度版",
     "display_name_en": "Redmi K20 Pro  india"
   },
+  "renoir": {
+    "display_name": "XM-RENOIR",
+    "display_name_en": "XM-RENOIR"
+  },
   "riva": {
     "display_name": "红米手机5A",
     "display_name_en": "Redmi 5A"
@@ -830,6 +834,10 @@
   "sirius_global": {
     "display_name": "SIRIUS-GLOBAL",
     "display_name_en": "SIRIUS-GLOBAL"
+  },
+  "star": {
+    "display_name": "XM-STAR",
+    "display_name_en": "XM-STAR"
   },
   "taurus": {
     "display_name": "小米手机2A",
