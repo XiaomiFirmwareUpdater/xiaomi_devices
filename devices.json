@@ -752,8 +752,8 @@
     "display_name_en": "Redmi K20 Pro  india"
   },
   "renoir": {
-    "display_name": "XM-RENOIR",
-    "display_name_en": "XM-RENOIR"
+    "display_name": "小米11 青春版",
+    "display_name_en": "Mi 11 Lite 5G"
   },
   "riva": {
     "display_name": "红米手机5A",
@@ -836,12 +836,16 @@
     "display_name_en": "SIRIUS-GLOBAL"
   },
   "star": {
-    "display_name": "XM-STAR",
-    "display_name_en": "XM-STAR"
+    "display_name": "小米11 Ultra/小米11 Pro",
+    "display_name_en": "Mi 11 Ultra/Mi 11 Pro"
   },
   "taurus": {
     "display_name": "小米手机2A",
     "display_name_en": "MI 2A"
+  },
+  "thyme": {
+    "display_name": "小米10S",
+    "display_name_en": "Mi 10S"
   },
   "tiffany": {
     "display_name": "小米手机5X",
