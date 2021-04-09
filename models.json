@@ -314,16 +314,16 @@
   "internal_name": "K1",
   "name": "Mi 11 Ultra",
   "models": {
-   "`M2102K1C`": "Mi 11 Ultra China",
-   "`M2102K1G`": "Mi 11 Ultra Global"
+   "`M2102K1G`": "Mi 11 Ultra Global",
+   "`M2102K1C`": "Mi 11 Ultra China"
   }
  },
  "renoir": {
   "internal_name": "K9",
   "name": "Mi 11 Lite 5G",
   "models": {
-   "`M2101K9C`": "Mi 11 Lite 5G China",
-   "`M2101K9G`": "Mi 11 Lite 5G Global"
+   "`M2101K9G`": "Mi 11 Lite 5G Global",
+   "`M2101K9C`": "Mi 11 Lite 5G China"
   }
  },
  "courbet": {
@@ -866,7 +866,13 @@
   "internal_name": "J19S",
   "name": "Redmi 9T",
   "models": {
-   "`M2010J19SY`": "Redmi 9T Global (NFC)",
+   "`M2010J19SY`": "Redmi 9T Global (NFC)"
+  }
+ },
+ "pomelo": {
+  "internal_name": "J19S",
+  "name": "Redmi 9T",
+  "models": {
    "`M2010J19SL`": "Redmi 9T Brazil"
   }
  },
@@ -1077,7 +1083,7 @@
   "models": {
    "`M2007J22G`": "Redmi Note 9T 5G Global",
    "`M2007J22R`": "Redmi Note 9T 5G Japan",
-   "`A001XM`": "Redmi Note 9T 5G SoftBank"
+   "`A001XM`": "Redmi Note 9T 5G Japan (SoftBank)"
   }
  },
  "curtana": {
