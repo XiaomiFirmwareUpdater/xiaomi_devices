@@ -54,6 +54,18 @@
   }
  },
  {
+  "bhima": {
+   "name": "POCO X3 Pro",
+   "model": "M2102J20SI"
+  }
+ },
+ {
+  "vayu": {
+   "name": "POCO X3 Pro",
+   "model": "M2102J20SG"
+  }
+ },
+ {
   "lmi": {
    "name": "K30 PRO",
    "model": "Lmi"
@@ -282,6 +294,24 @@
   }
  },
  {
+  "lemon": {
+   "name": "Redmi 9T",
+   "model": "M2010J19SY"
+  }
+ },
+ {
+  "lime": {
+   "name": "Redmi 9T",
+   "model": "M2010J19SG"
+  }
+ },
+ {
+  "pomelo": {
+   "name": "Redmi 9T",
+   "model": "M2010J19SL"
+  }
+ },
+ {
   "davinci": {
    "name": "Redmi K20",
    "model": "Mi 9T"
@@ -354,6 +384,12 @@
   }
  },
  {
+  "alioth": {
+   "name": "Redmi K40",
+   "model": "M2012K11AG"
+  }
+ },
+ {
   "haydn": {
    "name": "Redmi K40 Pro",
    "model": "M2012K11C"
@@ -369,6 +405,12 @@
   "sunny": {
    "name": "Redmi Note 10",
    "model": "M2101K7AG"
+  }
+ },
+ {
+  "sunny": {
+   "name": "Redmi Note 10",
+   "model": "M2101K7AI"
   }
  },
  {
@@ -411,6 +453,12 @@
   "begonia": {
    "name": "Redmi Note 8 Pro",
    "model": "Redmi Note 8 Pro"
+  }
+ },
+ {
+  "begonia": {
+   "name": "Redmi Note 8 Pro",
+   "model": "begonia"
   }
  },
  {
@@ -495,6 +543,18 @@
   "curtana": {
    "name": "Redmi Note 9S",
    "model": "Redmi Note 9S"
+  }
+ },
+ {
+  "cannong": {
+   "name": "Redmi Note 9T",
+   "model": "A001XM"
+  }
+ },
+ {
+  "cannong": {
+   "name": "Redmi Note 9T",
+   "model": "M2007J22G"
   }
  },
  {
@@ -1155,6 +1215,48 @@
   "venus": {
    "name": "Mi 11",
    "model": "M2011K2C"
+  }
+ },
+ {
+  "venus": {
+   "name": "Mi 11",
+   "model": "M2011K2G"
+  }
+ },
+ {
+  "courbet": {
+   "name": "Mi 11 Lite",
+   "model": "M2101K9AG"
+  }
+ },
+ {
+  "renoir": {
+   "name": "Mi 11 Lite 5G",
+   "model": "M2101K9C"
+  }
+ },
+ {
+  "renoir": {
+   "name": "Mi 11 Lite 5G",
+   "model": "M2101K9G"
+  }
+ },
+ {
+  "mars": {
+   "name": "Mi 11 Pro",
+   "model": "M2102K1AC"
+  }
+ },
+ {
+  "star": {
+   "name": "Mi 11 Ultra",
+   "model": "M2102K1C"
+  }
+ },
+ {
+  "star": {
+   "name": "Mi 11 Ultra",
+   "model": "M2102K1G"
   }
  },
  {
