@@ -220,6 +220,8 @@
  "mocha_global": "XFMI",
  "mojito_eea_global": "KGEU",
  "mojito_global": "KGMI",
+ "mojito_id_global": "KGID",
+ "mojito_ru_global": "KGRU",
  "monet_eea_global": "JIEU",
  "monet_global": "JIMI",
  "monet_tw_global": "JITW",
