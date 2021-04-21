@@ -111,6 +111,8 @@ merlin_ru_global - F
 mido_global - F
 mojito_eea_global - F
 mojito_global - F
+mojito_id_global - F
+mojito_in_global - F
 mojito_ru_global - F
 mojito_tr_global - F
 monet_eea_global - F
@@ -137,7 +139,7 @@ onclite_ru_global - F
 oxygen_global - F
 perseus_global - F
 perseus_ru_global - F
-phoenix_global - F
+phoenixin_global - F
 phoenixin_in_global - F
 pine_eea_global - F
 pine_global - F
@@ -169,8 +171,6 @@ surya_ru_global - F
 sweet_eea_global - F
 sweet_global - F
 sweet_id_global - F
-sweet_id_global - F
-sweet_in_global - F
 sweet_in_global - F
 sweet_ru_global - F
 sweet_tr_global - F
