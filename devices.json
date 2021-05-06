@@ -570,6 +570,12 @@
   }
  },
  {
+  "tarzan": {
+   "name": "Smart TV",
+   "model": "MiTV-MOOQ3"
+  }
+ },
+ {
   "braveheart": {
    "name": "China",
    "model": "MiTV"
