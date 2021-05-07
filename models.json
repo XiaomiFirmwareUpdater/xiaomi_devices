@@ -1128,7 +1128,8 @@
   "internal_name": "K7B",
   "name": "Redmi Note 10S",
   "models": {
-   "`M2101K7BG`": "Redmi Note 10S Global"
+   "`M2101K7BG`": "Redmi Note 10S Global",
+   "`M2101K7BI`": "Redmi Note 10S India"
   }
  },
  "rosemary": {
@@ -1145,18 +1146,12 @@
    "`M2101K7BL`": "Redmi Note 10S Brazil"
   }
  },
- "camellia": {
-  "internal_name": "K19",
-  "name": "Redmi Note 10 5G",
-  "models": {
-   "`M2103K19G`": "Redmi Note 10 5G Global"
-  }
- },
  "camellian": {
-  "internal_name": "K19",
-  "name": "Redmi Note 10 5G",
+  "internal_name": "K19/K19P",
+  "name": "Redmi Note 10 5G/POCO M3 Pro",
   "models": {
-   "`M2103K19Y`": "Redmi Note 10 5G Global (NFC)"
+   "`M2103K19G` `M2103K19Y`": "Redmi Note 10 5G Global",
+   "`M2103K19PG` `M2103K19PY`": "POCO M3 Pro 5G Global"
   }
  },
  "sweet": {
