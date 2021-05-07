@@ -444,6 +444,30 @@
   }
  },
  {
+  "maltose": {
+   "name": "Redmi Note 10S",
+   "model": "M2101K7BL"
+  }
+ },
+ {
+  "rosemary": {
+   "name": "Redmi Note 10S",
+   "model": "M2101K7BNY"
+  }
+ },
+ {
+  "secret": {
+   "name": "Redmi Note 10S",
+   "model": "M2101K7BG"
+  }
+ },
+ {
+  "secret": {
+   "name": "Redmi Note 10S",
+   "model": "M2101K7BI"
+  }
+ },
+ {
   "lavender": {
    "name": "Redmi Note 7",
    "model": "Redmi Note 7"
