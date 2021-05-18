@@ -1038,6 +1038,13 @@
    "`M1908C3XG`": "Redmi Note 8T Global"
   }
  },
+ "biloba": {
+  "internal_name": "C3JG",
+  "name": "Redmi Note 8",
+  "models": {
+   "`M1908C3JGG`": "Redmi Note 8 (2021) Global"
+  }
+ },
  "begonia": {
   "internal_name": "G7",
   "name": "Redmi Note 8 Pro",
