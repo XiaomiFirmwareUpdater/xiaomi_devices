@@ -408,6 +408,12 @@
   }
  },
  {
+  "camellia": {
+   "name": "Redmi Note 10",
+   "model": "M2103K19C"
+  }
+ },
+ {
   "sunny": {
    "name": "Redmi Note 10",
    "model": "M2101K7AG"
@@ -444,6 +450,12 @@
   }
  },
  {
+  "chopin": {
+   "name": "Redmi Note 10 pro",
+   "model": "M2104K10AC"
+  }
+ },
+ {
   "maltose": {
    "name": "Redmi Note 10S",
    "model": "M2101K7BL"
@@ -471,6 +483,12 @@
   "lavender": {
    "name": "Redmi Note 7",
    "model": "Redmi Note 7"
+  }
+ },
+ {
+  "biloba": {
+   "name": "Redmi Note 8",
+   "model": "M1908C3JGG"
   }
  },
  {
@@ -1299,6 +1317,12 @@
   "star": {
    "name": "Mi 11 Ultra",
    "model": "M2102K1G"
+  }
+ },
+ {
+  "haydn": {
+   "name": "Mi 11i",
+   "model": "M2012K11G"
   }
  },
  {
