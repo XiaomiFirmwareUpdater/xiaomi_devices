@@ -169,6 +169,13 @@ raphaelin_in_global - F
 renoir_tw_global - F
 riva_global - F
 rolex_global - F
+rosemary_eea_global - F
+rosemary_global - F
+rosemary_id_global - F
+rosemary_in_global - F
+rosemary_ru_global - F
+rosemary_tr_global - F
+rosemary_tw_global - F
 rosy_global - F
 rosy_ru_global - F
 sagit_global - F
