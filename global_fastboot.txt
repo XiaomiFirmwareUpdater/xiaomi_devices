@@ -80,6 +80,9 @@ gram_global - F
 gram_in_global - F
 grus_eea_global - F
 grus_global - F
+haydn_eea_global - F
+haydn_global - F
+haydn_in_global - F
 helium_global - F
 hydrogen_global - F
 jasmine_global - F
