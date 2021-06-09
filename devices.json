@@ -12,6 +12,12 @@
   }
  },
  {
+  "alioth": {
+   "name": "POCO F3",
+   "model": "M2012K11AG"
+  }
+ },
+ {
   "shiva": {
    "name": "POCO M2",
    "model": "M2004J19PI"
@@ -381,12 +387,6 @@
   "alioth": {
    "name": "Redmi K40",
    "model": "M2012K11AC"
-  }
- },
- {
-  "alioth": {
-   "name": "Redmi K40",
-   "model": "M2012K11AG"
   }
  },
  {
