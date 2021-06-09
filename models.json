@@ -1164,9 +1164,9 @@
  },
  "camelliain": {
   "internal_name": "K19/K19P",
-  "name": "Redmi Note 10 5G/POCO M3 Pro",
+  "name": "Redmi Note 10T 5G/POCO M3 Pro",
   "models": {
-   "`M2103K19I`": "Redmi Note 10 5G India",
+   "`M2103K19I`": "Redmi Note 10T 5G India",
    "`M2103K19PI`": "POCO M3 Pro 5G India"
   }
  },
