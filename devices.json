@@ -347,6 +347,14 @@
     "display_name": "Redmi K40 Pro",
     "display_name_en": "Redmi K40 Pro"
   },
+  "haydn_global": {
+    "display_name": "Mi 11i",
+    "display_name_en": "Mi 11i"
+  },
+  "haydn_in_global": {
+    "display_name": "Mi 11X Pro",
+    "display_name_en": "Mi 11X Pro"
+  },
   "helium": {
     "display_name": "小米Max 高配版",
     "display_name_en": "Mi Max Prime"
@@ -854,6 +862,26 @@
   "star": {
     "display_name": "小米11 Ultra/小米11 Pro",
     "display_name_en": "Mi 11 Ultra/Mi 11 Pro"
+  },
+  "star_eea_global": {
+    "display_name": "Mi 11 Ultra",
+    "display_name_en": "Mi 11 Ultra"
+  },
+  "star_global": {
+    "display_name": "Mi 11 Ultra",
+    "display_name_en": "Mi 11 Ultra"
+  },
+  "star_id_global": {
+    "display_name": "Mi 11 Ultra",
+    "display_name_en": "Mi 11 Ultra"
+  },
+  "star_in_global": {
+    "display_name": "Mi 11 Ultra",
+    "display_name_en": "Mi 11 Ultra"
+  },
+  "star_ru_global": {
+    "display_name": "Mi 11 Ultra",
+    "display_name_en": "Mi 11 Ultra"
   },
   "taurus": {
     "display_name": "小米手机2A",
