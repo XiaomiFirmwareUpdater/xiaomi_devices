@@ -245,8 +245,7 @@
   "models": {
    "`M2002J9G`": "Mi 10 Lite Global",
    "`M2002J9S`": "Mi 10 Lite Korea",
-   "`M2002J9R`": "Mi 10 Lite Japan",
-   "`XIG01`": "Mi 10 Lite Japan (NTT docomo)"
+   "`M2002J9R` `XIG01`": "Mi 10 Lite Japan (KDDI)"
   }
  },
  "vangogh": {
@@ -1089,8 +1088,7 @@
   "name": "Redmi Note 9T",
   "models": {
    "`M2007J22G`": "Redmi Note 9T 5G Global",
-   "`M2007J22R`": "Redmi Note 9T 5G Japan",
-   "`A001XM`": "Redmi Note 9T 5G Japan (SoftBank)"
+   "`M2007J22R` `A001XM`": "Redmi Note 9T 5G Japan (SoftBank)"
   }
  },
  "curtana": {
@@ -1439,31 +1437,31 @@
   "internal_name": "",
   "name": "Black Shark 3 (`klein`)/Black Shark 3S (`klein`)",
   "models": {
-   "`KLE-H0`": "Black Shark 3 Global",
-   "`KLE-A0`": "Black Shark 3S China"
+   "`SHARK KLE-H0`": "Black Shark 3 Global",
+   "`SHARK KLE-A0`": "Black Shark 3S China"
   }
  },
  "mobius": {
   "internal_name": "",
   "name": "Black Shark 3 Pro (`mobius`)",
   "models": {
-   "`MBU-H0`": "Black Shark 3 Pro Global",
-   "`MBU-A0`": "Black Shark 3 Pro China"
+   "`SHARK MBU-H0`": "Black Shark 3 Pro Global",
+   "`SHARK MBU-A0`": "Black Shark 3 Pro China"
   }
  },
  "penrose": {
   "internal_name": "",
   "name": "Black Shark 4 (`penrose`)",
   "models": {
-   "`PRS-H0`": "Black Shark 4 Global",
-   "`PRS-A0`": "Black Shark 4 China"
+   "`SHARK PRS-H0`": "Black Shark 4 Global",
+   "`SHARK PRS-A0`": "Black Shark 4 China"
   }
  },
  "kaiser": {
   "internal_name": "",
   "name": "Black Shark 4 Pro (`kaiser`)",
   "models": {
-   "`KSR-A0`": "Black Shark 4 Pro China"
+   "`SHARK KSR-A0`": "Black Shark 4 Pro China"
   }
  }
 }
