@@ -186,6 +186,8 @@ raphael_eea_global - F
 raphael_global - F
 raphael_ru_global - F
 raphaelin_in_global - F
+renoir_eea_global - F
+renoir_global - F
 renoir_tw_global - F
 riva_global - F
 rolex_global - F
