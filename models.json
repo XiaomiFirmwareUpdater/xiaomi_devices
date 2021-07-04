@@ -322,7 +322,8 @@
   "name": "Mi 11 Lite 5G",
   "models": {
    "`M2101K9G`": "Mi 11 Lite 5G Global",
-   "`M2101K9C`": "Mi 11 Lite 5G China"
+   "`M2101K9C`": "Mi 11 Lite 5G China",
+   "`M2101K9R`": "Mi 11 Lite 5G Japan"
   }
  },
  "courbet": {
@@ -1141,7 +1142,7 @@
   "internal_name": "K7BN",
   "name": "Redmi Note 10S",
   "models": {
-   "`M2101K7BN` `M2101K7BNY`": "Redmi Note 10S Global (NFC)"
+   "`M2101K7BNY`": "Redmi Note 10S Global (NFC)"
   }
  },
  "maltose": {
