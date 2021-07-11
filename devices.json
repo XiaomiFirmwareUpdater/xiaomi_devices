@@ -23,9 +23,105 @@
     "display_name": "Redmi K40",
     "display_name_en": "Redmi K40"
   },
+  "alioth_eea_global": {
+    "display_name": "POCO F3",
+    "display_name_en": "POCO F3"
+  },
+  "alioth_global": {
+    "display_name": "POCO F3",
+    "display_name_en": "POCO F3"
+  },
+  "alioth_id_global": {
+    "display_name": "POCO F3",
+    "display_name_en": "POCO F3"
+  },
+  "alioth_in_global": {
+    "display_name": "Mi 11X",
+    "display_name_en": "Mi 11X"
+  },
+  "alioth_ru_global": {
+    "display_name": "POCO F3",
+    "display_name_en": "POCO F3"
+  },
+  "alioth_tr_global": {
+    "display_name": "POCO F3",
+    "display_name_en": "POCO F3"
+  },
+  "alioth_tw_global": {
+    "display_name": "POCO F3",
+    "display_name_en": "POCO F3"
+  },
+  "angelica_eea_global": {
+    "display_name": "Redmi 9C",
+    "display_name_en": "Redmi 9C"
+  },
+  "angelica_global": {
+    "display_name": "Redmi 9C",
+    "display_name_en": "Redmi 9C"
+  },
+  "angelica_id_global": {
+    "display_name": "Redmi 9C",
+    "display_name_en": "Redmi 9C"
+  },
+  "angelica_lm_cr_global": {
+    "display_name": "Redmi 9C",
+    "display_name_en": "Redmi 9C"
+  },
+  "angelica_mx_tc_global": {
+    "display_name": "Redmi 9C",
+    "display_name_en": "Redmi 9C"
+  },
+  "angelica_tr_global": {
+    "display_name": "Redmi 9C",
+    "display_name_en": "Redmi 9C"
+  },
+  "angelicain_in_global": {
+    "display_name": "POCO C3",
+    "display_name_en": "POCO C3"
+  },
   "apollo": {
     "display_name": "Redmi K30S 至尊纪念版",
     "display_name_en": "Redmi K30S Ultra"
+  },
+  "apollo_cl_en_global": {
+    "display_name": "Mi 10 T/Mi 10 T Pro",
+    "display_name_en": "Mi 10 T/Mi 10 T Pro"
+  },
+  "apollo_eea_global": {
+    "display_name": "Mi 10T pro",
+    "display_name_en": "Mi 10T pro"
+  },
+  "apollo_eea_hg_global": {
+    "display_name": "Mi 10 T/Mi 10 T Pro",
+    "display_name_en": "Mi 10 T/Mi 10 T Pro"
+  },
+  "apollo_eea_or_global": {
+    "display_name": "Mi 10 T/Mi 10 T Pro",
+    "display_name_en": "Mi 10 T/Mi 10 T Pro"
+  },
+  "apollo_eea_sf_global": {
+    "display_name": "Mi 10 T/Mi 10 T Pro",
+    "display_name_en": "Mi 10 T/Mi 10 T Pro"
+  },
+  "apollo_eea_tf_global": {
+    "display_name": "Mi 10 T/Mi 10 T Pro",
+    "display_name_en": "Mi 10 T/Mi 10 T Pro"
+  },
+  "apollo_eea_ti_global": {
+    "display_name": "Mi 10 T/Mi 10 T Pro",
+    "display_name_en": "Mi 10 T/Mi 10 T Pro"
+  },
+  "apollo_eea_vf_global": {
+    "display_name": "Mi 10 T/Mi 10 T Pro",
+    "display_name_en": "Mi 10 T/Mi 10 T Pro"
+  },
+  "apollo_lm_cr_global": {
+    "display_name": "Mi 10 T/Mi 10 T Pro",
+    "display_name_en": "Mi 10 T/Mi 10 T Pro"
+  },
+  "apollo_mx_tc_global": {
+    "display_name": "Mi 10 T/Mi 10 T Pro",
+    "display_name_en": "Mi 10 T/Mi 10 T Pro"
   },
   "aqua": {
     "display_name": "小米手机4s",
@@ -47,13 +143,17 @@
     "display_name": "Redmi K40游戏增强版",
     "display_name_en": "Redmi K40 Gaming"
   },
+  "ares_global": {
+    "display_name": "POCO F3 GT",
+    "display_name_en": "POCO F3 GT"
+  },
+  "ares_in_global": {
+    "display_name": "POCO F3 GT",
+    "display_name_en": "POCO F3 GT"
+  },
   "aries": {
     "display_name": "小米手机2/2S",
     "display_name_en": "MI 2S"
-  },
-  "aries_alpha": {
-    "display_name": "小米手机2/2S 体验版",
-    "display_name_en": "MI 2S Alpha"
   },
   "aries_alpha_global": {
     "display_name": "小米手机2/2S 体验版国际版",
@@ -83,10 +183,6 @@
     "display_name": "BEGONIA-P70-GLOBAL",
     "display_name_en": "BEGONIA-P70-GLOBAL"
   },
-  "begonia_yunke": {
-    "display_name": "XM-G7-YUNKE",
-    "display_name_en": "XM-G7-YUNKE"
-  },
   "beryllium_global": {
     "display_name": "POCO F1 国际版",
     "display_name_en": "POCO F1 GLOBAL"
@@ -111,10 +207,6 @@
     "display_name": "小米手机3/4 WCDMA版",
     "display_name_en": "MI 3W / MI 4W"
   },
-  "cancro_alpha": {
-    "display_name": "小米手机3/4 WCDMA体验版",
-    "display_name_en": "MI 4W  Alpha"
-  },
   "cancro_alpha_global": {
     "display_name": "小米手机3/4 国际体验版",
     "display_name_en": "MI 4W Alpha Global"
@@ -123,21 +215,61 @@
     "display_name": "小米手机3/4 WCDMA国际版",
     "display_name_en": "MI 4W Global"
   },
-  "cancro_lte_ct": {
-    "display_name": "小米手机4 电信4G版",
-    "display_name_en": ""
-  },
   "cannon": {
     "display_name": "Redmi Note 9",
     "display_name_en": "Redmi Note 9"
   },
+  "cannong_eea_global": {
+    "display_name": "Redmi Note 9T",
+    "display_name_en": "Redmi Note 9T"
+  },
+  "cannong_eea_or_global": {
+    "display_name": "Redmi Note 9T",
+    "display_name_en": "Redmi Note 9T"
+  },
+  "cannong_eea_sf_global": {
+    "display_name": "Redmi Note 9T",
+    "display_name_en": "Redmi Note 9T"
+  },
+  "cannong_eea_tf_global": {
+    "display_name": "Redmi Note 9T",
+    "display_name_en": "Redmi Note 9T"
+  },
+  "cannong_eea_ti_global": {
+    "display_name": "Redmi Note 9T",
+    "display_name_en": "Redmi Note 9T"
+  },
+  "cannong_eea_vf_global": {
+    "display_name": "Redmi Note 9T",
+    "display_name_en": "Redmi Note 9T"
+  },
+  "cannong_global": {
+    "display_name": "Redmi Note 9T",
+    "display_name_en": "Redmi Note 9T"
+  },
+  "cannong_jp_sb_global": {
+    "display_name": "Redmi Note 9T",
+    "display_name_en": "Redmi Note 9T"
+  },
+  "cannong_lm_cr_global": {
+    "display_name": "Redmi Note 9T",
+    "display_name_en": "Redmi Note 9T"
+  },
+  "cannong_ru_global": {
+    "display_name": "Redmi Note 9T",
+    "display_name_en": "Redmi Note 9T"
+  },
+  "cannong_tr_global": {
+    "display_name": "Redmi Note 9T",
+    "display_name_en": "Redmi Note 9T"
+  },
+  "cannong_tw_global": {
+    "display_name": "Redmi Note 9T",
+    "display_name_en": "Redmi Note 9T"
+  },
   "cappu": {
     "display_name": "小米平板3",
     "display_name_en": "MI PAD 3"
-  },
-  "cappu_alpha": {
-    "display_name": "小米平板3体验版",
-    "display_name_en": ""
   },
   "cappu_alpha_global": {
     "display_name": "CAPPU-ALPHA-GLOBAL",
@@ -187,10 +319,6 @@
     "display_name": "小米MIX2",
     "display_name_en": "Mi MIX 2"
   },
-  "chiron_alpha": {
-    "display_name": "小米MIX2 体验版",
-    "display_name_en": "Mi MIX 2 Alpha"
-  },
   "chiron_alpha_global": {
     "display_name": "CHIRON-ALPHA-GLOBAL",
     "display_name_en": "CHIRON-ALPHA-GLOBAL"
@@ -202,6 +330,18 @@
   "chopin": {
     "display_name": "Redmi  Note 10 Pro",
     "display_name_en": "Redmi  Note 10 Pro"
+  },
+  "chopin_global": {
+    "display_name": "POCO X3 GT",
+    "display_name_en": "POCO X3 GT"
+  },
+  "chopin_id_global": {
+    "display_name": "POCO X3 GT",
+    "display_name_en": "POCO X3 GT"
+  },
+  "chopin_tr_global": {
+    "display_name": "POCO X3 GT",
+    "display_name_en": "POCO X3 GT"
   },
   "clover": {
     "display_name": "小米平板4",
@@ -216,12 +356,16 @@
     "display_name_en": "Mi 10 Pro"
   },
   "cmi_eea_global": {
-    "display_name": "小米10 Pro 欧盟版",
-    "display_name_en": "Mi 10 Pro-EEA-GLOBAL"
+    "display_name": "小米10 Pro",
+    "display_name_en": "Mi 10 Pro"
   },
   "cmi_global": {
-    "display_name": "小米10Pro 国际版",
-    "display_name_en": "Mi 10 Pro-GLOBAL"
+    "display_name": "小米10Pro",
+    "display_name_en": "Mi 10 Pro"
+  },
+  "cmi_hi2_global": {
+    "display_name": "小米10 Pro",
+    "display_name_en": "Mi 10 Pro"
   },
   "cmi_in_global": {
     "display_name": "小米10Pro 印度版",
@@ -235,7 +379,83 @@
     "display_name": "小米手机9Pro 5G",
     "display_name_en": "Mi 9Pro 5G"
   },
+  "curtana_dev_soter_global": {
+    "display_name": "Redmi Note 9S",
+    "display_name_en": "Redmi Note 9S"
+  },
+  "curtana_eea_global": {
+    "display_name": "Redmi Note 9S",
+    "display_name_en": "Redmi Note 9S"
+  },
+  "curtana_global": {
+    "display_name": "Redmi Note 9S",
+    "display_name_en": "Redmi Note 9S"
+  },
+  "curtana_in_global": {
+    "display_name": "Redmi Note 9S",
+    "display_name_en": "Redmi Note 9S"
+  },
+  "curtana_mx_at_global": {
+    "display_name": "Redmi Note 9S",
+    "display_name_en": "Redmi Note 9S"
+  },
+  "curtana_mx_tc_global": {
+    "display_name": "Redmi Note 9S",
+    "display_name_en": "Redmi Note 9S"
+  },
+  "curtana_ru_global": {
+    "display_name": "Redmi Note 9S",
+    "display_name_en": "Redmi Note 9S"
+  },
+  "curtana_tr_global": {
+    "display_name": "Redmi Note 9S",
+    "display_name_en": "Redmi Note 9S"
+  },
   "dandelion": {
+    "display_name": "Redmi 9A",
+    "display_name_en": "Redmi 9A"
+  },
+  "dandelion_eea_global": {
+    "display_name": "Redmi 9A",
+    "display_name_en": "Redmi 9A"
+  },
+  "dandelion_eea_ti_global": {
+    "display_name": "Redmi 9A",
+    "display_name_en": "Redmi 9A"
+  },
+  "dandelion_eea_vf_global": {
+    "display_name": "Redmi 9A",
+    "display_name_en": "Redmi 9A"
+  },
+  "dandelion_global": {
+    "display_name": "Redmi 9A",
+    "display_name_en": "Redmi 9A"
+  },
+  "dandelion_id_global": {
+    "display_name": "Redmi 9A",
+    "display_name_en": "Redmi 9A"
+  },
+  "dandelion_in_global": {
+    "display_name": "Redmi 9A",
+    "display_name_en": "Redmi 9A"
+  },
+  "dandelion_lm_cr_global": {
+    "display_name": "Redmi 9A",
+    "display_name_en": "Redmi 9A"
+  },
+  "dandelion_mx_at_global": {
+    "display_name": "Redmi 9A",
+    "display_name_en": "Redmi 9A"
+  },
+  "dandelion_mx_tc_global": {
+    "display_name": "Redmi 9A",
+    "display_name_en": "Redmi 9A"
+  },
+  "dandelion_ru_global": {
+    "display_name": "Redmi 9A",
+    "display_name_en": "Redmi 9A"
+  },
+  "dandelion_tr_global": {
     "display_name": "Redmi 9A",
     "display_name_en": "Redmi 9A"
   },
@@ -271,10 +491,6 @@
     "display_name": "小米手机8",
     "display_name_en": "MI 8"
   },
-  "dipper_alpha": {
-    "display_name": "小米手机8 体验版",
-    "display_name_en": "Mi 8 Alpha"
-  },
   "dipper_alpha_global": {
     "display_name": "DIPPER-ALPHA-GLOBAL",
     "display_name_en": "DIPPER-ALPHA-GLOBAL"
@@ -290,6 +506,10 @@
   "equuleus_global": {
     "display_name": "小米手机8屏幕指纹版 国际版",
     "display_name_en": "XM-E1S-GLOBAL"
+  },
+  "excalibur_in_global": {
+    "display_name": "Redmi Note 9 Pro Max",
+    "display_name_en": "Redmi Note 9 Pro Max"
   },
   "ferrari": {
     "display_name": "小米手机4i",
@@ -307,17 +527,9 @@
     "display_name": "小米手机5",
     "display_name_en": "MI 5"
   },
-  "gemini_alpha": {
-    "display_name": "小米手机5 体验版",
-    "display_name_en": "MI5 Alpha"
-  },
   "gemini_alpha_global": {
     "display_name": "小米手机5 体验版国际版",
     "display_name_en": "MI 5 Alpha Global"
-  },
-  "gemini_android": {
-    "display_name": "小米手机5 Android",
-    "display_name_en": "gemini_android"
   },
   "gemini_global": {
     "display_name": "小米手机5 国际版",
@@ -326,6 +538,42 @@
   "ginkgo": {
     "display_name": "Redmi Note 8",
     "display_name_en": "Redmi Note 8"
+  },
+  "ginkgo_eea_global": {
+    "display_name": "Redmi Note 8",
+    "display_name_en": "Redmi Note 8"
+  },
+  "ginkgo_global": {
+    "display_name": "Redmi Note 8",
+    "display_name_en": "Redmi Note 8"
+  },
+  "ginkgo_id_global": {
+    "display_name": "Redmi Note 8",
+    "display_name_en": "Redmi Note 8"
+  },
+  "ginkgo_in_global": {
+    "display_name": "Redmi Note 8",
+    "display_name_en": "Redmi Note 8"
+  },
+  "ginkgo_lm_cr_global": {
+    "display_name": "Redmi Note 8",
+    "display_name_en": "Redmi Note 8"
+  },
+  "ginkgo_mx_tc_global": {
+    "display_name": "Redmi Note 8",
+    "display_name_en": "Redmi Note 8"
+  },
+  "ginkgo_ru_global": {
+    "display_name": "Redmi Note 8",
+    "display_name_en": "Redmi Note 8"
+  },
+  "ginkgo_wlnd_global": {
+    "display_name": "Redmi Note 8",
+    "display_name_en": "Redmi Note 8"
+  },
+  "gram_in_global": {
+    "display_name": "POCO M2 Pro",
+    "display_name_en": "POCO M2 Pro"
   },
   "grus": {
     "display_name": "小米手机9SE",
@@ -347,11 +595,47 @@
     "display_name": "Redmi K40 Pro",
     "display_name_en": "Redmi K40 Pro"
   },
+  "haydn_eea_by_global": {
+    "display_name": "Mi 11i",
+    "display_name_en": "Mi 11i"
+  },
+  "haydn_eea_global": {
+    "display_name": "Mi 11i",
+    "display_name_en": "Mi 11i"
+  },
+  "haydn_eea_hg_global": {
+    "display_name": "Mi 11i",
+    "display_name_en": "Mi 11i"
+  },
+  "haydn_eea_or_global": {
+    "display_name": "Mi 11i",
+    "display_name_en": "Mi 11i"
+  },
+  "haydn_eea_sf_global": {
+    "display_name": "Mi 11i",
+    "display_name_en": "Mi 11i"
+  },
+  "haydn_eea_tf_global": {
+    "display_name": "Mi 11i",
+    "display_name_en": "Mi 11i"
+  },
+  "haydn_eea_ti_global": {
+    "display_name": "Mi 11i",
+    "display_name_en": "Mi 11i"
+  },
+  "haydn_eea_vf_global": {
+    "display_name": "Mi 11i",
+    "display_name_en": "Mi 11i"
+  },
   "haydn_global": {
     "display_name": "Mi 11i",
     "display_name_en": "Mi 11i"
   },
   "haydn_in_global": {
+    "display_name": "Mi 11X Pro",
+    "display_name_en": "Mi 11X Pro"
+  },
+  "haydnin_in_global": {
     "display_name": "Mi 11X Pro",
     "display_name_en": "Mi 11X Pro"
   },
@@ -375,10 +659,6 @@
     "display_name": "红米Note2 国际版",
     "display_name_en": "Redmi Note 2 Global"
   },
-  "hermes_pro": {
-    "display_name": "红米Note2 Pro 高配版",
-    "display_name_en": ""
-  },
   "hydrogen": {
     "display_name": "小米Max 标准版",
     "display_name_en": "MI MAX"
@@ -386,10 +666,6 @@
   "hydrogen_global": {
     "display_name": "小米Max 标准国际版",
     "display_name_en": "MI MAX Global"
-  },
-  "ido_xhdpi": {
-    "display_name": "红米手机3",
-    "display_name_en": "Redmi 3"
   },
   "ido_xhdpi_global": {
     "display_name": "红米手机3 国际版",
@@ -403,6 +679,14 @@
     "display_name": "小米Note3 国际版",
     "display_name_en": ""
   },
+  "joyeuse_eea_tf_global": {
+    "display_name": "Redmi Note 9 Pro",
+    "display_name_en": "Redmi Note 9 Pro"
+  },
+  "joyeuse_global": {
+    "display_name": "Redmi Note 9 Pro",
+    "display_name_en": "Redmi Note 9 Pro"
+  },
   "kenzo": {
     "display_name": "红米Note3 全网通",
     "display_name_en": "Redmi Note 3"
@@ -415,25 +699,73 @@
     "display_name": "Redmi 9",
     "display_name_en": "Redmi 9"
   },
+  "lancelot_cl_en_global": {
+    "display_name": "Redmi 9",
+    "display_name_en": "Redmi 9"
+  },
   "lancelot_eea_global": {
-    "display_name": "Redmi 9-EEA-GLOBAL",
-    "display_name_en": "Redmi 9-EEA-GLOBAL"
+    "display_name": "Redmi 9",
+    "display_name_en": "Redmi 9"
+  },
+  "lancelot_eea_hg_global": {
+    "display_name": "Redmi 9",
+    "display_name_en": "Redmi 9"
+  },
+  "lancelot_eea_or_global": {
+    "display_name": "Redmi 9",
+    "display_name_en": "Redmi 9"
+  },
+  "lancelot_eea_sf_global": {
+    "display_name": "Redmi 9",
+    "display_name_en": "Redmi 9"
+  },
+  "lancelot_eea_tf_global": {
+    "display_name": "Redmi 9",
+    "display_name_en": "Redmi 9"
+  },
+  "lancelot_eea_vf_global": {
+    "display_name": "Redmi 9",
+    "display_name_en": "Redmi 9"
   },
   "lancelot_global": {
-    "display_name": "Redmi 9国际版",
-    "display_name_en": "Redmi 9-GLOBAL"
+    "display_name": "Redmi 9",
+    "display_name_en": "Redmi 9"
   },
   "lancelot_id_global": {
-    "display_name": "Redmi 9-ID-GLOBAL",
-    "display_name_en": "Redmi 9-ID-GLOBAL"
+    "display_name": "Redmi 9",
+    "display_name_en": "Redmi 9"
   },
   "lancelot_in_global": {
-    "display_name": "Redmi 9-IN-GLOBAL",
-    "display_name_en": "Redmi 9-IN-GLOBAL"
+    "display_name": "Redmi 9 Prime",
+    "display_name_en": "Redmi 9 Prime"
+  },
+  "lancelot_lm_cr_global": {
+    "display_name": "Redmi 9",
+    "display_name_en": "Redmi 9"
+  },
+  "lancelot_mx_at_global": {
+    "display_name": "Redmi 9",
+    "display_name_en": "Redmi 9"
+  },
+  "lancelot_mx_tc_global": {
+    "display_name": "Redmi 9",
+    "display_name_en": "Redmi 9"
   },
   "lancelot_ru_global": {
-    "display_name": "Redmi 9-RU-GLOBAL",
-    "display_name_en": "Redmi 9-RU-GLOBAL"
+    "display_name": "Redmi 9",
+    "display_name_en": "Redmi 9"
+  },
+  "lancelot_tr_global": {
+    "display_name": "Redmi 9",
+    "display_name_en": "Redmi 9"
+  },
+  "lancelot_wlnd_global": {
+    "display_name": "Redmi 9",
+    "display_name_en": "Redmi 9"
+  },
+  "lancelot_za_vc_global": {
+    "display_name": "Redmi 9",
+    "display_name_en": "Redmi 9"
   },
   "land": {
     "display_name": "红米手机3S/3X",
@@ -447,57 +779,53 @@
     "display_name": "小米平板2",
     "display_name_en": "MI PAD 2"
   },
+  "laurel_sprout_eea_global": {
+    "display_name": "小米A3",
+    "display_name_en": "MI A3"
+  },
   "laurel_sprout_global": {
     "display_name": "小米A3",
     "display_name_en": "MI A3"
   },
   "laurus": {
     "display_name": "小米CC 9e",
-    "display_name_en": "HM-LAURUS"
+    "display_name_en": "MI CC 9e"
   },
   "lavender": {
     "display_name": "Redmi Note7",
     "display_name_en": "Redmi Note7"
   },
   "lavender_eea_global": {
-    "display_name": "HM-F7A-EEA-GLOBAL",
-    "display_name_en": "HM-F7A-EEA-GLOBAL"
+    "display_name": "Redmi Note7",
+    "display_name_en": "Redmi Note7"
   },
   "lavender_global": {
-    "display_name": "红米Note7 国际版",
-    "display_name_en": "Redmi Note7 Global"
+    "display_name": "Redmi Note7",
+    "display_name_en": "Redmi Note7"
   },
   "lavender_in_global": {
-    "display_name": "HM-F7A-IN-GLOBAL",
-    "display_name_en": "HM-F7A-IN-GLOBAL"
+    "display_name": "Redmi Note7/ Redmi Note7s(48+5)",
+    "display_name_en": "Redmi Note7/ Redmi Note7s(48+5)"
+  },
+  "lavender_lm_cr_global": {
+    "display_name": "Redmi Note7",
+    "display_name_en": "Redmi Note7"
   },
   "lavender_mx_tc_global": {
-    "display_name": "HM-F7A-MX-TELCEL-GLOBAL",
-    "display_name_en": "HM-F7A-MX-TELCEL-GLOBAL"
+    "display_name": "Redmi Note7",
+    "display_name_en": "Redmi Note7"
   },
   "lavender_ru_global": {
-    "display_name": "HM-F7A-RU-GLOBAL",
-    "display_name_en": "HM-F7A-RU-GLOBAL"
-  },
-  "lcsh92_wet_jb9": {
-    "display_name": "红米Note WCDMA版",
-    "display_name_en": ""
+    "display_name": "Redmi Note7",
+    "display_name_en": "Redmi Note7"
   },
   "lcsh92_wet_jb9_global": {
     "display_name": "红米Note WCDMA国际版",
     "display_name_en": "Redmi Note"
   },
-  "lcsh92_wet_tdd": {
-    "display_name": "红米Note TD版",
-    "display_name_en": ""
-  },
   "leo": {
     "display_name": "小米Note 顶配版 双网/全网",
     "display_name_en": "MI NOTE PRO"
-  },
-  "leo_android": {
-    "display_name": "小米Note Pro Android版",
-    "display_name_en": "leo_android"
   },
   "leo_global": {
     "display_name": "小米Note 顶配国际版",
@@ -511,6 +839,10 @@
     "display_name": "Redmi Note 9 4G",
     "display_name_en": "Redmi Note 9 4G"
   },
+  "lime_eea_global": {
+    "display_name": "Redmi 9T",
+    "display_name_en": "Redmi 9T"
+  },
   "lithium": {
     "display_name": "小米MIX",
     "display_name_en": "MIX"
@@ -523,17 +855,41 @@
     "display_name": "Redmi K30 Pro",
     "display_name_en": "Redmi K30 Pro"
   },
+  "lmi_eea_global": {
+    "display_name": "POCO F2 Pro",
+    "display_name_en": "POCO F2 Pro"
+  },
+  "lmi_global": {
+    "display_name": "POCO F2 Pro",
+    "display_name_en": "POCO F2 Pro"
+  },
+  "lmi_hi2_global": {
+    "display_name": "Redmi K30 Pro",
+    "display_name_en": "Redmi K30 Pro"
+  },
+  "lmi_id_global": {
+    "display_name": "POCO F2 Pro",
+    "display_name_en": "POCO F2 Pro"
+  },
+  "lmi_ru_global": {
+    "display_name": "POCO F2 Pro",
+    "display_name_en": "POCO F2 Pro"
+  },
+  "lmi_tr_global": {
+    "display_name": "POCO F2 Pro",
+    "display_name_en": "POCO F2 Pro"
+  },
   "lotus": {
     "display_name": "小米Play",
     "display_name_en": "MI Play"
   },
   "lotus_global": {
-    "display_name": "MIPLAY-GLOBAL",
-    "display_name_en": "HM-MIPLAY-GLOBAL"
+    "display_name": "MI PLAY",
+    "display_name_en": "MI PLAY"
   },
   "lotus_ru_global": {
-    "display_name": "MIPLAY-RU-GLOBAL",
-    "display_name_en": "HM-MIPLAY-RU-GLOBAL"
+    "display_name": "MI PLAY",
+    "display_name_en": "MI PLAY"
   },
   "lte26007": {
     "display_name": "红米手机2A 标准版/增强版",
@@ -564,40 +920,104 @@
     "display_name_en": "Redmi 10X 4G"
   },
   "merlin_eea_global": {
-    "display_name": "HM-J15S-EEA-GLOBAL",
-    "display_name_en": "HM-J15S-EEA-GLOBAL"
+    "display_name": "Redmi Note 9",
+    "display_name_en": "Redmi Note 9"
   },
   "merlin_global": {
-    "display_name": "HM-J15S-GLOBAL",
-    "display_name_en": "HM-J15S-GLOBAL"
+    "display_name": "Redmi Note 9",
+    "display_name_en": "Redmi Note 9"
+  },
+  "merlin_id_global": {
+    "display_name": "Redmi Note 9",
+    "display_name_en": "Redmi Note 9"
+  },
+  "merlin_in_global": {
+    "display_name": "Redmi Note 9",
+    "display_name_en": "Redmi Note 9"
+  },
+  "merlin_mx_at_global": {
+    "display_name": "Redmi Note 9",
+    "display_name_en": "Redmi Note 9"
+  },
+  "merlin_ru_global": {
+    "display_name": "Redmi Note 9",
+    "display_name_en": "Redmi Note 9"
+  },
+  "merlin_tr_global": {
+    "display_name": "Redmi Note 9",
+    "display_name_en": "Redmi Note 9"
   },
   "mido": {
     "display_name": "红米Note4X 高通版",
-    "display_name_en": ""
-  },
-  "mido_alpha": {
-    "display_name": "红米Note4X 高通版 体验版",
     "display_name_en": ""
   },
   "mido_global": {
     "display_name": "红米Note4X 高通版 国际版",
     "display_name_en": "Redmi Note 4X/Redmi Note 4"
   },
-  "mione_plus": {
-    "display_name": "小米手机1/1S",
-    "display_name_en": "MI-ONE Plus"
-  },
   "mocha": {
     "display_name": "小米平板1",
-    "display_name_en": ""
-  },
-  "mocha_alpha": {
-    "display_name": "小米平板1 体验版",
     "display_name_en": ""
   },
   "mocha_global": {
     "display_name": "小米平板1 国际版",
     "display_name_en": "MI PAD"
+  },
+  "monet_camera_global": {
+    "display_name": "Mi 10 Lite 5G",
+    "display_name_en": "Mi 10 Lite 5G"
+  },
+  "monet_dev_soter_global": {
+    "display_name": "Mi 10 Lite 5G",
+    "display_name_en": "Mi 10 Lite 5G"
+  },
+  "monet_eea_global": {
+    "display_name": "Mi 10 Lite 5G",
+    "display_name_en": "Mi 10 Lite 5G"
+  },
+  "monet_eea_hg_global": {
+    "display_name": "Mi 10 Lite 5G",
+    "display_name_en": "Mi 10 Lite 5G"
+  },
+  "monet_eea_or_global": {
+    "display_name": "Mi 10 Lite 5G",
+    "display_name_en": "Mi 10 Lite 5G"
+  },
+  "monet_eea_sf_global": {
+    "display_name": "Mi 10 Lite 5G",
+    "display_name_en": "Mi 10 Lite 5G"
+  },
+  "monet_eea_tf_global": {
+    "display_name": "Mi 10 Lite 5G",
+    "display_name_en": "Mi 10 Lite 5G"
+  },
+  "monet_eea_ti_global": {
+    "display_name": "Mi 10 Lite 5G",
+    "display_name_en": "Mi 10 Lite 5G"
+  },
+  "monet_eea_vf_global": {
+    "display_name": "Mi 10 Lite 5G",
+    "display_name_en": "Mi 10 Lite 5G"
+  },
+  "monet_global": {
+    "display_name": "Mi 10 Lite 5G",
+    "display_name_en": "Mi 10 Lite 5G"
+  },
+  "monet_jp_kd_global": {
+    "display_name": "Mi 10 Lite 5G",
+    "display_name_en": "Mi 10 Lite 5G"
+  },
+  "monet_kr_gu_global": {
+    "display_name": "Mi 10 Lite 5G",
+    "display_name_en": "Mi 10 Lite 5G"
+  },
+  "monet_kr_kt_global": {
+    "display_name": "Mi 10 Lite 5G",
+    "display_name_en": "Mi 10 Lite 5G"
+  },
+  "monet_kr_sk_global": {
+    "display_name": "Mi 10 Lite 5G",
+    "display_name_en": "Mi 10 Lite 5G"
   },
   "natrium": {
     "display_name": "小米手机5SPlus",
@@ -627,9 +1047,77 @@
     "display_name": "Redmi 8",
     "display_name_en": "Redmi 8"
   },
+  "olive_eea_global": {
+    "display_name": "Redmi 8",
+    "display_name_en": "Redmi 8"
+  },
+  "olive_eea_hg_global": {
+    "display_name": "Redmi 8",
+    "display_name_en": "Redmi 8"
+  },
+  "olive_global": {
+    "display_name": "Redmi 8",
+    "display_name_en": "Redmi 8"
+  },
+  "olive_id_global": {
+    "display_name": "Redmi 8",
+    "display_name_en": "Redmi 8"
+  },
+  "olive_in_global": {
+    "display_name": "Redmi 8",
+    "display_name_en": "Redmi 8"
+  },
+  "olive_ru_global": {
+    "display_name": "Redmi 8",
+    "display_name_en": "Redmi 8"
+  },
   "olivelite": {
     "display_name": "Redmi 8A",
     "display_name_en": "Redmi 8A"
+  },
+  "olivelite_eea_global": {
+    "display_name": "Redmi 8A",
+    "display_name_en": "Redmi 8A"
+  },
+  "olivelite_global": {
+    "display_name": "Redmi 8A",
+    "display_name_en": "Redmi 8A"
+  },
+  "olivelite_id_global": {
+    "display_name": "Redmi 8A",
+    "display_name_en": "Redmi 8A"
+  },
+  "olivelite_in_global": {
+    "display_name": "Redmi 8A",
+    "display_name_en": "Redmi 8A"
+  },
+  "olivelite_lm_cr_global": {
+    "display_name": "Redmi 8A",
+    "display_name_en": "Redmi 8A"
+  },
+  "olivelite_mcaas_global": {
+    "display_name": "Redmi 8A",
+    "display_name_en": "Redmi 8A"
+  },
+  "olivelite_mx_tc_global": {
+    "display_name": "Redmi 8A",
+    "display_name_en": "Redmi 8A"
+  },
+  "olivelite_pe_ms_global": {
+    "display_name": "Redmi 8A",
+    "display_name_en": "Redmi 8A"
+  },
+  "olivelite_ru_global": {
+    "display_name": "Redmi 8A",
+    "display_name_en": "Redmi 8A"
+  },
+  "olivewood_in_ai_global": {
+    "display_name": "Redmi 8A Pro",
+    "display_name_en": "Redmi 8A Pro"
+  },
+  "olivewood_in_global": {
+    "display_name": "Redmi 8A Pro",
+    "display_name_en": "Redmi 8A Pro"
   },
   "omega": {
     "display_name": "红米Pro",
@@ -639,13 +1127,37 @@
     "display_name": "红米Pro国际版",
     "display_name_en": "Redmi Pro"
   },
+  "onc_in_global": {
+    "display_name": "Redmi 7",
+    "display_name_en": "Redmi 7"
+  },
   "onclite": {
     "display_name": "Redmi 7",
     "display_name_en": "Redmi 7"
   },
+  "onclite_eea_global": {
+    "display_name": "Redmi 7",
+    "display_name_en": "Redmi 7"
+  },
   "onclite_global": {
-    "display_name": "Redmi 7 Global",
-    "display_name_en": "Redmi 7 Global"
+    "display_name": "Redmi 7",
+    "display_name_en": "Redmi 7"
+  },
+  "onclite_in_global": {
+    "display_name": "Redmi 7",
+    "display_name_en": "Redmi 7"
+  },
+  "onclite_lm_cr_global": {
+    "display_name": "Redmi 7",
+    "display_name_en": "Redmi 7"
+  },
+  "onclite_mx_tc_global": {
+    "display_name": "Redmi 7",
+    "display_name_en": "Redmi 7"
+  },
+  "onclite_ru_global": {
+    "display_name": "Redmi 7",
+    "display_name_en": "Redmi 7"
   },
   "oxygen": {
     "display_name": "小米Max2",
@@ -667,19 +1179,43 @@
     "display_name": "小米 MIX3国际版",
     "display_name_en": "MI MIX3 Global"
   },
+  "perseus_h3g_global": {
+    "display_name": "Mi Mix3",
+    "display_name_en": "Mi Mix3"
+  },
+  "perseus_ru_global": {
+    "display_name": "小米MIX3 俄罗斯版",
+    "display_name_en": "MI MIX3 RU"
+  },
   "phoenix": {
     "display_name": "Redmi K30",
     "display_name_en": "Redmi K30"
+  },
+  "phoenixin_in_global": {
+    "display_name": "POCO X2",
+    "display_name_en": "POCO X2"
   },
   "picasso": {
     "display_name": "Redmi K30 5G",
     "display_name_en": "Redmi K30  5G"
   },
-  "picasso_48m": {
-    "display_name": "Redmi K30i 5G",
-    "display_name_en": "Redmi K30i 5G"
-  },
   "pine": {
+    "display_name": "Redmi 7A",
+    "display_name_en": "Redmi 7A"
+  },
+  "pine_eea_global": {
+    "display_name": "Redmi 7A",
+    "display_name_en": "Redmi 7A"
+  },
+  "pine_eea_or_global": {
+    "display_name": "Redmi 7A",
+    "display_name_en": "Redmi 7A"
+  },
+  "pine_eea_sf_global": {
+    "display_name": "Redmi 7A",
+    "display_name_en": "Redmi 7A"
+  },
+  "pine_eea_tf_global": {
     "display_name": "Redmi 7A",
     "display_name_en": "Redmi 7A"
   },
@@ -687,25 +1223,25 @@
     "display_name": "Redmi 7A EEA-TI",
     "display_name_en": "Redmi 7A-EEA-TI-GLOBAL"
   },
+  "pine_eea_vf_global": {
+    "display_name": "Redmi 7A",
+    "display_name_en": "Redmi 7A"
+  },
   "pine_global": {
-    "display_name": "Redmi 7A 国际版",
-    "display_name_en": "Redmi 7A GLOBAL"
+    "display_name": "Redmi 7A",
+    "display_name_en": "Redmi 7A"
   },
   "pine_in_global": {
-    "display_name": "Redmi 7A 印度版",
-    "display_name_en": "Redmi 7A INDIA"
+    "display_name": "Redmi 7A",
+    "display_name_en": "Redmi 7A"
   },
   "pine_ru_global": {
-    "display_name": "Redmi 7A 俄罗斯版",
-    "display_name_en": "Redmi 7A RUSSIA"
+    "display_name": "Redmi 7A",
+    "display_name_en": "Redmi 7A"
   },
   "pisces": {
     "display_name": "小米手机3 TD版",
     "display_name_en": "MI 3"
-  },
-  "pisces_alpha": {
-    "display_name": "小米手机3 TD体验版",
-    "display_name_en": ""
   },
   "pisces_global": {
     "display_name": "PISCES-GLOBAL",
@@ -783,10 +1319,6 @@
     "display_name": "红米手机5A",
     "display_name_en": "Redmi 5A"
   },
-  "riva_fs": {
-    "display_name": "红米手机5A(政企定制版)",
-    "display_name_en": "Redmi 5A FS"
-  },
   "riva_global": {
     "display_name": "红米手机5A 国际版",
     "display_name_en": "Redmi 5A Global"
@@ -799,6 +1331,42 @@
     "display_name": "红米手机4A国际版",
     "display_name_en": "Redmi 4A Global"
   },
+  "rosemary_eea_global": {
+    "display_name": "Redmi Note 10S",
+    "display_name_en": "Redmi Note 10S"
+  },
+  "rosemary_eea_or_global": {
+    "display_name": "Redmi Note 10S",
+    "display_name_en": "Redmi Note 10S"
+  },
+  "rosemary_global": {
+    "display_name": "Redmi Note 10S",
+    "display_name_en": "Redmi Note 10S"
+  },
+  "rosemary_id_global": {
+    "display_name": "Redmi Note 10S",
+    "display_name_en": "Redmi Note 10S"
+  },
+  "rosemary_in_global": {
+    "display_name": "Redmi Note 10S",
+    "display_name_en": "Redmi Note 10S"
+  },
+  "rosemary_ru_global": {
+    "display_name": "Redmi Note 10S",
+    "display_name_en": "Redmi Note 10S"
+  },
+  "rosemary_tr_global": {
+    "display_name": "Redmi Note 10S",
+    "display_name_en": "Redmi Note 10S"
+  },
+  "rosemary_tw_global": {
+    "display_name": "Redmi Note 10S",
+    "display_name_en": "Redmi Note 10S"
+  },
+  "rosemary_za_vc_global": {
+    "display_name": "Redmi Note 10S",
+    "display_name_en": "Redmi Note 10S"
+  },
   "rosy": {
     "display_name": "红米手机5",
     "display_name_en": "Redmi 5"
@@ -810,10 +1378,6 @@
   "sagit": {
     "display_name": "小米手机6",
     "display_name_en": "Mi 6"
-  },
-  "sagit_alpha": {
-    "display_name": "小米手机6 体验版",
-    "display_name_en": "Mi 6 Alpha"
   },
   "sagit_alpha_global": {
     "display_name": "小米手机6 体验版国际版",
@@ -839,10 +1403,6 @@
     "display_name": "红米手机4X 国际版",
     "display_name_en": "Redmi 4X Global"
   },
-  "santoni_liuniu": {
-    "display_name": "红米手机4X(政企定制版)",
-    "display_name_en": "Redmi 4X"
-  },
   "scorpio": {
     "display_name": "小米Note2",
     "display_name_en": "Mi Note 2"
@@ -867,6 +1427,14 @@
     "display_name": "Mi 11 Ultra",
     "display_name_en": "Mi 11 Ultra"
   },
+  "star_eea_or_global": {
+    "display_name": "Mi 11 Ultra",
+    "display_name_en": "Mi 11 Ultra"
+  },
+  "star_eea_vf_global": {
+    "display_name": "Mi 11 Ultra",
+    "display_name_en": "Mi 11 Ultra"
+  },
   "star_global": {
     "display_name": "Mi 11 Ultra",
     "display_name_en": "Mi 11 Ultra"
@@ -882,6 +1450,94 @@
   "star_ru_global": {
     "display_name": "Mi 11 Ultra",
     "display_name_en": "Mi 11 Ultra"
+  },
+  "surya_id_global": {
+    "display_name": "POCO X3 NFC",
+    "display_name_en": "POCO X3 NFC"
+  },
+  "surya_in_global": {
+    "display_name": "POCO X3",
+    "display_name_en": "POCO X3"
+  },
+  "sweet_cl_en_global": {
+    "display_name": "Redmi Note 10 Pro",
+    "display_name_en": "Redmi Note 10 Pro"
+  },
+  "sweet_eea_global": {
+    "display_name": "Redmi Note 10 Pro",
+    "display_name_en": "Redmi Note 10 Pro"
+  },
+  "sweet_eea_hg_global": {
+    "display_name": "Redmi Note 10 Pro",
+    "display_name_en": "Redmi Note 10 Pro"
+  },
+  "sweet_eea_or_global": {
+    "display_name": "Redmi Note 10 Pro",
+    "display_name_en": "Redmi Note 10 Pro"
+  },
+  "sweet_eea_sf_global": {
+    "display_name": "Redmi Note 10 Pro",
+    "display_name_en": "Redmi Note 10 Pro"
+  },
+  "sweet_eea_tf_global": {
+    "display_name": "Redmi Note 10 Pro",
+    "display_name_en": "Redmi Note 10 Pro"
+  },
+  "sweet_eea_ti_global": {
+    "display_name": "Redmi Note 10 Pro",
+    "display_name_en": "Redmi Note 10 Pro"
+  },
+  "sweet_eea_vf_global": {
+    "display_name": "Redmi Note 10 Pro",
+    "display_name_en": "Redmi Note 10 Pro"
+  },
+  "sweet_global": {
+    "display_name": "Redmi Note 10 Pro",
+    "display_name_en": "Redmi Note 10 Pro"
+  },
+  "sweet_id_global": {
+    "display_name": "Redmi Note 10 Pro",
+    "display_name_en": "Redmi Note 10 Pro"
+  },
+  "sweet_lm_cr_global": {
+    "display_name": "Redmi Note 10 Pro",
+    "display_name_en": "Redmi Note 10 Pro"
+  },
+  "sweet_mx_at_global": {
+    "display_name": "Redmi Note 10 Pro",
+    "display_name_en": "Redmi Note 10 Pro"
+  },
+  "sweet_mx_tc_global": {
+    "display_name": "Redmi Note 10 Pro",
+    "display_name_en": "Redmi Note 10 Pro"
+  },
+  "sweet_pe_ms_global": {
+    "display_name": "Redmi Note 10 Pro",
+    "display_name_en": "Redmi Note 10 Pro"
+  },
+  "sweet_ru_global": {
+    "display_name": "Redmi Note 10 Pro",
+    "display_name_en": "Redmi Note 10 Pro"
+  },
+  "sweet_tr_global": {
+    "display_name": "Redmi Note 10 Pro",
+    "display_name_en": "Redmi Note 10 Pro"
+  },
+  "sweet_tw_global": {
+    "display_name": "Redmi Note 10 Pro",
+    "display_name_en": "Redmi Note 10 Pro"
+  },
+  "sweet_za_mt_global": {
+    "display_name": "Redmi Note 10 Pro",
+    "display_name_en": "Redmi Note 10 Pro"
+  },
+  "sweet_za_vc_global": {
+    "display_name": "Redmi Note 10 Pro",
+    "display_name_en": "Redmi Note 10 Pro"
+  },
+  "sweetin_in_global": {
+    "display_name": "Redmi Note 10 Pro (\\Max)",
+    "display_name_en": "Redmi Note 10 Pro（\\Max）"
   },
   "taurus": {
     "display_name": "小米手机2A",
@@ -907,9 +1563,93 @@
     "display_name": "小米A1",
     "display_name_en": "MI A1"
   },
+  "toco_dev_soter_global": {
+    "display_name": "Mi Note 10 Lite",
+    "display_name_en": "Mi Note 10 Lite"
+  },
+  "toco_eea_global": {
+    "display_name": "Mi Note 10 Lite",
+    "display_name_en": "Mi Note 10 Lite"
+  },
+  "toco_eea_or_global": {
+    "display_name": "Mi Note 10 Lite",
+    "display_name_en": "Mi Note 10 Lite"
+  },
+  "toco_eea_tf_global": {
+    "display_name": "Mi Note 10 Lite",
+    "display_name_en": "Mi Note 10 Lite"
+  },
+  "toco_eea_vf_global": {
+    "display_name": "Mi Note 10 Lite",
+    "display_name_en": "Mi Note 10 Lite"
+  },
+  "toco_global": {
+    "display_name": "Mi Note 10 Lite",
+    "display_name_en": "Mi Note 10 Lite"
+  },
+  "toco_mx_tc_global": {
+    "display_name": "Mi Note 10 Lite",
+    "display_name_en": "Mi Note 10 Lite"
+  },
+  "toco_ru_global": {
+    "display_name": "Mi Note 10 Lite",
+    "display_name_en": "Mi Note 10 Lite"
+  },
+  "toco_tr_global": {
+    "display_name": "Mi Note 10 Lite",
+    "display_name_en": "Mi Note 10 Lite"
+  },
   "tucana": {
     "display_name": "小米CC 9 Pro",
     "display_name_en": "MI CC 9 Pro"
+  },
+  "tucana_eea_global": {
+    "display_name": "Mi Note 10/Mi Note 10 Pro",
+    "display_name_en": "Mi Note 10/Mi Note 10 Pro"
+  },
+  "tucana_eea_hg_global": {
+    "display_name": "Mi Note 10",
+    "display_name_en": "Mi Note 10"
+  },
+  "tucana_eea_or_global": {
+    "display_name": "Mi Note 10",
+    "display_name_en": "Mi Note 10"
+  },
+  "tucana_eea_sf_global": {
+    "display_name": "Mi Note 10",
+    "display_name_en": "Mi Note 10"
+  },
+  "tucana_eea_tf_global": {
+    "display_name": "Mi Note 10",
+    "display_name_en": "Mi Note 10"
+  },
+  "tucana_eea_ti_global": {
+    "display_name": "Mi Note 10",
+    "display_name_en": "Mi Note 10"
+  },
+  "tucana_eea_vf_global": {
+    "display_name": "Mi Note 10",
+    "display_name_en": "Mi Note 10"
+  },
+  "tucana_global": {
+    "display_name": "Mi Note 10/Mi Note 10 Pro",
+    "display_name_en": "Mi Note 10/Mi Note 10 Pro"
+  },
+  "tucana_id_global": {
+    "display_name": "Mi Note 10",
+    "display_name_en": "Mi Note 10"
+  },
+  "tucana_lm_cr_global": {
+    "display_name": "Mi Note 10",
+    "display_name_en": "Mi Note 10"
+  },
+  "tucana_mx_tc_global": {
+    "display_name": "Mi Note 10",
+    "display_name_en": "Mi Note 10"
+  },
+  "tucana_ru_global": {
+    "display_name": "Mi Note 10/Mi Note 10 Pro",
+    "display_name_en": "Mi Note 10/Mi Note 10 Pro"
   },
   "ugg": {
     "display_name": "红米Note 5A 高配版",
@@ -932,44 +1672,56 @@
     "display_name_en": "Mi10"
   },
   "umi_eea_global": {
-    "display_name": "小米10 欧盟版",
-    "display_name_en": "Mi10-EEA-GLOBAL"
+    "display_name": "小米10",
+    "display_name_en": "Mi10"
   },
   "umi_eea_hg_global": {
-    "display_name": "小米10-EEA-HG-GLOBAL",
-    "display_name_en": "Mi10-EEA-HG-GLOBAL"
+    "display_name": "小米10",
+    "display_name_en": "Mi10"
   },
   "umi_eea_or_global": {
-    "display_name": "小米10-EEA-OR-GLOBAL",
-    "display_name_en": "Mi10-EEA-OR-GLOBAL"
+    "display_name": "小米10",
+    "display_name_en": "Mi10"
   },
   "umi_eea_sf_global": {
-    "display_name": "小米10-EEA-SF-GLOBAL",
-    "display_name_en": "Mi10-EEA-SF-GLOBAL"
+    "display_name": "小米10",
+    "display_name_en": "Mi10"
   },
   "umi_eea_tf_global": {
-    "display_name": "小米10-EEA-TF-GLOBAL",
-    "display_name_en": "Mi10-EEA-TF-GLOBAL"
+    "display_name": "小米10",
+    "display_name_en": "Mi10"
   },
   "umi_eea_ti_global": {
-    "display_name": "小米10-EEA-TI-GLOBAL",
-    "display_name_en": "Mi10-EEA-TI-GLOBAL"
+    "display_name": "小米10",
+    "display_name_en": "Mi10"
   },
   "umi_eea_vf_global": {
-    "display_name": "小米10-EEA-VF-GLOBAL",
-    "display_name_en": "Mi10-EEA-VF-GLOBAL"
+    "display_name": "小米10",
+    "display_name_en": "Mi10"
   },
   "umi_global": {
-    "display_name": "小米10 国际版",
-    "display_name_en": "Mi10-GLOBAL"
+    "display_name": "小米10",
+    "display_name_en": "Mi10"
+  },
+  "umi_hi2_global": {
+    "display_name": "小米10",
+    "display_name_en": "Mi10"
+  },
+  "umi_hi2_id_global": {
+    "display_name": "小米10",
+    "display_name_en": "Mi10"
   },
   "umi_id_global": {
-    "display_name": "小米10 印尼版",
-    "display_name_en": "Mi10-ID-GLOBAL"
+    "display_name": "小米10",
+    "display_name_en": "Mi10"
   },
   "umi_in_global": {
-    "display_name": "小米10 印度版",
-    "display_name_en": "Mi10-IN-GLOBAL"
+    "display_name": "小米10",
+    "display_name_en": "Mi10"
+  },
+  "umi_mx_tc_global": {
+    "display_name": "小米10",
+    "display_name_en": "Mi10"
   },
   "umi_ru_global": {
     "display_name": "小米10 俄罗斯版",
@@ -985,7 +1737,7 @@
   },
   "vangogh": {
     "display_name": "小米10青春版",
-    "display_name_en": "XM-VANGOGH"
+    "display_name_en": "Mi 10 Lite Zoom"
   },
   "vela": {
     "display_name": "小米 CC9 美图定制版",
@@ -1015,29 +1767,21 @@
     "display_name": "Redmi Note 7 Pro Global",
     "display_name_en": "Redmi Note 7 Pro Global"
   },
+  "violet_in_global": {
+    "display_name": "Redmi Note 7 Pro",
+    "display_name_en": "Redmi Note 7 Pro"
+  },
   "virgo": {
     "display_name": "小米Note 移动4G/联通4G",
     "display_name_en": "MI NOTE LTE"
-  },
-  "virgo_alpha": {
-    "display_name": "小米Note 体验版",
-    "display_name_en": "MI NOTE LTE Alpha"
   },
   "virgo_alpha_global": {
     "display_name": "小米Note 国际体验版",
     "display_name_en": "MI NOTE LTE Alpha Global"
   },
-  "virgo_android": {
-    "display_name": "小米Note Android版",
-    "display_name_en": "MI Note"
-  },
   "virgo_global": {
     "display_name": "小米Note 国际版",
     "display_name_en": "MI NOTE LTE Global"
-  },
-  "virgo_lte_ct": {
-    "display_name": "小米Note 全网通版",
-    "display_name_en": ""
   },
   "wayne": {
     "display_name": "小米6X",
@@ -1055,6 +1799,30 @@
     "display_name": "红米Note 5 国际版",
     "display_name_en": "Redmi Note 5/Redmi Note 5 Pro"
   },
+  "willow_eea_global": {
+    "display_name": "Readmi 8T",
+    "display_name_en": "Readmi 8T"
+  },
+  "willow_eea_hg_global": {
+    "display_name": "Redmi Note 8T",
+    "display_name_en": "Redmi Note 8T"
+  },
+  "willow_eea_or_global": {
+    "display_name": "Readmi 8T",
+    "display_name_en": "Readmi 8T"
+  },
+  "willow_global": {
+    "display_name": "Readmi 8T",
+    "display_name_en": "Readmi 8T"
+  },
+  "willow_ru_global": {
+    "display_name": "Readmi 8T",
+    "display_name_en": "Readmi 8T"
+  },
+  "willow_stable_soter_global": {
+    "display_name": "Readmi 8T",
+    "display_name_en": "Readmi 8T"
+  },
   "wt86047": {
     "display_name": "红米手机2 移动版",
     "display_name_en": ""
@@ -1063,20 +1831,12 @@
     "display_name": "WT86047-GLOBAL",
     "display_name_en": "WT86047-GLOBAL"
   },
-  "wt86047_pro": {
-    "display_name": "红米手机2 移动增强版 / 红米手机2A 高配版",
-    "display_name_en": ""
-  },
   "wt88047": {
     "display_name": "红米手机2 联通版/电信版",
     "display_name_en": ""
   },
   "wt88047_global": {
     "display_name": "红米手机2 国际版",
-    "display_name_en": ""
-  },
-  "wt88047_pro": {
-    "display_name": "红米手机2 联通版/电信 增强版",
     "display_name_en": ""
   },
   "wt88047_pro_global": {
