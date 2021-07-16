@@ -1337,6 +1337,13 @@
    "`M1805E10A`": "POCO F1"
   }
  },
+ "aresin": {
+  "internal_name": "K10",
+  "name": "POCO F3 GT",
+  "models": {
+   "`M2104K10I`": "POCO F3 GT India"
+  }
+ },
  "phoenixin": {
   "internal_name": "G7B",
   "name": "POCO X2",
