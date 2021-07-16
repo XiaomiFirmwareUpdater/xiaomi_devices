@@ -243,10 +243,6 @@
     "display_name": "POCO PHONE F1",
     "display_name_en": "POCO PHONE F1"
   },
-  "beryllium_stable_soter_global": {
-    "display_name": "POCO PHONE F1",
-    "display_name_en": "POCO PHONE F1"
-  },
   "bomb": {
     "display_name": "Redmi 10X Pro",
     "display_name_en": "Redmi 10X Pro"
@@ -359,10 +355,6 @@
     "display_name": "小米 9",
     "display_name_en": "MI 9"
   },
-  "cepheus_dev_global": {
-    "display_name": "小米 9",
-    "display_name_en": "MI 9"
-  },
   "cepheus_eea_global": {
     "display_name": "小米 9",
     "display_name_en": "MI 9"
@@ -396,10 +388,6 @@
     "display_name_en": "MI 9"
   },
   "cepheus_port_global": {
-    "display_name": "小米 9",
-    "display_name_en": "MI 9"
-  },
-  "cepheus_stable_soter_global": {
     "display_name": "小米 9",
     "display_name_en": "MI 9"
   },
@@ -486,10 +474,6 @@
   "crux": {
     "display_name": "小米手机9Pro 5G",
     "display_name_en": "Mi 9Pro 5G"
-  },
-  "curtana_dev_soter_global": {
-    "display_name": "Redmi Note 9S",
-    "display_name_en": "Redmi Note 9S"
   },
   "curtana_eea_global": {
     "display_name": "Redmi Note 9S",
@@ -1155,10 +1139,6 @@
     "display_name": "Mi 10 Lite 5G",
     "display_name_en": "Mi 10 Lite 5G"
   },
-  "monet_dev_soter_global": {
-    "display_name": "Mi 10 Lite 5G",
-    "display_name_en": "Mi 10 Lite 5G"
-  },
   "monet_eea_global": {
     "display_name": "Mi 10 Lite 5G",
     "display_name_en": "Mi 10 Lite 5G"
@@ -1651,10 +1631,6 @@
     "display_name": "POCO M2/POCO M2 Reloaded(4+64配置)",
     "display_name_en": "POCO M2/POCO M2 Reloaded(4+64配置)"
   },
-  "shiva_stable_soter_in_global": {
-    "display_name": "POCO M2/POCO M2 Reloaded(4+64配置)",
-    "display_name_en": "POCO M2/POCO M2 Reloaded(4+64配置)"
-  },
   "sirius": {
     "display_name": "小米8 SE",
     "display_name_en": "MI 8 SE"
@@ -1694,10 +1670,6 @@
   "star_ru_global": {
     "display_name": "Mi 11 Ultra",
     "display_name_en": "Mi 11 Ultra"
-  },
-  "surya_dev_soter_global": {
-    "display_name": "POCO X3 NFC",
-    "display_name_en": "POCO X3 NFC"
   },
   "surya_eea_global": {
     "display_name": "POCO X3 NFC",
@@ -1846,10 +1818,6 @@
   "tissot_global": {
     "display_name": "小米A1",
     "display_name_en": "MI A1"
-  },
-  "toco_dev_soter_global": {
-    "display_name": "Mi Note 10 Lite",
-    "display_name_en": "Mi Note 10 Lite"
   },
   "toco_eea_global": {
     "display_name": "Mi Note 10 Lite",
@@ -2091,10 +2059,6 @@
     "display_name": "红米note 5",
     "display_name_en": "Redmi Note 5"
   },
-  "whyred_stable_soter_global": {
-    "display_name": "红米note 5",
-    "display_name_en": "Redmi Note 5"
-  },
   "willow_eea_global": {
     "display_name": "Readmi 8T",
     "display_name_en": "Readmi 8T"
@@ -2112,10 +2076,6 @@
     "display_name_en": "Readmi 8T"
   },
   "willow_ru_global": {
-    "display_name": "Readmi 8T",
-    "display_name_en": "Readmi 8T"
-  },
-  "willow_stable_soter_global": {
     "display_name": "Readmi 8T",
     "display_name_en": "Readmi 8T"
   },
