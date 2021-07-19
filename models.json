@@ -1195,9 +1195,10 @@
  },
  "chopin": {
   "internal_name": "K10A",
-  "name": "Redmi Note 10 Pro",
+  "name": "Redmi Note 10 Pro/POCO X3 GT",
   "models": {
-   "`M2104K10AC`": "Redmi Note 10 Pro 5G China"
+   "`M2104K10AC`": "Redmi Note 10 Pro 5G China",
+   "`21061110AG`": "POCO X3 GT Global"
   }
  },
  "atom": {
