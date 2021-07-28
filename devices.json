@@ -243,6 +243,18 @@
     "display_name": "POCO PHONE F1",
     "display_name_en": "POCO PHONE F1"
   },
+  "biloba_eea_global": {
+    "display_name": "Redmi Note 8",
+    "display_name_en": "Redmi Note 8"
+  },
+  "biloba_global": {
+    "display_name": "Redmi Note 8",
+    "display_name_en": "Redmi Note 8"
+  },
+  "biloba_ru_global": {
+    "display_name": "Redmi Note 8",
+    "display_name_en": "Redmi Note 8"
+  },
   "bomb": {
     "display_name": "Redmi 10X Pro",
     "display_name_en": "Redmi 10X Pro"
@@ -258,6 +270,38 @@
   "camellia": {
     "display_name": "Redmi Note 10",
     "display_name_en": "Redmi Note 10"
+  },
+  "camellia_in_global": {
+    "display_name": "POCO M3 Pro 5G",
+    "display_name_en": "POCO M3 Pro 5G"
+  },
+  "camellian_eea_global": {
+    "display_name": "Redmi Note 10 5G",
+    "display_name_en": "Redmi Note 10 5G"
+  },
+  "camellian_eea_or_global": {
+    "display_name": "Redmi Note 10 5G",
+    "display_name_en": "Redmi Note 10 5G"
+  },
+  "camellian_global": {
+    "display_name": "Redmi Note 10 5G",
+    "display_name_en": "Redmi Note 10 5G"
+  },
+  "camellian_id_global": {
+    "display_name": "POCO M3 Pro 5G",
+    "display_name_en": "POCO M3 Pro 5G"
+  },
+  "camellian_ru_global": {
+    "display_name": "Redmi Note 10T",
+    "display_name_en": "Redmi Note 10T"
+  },
+  "camellian_tr_global": {
+    "display_name": "Redmi Note 10 5G",
+    "display_name_en": "Redmi Note 10 5G"
+  },
+  "camellian_tw_global": {
+    "display_name": "Redmi Note 10 5G",
+    "display_name_en": "Redmi Note 10 5G"
   },
   "cancro": {
     "display_name": "小米手机3/4 WCDMA版",
@@ -470,6 +514,38 @@
   "comet_global": {
     "display_name": "COMET-GLOBAL",
     "display_name_en": "COMET-GLOBAL"
+  },
+  "courbet_global": {
+    "display_name": "Mi 11 Lite",
+    "display_name_en": "Mi 11 Lite"
+  },
+  "courbet_id_global": {
+    "display_name": "Mi 11 Lite",
+    "display_name_en": "Mi 11 Lite"
+  },
+  "courbet_in_global": {
+    "display_name": "Mi 11 Lite",
+    "display_name_en": "Mi 11 Lite"
+  },
+  "courbet_lm_cr_global": {
+    "display_name": "Mi 11 Lite",
+    "display_name_en": "Mi 11 Lite"
+  },
+  "courbet_mx_at_global": {
+    "display_name": "Mi 11 Lite",
+    "display_name_en": "Mi 11 Lite"
+  },
+  "courbet_mx_tc_global": {
+    "display_name": "Mi 11 Lite",
+    "display_name_en": "Mi 11 Lite"
+  },
+  "courbet_ru_global": {
+    "display_name": "Mi 11 Lite",
+    "display_name_en": "Mi 11 Lite"
+  },
+  "courbet_tr_global": {
+    "display_name": "Mi 11 Lite",
+    "display_name_en": "Mi 11 Lite"
   },
   "crux": {
     "display_name": "小米手机9Pro 5G",
@@ -851,11 +927,71 @@
     "display_name": "小米Note3 国际版",
     "display_name_en": ""
   },
+  "joyeuse_cl_en_global": {
+    "display_name": "Redmi Note 9 Pro",
+    "display_name_en": "Redmi Note 9 Pro"
+  },
+  "joyeuse_eea_global": {
+    "display_name": "Redmi Note 9 Pro",
+    "display_name_en": "Redmi Note 9 Pro"
+  },
+  "joyeuse_eea_or_global": {
+    "display_name": "Redmi Note 9 Pro",
+    "display_name_en": "Redmi Note 9 Pro"
+  },
+  "joyeuse_eea_pl_global": {
+    "display_name": "Redmi Note 9 Pro",
+    "display_name_en": "Redmi Note 9 Pro"
+  },
+  "joyeuse_eea_sf_global": {
+    "display_name": "Redmi Note 9 Pro",
+    "display_name_en": "Redmi Note 9 Pro"
+  },
   "joyeuse_eea_tf_global": {
     "display_name": "Redmi Note 9 Pro",
     "display_name_en": "Redmi Note 9 Pro"
   },
+  "joyeuse_eea_tim_global": {
+    "display_name": "Redmi Note 9 Pro",
+    "display_name_en": "Redmi Note 9 Pro"
+  },
+  "joyeuse_eea_vf_global": {
+    "display_name": "Redmi Note 9 Pro",
+    "display_name_en": "Redmi Note 9 Pro"
+  },
   "joyeuse_global": {
+    "display_name": "Redmi Note 9 Pro",
+    "display_name_en": "Redmi Note 9 Pro"
+  },
+  "joyeuse_id_global": {
+    "display_name": "Redmi Note 9 Pro",
+    "display_name_en": "Redmi Note 9 Pro"
+  },
+  "joyeuse_lm_cr_global": {
+    "display_name": "Redmi Note 9 Pro",
+    "display_name_en": "Redmi Note 9 Pro"
+  },
+  "joyeuse_mx_tc_global": {
+    "display_name": "Redmi Note 9 Pro",
+    "display_name_en": "Redmi Note 9 Pro"
+  },
+  "joyeuse_mx_telcel_global": {
+    "display_name": "Redmi Note 9 Pro",
+    "display_name_en": "Redmi Note 9 Pro"
+  },
+  "joyeuse_ru_global": {
+    "display_name": "Redmi Note 9 Pro",
+    "display_name_en": "Redmi Note 9 Pro"
+  },
+  "joyeuse_tr_global": {
+    "display_name": "Redmi Note 9 Pro",
+    "display_name_en": "Redmi Note 9 Pro"
+  },
+  "joyeuse_tw_global": {
+    "display_name": "Redmi Note 9 Pro",
+    "display_name_en": "Redmi Note 9 Pro"
+  },
+  "joyeuse_za_vc_global": {
     "display_name": "Redmi Note 9 Pro",
     "display_name_en": "Redmi Note 9 Pro"
   },
@@ -1134,6 +1270,30 @@
   "mocha_global": {
     "display_name": "小米平板1 国际版",
     "display_name_en": "MI PAD"
+  },
+  "mojito_eea_global": {
+    "display_name": "Redmi Note 10",
+    "display_name_en": "Redmi Note 10"
+  },
+  "mojito_global": {
+    "display_name": "Redmi Note 10",
+    "display_name_en": "Redmi Note 10"
+  },
+  "mojito_id_global": {
+    "display_name": "Redmi Note 10",
+    "display_name_en": "Redmi Note 10"
+  },
+  "mojito_in_global": {
+    "display_name": "Redmi Note 10",
+    "display_name_en": "Redmi Note 10"
+  },
+  "mojito_ru_global": {
+    "display_name": "Redmi Note 10",
+    "display_name_en": "Redmi Note 10"
+  },
+  "mojito_tr_global": {
+    "display_name": "Redmi Note 10",
+    "display_name_en": "Redmi Note 10"
   },
   "monet_camera_global": {
     "display_name": "Mi 10 Lite 5G",
@@ -1994,6 +2154,34 @@
   "vangogh": {
     "display_name": "小米10青春版",
     "display_name_en": "Mi 10 Lite Zoom"
+  },
+  "vayu_eea_global": {
+    "display_name": "POCO X3 Pro",
+    "display_name_en": "POCO X3 Pro"
+  },
+  "vayu_global": {
+    "display_name": "POCO X3 Pro",
+    "display_name_en": "POCO X3 Pro"
+  },
+  "vayu_id_global": {
+    "display_name": "POCO X3 Pro",
+    "display_name_en": "POCO X3 Pro"
+  },
+  "vayu_in_global": {
+    "display_name": "POCO X3 Pro",
+    "display_name_en": "POCO X3 Pro"
+  },
+  "vayu_ru_global": {
+    "display_name": "POCO X3 Pro",
+    "display_name_en": "POCO X3 Pro"
+  },
+  "vayu_tr_global": {
+    "display_name": "POCO X3 Pro",
+    "display_name_en": "POCO X3 Pro"
+  },
+  "vayu_tw_global": {
+    "display_name": "POCO X3 Pro",
+    "display_name_en": "POCO X3 Pro"
   },
   "vela": {
     "display_name": "小米 CC9 美图定制版",
