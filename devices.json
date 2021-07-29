@@ -1653,7 +1653,7 @@
   },
   "raphael": {
     "display_name": "Redmi K20 Pro 尊享版",
-    "display_name_en": "Redmi K20 Pro 尊享版"
+    "display_name_en": "Redmi K20 Pro"
   },
   "raphael_eea_global": {
     "display_name": "Redmi K20 Pro EEA版本",
@@ -1677,7 +1677,7 @@
   },
   "raphaels": {
     "display_name": "Redmi K20 Pro 尊享版",
-    "display_name_en": "Redmi K20 Pro 尊享版"
+    "display_name_en": "Redmi K20 Pro"
   },
   "renoir": {
     "display_name": "小米11 青春版",
@@ -1789,7 +1789,7 @@
   },
   "shiva_in_global": {
     "display_name": "POCO M2/POCO M2 Reloaded(4+64配置)",
-    "display_name_en": "POCO M2/POCO M2 Reloaded(4+64配置)"
+    "display_name_en": "POCO M2/POCO M2 Reloaded"
   },
   "sirius": {
     "display_name": "小米8 SE",
@@ -2064,8 +2064,8 @@
     "display_name_en": "Mi Note 10/Mi Note 10 Pro"
   },
   "tulip_global": {
-    "display_name": "红米 Note 6 pro",
-    "display_name_en": "红米 Note 6 pro"
+    "display_name": "Redmi Note 6 pro",
+    "display_name_en": "Redmi Note 6 pro"
   },
   "ugg": {
     "display_name": "红米Note 5A 高配版",
