@@ -1176,6 +1176,13 @@
    "`M2103K19C`": "Redmi Note 10 5G China"
   }
  },
+ "iris": {
+  "internal_name": "K19J",
+  "name": "Redmi Note 10 JE",
+  "models": {
+   "`2104K19J` `XIG02`": "Redmi Note 10 JE Japan (KDDI)"
+  }
+ },
  "sweet": {
   "internal_name": "K6",
   "name": "Redmi Note 10 Pro",
