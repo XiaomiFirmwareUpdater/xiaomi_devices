@@ -1479,5 +1479,19 @@
   "models": {
    "`SHARK KSR-A0`": "Black Shark 4 Pro China"
   }
+ },
+ "baiji": {
+  "internal_name": "",
+  "name": "Mi Watch (`baiji`)",
+  "models": {
+   "`XMWT01`": "Mi Watch"
+  }
+ },
+ "FYJ01QP": {
+  "internal_name": "",
+  "name": "Xiaomi Mijia Translator (`FYJ01QP`)",
+  "models": {
+   "`FYJ01QP`": "Xiaomi Mijia Translator"
+  }
  }
 }
