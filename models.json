@@ -450,9 +450,16 @@
  },
  "cetus": {
   "internal_name": "J18",
-  "name": "MIX Fold",
+  "name": "Mi MIX Fold",
   "models": {
-   "`M2011J18C`": "MIX FOLD China"
+   "`M2011J18C`": "Mi MIX FOLD China"
+  }
+ },
+ "odin": {
+  "internal_name": "K8",
+  "name": "Mi MIX 4",
+  "models": {
+   "`2106118C`": "Mi MIX 4 China"
   }
  },
  "hydrogen": {
@@ -569,6 +576,28 @@
    "`M1806D9W`": "Mi Pad 4 Wi-Fi",
    "`M1806D9E`": "Mi Pad 4 LTE",
    "`M1806D9PE`": "Mi Pad 4 Plus LTE"
+  }
+ },
+ "nabu": {
+  "internal_name": "K82",
+  "name": "Mi Pad 5",
+  "models": {
+   "`21051182G`": "Mi Pad 5 Global",
+   "`21051182C`": "Mi Pad 5 China"
+  }
+ },
+ "elish": {
+  "internal_name": "K81A",
+  "name": "Mi Pad 5 Pro",
+  "models": {
+   "`M2105K81AC`": "Mi Pad 5 Pro Wi-Fi"
+  }
+ },
+ "enuma": {
+  "internal_name": "K81",
+  "name": "Mi Pad 5 Pro",
+  "models": {
+   "`M2105K81C`": "Mi Pad 5 Pro 5G"
   }
  },
  "wt93007": {
