@@ -51,6 +51,9 @@ cepheus_global - F
 cepheus_ru_global - F
 cereus_global - F
 chiron_global - F
+chopin_global - F
+chopin_id_global - F
+chopin_tr_global - F
 citrus_eea_global - F
 citrus_global - F
 citrus_id_global - F
