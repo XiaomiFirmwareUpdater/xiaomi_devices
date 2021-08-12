@@ -1170,6 +1170,12 @@
   }
  },
  {
+  "odin": {
+   "name": "MIX 4",
+   "model": "2106118C"
+  }
+ },
+ {
   "umi": {
    "name": "Mi 10",
    "model": "Mi 10"
@@ -1857,6 +1863,24 @@
   "once": {
    "name": "TELEBEE",
    "model": "MIBOX3"
+  }
+ },
+ {
+  "nabu": {
+   "name": "Xiaomi Pad 5",
+   "model": "21051182C"
+  }
+ },
+ {
+  "elish": {
+   "name": "Xiaomi Pad 5 Pro",
+   "model": "M2105K81AC"
+  }
+ },
+ {
+  "enuma": {
+   "name": "Xiaomi Pad 5 Pro 5G",
+   "model": "M2105K81C"
   }
  },
  {
