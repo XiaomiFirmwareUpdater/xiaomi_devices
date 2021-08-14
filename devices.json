@@ -480,6 +480,18 @@
   }
  },
  {
+  "camellia": {
+   "name": "Redmi Note 10T 5G",
+   "model": "M2103K19I"
+  }
+ },
+ {
+  "camellia": {
+   "name": "Redmi Note 10T 5G",
+   "model": "TBD"
+  }
+ },
+ {
   "lavender": {
    "name": "Redmi Note 7",
    "model": "Redmi Note 7"
