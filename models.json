@@ -1190,19 +1190,13 @@
    "`M2103K19PG` `M2103K19PY`": "POCO M3 Pro 5G Global"
   }
  },
- "camelliain": {
+ "camellia": {
   "internal_name": "K19/K19P",
-  "name": "Redmi Note 10T 5G/POCO M3 Pro",
+  "name": "Redmi Note 10T 5G/Redmi Note 10/POCO M3 Pro",
   "models": {
    "`M2103K19I`": "Redmi Note 10T 5G India",
+   "`M2103K19C`": "Redmi Note 10 5G China",
    "`M2103K19PI`": "POCO M3 Pro 5G India"
-  }
- },
- "camellia": {
-  "internal_name": "K19",
-  "name": "Redmi Note 10",
-  "models": {
-   "`M2103K19C`": "Redmi Note 10 5G China"
   }
  },
  "iris": {
