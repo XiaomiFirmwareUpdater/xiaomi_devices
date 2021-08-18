@@ -905,6 +905,13 @@
    "`M2010J19SL`": "Redmi 9T Brazil"
   }
  },
+ "selene": {
+  "internal_name": "K19A",
+  "name": "Redmi 10",
+  "models": {
+   "`21061119AG`": "Redmi 10 Global"
+  }
+ },
  "lcsh92_wet_gb9": {
   "internal_name": "H3W",
   "name": "Redmi Note",
