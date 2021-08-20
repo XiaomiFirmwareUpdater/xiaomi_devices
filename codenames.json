@@ -612,6 +612,8 @@
  "selene_global",
  "selene_id_global",
  "selene_in_global",
+ "selene_lm_cr_global",
+ "selene_mx_tc_global",
  "selene_ru_global",
  "selene_tr_global",
  "selene_tw_global",
