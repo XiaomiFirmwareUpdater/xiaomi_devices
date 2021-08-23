@@ -835,7 +835,7 @@
   "internal_name": "J19",
   "name": "Redmi 9 / Redmi 9 Prime",
   "models": {
-   "`M2004J19G`": "Redmi 9 Global (No NFC)",
+   "`M2004J19G`": "Redmi 9 Global",
    "`M2004J19I`": "Redmi 9 Prime India",
    "`M2004J19C`": "Redmi 9 China"
   }
@@ -910,6 +910,13 @@
   "name": "Redmi 10",
   "models": {
    "`21061119AG`": "Redmi 10 Global"
+  }
+ },
+ "eos": {
+  "internal_name": "K19D",
+  "name": "Redmi 10",
+  "models": {
+   "`21061119DG`": "Redmi 10 Global (NFC)"
   }
  },
  "lcsh92_wet_gb9": {
@@ -1101,7 +1108,7 @@
   "internal_name": "J15S",
   "name": "Redmi Note 9/Redmi 10X 4G",
   "models": {
-   "`M2003J15SS`": "Redmi Note 9 Global (No NFC)",
+   "`M2003J15SS`": "Redmi Note 9 Global",
    "`M2003J15SI`": "Redmi Note 9 India",
    "`M2003J15SC`": "Redmi 10X 4G China"
   }
