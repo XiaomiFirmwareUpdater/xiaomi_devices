@@ -457,9 +457,9 @@
  },
  "odin": {
   "internal_name": "K8",
-  "name": "Mi MIX 4",
+  "name": "Xiaomi MIX 4",
   "models": {
-   "`2106118C`": "Mi MIX 4 China"
+   "`2106118C`": "Xiaomi MIX 4 China"
   }
  },
  "hydrogen": {
@@ -580,24 +580,24 @@
  },
  "nabu": {
   "internal_name": "K82",
-  "name": "Mi Pad 5",
+  "name": "Xiaomi Pad 5",
   "models": {
-   "`21051182G`": "Mi Pad 5 Global",
-   "`21051182C`": "Mi Pad 5 China"
+   "`21051182G`": "Xiaomi Pad 5 Global",
+   "`21051182C`": "Xiaomi Pad 5 China"
   }
  },
  "elish": {
   "internal_name": "K81A",
-  "name": "Mi Pad 5 Pro",
+  "name": "Xiaomi Pad 5 Pro",
   "models": {
-   "`M2105K81AC`": "Mi Pad 5 Pro Wi-Fi"
+   "`M2105K81AC`": "Xiaomi Pad 5 Pro Wi-Fi"
   }
  },
  "enuma": {
   "internal_name": "K81",
-  "name": "Mi Pad 5 Pro",
+  "name": "Xiaomi Pad 5 Pro",
   "models": {
-   "`M2105K81C`": "Mi Pad 5 Pro 5G"
+   "`M2105K81C`": "Xiaomi Pad 5 Pro 5G"
   }
  },
  "wt93007": {
