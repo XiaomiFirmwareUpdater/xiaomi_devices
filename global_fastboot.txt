@@ -213,6 +213,9 @@ sagit_global - F
 sakura_india_global - F
 santoni_global - F
 scorpio_global - F
+selene_global - F
+selene_id_global - F
+selene_ru_global - F
 star_eea_global - F
 star_global - F
 star_id_global - F
