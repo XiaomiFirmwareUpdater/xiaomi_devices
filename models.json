@@ -902,14 +902,16 @@
   "internal_name": "J19S",
   "name": "Redmi 9T",
   "models": {
-   "`M2010J19SL`": "Redmi 9T Brazil"
+   "`M2010J19SL`": "Redmi 9T Latin America"
   }
  },
  "selene": {
-  "internal_name": "K19A",
-  "name": "Redmi 10",
+  "internal_name": "K19A/K19B",
+  "name": "Redmi 10/Redmi 10 Prime",
   "models": {
-   "`21061119AG`": "Redmi 10 Global"
+   "`21061119AG`": "Redmi 10 Global",
+   "`21061119AL`": "Redmi 10 Latin America",
+   "`21061119BI`": "Redmi 10 Prime India"
   }
  },
  "eos": {
@@ -1192,7 +1194,7 @@
   "internal_name": "K7B",
   "name": "Redmi Note 10S",
   "models": {
-   "`M2101K7BL`": "Redmi Note 10S Brazil"
+   "`M2101K7BL`": "Redmi Note 10S Latin America"
   }
  },
  "camellian": {
