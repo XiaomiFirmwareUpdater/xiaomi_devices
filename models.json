@@ -334,6 +334,13 @@
    "`M2101K9AI`": "Mi 11 Lite 4G India"
   }
  },
+ "lisa": {
+  "internal_name": "K9D",
+  "name": "Xiaomi 11 Lite 5G NE",
+  "models": {
+   "`2109119DG`": "Xiaomi 11 Lite 5G NE Global"
+  }
+ },
  "haydn": {
   "internal_name": "K11",
   "name": "Mi 11i/Redmi K40 Pro / Redmi K40 Pro+",
@@ -354,6 +361,20 @@
   "name": "Mi 11X Pro",
   "models": {
    "`M2012K11I`": "Mi 11X Pro India"
+  }
+ },
+ "amber": {
+  "internal_name": "K11R",
+  "name": "Xiaomi 11T",
+  "models": {
+   "`21081111RG`": "Xiaomi 11T Global"
+  }
+ },
+ "vili": {
+  "internal_name": "K3S",
+  "name": "Xiaomi 11T Pro",
+  "models": {
+   "`2107113SG`": "Xiaomi 11T Pro Global"
   }
  },
  "virgo": {
