@@ -338,7 +338,8 @@
   "internal_name": "K9D",
   "name": "Xiaomi 11 Lite 5G NE",
   "models": {
-   "`2109119DG`": "Xiaomi 11 Lite 5G NE Global"
+   "`2109119DG`": "Xiaomi 11 Lite 5G NE Global",
+   "`2109119DI`": "Xiaomi 11 Lite 5G NE India"
   }
  },
  "haydn": {
@@ -374,7 +375,8 @@
   "internal_name": "K3S",
   "name": "Xiaomi 11T Pro",
   "models": {
-   "`2107113SG`": "Xiaomi 11T Pro Global"
+   "`2107113SG`": "Xiaomi 11T Pro Global",
+   "`2107113SR`": "Xiaomi 11T Pro Japan"
   }
  },
  "virgo": {
