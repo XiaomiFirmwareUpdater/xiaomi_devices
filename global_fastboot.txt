@@ -94,6 +94,7 @@ gauguin_in_global - F
 gauguin_ru_global - F
 gauguin_tw_global - F
 gemini_global - F
+ginkgo_eea_global - F
 ginkgo_global - F
 ginkgo_id_global - F
 ginkgo_in_global - F
