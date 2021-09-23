@@ -1878,6 +1878,18 @@
   }
  },
  {
+  "lisa": {
+   "name": "Xiaomi 11 Lite 5G NE",
+   "model": "2109119DG"
+  }
+ },
+ {
+  "lisa": {
+   "name": "Xiaomi 11 Lite NE",
+   "model": "2109119DI"
+  }
+ },
+ {
   "amber": {
    "name": "Xiaomi 11T",
    "model": "21081111RG"
