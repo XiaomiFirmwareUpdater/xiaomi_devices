@@ -1,3 +1,5 @@
+agate_eea_global - F
+agate_global - F
 alioth_eea_global - F
 alioth_global - F
 alioth_tr_global - F
@@ -272,6 +274,11 @@ venus_in_global - F
 venus_ru_global - F
 venus_tr_global - F
 venus_tw_global - F
+vili_eea_global - F
+vili_global - F
+vili_ru_global - F
+vili_tr_global - F
+vili_tw_global - F
 vince_global - F
 vince_global - X
 violet_in_global - F
