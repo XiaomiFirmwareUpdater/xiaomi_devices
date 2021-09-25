@@ -275,6 +275,10 @@
     "display_name": "红米6A",
     "display_name_en": "Redmi 6A"
   },
+  "cactus_ru_global": {
+    "display_name": "红米6A",
+    "display_name_en": "Redmi 6A"
+  },
   "camellia": {
     "display_name": "Redmi Note 10",
     "display_name_en": "Redmi Note 10"
@@ -1132,8 +1136,8 @@
     "display_name_en": "Redmi Note7"
   },
   "lavender_in_global": {
-    "display_name": "Redmi Note7/ Redmi Note7s(48+5)",
-    "display_name_en": "Redmi Note7/ Redmi Note7s(48+5)"
+    "display_name": "Redmi Note7/ Redmi Note7S",
+    "display_name_en": "Redmi Note7/ Redmi Note7S"
   },
   "lavender_lm_cr_global": {
     "display_name": "Redmi Note7",
@@ -1248,6 +1252,10 @@
     "display_name_en": "Redmi 10X 4G"
   },
   "merlin_eea_global": {
+    "display_name": "Redmi Note 9",
+    "display_name_en": "Redmi Note 9"
+  },
+  "merlin_eea_vf_global": {
     "display_name": "Redmi Note 9",
     "display_name_en": "Redmi Note 9"
   },
@@ -1545,7 +1553,7 @@
   },
   "perseus_global": {
     "display_name": "小米 MIX3国际版",
-    "display_name_en": "MI MIX3 Global"
+    "display_name_en": "Mi Mix3"
   },
   "perseus_h3g_global": {
     "display_name": "Mi Mix3",
@@ -1553,7 +1561,7 @@
   },
   "perseus_ru_global": {
     "display_name": "小米MIX3 俄罗斯版",
-    "display_name_en": "MI MIX3 RU"
+    "display_name_en": "Mi Mix3"
   },
   "phoenix": {
     "display_name": "Redmi K30",
@@ -1692,8 +1700,8 @@
     "display_name_en": "Redmi K20 Pro"
   },
   "raphael_eea_global": {
-    "display_name": "Redmi K20 Pro EEA版本",
-    "display_name_en": "Redmi K20 Pro EEA"
+    "display_name": "Redmi K20 Pro",
+    "display_name_en": "Redmi K20 Pro"
   },
   "raphael_global": {
     "display_name": "Redmi K20 Pro 国际版",
@@ -1704,12 +1712,12 @@
     "display_name_en": "Redmi K20 Pro id"
   },
   "raphael_ru_global": {
-    "display_name": "Redmi K20 Pro 俄罗斯版",
-    "display_name_en": "Redmi K20 Pro RU"
+    "display_name": "Redmi K20 Pro",
+    "display_name_en": "Redmi K20 Pro"
   },
   "raphaelin_in_global": {
-    "display_name": "Redmi K20 Pro 印度版",
-    "display_name_en": "Redmi K20 Pro  india"
+    "display_name": "Redmi K20 Pro",
+    "display_name_en": "Redmi K20 Pro"
   },
   "raphaels": {
     "display_name": "Redmi K20 Pro 尊享版",
