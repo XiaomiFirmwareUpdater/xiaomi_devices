@@ -432,6 +432,12 @@
   }
  },
  {
+  "XIG02": {
+   "name": "Redmi Note 10 JE",
+   "model": "XIG02"
+  }
+ },
+ {
   "sweet": {
    "name": "Redmi Note 10 Pro",
    "model": "M2101K6G"
