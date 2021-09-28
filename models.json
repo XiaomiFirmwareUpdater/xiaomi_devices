@@ -339,7 +339,7 @@
   "name": "Xiaomi 11 Lite 5G NE",
   "models": {
    "`2109119DG`": "Xiaomi 11 Lite 5G NE Global",
-   "`2109119DI`": "Xiaomi 11 Lite 5G NE India"
+   "`2109119DI`": "Xiaomi 11 Lite NE 5G India"
   }
  },
  "haydn": {
@@ -530,6 +530,13 @@
   "name": "Mi CC 9e",
   "models": {
    "`M1906F9SC`": "Mi CC 9e China"
+  }
+ },
+ "mona": {
+  "internal_name": "F9B",
+  "name": "Xiaomi Civi",
+  "models": {
+   "`2109119BC`": "Xiaomi Civi China"
   }
  },
  "lotus": {
@@ -876,8 +883,8 @@
   "models": {
    "`M2006C3LG`": "Redmi 9A Global",
    "`M2006C3LVG`": "Redmi 9AT Global",
-   "`M2006C3LI`": "Redmi 9A India",
-   "`M2006C3LII`": "Redmi 9i India",
+   "`M2006C3LI`": "Redmi 9A / Redmi 9A Sport India",
+   "`M2006C3LII`": "Redmi 9i / Redmi 9i Sport India",
    "`M2006C3LC`": "Redmi 9A China"
   }
  },
@@ -898,9 +905,9 @@
  },
  "cattail": {
   "internal_name": "C3MI",
-  "name": "Redmi 9",
+  "name": "Redmi 9 / Redmi 9 Activ",
   "models": {
-   "`M2006C3MII`": "Redmi 9 India"
+   "`M2006C3MII`": "Redmi 9 / Redmi 9 Activ India"
   }
  },
  "lime": {
