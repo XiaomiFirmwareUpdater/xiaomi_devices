@@ -1,4 +1,4 @@
-name: Models cronjob
+name: Codenames cronjob
 
 on:
   push:
