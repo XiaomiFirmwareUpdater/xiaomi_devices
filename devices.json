@@ -114,6 +114,24 @@
   }
  },
  {
+  "eos": {
+   "name": "Redmi 10",
+   "model": "21061119DG"
+  }
+ },
+ {
+  "selene": {
+   "name": "Redmi 10",
+   "model": "21061119AG"
+  }
+ },
+ {
+  "selene": {
+   "name": "Redmi 10",
+   "model": "21061119AL"
+  }
+ },
+ {
   "apricot": {
    "name": "Redmi 10X",
    "model": "M2004J7AC"
