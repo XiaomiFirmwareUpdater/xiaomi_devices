@@ -1169,11 +1169,12 @@
  },
  "curtana": {
   "internal_name": "J6A1",
-  "name": "Redmi Note 9 Pro / Redmi Note 9S",
+  "name": "Redmi Note 9 Pro / Redmi Note 9S/Redmi Note 10 Lite",
   "models": {
    "`M2003J6A1G`": "Redmi Note 9S Global",
    "`M2003J6A1R`": "Redmi Note 9S Japan / Korea",
-   "`M2003J6A1I`": "Redmi Note 9 Pro India"
+   "`M2003J6A1I`": "Redmi Note 9 Pro India",
+   "`2109106A1I`": "Redmi Note 10 Lite India"
   }
  },
  "excalibur": {
