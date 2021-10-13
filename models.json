@@ -1538,17 +1538,17 @@
  },
  "penrose": {
   "internal_name": "",
-  "name": "Black Shark 4 (`penrose`)",
+  "name": "Black Shark 4 (`penrose`)/Black Shark 4S (`penrose`)",
   "models": {
    "`SHARK PRS-H0`": "Black Shark 4 Global",
-   "`SHARK PRS-A0`": "Black Shark 4 China"
+   "`SHARK PRS-A0`": "Black Shark 4S China"
   }
  },
  "kaiser": {
   "internal_name": "",
-  "name": "Black Shark 4 Pro (`kaiser`)",
+  "name": "Black Shark 4 Pro (`kaiser`)/Black Shark 4S Pro (`kaiser`)",
   "models": {
-   "`SHARK KSR-A0`": "Black Shark 4 Pro China"
+   "`SHARK KSR-A0`": "Black Shark 4S Pro China"
   }
  },
  "baiji": {
