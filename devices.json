@@ -519,10 +519,6 @@
     "display_name": "小米10 Pro",
     "display_name_en": "Mi 10 Pro"
   },
-  "cmi_in_global": {
-    "display_name": "小米10Pro 印度版",
-    "display_name_en": "Mi 10 Pro IN-GLOBAL"
-  },
   "comet_global": {
     "display_name": "COMET-GLOBAL",
     "display_name_en": "COMET-GLOBAL"
@@ -854,10 +850,6 @@
   "gucci_global": {
     "display_name": "红米Note 双卡国际版",
     "display_name_en": "HM NOTE 1S Global"
-  },
-  "hammerhead": {
-    "display_name": "Google Nexus 5",
-    "display_name_en": ""
   },
   "haydn": {
     "display_name": "Redmi K40 Pro",
@@ -1723,10 +1715,6 @@
     "display_name": "Redmi K20 Pro",
     "display_name_en": "Redmi K20 Pro"
   },
-  "raphaels": {
-    "display_name": "Redmi K20 Pro 尊享版",
-    "display_name_en": "Redmi K20 Pro"
-  },
   "renoir": {
     "display_name": "小米11 青春版",
     "display_name_en": "Mi 11 Lite 5G"
@@ -1938,10 +1926,6 @@
   "surya_tr_global": {
     "display_name": "POCO X3 NFC",
     "display_name_en": "POCO X3 NFC"
-  },
-  "sweet": {
-    "display_name": "Redmi Note 10 Pro",
-    "display_name_en": "Redmi Note 10 Pro"
   },
   "sweet_cl_en_global": {
     "display_name": "Redmi Note 10 Pro",
@@ -2277,10 +2261,6 @@
   },
   "venus": {
     "display_name": "小米11",
-    "display_name_en": "Mi 11"
-  },
-  "venus_in_global": {
-    "display_name": "Mi 11",
     "display_name_en": "Mi 11"
   },
   "vince": {
