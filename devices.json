@@ -42,6 +42,18 @@
   }
  },
  {
+  "camellia": {
+   "name": "POCO M3 Pro 5G",
+   "model": "M2103K19PI"
+  }
+ },
+ {
+  "camellian": {
+   "name": "POCO M3 Pro 5G",
+   "model": "M2103K19PG"
+  }
+ },
+ {
   "phoenixin": {
    "name": "POCO X2",
    "model": "POCO X2"
@@ -93,6 +105,12 @@
   "davinci": {
    "name": "Mi 9T",
    "model": "Mi 9T"
+  }
+ },
+ {
+  "rango": {
+   "name": "MiTV",
+   "model": "MiTV-AXFR0"
   }
  },
  {
@@ -501,6 +519,12 @@
   "secret": {
    "name": "Redmi Note 10S",
    "model": "M2101K7BI"
+  }
+ },
+ {
+  "camellian": {
+   "name": "Redmi Note 10T",
+   "model": "M2103K19Y"
   }
  },
  {
@@ -1593,6 +1617,12 @@
   "dangalUHD": {
    "name": "MiTV",
    "model": "MiTV-AXSO2"
+  }
+ },
+ {
+  "hermano": {
+   "name": "MiTV",
+   "model": "MiTV-MOSR0"
   }
  },
  {
