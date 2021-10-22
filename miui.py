@@ -12,7 +12,7 @@ def main():
     Scrap Xiaomi devices MIUI codes and generate JSON files
     """
     data = yaml.load(get(
-        "https://raw.githubusercontent.com/XiaomiFirmwareUpdater/miui-updates-tracker/master/data/latest.yml").text, Loader=yaml.CLoader)
+        "https://raw.githubusercontent.com/XiaomiFirmwareUpdater/miui-updates-tracker/master/data/latest.yml").text, Loader=yaml.FullLoader)
     info = {}
     for i in data:
         if i['branch'] != "Weekly" and i['method'] == "Recovery":
