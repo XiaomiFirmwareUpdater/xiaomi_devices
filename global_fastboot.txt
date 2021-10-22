@@ -36,6 +36,7 @@ camellian_eea_global - F
 camellian_eea_global - F
 camellian_global - F
 camellian_global - F
+camellian_global - F
 camellian_id_global - F
 camellian_ru_global - F
 camellian_ru_global - F
@@ -127,12 +128,19 @@ lavender_eea_global - F
 lavender_global - F
 lavender_in_global - F
 lavender_ru_global - F
+lime_eea_global - F
 lime_global - F
 lime_global - F
 lime_global - F
 lime_ru_global - F
 lime_tr_global - F
 lime_tw_global - F
+lisa_eea_global - F
+lisa_global - F
+lisa_in_global - F
+lisa_ru_global - F
+lisa_tr_global - F
+lisa_tw_global - F
 lithium_global - F
 lmi_eea_global - F
 lmi_global - F
@@ -160,6 +168,8 @@ mojito_tr_global - F
 monet_eea_global - F
 monet_global - F
 monet_tw_global - F
+nabu_global - F
+nabu_tw_global - F
 natrium_global - F
 nitrogen_global - F
 nitrogen_ru_global - F
@@ -219,6 +229,7 @@ scorpio_global - F
 selene_global - F
 selene_id_global - F
 selene_ru_global - F
+selene_tw_global - F
 star_eea_global - F
 star_global - F
 star_id_global - F
