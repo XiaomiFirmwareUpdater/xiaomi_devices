@@ -1278,6 +1278,27 @@
    "`21061110AG`": "POCO X3 GT Global"
   }
  },
+ "evergo": {
+  "internal_name": "K16A",
+  "name": "Redmi Note 11",
+  "models": {
+   "`21091116AC`": "Redmi Note 11 China"
+  }
+ },
+ "pissarro": {
+  "internal_name": "K16",
+  "name": "Redmi Note 11 Pro",
+  "models": {
+   "`21091116C`": "Redmi Note 11 Pro China"
+  }
+ },
+ "pissarropro": {
+  "internal_name": "K16U",
+  "name": "Redmi Note 11 Pro+",
+  "models": {
+   "`21091116UC`": "Redmi Note 11 Pro+ China"
+  }
+ },
  "atom": {
   "internal_name": "J7A",
   "name": "Redmi 10X 5G",
