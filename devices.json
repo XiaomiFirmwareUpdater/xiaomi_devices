@@ -53,7 +53,7 @@
  ],
  "courbet": [
   "Mi 11 Lite 4G",
-  "MI11Lite4G"
+  "MI11Lite"
  ],
  "crux": [
   "Mi 9 Pro 5G",
@@ -171,6 +171,10 @@
   "Redmi Note 4/4X Global",
   "HMNote4X"
  ],
+ "mona": [
+  "Xiaomi Civi",
+  "XMCivi"
+ ],
  "monet": [
   "Mi 10 Lite 5G Global",
   "MI10LITE5G"
@@ -194,6 +198,10 @@
  "nitrogen": [
   "Mi Max 3",
   "MIMAX3"
+ ],
+ "odin": [
+  "Xiaomi MIX 4",
+  "MIX4"
  ],
  "omega": [
   "Redmi Pro",
