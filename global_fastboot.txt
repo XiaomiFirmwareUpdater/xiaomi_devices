@@ -169,6 +169,7 @@ mojito_tr_global - F
 monet_eea_global - F
 monet_global - F
 monet_tw_global - F
+nabu_eea_global - F
 nabu_global - F
 nabu_tw_global - F
 natrium_global - F
@@ -227,6 +228,7 @@ sagit_global - F
 sakura_india_global - F
 santoni_global - F
 scorpio_global - F
+selene_eea_global - F
 selene_global - F
 selene_id_global - F
 selene_ru_global - F
