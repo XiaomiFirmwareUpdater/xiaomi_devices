@@ -715,6 +715,10 @@
     "display_name": "MI 8 Pro",
     "display_name_en": "MI 8 Pro"
   },
+  "evergo": {
+    "display_name": "Redmi Note11 5G",
+    "display_name_en": "Redmi Note11 5G"
+  },
   "excalibur_in_global": {
     "display_name": "Redmi Note 9 Pro Max",
     "display_name_en": "Redmi Note 9 Pro Max"
@@ -1618,6 +1622,10 @@
   "pisces_global": {
     "display_name": "PISCES-GLOBAL",
     "display_name_en": "PISCES-GLOBAL"
+  },
+  "pissarro": {
+    "display_name": "Redmi Note11 Pro/Redmi Note11 Pro+",
+    "display_name_en": "Redmi Note11 Pro/Redmi Note11 Pro+"
   },
   "platina": {
     "display_name": "小米 8 青春版",
