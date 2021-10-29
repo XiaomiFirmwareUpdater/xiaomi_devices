@@ -540,6 +540,24 @@
   }
  },
  {
+  "evergo": {
+   "name": "Redmi Note 11 5G",
+   "model": "21091116AC"
+  }
+ },
+ {
+  "pissarro": {
+   "name": "Redmi Note 11 Pro",
+   "model": "21091116C"
+  }
+ },
+ {
+  "pissarropro": {
+   "name": "Redmi Note 11 Pro+",
+   "model": "21091116UC"
+  }
+ },
+ {
   "lavender": {
    "name": "Redmi Note 7",
    "model": "Redmi Note 7"
@@ -1958,7 +1976,19 @@
  {
   "vili": {
    "name": "Xiaomi 11T Pro",
+   "model": "2107113SI"
+  }
+ },
+ {
+  "vili": {
+   "name": "Xiaomi 11T Pro",
    "model": "2107113SR"
+  }
+ },
+ {
+  "mona": {
+   "name": "Xiaomi Civi",
+   "model": "2109119BC"
   }
  },
  {
