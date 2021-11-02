@@ -379,6 +379,20 @@
    "`2107113SR`": "Xiaomi 11T Pro Japan"
   }
  },
+ "pissarroin": {
+  "internal_name": "K16",
+  "name": "Xiaomi 11i",
+  "models": {
+   "`21091116I`": "Xiaomi 11i India"
+  }
+ },
+ "pissarroinpro": {
+  "internal_name": "K16U",
+  "name": "Xiaomi 11i HyperCharge",
+  "models": {
+   "`21091116UI`": "Xiaomi 11i HyperCharge India"
+  }
+ },
  "virgo": {
   "internal_name": "X5",
   "name": "Mi Note",
@@ -1230,7 +1244,7 @@
  },
  "camellian": {
   "internal_name": "K19/K19P",
-  "name": "Redmi Note 10 5G / Redmi Note 10T/POCO M3 Pro",
+  "name": "Redmi Note 10 5G / Redmi Note 10T/POCO M3 Pro 5G",
   "models": {
    "`M2103K19G`": "Redmi Note 10 5G Global",
    "`M2103K19Y`": "Redmi Note 10T Global",
@@ -1239,7 +1253,7 @@
  },
  "camellia": {
   "internal_name": "K19/K19P",
-  "name": "Redmi Note 10T 5G/Redmi Note 10/POCO M3 Pro",
+  "name": "Redmi Note 10 5G / Redmi Note 10T/POCO M3 Pro 5G",
   "models": {
    "`M2103K19I`": "Redmi Note 10T 5G India",
    "`M2103K19C`": "Redmi Note 10 5G China",
@@ -1280,8 +1294,9 @@
  },
  "evergo": {
   "internal_name": "K16A",
-  "name": "Redmi Note 11",
+  "name": "Redmi Note 11 / Redmi Note 11T",
   "models": {
+   "`21091116AI`": "Redmi Note 11T India",
    "`21091116AC`": "Redmi Note 11 China"
   }
  },
@@ -1500,6 +1515,13 @@
    "`M2010J19CG`": "POCO M3 Global",
    "`M2010J19CT`": "POCO M3 Thailand",
    "`M2010J19CI`": "POCO M3 India"
+  }
+ },
+ "evergreen": {
+  "internal_name": "K16A",
+  "name": "POCO M4 Pro 5G",
+  "models": {
+   "`21091116AG`": "POCO M4 Pro 5G Global"
   }
  },
  "angelicain": {
