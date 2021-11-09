@@ -87,10 +87,6 @@
     "display_name": "Redmi 9C NFC",
     "display_name_en": "Redmi 9C NFC"
   },
-  "angelican_eea_sf_global": {
-    "display_name": "Redmi 9C NFC",
-    "display_name_en": "Redmi 9C NFC"
-  },
   "angelican_global": {
     "display_name": "Redmi 9C NFC",
     "display_name_en": "Redmi 9C NFC"
@@ -170,10 +166,6 @@
   "ares": {
     "display_name": "Redmi K40游戏增强版",
     "display_name_en": "Redmi K40 Gaming"
-  },
-  "ares_global": {
-    "display_name": "POCO F3 GT",
-    "display_name_en": "POCO F3 GT"
   },
   "ares_in_global": {
     "display_name": "POCO F3 GT",
@@ -955,10 +947,6 @@
     "display_name": "Redmi Note 9 Pro",
     "display_name_en": "Redmi Note 9 Pro"
   },
-  "joyeuse_eea_pl_global": {
-    "display_name": "Redmi Note 9 Pro",
-    "display_name_en": "Redmi Note 9 Pro"
-  },
   "joyeuse_eea_sf_global": {
     "display_name": "Redmi Note 9 Pro",
     "display_name_en": "Redmi Note 9 Pro"
@@ -988,10 +976,6 @@
     "display_name_en": "Redmi Note 9 Pro"
   },
   "joyeuse_mx_tc_global": {
-    "display_name": "Redmi Note 9 Pro",
-    "display_name_en": "Redmi Note 9 Pro"
-  },
-  "joyeuse_mx_telcel_global": {
     "display_name": "Redmi Note 9 Pro",
     "display_name_en": "Redmi Note 9 Pro"
   },
@@ -1323,10 +1307,6 @@
     "display_name": "Xiaomi Civi",
     "display_name_en": "Xiaomi Civi"
   },
-  "monet_camera_global": {
-    "display_name": "Mi 10 Lite 5G",
-    "display_name_en": "Mi 10 Lite 5G"
-  },
   "monet_eea_global": {
     "display_name": "Mi 10 Lite 5G",
     "display_name_en": "Mi 10 Lite 5G"
@@ -1482,10 +1462,6 @@
   "olivelite_ru_global": {
     "display_name": "Redmi 8A",
     "display_name_en": "Redmi 8A"
-  },
-  "olivewood_in_ai_global": {
-    "display_name": "Redmi 8A Dual",
-    "display_name_en": "Redmi 8A Dual"
   },
   "olivewood_in_global": {
     "display_name": "Redmi 8A Dual",
@@ -1903,10 +1879,6 @@
     "display_name": "Mi 11 Ultra",
     "display_name_en": "Mi 11 Ultra"
   },
-  "star_ru_global": {
-    "display_name": "Mi 11 Ultra",
-    "display_name_en": "Mi 11 Ultra"
-  },
   "surya_eea_global": {
     "display_name": "POCO X3 NFC",
     "display_name_en": "POCO X3 NFC"
@@ -1999,10 +1971,6 @@
     "display_name": "Redmi Note 10 Pro",
     "display_name_en": "Redmi Note 10 Pro"
   },
-  "sweet_za_mt_global": {
-    "display_name": "Redmi Note 10 Pro",
-    "display_name_en": "Redmi Note 10 Pro"
-  },
   "sweet_za_vc_global": {
     "display_name": "Redmi Note 10 Pro",
     "display_name_en": "Redmi Note 10 Pro"
@@ -2072,10 +2040,6 @@
     "display_name_en": "Mi Note 10 Lite"
   },
   "toco_global": {
-    "display_name": "Mi Note 10 Lite",
-    "display_name_en": "Mi Note 10 Lite"
-  },
-  "toco_mx_tc_global": {
     "display_name": "Mi Note 10 Lite",
     "display_name_en": "Mi Note 10 Lite"
   },
@@ -2208,10 +2172,6 @@
     "display_name_en": "Mi 10"
   },
   "umi_in_global": {
-    "display_name": "小米10",
-    "display_name_en": "Mi 10"
-  },
-  "umi_mx_tc_global": {
     "display_name": "小米10",
     "display_name_en": "Mi 10"
   },
