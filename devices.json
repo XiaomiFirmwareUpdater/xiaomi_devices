@@ -199,10 +199,6 @@
     "display_name": "Redmi Note 8 Pro",
     "display_name_en": "Redmi Note 8 Pro"
   },
-  "begonia_cl_en_global": {
-    "display_name": "Redmi Note 8 Pro",
-    "display_name_en": "Redmi Note 8 Pro"
-  },
   "begonia_eea_global": {
     "display_name": "Redmi Note 8 Pro",
     "display_name_en": "Redmi Note 8 Pro"
@@ -420,10 +416,6 @@
     "display_name_en": "MI 9"
   },
   "cepheus_global": {
-    "display_name": "小米 9",
-    "display_name_en": "MI 9"
-  },
-  "cepheus_h3g_global": {
     "display_name": "小米 9",
     "display_name_en": "MI 9"
   },
@@ -1683,10 +1675,6 @@
     "display_name": "Redmi K20 Pro 国际版",
     "display_name_en": "Redmi K20 Pro GLOBAL"
   },
-  "raphael_id_global": {
-    "display_name": "Redmi K20 Pro 印尼",
-    "display_name_en": "Redmi K20 Pro id"
-  },
   "raphael_ru_global": {
     "display_name": "Redmi K20 Pro",
     "display_name_en": "Redmi K20 Pro"
@@ -2067,10 +2055,6 @@
     "display_name": "Mi Note 10",
     "display_name_en": "Mi Note 10"
   },
-  "tucana_eea_sf_global": {
-    "display_name": "Mi Note 10",
-    "display_name_en": "Mi Note 10"
-  },
   "tucana_eea_tf_global": {
     "display_name": "Mi Note 10",
     "display_name_en": "Mi Note 10"
@@ -2243,10 +2227,6 @@
     "display_name": "Redmi Note 7 Pro",
     "display_name_en": "Redmi Note 7 Pro"
   },
-  "violet_global": {
-    "display_name": "Redmi Note 7 Pro Global",
-    "display_name_en": "Redmi Note 7 Pro Global"
-  },
   "violet_in_global": {
     "display_name": "Redmi Note 7 Pro",
     "display_name_en": "Redmi Note 7 Pro"
@@ -2284,24 +2264,24 @@
     "display_name_en": "Redmi Note 5"
   },
   "willow_eea_global": {
-    "display_name": "Readmi 8T",
-    "display_name_en": "Readmi 8T"
+    "display_name": "Redmi 8T",
+    "display_name_en": "Redmi 8T"
   },
   "willow_eea_hg_global": {
     "display_name": "Redmi Note 8T",
     "display_name_en": "Redmi Note 8T"
   },
   "willow_eea_or_global": {
-    "display_name": "Readmi 8T",
-    "display_name_en": "Readmi 8T"
+    "display_name": "Redmi 8T",
+    "display_name_en": "Redmi 8T"
   },
   "willow_global": {
-    "display_name": "Readmi 8T",
-    "display_name_en": "Readmi 8T"
+    "display_name": "Redmi 8T",
+    "display_name_en": "Redmi 8T"
   },
   "willow_ru_global": {
-    "display_name": "Readmi 8T",
-    "display_name_en": "Readmi 8T"
+    "display_name": "Redmi 8T",
+    "display_name_en": "Redmi 8T"
   },
   "wt86047": {
     "display_name": "红米手机2 移动版",
