@@ -950,12 +950,14 @@
   }
  },
  "selene": {
-  "internal_name": "K19A/K19B",
-  "name": "Redmi 10/Redmi 10 Prime",
+  "internal_name": "K19A/K19B/K19S/K19S",
+  "name": "Redmi 10/Redmi 10 Prime/Redmi 10 2022/Redmi Note 11 4G",
   "models": {
    "`21061119AG`": "Redmi 10 Global",
    "`21061119AL`": "Redmi 10 Latin America",
-   "`21061119BI`": "Redmi 10 Prime India"
+   "`21061119BI`": "Redmi 10 Prime India",
+   "`21121119SG`": "Redmi 10 2022 Global",
+   "`21121119SC`": "Redmi Note 11 4G China"
   }
  },
  "eos": {
@@ -1294,10 +1296,10 @@
  },
  "evergo": {
   "internal_name": "K16A",
-  "name": "Redmi Note 11 / Redmi Note 11T",
+  "name": "Redmi Note 11 5G / Redmi Note 11T",
   "models": {
-   "`21091116AI`": "Redmi Note 11T India",
-   "`21091116AC`": "Redmi Note 11 China"
+   "`21091116AI`": "Redmi Note 11T 5G India",
+   "`21091116AC`": "Redmi Note 11 5G China"
   }
  },
  "pissarro": {
@@ -1353,7 +1355,7 @@
   "internal_name": "G7A",
   "name": "Redmi K30 5G",
   "models": {
-   "`M2001G7AE`": "Redmi K30 5G China / Redmi K30 5G Speed Edition China",
+   "`M2001G7AE`": "Redmi K30 5G China / Redmi K30 5G Speed China",
    "`M2001G7AC`": "Redmi K30 5G China"
   }
  },
