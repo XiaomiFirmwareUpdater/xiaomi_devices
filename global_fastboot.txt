@@ -71,6 +71,7 @@ cmi_in_global - F
 cmi_tr_global - F
 courbet_eea_global - F
 courbet_global - F
+courbet_ru_global - F
 curtana_eea_global - F
 curtana_global - F
 curtana_in_global - F
