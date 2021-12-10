@@ -143,6 +143,10 @@
   "Redmi 9T / Redmi Note 9 4G China",
   "HMNote94G_HM9T"
  ],
+ "lisa": [
+  "Xiaomi 11 Lite 5G NE / Mi 11 LE China",
+  "TBD"
+ ],
  "lithium": [
   "Mi MIX",
   "MIMIX"
@@ -362,6 +366,10 @@
  "venus": [
   "Mi 11",
   "MI11"
+ ],
+ "vili": [
+  "Xiaomi 11T Pro",
+  "TBD"
  ],
  "vince": [
   "Redmi 5 Plus",
