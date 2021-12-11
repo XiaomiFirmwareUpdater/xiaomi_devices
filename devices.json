@@ -138,20 +138,26 @@
   }
  },
  {
+  "eos": {
+   "name": "Redmi 10 2022",
+   "model": "21061119DG"
+  }
+ },
+ {
   "selene": {
-   "name": "Redmi 10",
+   "name": "Redmi 10 2022",
    "model": "21061119AG"
   }
  },
  {
   "selene": {
-   "name": "Redmi 10",
+   "name": "Redmi 10 2022",
    "model": "21061119AL"
   }
  },
  {
   "selene": {
-   "name": "Redmi 10",
+   "name": "Redmi 10 2022",
    "model": "21121119SG"
   }
  },
