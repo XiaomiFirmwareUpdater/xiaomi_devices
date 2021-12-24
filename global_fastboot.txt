@@ -1,5 +1,6 @@
 agate_eea_global - F
 agate_global - F
+agate_ru_global - F
 agate_tw_global - F
 alioth_eea_global - F
 alioth_global - F
@@ -95,6 +96,7 @@ equuleus_ru_global - F
 evergreen_eea_global - F
 evergreen_global - F
 evergreen_ru_global - F
+evergreen_tw_global - F
 excalibur_in_global - F
 gauguin_eea_global - F
 gauguin_global - F
