@@ -543,6 +543,10 @@
     "display_name": "小米手机9Pro 5G",
     "display_name_en": "Mi 9Pro 5G"
   },
+  "cupid": {
+    "display_name": "Xiaomi 12",
+    "display_name_en": "Xiaomi 12"
+  },
   "curtana_eea_global": {
     "display_name": "Redmi Note 9S",
     "display_name_en": "Redmi Note 9S"
@@ -1635,6 +1639,10 @@
     "display_name": "红米手机4标准国际版",
     "display_name_en": "Redmi 4 Global"
   },
+  "psyche": {
+    "display_name": "Xiaomi 12X",
+    "display_name_en": "Xiaomi 12X"
+  },
   "pyxis": {
     "display_name": "小米CC 9",
     "display_name_en": "MI CC 9"
@@ -2322,5 +2330,9 @@
   "ysl_in_global": {
     "display_name": "Redmi Y2",
     "display_name_en": "Redmi Y2"
+  },
+  "zeus": {
+    "display_name": "Xiaomi 12 Pro",
+    "display_name_en": "Xiaomi 12 Pro"
   }
 }
