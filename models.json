@@ -394,6 +394,30 @@
    "`21091116UI`": "Xiaomi 11i HyperCharge India"
   }
  },
+ "cupid": {
+  "internal_name": "L3",
+  "name": "Xiaomi 12",
+  "models": {
+   "`2201123G`": "Xiaomi 12 Global",
+   "`2201123C`": "Xiaomi 12 China"
+  }
+ },
+ "psyche": {
+  "internal_name": "L3A",
+  "name": "Xiaomi 12X",
+  "models": {
+   "`2112123AG`": "Xiaomi 12X Global",
+   "`2112123AC`": "Xiaomi 12X China"
+  }
+ },
+ "zeus": {
+  "internal_name": "L2",
+  "name": "Xiaomi 12 Pro",
+  "models": {
+   "`2201122G`": "Xiaomi 12 Pro Global",
+   "`2201122C`": "Xiaomi 12 Pro China"
+  }
+ },
  "virgo": {
   "internal_name": "X5",
   "name": "Mi Note",
@@ -951,20 +975,23 @@
   }
  },
  "selene": {
-  "internal_name": "K19A/K19B/K19S",
-  "name": "Redmi 10/Redmi 10 Prime/Redmi 10 2022",
+  "internal_name": "K19A/K19B/K19S/K19T",
+  "name": "Redmi 10/Redmi 10 Prime/Redmi 10 2022/Redmi 10 Prime 2022",
   "models": {
    "`21061119AG`": "Redmi 10 Global",
    "`21061119AL`": "Redmi 10 Latin America",
    "`21061119BI`": "Redmi 10 Prime India",
-   "`21121119SG`": "Redmi 10 2022 Global"
+   "`21121119SG`": "Redmi 10 2022 Global",
+   "`21121119VL`": "Redmi 10 2022 Latin America",
+   "`22011119TI`": "Redmi 10 Prime 2022 India"
   }
  },
  "eos": {
-  "internal_name": "K19D",
-  "name": "Redmi 10",
+  "internal_name": "K19D/K19U",
+  "name": "Redmi 10/Redmi 10 2022",
   "models": {
-   "`21061119DG`": "Redmi 10 Global (NFC)"
+   "`21061119DG`": "Redmi 10 Global (NFC)",
+   "`22011119UY`": "Redmi 10 2022 Global (NFC)"
   }
  },
  "lcsh92_wet_gb9": {
