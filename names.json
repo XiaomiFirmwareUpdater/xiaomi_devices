@@ -197,6 +197,7 @@
  "courbet_tr_global": "Mi 11 Lite 4G Turkey",
  "croods": "MiTV",
  "crux": "Mi 9 Pro 5G China",
+ "cupid": "Xiaomi 12 China",
  "curtana": "Redmi Note 9 Pro / Redmi Note 9S/Redmi Note 10 Lite",
  "curtana_eea_global": "Redmi Note 9S EEA",
  "curtana_global": "Redmi Note 9S Global",
@@ -800,5 +801,6 @@
  "ysl": "Redmi S2 China",
  "ysl_global": "Redmi S2/Y2 Global",
  "ysl_in_global": "Redmi Y2",
- "ysl_ru_global": "Redmi S2 Russia"
+ "ysl_ru_global": "Redmi S2 Russia",
+ "zeus": "Xiaomi 12 Pro China"
 }
