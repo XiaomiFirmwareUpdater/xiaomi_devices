@@ -117,6 +117,7 @@
  "courbet_ru_global": "KQRU",
  "courbet_tr_global": "KQTR",
  "crux": "FXCN",
+ "cupid": "LCCN",
  "curtana_eea_global": "JWEU",
  "curtana_global": "JWMI",
  "curtana_in_global": "JWIN",
@@ -478,5 +479,6 @@
  "wt88047_pro_global": "HJMI",
  "ysl": "EFCN",
  "ysl_global": "EFMI",
- "ysl_ru_global": "EFRU"
+ "ysl_ru_global": "EFRU",
+ "zeus": "LBCN"
 }
