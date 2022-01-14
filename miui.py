@@ -15,7 +15,7 @@ def main():
         "https://raw.githubusercontent.com/XiaomiFirmwareUpdater/miui-updates-tracker/master/data/latest.yml").text, Loader=yaml.FullLoader)
     info = {}
     for i in data:
-        if i['branch'] != "Weekly" and i['method'] == "Recovery":
+        if i['branch'] != "Weekly" and i['method'] == "Recovery" and not i['version'].endswith('DEV'):
             codename = i['codename']
             version = i['version']
             miui_code = version.split('.')[-1][1:5]
