@@ -51,6 +51,10 @@
   "Mi 9 Pro 5G",
   "MI9Pro5G"
  ],
+ "cupid": [
+  "Xiaomi 12",
+  "XM12"
+ ],
  "curtana": [
   "Redmi Note 9S / Redmi Note 9 Pro India",
   "HMNote9Pro_HMNote9S"
@@ -243,6 +247,10 @@
   "Redmi K30i 5G",
   "HMK30i5G"
  ],
+ "psyche": [
+  "Xiaomi 12X",
+  "XM12X"
+ ],
  "pyxis": [
   "Mi CC9",
   "MI9LiteMICC9"
@@ -378,5 +386,9 @@
  "ysl": [
   "Redmi S2",
   "HMS2"
+ ],
+ "zeus": [
+  "Xiaomi 12 Pro",
+  "XM12Pro"
  ]
 }
