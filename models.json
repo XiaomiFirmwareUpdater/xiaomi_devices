@@ -1329,12 +1329,67 @@
    "`21121119SC`": "Redmi Note 11 4G China"
   }
  },
+ "spes": {
+  "internal_name": "K7T",
+  "name": "Redmi Note 11",
+  "models": {
+   "`2201117TG`": "Redmi Note 11 Global",
+   "`2201117TI`": "Redmi Note 11 India",
+   "`2201117TL`": "Redmi Note 11 Latin America"
+  }
+ },
+ "spesn": {
+  "internal_name": "K7T",
+  "name": "Redmi Note 11",
+  "models": {
+   "`2201117TY`": "Redmi Note 11 Global (NFC)"
+  }
+ },
+ "miel": {
+  "internal_name": "K7S",
+  "name": "Redmi Note 11S",
+  "models": {
+   "`2201117SG`": "Redmi Note 11S Global",
+   "`2201117SI`": "Redmi Note 11S India",
+   "`2201117SL`": "Redmi Note 11S Latin America"
+  }
+ },
+ "fleur": {
+  "internal_name": "K7S",
+  "name": "Redmi Note 11S",
+  "models": {
+   "`2201117SY`": "Redmi Note 11S Global (NFC)"
+  }
+ },
  "evergo": {
   "internal_name": "K16A",
   "name": "Redmi Note 11 5G / Redmi Note 11T",
   "models": {
    "`21091116AI`": "Redmi Note 11T 5G India",
    "`21091116AC`": "Redmi Note 11 5G China"
+  }
+ },
+ "viva": {
+  "internal_name": "K6T",
+  "name": "Redmi Note 11 Pro",
+  "models": {
+   "`2201116TG`": "Redmi Note 11 Pro Global"
+  }
+ },
+ "vida": {
+  "internal_name": "K6T",
+  "name": "Redmi Note 11 Pro",
+  "models": {
+   "`2201116TI`": "Redmi Note 11 Pro India"
+  }
+ },
+ "veux": {
+  "internal_name": "K6S",
+  "name": "Redmi Note 11 Pro 5G",
+  "models": {
+   "`2201116SG`": "Redmi Note 11 Pro 5G Global",
+   "`2201116SR`": "Redmi Note 11 Pro 5G Japan",
+   "`2201116SI`": "Redmi Note 11 Pro 5G India"
   }
  },
  "pissarro": {
@@ -1348,6 +1403,7 @@
   "internal_name": "K16U",
   "name": "Redmi Note 11 Pro+",
   "models": {
+   "`21091116UG`": "Redmi Note 11 Pro+ 5G Global",
    "`21091116UC`": "Redmi Note 11 Pro+ China"
   }
  },
