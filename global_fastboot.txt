@@ -47,6 +47,7 @@ camellian_tw_global - F
 camellian_tw_global - F
 cancro_global - F
 cannong_eea_global - F
+cannong_global - F
 cannong_ru_global - F
 cannong_tw_global - F
 capricorn_global - F
@@ -96,8 +97,19 @@ equuleus_ru_global - F
 evergreen_eea_global - F
 evergreen_global - F
 evergreen_ru_global - F
+evergreen_ru_global - F
 evergreen_tw_global - F
 excalibur_in_global - F
+fleur_eea_global - F
+fleur_eea_global - F
+fleur_global - F
+fleur_global - F
+fleur_in_global - F
+fleur_in_global - F
+fleur_ru_global - F
+fleur_ru_global - F
+fleur_tw_global - F
+fleur_tw_global - F
 gauguin_eea_global - F
 gauguin_global - F
 gauguin_in_global - F
@@ -241,6 +253,9 @@ selene_global - F
 selene_id_global - F
 selene_ru_global - F
 selene_tw_global - F
+spes_global - F
+spesn_eea_global - F
+spesn_ru_global - F
 star_eea_global - F
 star_global - F
 star_id_global - F
@@ -296,6 +311,11 @@ venus_in_global - F
 venus_ru_global - F
 venus_tr_global - F
 venus_tw_global - F
+veux_eea_global - F
+veux_global - F
+veux_ru_global - F
+veux_tr_global - F
+veux_tw_global - F
 vili_eea_global - F
 vili_global - F
 vili_jp_global - F
@@ -305,6 +325,7 @@ vili_tw_global - F
 vince_global - F
 vince_global - X
 violet_in_global - F
+viva_global - F
 whyred_global - F
 whyred_global - F
 whyred_ru_global - F
@@ -315,3 +336,7 @@ willow_ru_global - F
 ysl_global - F
 ysl_global - F
 ysl_ru_global - F
+zeus_global - F
+zeus_id_global - F
+zeus_ru_global - F
+zeus_tw_global - F
