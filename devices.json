@@ -18,6 +18,12 @@
   }
  },
  {
+  "aresin": {
+   "name": "POCO F3 GT",
+   "model": "M2104K10I"
+  }
+ },
+ {
   "shiva": {
    "name": "POCO M2",
    "model": "M2004J19PI"
@@ -51,6 +57,18 @@
   "camellian": {
    "name": "POCO M3 Pro 5G",
    "model": "M2103K19PG"
+  }
+ },
+ {
+  "fleur": {
+   "name": "POCO M4 Pro",
+   "model": "2201117PG"
+  }
+ },
+ {
+  "evergreen": {
+   "name": "POCO M4 Pro 5G",
+   "model": "21091116AG"
   }
  },
  {
@@ -314,6 +332,12 @@
  {
   "dandelion": {
    "name": "Redmi 9A",
+   "model": "220233L2G"
+  }
+ },
+ {
+  "dandelion": {
+   "name": "Redmi 9A",
    "model": "M2006C3LC"
   }
  },
@@ -474,6 +498,30 @@
   }
  },
  {
+  "munch": {
+   "name": "Redmi K40S",
+   "model": "22021211RC"
+  }
+ },
+ {
+  "rubens": {
+   "name": "Redmi K50",
+   "model": "22041211AC"
+  }
+ },
+ {
+  "matisse": {
+   "name": "Redmi K50 Pro",
+   "model": "22011211C"
+  }
+ },
+ {
+  "ingres": {
+   "name": "Redmi K50G",
+   "model": "21121210C"
+  }
+ },
+ {
   "camellia": {
    "name": "Redmi Note 10",
    "model": "M2103K19C"
@@ -576,6 +624,30 @@
   }
  },
  {
+  "spes": {
+   "name": "Redmi Note 11",
+   "model": "2201117TG"
+  }
+ },
+ {
+  "spes": {
+   "name": "Redmi Note 11",
+   "model": "2201117TI"
+  }
+ },
+ {
+  "spes": {
+   "name": "Redmi Note 11",
+   "model": "2201117TL"
+  }
+ },
+ {
+  "spesn": {
+   "name": "Redmi Note 11",
+   "model": "2201117TY"
+  }
+ },
+ {
   "evergo": {
    "name": "Redmi Note 11 5G",
    "model": "21091116AC"
@@ -588,9 +660,63 @@
   }
  },
  {
+  "viva": {
+   "name": "Redmi Note 11 Pro",
+   "model": "2201116TG"
+  }
+ },
+ {
+  "veux": {
+   "name": "Redmi Note 11 Pro 5G",
+   "model": "2201116SG"
+  }
+ },
+ {
+  "veux": {
+   "name": "Redmi Note 11 Pro 5G",
+   "model": "2201116SR"
+  }
+ },
+ {
   "pissarropro": {
    "name": "Redmi Note 11 Pro+",
    "model": "21091116UC"
+  }
+ },
+ {
+  "pissarropro": {
+   "name": "Redmi Note 11 Pro+ 5G",
+   "model": "21091116UG"
+  }
+ },
+ {
+  "veux": {
+   "name": "Redmi Note 11E Pro",
+   "model": "2201116SC"
+  }
+ },
+ {
+  "fleur": {
+   "name": "Redmi Note 11S",
+   "model": "2201117SY"
+  }
+ },
+ {
+  "miel": {
+   "name": "Redmi Note 11S",
+   "model": "2201117SG"
+  }
+ },
+ {
+  "miel": {
+   "name": "Redmi Note 11S",
+   "model": "2201117SL"
+  }
+ },
+ {
+  "evergo": {
+   "name": "Redmi Note 11T 5G",
+   "model": "21091116AI"
   }
  },
  {
@@ -1404,6 +1530,12 @@
   }
  },
  {
+  "lisa": {
+   "name": "Mi 11 LE",
+   "model": "2107119DC"
+  }
+ },
+ {
   "courbet": {
    "name": "Mi 11 Lite",
    "model": "M2101K9AG"
@@ -2028,6 +2160,18 @@
   }
  },
  {
+  "cupid": {
+   "name": "Xiaomi 12",
+   "model": "2201123G"
+  }
+ },
+ {
+  "zeus": {
+   "name": "Xiaomi 12 Pro",
+   "model": "2201122G"
+  }
+ },
+ {
   "psyche": {
    "name": "Xiaomi 12X",
    "model": "2112123AC"
@@ -2046,6 +2190,12 @@
   }
  },
  {
+  "nabu": {
+   "name": "Xiaomi Pad 5",
+   "model": "21051182G"
+  }
+ },
+ {
   "elish": {
    "name": "Xiaomi Pad 5 Pro",
    "model": "M2105K81AC"
@@ -2055,6 +2205,12 @@
   "enuma": {
    "name": "Xiaomi Pad 5 Pro 5G",
    "model": "M2105K81C"
+  }
+ },
+ {
+  "soul": {
+   "name": "Xiaomi TV stick 4K",
+   "model": "MiTV-AYFR0"
   }
  },
  {
