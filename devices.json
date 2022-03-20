@@ -919,6 +919,10 @@
     "display_name": "红米手机3 国际版",
     "display_name_en": "Redmi 3 Global"
   },
+  "ingres": {
+    "display_name": "Redmi K50G",
+    "display_name_en": "Redmi K50G"
+  },
   "jasmine_global": {
     "display_name": "Mi A2",
     "display_name_en": "Mi A2"
@@ -2214,6 +2218,18 @@
   "venus": {
     "display_name": "小米11",
     "display_name_en": "Mi 11"
+  },
+  "vida": {
+    "display_name": "Redmi Note 11 Pro",
+    "display_name_en": "Redmi Note 11 Pro"
+  },
+  "vida_global": {
+    "display_name": "Redmi Note 11 Pro",
+    "display_name_en": "Redmi Note 11 Pro"
+  },
+  "vida_in_global": {
+    "display_name": "Redmi Note 11 Pro",
+    "display_name_en": "Redmi Note 11 Pro"
   },
   "vince": {
     "display_name": "红米手机5Plus",
