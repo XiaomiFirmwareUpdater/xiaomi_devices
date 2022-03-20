@@ -918,14 +918,17 @@
   }
  },
  "dandelion": {
-  "internal_name": "C3L",
-  "name": "Redmi 9A / Redmi 9AT / Redmi 9i",
+  "internal_name": "C3L/C3L2",
+  "name": "Redmi 9A / Redmi 9AT / Redmi 9i/Redmi 10A",
   "models": {
    "`M2006C3LG`": "Redmi 9A Global",
    "`M2006C3LVG`": "Redmi 9AT Global",
    "`M2006C3LI`": "Redmi 9A / Redmi 9A Sport India",
    "`M2006C3LII`": "Redmi 9i / Redmi 9i Sport India",
-   "`M2006C3LC`": "Redmi 9A China"
+   "`M2006C3LC`": "Redmi 9A China",
+   "`220233L2G`": "Redmi 10A Global",
+   "`220233L2I`": "Redmi 10A India",
+   "`220233L2C`": "Redmi 10A China"
   }
  },
  "angelica": {
@@ -993,6 +996,32 @@
   "models": {
    "`21061119DG`": "Redmi 10 Global (NFC)",
    "`22011119UY`": "Redmi 10 2022 Global (NFC)"
+  }
+ },
+ "light": {
+  "internal_name": "L19/L19P",
+  "name": "Redmi 10 5G / Redmi 10 Prime+ 5G/Redmi Note 11E 5G/POCO M4 5G",
+  "models": {
+   "`22041219G`": "Redmi 10 5G Global",
+   "`22041219I`": "Redmi 10 Prime+ 5G India",
+   "`22041219C`": "Redmi Note 11E 5G China",
+   "`22041219PI`": "POCO M4 5G India"
+  }
+ },
+ "thunder": {
+  "internal_name": "L19N/L19P",
+  "name": "Redmi 10 5G/POCO M4 5G",
+  "models": {
+   "`22041219NY`": "Redmi 10 5G Global (NFC)",
+   "`22041219PG`": "POCO M4 5G Global"
+  }
+ },
+ "fog": {
+  "internal_name": "C3QA/C3QB",
+  "name": "Redmi 10C/Redmi 10",
+  "models": {
+   "`220333QAG`": "Redmi 10C Global",
+   "`220333QBI`": "Redmi 10 India"
   }
  },
  "lcsh92_wet_gb9": {
@@ -1345,28 +1374,37 @@
    "`2201117TY`": "Redmi Note 11 Global (NFC)"
   }
  },
+ "evergo": {
+  "internal_name": "K16A",
+  "name": "Redmi Note 11 5G / Redmi Note 11T/POCO M4 Pro 5G",
+  "models": {
+   "`21091116AI`": "POCO M4 Pro 5G India",
+   "`21091116AC`": "Redmi Note 11 5G China"
+  }
+ },
  "miel": {
-  "internal_name": "K7S",
-  "name": "Redmi Note 11S",
+  "internal_name": "K7S/K7P",
+  "name": "Redmi Note 11S/POCO M4 Pro",
   "models": {
    "`2201117SG`": "Redmi Note 11S Global",
    "`2201117SI`": "Redmi Note 11S India",
-   "`2201117SL`": "Redmi Note 11S Latin America"
+   "`2201117SL`": "Redmi Note 11S Latin America",
+   "`2201117PI`": "POCO M4 Pro India"
   }
  },
  "fleur": {
-  "internal_name": "K7S",
-  "name": "Redmi Note 11S",
+  "internal_name": "K7S/K7P",
+  "name": "Redmi Note 11S/POCO M4 Pro",
   "models": {
-   "`2201117SY`": "Redmi Note 11S Global (NFC)"
+   "`2201117SY`": "Redmi Note 11S Global (NFC)",
+   "`2201117PG`": "POCO M4 Pro Global"
   }
  },
- "evergo": {
-  "internal_name": "K16A",
-  "name": "Redmi Note 11 5G / Redmi Note 11T",
+ "opal": {
+  "internal_name": "K16B",
+  "name": "Redmi Note 11S 5G",
   "models": {
-   "`21091116AI`": "Redmi Note 11T 5G India",
-   "`21091116AC`": "Redmi Note 11 5G China"
+   "`22031116BG`": "Redmi Note 11S 5G Global"
   }
  },
  "viva": {
@@ -1384,12 +1422,15 @@
   }
  },
  "veux": {
-  "internal_name": "K6S",
-  "name": "Redmi Note 11 Pro 5G",
+  "internal_name": "K6S/K6P",
+  "name": "Redmi Note 11 Pro 5G / Redmi Note 11E Pro/POCO X4 Pro 5G",
   "models": {
    "`2201116SG`": "Redmi Note 11 Pro 5G Global",
    "`2201116SR`": "Redmi Note 11 Pro 5G Japan",
-   "`2201116SI`": "Redmi Note 11 Pro 5G India"
+   "`2201116SC`": "Redmi Note 11E Pro China",
+   "`2201116SI`": "Redmi Note 11 Pro+ 5G India",
+   "`2201116PG`": "POCO X4 Pro 5G Global",
+   "`2201116PI`": "POCO X4 Pro 5G India"
   }
  },
  "pissarro": {
@@ -1500,6 +1541,38 @@
   "name": "Redmi K40 Gaming",
   "models": {
    "`M2012K10C`": "Redmi K40 Gaming China"
+  }
+ },
+ "munch": {
+  "internal_name": "L11R",
+  "name": "Redmi K40S/POCO F4",
+  "models": {
+   "`22021211RC`": "Redmi K40S China",
+   "`22021211RG`": "POCO F4 Global"
+  }
+ },
+ "rubens": {
+  "internal_name": "L11A",
+  "name": "Redmi K50",
+  "models": {
+   "`22041211AC`": "Redmi K50 China"
+  }
+ },
+ "matisse": {
+  "internal_name": "L11",
+  "name": "Redmi K50 Pro/POCO F4 Pro",
+  "models": {
+   "`22011211C`": "Redmi K50 Pro China",
+   "`22011211G`": "POCO F4 Pro Global"
+  }
+ },
+ "ingres": {
+  "internal_name": "L10",
+  "name": "Redmi K50G/POGO F4 GT",
+  "models": {
+   "`21121210C`": "Redmi K50G China",
+   "`21121210G`": "POCO F4 GT Global",
+   "`21121210I`": "POCO F4 GT India"
   }
  },
  "omega": {
