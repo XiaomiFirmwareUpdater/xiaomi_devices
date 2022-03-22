@@ -1143,6 +1143,14 @@
     "display_name": "小米手机4c",
     "display_name_en": "Mi-4c"
   },
+  "light": {
+    "display_name": "RedmiNote11 E",
+    "display_name_en": "RedmiNote11 E"
+  },
+  "light_global": {
+    "display_name": "RedmiNote11 E",
+    "display_name_en": "RedmiNote11 E"
+  },
   "lime": {
     "display_name": "Redmi Note 9 4G",
     "display_name_en": "Redmi Note 9 4G"
@@ -1214,6 +1222,14 @@
   "markw_global": {
     "display_name": "红米手机4 高配国际版",
     "display_name_en": "Redmi 4 Prime Global"
+  },
+  "matisse": {
+    "display_name": "Redmi K50 Pro",
+    "display_name_en": "Redmi K50 Pro"
+  },
+  "matisse_global": {
+    "display_name": "Redmi K50 Pro",
+    "display_name_en": "Redmi K50 Pro"
   },
   "meri": {
     "display_name": "小米手机5c",
@@ -1354,6 +1370,14 @@
   "monet_kr_sk_global": {
     "display_name": "Mi 10 Lite 5G",
     "display_name_en": "Mi 10 Lite 5G"
+  },
+  "munch": {
+    "display_name": "Redmi K40S",
+    "display_name_en": "Redmi K40S"
+  },
+  "munch_global": {
+    "display_name": "Redmi K40S",
+    "display_name_en": "Redmi K40S"
   },
   "nabu": {
     "display_name": "小米平板5",
@@ -1762,6 +1786,14 @@
   "rosy_global": {
     "display_name": "红米手机5国际版",
     "display_name_en": "Redmi 5 Global"
+  },
+  "rubens": {
+    "display_name": "Redmi K50",
+    "display_name_en": "Redmi K50"
+  },
+  "rubens_global": {
+    "display_name": "Redmi K50",
+    "display_name_en": "Redmi K50"
   },
   "sagit": {
     "display_name": "小米手机6",
@@ -2218,6 +2250,14 @@
   "venus": {
     "display_name": "小米11",
     "display_name_en": "Mi 11"
+  },
+  "veux": {
+    "display_name": "Redmi Note 11E Pro",
+    "display_name_en": "Redmi Note 11E Pro"
+  },
+  "veux_global": {
+    "display_name": "Redmi Note 11 Pro 5G",
+    "display_name_en": "Redmi Note 11 Pro 5G"
   },
   "vida": {
     "display_name": "Redmi Note 11 Pro",
