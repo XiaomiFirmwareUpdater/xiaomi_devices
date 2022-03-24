@@ -2162,7 +2162,19 @@
  {
   "cupid": {
    "name": "Xiaomi 12",
+   "model": "2201123C"
+  }
+ },
+ {
+  "cupid": {
+   "name": "Xiaomi 12",
    "model": "2201123G"
+  }
+ },
+ {
+  "zeus": {
+   "name": "Xiaomi 12 Pro",
+   "model": "2201122C"
   }
  },
  {
