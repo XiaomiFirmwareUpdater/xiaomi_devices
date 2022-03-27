@@ -66,6 +66,12 @@
   }
  },
  {
+  "miel": {
+   "name": "POCO M4 Pro",
+   "model": "2201117PI"
+  }
+ },
+ {
   "evergreen": {
    "name": "POCO M4 Pro 5G",
    "model": "21091116AG"
@@ -99,6 +105,18 @@
   "vayu": {
    "name": "POCO X3 Pro",
    "model": "M2102J20SG"
+  }
+ },
+ {
+  "peux": {
+   "name": "POCO X4 Pro 5G",
+   "model": "2201116PI"
+  }
+ },
+ {
+  "veux": {
+   "name": "POCO X4 Pro 5G",
+   "model": "2201116PG"
   }
  },
  {
@@ -162,6 +180,12 @@
   }
  },
  {
+  "fog": {
+   "name": "Redmi 10",
+   "model": "220333QBI"
+  }
+ },
+ {
   "eos": {
    "name": "Redmi 10 2022",
    "model": "21061119DG"
@@ -195,6 +219,12 @@
   "selene": {
    "name": "Redmi 10 2022",
    "model": "21121119VL"
+  }
+ },
+ {
+  "fog": {
+   "name": "Redmi 10C",
+   "model": "220333QAG"
   }
  },
  {
@@ -648,6 +678,12 @@
   }
  },
  {
+  "selene": {
+   "name": "Redmi Note 11 4G",
+   "model": "21121119SC"
+  }
+ },
+ {
   "evergo": {
    "name": "Redmi Note 11 5G",
    "model": "21091116AC"
@@ -684,9 +720,21 @@
   }
  },
  {
+  "peux": {
+   "name": "Redmi Note 11 Pro+ 5G",
+   "model": "2201116SI"
+  }
+ },
+ {
   "pissarropro": {
    "name": "Redmi Note 11 Pro+ 5G",
    "model": "21091116UG"
+  }
+ },
+ {
+  "light": {
+   "name": "Redmi Note 11E",
+   "model": "22041219C"
   }
  },
  {
@@ -705,6 +753,12 @@
   "miel": {
    "name": "Redmi Note 11S",
    "model": "2201117SG"
+  }
+ },
+ {
+  "miel": {
+   "name": "Redmi Note 11S",
+   "model": "2201117SI"
   }
  },
  {
