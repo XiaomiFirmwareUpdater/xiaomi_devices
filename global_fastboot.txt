@@ -74,6 +74,11 @@ cmi_tr_global - F
 courbet_eea_global - F
 courbet_global - F
 courbet_ru_global - F
+cupid_eea_global - F
+cupid_global - F
+cupid_id_global - F
+cupid_ru_global - F
+cupid_tw_global - F
 curtana_eea_global - F
 curtana_global - F
 curtana_in_global - F
