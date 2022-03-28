@@ -1428,8 +1428,14 @@
    "`2201116SG`": "Redmi Note 11 Pro 5G Global",
    "`2201116SR`": "Redmi Note 11 Pro 5G Japan",
    "`2201116SC`": "Redmi Note 11E Pro China",
+   "`2201116PG`": "POCO X4 Pro 5G Global"
+  }
+ },
+ "peux": {
+  "internal_name": "K6S/K6P",
+  "name": "Redmi Note 11 Pro+ 5G/POCO X4 Pro 5G",
+  "models": {
    "`2201116SI`": "Redmi Note 11 Pro+ 5G India",
-   "`2201116PG`": "POCO X4 Pro 5G Global",
    "`2201116PI`": "POCO X4 Pro 5G India"
   }
  },
