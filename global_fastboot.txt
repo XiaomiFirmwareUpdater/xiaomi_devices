@@ -115,6 +115,8 @@ fleur_ru_global - F
 fleur_ru_global - F
 fleur_tw_global - F
 fleur_tw_global - F
+fog_global - F
+fog_in_global - F
 gauguin_eea_global - F
 gauguin_global - F
 gauguin_in_global - F
