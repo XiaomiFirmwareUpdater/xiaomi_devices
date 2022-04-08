@@ -774,6 +774,12 @@
   }
  },
  {
+  "opal": {
+   "name": "Redmi Note 11S 5G",
+   "model": "22031116BG"
+  }
+ },
+ {
   "evergo": {
    "name": "Redmi Note 11T 5G",
    "model": "21091116AI"
