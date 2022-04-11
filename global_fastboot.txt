@@ -109,10 +109,13 @@ fleur_eea_global - F
 fleur_eea_global - F
 fleur_global - F
 fleur_global - F
+fleur_id_global - F
 fleur_in_global - F
 fleur_in_global - F
 fleur_ru_global - F
 fleur_ru_global - F
+fleur_tr_global - F
+fleur_tr_global - F
 fleur_tw_global - F
 fleur_tw_global - F
 fog_global - F
