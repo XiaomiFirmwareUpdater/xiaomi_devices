@@ -1326,6 +1326,14 @@
    "`2104K19J` `XIG02`": "Redmi Note 10 JE Japan (KDDI)"
   }
  },
+ "lilac": {
+  "internal_name": "K19K",
+  "name": "Redmi Note 10T",
+  "models": {
+   "`22021119KR`": "Redmi Note 10T Japan (SIM Free)",
+   "`A101XM`": "Redmi Note 10T Japan (SoftBank)"
+  }
+ },
  "sweet": {
   "internal_name": "K6",
   "name": "Redmi Note 10 Pro",
@@ -1793,6 +1801,13 @@
   "name": "Xiaomi Mijia Translator (`FYJ01QP`)",
   "models": {
    "`FYJ01QP`": "Xiaomi Mijia Translator"
+  }
+ },
+ "": {
+  "internal_name": "K91",
+  "name": "Xiaomi CyberDog:",
+  "models": {
+   "`21051191C`": "Xiaomi CyberDog Bio-inspired Quadruped Robot"
   }
  }
 }
