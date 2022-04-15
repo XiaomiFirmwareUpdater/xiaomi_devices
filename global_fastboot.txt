@@ -231,6 +231,10 @@ platina_global - F
 platina_ru_global - F
 polaris_global - F
 polaris_ru_global - F
+psyche_eea_global - F
+psyche_global - F
+psyche_ru_global - F
+psyche_tw_global - F
 pyxis_eea_global - F
 pyxis_global - F
 pyxis_ru_global - F
