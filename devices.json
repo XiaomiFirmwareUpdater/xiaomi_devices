@@ -228,6 +228,12 @@
   }
  },
  {
+  "dandelion": {
+   "name": "Redmi 10A",
+   "model": "220233L2C"
+  }
+ },
+ {
   "fog": {
    "name": "Redmi 10C",
    "model": "220333QAG"
