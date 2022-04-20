@@ -128,7 +128,7 @@
   "models": {
    "`M1804D2SE`": "Mi 6X China",
    "`M1804D2ST`": "Mi 6X China Mobile",
-   "`M1804D2SC`": "Mi 6X China Unicom / China Telecom"
+   "`M1804D2SC`": "Mi 6X China Unicom & China Telecom"
   }
  },
  "dipper": {
@@ -137,7 +137,7 @@
   "models": {
    "`M1803E1A`": "Mi 8",
    "`M1803E1T`": "Mi 8 China Mobile",
-   "`M1803E1C`": "Mi 8 China Unicom / China Telecom"
+   "`M1803E1C`": "Mi 8 China Unicom & China Telecom"
   }
  },
  "ursa": {
@@ -168,7 +168,7 @@
    "`M1808D2TG`": "Mi 8 Lite Global",
    "`M1808D2TE`": "Mi 8 Lite China",
    "`M1808D2TT`": "Mi 8 Lite China Mobile",
-   "`M1808D2TC`": "Mi 8 Lite China Unicom / China Telecom"
+   "`M1808D2TC`": "Mi 8 Lite China Unicom & China Telecom"
   }
  },
  "cepheus": {
@@ -178,7 +178,7 @@
    "`M1902F1G`": "Mi 9 Global",
    "`M1902F1A`": "Mi 9 China",
    "`M1902F1T`": "Mi 9 China Mobile",
-   "`M1902F1C`": "Mi 9 China Unicom / China Telecom"
+   "`M1902F1C`": "Mi 9 China Unicom & China Telecom"
   }
  },
  "crux": {
@@ -493,7 +493,7 @@
    "`M1803D5XA`": "Mi MIX 2S Global",
    "`M1803D5XE`": "Mi MIX 2S China",
    "`M1803D5XT`": "Mi MIX 2S China Mobile",
-   "`M1803D5XC`": "Mi MIX 2S China Unicom / China Telecom"
+   "`M1803D5XC`": "Mi MIX 2S China Unicom & China Telecom"
   }
  },
  "perseus": {
@@ -555,7 +555,7 @@
   "models": {
    "`M1804E4A`": "Mi Max 3",
    "`M1804E4T`": "Mi Max 3 China Mobile",
-   "`M1804E4C`": "Mi Max 3 China Unicom / China Telecom"
+   "`M1804E4C`": "Mi Max 3 China Unicom & China Telecom"
   }
  },
  "vela": {
@@ -830,7 +830,7 @@
    "`M1804C3DI`": "Redmi 6 India",
    "`M1804C3DE`": "Redmi 6 China",
    "`M1804C3DT`": "Redmi 6 China Mobile",
-   "`M1804C3DC`": "Redmi 6 China Unicom / China Telecom"
+   "`M1804C3DC`": "Redmi 6 China Unicom & China Telecom"
   }
  },
  "sakura": {
@@ -840,7 +840,7 @@
    "`M1805D1SI`": "Redmi 6 Pro India",
    "`M1805D1SE`": "Redmi 6 Pro China",
    "`M1805D1ST`": "Redmi 6 Pro China Mobile",
-   "`M1805D1SC`": "Redmi 6 Pro China Unicom / China Telecom"
+   "`M1805D1SC`": "Redmi 6 Pro China Unicom & China Telecom"
   }
  },
  "cactus": {
@@ -851,7 +851,7 @@
    "`M1804C3CI`": "Redmi 6A India",
    "`M1804C3CE`": "Redmi 6A China",
    "`M1804C3CT`": "Redmi 6A China Mobile",
-   "`M1804C3CC`": "Redmi 6A China Unicom / China Telecom"
+   "`M1804C3CC`": "Redmi 6A China Unicom & China Telecom"
   }
  },
  "onclite": {
@@ -872,7 +872,7 @@
    "`M1903C3EI`": "Redmi 7A India",
    "`M1903C3EE`": "Redmi 7A China",
    "`M1903C3ET`": "Redmi 7A China Mobile",
-   "`M1903C3EC`": "Redmi 7A China Unicom / China Telecom"
+   "`M1903C3EC`": "Redmi 7A China Unicom & China Telecom"
   }
  },
  "olive": {
@@ -923,8 +923,8 @@
   "models": {
    "`M2006C3LG`": "Redmi 9A Global",
    "`M2006C3LVG`": "Redmi 9AT Global",
-   "`M2006C3LI`": "Redmi 9A / Redmi 9A Sport India",
-   "`M2006C3LII`": "Redmi 9i / Redmi 9i Sport India",
+   "`M2006C3LI`": "Redmi 9A India / Redmi 9A Sport India",
+   "`M2006C3LII`": "Redmi 9i India / Redmi 9i Sport India",
    "`M2006C3LC`": "Redmi 9A China",
    "`220233L2G`": "Redmi 10A Global",
    "`220233L2I`": "Redmi 10A India",
@@ -950,7 +950,7 @@
   "internal_name": "C3MI",
   "name": "Redmi 9 / Redmi 9 Activ",
   "models": {
-   "`M2006C3MII`": "Redmi 9 / Redmi 9 Activ India"
+   "`M2006C3MII`": "Redmi 9 India / Redmi 9 Activ India"
   }
  },
  "lime": {
@@ -1021,7 +1021,7 @@
   "name": "Redmi 10C/Redmi 10",
   "models": {
    "`220333QAG`": "Redmi 10C Global",
-   "`220333QBI`": "Redmi 10 India"
+   "`220333QBI`": "Redmi 10 India / Redmi 10 Power India"
   }
  },
  "lcsh92_wet_gb9": {
@@ -1119,7 +1119,7 @@
    "`MEI7S`": "Redmi Note 5 Pro India",
    "`MEE7S`": "Redmi Note 5 China",
    "`MET7S`": "Redmi Note 5 China Mobile",
-   "`MEC7S`": "Redmi Note 5 China Unicom / China Telecom"
+   "`MEC7S`": "Redmi Note 5 China Unicom & China Telecom"
   }
  },
  "ugglite": {
@@ -1155,10 +1155,10 @@
   "name": "Redmi Note 7 / Redmi Note 7S",
   "models": {
    "`M1901F7G` `M1901F7H`": "Redmi Note 7 Global",
-   "`M1901F7I`": "Redmi Note 7 / Redmi Note 7S India",
+   "`M1901F7I`": "Redmi Note 7 India / Redmi Note 7S India",
    "`M1901F7E`": "Redmi Note 7 China",
    "`M1901F7T`": "Redmi Note 7 China Mobile",
-   "`M1901F7C`": "Redmi Note 7 China Unicom / China Telecom"
+   "`M1901F7C`": "Redmi Note 7 China Unicom & China Telecom"
   }
  },
  "violet": {
@@ -1245,7 +1245,7 @@
   "name": "Redmi Note 9 Pro / Redmi Note 9S/Redmi Note 10 Lite",
   "models": {
    "`M2003J6A1G`": "Redmi Note 9S Global",
-   "`M2003J6A1R`": "Redmi Note 9S Japan / Korea",
+   "`M2003J6A1R`": "Redmi Note 9S Japan / Redmi Note 9S Korea",
    "`M2003J6A1I`": "Redmi Note 9 Pro India",
    "`2109106A1I`": "Redmi Note 10 Lite India"
   }
@@ -1605,7 +1605,7 @@
    "`M1803E6I`": "Redmi Y2 India",
    "`M1803E6E`": "Redmi S2 China",
    "`M1803E6T`": "Redmi S2 China Mobile",
-   "`M1803E6C`": "Redmi S2 China Unicom / China Telecom"
+   "`M1803E6C`": "Redmi S2 China Unicom & China Telecom"
   }
  },
  "onc": {
