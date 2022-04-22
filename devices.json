@@ -2390,5 +2390,9 @@
   "zeus": {
     "display_name": "Xiaomi 12 Pro",
     "display_name_en": "Xiaomi 12 Pro"
+  },
+  "zijin": {
+    "display_name": "Xiaomi CIVI 1S",
+    "display_name_en": "Xiaomi CIVI 1S"
   }
 }
