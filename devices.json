@@ -1151,6 +1151,14 @@
     "display_name": "RedmiNote11 E",
     "display_name_en": "RedmiNote11 E"
   },
+  "lilac": {
+    "display_name": "Redmi Note 10T",
+    "display_name_en": "Redmi Note 10T"
+  },
+  "lilac_global": {
+    "display_name": "Redmi Note 10T",
+    "display_name_en": "Redmi Note 10T"
+  },
   "lime": {
     "display_name": "Redmi Note 9 4G",
     "display_name_en": "Redmi Note 9 4G"
