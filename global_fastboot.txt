@@ -228,6 +228,7 @@ pine_eea_global - F
 pine_global - F
 pine_ru_global - F
 pissarro_global - F
+pissarro_global - F
 platina_global - F
 platina_ru_global - F
 polaris_global - F
