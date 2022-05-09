@@ -121,6 +121,7 @@ fleur_tw_global - F
 fleur_tw_global - F
 fog_global - F
 fog_in_global - F
+fog_ru_global - F
 fog_tw_global - F
 gauguin_eea_global - F
 gauguin_global - F
@@ -270,6 +271,7 @@ selene_eea_global - F
 selene_global - F
 selene_id_global - F
 selene_ru_global - F
+selene_tr_global - F
 selene_tw_global - F
 spes_global - F
 spesn_eea_global - F
