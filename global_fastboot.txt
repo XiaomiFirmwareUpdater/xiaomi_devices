@@ -222,6 +222,8 @@ onclite_eea_global - F
 onclite_global - F
 onclite_in_global - F
 onclite_ru_global - F
+opal_eea_global - F
+opal_global - F
 oxygen_global - F
 perseus_global - F
 perseus_ru_global - F
