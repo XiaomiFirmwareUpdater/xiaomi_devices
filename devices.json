@@ -240,6 +240,18 @@
   }
  },
  {
+  "rain": {
+   "name": "Redmi 10C",
+   "model": "220333QNY"
+  }
+ },
+ {
+  "wind": {
+   "name": "Redmi 10C",
+   "model": "220333QL"
+  }
+ },
+ {
   "apricot": {
    "name": "Redmi 10X",
    "model": "M2004J7AC"
@@ -2229,6 +2241,12 @@
   "vili": {
    "name": "Xiaomi 11T Pro",
    "model": "2107113SR"
+  }
+ },
+ {
+  "pissarroin": {
+   "name": "Xiaomi 11i",
+   "model": "21091116I"
   }
  },
  {
