@@ -1031,6 +1031,20 @@
    "`220333QBI`": "Redmi 10 India / Redmi 10 Power India"
   }
  },
+ "rain": {
+  "internal_name": "C3QN",
+  "name": "Redmi 10C",
+  "models": {
+   "`220333QNY`": "Redmi 10C Global (NFC)"
+  }
+ },
+ "wind": {
+  "internal_name": "C3Q",
+  "name": "Redmi 10C",
+  "models": {
+   "`220333QL`": "Redmi 10C Latin America"
+  }
+ },
  "lcsh92_wet_gb9": {
   "internal_name": "H3W",
   "name": "Redmi Note",
@@ -1330,7 +1344,7 @@
   "internal_name": "K19J",
   "name": "Redmi Note 10 JE",
   "models": {
-   "`2104K19J` `XIG02`": "Redmi Note 10 JE Japan (KDDI)"
+   "`M2104K19J` `XIG02`": "Redmi Note 10 JE Japan (KDDI)"
   }
  },
  "lilac": {
@@ -1467,6 +1481,20 @@
   "models": {
    "`21091116UG`": "Redmi Note 11 Pro+ 5G Global",
    "`21091116UC`": "Redmi Note 11 Pro+ China"
+  }
+ },
+ "xaga": {
+  "internal_name": "L16",
+  "name": "Redmi Note 11T Pro",
+  "models": {
+   "`22041216C`": "Redmi Note 11T Pro China"
+  }
+ },
+ "xagapro": {
+  "internal_name": "L16U",
+  "name": "Redmi Note 11T Pro+",
+  "models": {
+   "`22041216UC`": "Redmi Note 11T Pro+ China"
   }
  },
  "atom": {
@@ -1717,6 +1745,14 @@
   "models": {
    "`M2006C3MI`": "POCO C3 India",
    "`211033MI`": "POCO C31 India"
+  }
+ },
+ "frost": {
+  "internal_name": "C3QP",
+  "name": "POCO C40",
+  "models": {
+   "`220333QPG`": "POCO C40 Global",
+   "`220333QPI`": "POCO C40 India"
   }
  },
  "shark": {
