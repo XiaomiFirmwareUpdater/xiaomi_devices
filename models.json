@@ -1333,10 +1333,10 @@
  },
  "camellia": {
   "internal_name": "K19/K19P",
-  "name": "Redmi Note 10 5G / Redmi Note 10T/POCO M3 Pro 5G",
+  "name": "Redmi Note 10 5G / Redmi Note 10T / Redmi Note 11SE/POCO M3 Pro 5G",
   "models": {
    "`M2103K19I`": "Redmi Note 10T 5G India",
-   "`M2103K19C`": "Redmi Note 10 5G China",
+   "`M2103K19C`": "Redmi Note 10 5G China / Redmi Note 11SE China",
    "`M2103K19PI`": "POCO M3 Pro 5G India"
   }
  },
