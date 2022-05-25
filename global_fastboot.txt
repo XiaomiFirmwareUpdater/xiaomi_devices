@@ -273,6 +273,7 @@ santoni_global - F
 scorpio_global - F
 selene_eea_global - F
 selene_global - F
+selene_global - F
 selene_id_global - F
 selene_ru_global - F
 selene_tr_global - F
@@ -350,6 +351,7 @@ vili_tw_global - F
 vince_global - F
 vince_global - X
 violet_in_global - F
+viva_eea_global - F
 viva_global - F
 viva_tw_global - F
 whyred_global - F
