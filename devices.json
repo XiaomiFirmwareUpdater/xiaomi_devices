@@ -870,9 +870,21 @@
   }
  },
  {
+  "merlin": {
+   "name": "Redmi Note 9",
+   "model": "M2003J15SS"
+  }
+ },
+ {
   "merlinnfc": {
    "name": "Redmi Note 9",
    "model": "M2003J15SC"
+  }
+ },
+ {
+  "merlinnfc": {
+   "name": "Redmi Note 9",
+   "model": "M2003J15SG"
   }
  },
  {
