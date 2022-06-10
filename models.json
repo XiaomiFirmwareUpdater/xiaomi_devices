@@ -1485,16 +1485,18 @@
  },
  "xaga": {
   "internal_name": "L16",
-  "name": "Redmi Note 11T Pro",
+  "name": "Redmi Note 11T Pro/POCO X4 GT",
   "models": {
-   "`22041216C`": "Redmi Note 11T Pro China"
+   "`22041216C`": "Redmi Note 11T Pro China",
+   "`22041216G`": "POCO X4 GT Global"
   }
  },
  "xagapro": {
   "internal_name": "L16U",
-  "name": "Redmi Note 11T Pro+",
+  "name": "Redmi Note 11T Pro+/POCO X4 GT Pro",
   "models": {
-   "`22041216UC`": "Redmi Note 11T Pro+ China"
+   "`22041216UC`": "Redmi Note 11T Pro+ China",
+   "`22041216UG`": "POCO X4 GT Pro Global"
   }
  },
  "atom": {
@@ -1822,6 +1824,7 @@
   "internal_name": "",
   "name": "Black Shark 5 (`patriot`)",
   "models": {
+   "`SHARK PAR-H0`": "Black Shark 5 Global",
    "`SHARK PAR-A0`": "Black Shark 5 China"
   }
  },
@@ -1829,6 +1832,7 @@
   "internal_name": "",
   "name": "Black Shark 5 Pro (`katyusha`)",
   "models": {
+   "`SHARK KTUS-H0`": "Black Shark 5 Pro Global",
    "`SHARK KTUS-A0`": "Black Shark 5 Pro China"
   }
  },
