@@ -164,6 +164,7 @@ lavender_eea_global - F
 lavender_global - F
 lavender_in_global - F
 lavender_ru_global - F
+light_global - F
 lime_eea_global - F
 lime_global - F
 lime_global - F
