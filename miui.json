@@ -259,6 +259,7 @@
  "leo": "XHCN",
  "libra": "XKCN",
  "light": "LSCN",
+ "light_global": "LSMI",
  "light_in_global": "LSIN",
  "lime": "JQCN",
  "lime_eea_global": "JQEU",
