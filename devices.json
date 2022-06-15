@@ -372,6 +372,12 @@
   }
  },
  {
+  "lancelot": {
+   "name": "Redmi 9",
+   "model": "M2004J19G"
+  }
+ },
+ {
   "lime": {
    "name": "Redmi 9 Power",
    "model": "M2010J19SI"
@@ -867,6 +873,12 @@
   "merlin": {
    "name": "Redmi Note 9",
    "model": "M2003J15SC"
+  }
+ },
+ {
+  "merlin": {
+   "name": "Redmi Note 9",
+   "model": "M2003J15SI"
   }
  },
  {
