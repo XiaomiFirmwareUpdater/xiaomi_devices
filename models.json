@@ -1599,7 +1599,8 @@
   "name": "Redmi K40S/POCO F4",
   "models": {
    "`22021211RC`": "Redmi K40S China",
-   "`22021211RG`": "POCO F4 Global"
+   "`22021211RG`": "POCO F4 Global",
+   "`22021211RI`": "POCO F4 India"
   }
  },
  "rubens": {
@@ -1611,10 +1612,9 @@
  },
  "matisse": {
   "internal_name": "L11",
-  "name": "Redmi K50 Pro/POCO F4 Pro",
+  "name": "Redmi K50 Pro",
   "models": {
-   "`22011211C`": "Redmi K50 Pro China",
-   "`22011211G`": "POCO F4 Pro Global"
+   "`22011211C`": "Redmi K50 Pro China"
   }
  },
  "ingres": {
