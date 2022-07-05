@@ -419,6 +419,42 @@
    "`2201122C`": "Xiaomi 12 Pro China"
   }
  },
+ "daumier": {
+  "internal_name": "L2M",
+  "name": "Xiaomi 12 Pro Dimensity",
+  "models": {
+   "`2207122MC`": "Xiaomi 12 Pro Dimensity China"
+  }
+ },
+ "taoyao": {
+  "internal_name": "L9",
+  "name": "Xiaomi 12 Lite",
+  "models": {
+   "`2203129G`": "Xiaomi 12 Lite Global",
+   "`2203129I`": "Xiaomi 12 Lite India"
+  }
+ },
+ "mayfly": {
+  "internal_name": "L3S",
+  "name": "Xiaomi 12S",
+  "models": {
+   "`2206123SC`": "Xiaomi 12S China"
+  }
+ },
+ "unicorn": {
+  "internal_name": "L2S",
+  "name": "Xiaomi 12S Pro",
+  "models": {
+   "`2206122SC`": "Xiaomi 12S Pro China"
+  }
+ },
+ "thor": {
+  "internal_name": "L1",
+  "name": "Xiaomi 12S Ultra",
+  "models": {
+   "`2203121C`": "Xiaomi 12S Ultra China"
+  }
+ },
  "virgo": {
   "internal_name": "X5",
   "name": "Mi Note",
