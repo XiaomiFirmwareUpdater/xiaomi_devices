@@ -627,6 +627,10 @@
     "display_name": "Redmi 9A",
     "display_name_en": "Redmi 9A"
   },
+  "daumier": {
+    "display_name": "Xiaomi 12 Pro 天玑版",
+    "display_name_en": "Xiaomi 12 Pro Dimensity"
+  },
   "davinci": {
     "display_name": "Redmi K20",
     "display_name_en": "Redmi K20"
@@ -1242,6 +1246,10 @@
   "matisse_global": {
     "display_name": "Redmi K50 Pro",
     "display_name_en": "Redmi K50 Pro"
+  },
+  "mayfly": {
+    "display_name": "Xiaomi 12S",
+    "display_name_en": "Xiaomi 12S"
   },
   "meri": {
     "display_name": "小米手机5c",
@@ -2027,6 +2035,10 @@
     "display_name": "小米手机2A",
     "display_name_en": "MI 2A"
   },
+  "thor": {
+    "display_name": "Xiaomi 12S Ultra",
+    "display_name_en": "Xiaomi 12S Ultra"
+  },
   "thyme": {
     "display_name": "小米10S",
     "display_name_en": "Mi 10S"
@@ -2214,6 +2226,10 @@
   "umi_ru_global": {
     "display_name": "小米10 俄罗斯版",
     "display_name_en": "Mi10-RU-GLOBAL"
+  },
+  "unicorn": {
+    "display_name": "Xiaomi 12S Pro",
+    "display_name_en": "Xiaomi 12S Pro"
   },
   "ursa": {
     "display_name": "小米手机8透明探索版",
