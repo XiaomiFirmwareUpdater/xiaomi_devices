@@ -2304,6 +2304,18 @@
   }
  },
  {
+  "daumier": {
+   "name": "Xiaomi 12 Pro Dimensity",
+   "model": "2207122MC"
+  }
+ },
+ {
+  "thor": {
+   "name": "Xiaomi 12S Ultra",
+   "model": "2203121C"
+  }
+ },
+ {
   "psyche": {
    "name": "Xiaomi 12X",
    "model": "2112123AC"
