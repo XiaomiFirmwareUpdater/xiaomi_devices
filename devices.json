@@ -2310,6 +2310,18 @@
   }
  },
  {
+  "mayfly": {
+   "name": "Xiaomi 12S",
+   "model": "2206123SC"
+  }
+ },
+ {
+  "unicorn": {
+   "name": "Xiaomi 12S Pro",
+   "model": "2206122SC"
+  }
+ },
+ {
   "thor": {
    "name": "Xiaomi 12S Ultra",
    "model": "2203121C"
