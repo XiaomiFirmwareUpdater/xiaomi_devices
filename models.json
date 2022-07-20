@@ -1443,8 +1443,9 @@
   "internal_name": "K16A",
   "name": "Redmi Note 11 5G / Redmi Note 11T/POCO M4 Pro 5G",
   "models": {
-   "`21091116AI`": "POCO M4 Pro 5G India",
-   "`21091116AC`": "Redmi Note 11 5G China"
+   "`21091116AI`": "Redmi Note 11T 5G India",
+   "`21091116AC`": "Redmi Note 11 5G China",
+   "`22031116AI`": "POCO M4 Pro 5G India"
   }
  },
  "miel": {
@@ -1662,6 +1663,13 @@
    "`21121210I`": "POCO F4 GT India"
   }
  },
+ "xagain": {
+  "internal_name": "L16",
+  "name": "Redmi K50i",
+  "models": {
+   "`22041216I`": "Redmi K50i India"
+  }
+ },
  "omega": {
   "internal_name": "H3C",
   "name": "Redmi Pro",
@@ -1775,6 +1783,13 @@
   "name": "POCO M4 Pro 5G",
   "models": {
    "`21091116AG`": "POCO M4 Pro 5G Global"
+  }
+ },
+ "rosemaryp": {
+  "internal_name": "K7BP",
+  "name": "POCO M5s",
+  "models": {
+   "`2207117BPG`": "POCO M5s Global"
   }
  },
  "angelicain": {
