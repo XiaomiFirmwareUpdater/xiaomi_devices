@@ -228,6 +228,12 @@
   }
  },
  {
+  "fog": {
+   "name": "Redmi 10 Power",
+   "model": "220333QBI"
+  }
+ },
+ {
   "dandelion": {
    "name": "Redmi 10A",
    "model": "220233L2C"
@@ -813,6 +819,18 @@
   "evergo": {
    "name": "Redmi Note 11T 5G",
    "model": "21091116AI"
+  }
+ },
+ {
+  "xaga": {
+   "name": "Redmi Note 11T Pro",
+   "model": "22041216C"
+  }
+ },
+ {
+  "xagapro": {
+   "name": "Redmi Note 11T Pro +",
+   "model": "22041216UC"
   }
  },
  {
