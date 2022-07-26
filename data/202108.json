@@ -1,0 +1,15 @@
+{
+ "id": 43,
+ "operator": "lizelin1",
+ "publishedAt": "2021-09-26T08:15:30.343Z",
+ "status": 1,
+ "heavy": "CVE-2021-1919;CVE-2021-1916;CVE-2021-1920;CVE-2021-1972;CVE-2021-1976",
+ "high": "CVE-2019-10581;CVE-2020-3633;CVE-2021-0646;CVE-2021-0645;CVE-2021-3347;CVE-2021-1904;CVE-2020-14381;CVE-2021-0519;CVE-2021-1914;CVE-2021-0584;CVE-2021-0593;CVE-2021-0591;CVE-2021-28375;CVE-2021-0642;CVE-2021-0641;CVE-2021-1939;CVE-2021-30261;CVE-2021-30260;CVE-2021-1947;CVE-2021-1978;CVE-2021-0582;CVE-2021-0578;CVE-2021-0573;CVE-2021-0579;CVE-2021-0580;CVE-2021-0581;CVE-2021-0574;CVE-2021-0576;CVE-2021-0640;CVE-2021-0639",
+ "middle": "",
+ "low": "",
+ "ignoreable": "",
+ "models": "MI 10;MI 10 Lite 5G;MI 10 Lite Zoom;MI 10 Pro;MI 10T Lite;MI 6X;MI 8;MI 8 Explorer Edition;MI 8 Lite;MI 8 Pro;MI 8 UD;MI 9;MI 9 Lite;MI 9 SE;MI 9Pro 5G;MI 9T;MI A3;MI CC 9;MI CC 9 Pro;MI CC 9e;MI CC9 MEITU;MI Mix3;MI Note 10;MI Note 10 Lite;MI Note 10;MI Note 10 Pro;MI Play;MI10 Ultra;MIX 2S;POCO C3;POCO F2 Pro;POCO M2 Pro;POCO M2;POCO M2 Reloaded;POCO X2;POCO X3;POCO X3 NFC;Readmi 8T;MI MAX3;Redmi 10X;Redmi 10X 4G;Redmi 10X Pro;Redmi 7;Redmi 7A;Redmi 8;Redmi 8A;Redmi 8A Pro;Redmi 9;Redmi 9 Prime;Redmi 9A;Redmi 9C;Redmi 9C NFC;Redmi K20;Redmi K20 Pro;Redmi K30;Redmi K30 5G;Redmi K30 Pro;Redmi K30 Ultra;Redmi K30i 5G;Redmi K30S Ultra;Redmi Note 6 pro;Redmi Note 7 Pro;Redmi Note 8;Redmi Note 8 Pro;Redmi Note 9;Redmi Note 9 Pro;Redmi Note 9 Pro Max;Redmi Note 9S;Redmi Note7;Redmi Note7;Redmi Note7S",
+ "modelsTl": "MI 10;MI 10 Lite 5G;MI 10 Lite Zoom;MI 10 Pro;MI 10T Lite;MI 6X;MI 8;MI 8 Explorer Edition;MI 8 Lite;MI 8 Pro;MI 8 UD;MI 9;MI 9 Lite;MI 9 SE;MI 9Pro 5G;MI 9T;MI A3;MI CC 9;MI CC 9 Pro;MI CC 9e;MI CC9 MEITU;MI Mix3;MI Note 10;MI Note 10 Lite;MI Note 10;MI Note 10 Pro;MI Play;MI10 Ultra;MIX 2S;POCO C3;POCO F2 Pro;POCO M2 Pro;POCO M2;POCO M2 Reloaded;POCO X2;POCO X3;POCO X3 NFC;Readmi 8T;MI MAX3;Redmi 10X;Redmi 10X 4G;Redmi 10X Pro;Redmi 7;Redmi 7A;Redmi 8;Redmi 8A;Redmi 8A Pro;Redmi 9;Redmi 9 Prime;Redmi 9A;Redmi 9C;Redmi 9C NFC;Redmi K20;Redmi K20 Pro;Redmi K30;Redmi K30 5G;Redmi K30 Pro;Redmi K30 Ultra;Redmi K30i 5G;Redmi K30S Ultra;Redmi Note 6 pro;Redmi Note 7 Pro;Redmi Note 8;Redmi Note 8 Pro;Redmi Note 9;Redmi Note 9 Pro;Redmi Note 9 Pro Max;Redmi Note 9S;Redmi Note7;Redmi Note7;Redmi Note7S",
+ "createdAt": "2021-08-13T06:25:24.000Z",
+ "syncTime": "202108"
+}

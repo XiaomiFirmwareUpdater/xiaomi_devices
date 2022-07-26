@@ -1,0 +1,15 @@
+{
+ "id": 26,
+ "operator": "lvyingnan",
+ "publishedAt": "2021-08-25T09:34:06.570Z",
+ "status": 1,
+ "heavy": "CVE-2019-2317;CVE-2019-10612;CVE-2019-10587;CVE-2019-10586;CVE-2019-10593;CVE-2019-10594;CVE-2019-14083;CVE-2019-14086;CVE-2019-14045;CVE-2019-14031;CVE-2019-14095;CVE-2020-0032;CVE-2019-10546;CVE-2019-14071;CVE-2019-14097;CVE-2019-14098;CVE-2019-14030",
+ "high": "CVE-2018-11970;CVE-2020-0010;CVE-2020-0011;CVE-2020-0012;CVE-2019-14079;CVE-2020-0029;CVE-2019-10553;CVE-2019-10549;CVE-2019-10616;CVE-2019-10550;CVE-2019-10552;CVE-2019-10554;CVE-2019-10603;CVE-2019-10577;CVE-2020-0035;CVE-2019-14082;CVE-2020-0021;CVE-2020-0031;CVE-2019-2300;CVE-2019-14027;CVE-2019-14028;CVE-2019-2311;CVE-2019-14026;CVE-2019-15239;CVE-2020-0037;CVE-2020-0038;CVE-2020-0039;CVE-2019-14050;CVE-2019-14085;CVE-2019-14081;CVE-2020-0033;CVE-2020-0036;CVE-2019-10526;CVE-2018-11838;CVE-2019-14072;CVE-2019-14048;CVE-2019-10591;CVE-2019-14015;CVE-2019-10604;CVE-2019-14061;CVE-2019-10569;CVE-2019-14000;CVE-2019-14068;CVE-2019-14032;CVE-2019-14029;CVE-2020-0041;CVE-2019-19527;CVE-2019-19537;CVE-2020-0069;CVE-2020-0034",
+ "middle": "CVE-2020-0042;CVE-2020-0043;CVE-2020-0044",
+ "low": "",
+ "ignoreable": "",
+ "models": "MI 10; MI 10 Lite 5G; MI 10 Lite Zoom; MI 10 Pro; MI 10 Ultra; MI 6X; MI 8; MI 8 Explorer; MI 8 Lite; MI 8 SE; MI 9; MI 9 Lite; MI 9 SE; MI 9 Pro 5G; MI 9T; MI A1; MI A2; MI A3; MI CC9; MI CC9e; MI CC9 MEITU; MI CC9 Pro; MI CC9 Pro Premium; MI MAX3; MI MIX3; MI Note 10; MI Note 10 Lite; MI Note 10 Pro; MI Play; MI8 UD; MI MIX2S; POCO C3; POCO F2 Pro; POCO M2 Pro; POCO M2; POCO M2 Reloaded; POCO X2; Redmi 10X; Redmi 10X 4G; Redmi 10X Pro; Redmi 6; Redmi 6 Pro; Redmi 6A; Redmi 7; Redmi 7A; Redmi 8; Redmi 8A; Redmi 8A Dual; Redmi 8A Pro; Redmi 9; Redmi 9 Prime; Redmi 9A; Redmi 9C; Redmi 9C NFC; Redmi Go; Redmi K20; Redmi K20 Pro; Redmi K30; Redmi K30 5G; Redmi K30 Pro; Redmi K30i 5G; Redmi K30S Ultra; Redmi Note 5; Redmi Note 5 Pro; Redmi Note 7 Pro; Redmi Note 8; Redmi Note 8 Pro; Redmi Note 8T; Redmi Note 9; Redmi Note 9 Pro; Redmi Note 9 Pro Max; Redmi Note 9S; Redmi Note6 Pro; Redmi Note7; Redmi S2; Redmi Y2; Redmi Y3;",
+ "modelsTl": "MI 10; MI 10 Lite 5G; MI 10 Lite Zoom; MI 10 Pro; MI 10 Ultra; MI 6X; MI 8; MI 8 Explorer; MI 8 Lite; MI 8 SE; MI 9; MI 9 Lite; MI 9 SE; MI 9 Pro 5G; MI 9T; MI A1; MI A2; MI A3; MI CC9; MI CC9e; MI CC9 MEITU; MI CC9 Pro; MI CC9 Pro Premium; MI MAX3; MI MIX3; MI Note 10; MI Note 10 Lite; MI Note 10 Pro; MI Play; MI8 UD; MI MIX2S; POCO C3; POCO F2 Pro; POCO M2 Pro; POCO M2; POCO M2 Reloaded; POCO X2; Redmi 10X; Redmi 10X 4G; Redmi 10X Pro; Redmi 6; Redmi 6 Pro; Redmi 6A; Redmi 7; Redmi 7A; Redmi 8; Redmi 8A; Redmi 8A Dual; Redmi 8A Pro; Redmi 9; Redmi 9 Prime; Redmi 9A; Redmi 9C; Redmi 9C NFC; Redmi Go; Redmi K20; Redmi K20 Pro; Redmi K30; Redmi K30 5G; Redmi K30 Pro; Redmi K30i 5G; Redmi K30S Ultra; Redmi Note 5; Redmi Note 5 Pro; Redmi Note 7 Pro; Redmi Note 8; Redmi Note 8 Pro; Redmi Note 8T; Redmi Note 9; Redmi Note 9 Pro; Redmi Note 9 Pro Max; Redmi Note 9S; Redmi Note6 Pro; Redmi Note7; Redmi S2; Redmi Y2; Redmi Y3;",
+ "createdAt": "2021-08-13T06:25:02.000Z",
+ "syncTime": "202003"
+}

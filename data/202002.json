@@ -1,0 +1,15 @@
+{
+ "id": 25,
+ "operator": "lvyingnan",
+ "publishedAt": "2021-08-25T09:34:20.099Z",
+ "status": 1,
+ "heavy": "CVE-2020-0022;CVE-2020-0023",
+ "high": "CVE-2019-2116;CVE-2020-0028;CVE-2020-0017;CVE-2020-0014;CVE-2019-11599;CVE-2020-0015;CVE-2020-0018;CVE-2019-10567;CVE-2020-0026;CVE-2020-0021;CVE-2020-0005;CVE-2019-10538;CVE-2020-0020;CVE-2019-14063;CVE-2019-14051;CVE-2019-14055;CVE-2019-14046;CVE-2019-14057;CVE-2019-14044;CVE-2019-14049;CVE-2019-14060;CVE-2019-10590;CVE-2020-0027;CVE-2020-0030;CVE-2019-9460;CVE-2019-2200",
+ "middle": "CVE-2019-9460",
+ "low": "",
+ "ignoreable": "",
+ "models": "MI 10; MI 10 Lite 5G; MI 10 Lite Zoom; MI 10 Pro; MI 6X; MI 8; MI 8 Explorer; MI 8 Lite; MI 8 SE; MI 9; MI 9 Lite; MI 9 SE; MI 9 Pro 5G; MI 9T; MI A1; MI A2; MI A3; MI CC9; MI CC9e; MI CC9 MEITU; MI CC9 Pro; MI CC9 Pro Premium; MI MAX3; MI MIX3 5G; MI MIX3; MI Note 10 Lite; MI Note 10; MI Note 10 Pro; MI Play; MI8 UD; MI MIX2S; POCO F1; POCO F2 Pro; POCO M2 Pro; POCO X2; Redmi 10X; Redmi 10X 4G; Redmi 6; Redmi 6 Pro; Redmi 6A; Redmi 7; Redmi 7A; Redmi 8; Redmi 8A; Redmi 8A Dual; Redmi 8A Pro; Redmi 9; Redmi 9 Prime; Redmi K20; Redmi K20 Pro; Redmi K30; Redmi K30 5G; Redmi K30 Pro; Redmi K30i 5G; Redmi Note 5; Redmi Note 5 Pro; Redmi Note 7 Pro; Redmi Note 8; Redmi Note 8 Pro; Redmi Note 8T; Redmi Note 9; Redmi Note 9 Pro; Redmi Note 9 Pro Max; Redmi Note 9S; Redmi Note6 Pro; Redmi Note7; Redmi S2; Redmi Y2; Redmi Y3;",
+ "modelsTl": "MI 10; MI 10 Lite 5G; MI 10 Lite Zoom; MI 10 Pro; MI 6X; MI 8; MI 8 Explorer; MI 8 Lite; MI 8 SE; MI 9; MI 9 Lite; MI 9 SE; MI 9 Pro 5G; MI 9T; MI A1; MI A2; MI A3; MI CC9; MI CC9e; MI CC9 MEITU; MI CC9 Pro; MI CC9 Pro Premium; MI MAX3; MI MIX3 5G; MI MIX3; MI Note 10 Lite; MI Note 10; MI Note 10 Pro; MI Play; MI8 UD; MI MIX2S; POCO F1; POCO F2 Pro; POCO M2 Pro; POCO X2; Redmi 10X; Redmi 10X 4G; Redmi 6; Redmi 6 Pro; Redmi 6A; Redmi 7; Redmi 7A; Redmi 8; Redmi 8A; Redmi 8A Dual; Redmi 8A Pro; Redmi 9; Redmi 9 Prime; Redmi K20; Redmi K20 Pro; Redmi K30; Redmi K30 5G; Redmi K30 Pro; Redmi K30i 5G; Redmi Note 5; Redmi Note 5 Pro; Redmi Note 7 Pro; Redmi Note 8; Redmi Note 8 Pro; Redmi Note 8T; Redmi Note 9; Redmi Note 9 Pro; Redmi Note 9 Pro Max; Redmi Note 9S; Redmi Note6 Pro; Redmi Note7; Redmi S2; Redmi Y2; Redmi Y3;",
+ "createdAt": "2021-08-13T06:25:00.000Z",
+ "syncTime": "202002"
+}

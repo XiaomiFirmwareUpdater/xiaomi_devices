@@ -1,0 +1,15 @@
+{
+ "id": 42,
+ "operator": "lvyingnan",
+ "publishedAt": "2021-08-25T03:47:19.445Z",
+ "status": 1,
+ "heavy": "CVE-2020-11307;CVE-2021-1965;CVE-2021-0592",
+ "high": "CVE-2020-0368;CVE-2020-0417;CVE-2021-0514;CVE-2021-0515;CVE-2021-0486;CVE-2021-0441;CVE-2021-0590;CVE-2021-0599;CVE-2021-0594;CVE-2021-0597;CVE-2021-0588;CVE-2021-0602;CVE-2021-0600;CVE-2021-1931;CVE-2021-0604;CVE-2021-0601;CVE-2021-0589;CVE-2021-0596;CVE-2021-0586;CVE-2021-0603;CVE-2021-1953;CVE-2021-1940;CVE-2021-1943;CVE-2021-1964;CVE-2021-1907;CVE-2021-1955;CVE-2021-1945;CVE-2021-1970;CVE-2021-1938;CVE-2021-1954;CVE-2021-0585;CVE-2021-0587;CVE-2021-0577",
+ "middle": "",
+ "low": "",
+ "ignoreable": "",
+ "models": "Redmi K40; POCO F3; MI 11X; POCO C3; Redmi 9C NFC; Redmi 9C; Redmi K30S Ultra; MI 10T; MI 10T Pro; Redmi K40 Gaming; POCO F3 GT; Redmi 10X; Redmi Note 8 Pro; Redmi Note 8; Redmi 10X Pro; Redmi Note 9; Redmi Note 9T; MI 10 Ultra; Redmi 9; MIX FOLD; Redmi K30 Ultra; Redmi Note 10 Pro; POCO X3 GT; POCO M3; MI 10 Pro; MI 11 Lite; MI 9Pro 5G; Redmi Note 9S; Redmi 9A; Xiaomi Pad 5 Pro; Xiaomi Pad 5 Pro 5G; Redmi Note 9 Pro Max; Redmi Note 9 Pro; MI 10T Lite; MI 10i; POCO M2 Pro; Redmi K40 Pro; MI 11i; MI 11X Pro; Redmi 9 Prime; Redmi Note 9 4G; Redmi 9T; Redmi 9 Power; Redmi K30 Pro; POCO F2 Pro; Redmi 10X 4G; Redmi Note9; Redmi Note 10; MI 10 Lite 5G; Xiaomi Pad 5; MIX 4; Redmi 8A; Redmi K30; POCO X2; Redmi K30 5G; Redmi K30i 5G; MI CC 9; MI 11 Lite 5G; Redmi Note 10S; POCO M2; POCO M2 Reloaded; MI 11 Ultra; MI 11 Pro; POCO X3 NFC; POCO X3; MI 10S; MI Note 10 Lite; MI CC 9 Pro; MI Note 10; MI Note 10 Pro; MI 10; MI 10 Lite Zoom; POCO X3 Pro; MI 11; Redmi Note 7 Pro; ",
+ "modelsTl": "Redmi K40; POCO F3; MI 11X; POCO C3; Redmi 9C NFC; Redmi 9C; Redmi K30S Ultra; MI 10T; MI 10T Pro; Redmi K40 Gaming; POCO F3 GT; Redmi 10X; Redmi Note 8 Pro; Redmi Note 8; Redmi 10X Pro; Redmi Note 9; Redmi Note 9T; MI 10 Ultra; Redmi 9; MIX FOLD; Redmi K30 Ultra; Redmi Note 10 Pro; POCO X3 GT; POCO M3; MI 10 Pro; MI 11 Lite; MI 9Pro 5G; Redmi Note 9S; Redmi 9A; Xiaomi Pad 5 Pro; Xiaomi Pad 5 Pro 5G; Redmi Note 9 Pro Max; Redmi Note 9 Pro; MI 10T Lite; MI 10i; POCO M2 Pro; Redmi K40 Pro; MI 11i; MI 11X Pro; Redmi 9 Prime; Redmi Note 9 4G; Redmi 9T; Redmi 9 Power; Redmi K30 Pro; POCO F2 Pro; Redmi 10X 4G; Redmi Note9; Redmi Note 10; MI 10 Lite 5G; Xiaomi Pad 5; MIX 4; Redmi 8A; Redmi K30; POCO X2; Redmi K30 5G; Redmi K30i 5G; MI CC 9; MI 11 Lite 5G; Redmi Note 10S; POCO M2; POCO M2 Reloaded; MI 11 Ultra; MI 11 Pro; POCO X3 NFC; POCO X3; MI 10S; MI Note 10 Lite; MI CC 9 Pro; MI Note 10; MI Note 10 Pro; MI 10; MI 10 Lite Zoom; POCO X3 Pro; MI 11; Redmi Note 7 Pro; ",
+ "createdAt": "2021-08-13T06:25:24.000Z",
+ "syncTime": "202107"
+}

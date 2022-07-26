@@ -1,0 +1,15 @@
+{
+ "id": 44,
+ "operator": "lizelin1",
+ "publishedAt": "2021-10-25T06:16:53.078Z",
+ "status": 1,
+ "heavy": "CVE-2021-1886;CVE-2021-1889;CVE-2021-1888;CVE-2021-1890;CVE-2021-1933;CVE-2021-1946;CVE-2021-0687",
+ "high": "CVE-2021-0682;CVE-2021-0688;CVE-2021-0428;CVE-2020-26558;CVE-2021-0595;CVE-2021-0686;CVE-2021-1923;CVE-2021-0692;CVE-2021-0684;CVE-2021-0598;CVE-2021-0644;CVE-2021-1909;CVE-2021-1935;CVE-2021-1952;CVE-2021-1934;CVE-2021-0690;CVE-2021-30295;CVE-2021-0695;CVE-2021-0693;CVE-2021-1948;CVE-2021-1941;CVE-2021-0683;CVE-2021-0636;CVE-2021-0635;CVE-2021-0689;CVE-2021-30290;CVE-2021-1974;CVE-2021-30294;CVE-2021-1971;CVE-2021-0685;CVE-2021-0681;CVE-2021-0680",
+ "middle": "CVE-2021-0691",
+ "low": "",
+ "ignoreable": "",
+ "models": "Redmi K40;POCO C31;Redmi 9C NFC;Redmi K30S Ultra;MI 10T Pro;MI 10 T;MI 10 T Pro;Redmi K40 Gaming;Redmi 10X;Redmi 10X Pro;Redmi Note 10;Redmi Note 10 5G;Redmi Note 9;Redmi Note 9T;MI10 Ultra;MIX FOLD;Redmi K30 Ultra;Redmi Note 10 Pro;MI 10 Pro;MI 11 Lite;MI 9Pro 5G;Redmi Note 9S;Redmi 9A;Xiaomi Pad 5 Pro;Xiaomi Pad 5 Pro 5G;Redmi Note 9 Pro Max;Redmi Note 9 Pro;MI 10T Lite;Redmi Note 8;Redmi K40 Pro;MI 11i;MI 11X Pro;Redmi 9;Redmi Note 9 4G;Redmi 9T;Redmi K30 Pro;MI 10 Lite 5G;Xiaomi Pad 5;MIX 4;Redmi 7;Redmi K30;POCO X2;Redmi K30 5G;Redmi K30i 5G;MI CC 9;MI 11 Lite 5G;MI 11 Ultra;MI 11 Pro;Redmi Note 10 Pro;MI 10S;MI Note 10 Lite;MI CC 9 Pro;MI Note 10;MI 10;MI 10 Lite Zoom;POCO X3 Pro;MI 11",
+ "modelsTl": "Redmi K40;POCO C31;Redmi 9C NFC;Redmi K30S Ultra;MI 10T Pro;MI 10 T;MI 10 T Pro;Redmi K40 Gaming;Redmi 10X;Redmi 10X Pro;Redmi Note 10;Redmi Note 10 5G;Redmi Note 9;Redmi Note 9T;MI10 Ultra;MIX FOLD;Redmi K30 Ultra;Redmi Note 10 Pro;MI 10 Pro;MI 11 Lite;MI 9Pro 5G;Redmi Note 9S;Redmi 9A;Xiaomi Pad 5 Pro;Xiaomi Pad 5 Pro 5G;Redmi Note 9 Pro Max;Redmi Note 9 Pro;MI 10T Lite;Redmi Note 8;Redmi K40 Pro;MI 11i;MI 11X Pro;Redmi 9;Redmi Note 9 4G;Redmi 9T;Redmi K30 Pro;MI 10 Lite 5G;Xiaomi Pad 5;MIX 4;Redmi 7;Redmi K30;POCO X2;Redmi K30 5G;Redmi K30i 5G;MI CC 9;MI 11 Lite 5G;MI 11 Ultra;MI 11 Pro;Redmi Note 10 Pro;MI 10S;MI Note 10 Lite;MI CC 9 Pro;MI Note 10;MI 10;MI 10 Lite Zoom;POCO X3 Pro;MI 11",
+ "createdAt": "2021-10-20T06:50:59.000Z",
+ "syncTime": "202109"
+}
