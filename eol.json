@@ -1,0 +1,337 @@
+{
+ "phone": [
+  {
+   "Xiaomi": [
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 1"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 2"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 2A"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 3"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 4"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 4S"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 4c"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 5"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 5s"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 5s Plus"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 5c"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 5X"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 6"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 6X"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 8 SE"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi Note"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi Note 2"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi Note 3"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi Note Pro"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "MIX"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "MIX 2"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi MAX"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi MAX 2"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi A1"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi A2"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi A2 Lite"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi Pad"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi Pad 2"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi Pad 3"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi Pad 4"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi Pad 4 Plus"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi MAX 3"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 8 Lite"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "MIX 2S"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi MIX 2S"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 8 Explorer Edition"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "MIX 3"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi MIX 3"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 8 UD"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 9 SE"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi PLAY"
+    }
+   ]
+  },
+  {
+   "Redmi": [
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 1"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 1S"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 2"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 2A"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 3"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 3S"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 3X"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 4"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 4X"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 4A"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 5"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 5 Plus"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 5A"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 1"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 1S"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 2"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 2 Pro"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 3"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 4"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 4X"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 5"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 5A"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Pro"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 6"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 6 Pro"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 6A"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi S2"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Y2"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 6 Pro"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi go"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 7 "
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 7S"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 7 Pro"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi K20"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 7"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Y3"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi K20 Pro"
+    }
+   ]
+  },
+  {
+   "POCO": [
+    {
+     "brand": "POCO",
+     "deviceName": "POCO F1"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO PHONE F1"
+    }
+   ]
+  }
+ ],
+ "updateAt": "2022-07-24T23:47:40.000Z"
+}
