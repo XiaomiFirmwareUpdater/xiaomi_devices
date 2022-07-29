@@ -66,6 +66,12 @@
   }
  },
  {
+  "light": {
+   "name": "POCO M4 5G",
+   "model": "22041219PI"
+  }
+ },
+ {
   "fleur": {
    "name": "POCO M4 Pro",
    "model": "2201117PG"
@@ -225,6 +231,18 @@
   "selene": {
    "name": "Redmi 10 2022",
    "model": "21121119VL"
+  }
+ },
+ {
+  "light": {
+   "name": "Redmi 10 5G",
+   "model": "22041219G"
+  }
+ },
+ {
+  "thunder": {
+   "name": "Redmi 10 5G",
+   "model": "22041219NY"
   }
  },
  {
@@ -2307,6 +2325,12 @@
   "cupid": {
    "name": "Xiaomi 12",
    "model": "2201123G"
+  }
+ },
+ {
+  "taoyao": {
+   "name": "Xiaomi 12 Lite",
+   "model": "2203129G"
   }
  },
  {
