@@ -561,6 +561,13 @@
    "`2106118C`": "Xiaomi MIX 4 China"
   }
  },
+ "zizhan": {
+  "internal_name": "L18",
+  "name": "Xiaomi MIX Fold 2",
+  "models": {
+   "`22061218C`": "Xiaomi MIX Fold 2"
+  }
+ },
  "hydrogen": {
   "internal_name": "B3",
   "name": "Mi Max",
@@ -708,9 +715,16 @@
  },
  "enuma": {
   "internal_name": "K81",
-  "name": "Xiaomi Pad 5 Pro",
+  "name": "Xiaomi Pad 5 Pro 5G",
   "models": {
    "`M2105K81C`": "Xiaomi Pad 5 Pro 5G"
+  }
+ },
+ "dagu": {
+  "internal_name": "L81A",
+  "name": "Xiaomi Pad 5 Pro 12.4",
+  "models": {
+   "`22081281AC`": "Xiaomi Pad 5 Pro 12.4"
   }
  },
  "wt93007": {
@@ -1043,10 +1057,10 @@
  },
  "light": {
   "internal_name": "L19/L19P",
-  "name": "Redmi 10 5G / Redmi 10 Prime+ 5G/Redmi Note 11E 5G/POCO M4 5G",
+  "name": "Redmi 10 5G / Redmi 11 Prime 5G/Redmi Note 11E 5G/POCO M4 5G",
   "models": {
    "`22041219G`": "Redmi 10 5G Global",
-   "`22041219I`": "Redmi 10 Prime+ 5G India",
+   "`22041219I`": "Redmi 11 Prime 5G India",
    "`22041219C`": "Redmi Note 11E 5G China",
    "`22041219PI`": "POCO M4 5G India"
   }
