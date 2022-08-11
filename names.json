@@ -215,7 +215,7 @@
  "curtana_mx_tc_global": "Redmi Note 9S",
  "curtana_ru_global": "Redmi Note 9S Russia",
  "curtana_tr_global": "Redmi Note 9S Turkey",
- "dagu": "Xiaomi Pad 5 Pro 12.4",
+ "dagu": "Xiaomi Pad 5 Pro 12.4 China",
  "daisy": "Mi A2 Lite",
  "daisy_global": "Mi A2 Lite Global",
  "daisy_sprout": "Mi A2 Lite",
@@ -224,7 +224,7 @@
  "dandelion_c3l2_eea_global": "Redmi 10A EEA",
  "dandelion_c3l2_global": "Redmi 10A Global",
  "dandelion_c3l2_id_global": "Redmi 10A Indonesia",
- "dandelion_c3l2_in_global": "Redmi 10A India",
+ "dandelion_c3l2_in_global": "Redmi 10A / 10A Sport India",
  "dandelion_c3l2_ru_global": "Redmi 10A Russia",
  "dandelion_c3l2_tw_global": "Redmi 10A Taiwan",
  "dandelion_eea_global": "Redmi 9A / 9AT EEA",
@@ -258,6 +258,7 @@
  "dipper_h3g_global": "MI 8",
  "dipper_it_tim_global": "MI 8",
  "dipper_ru_global": "Mi 8 Russia",
+ "diting": "Redmi K50 Ultra",
  "dredd": "MiBOX2",
  "elish": "Xiaomi Pad 5 Pro Wi-Fi China",
  "entrapment": "MiTV2",
@@ -452,7 +453,7 @@
  "light_eea_global": "Redmi 10 5G / POCO M4 5G EEA",
  "light_global": "Redmi 10 5G / POCO M4 5G Global",
  "light_id_global": "Redmi 10 5G / POCO M4 5G Indonesia",
- "light_in_global": "Redmi 10 Prime+ 5G / POCO M4 5G India",
+ "light_in_global": "Redmi 11 Prime 5G / POCO M4 5G India",
  "light_ru_global": "Redmi 10 5G / POCO M4 5G Russia",
  "light_tr_global": "Redmi 10 5G / POCO M4 5G Turkey",
  "light_tw_global": "Redmi 10 5G / POCO M4 5G Taiwan",
@@ -962,5 +963,5 @@
  "zeus_ru_global": "Xiaomi 12 Pro Russia",
  "zeus_tw_global": "Xiaomi 12 Pro Taiwan",
  "zijin": "Xiaomi Civi 1S China",
- "zizhan": "Xiaomi MIX Fold 2"
+ "zizhan": "Xiaomi MIX Fold 2 China"
 }
