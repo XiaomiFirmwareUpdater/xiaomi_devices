@@ -1677,6 +1677,13 @@
    "`21121210I`": "POCO F4 GT India"
   }
  },
+ "diting": {
+  "internal_name": "L12",
+  "name": "Redmi K50 Ultra",
+  "models": {
+   "`22081212C`": "Redmi K50 Ultra China"
+  }
+ },
  "xagain": {
   "internal_name": "L16",
   "name": "Redmi K50i",
