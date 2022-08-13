@@ -2370,6 +2370,12 @@
   }
  },
  {
+  "diting": {
+   "name": "Xiaomi 12T Pro",
+   "model": "22081212C"
+  }
+ },
+ {
   "psyche": {
    "name": "Xiaomi 12X",
    "model": "2112123AC"
@@ -2394,6 +2400,12 @@
   }
  },
  {
+  "zizhan": {
+   "name": "Xiaomi MIX Fold 2",
+   "model": "22061218C"
+  }
+ },
+ {
   "nabu": {
    "name": "Xiaomi Pad 5",
    "model": "21051182C"
@@ -2403,6 +2415,12 @@
   "nabu": {
    "name": "Xiaomi Pad 5",
    "model": "21051182G"
+  }
+ },
+ {
+  "dagu": {
+   "name": "Xiaomi Pad 5 Pro",
+   "model": "22081281AC"
   }
  },
  {
