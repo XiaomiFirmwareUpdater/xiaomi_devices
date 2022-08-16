@@ -575,6 +575,10 @@
     "display_name": "Redmi Note 9S",
     "display_name_en": "Redmi Note 9S"
   },
+  "dagu": {
+    "display_name": "小米平板5 Pro 12.4",
+    "display_name_en": "小米平板5 Pro 12.4"
+  },
   "daisy_global": {
     "display_name": "Mi A2 Lite",
     "display_name_en": "Mi A2 Lite"
@@ -686,6 +690,10 @@
   "dipper_ru_global": {
     "display_name": "小米8",
     "display_name_en": "MI 8"
+  },
+  "diting": {
+    "display_name": "Redmi K50至尊版",
+    "display_name_en": "Redmi K50至尊版"
   },
   "elish": {
     "display_name": "小米平板5 Pro",
@@ -2422,5 +2430,9 @@
   "zijin": {
     "display_name": "Xiaomi CIVI 1S",
     "display_name_en": "Xiaomi CIVI 1S"
+  },
+  "zizhan": {
+    "display_name": "MIX FOLD 2",
+    "display_name_en": "MIX FOLD 2"
   }
 }
