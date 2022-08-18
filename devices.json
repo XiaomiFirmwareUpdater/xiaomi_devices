@@ -163,9 +163,21 @@
   "Mi 11 Pro",
   "MI11Pro_MI11Ultra"
  ],
+ "mayfly": [
+  "Xiaomi 12S",
+  "MAYFLY"
+ ],
+ "meri": [
+  "Mi 5C",
+  "MI5c"
+ ],
  "mido": [
   "Redmi Note 4/4X Global",
   "HMNote4X"
+ ],
+ "mojito": [
+  "Redmi Note 10",
+  "HMNote10"
  ],
  "mona": [
   "Xiaomi Civi",
@@ -175,13 +187,9 @@
   "Mi 10 Lite 5G Global",
   "MI10LITE5G"
  ],
- "meri": [
-  "Mi 5C",
-  "MI5c"
- ],
- "mojito": [
-  "Redmi Note 10",
-  "HMNote10"
+ "munch": [
+  "Redmi K40S/POCO F4",
+  "MUNCH"
  ],
  "natrium": [
   "Mi 5s Plus",
@@ -299,6 +307,10 @@
   "Mi 8 SE",
   "MI8SE"
  ],
+ "spes": [
+  "Redmi Note 11",
+  "HMNote11"
+ ],
  "star": [
   "Mi 11 Ultra",
   "MI11Pro_MI11Ultra"
@@ -314,6 +326,14 @@
  "sweet": [
   "Redmi Note 10 Pro",
   "HMNote10Pro"
+ ],
+ "taoyao": [
+  "Xiaomi 12 Lite",
+  "TAOYAO"
+ ],
+ "thor": [
+  "Xiaomi 12S Ultra",
+  "THOR"
  ],
  "thyme": [
   "Mi 10S",
@@ -347,6 +367,10 @@
   "Mi 10",
   "MI10"
  ],
+ "unicorn": [
+  "Xiaomi 12S Pro",
+  "UNICORN"
+ ],
  "ursa": [
   "Mi 8 Explorer",
   "MI8Explorer"
@@ -364,8 +388,12 @@
   "MI11"
  ],
  "veux": [
-  "Redmi Note 11 Pro 5G/Redmi Note 11E Pro/POCO X4 Pro 5G",
+  "Redmi Note 11E Pro",
   "VEUX"
+ ],
+ "veuxg": [
+  "Redmi Note 11 Pro 5G/POCO X4 Pro 5G",
+  "VEUXG"
  ],
  "vili": [
   "Xiaomi 11T Pro",
