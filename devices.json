@@ -30,6 +30,12 @@
   }
  },
  {
+  "ingres": {
+   "name": "POCO F4 GT",
+   "model": "21121210G"
+  }
+ },
+ {
   "shiva": {
    "name": "POCO M2",
    "model": "M2004J19PI"
@@ -69,6 +75,12 @@
   "light": {
    "name": "POCO M4 5G",
    "model": "22041219PI"
+  }
+ },
+ {
+  "thunder": {
+   "name": "POCO M4 5G",
+   "model": "22041219PG"
   }
  },
  {
@@ -117,6 +129,12 @@
   "vayu": {
    "name": "POCO X3 Pro",
    "model": "M2102J20SG"
+  }
+ },
+ {
+  "xaga": {
+   "name": "POCO X4 GT",
+   "model": "22041216G"
   }
  },
  {
@@ -255,6 +273,18 @@
   "dandelion": {
    "name": "Redmi 10A",
    "model": "220233L2C"
+  }
+ },
+ {
+  "dandelion": {
+   "name": "Redmi 10A",
+   "model": "220233L2G"
+  }
+ },
+ {
+  "dandelion": {
+   "name": "Redmi 10A Sport",
+   "model": "220233L2I"
   }
  },
  {
@@ -609,6 +639,12 @@
   "ingres": {
    "name": "Redmi K50G",
    "model": "21121210C"
+  }
+ },
+ {
+  "xagain": {
+   "name": "Redmi K50i",
+   "model": "22041216I"
   }
  },
  {
@@ -2313,6 +2349,12 @@
   "pissarroin": {
    "name": "Xiaomi 11i",
    "model": "21091116I"
+  }
+ },
+ {
+  "pissarroinpro": {
+   "name": "Xiaomi 11i HyperCharge",
+   "model": "21091116UI"
   }
  },
  {
