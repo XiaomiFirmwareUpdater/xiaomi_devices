@@ -1,6 +1,45 @@
 {
  "items": [
   {
+   "id": 33,
+   "status": 1,
+   "deviceName": "Xiaomi 12 Lite",
+   "releaseDate": "2022-7",
+   "securityUpdateEol": "2026-3",
+   "updateFrequency": "90 days",
+   "updateFrequencyTl": "90 days",
+   "shippedVersion": "Android 12",
+   "futureVersion": "Android 13,Android 14",
+   "createdAt": "2022-08-01T12:23:57.000Z",
+   "updatedAt": "2022-08-01T12:24:02.000Z"
+  },
+  {
+   "id": 34,
+   "status": 1,
+   "deviceName": "POCO M4 5G",
+   "releaseDate": "2022-4",
+   "securityUpdateEol": "90 Days",
+   "updateFrequency": "90 Days",
+   "updateFrequencyTl": "90 days",
+   "shippedVersion": "Android 12",
+   "futureVersion": "Android 13，Android 14",
+   "createdAt": "2022-08-08T11:46:49.000Z",
+   "updatedAt": "2022-08-22T13:26:38.000Z"
+  },
+  {
+   "id": 35,
+   "status": 1,
+   "deviceName": "Redmi 10 5G",
+   "releaseDate": "2022-4",
+   "securityUpdateEol": "2025-4",
+   "updateFrequency": "90 days",
+   "updateFrequencyTl": "90 days",
+   "shippedVersion": "Android 12",
+   "futureVersion": "Android 13,Android 14",
+   "createdAt": "2022-08-20T02:18:22.000Z",
+   "updatedAt": "2022-08-22T13:32:09.000Z"
+  },
+  {
    "id": 30,
    "status": 1,
    "deviceName": "Xiaomi 12 Pro",
@@ -378,5 +417,5 @@
    "updatedAt": "2021-11-15T12:35:15.000Z"
   }
  ],
- "total": 29
+ "total": 32
 }
