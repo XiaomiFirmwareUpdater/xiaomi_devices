@@ -165,6 +165,14 @@
     {
      "brand": "Xiaomi",
      "deviceName": "Mi PLAY"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 8"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 9"
     }
    ]
   },
@@ -317,6 +325,10 @@
     {
      "brand": "Redmi",
      "deviceName": "Redmi K20 Pro"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 7A"
     }
    ]
   },
@@ -333,5 +345,5 @@
    ]
   }
  ],
- "updateAt": "2022-07-24T23:47:40.000Z"
+ "updateAt": "2022-08-25T00:57:49.000Z"
 }
