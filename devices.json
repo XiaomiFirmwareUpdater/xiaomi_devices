@@ -30,6 +30,18 @@
   }
  },
  {
+  "munch": {
+   "name": "POCO F4",
+   "model": "22021211RG"
+  }
+ },
+ {
+  "munch": {
+   "name": "POCO F4",
+   "model": "22021211RI"
+  }
+ },
+ {
   "ingres": {
    "name": "POCO F4 GT",
    "model": "21121210G"
@@ -825,6 +837,18 @@
   "pissarropro": {
    "name": "Redmi Note 11 Pro+ 5G",
    "model": "21091116UG"
+  }
+ },
+ {
+  "secret": {
+   "name": "Redmi Note 11 SE",
+   "model": "22087RA4DI"
+  }
+ },
+ {
+  "secret": {
+   "name": "Redmi Note 11 SE",
+   "model": "M2101K7BI"
   }
  },
  {
