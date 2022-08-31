@@ -1352,10 +1352,11 @@
  },
  "secret": {
   "internal_name": "K7B",
-  "name": "Redmi Note 10S",
+  "name": "Redmi Note 10S/Redmi Note 11 SE",
   "models": {
    "`M2101K7BG`": "Redmi Note 10S Global",
-   "`M2101K7BI`": "Redmi Note 10S India"
+   "`M2101K7BI`": "Redmi Note 10S India",
+   "`22087RA4DI`": "Redmi Note 11 SE India"
   }
  },
  "rosemary": {
@@ -1806,7 +1807,7 @@
    "`21091116AG`": "POCO M4 Pro 5G Global"
   }
  },
- "rosemaryp": {
+ "rosemary_p": {
   "internal_name": "K7BP",
   "name": "POCO M5s",
   "models": {
