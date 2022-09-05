@@ -1727,6 +1727,17 @@
    "`M1903C3GI`": "Redmi Go India"
   }
  },
+ "ice": {
+  "internal_name": "C3S/C3SP",
+  "name": "Redmi A1/POCO C50",
+  "models": {
+   "`220733SG`": "Redmi A1 Global",
+   "`220733SFG`": "Redmi A1+ Global",
+   "`220733SI`": "Redmi A1 India",
+   "`220733SL`": "Redmi A1 Latin America",
+   "`220733SPI`": "POCO C50 India"
+  }
+ },
  "beryllium": {
   "internal_name": "E10",
   "name": "POCO F1",
@@ -1805,6 +1816,20 @@
   "name": "POCO M4 Pro 5G",
   "models": {
    "`21091116AG`": "POCO M4 Pro 5G Global"
+  }
+ },
+ "stone": {
+  "internal_name": "L19C",
+  "name": "POCO M5",
+  "models": {
+   "`22071219CG`": "POCO M5 Global"
+  }
+ },
+ "rock": {
+  "internal_name": "L19C",
+  "name": "POCO M5",
+  "models": {
+   "`22071219CI`": "POCO M5 India"
   }
  },
  "rosemary_p": {
