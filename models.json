@@ -1732,10 +1732,16 @@
   "name": "Redmi A1/POCO C50",
   "models": {
    "`220733SG`": "Redmi A1 Global",
-   "`220733SFG`": "Redmi A1+ Global",
    "`220733SI`": "Redmi A1 India",
    "`220733SL`": "Redmi A1 Latin America",
    "`220733SPI`": "POCO C50 India"
+  }
+ },
+ "snow": {
+  "internal_name": "D3F",
+  "name": "Redmi A1+",
+  "models": {
+   "`220743FI`": "Redmi A1+ India"
   }
  },
  "beryllium": {
