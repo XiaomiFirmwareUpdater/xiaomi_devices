@@ -540,6 +540,18 @@
   }
  },
  {
+  "ice": {
+   "name": "Redmi A1",
+   "model": "220733SI"
+  }
+ },
+ {
+  "snow": {
+   "name": "Redmi A1+",
+   "model": "220743FI"
+  }
+ },
+ {
   "davinci": {
    "name": "Redmi K20",
    "model": "Mi 9T"
