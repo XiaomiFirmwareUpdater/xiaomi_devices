@@ -455,6 +455,20 @@
    "`2203121C`": "Xiaomi 12S Ultra China"
   }
  },
+ "plato": {
+  "internal_name": "L12A",
+  "name": "Xiaomi 12T",
+  "models": {
+   "`22071212AG`": "Xiaomi 12T Global"
+  }
+ },
+ "ditingp": {
+  "internal_name": "L12U",
+  "name": "Xiaomi 12T Pro",
+  "models": {
+   "`22081212UG`": "Xiaomi 12T Pro Global"
+  }
+ },
  "virgo": {
   "internal_name": "X5",
   "name": "Mi Note",
@@ -1093,6 +1107,14 @@
   "name": "Redmi 10C",
   "models": {
    "`220333QL`": "Redmi 10C Latin America"
+  }
+ },
+ "rock": {
+  "internal_name": "L19A/L19C",
+  "name": "Redmi 11 Prime/POCO M5",
+  "models": {
+   "`22071219AI`": "Redmi 11 Prime India",
+   "`22071219CI`": "POCO M5 India"
   }
  },
  "lcsh92_wet_gb9": {
@@ -1829,13 +1851,6 @@
   "name": "POCO M5",
   "models": {
    "`22071219CG`": "POCO M5 Global"
-  }
- },
- "rock": {
-  "internal_name": "L19C",
-  "name": "POCO M5",
-  "models": {
-   "`22071219CI`": "POCO M5 India"
   }
  },
  "rosemary_p": {
