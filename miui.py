@@ -66,9 +66,9 @@ def main():
     """
     Scrap Xiaomi devices downloads info from official site and generate JSON files
     """
-    china_devices()
+    #china_devices()
     global_devices()
-    china_fastboot()
+    #china_fastboot()
     global_fastboot()
 
 
