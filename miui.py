@@ -26,17 +26,14 @@ def global_devices():
     fetch MIUI downloads devices
     """
     headers = {
-        'pragma': 'no-cache',
-        'accept-encoding': 'gzip, deflate, br',
-        'accept-language': 'en-US,en;q=0.9',
-        'accept': 'application/json, text/javascript, */*; q=0.01',
-        'cache-control': 'no-cache',
-        'authority': 'c.mi.com',
-        'x-requested-with': 'XMLHttpRequest',
-        'referer': 'https://c.mi.com/oc/miuidownload/',
+        'Accept': 'application/json, text/plain, */*',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Connection': 'keep-alive',
+        'Origin': 'https://new.c.mi.com',
+        'Referer': 'https://new.c.mi.com/',
     }
 
-    url = 'https://c.mi.com/oc/rom/getphonelist'
+    url = 'https://sgp-api.buy.mi.com/bbs/api/global/phone/getphonelist'
     data = get(url, headers=headers).json()['data']['phone_data']['phone_list']
     unified = []
     for item in data:
@@ -58,7 +55,7 @@ def china_fastboot():
 
 def global_fastboot():
     """fetch MIUI global fastboot rom devices"""
-    data = get("https://c.mi.com/oc/rom/getlinepackagelist").json()["data"]
+    data = get("https://sgp-api.buy.mi.com/bbs/api/global/phone/getlinepackagelist").json()["data"]
     links = [f"{i['package_url'].split('=')[1].split('&')[0].strip()} - {i['package_url'].split('=')[2].split('&')[0]}"
              for i in data]
     with open("global_fastboot.txt", 'w') as output:
