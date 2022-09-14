@@ -1382,10 +1382,11 @@
   }
  },
  "rosemary": {
-  "internal_name": "K7BN",
-  "name": "Redmi Note 10S",
+  "internal_name": "K7BN/K7BP",
+  "name": "Redmi Note 10S/POCO M5s",
   "models": {
-   "`M2101K7BNY`": "Redmi Note 10S Global (NFC)"
+   "`M2101K7BNY`": "Redmi Note 10S Global (NFC)",
+   "`2207117BPG`": "POCO M5s Global"
   }
  },
  "maltose": {
@@ -1851,13 +1852,6 @@
   "name": "POCO M5",
   "models": {
    "`22071219CG`": "POCO M5 Global"
-  }
- },
- "rosemary_p": {
-  "internal_name": "K7BP",
-  "name": "POCO M5s",
-  "models": {
-   "`2207117BPG`": "POCO M5s Global"
   }
  },
  "angelicain": {
