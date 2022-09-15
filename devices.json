@@ -114,6 +114,12 @@
   }
  },
  {
+  "rosemary": {
+   "name": "POCO M5s",
+   "model": "2207117BPG"
+  }
+ },
+ {
   "phoenixin": {
    "name": "POCO X2",
    "model": "POCO X2"
@@ -2085,6 +2091,12 @@
   "beryllium": {
    "name": "POCO F1",
    "model": "POCOPHONE F1"
+  }
+ },
+ {
+  "rosemary": {
+   "name": "POCO M5s",
+   "model": "2207117BPG"
   }
  },
  {
