@@ -554,7 +554,25 @@
  {
   "ice": {
    "name": "Redmi A1",
+   "model": "220733SG"
+  }
+ },
+ {
+  "ice": {
+   "name": "Redmi A1",
    "model": "220733SI"
+  }
+ },
+ {
+  "ice": {
+   "name": "Redmi A1",
+   "model": "220733SL"
+  }
+ },
+ {
+  "snow": {
+   "name": "Redmi A1+",
+   "model": "220733SFG"
   }
  },
  {
