@@ -643,6 +643,13 @@
    "`2109119BC`": "Xiaomi Civi 1S China"
   }
  },
+ "ziyi": {
+  "internal_name": "L9S",
+  "name": "Xiaomi Civi 2",
+  "models": {
+   "`2209129SC`": "Xiaomi Civi 2 China"
+  }
+ },
  "lotus": {
   "internal_name": "F9",
   "name": "Mi Play",
@@ -1761,9 +1768,10 @@
   }
  },
  "snow": {
-  "internal_name": "D3F",
+  "internal_name": "C3SF",
   "name": "Redmi A1+",
   "models": {
+   "`220733SFG`": "Redmi A1+ Global",
    "`220743FI`": "Redmi A1+ India"
   }
  },
