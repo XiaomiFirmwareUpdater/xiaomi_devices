@@ -36,6 +36,12 @@
   "item_identify": ""
  },
  {
+  "id": "1900415",
+  "name": "Redmi A1/A1+",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/d61e3b88c6bb9c9d9df5ceb5c9f76ede",
+  "item_identify": ""
+ },
+ {
   "id": "1900405",
   "name": "Redmi Note 11 Series",
   "pic_url": "https://i02.appmifile.com/356_bbs_en/04/03/2022/3cd9001c3d.png",
@@ -84,6 +90,12 @@
   "item_identify": ""
  },
  {
+  "id": "1700365",
+  "name": "Redmi Go",
+  "pic_url": "https://u01.appmifile.com/images/2019/09/09/23dd633e-ec26-4086-8d41-4800592ece40.png",
+  "item_identify": ""
+ },
+ {
   "id": "1900381",
   "name": "Redmi 9/9A/9C/9C NFC/9T",
   "pic_url": "https://i02.appmifile.com/512_bbs_en/24/06/2020/e951cfd913.png",
@@ -117,12 +129,6 @@
   "id": "1900376",
   "name": "Redmi 8/8A/8A Pro",
   "pic_url": "https://u01.appmifile.com/images/2019/10/10/13f46e32-2b88-421e-9acb-fd9a7112430d.jpg",
-  "item_identify": ""
- },
- {
-  "id": "1700366",
-  "name": "Redmi 7",
-  "pic_url": "https://u01.appmifile.com/images/2019/07/04/99771010-bf9a-48b4-8d9b-de6a33658ed8.png",
   "item_identify": ""
  },
  {
@@ -162,21 +168,15 @@
   "item_identify": ""
  },
  {
+  "id": "1700366",
+  "name": "Redmi 7",
+  "pic_url": "https://u01.appmifile.com/images/2019/07/04/99771010-bf9a-48b4-8d9b-de6a33658ed8.png",
+  "item_identify": ""
+ },
+ {
   "id": "1700362",
   "name": "Mi Play",
   "pic_url": "https://u01.appmifile.com/images/2019/07/04/5e5b29e4-1267-40d8-88f7-0d4cbd00d20c.png",
-  "item_identify": ""
- },
- {
-  "id": "1700365",
-  "name": "Redmi Go",
-  "pic_url": "https://u01.appmifile.com/images/2019/09/09/23dd633e-ec26-4086-8d41-4800592ece40.png",
-  "item_identify": ""
- },
- {
-  "id": "1700361",
-  "name": "Mi 9/9T Series",
-  "pic_url": "https://u01.appmifile.com/images/2019/09/10/7993fef2-9b48-4ef1-bc9d-a8feaf2ab003.png",
   "item_identify": ""
  },
  {
@@ -276,6 +276,12 @@
   "item_identify": ""
  },
  {
+  "id": "1700323",
+  "name": "Redmi 4X",
+  "pic_url": "https://u01.appmifile.com/images/2019/07/05/62d1650f-8723-4cce-8e14-0e6115f1444c.png",
+  "item_identify": ""
+ },
+ {
   "id": "1700321",
   "name": "Redmi Note 4X",
   "pic_url": "https://u01.appmifile.com/images/2019/07/05/d2a0d3dc-9bd1-472b-b68e-bea6cc1d2ac6.png",
@@ -336,9 +342,9 @@
   "item_identify": ""
  },
  {
-  "id": "1700323",
-  "name": "Redmi 4X",
-  "pic_url": "https://u01.appmifile.com/images/2019/07/05/62d1650f-8723-4cce-8e14-0e6115f1444c.png",
+  "id": "1700326",
+  "name": "Xiaomi Mi 6",
+  "pic_url": "https://u01.appmifile.com/images/2019/07/04/f8c83ede-c7da-4bd7-9517-d23a30b82838.png",
   "item_identify": ""
  },
  {
@@ -402,9 +408,15 @@
   "item_identify": ""
  },
  {
-  "id": "1700343",
-  "name": "Mi MIX 2S",
-  "pic_url": "https://u01.appmifile.com/images/2019/07/04/76a141e1-15ad-4f3f-b31e-98c2742b4ca3.png",
+  "id": "1700345",
+  "name": "Redmi S2/Y2",
+  "pic_url": "https://u01.appmifile.com/images/2019/07/04/21b9dc09-9a4a-4b6d-b327-d1a0c8c1679b.png",
+  "item_identify": ""
+ },
+ {
+  "id": "1700361",
+  "name": "Mi 9/9T Series",
+  "pic_url": "https://u01.appmifile.com/images/2019/09/10/7993fef2-9b48-4ef1-bc9d-a8feaf2ab003.png",
   "item_identify": ""
  },
  {
@@ -462,15 +474,15 @@
   "item_identify": ""
  },
  {
-  "id": "1700345",
-  "name": "Redmi S2/Y2",
-  "pic_url": "https://u01.appmifile.com/images/2019/07/04/21b9dc09-9a4a-4b6d-b327-d1a0c8c1679b.png",
-  "item_identify": ""
- },
- {
   "id": "1700002",
   "name": "Xiaomi Mi 2/2S",
   "pic_url": "https://static.bbs.miui.com/static/miui/homepage/images/phones/mi2.png",
+  "item_identify": ""
+ },
+ {
+  "id": "1700343",
+  "name": "Mi MIX 2S",
+  "pic_url": "https://u01.appmifile.com/images/2019/07/04/76a141e1-15ad-4f3f-b31e-98c2742b4ca3.png",
   "item_identify": ""
  },
  {
@@ -525,12 +537,6 @@
   "id": "1700328",
   "name": "Xiaomi Mi Max 2",
   "pic_url": "https://u01.appmifile.com/images/2019/07/05/edd6d14b-77f3-45be-92c7-5ae90a41236e.png",
-  "item_identify": ""
- },
- {
-  "id": "1700326",
-  "name": "Xiaomi Mi 6",
-  "pic_url": "https://u01.appmifile.com/images/2019/07/04/f8c83ede-c7da-4bd7-9517-d23a30b82838.png",
   "item_identify": ""
  }
 ]
