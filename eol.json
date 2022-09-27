@@ -173,6 +173,14 @@
     {
      "brand": "Xiaomi",
      "deviceName": "Mi 9"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi CC 9e"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi A3 (Android One)"
     }
    ]
   },
@@ -345,5 +353,5 @@
    ]
   }
  ],
- "updateAt": "2022-08-25T00:57:49.000Z"
+ "updateAt": "2022-09-22T12:07:35.000Z"
 }
