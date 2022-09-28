@@ -221,6 +221,9 @@
  "hermes_global": "HMMI",
  "hydrogen": "BCCN",
  "hydrogen_global": "BCMI",
+ "ice_eea_global": "GMEU",
+ "ice_in_global": "GMIN",
+ "ice_ru_global": "GMRU",
  "ido_xhdpi": "AICN",
  "ido_xhdpi_global": "AIMI",
  "ingres": "LJCN",
@@ -601,5 +604,6 @@
  "zeus_ru_global": "LBRU",
  "zeus_tw_global": "LBTW",
  "zijin": "LPCN",
+ "ziyi": "LLCN",
  "zizhan": "LRCN"
 }
