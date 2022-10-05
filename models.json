@@ -1077,12 +1077,13 @@
   }
  },
  "light": {
-  "internal_name": "L19/L19P",
-  "name": "Redmi 10 5G / Redmi 11 Prime 5G/Redmi Note 11E 5G/POCO M4 5G",
+  "internal_name": "L19/L19P/L19P",
+  "name": "Redmi 10 5G / Redmi 11 Prime 5G/Redmi Note 11E 5G/Redmi Note 11R/POCO M4 5G",
   "models": {
    "`22041219G`": "Redmi 10 5G Global",
    "`22041219I`": "Redmi 11 Prime 5G India",
    "`22041219C`": "Redmi Note 11E 5G China",
+   "`22095RA98C`": "Redmi Note 11R 5G China",
    "`22041219PI`": "POCO M4 5G India"
   }
  },
@@ -1417,7 +1418,7 @@
   "name": "Redmi Note 10 5G / Redmi Note 10T / Redmi Note 11SE/POCO M3 Pro 5G",
   "models": {
    "`M2103K19I`": "Redmi Note 10T 5G India",
-   "`M2103K19C`": "Redmi Note 10 5G China / Redmi Note 11SE China",
+   "`M2103K19C`": "Redmi Note 10 5G China / Redmi Note 11SE 5G China",
    "`M2103K19PI`": "POCO M3 Pro 5G India"
   }
  },
@@ -1437,12 +1438,13 @@
   }
  },
  "sweet": {
-  "internal_name": "K6",
-  "name": "Redmi Note 10 Pro",
+  "internal_name": "K6/K6A",
+  "name": "Redmi Note 10 Pro/Redmi Note 11 Pro 2023",
   "models": {
    "`M2101K6G`": "Redmi Note 10 Pro Global",
    "`M2101K6T`": "Redmi Note 10 Pro Thailand",
-   "`M2101K6R`": "Redmi Note 10 Pro Japan"
+   "`M2101K6R`": "Redmi Note 10 Pro Japan",
+   "`2209116AG`": "Redmi Note 11 Pro 2023 Global"
   }
  },
  "sweetin": {
@@ -1538,7 +1540,7 @@
   "models": {
    "`2201116SG`": "Redmi Note 11 Pro 5G Global",
    "`2201116SR`": "Redmi Note 11 Pro 5G Japan",
-   "`2201116SC`": "Redmi Note 11E Pro China",
+   "`2201116SC`": "Redmi Note 11E Pro 5G China",
    "`2201116PG`": "POCO X4 Pro 5G Global"
   }
  },
@@ -1554,7 +1556,7 @@
   "internal_name": "K16",
   "name": "Redmi Note 11 Pro",
   "models": {
-   "`21091116C`": "Redmi Note 11 Pro China"
+   "`21091116C`": "Redmi Note 11 Pro 5G China"
   }
  },
  "pissarropro": {
@@ -1562,14 +1564,14 @@
   "name": "Redmi Note 11 Pro+",
   "models": {
    "`21091116UG`": "Redmi Note 11 Pro+ 5G Global",
-   "`21091116UC`": "Redmi Note 11 Pro+ China"
+   "`21091116UC`": "Redmi Note 11 Pro+ 5G China"
   }
  },
  "xaga": {
   "internal_name": "L16",
   "name": "Redmi Note 11T Pro/POCO X4 GT",
   "models": {
-   "`22041216C`": "Redmi Note 11T Pro China",
+   "`22041216C`": "Redmi Note 11T Pro 5G China",
    "`22041216G`": "POCO X4 GT Global"
   }
  },
@@ -1577,7 +1579,7 @@
   "internal_name": "L16U",
   "name": "Redmi Note 11T Pro+/POCO X4 GT Pro",
   "models": {
-   "`22041216UC`": "Redmi Note 11T Pro+ China",
+   "`22041216UC`": "Redmi Note 11T Pro+ 5G China",
    "`22041216UG`": "POCO X4 GT Pro Global"
   }
  },
@@ -1773,6 +1775,14 @@
   "models": {
    "`220733SFG`": "Redmi A1+ Global",
    "`220743FI`": "Redmi A1+ India"
+  }
+ },
+ "yunluo": {
+  "internal_name": "L83",
+  "name": "Redmi Pad",
+  "models": {
+   "`22081283G`": "Redmi Pad Global",
+   "`22081283C`": "Redmi Pad China"
   }
  },
  "beryllium": {
