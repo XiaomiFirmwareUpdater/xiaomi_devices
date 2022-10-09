@@ -1,6 +1,19 @@
 {
  "items": [
   {
+   "id": 37,
+   "status": 1,
+   "deviceName": "Xiaomi 12T",
+   "releaseDate": "2022-8",
+   "securityUpdateEol": "90 days",
+   "updateFrequency": "90 days",
+   "updateFrequencyTl": "90 days",
+   "shippedVersion": "Android 12",
+   "futureVersion": "Android 13，Android 14",
+   "createdAt": "2022-10-09T09:40:29.000Z",
+   "updatedAt": "2022-10-09T09:41:57.000Z"
+  },
+  {
    "id": 33,
    "status": 1,
    "deviceName": "Xiaomi 12 Lite",
@@ -53,6 +66,19 @@
    "updatedAt": "2022-08-22T13:32:09.000Z"
   },
   {
+   "id": 40,
+   "status": 1,
+   "deviceName": "Redmi 11 Prime 5G",
+   "releaseDate": "2022-4",
+   "securityUpdateEol": "2025-4",
+   "updateFrequency": "90 days",
+   "updateFrequencyTl": "90 days",
+   "shippedVersion": "Android 12",
+   "futureVersion": "Android 13,Android 14",
+   "createdAt": "2022-10-09T10:35:45.000Z",
+   "updatedAt": "2022-10-09T10:35:48.000Z"
+  },
+  {
    "id": 30,
    "status": 1,
    "deviceName": "Xiaomi 12 Pro",
@@ -103,6 +129,19 @@
    "futureVersion": "Android 12;Android 13;",
    "createdAt": "2022-03-26T02:23:02.000Z",
    "updatedAt": "2022-03-26T02:24:35.000Z"
+  },
+  {
+   "id": 38,
+   "status": 1,
+   "deviceName": "Xiaomi 12T Pro",
+   "releaseDate": "2022-10",
+   "securityUpdateEol": "2026-8",
+   "updateFrequency": "90 days",
+   "updateFrequencyTl": "90 days",
+   "shippedVersion": "Android 12",
+   "futureVersion": "Android 13,Android 14",
+   "createdAt": "2022-10-09T09:41:32.000Z",
+   "updatedAt": "2022-10-09T09:41:57.000Z"
   },
   {
    "id": 22,
@@ -430,5 +469,5 @@
    "updatedAt": "2021-11-15T12:35:15.000Z"
   }
  ],
- "total": 33
+ "total": 36
 }
