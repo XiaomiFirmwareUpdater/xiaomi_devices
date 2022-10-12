@@ -5,13 +5,13 @@
    "status": 1,
    "deviceName": "Xiaomi 12T",
    "releaseDate": "2022-8",
-   "securityUpdateEol": "90 days",
+   "securityUpdateEol": "2026-8",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 12",
    "futureVersion": "Android 13，Android 14",
    "createdAt": "2022-10-09T09:40:29.000Z",
-   "updatedAt": "2022-10-09T09:41:57.000Z"
+   "updatedAt": "2022-10-12T07:42:00.000Z"
   },
   {
    "id": 33,
