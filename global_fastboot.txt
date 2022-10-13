@@ -81,7 +81,9 @@ curtana_in_global - F
 curtana_ru_global - F
 curtana_tr_global - F
 daisy_global - F
+dandelion_c3l2_eea_global - F
 dandelion_c3l2_global - F
+dandelion_c3l2_ru_global - F
 dandelion_c3l2_tw_global - F
 dandelion_eea_global - F
 dandelion_global - F
@@ -96,6 +98,8 @@ davinciin_in_global - F
 dipper_global - F
 dipper_ru_global - F
 diting_eea_global - F
+diting_global - F
+diting_tw_global - F
 equuleus_global - F
 equuleus_ru_global - F
 evergreen_eea_global - F
@@ -243,6 +247,8 @@ pissarro_global - F
 pissarro_tw_global - F
 platina_global - F
 platina_ru_global - F
+plato_global - F
+plato_ru_global - F
 polaris_global - F
 polaris_ru_global - F
 psyche_eea_global - F
@@ -367,6 +373,7 @@ xaga_tw_global - F
 ysl_global - F
 ysl_global - F
 ysl_ru_global - F
+yunluo_ru_global - F
 zeus_eea_global - F
 zeus_global - F
 zeus_id_global - F
