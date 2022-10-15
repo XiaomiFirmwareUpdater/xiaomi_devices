@@ -12,6 +12,12 @@
   }
  },
  {
+  "snow": {
+   "name": "POCO C50",
+   "model": "220733SPI"
+  }
+ },
+ {
   "lmi": {
    "name": "POCO F2 Pro",
    "model": "POCO F2 Pro"
@@ -1101,6 +1107,12 @@
   "cannong": {
    "name": "Redmi Note 9T",
    "model": "M2007J22G"
+  }
+ },
+ {
+  "yunluo": {
+   "name": "Redmi Pad",
+   "model": "22081283G"
   }
  },
  {
