@@ -347,6 +347,7 @@ veux_eea_global - F
 veux_global - F
 veux_global - F
 veux_ru_global - F
+veux_ru_global - F
 veux_tr_global - F
 veux_tw_global - F
 vili_eea_global - F
