@@ -2058,6 +2058,12 @@
   }
  },
  {
+  "croods": {
+   "name": "MiTV",
+   "model": "MiTV-MOOQ2"
+  }
+ },
+ {
   "dangal": {
    "name": "MiTV",
    "model": "MiTV-AXSO0"
@@ -2082,6 +2088,12 @@
   }
  },
  {
+  "hermano": {
+   "name": "MiTV",
+   "model": "MiTV-MOSR1"
+  }
+ },
+ {
   "machuca": {
    "name": "MiTV",
    "model": "MiTV-MSSP3"
@@ -2094,15 +2106,33 @@
   }
  },
  {
+  "martian": {
+   "name": "MiTV",
+   "model": "MiTV-MSOR0"
+  }
+ },
+ {
   "nino": {
    "name": "MiTV",
    "model": "MiTV-MSSP1"
   }
  },
  {
+  "rango": {
+   "name": "MiTV",
+   "model": "MiTV-AXFR1"
+  }
+ },
+ {
   "tarzan": {
    "name": "MiTV",
    "model": "MiTV-MOOQ1"
+  }
+ },
+ {
+  "venom": {
+   "name": "MiTV",
+   "model": "MiTV-MOOR0"
   }
  },
  {
