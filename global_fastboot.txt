@@ -145,6 +145,9 @@ haydn_global - F
 haydn_in_global - F
 helium_global - F
 hydrogen_global - F
+ice_eea_global - F
+ice_global - F
+ice_in_global - F
 ingres_eea_global - F
 ingres_global - F
 ingres_ru_global - F
