@@ -148,6 +148,7 @@ hydrogen_global - F
 ice_eea_global - F
 ice_global - F
 ice_in_global - F
+ice_ru_global - F
 ingres_eea_global - F
 ingres_global - F
 ingres_ru_global - F
@@ -253,6 +254,7 @@ platina_global - F
 platina_ru_global - F
 plato_global - F
 plato_ru_global - F
+plato_tw_global - F
 polaris_global - F
 polaris_ru_global - F
 psyche_eea_global - F
