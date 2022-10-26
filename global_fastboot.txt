@@ -290,6 +290,8 @@ sagit_global - F
 santoni_global - F
 scorpio_global - F
 selene_eea_global - F
+selene_eea_global - F
+selene_global - F
 selene_global - F
 selene_id_global - F
 selene_ru_global - F
