@@ -59,9 +59,17 @@
   "Redmi Note 9S / Redmi Note 9 Pro India",
   "HMNote9Pro_HMNote9S"
  ],
+ "daumier": [
+  "Xiaomi 12 Pro Dimensity",
+  "DAUMIER"
+ ],
  "davinci": [
   "Redmi K20 / Mi 9T",
   "HMK20MI9T"
+ ],
+ "diting": [
+  "Redmi K50 Ultra / Xiaomi 12T Pro",
+  "DITING"
  ],
  "dipper": [
   "Mi 8",
@@ -162,6 +170,10 @@
  "mars": [
   "Mi 11 Pro",
   "MI11Pro_MI11Ultra"
+ ],
+ "matisse": [
+  "Redmi K50 Pro",
+  "MATISSE"
  ],
  "mayfly": [
   "Xiaomi 12S",
@@ -287,6 +299,10 @@
   "Redmi 5",
   "HM5"
  ],
+ "rubens": [
+  "Redmi K50",
+  "RUBENS"
+ ],
  "sagit": [
   "Mi 6",
   "MI6"
@@ -340,7 +356,7 @@
   "MI10S"
  ],
  "tiffany": [
-  "Mi 5X ",
+  "Mi 5X",
   "MI5X"
  ],
   "toco": [
@@ -418,6 +434,10 @@
  "willow": [
   "Redmi Note 8T",
   "HMNote8T"
+ ],
+ "xaga": [
+  "Redmi Note 11T Pro/+ / POCO X4 GT / Redmi K50i",
+  "XAGA"
  ],
  "ysl": [
   "Redmi S2",
