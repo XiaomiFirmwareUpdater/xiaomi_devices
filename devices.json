@@ -1823,6 +1823,10 @@
     "display_name": "Redmi K50",
     "display_name_en": "Redmi K50"
   },
+  "ruby": {
+    "display_name": "Redmi Note 12 Pro/Redmi Note 12 Pro+/Redmi Note 12",
+    "display_name_en": "Redmi Note 12 Pro/Redmi Note 12 Pro+/Redmi Note 12"
+  },
   "sagit": {
     "display_name": "小米手机6",
     "display_name_en": "Mi 6"
@@ -1938,6 +1942,10 @@
   "star_in_global": {
     "display_name": "Mi 11 Ultra",
     "display_name_en": "Mi 11 Ultra"
+  },
+  "sunstone": {
+    "display_name": "Redmi Note 12 5G",
+    "display_name_en": "Redmi Note 12 5G"
   },
   "surya_eea_global": {
     "display_name": "POCO X3 NFC",
@@ -2422,6 +2430,10 @@
   "ysl_in_global": {
     "display_name": "Redmi Y2",
     "display_name_en": "Redmi Y2"
+  },
+  "yunluo": {
+    "display_name": "Redmi Pad",
+    "display_name_en": "Redmi Pad"
   },
   "zeus": {
     "display_name": "Xiaomi 12 Pro",
