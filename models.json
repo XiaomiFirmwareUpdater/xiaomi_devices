@@ -1583,6 +1583,34 @@
    "`22041216UG`": "POCO X4 GT Pro Global"
   }
  },
+ "sunstone": {
+  "internal_name": "M17",
+  "name": "Redmi Note 12",
+  "models": {
+   "`22101317C`": "Redmi Note 12 China"
+  }
+ },
+ "ruby": {
+  "internal_name": "M16",
+  "name": "Redmi Note 12 Pro",
+  "models": {
+   "`22101316C`": "Redmi Note 12 Pro China"
+  }
+ },
+ "rubyplus": {
+  "internal_name": "M16UP",
+  "name": "Redmi Note 12 Pro+",
+  "models": {
+   "`22101316UCP`": "Redmi Note 12 Pro+ China"
+  }
+ },
+ "rubypro": {
+  "internal_name": "M16U",
+  "name": "Redmi Note 12 Explore Edition",
+  "models": {
+   "`22101316UC`": "Redmi Note 12 Explore Edition China"
+  }
+ },
  "atom": {
   "internal_name": "J7A",
   "name": "Redmi 10X 5G",
