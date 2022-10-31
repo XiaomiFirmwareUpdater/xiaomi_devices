@@ -453,6 +453,7 @@
  "rosemary_global": "KLMI",
  "rosemary_id_global": "KLID",
  "rosemary_in_global": "KLIN",
+ "rosemary_p_global": "FFMI",
  "rosemary_p_ru_global": "FFRU",
  "rosemary_ru_global": "KLRU",
  "rosemary_tr_global": "KLTR",
