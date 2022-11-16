@@ -499,10 +499,6 @@
     "display_name": "小米10 Pro",
     "display_name_en": "Mi 10 Pro"
   },
-  "cmi_hi2_global": {
-    "display_name": "小米10 Pro",
-    "display_name_en": "Mi 10 Pro"
-  },
   "comet_global": {
     "display_name": "COMET-GLOBAL",
     "display_name_en": "COMET-GLOBAL"
@@ -520,10 +516,6 @@
     "display_name_en": "Mi 11 Lite"
   },
   "courbet_lm_cr_global": {
-    "display_name": "Mi 11 Lite",
-    "display_name_en": "Mi 11 Lite"
-  },
-  "courbet_mx_at_global": {
     "display_name": "Mi 11 Lite",
     "display_name_en": "Mi 11 Lite"
   },
@@ -1079,10 +1071,6 @@
     "display_name": "Redmi 9",
     "display_name_en": "Redmi 9"
   },
-  "lancelot_wlnd_global": {
-    "display_name": "Redmi 9",
-    "display_name_en": "Redmi 9"
-  },
   "lancelot_za_vc_global": {
     "display_name": "Redmi 9",
     "display_name_en": "Redmi 9"
@@ -1163,14 +1151,6 @@
     "display_name": "RedmiNote11 E",
     "display_name_en": "RedmiNote11 E"
   },
-  "lilac": {
-    "display_name": "Redmi Note 10T",
-    "display_name_en": "Redmi Note 10T"
-  },
-  "lilac_global": {
-    "display_name": "Redmi Note 10T",
-    "display_name_en": "Redmi Note 10T"
-  },
   "lime": {
     "display_name": "Redmi Note 9 4G",
     "display_name_en": "Redmi Note 9 4G"
@@ -1202,10 +1182,6 @@
   "lmi_global": {
     "display_name": "POCO F2 Pro",
     "display_name_en": "POCO F2 Pro"
-  },
-  "lmi_hi2_global": {
-    "display_name": "Redmi K30 Pro",
-    "display_name_en": "Redmi K30 Pro"
   },
   "lmi_id_global": {
     "display_name": "POCO F2 Pro",
@@ -1248,10 +1224,6 @@
     "display_name_en": "Redmi 4 Prime Global"
   },
   "matisse": {
-    "display_name": "Redmi K50 Pro",
-    "display_name_en": "Redmi K50 Pro"
-  },
-  "matisse_global": {
     "display_name": "Redmi K50 Pro",
     "display_name_en": "Redmi K50 Pro"
   },
@@ -1819,10 +1791,6 @@
     "display_name": "Redmi K50",
     "display_name_en": "Redmi K50"
   },
-  "rubens_global": {
-    "display_name": "Redmi K50",
-    "display_name_en": "Redmi K50"
-  },
   "ruby": {
     "display_name": "Redmi Note 12 Pro/Redmi Note 12 Pro+/Redmi Note 12",
     "display_name_en": "Redmi Note 12 Pro/Redmi Note 12 Pro+/Redmi Note 12"
@@ -2023,10 +1991,6 @@
     "display_name": "Redmi Note 10 Pro",
     "display_name_en": "Redmi Note 10 Pro"
   },
-  "sweet_pe_ms_global": {
-    "display_name": "Redmi Note 10 Pro",
-    "display_name_en": "Redmi Note 10 Pro"
-  },
   "sweet_ru_global": {
     "display_name": "Redmi Note 10 Pro",
     "display_name_en": "Redmi Note 10 Pro"
@@ -2223,14 +2187,6 @@
     "display_name": "小米10",
     "display_name_en": "Mi 10"
   },
-  "umi_hi2_global": {
-    "display_name": "小米10",
-    "display_name_en": "Mi 10"
-  },
-  "umi_hi2_id_global": {
-    "display_name": "小米10",
-    "display_name_en": "Mi 10"
-  },
   "umi_id_global": {
     "display_name": "小米10",
     "display_name_en": "Mi 10"
@@ -2302,14 +2258,6 @@
   "veux_global": {
     "display_name": "Redmi Note 11 Pro 5G",
     "display_name_en": "Redmi Note 11 Pro 5G"
-  },
-  "vida": {
-    "display_name": "Redmi Note 11 Pro",
-    "display_name_en": "Redmi Note 11 Pro"
-  },
-  "vida_global": {
-    "display_name": "Redmi Note 11 Pro",
-    "display_name_en": "Redmi Note 11 Pro"
   },
   "vida_in_global": {
     "display_name": "Redmi Note 11 Pro",
