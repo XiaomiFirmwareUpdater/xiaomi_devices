@@ -151,10 +151,6 @@
     "display_name": "小米手机4s",
     "display_name_en": "MI 4S"
   },
-  "aqua_global": {
-    "display_name": "AQUA-GLOBAL",
-    "display_name_en": "AQUA-GLOBAL"
-  },
   "aquila": {
     "display_name": "AQUILA",
     "display_name_en": "AQUILA"
@@ -427,10 +423,6 @@
     "display_name": "小米 9",
     "display_name_en": "MI 9"
   },
-  "cepheus_port_global": {
-    "display_name": "小米 9",
-    "display_name_en": "MI 9"
-  },
   "cereus": {
     "display_name": "红米手机6",
     "display_name_en": "Redmi 6"
@@ -482,10 +474,6 @@
   "clover": {
     "display_name": "小米平板4",
     "display_name_en": "MI PAD 4"
-  },
-  "clover_global": {
-    "display_name": "CLOVER-GLOBAL",
-    "display_name_en": "CLOVER-GLOBAL"
   },
   "cmi": {
     "display_name": "小米10 Pro",
@@ -2035,10 +2023,6 @@
     "display_name": "Redmi Go",
     "display_name_en": "Redmi Go"
   },
-  "tiare_kh_se_global": {
-    "display_name": "Redmi Go",
-    "display_name_en": "Redmi Go"
-  },
   "tiare_ru_global": {
     "display_name": "Redmi Go",
     "display_name_en": "Redmi Go"
@@ -2052,10 +2036,6 @@
     "display_name_en": ""
   },
   "tissot": {
-    "display_name": "小米A1",
-    "display_name_en": "MI A1"
-  },
-  "tissot_global": {
     "display_name": "小米A1",
     "display_name_en": "MI A1"
   },
