@@ -10,7 +10,6 @@ alioth_tw_global - F
 andromeda_eea_global - F
 andromeda_global - F
 angelica_eea_global - F
-angelica_global - F
 angelica_id_global - F
 angelica_tr_global - F
 angelican_eea_global - F
@@ -25,7 +24,6 @@ apollo_tw_global - F
 aries_global - F
 begonia_eea_global - F
 begonia_global - F
-begonia_id_global - F
 begonia_ru_global - F
 beryllium_global - F
 biloba_eea_global - F
@@ -93,7 +91,6 @@ dandelion_in_global - F
 dandelion_ru_global - F
 dandelion_tr_global - F
 davinci_eea_global - F
-davinci_global - F
 davinci_ru_global - F
 davinciin_in_global - F
 dipper_global - F
@@ -124,7 +121,6 @@ fleur_tw_global - F
 fleur_tw_global - F
 fog_eea_global - F
 fog_global - F
-fog_in_global - F
 fog_ru_global - F
 fog_tw_global - F
 frost_global - F
@@ -187,7 +183,6 @@ lisa_eea_global - F
 lisa_global - F
 lisa_in_global - F
 lisa_ru_global - F
-lisa_tr_global - F
 lisa_tw_global - F
 lithium_global - F
 lmi_eea_global - F
@@ -315,6 +310,17 @@ surya_global - F
 surya_id_global - F
 surya_in_global - F
 surya_ru_global - F
+sweet_eea_global - F
+sweet_eea_global - F
+sweet_global - F
+sweet_global - F
+sweet_id_global - F
+sweet_id_global - F
+sweet_ru_global - F
+sweet_ru_global - F
+sweet_tr_global - F
+sweet_tr_global - F
+sweet_tw_global - F
 taoyao_eea_global - F
 taoyao_global - F
 taoyao_ru_global - F
