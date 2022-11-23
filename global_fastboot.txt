@@ -255,6 +255,7 @@ pissarro_global - F
 pissarro_tw_global - F
 platina_global - F
 platina_ru_global - F
+plato_eea_global - F
 plato_global - F
 plato_ru_global - F
 plato_tw_global - F
