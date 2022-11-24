@@ -181,6 +181,14 @@
     {
      "brand": "Xiaomi",
      "deviceName": "Mi A3 (Android One)"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi Note 10"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi CC 9 Pro"
     }
    ]
   },
@@ -337,6 +345,10 @@
     {
      "brand": "Redmi",
      "deviceName": "Redmi 7A"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 8 Pro"
     }
    ]
   },
@@ -353,5 +365,5 @@
    ]
   }
  ],
- "updateAt": "2022-10-31T05:57:35.000Z"
+ "updateAt": "2022-11-24T08:01:01.000Z"
 }
