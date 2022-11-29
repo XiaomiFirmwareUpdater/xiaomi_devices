@@ -469,6 +469,22 @@
    "`22081212UG`": "Xiaomi 12T Pro Global"
   }
  },
+ "fuxi": {
+  "internal_name": "M3",
+  "name": "Xiaomi 13",
+  "models": {
+   "`2211133G`": "Xiaomi 13 Global",
+   "`2211133C`": "Xiaomi 13 China"
+  }
+ },
+ "nuwa": {
+  "internal_name": "M2",
+  "name": "Xiaomi 13 Pro",
+  "models": {
+   "`2210132G`": "Xiaomi 13 Pro Global",
+   "`2210132C`": "Xiaomi 13 Pro China"
+  }
+ },
  "virgo": {
   "internal_name": "X5",
   "name": "Mi Note",
