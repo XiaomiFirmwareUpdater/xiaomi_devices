@@ -49,80 +49,110 @@
  },
  {
   "id": "1900543",
-  "name": "POCO M4 5G",
+  "name": "POCO M4 5G/Redmi 10 5G ",
   "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/43aad87bc5c64be3c7e879ef7052e26f",
   "item_identify": ""
  },
  {
-  "id": "1900407",
-  "name": "Xiaomi 12 Series",
-  "pic_url": "https://i02.appmifile.com/714_bbs_en/21/06/2022/202a4b84f2.png",
+  "id": "1900536",
+  "name": "Redmi Note 11 Pro+ 5G",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/054adcb27f4540c5d89f03b3ba33041a",
   "item_identify": ""
  },
  {
-  "id": "1900530",
-  "name": "Redmi 10A",
-  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/6a070b04559d4b27c38baba05b31a9a2",
+  "id": "1900544",
+  "name": "Redmi 10C ",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/c34f2b87f87747044c94e535c2c3abab",
+  "item_identify": ""
+ },
+ {
+  "id": "1900545",
+  "name": "POCO X4 Pro 5G",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/a236139c1c8c0340cc9d76d0f85cd6a7",
+  "item_identify": ""
+ },
+ {
+  "id": "1900406",
+  "name": "POCO M4 Pro",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/23c3a30d2941b80e2814a6a892a1fe85",
   "item_identify": ""
  },
  {
   "id": "1900534",
   "name": "Redmi Note 11 Pro 5G",
-  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/6bd976bee0c9a28a3e44372f40bbfd1f",
-  "item_identify": ""
- },
- {
-  "id": "1900405",
-  "name": "Redmi Note 11 Series",
-  "pic_url": "https://i02.appmifile.com/356_bbs_en/04/03/2022/3cd9001c3d.png",
-  "item_identify": ""
- },
- {
-  "id": "1900409",
-  "name": "Redmi Note 11s 5G",
-  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/14df8df90bc25cf8776c179eb3dde0ff",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/c087d516d31e65a581943bb3b1e90458",
   "item_identify": ""
  },
  {
   "id": "1900533",
   "name": "Redmi Note 11 Pro ",
-  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/31dae37c435b3234dc156486f3fcd328",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/8acccfe15d6c42ed0ad4b95a7eec5975",
   "item_identify": ""
  },
  {
-  "id": "1900535",
-  "name": "Redmi Note 11S",
-  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/e0f883710b367b9ad4e6649724f3059c",
+  "id": "1900405",
+  "name": "Redmi Note 11",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/87378574cea163e74c452ff6c90ef583",
   "item_identify": ""
  },
  {
-  "id": "1900404",
-  "name": "POCO M4 Pro 5G",
-  "pic_url": "https://i02.appmifile.com/687_bbs_en/21/06/2022/cd94c3fab4.png",
+  "id": "1900546",
+  "name": "Xiaomi 12X",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/e6006620fe076fd211438d03c7c5f40f",
   "item_identify": ""
  },
  {
-  "id": "1900406",
-  "name": "POCO M4/ Pro",
-  "pic_url": "https://i02.appmifile.com/683_bbs_en/21/06/2022/4d97097e4e.png",
+  "id": "1900547",
+  "name": "Xiaomi 12 Pro",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/d399d3d40d38611655992efdd5147265",
+  "item_identify": ""
+ },
+ {
+  "id": "1900407",
+  "name": "Xiaomi 12",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/f57f5cb2a8b62a6618cbb9951da6d2bc",
+  "item_identify": ""
+ },
+ {
+  "id": "1900392",
+  "name": "POCO X3 Pro",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/7234b9395e975879b4cd2891c61cefb7",
+  "item_identify": ""
+ },
+ {
+  "id": "1900549",
+  "name": "Xiaomi 11T Pro",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/a29797da86ecb7c8a3bcbbf99c073a1f",
+  "item_identify": ""
+ },
+ {
+  "id": "1900399",
+  "name": "Redmi 10",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/125b732dd8012b0c7128e03fa66e3ca0",
   "item_identify": ""
  },
  {
   "id": "1900403",
   "name": "Xiaomi pad 5",
-  "pic_url": "https://i02.appmifile.com/214_bbs_en/04/03/2022/5e8a23da77.png",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/66da63f7a35ae0d6385d938e4a7cc319",
   "item_identify": ""
  },
  {
-  "id": "1900401",
-  "name": "Xiaomi 11 Lite 5G NE",
-  "pic_url": "https://i02.appmifile.com/549_bbs_en/04/03/2022/2f895bc455.png",
+  "id": "1900551",
+  "name": "POCO X3 GT",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/26be39d0b1f4f4d2f4a20721fbb57170",
   "item_identify": ""
  },
  {
-  "id": "1900400",
-  "name": "Xiaomi 11T/Pro",
-  "pic_url": "https://i02.appmifile.com/295_bbs_en/04/03/2022/da796f5bdd.png",
+  "id": "1900552",
+  "name": "POCO F3 GT",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/88cc98b05f169b396ef5bedfdb9b8777",
+  "item_identify": ""
+ },
+ {
+  "id": "1900394",
+  "name": "POCO F3",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/c593c89460c6ba314123a292935955cf",
   "item_identify": ""
  },
  {
@@ -198,27 +228,21 @@
   "item_identify": ""
  },
  {
-  "id": "1700082",
-  "name": "Redmi 1",
-  "pic_url": "https://static.bbs.miui.com/static/download/images/mihm.png",
-  "item_identify": ""
- },
- {
   "id": "1700240",
   "name": "Xiaomi Mi 4",
   "pic_url": "https://attach.bbs.miui.com/common/f3/common_241_phone.png?ji4",
   "item_identify": ""
  },
  {
-  "id": "1700037",
-  "name": "Xiaomi Mi 2A",
-  "pic_url": "https://static.bbs.miui.com/static/download/images/mi2_a136_219.png",
+  "id": "1700082",
+  "name": "Redmi 1",
+  "pic_url": "https://static.bbs.miui.com/static/download/images/mihm.png",
   "item_identify": ""
  },
  {
-  "id": "1900536",
-  "name": "Redmi Note 11 Pro+ 5G",
-  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/70eb1b0acc8341ed0e98af600f1e3ec3",
+  "id": "1700037",
+  "name": "Xiaomi Mi 2A",
+  "pic_url": "https://static.bbs.miui.com/static/download/images/mi2_a136_219.png",
   "item_identify": ""
  },
  {
@@ -234,72 +258,6 @@
   "item_identify": ""
  },
  {
-  "id": "1700336",
-  "name": "Mi Note 3",
-  "pic_url": "https://u01.appmifile.com/images/2019/07/04/d973d1e4-1ba6-42d7-ac16-0fcda0f9e37e.png",
-  "item_identify": ""
- },
- {
-  "id": "1900393",
-  "name": "Mi 11 Lite/ 5G",
-  "pic_url": "https://i02.appmifile.com/571_bbs_en/04/03/2022/634141daf0.png",
-  "item_identify": ""
- },
- {
-  "id": "1700338",
-  "name": "Redmi 5A",
-  "pic_url": "https://u01.appmifile.com/images/2019/07/04/22b7904c-7e7c-49ed-aedc-32a3bc6df367.png",
-  "item_identify": ""
- },
- {
-  "id": "1700340",
-  "name": "Redmi 5/Plus",
-  "pic_url": "https://u01.appmifile.com/images/2019/07/04/f9901f14-6d80-4389-a827-89121201e419.png",
-  "item_identify": ""
- },
- {
-  "id": "1700341",
-  "name": "Redmi Note 5 Pro",
-  "pic_url": "https://u01.appmifile.com/images/2019/07/04/04ed4323-38d9-4850-a3b2-605d83ba7e80.png",
-  "item_identify": ""
- },
- {
-  "id": "1700342",
-  "name": "Redmi Note 5",
-  "pic_url": "https://u01.appmifile.com/images/2019/07/04/cd4fc589-3d46-47c4-bcc6-a42eb8a9a16e.png",
-  "item_identify": ""
- },
- {
-  "id": "1700343",
-  "name": "Mi MIX 2S",
-  "pic_url": "https://u01.appmifile.com/images/2019/07/04/76a141e1-15ad-4f3f-b31e-98c2742b4ca3.png",
-  "item_identify": ""
- },
- {
-  "id": "1700345",
-  "name": "Redmi S2/Y2",
-  "pic_url": "https://u01.appmifile.com/images/2019/07/04/21b9dc09-9a4a-4b6d-b327-d1a0c8c1679b.png",
-  "item_identify": ""
- },
- {
-  "id": "1900399",
-  "name": "Redmi 10",
-  "pic_url": "https://i02.appmifile.com/374_bbs_en/04/03/2022/8beb5bee52.png",
-  "item_identify": ""
- },
- {
-  "id": "1900398",
-  "name": "Mi 11i",
-  "pic_url": "https://i02.appmifile.com/847_bbs_en/04/03/2022/6dba0fd4bd.png",
-  "item_identify": ""
- },
- {
-  "id": "1900397",
-  "name": "Redmi Note 10S",
-  "pic_url": "https://i02.appmifile.com/833_bbs_en/04/03/2022/27481a76be.png",
-  "item_identify": ""
- },
- {
   "id": "1900396",
   "name": "Redmi Note 10 T/5G",
   "pic_url": "https://i02.appmifile.com/857_bbs_en/04/03/2022/fd158c4957.png",
@@ -312,15 +270,69 @@
   "item_identify": ""
  },
  {
-  "id": "1900394",
-  "name": "POCO F3",
-  "pic_url": "https://i02.appmifile.com/331_bbs_en/04/03/2022/5a645ec2b1.png",
+  "id": "1900397",
+  "name": "Redmi Note 10S",
+  "pic_url": "https://i02.appmifile.com/833_bbs_en/04/03/2022/27481a76be.png",
   "item_identify": ""
  },
  {
-  "id": "1900392",
-  "name": "POCO X3 Pro",
-  "pic_url": "https://i02.appmifile.com/563_bbs_en/04/03/2022/75d9d75c54.png",
+  "id": "1900398",
+  "name": "Mi 11i",
+  "pic_url": "https://i02.appmifile.com/847_bbs_en/04/03/2022/6dba0fd4bd.png",
+  "item_identify": ""
+ },
+ {
+  "id": "1700349",
+  "name": "Redmi 6/6A/Pro",
+  "pic_url": "https://u01.appmifile.com/images/2019/07/04/0b34c042-93dc-413b-aec6-0d012dc14392.png",
+  "item_identify": ""
+ },
+ {
+  "id": "1700346",
+  "name": "Xiaomi Mi 8/Pro/Lite",
+  "pic_url": "https://u01.appmifile.com/images/2019/07/04/c6ce2168-a07f-45d8-bbf0-070af52672fd.jpg",
+  "item_identify": ""
+ },
+ {
+  "id": "1700345",
+  "name": "Redmi S2/Y2",
+  "pic_url": "https://u01.appmifile.com/images/2019/07/04/21b9dc09-9a4a-4b6d-b327-d1a0c8c1679b.png",
+  "item_identify": ""
+ },
+ {
+  "id": "1700343",
+  "name": "Mi MIX 2S",
+  "pic_url": "https://u01.appmifile.com/images/2019/07/04/76a141e1-15ad-4f3f-b31e-98c2742b4ca3.png",
+  "item_identify": ""
+ },
+ {
+  "id": "1700342",
+  "name": "Redmi Note 5",
+  "pic_url": "https://u01.appmifile.com/images/2019/07/04/cd4fc589-3d46-47c4-bcc6-a42eb8a9a16e.png",
+  "item_identify": ""
+ },
+ {
+  "id": "1700341",
+  "name": "Redmi Note 5 Pro",
+  "pic_url": "https://u01.appmifile.com/images/2019/07/04/04ed4323-38d9-4850-a3b2-605d83ba7e80.png",
+  "item_identify": ""
+ },
+ {
+  "id": "1700340",
+  "name": "Redmi 5/Plus",
+  "pic_url": "https://u01.appmifile.com/images/2019/07/04/f9901f14-6d80-4389-a827-89121201e419.png",
+  "item_identify": ""
+ },
+ {
+  "id": "1700338",
+  "name": "Redmi 5A",
+  "pic_url": "https://u01.appmifile.com/images/2019/07/04/22b7904c-7e7c-49ed-aedc-32a3bc6df367.png",
+  "item_identify": ""
+ },
+ {
+  "id": "1700336",
+  "name": "Mi Note 3",
+  "pic_url": "https://u01.appmifile.com/images/2019/07/04/d973d1e4-1ba6-42d7-ac16-0fcda0f9e37e.png",
   "item_identify": ""
  },
  {
@@ -351,6 +363,12 @@
   "id": "1700326",
   "name": "Xiaomi Mi 6",
   "pic_url": "https://u01.appmifile.com/images/2019/07/04/f8c83ede-c7da-4bd7-9517-d23a30b82838.png",
+  "item_identify": ""
+ },
+ {
+  "id": "1900537",
+  "name": "Redmi 10 2022",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/41bcaca859175529b5b37fa217296b1c",
   "item_identify": ""
  },
  {
@@ -396,45 +414,15 @@
   "item_identify": ""
  },
  {
-  "id": "1900537",
-  "name": "Redmi 10 2022",
-  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/41bcaca859175529b5b37fa217296b1c",
-  "item_identify": ""
- },
- {
   "id": "1700315",
   "name": "Xiaomi Mi 5s Plus",
   "pic_url": "https://u01.appmifile.com/images/2019/07/05/5d8e3c0a-1195-4ceb-87da-c5016de1c774.png",
   "item_identify": ""
  },
  {
-  "id": "1900375",
-  "name": "Redmi Note 8/Pro/8T",
-  "pic_url": "https://u01.appmifile.com/images/2019/10/09/773a7202-7e3f-4a21-86eb-0f7a4bcbab18.jpg",
-  "item_identify": ""
- },
- {
-  "id": "1700353",
-  "name": "Mi A2",
-  "pic_url": "https://u01.appmifile.com/images/2019/07/04/4aa2c563-8309-433f-9cba-b4ff06b6fb2d.png",
-  "item_identify": ""
- },
- {
-  "id": "1700354",
-  "name": "Mi A2 Lite",
-  "pic_url": "https://u01.appmifile.com/images/2019/07/04/a9e0ae65-ceb3-46f1-bef8-f926055088df.png",
-  "item_identify": ""
- },
- {
-  "id": "1700355",
-  "name": "POCOPHONE F1",
-  "pic_url": "https://u01.appmifile.com/images/2019/07/04/77ff4e9e-29fd-415b-bd95-f7ae09f6408f.png",
-  "item_identify": ""
- },
- {
-  "id": "1700356",
-  "name": "Redmi Note 6 Pro",
-  "pic_url": "https://u01.appmifile.com/images/2019/07/04/cf5caddb-80fa-4e46-b76d-1673d018c297.jpg",
+  "id": "1900377",
+  "name": "Mi Note 10/Pro/Lite",
+  "pic_url": "https://u01.appmifile.com/images/2019/11/26/ee26d502-5938-4984-b7dd-fc8afe3bc456.png",
   "item_identify": ""
  },
  {
@@ -504,9 +492,9 @@
   "item_identify": ""
  },
  {
-  "id": "1700351",
-  "name": "Xiaomi Mi Max 3",
-  "pic_url": "https://u01.appmifile.com/images/2019/07/04/1a27ea25-f439-42fc-8d75-7bab0460e92e.png",
+  "id": "1900375",
+  "name": "Redmi Note 8/Pro/8T",
+  "pic_url": "https://u01.appmifile.com/images/2019/10/09/773a7202-7e3f-4a21-86eb-0f7a4bcbab18.jpg",
   "item_identify": ""
  },
  {
@@ -516,9 +504,9 @@
   "item_identify": ""
  },
  {
-  "id": "1900377",
-  "name": "Mi Note 10/Pro/Lite",
-  "pic_url": "https://u01.appmifile.com/images/2019/11/26/ee26d502-5938-4984-b7dd-fc8afe3bc456.png",
+  "id": "1700356",
+  "name": "Redmi Note 6 Pro",
+  "pic_url": "https://u01.appmifile.com/images/2019/07/04/cf5caddb-80fa-4e46-b76d-1673d018c297.jpg",
   "item_identify": ""
  },
  {
@@ -570,15 +558,9 @@
   "item_identify": ""
  },
  {
-  "id": "1900387",
-  "name": "POCO M3/ X3 GT ",
-  "pic_url": "https://i02.appmifile.com/864_bbs_en/08/01/2021/98de761810.png",
-  "item_identify": ""
- },
- {
-  "id": "1700349",
-  "name": "Redmi 6/6A/Pro",
-  "pic_url": "https://u01.appmifile.com/images/2019/07/04/0b34c042-93dc-413b-aec6-0d012dc14392.png",
+  "id": "1700355",
+  "name": "POCOPHONE F1",
+  "pic_url": "https://u01.appmifile.com/images/2019/07/04/77ff4e9e-29fd-415b-bd95-f7ae09f6408f.png",
   "item_identify": ""
  },
  {
@@ -588,9 +570,21 @@
   "item_identify": ""
  },
  {
-  "id": "1700346",
-  "name": "Xiaomi Mi 8/Pro/Lite",
-  "pic_url": "https://u01.appmifile.com/images/2019/07/04/c6ce2168-a07f-45d8-bbf0-070af52672fd.jpg",
+  "id": "1700354",
+  "name": "Mi A2 Lite",
+  "pic_url": "https://u01.appmifile.com/images/2019/07/04/a9e0ae65-ceb3-46f1-bef8-f926055088df.png",
+  "item_identify": ""
+ },
+ {
+  "id": "1700353",
+  "name": "Mi A2",
+  "pic_url": "https://u01.appmifile.com/images/2019/07/04/4aa2c563-8309-433f-9cba-b4ff06b6fb2d.png",
+  "item_identify": ""
+ },
+ {
+  "id": "1700351",
+  "name": "Xiaomi Mi Max 3",
+  "pic_url": "https://u01.appmifile.com/images/2019/07/04/1a27ea25-f439-42fc-8d75-7bab0460e92e.png",
   "item_identify": ""
  }
 ]
