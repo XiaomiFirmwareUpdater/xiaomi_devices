@@ -1454,13 +1454,12 @@
   }
  },
  "sweet": {
-  "internal_name": "K6/K6A",
-  "name": "Redmi Note 10 Pro/Redmi Note 11 Pro 2023",
+  "internal_name": "K6",
+  "name": "Redmi Note 10 Pro",
   "models": {
    "`M2101K6G`": "Redmi Note 10 Pro Global",
    "`M2101K6T`": "Redmi Note 10 Pro Thailand",
-   "`M2101K6R`": "Redmi Note 10 Pro Japan",
-   "`2209116AG`": "Redmi Note 11 Pro 2023 Global"
+   "`M2101K6R`": "Redmi Note 10 Pro Japan"
   }
  },
  "sweetin": {
