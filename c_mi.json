@@ -1,5 +1,11 @@
 [
  {
+  "id": "1900531",
+  "name": "Redmi Pad ",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/7ba064b53a5f0f02081b2a49c6802707",
+  "item_identify": ""
+ },
+ {
   "id": "1900529",
   "name": "Xiaomi 12T Pro",
   "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/a3f3a18f375f4a332b0feffdd9de0d3c",
@@ -36,9 +42,21 @@
   "item_identify": ""
  },
  {
+  "id": "1900411",
+  "name": "POCO F4",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/52b3303882d6a011ff1e58daef61aea8",
+  "item_identify": ""
+ },
+ {
   "id": "1900408",
   "name": "POCO X4 GT",
   "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/26d36a5383480108b19a8dd1ac7ad38b",
+  "item_identify": ""
+ },
+ {
+  "id": "1900412",
+  "name": "POCO C40",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/67ffdfce878e62d0a66e61e0c349c3ee",
   "item_identify": ""
  },
  {
@@ -48,9 +66,21 @@
   "item_identify": ""
  },
  {
+  "id": "1900410",
+  "name": "POCO F4 GT",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/cc5c7d7a5836c07227b9445f8f25e713",
+  "item_identify": ""
+ },
+ {
   "id": "1900536",
   "name": "Redmi Note 11 Pro+ 5G",
   "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/054adcb27f4540c5d89f03b3ba33041a",
+  "item_identify": ""
+ },
+ {
+  "id": "1900530",
+  "name": "Redmi 10A",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/a916bc68df78711c5b56bb818cd530a9",
   "item_identify": ""
  },
  {
@@ -84,6 +114,18 @@
   "item_identify": ""
  },
  {
+  "id": "1900409",
+  "name": "Redmi Note 11s 5G",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/98e575bbc48e6c592a4a7e06d3e55bd3",
+  "item_identify": ""
+ },
+ {
+  "id": "1900535",
+  "name": "Redmi Note 11S",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/7af6aa1eba799824cf99ff2b5f987b7d",
+  "item_identify": ""
+ },
+ {
   "id": "1900405",
   "name": "Redmi Note 11",
   "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/87378574cea163e74c452ff6c90ef583",
@@ -108,9 +150,33 @@
   "item_identify": ""
  },
  {
+  "id": "1900404",
+  "name": "POCO M4 Pro 5G",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/b064da216911ae1b7600e060ad37cfdf",
+  "item_identify": ""
+ },
+ {
+  "id": "1900392",
+  "name": "POCO X3 Pro",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/7234b9395e975879b4cd2891c61cefb7",
+  "item_identify": ""
+ },
+ {
   "id": "1900549",
   "name": "Xiaomi 11T Pro",
   "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/a29797da86ecb7c8a3bcbbf99c073a1f",
+  "item_identify": ""
+ },
+ {
+  "id": "1900400",
+  "name": "Xiaomi 11T",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/babce188f602eee5452800c3681ad2f9",
+  "item_identify": ""
+ },
+ {
+  "id": "1900401",
+  "name": "Xiaomi 11 Lite 5G NE",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/b95fa8c6774b91c2c99185034b3a591a",
   "item_identify": ""
  },
  {
@@ -120,15 +186,81 @@
   "item_identify": ""
  },
  {
+  "id": "1900403",
+  "name": "Xiaomi pad 5",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/66da63f7a35ae0d6385d938e4a7cc319",
+  "item_identify": ""
+ },
+ {
+  "id": "1900551",
+  "name": "POCO X3 GT",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/26be39d0b1f4f4d2f4a20721fbb57170",
+  "item_identify": ""
+ },
+ {
+  "id": "1900552",
+  "name": "POCO F3 GT",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/88cc98b05f169b396ef5bedfdb9b8777",
+  "item_identify": ""
+ },
+ {
+  "id": "1900553",
+  "name": "Redmi Note 8 2021",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/fa88c61bf394da6e492ebb729de597d3",
+  "item_identify": ""
+ },
+ {
+  "id": "1900387",
+  "name": "POCO M3 Pro",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/9630534e1f88e18cdf3dc391f98c4091",
+  "item_identify": ""
+ },
+ {
+  "id": "1900393",
+  "name": "Mi 11 Lite/ 5G",
+  "pic_url": "https://i02.appmifile.com/571_bbs_en/04/03/2022/634141daf0.png",
+  "item_identify": ""
+ },
+ {
+  "id": "1900394",
+  "name": "POCO F3",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/c593c89460c6ba314123a292935955cf",
+  "item_identify": ""
+ },
+ {
   "id": "1900389",
   "name": "Redmi Note 10 Pro",
   "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/050cac278a1aac01504897f660e6a238",
   "item_identify": ""
  },
  {
-  "id": "1900560",
-  "name": "Redmi 9A",
-  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/6a4cd1159ac6e5332d3dc385103d05d8",
+  "id": "1900554",
+  "name": "Redmi Note 10T",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/bc00ac5ad940fef6a8bf91aae3476b9a",
+  "item_identify": ""
+ },
+ {
+  "id": "1900397",
+  "name": "Redmi Note 10S",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/c14544ffb6b2f95382863f1212569604",
+  "item_identify": ""
+ },
+ {
+  "id": "1900390",
+  "name": "Redmi Note 10",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/d553178fd955ef617e8a0cada25586b0",
+  "item_identify": ""
+ },
+ {
+  "id": "1900555",
+  "name": "Redmi Note 9T",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/95b159feb1ce73e2e49600223bf1b6dd",
+  "item_identify": ""
+ },
+ {
+  "id": "1700360",
+  "name": "Redmi Note 7",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/c6845fbd7882f6988fe07959ea9fa30c",
   "item_identify": ""
  }
 ]
