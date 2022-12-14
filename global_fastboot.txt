@@ -69,6 +69,7 @@ dandelion_ru_global - F
 davinci_eea_global - F
 davinci_global - F
 davinci_ru_global - F
+dipper_global - F
 diting_eea_global - F
 diting_global - F
 diting_tw_global - F
