@@ -462,12 +462,14 @@
    "`22071212AG`": "Xiaomi 12T Global"
   }
  },
- "ditingp": {
-  "internal_name": "L12U",
-  "name": "Xiaomi 12T Pro",
+ "diting": {
+  "internal_name": "L12U/L12",
+  "name": "Xiaomi 12T Pro/Redmi K50 Ultra",
   "models": {
    "`22081212UG`": "Xiaomi 12T Pro Global",
-   "`A201XM`": "Xiaomi 12T Pro Japan (SoftBank)"
+   "`22081212R`": "Xiaomi 12T Pro Japan (SIM Free)",
+   "`A201XM`": "Xiaomi 12T Pro Japan (SoftBank)",
+   "`22081212C`": "Redmi K50 Ultra China"
   }
  },
  "fuxi": {
@@ -1752,13 +1754,6 @@
    "`21121210C`": "Redmi K50G China",
    "`21121210G`": "POCO F4 GT Global",
    "`21121210I`": "POCO F4 GT India"
-  }
- },
- "diting": {
-  "internal_name": "L12",
-  "name": "Redmi K50 Ultra",
-  "models": {
-   "`22081212C`": "Redmi K50 Ultra China"
   }
  },
  "xagain": {
