@@ -72,6 +72,7 @@ davinci_ru_global - F
 dipper_global - F
 diting_eea_global - F
 diting_global - F
+diting_jp_global - F
 diting_tw_global - F
 evergreen_eea_global - F
 evergreen_global - F
@@ -197,6 +198,7 @@ selene_id_global - F
 selene_ru_global - F
 selene_tr_global - F
 selene_tw_global - F
+spes_global - F
 spesn_eea_global - F
 spesn_global - F
 spesn_ru_global - F
