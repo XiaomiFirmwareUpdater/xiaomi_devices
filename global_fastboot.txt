@@ -123,6 +123,9 @@ lancelot_eea_global - F
 lancelot_global - F
 lancelot_ru_global - F
 lancelot_tr_global - F
+laurel_sprout_eea_global - F
+laurel_sprout_global - F
+laurel_sprout_global - F
 lavender_eea_global - F
 lavender_global - F
 lavender_ru_global - F
