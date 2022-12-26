@@ -349,6 +349,22 @@
     {
      "brand": "Redmi",
      "deviceName": "Redmi Note 8 Pro"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi K30"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 8"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 8A"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi K30 5G"
     }
    ]
   },
@@ -361,9 +377,13 @@
     {
      "brand": "POCO",
      "deviceName": "POCO PHONE F1"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO X2"
     }
    ]
   }
  ],
- "updateAt": "2022-11-24T08:01:01.000Z"
+ "updateAt": "2022-12-25T19:17:09.000Z"
 }
