@@ -1311,6 +1311,26 @@
     "display_name": "Xiaomi Civi",
     "display_name_en": "Xiaomi Civi"
   },
+  "mondrian": {
+    "display_name": "Redmi K60",
+    "display_name_en": "Redmi K60"
+  },
+  "mondrian_eea_global": {
+    "display_name": "POCO F5 Pro",
+    "display_name_en": "POCO F5 Pro"
+  },
+  "mondrian_global": {
+    "display_name": "POCO F5 Pro",
+    "display_name_en": "POCO F5 Pro"
+  },
+  "mondrian_ru_global": {
+    "display_name": "POCO F5 Pro",
+    "display_name_en": "POCO F5 Pro"
+  },
+  "mondrian_tr_global": {
+    "display_name": "POCO F5 Pro",
+    "display_name_en": "POCO F5 Pro"
+  },
   "monet_eea_global": {
     "display_name": "Mi 10 Lite 5G",
     "display_name_en": "Mi 10 Lite 5G"
@@ -1707,6 +1727,10 @@
     "display_name": "Redmi K20 Pro",
     "display_name_en": "Redmi K20 Pro"
   },
+  "rembrandt": {
+    "display_name": "Redmi K60E",
+    "display_name_en": "Redmi K60E"
+  },
   "renoir": {
     "display_name": "小米11 青春版",
     "display_name_en": "Mi 11 Lite 5G"
@@ -1870,6 +1894,10 @@
   "sirius_global": {
     "display_name": "小米8 SE",
     "display_name_en": "MI 8 SE"
+  },
+  "socrates": {
+    "display_name": "Redmi K60 Pro",
+    "display_name_en": "Redmi K60 Pro"
   },
   "star": {
     "display_name": "小米11 Ultra/小米11 Pro",
