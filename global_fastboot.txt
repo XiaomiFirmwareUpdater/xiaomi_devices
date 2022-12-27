@@ -16,6 +16,7 @@ apollo_eea_global - F
 apollo_global - F
 apollo_global - F
 apollo_ru_global - F
+apollo_tw_global - F
 begonia_eea_global - F
 begonia_global - F
 begonia_id_global - F
@@ -206,6 +207,8 @@ spes_global - F
 spesn_eea_global - F
 spesn_global - F
 spesn_ru_global - F
+star_eea_global - F
+star_global - F
 surya_eea_global - F
 surya_global - F
 surya_ru_global - F
@@ -258,6 +261,8 @@ xaga_eea_global - F
 xaga_global - F
 xaga_ru_global - F
 xaga_tw_global - F
+yunluo_eea_global - F
+yunluo_global - F
 zeus_eea_global - F
 zeus_global - F
 zeus_id_global - F
