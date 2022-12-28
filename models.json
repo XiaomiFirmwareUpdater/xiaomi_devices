@@ -1629,6 +1629,13 @@
    "`22101316UC`": "Redmi Note 12 Discovery Edition China"
   }
  },
+ "redwood": {
+  "internal_name": "M20",
+  "name": "Redmi Note 12 Pro Speed",
+  "models": {
+   "`22101320C`": "Redmi Note 12 Pro Speed China"
+  }
+ },
  "atom": {
   "internal_name": "J7A",
   "name": "Redmi 10X 5G",
@@ -1761,6 +1768,27 @@
   "name": "Redmi K50i",
   "models": {
    "`22041216I`": "Redmi K50i India"
+  }
+ },
+ "mondrian": {
+  "internal_name": "M11A",
+  "name": "Redmi K60",
+  "models": {
+   "`23013RK75C`": "Redmi K60 China"
+  }
+ },
+ "socrates": {
+  "internal_name": "M11",
+  "name": "Redmi K60 Pro",
+  "models": {
+   "`22127RK46C`": "Redmi K60 Pro China"
+  }
+ },
+ "rembrandt": {
+  "internal_name": "M11R",
+  "name": "Redmi K60E",
+  "models": {
+   "`22122RK93C`": "Redmi K60E China"
   }
  },
  "omega": {
