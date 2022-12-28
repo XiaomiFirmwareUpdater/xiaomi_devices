@@ -1727,6 +1727,34 @@
     "display_name": "Redmi K20 Pro",
     "display_name_en": "Redmi K20 Pro"
   },
+  "redwood": {
+    "display_name": "Redmi Note 12 Pro 极速版",
+    "display_name_en": "Redmi Note 12 Pro Speed"
+  },
+  "redwood_eea_global": {
+    "display_name": "POCO X5 Pro 5G",
+    "display_name_en": "POCO X5 Pro 5G"
+  },
+  "redwood_global": {
+    "display_name": "POCO X5 Pro 5G",
+    "display_name_en": "POCO X5 Pro 5G"
+  },
+  "redwood_in_global": {
+    "display_name": "POCO X5 Pro 5G",
+    "display_name_en": "POCO X5 Pro 5G"
+  },
+  "redwood_ru_global": {
+    "display_name": "POCO X5 Pro 5G",
+    "display_name_en": "POCO X5 Pro 5G"
+  },
+  "redwood_tr_global": {
+    "display_name": "POCO X5 Pro 5G",
+    "display_name_en": "POCO X5 Pro 5G"
+  },
+  "redwood_tw_global": {
+    "display_name": "POCO X5 Pro 5G",
+    "display_name_en": "POCO X5 Pro 5G"
+  },
   "rembrandt": {
     "display_name": "Redmi K60E",
     "display_name_en": "Redmi K60E"
