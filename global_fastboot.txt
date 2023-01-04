@@ -162,6 +162,10 @@ munch_eea_global - F
 munch_global - F
 munch_ru_global - F
 munch_tw_global - F
+olive_eea_global - F
+olive_global - F
+olive_id_global - F
+olive_ru_global - F
 opal_eea_global - F
 opal_global - F
 opal_tw_global - F
@@ -188,6 +192,7 @@ renoir_tw_global - F
 rock_eea_global - F
 rock_global - F
 rock_tw_global - F
+rosemary_eea_global - F
 rosemary_global - F
 rosemary_p_global - F
 rosemary_p_ru_global - F
