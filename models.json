@@ -1620,23 +1620,26 @@
  },
  "sunstone": {
   "internal_name": "M17",
-  "name": "Redmi Note 12",
+  "name": "Redmi Note 12 5G",
   "models": {
-   "`22101317C`": "Redmi Note 12 China"
+   "`22111317I`": "Redmi Note 12 5G India",
+   "`22101317C`": "Redmi Note 12 5G China"
   }
  },
  "ruby": {
   "internal_name": "M16",
-  "name": "Redmi Note 12 Pro",
+  "name": "Redmi Note 12 Pro 5G",
   "models": {
-   "`22101316C`": "Redmi Note 12 Pro China"
+   "`22101316I`": "Redmi Note 12 Pro 5G India",
+   "`22101316C`": "Redmi Note 12 Pro 5G China"
   }
  },
  "rubypro": {
   "internal_name": "M16UP",
-  "name": "Redmi Note 12 Pro+",
+  "name": "Redmi Note 12 Pro+ 5G",
   "models": {
-   "`22101316UCP`": "Redmi Note 12 Pro+ China"
+   "`22101316UP`": "Redmi Note 12 Pro+ 5G India",
+   "`22101316UCP`": "Redmi Note 12 Pro+ 5G China"
   }
  },
  "rubyplus": {
