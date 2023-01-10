@@ -163,6 +163,7 @@ munch_eea_global - F
 munch_global - F
 munch_ru_global - F
 munch_tw_global - F
+nabu_global - F
 olive_eea_global - F
 olive_global - F
 olive_id_global - F
