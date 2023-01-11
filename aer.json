@@ -213,13 +213,13 @@
    "status": 1,
    "deviceName": "Redmi Note 11 Pro+ 5G",
    "releaseDate": "2022-1",
-   "securityUpdateEol": "90 days",
+   "securityUpdateEol": "2025-1",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 11",
    "futureVersion": "Andoid 12;Android 13",
    "createdAt": "2022-02-28T09:28:41.000Z",
-   "updatedAt": "2022-03-26T02:25:03.000Z"
+   "updatedAt": "2023-01-11T02:52:55.000Z"
   },
   {
    "id": 29,
