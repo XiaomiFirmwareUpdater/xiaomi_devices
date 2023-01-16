@@ -1,6 +1,19 @@
 {
  "items": [
   {
+   "id": 42,
+   "status": 1,
+   "deviceName": "Redmi Note 11 SE",
+   "releaseDate": "2023-1",
+   "securityUpdateEol": "2025-1",
+   "updateFrequency": "90 days",
+   "updateFrequencyTl": "90 days",
+   "shippedVersion": "Android 12",
+   "futureVersion": "Android 13",
+   "createdAt": "2023-01-16T02:09:24.000Z",
+   "updatedAt": "2023-01-16T02:09:29.000Z"
+  },
+  {
    "id": 37,
    "status": 1,
    "deviceName": "Xiaomi 12T",
@@ -482,5 +495,5 @@
    "updatedAt": "2021-11-15T12:35:15.000Z"
   }
  ],
- "total": 37
+ "total": 38
 }
