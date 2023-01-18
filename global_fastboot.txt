@@ -37,6 +37,9 @@ camellian_tw_global - F
 cannong_eea_global - F
 cannong_global - F
 cannong_tw_global - F
+chopin_global - F
+chopin_id_global - F
+chopin_tr_global - F
 citrus_eea_global - F
 citrus_global - F
 citrus_id_global - F
