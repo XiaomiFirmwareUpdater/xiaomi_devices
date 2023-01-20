@@ -32,7 +32,7 @@ def main():
             json.dumps(data, indent=1, ensure_ascii=False)
         )
         models_data = data["models"]
-    Path("models.json").write_text(json.dumps(sorted(models_data.split(";")), indent=1))
+    Path("models.json").write_text(json.dumps(sorted(models_data.split(";")), indent=1, ensure_ascii=False))
 
 
 if __name__ == "__main__":
