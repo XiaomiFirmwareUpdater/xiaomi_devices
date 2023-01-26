@@ -1622,6 +1622,7 @@
   "internal_name": "M17",
   "name": "Redmi Note 12 5G",
   "models": {
+   "`22111317G`": "Redmi Note 12 5G Global",
    "`22111317I`": "Redmi Note 12 5G India",
    "`22101317C`": "Redmi Note 12 5G China"
   }
@@ -1651,9 +1652,11 @@
  },
  "redwood": {
   "internal_name": "M20",
-  "name": "Redmi Note 12 Pro Speed",
+  "name": "Redmi Note 12 Pro Speed/POCO X5 Pro 5G",
   "models": {
-   "`22101320C`": "Redmi Note 12 Pro Speed China"
+   "`22101320C`": "Redmi Note 12 Pro Speed China",
+   "`22101320G`": "POCO X5 Pro 5G Global",
+   "`22101320I`": "POCO X5 Pro 5G India"
   }
  },
  "atom": {
@@ -1920,6 +1923,13 @@
   "name": "POCO X3 Pro",
   "models": {
    "`M2102J20SI`": "POCO X3 Pro India"
+  }
+ },
+ "moonstone": {
+  "internal_name": "M17P",
+  "name": "POCO X5 5G",
+  "models": {
+   "`22111317PG`": "POCO X5 5G Global"
   }
  },
  "shiva": {
