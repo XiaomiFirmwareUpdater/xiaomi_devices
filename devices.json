@@ -83,6 +83,10 @@
   "Redmi Note 9 Pro Max",
   "HMNote9ProMax"
  ],
+ "fuxi": [
+  "Xiaomi 13",
+  "FUXI"
+ ],
  "gauguin": [
   "Mi 10T Lite / Mi 10i / Redmi Note 9 Pro China",
   "HMNote9Pro5G_MI10TLite"
@@ -214,6 +218,10 @@
  "nitrogen": [
   "Mi Max 3",
   "MIMAX3"
+ ],
+ "nuwa": [
+  "Xiaomi 13 Pro",
+  "NUWA"
  ],
  "odin": [
   "Xiaomi MIX 4",
