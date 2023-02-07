@@ -270,9 +270,45 @@
   "item_identify": ""
  },
  {
+  "id": "1900395",
+  "name": "Mi 11 Pro/Ultra",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/3329b0ef3bc44d6b00d900cfbec9f3cb",
+  "item_identify": ""
+ },
+ {
   "id": "1900391",
   "name": "Mi 11",
   "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/b573c427644578c5442c7f808223cf31",
+  "item_identify": ""
+ },
+ {
+  "id": "1900557",
+  "name": "POCO M3",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/e611edcde38c0b65d7e3433c4aa1a613",
+  "item_identify": ""
+ },
+ {
+  "id": "1900558",
+  "name": "Mi 10T Lite",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/dd2a401923f87e8e4c1484b20bba64a4",
+  "item_identify": ""
+ },
+ {
+  "id": "1900386",
+  "name": "Mi 10T/Pro",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/3d7eab117deb5e4997a9ef8abfc05a79",
+  "item_identify": ""
+ },
+ {
+  "id": "1900385",
+  "name": "POCO X3 NFC",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/031cf840003962df6d1b3919c07f38c3",
+  "item_identify": ""
+ },
+ {
+  "id": "1900559",
+  "name": "Redmi 9C/NFC",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/842aa155d30719ac1dc6e91867078a6f",
   "item_identify": ""
  },
  {
@@ -288,9 +324,69 @@
   "item_identify": ""
  },
  {
+  "id": "1900561",
+  "name": "Mi Note 10 Lite",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/b746c45e95c4d99497e0b78835be898f",
+  "item_identify": ""
+ },
+ {
+  "id": "1900562",
+  "name": "Mi 10 Lite",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/34c6eb43462c36c58e8dc64ff6453ffe",
+  "item_identify": ""
+ },
+ {
+  "id": "1900563",
+  "name": "Redmi Note 9S",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/c3f0be14062a7ab6ce3b68c7c661d11a",
+  "item_identify": ""
+ },
+ {
+  "id": "1900564",
+  "name": "Redmi Note 9 Pro",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/7214ecba3a51bd0c5e556f6351ec84ca",
+  "item_identify": ""
+ },
+ {
   "id": "1900378",
   "name": "Redmi Note 9",
   "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/0d3eb739c6573cbad800d25f3f9ba324",
+  "item_identify": ""
+ },
+ {
+  "id": "1900379",
+  "name": "Mi 10/Pro",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/6e180d5df6a04ecab8f31be98adb084a",
+  "item_identify": ""
+ },
+ {
+  "id": "1900565",
+  "name": "Redmi Note 8T",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/134653403a957f7e2096c3dcd54f8630",
+  "item_identify": ""
+ },
+ {
+  "id": "1900567",
+  "name": "Redmi 8A",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/2d2bd300417308d9d9852d4a09de9af7",
+  "item_identify": ""
+ },
+ {
+  "id": "1900376",
+  "name": "Redmi 8",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/bb3ce54613d5ca82142421204420e9ec",
+  "item_identify": ""
+ },
+ {
+  "id": "1900374",
+  "name": "Mi 9 Lite / Mi CC 9",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/b72be6e8dea83f14c2966d09684bdf0d",
+  "item_identify": ""
+ },
+ {
+  "id": "1900375",
+  "name": "Redmi Note 8/Pro",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/eb3319b069af8fb24e101bc3d00751a6",
   "item_identify": ""
  },
  {
@@ -300,9 +396,21 @@
   "item_identify": ""
  },
  {
+  "id": "1900570",
+  "name": "Mi 9T / Redmi K20",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/7e8bafd63a7ae02526495fdd0c117fca",
+  "item_identify": ""
+ },
+ {
   "id": "1900369",
   "name": "Redmi 7A",
   "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/ff086aaee1dd19dff3d334ed77471dce",
+  "item_identify": ""
+ },
+ {
+  "id": "1900571",
+  "name": "Mi 9",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/32a64e4fff3f38e2481a43cadaee911b",
   "item_identify": ""
  },
  {
