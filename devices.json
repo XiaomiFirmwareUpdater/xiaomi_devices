@@ -199,6 +199,10 @@
   "Xiaomi Civi",
   "XMCivi"
  ],
+ "mondrian": [
+  "Redmi K60/POCO F5 Pro",
+  "MONDRIAN"
+ ],
  "monet": [
   "Mi 10 Lite 5G Global",
   "MI10LITE5G"
@@ -291,6 +295,10 @@
   "Redmi K20 Pro / Mi 9T Pro",
   "HMK20ProMI9TPro"
  ],
+ "redwood": [
+  "POCO X5 Pro 5G/Redmi Note 12 Pro Speed",
+  "REDWOOD"
+ ],
  "renoir": [
   "Mi 11 Lite 5G",
   "MI11Lite5G"
@@ -330,6 +338,10 @@
  "sirius": [
   "Mi 8 SE",
   "MI8SE"
+ ],
+ "socrates": [
+  "Redmi K60 Pro",
+  "SOCRATES"
  ],
  "spes": [
   "Redmi Note 11",
