@@ -120,6 +120,18 @@
   }
  },
  {
+  "rock": {
+   "name": "POCO M5",
+   "model": "22071219CI"
+  }
+ },
+ {
+  "stone": {
+   "name": "POCO M5",
+   "model": "22071219CG"
+  }
+ },
+ {
   "rosemary": {
    "name": "POCO M5s",
    "model": "2207117BPG"
@@ -369,6 +381,12 @@
   "bomb": {
    "name": "Redmi 10X pro",
    "model": "bomb"
+  }
+ },
+ {
+  "rock": {
+   "name": "Redmi 11 Prime",
+   "model": "22071219AI"
   }
  },
  {
@@ -708,6 +726,24 @@
   }
  },
  {
+  "mondrian": {
+   "name": "Redmi K60",
+   "model": "23013RK75C"
+  }
+ },
+ {
+  "socrates": {
+   "name": "Redmi K60 Pro",
+   "model": "22127RK46C"
+  }
+ },
+ {
+  "rembrandt": {
+   "name": "Redmi K60E",
+   "model": "22122RK93C"
+  }
+ },
+ {
   "camellia": {
    "name": "Redmi Note 10",
    "model": "M2103K19C"
@@ -957,6 +993,36 @@
   "xagapro": {
    "name": "Redmi Note 11T Pro +",
    "model": "22041216UC"
+  }
+ },
+ {
+  "sunstone": {
+   "name": "Redmi Note 12 5G",
+   "model": "22101317C"
+  }
+ },
+ {
+  "rubyplus": {
+   "name": "Redmi Note 12 DISCOVERY EDITION",
+   "model": "22101316UC"
+  }
+ },
+ {
+  "ruby": {
+   "name": "Redmi Note 12 Pro",
+   "model": "22101316C"
+  }
+ },
+ {
+  "redwood": {
+   "name": "Redmi Note 12 Pro Speed",
+   "model": "22101320C"
+  }
+ },
+ {
+  "rubypro": {
+   "name": "Redmi Note 12 Pro+",
+   "model": "22101316UCP"
   }
  },
  {
@@ -2550,6 +2616,18 @@
   }
  },
  {
+  "fuxi": {
+   "name": "Xiaomi 13",
+   "model": "2211133C"
+  }
+ },
+ {
+  "nuwa": {
+   "name": "Xiaomi 13 pro",
+   "model": "2210132C"
+  }
+ },
+ {
   "mona": {
    "name": "Xiaomi Civi",
    "model": "2109119BC"
@@ -2607,6 +2685,12 @@
   "soul": {
    "name": "Xiaomi TV stick 4K",
    "model": "MiTV-AYFR0"
+  }
+ },
+ {
+  "ziyi": {
+   "name": "Xiaomi civi2",
+   "model": "2209129SC"
   }
  },
  {
