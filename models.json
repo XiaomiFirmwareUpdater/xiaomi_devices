@@ -488,6 +488,14 @@
    "`2210132C`": "Xiaomi 13 Pro China"
   }
  },
+ "ziyi": {
+  "internal_name": "L9S",
+  "name": "Xiaomi 13 Lite/Xiaomi Civi 2",
+  "models": {
+   "`2210129SG`": "Xiaomi 13 Lite Global",
+   "`2209129SC`": "Xiaomi Civi 2 China"
+  }
+ },
  "virgo": {
   "internal_name": "X5",
   "name": "Mi Note",
@@ -660,13 +668,6 @@
   "name": "Xiaomi Civi 1S",
   "models": {
    "`2109119BC`": "Xiaomi Civi 1S China"
-  }
- },
- "ziyi": {
-  "internal_name": "L9S",
-  "name": "Xiaomi Civi 2",
-  "models": {
-   "`2209129SC`": "Xiaomi Civi 2 China"
   }
  },
  "lotus": {
