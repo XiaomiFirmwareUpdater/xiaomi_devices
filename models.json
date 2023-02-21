@@ -1088,12 +1088,14 @@
  },
  "earth": {
   "internal_name": "",
-  "name": "Redmi 12C (`earth`)",
+  "name": "Redmi 12C (`earth`)/POCO C55 (`earth`)",
   "models": {
    "`22120RN86G` `22120RN86H`": "Redmi 12C Global",
    "`22120RN86I`": "Redmi 12C India",
    "`22120RN86C`": "Redmi 12C China",
-   "`2212ARNC4L`": "Redmi 12C Latin America"
+   "`2212ARNC4L`": "Redmi 12C Latin America",
+   "`22127PC95G` `22127PC95H`": "POCO C55 Global",
+   "`22127PC95I`": "POCO C55 India"
   }
  },
  "aether": {
