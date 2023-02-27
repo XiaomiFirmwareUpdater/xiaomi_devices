@@ -201,6 +201,7 @@
  "frost_ru_global": "GFRU",
  "frost_tw_global": "GFTW",
  "fuxi": "MCCN",
+ "fuxi_eea_global": "MCEU",
  "gauguin": "JSCN",
  "gauguin_eea_global": "JSEU",
  "gauguin_global": "JSMI",
@@ -375,6 +376,7 @@
  "nitrogen_global": "EDMI",
  "nitrogen_ru_global": "EDRU",
  "nuwa": "MBCN",
+ "nuwa_eea_global": "MBEU",
  "odin": "KMCN",
  "olive": "CNCN",
  "olive_eea_global": "CNEU",
@@ -670,5 +672,9 @@
  "zeus_tw_global": "LBTW",
  "zijin": "LPCN",
  "ziyi": "LLCN",
+ "ziyi_eea_global": "LLEU",
+ "ziyi_global": "LLMI",
+ "ziyi_ru_global": "LLRU",
+ "ziyi_tw_global": "LLTW",
  "zizhan": "LRCN"
 }
