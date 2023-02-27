@@ -28,7 +28,7 @@
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "Mi 4c"
+     "deviceName": "Mi 4C"
     },
     {
      "brand": "Xiaomi",
@@ -36,15 +36,15 @@
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "Mi 5s"
+     "deviceName": "Mi 5S"
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "Mi 5s Plus"
+     "deviceName": "Mi 5S Plus"
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "Mi 5c"
+     "deviceName": "Mi 5C"
     },
     {
      "brand": "Xiaomi",
@@ -60,7 +60,59 @@
     },
     {
      "brand": "Xiaomi",
+     "deviceName": "Mi 8"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 8 Lite"
+    },
+    {
+     "brand": "Xiaomi",
      "deviceName": "Mi 8 SE"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 8 UD"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 8 Pro"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 8 Explore Edition"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 9"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 9 Lite"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 9 Pro 5G"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 9T Pro"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 9 SE"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi CC 9"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi CC 9e"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi CC 9 Pro"
     },
     {
      "brand": "Xiaomi",
@@ -96,6 +148,10 @@
     },
     {
      "brand": "Xiaomi",
+     "deviceName": "Mi MAX 3"
+    },
+    {
+     "brand": "Xiaomi",
      "deviceName": "Mi A1"
     },
     {
@@ -105,6 +161,10 @@
     {
      "brand": "Xiaomi",
      "deviceName": "Mi A2 Lite"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi A3 (Android One)"
     },
     {
      "brand": "Xiaomi",
@@ -128,23 +188,11 @@
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "Mi MAX 3"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 8 Lite"
-    },
-    {
-     "brand": "Xiaomi",
      "deviceName": "MIX 2S"
     },
     {
      "brand": "Xiaomi",
      "deviceName": "Mi MIX 2S"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 8 Explorer Edition"
     },
     {
      "brand": "Xiaomi",
@@ -156,39 +204,11 @@
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "Mi 8 UD"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 9 SE"
-    },
-    {
-     "brand": "Xiaomi",
      "deviceName": "Mi PLAY"
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "Mi 8"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 9"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi CC 9e"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi A3 (Android One)"
-    },
-    {
-     "brand": "Xiaomi",
      "deviceName": "Mi Note 10"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi CC 9 Pro"
     }
    ]
   },
@@ -284,6 +304,10 @@
     },
     {
      "brand": "Redmi",
+     "deviceName": "Redmi Note 5 Pro"
+    },
+    {
+     "brand": "Redmi",
      "deviceName": "Redmi Pro"
     },
     {
@@ -300,6 +324,10 @@
     },
     {
      "brand": "Redmi",
+     "deviceName": "Redmi Note 6 Pro"
+    },
+    {
+     "brand": "Redmi",
      "deviceName": "Redmi S2"
     },
     {
@@ -308,15 +336,11 @@
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi Note 6 Pro"
+     "deviceName": "Redmi Go"
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi go"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi Note 7 "
+     "deviceName": "Redmi Note 7"
     },
     {
      "brand": "Redmi",
@@ -348,15 +372,15 @@
     },
     {
      "brand": "Redmi",
+     "deviceName": "Redmi 8"
+    },
+    {
+     "brand": "Redmi",
      "deviceName": "Redmi Note 8 Pro"
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi K30"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi 8"
+     "deviceName": "Redmi Note 8T"
     },
     {
      "brand": "Redmi",
@@ -364,7 +388,35 @@
     },
     {
      "brand": "Redmi",
+     "deviceName": "Redmi 8A Dual"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 8 (ID)"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 8 (IN)"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 8 (CN)"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 8 (GLOBAL)"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi K30"
+    },
+    {
+     "brand": "Redmi",
      "deviceName": "Redmi K30 5G"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi K30 5G Speed"
     }
    ]
   },
@@ -385,5 +437,5 @@
    ]
   }
  ],
- "updateAt": "2023-01-20T06:27:37.000Z"
+ "updateAt": "2023-02-27T11:54:43.000Z"
 }
