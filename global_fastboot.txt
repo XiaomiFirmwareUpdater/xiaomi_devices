@@ -165,6 +165,7 @@ monet_global - F
 monet_tw_global - F
 moonstone_eea_global - F
 moonstone_global - F
+moonstone_ru_global - F
 moonstone_tw_global - F
 munch_eea_global - F
 munch_global - F
@@ -197,6 +198,7 @@ psyche_ru_global - F
 psyche_tw_global - F
 redwood_eea_global - F
 redwood_global - F
+redwood_ru_global - F
 redwood_ru_global - F
 redwood_tw_global - F
 renoir_eea_global - F
