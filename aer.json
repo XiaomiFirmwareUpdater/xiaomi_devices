@@ -1,6 +1,19 @@
 {
  "items": [
   {
+   "id": 43,
+   "status": 1,
+   "deviceName": "Xiaomi 13 Lite",
+   "releaseDate": "2023-2-26",
+   "securityUpdateEol": "2026-8",
+   "updateFrequency": "90 days",
+   "updateFrequencyTl": "90 days",
+   "shippedVersion": "Android 12",
+   "futureVersion": "Android 13 ， Android 14",
+   "createdAt": "2023-03-01T06:40:41.000Z",
+   "updatedAt": "2023-03-01T06:41:16.000Z"
+  },
+  {
    "id": 42,
    "status": 1,
    "deviceName": "Redmi Note 11 SE",
@@ -495,5 +508,5 @@
    "updatedAt": "2021-11-15T12:35:15.000Z"
   }
  ],
- "total": 38
+ "total": 39
 }
