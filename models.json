@@ -1562,6 +1562,22 @@
    "`22041216UG`": "POCO X4 GT Pro Global"
   }
  },
+ "tapas": {
+  "internal_name": "",
+  "name": "Redmi Note 12 (`tapas`)",
+  "models": {
+   "`23021RAAEG`": "Redmi Note 12 Global",
+   "`23021RAAEI`": "Redmi Note 12 India",
+   "`23028RA60L`": "Redmi Note 12 Latin America"
+  }
+ },
+ "topaz": {
+  "internal_name": "",
+  "name": "Redmi Note 12 (`topaz`)",
+  "models": {
+   "`23021RAA2Y`": "Redmi Note 12 Global (NFC)"
+  }
+ },
  "sunstone": {
   "internal_name": "M17",
   "name": "Redmi Note 12 5G",
@@ -1575,6 +1591,7 @@
   "internal_name": "M16",
   "name": "Redmi Note 12 Pro 5G",
   "models": {
+   "`22101316G`": "Redmi Note 12 Pro 5G Global",
    "`22101316I`": "Redmi Note 12 Pro 5G India",
    "`22101316C`": "Redmi Note 12 Pro 5G China"
   }
@@ -1583,6 +1600,7 @@
   "internal_name": "M16UP",
   "name": "Redmi Note 12 Pro+ 5G",
   "models": {
+   "`22101316UG`": "Redmi Note 12 Pro+ 5G Global",
    "`22101316UP`": "Redmi Note 12 Pro+ 5G India",
    "`22101316UCP`": "Redmi Note 12 Pro+ 5G China"
   }
