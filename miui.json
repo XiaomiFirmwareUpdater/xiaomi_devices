@@ -202,6 +202,7 @@
  "frost_tw_global": "GFTW",
  "fuxi": "MCCN",
  "fuxi_eea_global": "MCEU",
+ "fuxi_global": "MCMI",
  "fuxi_tr_global": "MCTR",
  "gauguin": "JSCN",
  "gauguin_eea_global": "JSEU",
@@ -679,6 +680,7 @@
  "ziyi_eea_global": "LLEU",
  "ziyi_global": "LLMI",
  "ziyi_ru_global": "LLRU",
+ "ziyi_tr_global": "LLTR",
  "ziyi_tw_global": "LLTW",
  "zizhan": "LRCN"
 }
