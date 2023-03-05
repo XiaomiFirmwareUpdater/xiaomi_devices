@@ -1014,6 +1014,18 @@
   }
  },
  {
+  "rubypro": {
+   "name": "Redmi Note 12 Pro + 5G",
+   "model": "22101316UP"
+  }
+ },
+ {
+  "ruby": {
+   "name": "Redmi Note 12 Pro 5G",
+   "model": "22101316I"
+  }
+ },
+ {
   "redwood": {
    "name": "Redmi Note 12 Pro Speed",
    "model": "22101320C"
@@ -2606,7 +2618,25 @@
  {
   "diting": {
    "name": "Xiaomi 12T Pro",
+   "model": "22081212R"
+  }
+ },
+ {
+  "diting": {
+   "name": "Xiaomi 12T Pro",
    "model": "22081212UG"
+  }
+ },
+ {
+  "diting": {
+   "name": "Xiaomi 12T Pro",
+   "model": "22200414R"
+  }
+ },
+ {
+  "diting": {
+   "name": "Xiaomi 12T Pro",
+   "model": "A201XM"
   }
  },
  {
