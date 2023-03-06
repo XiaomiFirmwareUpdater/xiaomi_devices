@@ -467,7 +467,7 @@
   "name": "Xiaomi 12T Pro/Redmi K50 Ultra",
   "models": {
    "`22081212UG`": "Xiaomi 12T Pro Global",
-   "`22081212R`": "Xiaomi 12T Pro Japan (SIM Free)",
+   "`22081212R` `22200414R`": "Xiaomi 12T Pro Japan (SIM Free)",
    "`A201XM`": "Xiaomi 12T Pro Japan (SoftBank)",
    "`22081212C`": "Redmi K50 Ultra China"
   }
