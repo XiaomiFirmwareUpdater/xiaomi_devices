@@ -104,6 +104,9 @@ frost_eea_global - F
 frost_global - F
 frost_id_global - F
 frost_tw_global - F
+fuxi_eea_global - F
+fuxi_global - F
+fuxi_tw_global - F
 gauguin_eea_global - F
 gauguin_global - F
 gauguin_tw_global - F
@@ -174,6 +177,11 @@ munch_tw_global - F
 nabu_eea_global - F
 nabu_global - F
 nabu_tw_global - F
+nuwa_eea_global - F
+nuwa_global - F
+nuwa_in_global - F
+nuwa_ru_global - F
+nuwa_tw_global - F
 olive_eea_global - F
 olive_global - F
 olive_id_global - F
@@ -296,3 +304,6 @@ zeus_global - F
 zeus_id_global - F
 zeus_ru_global - F
 zeus_tw_global - F
+ziyi_eea_global - F
+ziyi_global - F
+ziyi_tw_global - F
