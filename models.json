@@ -1829,6 +1829,14 @@
    "`220733SPI`": "POCO C50 India"
   }
  },
+ "water": {
+  "internal_name": "",
+  "name": "Redmi A2 (`water`)",
+  "models": {
+   "`23026RN54G` `23028RN4DG` `23028RN4DH`": "Redmi A2 Global",
+   "`23028RN4DI`": "Redmi A2 India"
+  }
+ },
  "beryllium": {
   "internal_name": "E10",
   "name": "POCO F1",
@@ -1883,7 +1891,8 @@
   "internal_name": "M17P",
   "name": "POCO X5 5G",
   "models": {
-   "`22111317PG`": "POCO X5 5G Global"
+   "`22111317PG`": "POCO X5 5G Global",
+   "`22111317PI`": "POCO X5 5G India"
   }
  },
  "shiva": {
