@@ -79,6 +79,8 @@ diting_eea_global - F
 diting_global - F
 diting_jp_global - F
 diting_tw_global - F
+earth_eea_global - F
+earth_in_global - F
 evergreen_eea_global - F
 evergreen_global - F
 evergreen_ru_global - F
