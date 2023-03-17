@@ -488,6 +488,14 @@
    "`2210132C`": "Xiaomi 13 Pro China"
   }
  },
+ "ishtar": {
+  "internal_name": "M1",
+  "name": "Xiaomi 13 Ultra",
+  "models": {
+   "`2304FPN6DG`": "Xiaomi 13 Ultra Global",
+   "`2304FPN6DC`": "Xiaomi 13 Ultra China"
+  }
+ },
  "ziyi": {
   "internal_name": "L9S",
   "name": "Xiaomi 13 Lite/Xiaomi Civi 2",
@@ -1621,6 +1629,15 @@
    "`22101320I`": "POCO X5 Pro 5G India"
   }
  },
+ "marble": {
+  "internal_name": "M16T",
+  "name": "Redmi Note 12 Turbo/POCO F5",
+  "models": {
+   "`23049RAD8C`": "Redmi Note 12 Turbo China",
+   "`23049PCD8G`": "POCO F5 Global",
+   "`23049PCD8I`": "POCO F5 India"
+  }
+ },
  "atom": {
   "internal_name": "J7A",
   "name": "Redmi 10X 5G",
@@ -1757,9 +1774,11 @@
  },
  "mondrian": {
   "internal_name": "M11A",
-  "name": "Redmi K60",
+  "name": "Redmi K60/POCO F5 Pro",
   "models": {
-   "`23013RK75C`": "Redmi K60 China"
+   "`23013RK75C`": "Redmi K60 China",
+   "`23013PC75G`": "POCO F5 Pro Global",
+   "`23013PC75I`": "POCO F5 Pro India"
   }
  },
  "socrates": {
@@ -2005,6 +2024,21 @@
   "name": "Xiaomi Pad 5 Pro 12.4",
   "models": {
    "`22081281AC`": "Xiaomi Pad 5 Pro 12.4"
+  }
+ },
+ "pipa": {
+  "internal_name": "M82",
+  "name": "Xiaomi Pad 6",
+  "models": {
+   "`23043RP34G`": "Xiaomi Pad 6 Global",
+   "`23043RP34C`": "Xiaomi Pad 6 China"
+  }
+ },
+ "liuqin": {
+  "internal_name": "M81",
+  "name": "Xiaomi Pad 6 Pro",
+  "models": {
+   "`23046RP50C`": "Xiaomi Pad 6 Pro"
   }
  },
  "yunluo": {
