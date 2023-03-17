@@ -48,10 +48,7 @@ citrus_tr_global - F
 citrus_tw_global - F
 cmi_global - F
 courbet_eea_global - F
-courbet_eea_global - F
 courbet_global - F
-courbet_global - F
-courbet_ru_global - F
 courbet_ru_global - F
 cupid_eea_global - F
 cupid_global - F
@@ -232,9 +229,12 @@ selene_eea_global - F
 selene_global - F
 selene_global - F
 selene_id_global - F
+selene_id_global - F
 selene_ru_global - F
 selene_ru_global - F
 selene_tr_global - F
+selene_tr_global - F
+selene_tw_global - F
 selene_tw_global - F
 spes_global - F
 spesn_eea_global - F
@@ -272,7 +272,9 @@ vayu_tr_global - F
 vayu_tw_global - F
 venus_eea_global - F
 venus_global - F
+venus_id_global - F
 venus_ru_global - F
+venus_tr_global - F
 venus_tw_global - F
 veux_eea_global - F
 veux_eea_global - F
