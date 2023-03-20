@@ -180,6 +180,7 @@ nuwa_eea_global - F
 nuwa_global - F
 nuwa_in_global - F
 nuwa_ru_global - F
+nuwa_tr_global - F
 nuwa_tw_global - F
 olive_eea_global - F
 olive_global - F
