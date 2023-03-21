@@ -388,11 +388,11 @@
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi 8A Dual"
+     "deviceName": "Redmi Note 8 (ID)"
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi Note 8 (ID)"
+     "deviceName": "Redmi 8A Dual"
     },
     {
      "brand": "Redmi",
@@ -400,11 +400,11 @@
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi Note 8 (CN)"
+     "deviceName": "Redmi Note 8 (GLOBAL)"
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi Note 8 (GLOBAL)"
+     "deviceName": "Redmi Note 8 (CN)"
     },
     {
      "brand": "Redmi",
@@ -437,5 +437,5 @@
    ]
   }
  ],
- "updateAt": "2023-02-27T11:54:43.000Z"
+ "updateAt": "2023-03-21T00:36:09.000Z"
 }
