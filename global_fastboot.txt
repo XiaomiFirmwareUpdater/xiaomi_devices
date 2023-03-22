@@ -147,7 +147,9 @@ lime_tr_global - F
 lime_tw_global - F
 lisa_eea_global - F
 lisa_global - F
+lisa_in_global - F
 lisa_ru_global - F
+lisa_tr_global - F
 lisa_tw_global - F
 lmi_eea_global - F
 lmi_global - F
