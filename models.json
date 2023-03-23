@@ -1848,9 +1848,9 @@
    "`220733SPI`": "POCO C50 India"
   }
  },
- "water": {
+ "cloud": {
   "internal_name": "",
-  "name": "Redmi A2 (`water`)",
+  "name": "Redmi A2 (`cloud`)",
   "models": {
    "`23026RN54G` `23028RN4DG` `23028RN4DH`": "Redmi A2 Global",
    "`23028RN4DI`": "Redmi A2 India"
