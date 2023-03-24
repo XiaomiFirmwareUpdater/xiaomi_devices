@@ -18,6 +18,12 @@
   }
  },
  {
+  "earth": {
+   "name": "POCO C55",
+   "model": "22127PC95I"
+  }
+ },
+ {
   "lmi": {
    "name": "POCO F2 Pro",
    "model": "POCO F2 Pro"
@@ -396,6 +402,30 @@
   }
  },
  {
+  "aether": {
+   "name": "Redmi 12C",
+   "model": "22126RN91Y"
+  }
+ },
+ {
+  "earth": {
+   "name": "Redmi 12C",
+   "model": "22120RN86G"
+  }
+ },
+ {
+  "earth": {
+   "name": "Redmi 12C",
+   "model": "22120RN86I"
+  }
+ },
+ {
+  "earth": {
+   "name": "Redmi 12C",
+   "model": "2212ARNC4L"
+  }
+ },
+ {
   "cereus": {
    "name": "Redmi 6",
    "model": "Redmi 6"
@@ -603,6 +633,18 @@
   "snow": {
    "name": "Redmi A1+",
    "model": "220743FI"
+  }
+ },
+ {
+  "cloud": {
+   "name": "Redmi A2",
+   "model": "23026RN54G"
+  }
+ },
+ {
+  "cloud": {
+   "name": "Redmi A2",
+   "model": "23028RN4DG"
   }
  },
  {
