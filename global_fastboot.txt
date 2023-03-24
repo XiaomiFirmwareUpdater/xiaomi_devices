@@ -77,7 +77,9 @@ diting_global - F
 diting_jp_global - F
 diting_tw_global - F
 earth_eea_global - F
+earth_global - F
 earth_in_global - F
+earth_tr_global - F
 evergreen_eea_global - F
 evergreen_global - F
 evergreen_ru_global - F
@@ -227,6 +229,11 @@ rosemary_p_tw_global - F
 rosemary_ru_global - F
 rosemary_tr_global - F
 rosemary_tw_global - F
+ruby_eea_global - F
+ruby_global - F
+ruby_id_global - F
+ruby_ru_global - F
+ruby_tw_global - F
 selene_eea_global - F
 selene_eea_global - F
 selene_global - F
@@ -245,6 +252,8 @@ spesn_global - F
 spesn_ru_global - F
 star_eea_global - F
 star_global - F
+sunstone_global - F
+sunstone_tw_global - F
 surya_eea_global - F
 surya_global - F
 surya_ru_global - F
