@@ -1,5 +1,6 @@
 agate_eea_global - F
 agate_global - F
+agate_id_global - F
 agate_ru_global - F
 agate_tw_global - F
 alioth_eea_global - F
@@ -107,6 +108,8 @@ frost_id_global - F
 frost_tw_global - F
 fuxi_eea_global - F
 fuxi_global - F
+fuxi_ru_global - F
+fuxi_tr_global - F
 fuxi_tw_global - F
 gauguin_eea_global - F
 gauguin_global - F
@@ -202,6 +205,7 @@ pissarro_ru_global - F
 pissarro_tw_global - F
 plato_eea_global - F
 plato_global - F
+plato_id_global - F
 plato_ru_global - F
 plato_tw_global - F
 psyche_eea_global - F
@@ -318,6 +322,7 @@ yunluo_tw_global - F
 zeus_eea_global - F
 zeus_global - F
 zeus_id_global - F
+zeus_in_global - F
 zeus_ru_global - F
 zeus_tw_global - F
 ziyi_eea_global - F
