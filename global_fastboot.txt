@@ -63,7 +63,6 @@ curtana_tr_global - F
 dandelion_c3l2_eea_global - F
 dandelion_c3l2_global - F
 dandelion_c3l2_id_global - F
-dandelion_c3l2_ru_global - F
 dandelion_c3l2_tw_global - F
 dandelion_eea_global - F
 dandelion_global - F
