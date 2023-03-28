@@ -15,7 +15,6 @@ angelican_global - F
 angelican_ru_global - F
 apollo_eea_global - F
 apollo_global - F
-apollo_global - F
 apollo_ru_global - F
 apollo_tw_global - F
 begonia_eea_global - F
@@ -78,6 +77,7 @@ diting_jp_global - F
 diting_tw_global - F
 earth_eea_global - F
 earth_global - F
+earth_id_global - F
 earth_in_global - F
 earth_tr_global - F
 evergreen_eea_global - F
@@ -235,6 +235,7 @@ rosemary_tw_global - F
 ruby_eea_global - F
 ruby_global - F
 ruby_id_global - F
+ruby_in_global - F
 ruby_ru_global - F
 ruby_tw_global - F
 selene_eea_global - F
