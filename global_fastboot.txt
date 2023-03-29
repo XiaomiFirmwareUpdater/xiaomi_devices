@@ -80,6 +80,7 @@ earth_global - F
 earth_id_global - F
 earth_in_global - F
 earth_tr_global - F
+earth_tw_global - F
 evergreen_eea_global - F
 evergreen_global - F
 evergreen_ru_global - F
