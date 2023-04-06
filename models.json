@@ -1426,12 +1426,13 @@
   }
  },
  "sweet": {
-  "internal_name": "K6",
-  "name": "Redmi Note 10 Pro",
+  "internal_name": "K6/K6A",
+  "name": "Redmi Note 10 Pro/Redmi Note 12 Pro",
   "models": {
    "`M2101K6G`": "Redmi Note 10 Pro Global",
    "`M2101K6T`": "Redmi Note 10 Pro Thailand",
-   "`M2101K6R`": "Redmi Note 10 Pro Japan"
+   "`M2101K6R`": "Redmi Note 10 Pro Japan",
+   "`2209116AG`": "Redmi Note 12 Pro Global"
   }
  },
  "sweetin": {
@@ -1593,6 +1594,21 @@
    "`22111317G`": "Redmi Note 12 5G Global",
    "`22111317I`": "Redmi Note 12 5G India",
    "`22101317C`": "Redmi Note 12 5G China"
+  }
+ },
+ "sea": {
+  "internal_name": "",
+  "name": "Redmi Note 12S (`sea`)",
+  "models": {
+   "`2303CRA44A`": "Redmi Note 12S Global",
+   "`2303ERA42L`": "Redmi Note 12S Latin America"
+  }
+ },
+ "ocean": {
+  "internal_name": "",
+  "name": "Redmi Note 12S (`ocean`)",
+  "models": {
+   "`23030RAC7Y`": "Redmi Note 12S Global (NFC)"
   }
  },
  "ruby": {
@@ -1854,6 +1870,13 @@
   "models": {
    "`23026RN54G` `23028RN4DG` `23028RN4DH`": "Redmi A2 Global",
    "`23028RN4DI`": "Redmi A2 India"
+  }
+ },
+ "water": {
+  "internal_name": "",
+  "name": "Redmi A2+ (`water`)",
+  "models": {
+   "`23028RNCAG`": "Redmi A2+ Global"
   }
  },
  "beryllium": {
