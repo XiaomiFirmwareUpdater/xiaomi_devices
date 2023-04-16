@@ -143,7 +143,6 @@ lavender_ru_global - F
 light_eea_global - F
 light_global - F
 light_ru_global - F
-light_tw_global - F
 lilac_jp_global - F
 lime_eea_global - F
 lime_global - F
@@ -161,7 +160,6 @@ lmi_global - F
 lmi_ru_global - F
 lmi_tr_global - F
 merlin_eea_global - F
-merlin_global - F
 merlin_ru_global - F
 merlin_tw_global - F
 mojito_eea_global - F
