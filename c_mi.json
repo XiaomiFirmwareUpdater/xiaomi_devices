@@ -1,5 +1,11 @@
 [
  {
+  "id": "1900578",
+  "name": "Redmi 12C/POCO C55",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/1bf2003b0998c5d425af5e8f1284b8ff",
+  "item_identify": ""
+ },
+ {
   "id": "1900577",
   "name": "Xiaomi 13 Pro",
   "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/122d74dd3b14fb6b5e150fe899308ae7",
@@ -228,15 +234,15 @@
   "item_identify": ""
  },
  {
-  "id": "1900552",
-  "name": "POCO F3 GT",
-  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/88cc98b05f169b396ef5bedfdb9b8777",
-  "item_identify": ""
- },
- {
   "id": "1900553",
   "name": "Redmi Note 8 2021",
   "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/fa88c61bf394da6e492ebb729de597d3",
+  "item_identify": ""
+ },
+ {
+  "id": "1900552",
+  "name": "POCO F3 GT",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/88cc98b05f169b396ef5bedfdb9b8777",
   "item_identify": ""
  },
  {
@@ -248,7 +254,7 @@
  {
   "id": "1900393",
   "name": "Mi 11 Lite/ 5G",
-  "pic_url": "https://i02.appmifile.com/571_bbs_en/04/03/2022/634141daf0.png",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/6119ef5efcf5a8b4df350772d0f824ae",
   "item_identify": ""
  },
  {
@@ -356,7 +362,7 @@
  {
   "id": "1900381",
   "name": "Redmi 9",
-  "pic_url": "https://i02.appmifile.com/512_bbs_en/24/06/2020/e951cfd913.png",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/10bcecc081218d6dc73fb272889d6787",
   "item_identify": ""
  },
  {

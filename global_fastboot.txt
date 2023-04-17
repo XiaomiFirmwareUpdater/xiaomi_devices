@@ -143,6 +143,7 @@ lavender_ru_global - F
 light_eea_global - F
 light_global - F
 light_ru_global - F
+light_tw_global - F
 lilac_jp_global - F
 lime_eea_global - F
 lime_global - F
@@ -160,6 +161,7 @@ lmi_global - F
 lmi_ru_global - F
 lmi_tr_global - F
 merlin_eea_global - F
+merlin_global - F
 merlin_ru_global - F
 merlin_tw_global - F
 mojito_eea_global - F
@@ -270,11 +272,16 @@ taoyao_eea_global - F
 taoyao_global - F
 taoyao_ru_global - F
 taoyao_tw_global - F
+tapas_global - F
+tapas_in_global - F
+tapas_tr_global - F
 toco_eea_global - F
 toco_global - F
 toco_ru_global - F
 topaz_eea_global - F
 topaz_global - F
+topaz_id_global - F
+topaz_ru_global - F
 tucana_eea_global - F
 tucana_global - F
 tucana_ru_global - F
