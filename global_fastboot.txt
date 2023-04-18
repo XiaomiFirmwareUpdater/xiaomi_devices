@@ -64,6 +64,7 @@ dandelion_c3l2_id_global - F
 dandelion_c3l2_tw_global - F
 dandelion_eea_global - F
 dandelion_global - F
+dandelion_id_global - F
 dandelion_ru_global - F
 davinci_eea_global - F
 davinci_global - F
@@ -98,6 +99,7 @@ fleur_tw_global - F
 fleur_tw_global - F
 fog_eea_global - F
 fog_global - F
+fog_id_global - F
 fog_in_global - F
 fog_ru_global - F
 fog_tw_global - F
@@ -142,6 +144,7 @@ lavender_global - F
 lavender_ru_global - F
 light_eea_global - F
 light_global - F
+light_id_global - F
 light_ru_global - F
 light_tw_global - F
 lilac_jp_global - F
@@ -224,10 +227,15 @@ renoir_ru_global - F
 renoir_tw_global - F
 rock_eea_global - F
 rock_global - F
+rock_id_global - F
+rock_id_global - F
+rock_id_global - F
+rock_ru_global - F
 rock_tw_global - F
 rosemary_eea_global - F
 rosemary_global - F
 rosemary_p_global - F
+rosemary_p_id_global - F
 rosemary_p_ru_global - F
 rosemary_p_tw_global - F
 rosemary_ru_global - F
@@ -240,16 +248,10 @@ ruby_in_global - F
 ruby_ru_global - F
 ruby_tw_global - F
 selene_eea_global - F
-selene_eea_global - F
-selene_global - F
 selene_global - F
 selene_id_global - F
-selene_id_global - F
-selene_ru_global - F
 selene_ru_global - F
 selene_tr_global - F
-selene_tr_global - F
-selene_tw_global - F
 selene_tw_global - F
 spes_global - F
 spesn_eea_global - F
@@ -270,6 +272,7 @@ sweet_tr_global - F
 sweet_tw_global - F
 taoyao_eea_global - F
 taoyao_global - F
+taoyao_id_global - F
 taoyao_ru_global - F
 taoyao_tw_global - F
 tapas_global - F
@@ -312,7 +315,9 @@ veux_tw_global - F
 veux_tw_global - F
 vili_eea_global - F
 vili_global - F
+vili_id_global - F
 vili_jp_global - F
+vili_ru_global - F
 vili_tw_global - F
 viva_eea_global - F
 viva_global - F
