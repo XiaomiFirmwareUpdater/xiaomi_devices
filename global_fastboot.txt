@@ -74,6 +74,7 @@ dipper_ru_global - F
 diting_eea_global - F
 diting_global - F
 diting_jp_global - F
+diting_ru_global - F
 diting_tw_global - F
 earth_eea_global - F
 earth_global - F
