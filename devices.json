@@ -2748,6 +2748,12 @@
   }
  },
  {
+  "ishtar": {
+   "name": "Xiaomi 13 Ultra",
+   "model": "2304FPN6DC"
+  }
+ },
+ {
   "nuwa": {
    "name": "Xiaomi 13 pro",
    "model": "2210132C"
@@ -2817,6 +2823,12 @@
   "ziyi": {
    "name": "Xiaomi civi2",
    "model": "2209129SC"
+  }
+ },
+ {
+  "pipa": {
+   "name": "Xiaomi pad 6",
+   "model": "23043RP34C"
   }
  },
  {
