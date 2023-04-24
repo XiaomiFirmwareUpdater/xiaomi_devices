@@ -1,5 +1,17 @@
 [
  {
+  "id": "1900580",
+  "name": "Redmi A2/A2+",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/c95213fe6b2de8c6578d27bc56c27c25",
+  "item_identify": ""
+ },
+ {
+  "id": "1900579",
+  "name": "Redmi Note 12/NFC",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/5ae8a5b9f4210a1f879d7441b4b41949",
+  "item_identify": ""
+ },
+ {
   "id": "1900578",
   "name": "Redmi 12C/POCO C55",
   "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/1bf2003b0998c5d425af5e8f1284b8ff",
@@ -234,15 +246,15 @@
   "item_identify": ""
  },
  {
-  "id": "1900553",
-  "name": "Redmi Note 8 2021",
-  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/fa88c61bf394da6e492ebb729de597d3",
-  "item_identify": ""
- },
- {
   "id": "1900552",
   "name": "POCO F3 GT",
   "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/88cc98b05f169b396ef5bedfdb9b8777",
+  "item_identify": ""
+ },
+ {
+  "id": "1900553",
+  "name": "Redmi Note 8 2021",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/fa88c61bf394da6e492ebb729de597d3",
   "item_identify": ""
  },
  {

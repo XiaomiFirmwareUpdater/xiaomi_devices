@@ -197,6 +197,8 @@ munch_tr_global - F
 munch_tw_global - F
 nabu_eea_global - F
 nabu_global - F
+nabu_in_global - F
+nabu_tr_global - F
 nabu_tw_global - F
 nuwa_eea_global - F
 nuwa_global - F
@@ -216,7 +218,9 @@ pine_global - F
 pine_ru_global - F
 pissarro_eea_global - F
 pissarro_global - F
+pissarro_in_global - F
 pissarro_ru_global - F
+pissarro_tr_global - F
 pissarro_tw_global - F
 plato_eea_global - F
 plato_global - F
@@ -250,9 +254,7 @@ rosemary_p_global - F
 rosemary_p_id_global - F
 rosemary_p_ru_global - F
 rosemary_p_tw_global - F
-rosemary_ru_global - F
 rosemary_tr_global - F
-rosemary_tw_global - F
 ruby_eea_global - F
 ruby_global - F
 ruby_id_global - F
@@ -271,6 +273,8 @@ spesn_global - F
 spesn_ru_global - F
 star_eea_global - F
 star_global - F
+star_id_global - F
+star_in_global - F
 sunstone_global - F
 sunstone_tw_global - F
 surya_eea_global - F
@@ -286,6 +290,7 @@ taoyao_eea_global - F
 taoyao_global - F
 taoyao_id_global - F
 taoyao_ru_global - F
+taoyao_tr_global - F
 taoyao_tw_global - F
 tapas_global - F
 tapas_in_global - F
@@ -328,6 +333,7 @@ veux_tw_global - F
 vili_eea_global - F
 vili_global - F
 vili_id_global - F
+vili_jp_global - F
 vili_ru_global - F
 vili_tw_global - F
 viva_eea_global - F
@@ -340,6 +346,7 @@ willow_global - F
 xaga_eea_global - F
 xaga_global - F
 xaga_ru_global - F
+xaga_tr_global - F
 xaga_tw_global - F
 yunluo_eea_global - F
 yunluo_global - F
@@ -349,6 +356,7 @@ zeus_global - F
 zeus_id_global - F
 zeus_in_global - F
 zeus_ru_global - F
+zeus_tr_global - F
 zeus_tw_global - F
 ziyi_eea_global - F
 ziyi_global - F
