@@ -18,6 +18,12 @@
   }
  },
  {
+  "water": {
+   "name": "POCO C51",
+   "model": "2302EPCC4H"
+  }
+ },
+ {
   "earth": {
    "name": "POCO C55",
    "model": "22127PC95I"
@@ -648,6 +654,12 @@
   }
  },
  {
+  "water": {
+   "name": "Redmi A2+",
+   "model": "23028RNCAG"
+  }
+ },
+ {
   "davinci": {
    "name": "Redmi K20",
    "model": "Mi 9T"
@@ -1077,6 +1089,12 @@
   "ruby": {
    "name": "Redmi Note 12 Pro",
    "model": "22101316C"
+  }
+ },
+ {
+  "sweet": {
+   "name": "Redmi Note 12 Pro",
+   "model": "2209116AG"
   }
  },
  {
@@ -2811,6 +2829,12 @@
   "enuma": {
    "name": "Xiaomi Pad 5 Pro 5G",
    "model": "M2105K81C"
+  }
+ },
+ {
+  "jaws": {
+   "name": "Xiaomi TV Box S (2nd Gen)",
+   "model": "MiTV-AFKR0"
   }
  },
  {
