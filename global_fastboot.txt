@@ -255,6 +255,7 @@ rosemary_p_id_global - F
 rosemary_p_ru_global - F
 rosemary_p_tw_global - F
 rosemary_tr_global - F
+rosemary_tw_global - F
 ruby_eea_global - F
 ruby_global - F
 ruby_id_global - F
