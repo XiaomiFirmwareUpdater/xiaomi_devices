@@ -108,7 +108,6 @@ fog_id_global - F
 fog_in_global - F
 fog_ru_global - F
 fog_tw_global - F
-frost_eea_global - F
 frost_global - F
 frost_id_global - F
 frost_tw_global - F
@@ -185,7 +184,6 @@ monet_eea_global - F
 monet_global - F
 monet_tw_global - F
 moonstone_eea_global - F
-moonstone_global - F
 moonstone_ru_global - F
 moonstone_tw_global - F
 munch_eea_global - F
@@ -254,6 +252,7 @@ rosemary_p_global - F
 rosemary_p_id_global - F
 rosemary_p_ru_global - F
 rosemary_p_tw_global - F
+rosemary_ru_global - F
 rosemary_tr_global - F
 rosemary_tw_global - F
 ruby_eea_global - F
