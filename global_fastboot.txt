@@ -285,6 +285,8 @@ surya_ru_global - F
 sweet_eea_global - F
 sweet_global - F
 sweet_id_global - F
+sweet_k6a_eea_global - F
+sweet_k6a_global - F
 sweet_ru_global - F
 sweet_tr_global - F
 sweet_tw_global - F
