@@ -111,7 +111,6 @@ fog_tw_global - F
 frost_eea_global - F
 frost_global - F
 frost_id_global - F
-frost_tw_global - F
 fuxi_eea_global - F
 fuxi_global - F
 fuxi_ru_global - F
@@ -185,7 +184,6 @@ monet_eea_global - F
 monet_global - F
 monet_tw_global - F
 moonstone_eea_global - F
-moonstone_global - F
 moonstone_ru_global - F
 moonstone_tw_global - F
 munch_eea_global - F
