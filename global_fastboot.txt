@@ -172,6 +172,11 @@ lmi_eea_global - F
 lmi_global - F
 lmi_ru_global - F
 lmi_tr_global - F
+marble_eea_global - F
+marble_global - F
+marble_ru_global - F
+marble_tr_global - F
+marble_tw_global - F
 merlin_eea_global - F
 merlin_global - F
 merlin_ru_global - F
@@ -181,6 +186,8 @@ mojito_global - F
 mojito_id_global - F
 mojito_ru_global - F
 mojito_tr_global - F
+mondrian_global - F
+mondrian_tw_global - F
 monet_eea_global - F
 monet_global - F
 monet_tw_global - F
