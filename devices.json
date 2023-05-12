@@ -2832,6 +2832,12 @@
   }
  },
  {
+  "pipa": {
+   "name": "Xiaomi Pad 6",
+   "model": "23043RP34C"
+  }
+ },
+ {
   "jaws": {
    "name": "Xiaomi TV Box S (2nd Gen)",
    "model": "MiTV-AFKR0"
@@ -2847,12 +2853,6 @@
   "ziyi": {
    "name": "Xiaomi civi2",
    "model": "2209129SC"
-  }
- },
- {
-  "pipa": {
-   "name": "Xiaomi pad 6",
-   "model": "23043RP34C"
   }
  },
  {
