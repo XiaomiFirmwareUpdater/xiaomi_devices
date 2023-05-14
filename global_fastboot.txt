@@ -68,7 +68,6 @@ dandelion_c3l2_id_global - F
 dandelion_c3l2_tw_global - F
 dandelion_eea_global - F
 dandelion_global - F
-dandelion_id_global - F
 dandelion_ru_global - F
 davinci_eea_global - F
 davinci_global - F
@@ -144,7 +143,6 @@ lancelot_eea_global - F
 lancelot_global - F
 lancelot_ru_global - F
 lancelot_tr_global - F
-laurel_sprout_eea_global - F
 laurel_sprout_global - F
 laurel_sprout_global - F
 lavender_eea_global - F
