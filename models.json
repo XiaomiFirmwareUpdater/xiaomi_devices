@@ -1095,8 +1095,8 @@
   }
  },
  "earth": {
-  "internal_name": "",
-  "name": "Redmi 12C (`earth`)/POCO C55 (`earth`)",
+  "internal_name": "C3T/C3TP",
+  "name": "Redmi 12C/POCO C55",
   "models": {
    "`22120RN86G` `22120RN86H`": "Redmi 12C Global",
    "`22120RN86I`": "Redmi 12C India",
@@ -1107,8 +1107,8 @@
   }
  },
  "aether": {
-  "internal_name": "",
-  "name": "Redmi 12C (`aether`)",
+  "internal_name": "C3TN",
+  "name": "Redmi 12C",
   "models": {
    "`22126RN91Y`": "Redmi 12C Global (NFC)"
   }
@@ -1572,8 +1572,8 @@
   }
  },
  "tapas": {
-  "internal_name": "",
-  "name": "Redmi Note 12 (`tapas`)",
+  "internal_name": "M7",
+  "name": "Redmi Note 12",
   "models": {
    "`23021RAAEG`": "Redmi Note 12 Global",
    "`23027RAD4I`": "Redmi Note 12 India",
@@ -1581,8 +1581,8 @@
   }
  },
  "topaz": {
-  "internal_name": "",
-  "name": "Redmi Note 12 (`topaz`)",
+  "internal_name": "M7N",
+  "name": "Redmi Note 12",
   "models": {
    "`23021RAA2Y`": "Redmi Note 12 Global (NFC)"
   }
@@ -1597,16 +1597,16 @@
   }
  },
  "sea": {
-  "internal_name": "",
-  "name": "Redmi Note 12S (`sea`)",
+  "internal_name": "K7SR",
+  "name": "Redmi Note 12S",
   "models": {
    "`2303CRA44A`": "Redmi Note 12S Global",
    "`2303ERA42L`": "Redmi Note 12S Latin America"
   }
  },
  "ocean": {
-  "internal_name": "",
-  "name": "Redmi Note 12S (`ocean`)",
+  "internal_name": "K7SR",
+  "name": "Redmi Note 12S",
   "models": {
    "`23030RAC7Y`": "Redmi Note 12S Global (NFC)"
   }
