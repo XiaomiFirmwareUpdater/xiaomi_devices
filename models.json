@@ -678,6 +678,13 @@
    "`2109119BC`": "Xiaomi Civi 1S China"
   }
  },
+ "yuechu": {
+  "internal_name": "M9",
+  "name": "Xiaomi Civi 3",
+  "models": {
+   "`23046PNC9C`": "Xiaomi Civi 3 China"
+  }
+ },
  "lotus": {
   "internal_name": "F9",
   "name": "Mi Play",
@@ -1865,16 +1872,16 @@
   }
  },
  "cloud": {
-  "internal_name": "",
-  "name": "Redmi A2 (`cloud`)",
+  "internal_name": "C3S2",
+  "name": "Redmi A2",
   "models": {
    "`23026RN54G` `23028RN4DG` `23028RN4DH`": "Redmi A2 Global",
    "`23028RN4DI`": "Redmi A2 India"
   }
  },
  "water": {
-  "internal_name": "",
-  "name": "Redmi A2+ (`water`)/POCO C51 (`water`)",
+  "internal_name": "CSF2/CSP2",
+  "name": "Redmi A2+/POCO C51",
   "models": {
    "`23028RNCAG`": "Redmi A2+ Global",
    "`2305EPCC4G` `2302EPCC4H`": "POCO C51 Global",
