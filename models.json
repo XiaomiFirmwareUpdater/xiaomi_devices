@@ -1105,12 +1105,12 @@
   "internal_name": "C3T/C3TP",
   "name": "Redmi 12C/POCO C55",
   "models": {
-   "`22120RN86G` `22120RN86H`": "Redmi 12C Global",
-   "`22120RN86I`": "Redmi 12C India",
+   "`22120RN86G`": "Redmi 12C Global",
+   "`22120RN86H` `22120RN86I`": "Redmi 12C India",
    "`22120RN86C`": "Redmi 12C China",
    "`2212ARNC4L`": "Redmi 12C Latin America",
-   "`22127PC95G` `22127PC95H`": "POCO C55 Global",
-   "`22127PC95I`": "POCO C55 India"
+   "`22127PC95G`": "POCO C55 Global",
+   "`22127PC95H` `22127PC95I`": "POCO C55 India"
   }
  },
  "aether": {
@@ -1857,8 +1857,8 @@
   "internal_name": "C3S",
   "name": "Redmi A1",
   "models": {
-   "`220733SG` `220733SH`": "Redmi A1 Global",
-   "`220733SI`": "Redmi A1 India",
+   "`220733SG`": "Redmi A1 Global",
+   "`220733SH` `220733SI`": "Redmi A1 India",
    "`220733SL`": "Redmi A1 Latin America"
   }
  },
@@ -1866,17 +1866,17 @@
   "internal_name": "C3SF/C3SP",
   "name": "Redmi A1+/POCO C50",
   "models": {
-   "`220733SFG` `220733SFH`": "Redmi A1+ Global",
-   "`220743FI`": "Redmi A1+ India",
-   "`220733SPI`": "POCO C50 India"
+   "`220733SFG`": "Redmi A1+ Global",
+   "`220733SFH` `220743FI`": "Redmi A1+ India",
+   "`220733SPH` `220733SPI`": "POCO C50 India"
   }
  },
  "cloud": {
   "internal_name": "C3S2",
   "name": "Redmi A2",
   "models": {
-   "`23026RN54G` `23028RN4DG` `23028RN4DH`": "Redmi A2 Global",
-   "`23028RN4DI`": "Redmi A2 India"
+   "`23026RN54G` `23028RN4DG`": "Redmi A2 Global",
+   "`23028RN4DH` `23028RN4DI`": "Redmi A2 India"
   }
  },
  "water": {
@@ -1884,8 +1884,9 @@
   "name": "Redmi A2+/POCO C51",
   "models": {
    "`23028RNCAG`": "Redmi A2+ Global",
-   "`2305EPCC4G` `2302EPCC4H`": "POCO C51 Global",
-   "`2302EPCC4I`": "POCO C51 India"
+   "`23028RNCAH` `23028RNCAI`": "Redmi A2+ India",
+   "`2305EPCC4G`": "POCO C51 Global",
+   "`2302EPCC4H` `2302EPCC4I`": "POCO C51 India"
   }
  },
  "beryllium": {
