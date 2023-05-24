@@ -215,6 +215,12 @@
      "deviceName": "Mi 10 Lite zoom (CN)",
      "sku": "vangogh",
      "projectCode": "J9A"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi Note 10 Lite",
+     "sku": "toco_ru_global",
+     "projectCode": "F4L"
     }
    ]
   },
@@ -443,5 +449,5 @@
    ]
   }
  ],
- "updateAt": "2023-05-08T04:18:43.000Z"
+ "updateAt": "2023-05-23T19:58:13.000Z"
 }
