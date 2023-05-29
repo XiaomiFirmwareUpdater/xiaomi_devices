@@ -1652,6 +1652,13 @@
    "`22101320I`": "POCO X5 Pro 5G India"
   }
  },
+ "pearl": {
+  "internal_name": "L16S",
+  "name": "Redmi Note 12T Pro",
+  "models": {
+   "`23054RA19C`": "Redmi Note 12T Pro China"
+  }
+ },
  "marble": {
   "internal_name": "M16T",
   "name": "Redmi Note 12 Turbo/POCO F5",
