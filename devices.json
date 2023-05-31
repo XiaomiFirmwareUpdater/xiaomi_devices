@@ -1134,6 +1134,24 @@
   }
  },
  {
+  "ocean": {
+   "name": "Redmi Note 12S",
+   "model": "2303CRA44A"
+  }
+ },
+ {
+  "ocean": {
+   "name": "Redmi Note 12S",
+   "model": "2303ERA42L"
+  }
+ },
+ {
+  "sea": {
+   "name": "Redmi Note 12S",
+   "model": "23030RAC7Y"
+  }
+ },
+ {
   "lavender": {
    "name": "Redmi Note 7",
    "model": "Redmi Note 7"
