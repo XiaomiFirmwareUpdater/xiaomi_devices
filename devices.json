@@ -1152,6 +1152,12 @@
   }
  },
  {
+  "pearl": {
+   "name": "Redmi Note 12T Pro",
+   "model": "23054RA19C"
+  }
+ },
+ {
   "lavender": {
    "name": "Redmi Note 7",
    "model": "Redmi Note 7"
@@ -2865,6 +2871,12 @@
   "soul": {
    "name": "Xiaomi TV stick 4K",
    "model": "MiTV-AYFR0"
+  }
+ },
+ {
+  "yuechu": {
+   "name": "Xiaomi civi 3",
+   "model": "23046PNC9C"
   }
  },
  {
