@@ -1101,6 +1101,15 @@
    "`22071219CI`": "POCO M5 India"
   }
  },
+ "fire": {
+  "internal_name": "M19A",
+  "name": "Redmi 12",
+  "models": {
+   "`23053RN02A`": "Redmi 12 Global",
+   "`23053RN02Y`": "Redmi 12 Global (NFC)",
+   "`23053RN02L`": "Redmi 12 Latin America"
+  }
+ },
  "earth": {
   "internal_name": "C3T/C3TP",
   "name": "Redmi 12C/POCO C55",
