@@ -91,6 +91,9 @@ evergreen_eea_global - F
 evergreen_global - F
 evergreen_ru_global - F
 evergreen_tw_global - F
+fire_eea_global - F
+fire_global - F
+fire_ru_global - F
 fleur_eea_global - F
 fleur_eea_global - F
 fleur_global - F
