@@ -139,6 +139,10 @@ ingres_id_global - F
 ingres_ru_global - F
 ingres_tr_global - F
 ingres_tw_global - F
+ishtar_eea_global - F
+ishtar_global - F
+ishtar_ru_global - F
+ishtar_tw_global - F
 joyeuse_eea_global - F
 joyeuse_global - F
 joyeuse_id_global - F
