@@ -1,6 +1,19 @@
 {
  "items": [
   {
+   "id": 51,
+   "status": 1,
+   "deviceName": "Redmi 12",
+   "releaseDate": "2023-6",
+   "securityUpdateEol": "2027-6",
+   "updateFrequency": "90 days",
+   "updateFrequencyTl": "90 days",
+   "shippedVersion": "Android 13",
+   "futureVersion": "Android 14,Android 15",
+   "createdAt": "2023-06-21T01:13:09.000Z",
+   "updatedAt": "2023-06-21T01:13:13.000Z"
+  },
+  {
    "id": 44,
    "status": 1,
    "deviceName": "Redmi Note 12 5G",
@@ -586,5 +599,5 @@
    "updatedAt": "2021-11-15T12:35:15.000Z"
   }
  ],
- "total": 45
+ "total": 46
 }
