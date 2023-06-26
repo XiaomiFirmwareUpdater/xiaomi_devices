@@ -66,6 +66,12 @@
   }
  },
  {
+  "marble": {
+   "name": "POCO F5",
+   "model": "23049PCD8G"
+  }
+ },
+ {
   "shiva": {
    "name": "POCO M2",
    "model": "M2004J19PI"
@@ -225,6 +231,12 @@
   "rango": {
    "name": "MiTV",
    "model": "MiTV-AXFR0"
+  }
+ },
+ {
+  "marblein": {
+   "name": "POCO F5",
+   "model": "23049PCD8I"
   }
  },
  {
@@ -1131,6 +1143,12 @@
   "rubypro": {
    "name": "Redmi Note 12 Pro+ 5G",
    "model": "22101316UG"
+  }
+ },
+ {
+  "marble": {
+   "name": "Redmi Note 12 Turbo",
+   "model": "23049RAD8C"
   }
  },
  {
@@ -2796,6 +2814,12 @@
   }
  },
  {
+  "ishtar": {
+   "name": "Xiaomi 13 Ultra",
+   "model": "2304FPN6DG"
+  }
+ },
+ {
   "nuwa": {
    "name": "Xiaomi 13 pro",
    "model": "2210132C"
@@ -2859,6 +2883,12 @@
   "pipa": {
    "name": "Xiaomi Pad 6",
    "model": "23043RP34C"
+  }
+ },
+ {
+  "pipa": {
+   "name": "Xiaomi Pad 6",
+   "model": "23043RP34I"
   }
  },
  {
