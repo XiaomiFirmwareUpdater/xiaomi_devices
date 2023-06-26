@@ -429,6 +429,66 @@
     {
      "brand": "Redmi",
      "deviceName": "Redmi K30 5G Speed"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 10X (CN)",
+     "sku": "atom",
+     "projectCode": "J7A"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 10X Pro (CN)",
+     "sku": "bomb",
+     "projectCode": "J7B"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "POCO F2 Pro (GLOBAL)",
+     "sku": "lmi_global",
+     "projectCode": "J11"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 9 (EEA)",
+     "sku": "merlin_eea_global",
+     "projectCode": "J15S/J15N"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 9 (ID)",
+     "sku": "merlin_id_global",
+     "projectCode": "J15S/J15N"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 9 (GLOBAL)",
+     "sku": "merlin_global",
+     "projectCode": "J15S/J15N"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 9 (CN)",
+     "sku": "lancelot",
+     "projectCode": "J19/J19A"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 10X 4G (CN)",
+     "sku": "merlin",
+     "projectCode": "J15S/J15N"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 9A (GLOBAL)",
+     "sku": "dandelion_global",
+     "projectCode": "C3L/C3LV/C3LI"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi K30i 5G (CN)",
+     "sku": "picasso_48m",
+     "projectCode": "G7A"
     }
    ]
   },
@@ -449,5 +509,5 @@
    ]
   }
  ],
- "updateAt": "2023-05-23T19:58:13.000Z"
+ "updateAt": "2023-06-25T17:30:24.000Z"
 }
