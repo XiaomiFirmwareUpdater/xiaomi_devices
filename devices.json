@@ -420,6 +420,30 @@
   }
  },
  {
+  "fire": {
+   "name": "Redmi 12",
+   "model": "23053RN02A"
+  }
+ },
+ {
+  "fire": {
+   "name": "Redmi 12",
+   "model": "23053RN02I"
+  }
+ },
+ {
+  "fire": {
+   "name": "Redmi 12",
+   "model": "23053RN02L"
+  }
+ },
+ {
+  "heat": {
+   "name": "Redmi 12",
+   "model": "23053RN02Y"
+  }
+ },
+ {
   "aether": {
    "name": "Redmi 12C",
    "model": "22126RN91Y"
