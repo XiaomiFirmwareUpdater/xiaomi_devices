@@ -1619,12 +1619,11 @@
    "`22101317C`": "Redmi Note 12 5G China / Redmi Note 12R Pro China"
   }
  },
- "": {
-  "internal_name": "M19/K91",
-  "name": "Redmi Note 12R:/Xiaomi CyberDog:",
+ "sky": {
+  "internal_name": "M19",
+  "name": "Redmi Note 12R",
   "models": {
-   "`23076RA4BC`": "Redmi Note 12R China",
-   "`21051191C`": "Xiaomi CyberDog Bio-inspired Quadruped Robot"
+   "`23076RA4BC`": "Redmi Note 12R China"
   }
  },
  "ocean": {
@@ -2132,6 +2131,13 @@
   "name": "Xiaomi Mijia Translator (`FYJ01QP`)",
   "models": {
    "`FYJ01QP`": "Xiaomi Mijia Translator"
+  }
+ },
+ "": {
+  "internal_name": "K91",
+  "name": "Xiaomi CyberDog:",
+  "models": {
+   "`21051191C`": "Xiaomi CyberDog Bio-inspired Quadruped Robot"
   }
  }
 }
