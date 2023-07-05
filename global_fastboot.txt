@@ -388,4 +388,5 @@ zeus_tr_global - F
 zeus_tw_global - F
 ziyi_eea_global - F
 ziyi_global - F
+ziyi_ru_global - F
 ziyi_tw_global - F
