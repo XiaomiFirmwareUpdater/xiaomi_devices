@@ -19,7 +19,7 @@ def master():
     for key in data.keys():
         codenames.append(key)
     for i in codenames:
-        if i:
+        if i and "_pre_" not in i:
             DEVICES.append(i)
 
 
