@@ -17,7 +17,7 @@ def master():
           'xiaomi_devices/master/devices.json'
     data = get(url).json()
     for key, value in data.items():
-        if not key:
+        if not key or "_pre_" in key:
             continue
         if value['display_name_en']:
             DEVICES.update({key: value['display_name_en']})
