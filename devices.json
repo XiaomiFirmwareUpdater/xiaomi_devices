@@ -3919,6 +3919,10 @@
     "display_name": "XM-NUWA-GPP-GLOBAL",
     "display_name_en": "XM-NUWA-GPP-GLOBAL"
   },
+  "nuwa_id_global": {
+    "display_name": "XM-NUWA-ID-GLOBAL",
+    "display_name_en": "XM-NUWA-ID-GLOBAL"
+  },
   "nuwa_in_global": {
     "display_name": "Xiaomi 13 Pro",
     "display_name_en": "Xiaomi 13 Pro"
@@ -3942,6 +3946,10 @@
   "nuwa_pre_global": {
     "display_name": "Xiaomi 13 Pro",
     "display_name_en": "Xiaomi 13 Pro"
+  },
+  "nuwa_pre_id_global": {
+    "display_name": "XM-NUWA-PRE-ID-GLOBAL",
+    "display_name_en": "XM-NUWA-PRE-ID-GLOBAL"
   },
   "nuwa_pre_in_global": {
     "display_name": "Xiaomi 13 Pro",
