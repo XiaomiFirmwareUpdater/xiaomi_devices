@@ -236,6 +236,10 @@ opal_tw_global - F
 pine_eea_global - F
 pine_global - F
 pine_ru_global - F
+pipa_eea_global - F
+pipa_global - F
+pipa_in_global - F
+pipa_tw_global - F
 pissarro_eea_global - F
 pissarro_global - F
 pissarro_in_global - F
