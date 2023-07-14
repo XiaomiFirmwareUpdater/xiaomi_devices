@@ -2091,13 +2091,25 @@
     "display_name": "Xiaomi 13",
     "display_name_en": "Xiaomi 13"
   },
+  "fuxi_pre_ru_miui15_global": {
+    "display_name": "XM-FUXI-PRE-RU-MIUI15-GLOBAL",
+    "display_name_en": "XM-FUXI-PRE-RU-MIUI15-GLOBAL"
+  },
   "fuxi_pre_tr_global": {
     "display_name": "Xiaomi 13",
     "display_name_en": "Xiaomi 13"
   },
+  "fuxi_pre_tr_miui15_global": {
+    "display_name": "XM-FUXI-PRE-TR-MIUI15-GLOBAL",
+    "display_name_en": "XM-FUXI-PRE-TR-MIUI15-GLOBAL"
+  },
   "fuxi_pre_tw_global": {
     "display_name": "Xiaomi 13",
     "display_name_en": "Xiaomi 13"
+  },
+  "fuxi_pre_tw_miui15_global": {
+    "display_name": "XM-FUXI-PRE-TW-MIUI15-GLOBAL",
+    "display_name_en": "XM-FUXI-PRE-TW-MIUI15-GLOBAL"
   },
   "fuxi_ru_global": {
     "display_name": "Xiaomi 13",
@@ -3963,13 +3975,25 @@
     "display_name": "Xiaomi 13 Pro",
     "display_name_en": "Xiaomi 13 Pro"
   },
+  "nuwa_pre_ru_miui15_global": {
+    "display_name": "XM-NUWA-PRE-RU-MIUI15-GLOBAL",
+    "display_name_en": "XM-NUWA-PRE-RU-MIUI15-GLOBAL"
+  },
   "nuwa_pre_tr_global": {
     "display_name": "Xiaomi 13 Pro",
     "display_name_en": "Xiaomi 13 Pro"
   },
+  "nuwa_pre_tr_miui15_global": {
+    "display_name": "XM-NUWA-PRE-TR-MIUI15-GLOBAL",
+    "display_name_en": "XM-NUWA-PRE-TR-MIUI15-GLOBAL"
+  },
   "nuwa_pre_tw_global": {
     "display_name": "Xiaomi 13 Pro",
     "display_name_en": "Xiaomi 13 Pro"
+  },
+  "nuwa_pre_tw_miui15_global": {
+    "display_name": "XM-NUWA-PRE-TW-MIUI15-GLOBAL",
+    "display_name_en": "XM-NUWA-PRE-TW-MIUI15-GLOBAL"
   },
   "nuwa_qc_global": {
     "display_name": "XM-NUWA-QC-GLOBAL",
