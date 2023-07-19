@@ -3323,6 +3323,10 @@
     "display_name": "XM-MARBLE-PRE-EEA-GLOBAL",
     "display_name_en": "XM-MARBLE-PRE-EEA-GLOBAL"
   },
+  "marble_pre_eea_miui15_global": {
+    "display_name": "XM-MARBLE-PRE-EEA-MIUI15-GLOBAL",
+    "display_name_en": "XM-MARBLE-PRE-EEA-MIUI15-GLOBAL"
+  },
   "marble_pre_global": {
     "display_name": "POCO F5",
     "display_name_en": "POCO F5"
