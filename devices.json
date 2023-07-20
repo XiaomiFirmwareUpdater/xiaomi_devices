@@ -1720,12 +1720,12 @@
     "display_name_en": "Mi 4i"
   },
   "fire_cl_en_global": {
-    "display_name": "XM-FIRE-CL-EN-GLOBAL",
-    "display_name_en": "XM-FIRE-CL-EN-GLOBAL"
+    "display_name": "Redmi 12",
+    "display_name_en": "Redmi 12"
   },
   "fire_dc_global": {
-    "display_name": "XM-FIRE-DC-GLOBAL",
-    "display_name_en": "XM-FIRE-DC-GLOBAL"
+    "display_name": "Redmi 12",
+    "display_name_en": "Redmi 12"
   },
   "fire_eea_global": {
     "display_name": "Redmi 12",
@@ -1736,8 +1736,8 @@
     "display_name_en": "Redmi 12"
   },
   "fire_gt_tg_global": {
-    "display_name": "XM-FIRE-GT-TG-GLOBAL",
-    "display_name_en": "XM-FIRE-GT-TG-GLOBAL"
+    "display_name": "Redmi 12",
+    "display_name_en": "Redmi 12"
   },
   "fire_id_global": {
     "display_name": "Redmi 12",
@@ -1748,24 +1748,24 @@
     "display_name_en": "Redmi 12"
   },
   "fire_lm_cr_global": {
-    "display_name": "XM-FIRE-LM-CR-GLOBAL",
-    "display_name_en": "XM-FIRE-LM-CR-GLOBAL"
+    "display_name": "Redmi 12",
+    "display_name_en": "Redmi 12"
   },
   "fire_lm_ms_global": {
-    "display_name": "XM-FIRE-LM-MS-GLOBAL",
-    "display_name_en": "XM-FIRE-LM-MS-GLOBAL"
+    "display_name": "Redmi 12",
+    "display_name_en": "Redmi 12"
   },
   "fire_mx_at_global": {
     "display_name": "Redmi 12",
     "display_name_en": "Redmi 12"
   },
   "fire_mx_tc_global": {
-    "display_name": "XM-FIRE-MX-TC-GLOBAL",
-    "display_name_en": "XM-FIRE-MX-TC-GLOBAL"
+    "display_name": "Redmi 12",
+    "display_name_en": "Redmi 12"
   },
   "fire_pre_dc_global": {
-    "display_name": "XM-FIRE-PRE-DC-GLOBAL",
-    "display_name_en": "XM-FIRE-PRE-DC-GLOBAL"
+    "display_name": "Redmi 12",
+    "display_name_en": "Redmi 12"
   },
   "fire_pre_eea_global": {
     "display_name": "XM-FIRE-PRE-EEA-GLOBAL",
@@ -1800,8 +1800,8 @@
     "display_name_en": "XM-FIRE-PRE-TW-GLOBAL"
   },
   "fire_pre_za_vc_global": {
-    "display_name": "XM-FIRE-PRE-ZA-VC-GLOBAL",
-    "display_name_en": "XM-FIRE-PRE-ZA-VC-GLOBAL"
+    "display_name": "Redmi 12",
+    "display_name_en": "Redmi 12"
   },
   "fire_ru_global": {
     "display_name": "Redmi 12",
@@ -1812,12 +1812,12 @@
     "display_name_en": "Redmi 12"
   },
   "fire_za_mt_global": {
-    "display_name": "XM-FIRE-ZA-MT-GLOBAL",
-    "display_name_en": "XM-FIRE-ZA-MT-GLOBAL"
+    "display_name": "Redmi 12",
+    "display_name_en": "Redmi 12"
   },
   "fire_za_vc_global": {
-    "display_name": "XM-FIRE-ZA-VC-GLOBAL",
-    "display_name_en": "XM-FIRE-ZA-VC-GLOBAL"
+    "display_name": "Redmi 12",
+    "display_name_en": "Redmi 12"
   },
   "fleur_cl_en_global": {
     "display_name": "Redmi Note 11S",
@@ -5207,6 +5207,10 @@
     "display_name": "XM-SEA-PRE-EEA-GLOBAL",
     "display_name_en": "XM-SEA-PRE-EEA-GLOBAL"
   },
+  "sea_pre_eea_miui15_global": {
+    "display_name": "XM-SEA-PRE-EEA-MIUI15-GLOBAL",
+    "display_name_en": "XM-SEA-PRE-EEA-MIUI15-GLOBAL"
+  },
   "sea_pre_global": {
     "display_name": "XM-SEA-PRE-GLOBAL",
     "display_name_en": "XM-SEA-PRE-GLOBAL"
@@ -5222,6 +5226,10 @@
   "sea_pre_lm_ms_global": {
     "display_name": "XM-SEA-LM-MS-GLOBAL",
     "display_name_en": "XM-SEA-LM-MS-GLOBAL"
+  },
+  "sea_pre_miui15_global": {
+    "display_name": "XM-SEA-PRE-MIUI15-GLOBAL",
+    "display_name_en": "XM-SEA-PRE-MIUI15-GLOBAL"
   },
   "sea_pre_mx_at_global": {
     "display_name": "XM-SEA-MX-AT-GLOBAL",
@@ -6082,6 +6090,10 @@
   "taoyao_pre_lm_cr_global": {
     "display_name": "Xiaomi 12 Lite",
     "display_name_en": "Xiaomi 12 Lite"
+  },
+  "taoyao_pre_miui15_global": {
+    "display_name": "XM-TAOYAO-PRE-MIUI15-GLOBAL",
+    "display_name_en": "XM-TAOYAO-PRE-MIUI15-GLOBAL"
   },
   "taoyao_pre_ru_global": {
     "display_name": "Xiaomi 12 Lite",
