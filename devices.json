@@ -2071,6 +2071,10 @@
     "display_name": "Xiaomi 13",
     "display_name_en": "Xiaomi 13"
   },
+  "fuxi_pre_eea_gpp_global": {
+    "display_name": "XM-FUXI-PRE-EEA-GPP-GLOBAL",
+    "display_name_en": "XM-FUXI-PRE-EEA-GPP-GLOBAL"
+  },
   "fuxi_pre_eea_miui15_global": {
     "display_name": "XM-FUXI-PRE-EEA-MIUI15-GLOBAL",
     "display_name_en": "XM-FUXI-PRE-EEA-MIUI15-GLOBAL"
@@ -2078,6 +2082,10 @@
   "fuxi_pre_global": {
     "display_name": "Xiaomi 13",
     "display_name_en": "Xiaomi 13"
+  },
+  "fuxi_pre_gpp_global": {
+    "display_name": "XM-FUXI-PRE-GPP-GLOBAL",
+    "display_name_en": "XM-FUXI-PRE-GPP-GLOBAL"
   },
   "fuxi_pre_id_global": {
     "display_name": "Xiaomi 13",
@@ -3955,6 +3963,10 @@
     "display_name": "Xiaomi 13 Pro",
     "display_name_en": "Xiaomi 13 Pro"
   },
+  "nuwa_pre_eea_gpp_global": {
+    "display_name": "XM-NUWA-PRE-EEA-GPP-GLOBAL",
+    "display_name_en": "XM-NUWA-PRE-EEA-GPP-GLOBAL"
+  },
   "nuwa_pre_eea_miui15_global": {
     "display_name": "XM-NUWA-PRE-EEA-MIUI15-GLOBAL",
     "display_name_en": "XM-NUWA-PRE-EEA-MIUI15-GLOBAL"
@@ -3962,6 +3974,10 @@
   "nuwa_pre_global": {
     "display_name": "Xiaomi 13 Pro",
     "display_name_en": "Xiaomi 13 Pro"
+  },
+  "nuwa_pre_gpp_global": {
+    "display_name": "XM-NUWA-PRE-GPP-GLOBAL",
+    "display_name_en": "XM-NUWA-PRE-GPP-GLOBAL"
   },
   "nuwa_pre_id_global": {
     "display_name": "XM-NUWA-PRE-ID-GLOBAL",
@@ -4494,6 +4510,10 @@
   "plato_pre_global": {
     "display_name": "Xiaomi 12T",
     "display_name_en": "Xiaomi 12T"
+  },
+  "plato_pre_gpp_global": {
+    "display_name": "XM-PLATO-PRE-GPP-GLOBAL",
+    "display_name_en": "XM-PLATO-PRE-GPP-GLOBAL"
   },
   "plato_pre_id_global": {
     "display_name": "Xiaomi 12T",
@@ -6310,6 +6330,10 @@
   "topaz_pre_id_global": {
     "display_name": "Redmi Note 12",
     "display_name_en": "Redmi Note 12"
+  },
+  "topaz_pre_miui15_global": {
+    "display_name": "XM-TOPAZ-PRE-MIUI15-GLOBAL",
+    "display_name_en": "XM-TOPAZ-PRE-MIUI15-GLOBAL"
   },
   "topaz_pre_ru_global": {
     "display_name": "XM-TOPAZ-RU-GLOBAL",
