@@ -1,6 +1,19 @@
 {
  "items": [
   {
+   "id": 52,
+   "status": 1,
+   "deviceName": "Xiaomi Pad 6",
+   "releaseDate": "2023-7",
+   "securityUpdateEol": "90 days",
+   "updateFrequency": "90 days",
+   "updateFrequencyTl": "90 days",
+   "shippedVersion": "Android 13",
+   "futureVersion": "Android 14,Android 15",
+   "createdAt": "2023-07-24T02:03:39.000Z",
+   "updatedAt": "2023-07-24T02:03:46.000Z"
+  },
+  {
    "id": 51,
    "status": 1,
    "deviceName": "Redmi 12",
@@ -599,5 +612,5 @@
    "updatedAt": "2021-11-15T12:35:15.000Z"
   }
  ],
- "total": 46
+ "total": 47
 }
