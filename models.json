@@ -1111,10 +1111,18 @@
   }
  },
  "heat": {
-  "internal_name": "M19A",
+  "internal_name": "M19E",
   "name": "Redmi 12",
   "models": {
    "`23053RN02Y`": "Redmi 12 Global (NFC)"
+  }
+ },
+ "sky": {
+  "internal_name": "M19",
+  "name": "Redmi 12 5G/Redmi Note 12R",
+  "models": {
+   "`23076RN4BI`": "Redmi 12 5G India",
+   "`23076RA4BC`": "Redmi Note 12R China"
   }
  },
  "earth": {
@@ -1617,13 +1625,6 @@
    "`22111317G`": "Redmi Note 12 5G Global",
    "`22111317I`": "Redmi Note 12 5G India",
    "`22101317C`": "Redmi Note 12 5G China / Redmi Note 12R Pro China"
-  }
- },
- "sky": {
-  "internal_name": "M19",
-  "name": "Redmi Note 12R",
-  "models": {
-   "`23076RA4BC`": "Redmi Note 12R China"
   }
  },
  "ocean": {
