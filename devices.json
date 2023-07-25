@@ -987,6 +987,10 @@
     "display_name": "Xiaomi 12",
     "display_name_en": "Xiaomi 12"
   },
+  "cupid_cl_en_global": {
+    "display_name": "XM-CUPID-CL-EN-GLOBAL",
+    "display_name_en": "XM-CUPID-CL-EN-GLOBAL"
+  },
   "cupid_dck_global": {
     "display_name": "XM-CUPID-DCK-GLOBAL",
     "display_name_en": "XM-CUPID-DCK-GLOBAL"
@@ -7044,8 +7048,8 @@
     "display_name_en": "Redmi A2"
   },
   "water_eea_ti_global": {
-    "display_name": "XM-WATER-EEA-TI-GLOBAL",
-    "display_name_en": "XM-WATER-EEA-TI-GLOBAL"
+    "display_name": "Redmi A2",
+    "display_name_en": "Redmi A2"
   },
   "water_eea_vf_global": {
     "display_name": "Redmi A2",
@@ -7064,8 +7068,8 @@
     "display_name_en": "Redmi A2"
   },
   "water_in_dc_global": {
-    "display_name": "XM-WATER-IN-DC-GLOBAL",
-    "display_name_en": "XM-WATER-IN-DC-GLOBAL"
+    "display_name": "POCO C51",
+    "display_name_en": "POCO C51"
   },
   "water_in_global": {
     "display_name": "POCO C51/Redmi A2+/Redmi A2",
@@ -7100,8 +7104,8 @@
     "display_name_en": "HM-WATER-PRE-ID-GLOBAL"
   },
   "water_pre_in_dc_global": {
-    "display_name": "XM-WATER-PRE-IN-DC-GLOBAL",
-    "display_name_en": "XM-WATER-PRE-IN-DC-GLOBAL"
+    "display_name": "POCO C51",
+    "display_name_en": "POCO C51"
   },
   "water_pre_in_global": {
     "display_name": "HM-WATER-PRE-IN-GLOBAL",
