@@ -24,6 +24,12 @@
   }
  },
  {
+  "water": {
+   "name": "POCO C51",
+   "model": "2305EPCC4G"
+  }
+ },
+ {
   "earth": {
    "name": "POCO C55",
    "model": "22127PC95I"
