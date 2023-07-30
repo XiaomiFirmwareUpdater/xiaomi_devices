@@ -25,7 +25,6 @@ begonia_global - F
 begonia_id_global - F
 begonia_ru_global - F
 biloba_eea_global - F
-biloba_global - F
 biloba_ru_global - F
 camellian_eea_global - F
 camellian_eea_global - F
@@ -190,7 +189,6 @@ mojito_global - F
 mojito_id_global - F
 mojito_ru_global - F
 mojito_tr_global - F
-mondrian_eea_global - F
 mondrian_global - F
 mondrian_ru_global - F
 mondrian_tr_global - F
