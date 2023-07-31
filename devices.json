@@ -7343,6 +7343,10 @@
     "display_name": "Redmi Pad",
     "display_name_en": "Redmi Pad"
   },
+  "yunluo_pre_eea_miui15_global": {
+    "display_name": "XM-YUNLUO-PRE-EEA-MIUI15-GLOBAL",
+    "display_name_en": "XM-YUNLUO-PRE-EEA-MIUI15-GLOBAL"
+  },
   "yunluo_pre_global": {
     "display_name": "Redmi Pad",
     "display_name_en": "Redmi Pad"
@@ -7354,6 +7358,10 @@
   "yunluo_pre_in_global": {
     "display_name": "Redmi Pad",
     "display_name_en": "Redmi Pad"
+  },
+  "yunluo_pre_miui15_global": {
+    "display_name": "XM-YUNLUO-PRE-MIUI15-GLOBAL",
+    "display_name_en": "XM-YUNLUO-PRE-MIUI15-GLOBAL"
   },
   "yunluo_pre_ru_global": {
     "display_name": "Redmi Pad",
