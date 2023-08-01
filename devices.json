@@ -2531,6 +2531,10 @@
     "display_name": "POCO F4 GT",
     "display_name_en": "POCO F4 GT"
   },
+  "ingres_pre_miui15_global": {
+    "display_name": "XM-INGRES-PRE-MIUI15-GLOBAL",
+    "display_name_en": "XM-INGRES-PRE-MIUI15-GLOBAL"
+  },
   "ingres_pre_ru_global": {
     "display_name": "POCO F4 GT",
     "display_name_en": "POCO F4 GT"
@@ -2978,6 +2982,10 @@
   "light_pre_lm_cr_global": {
     "display_name": "Redmi 10 5G",
     "display_name_en": "Redmi 10 5G"
+  },
+  "light_pre_miui15_global": {
+    "display_name": "XM-LIGHT-PRE-MIUI15-GLOBAL",
+    "display_name_en": "XM-LIGHT-PRE-MIUI15-GLOBAL"
   },
   "light_pre_mx_tc_global": {
     "display_name": "XM-LIGHT-PRE-MX-TC-GLOBAL",
@@ -5110,6 +5118,10 @@
   "ruby_pre_lm_ms_global": {
     "display_name": "XM-RUBY-PRE-LM-MS-GLOBAL",
     "display_name_en": "XM-RUBY-PRE-LM-MS-GLOBAL"
+  },
+  "ruby_pre_miui15_global": {
+    "display_name": "XM-RUBY-PRE-MIUI15-GLOBAL",
+    "display_name_en": "XM-RUBY-PRE-MIUI15-GLOBAL"
   },
   "ruby_pre_mx_at_global": {
     "display_name": "XM-RUBY-PRE-MX-AT-GLOBAL",
