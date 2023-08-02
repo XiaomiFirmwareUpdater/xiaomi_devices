@@ -2095,6 +2095,10 @@
     "display_name": "Xiaomi 13",
     "display_name_en": "Xiaomi 13"
   },
+  "fuxi_pre_in_global": {
+    "display_name": "XM-FUXI-PRE-IN-GLOBAL",
+    "display_name_en": "XM-FUXI-PRE-IN-GLOBAL"
+  },
   "fuxi_pre_miui15_global": {
     "display_name": "XM-FUXI-PRE-MIUI15-GLOBAL",
     "display_name_en": "XM-FUXI-PRE-MIUI15-GLOBAL"
