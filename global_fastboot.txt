@@ -55,6 +55,7 @@ courbet_global - F
 courbet_ru_global - F
 cupid_eea_global - F
 cupid_global - F
+cupid_id_global - F
 cupid_ru_global - F
 cupid_tr_global - F
 cupid_tw_global - F
@@ -78,6 +79,7 @@ dipper_ru_global - F
 diting_eea_global - F
 diting_global - F
 diting_jp_global - F
+diting_ru_global - F
 diting_tw_global - F
 earth_eea_global - F
 earth_global - F
@@ -90,6 +92,7 @@ evergreen_global - F
 evergreen_ru_global - F
 evergreen_tw_global - F
 fire_eea_global - F
+fire_global - F
 fire_ru_global - F
 fleur_eea_global - F
 fleur_eea_global - F
@@ -110,6 +113,7 @@ fog_in_global - F
 fog_ru_global - F
 fog_tw_global - F
 frost_eea_global - F
+frost_global - F
 frost_id_global - F
 frost_ru_global - F
 frost_tw_global - F
@@ -157,6 +161,7 @@ lavender_global - F
 lavender_ru_global - F
 light_eea_global - F
 light_global - F
+light_id_global - F
 light_ru_global - F
 light_tr_global - F
 light_tw_global - F
@@ -208,6 +213,7 @@ munch_id_global - F
 munch_in_global - F
 munch_ru_global - F
 munch_tr_global - F
+munch_tw_global - F
 nabu_eea_global - F
 nabu_global - F
 nabu_in_global - F
@@ -217,6 +223,7 @@ nabu_tw_global - F
 nuwa_eea_global - F
 nuwa_global - F
 nuwa_in_global - F
+nuwa_ru_global - F
 nuwa_tr_global - F
 nuwa_tw_global - F
 olive_eea_global - F
@@ -245,6 +252,7 @@ plato_id_global - F
 plato_ru_global - F
 plato_tw_global - F
 psyche_eea_global - F
+psyche_global - F
 psyche_ru_global - F
 psyche_tw_global - F
 redwood_eea_global - F
@@ -263,9 +271,11 @@ rock_id_global - F
 rock_id_global - F
 rock_id_global - F
 rock_ru_global - F
+rock_tw_global - F
 rosemary_eea_global - F
 rosemary_global - F
 rosemary_p_global - F
+rosemary_p_id_global - F
 rosemary_p_ru_global - F
 rosemary_p_tw_global - F
 rosemary_ru_global - F
@@ -281,6 +291,7 @@ sea_eea_global - F
 sea_global - F
 sea_ru_global - F
 sea_tr_global - F
+sea_tw_global - F
 selene_eea_global - F
 selene_global - F
 selene_id_global - F
@@ -305,6 +316,7 @@ sweet_global - F
 sweet_id_global - F
 sweet_k6a_eea_global - F
 sweet_k6a_global - F
+sweet_k6a_ru_global - F
 sweet_k6a_tr_global - F
 sweet_ru_global - F
 sweet_tr_global - F
@@ -324,6 +336,8 @@ toco_ru_global - F
 topaz_eea_global - F
 topaz_global - F
 topaz_id_global - F
+topaz_ru_global - F
+tucana_eea_global - F
 tucana_global - F
 tucana_ru_global - F
 umi_global - F
@@ -350,11 +364,13 @@ veux_ru_global - F
 veux_ru_global - F
 veux_tr_global - F
 veux_tw_global - F
+veux_tw_global - F
 vili_eea_global - F
 vili_global - F
 vili_id_global - F
 vili_jp_global - F
 vili_ru_global - F
+vili_tw_global - F
 viva_eea_global - F
 viva_global - F
 viva_ru_global - F
@@ -365,6 +381,7 @@ water_in_global - F
 water_ru_global - F
 willow_eea_global - F
 willow_global - F
+xaga_eea_global - F
 xaga_global - F
 xaga_ru_global - F
 xaga_tr_global - F
@@ -372,6 +389,7 @@ xaga_tw_global - F
 yunluo_eea_global - F
 yunluo_global - F
 yunluo_tw_global - F
+zeus_eea_global - F
 zeus_global - F
 zeus_id_global - F
 zeus_in_global - F
