@@ -78,6 +78,12 @@
   }
  },
  {
+  "marble": {
+   "name": "POCO F5",
+   "model": "23049PCD8I"
+  }
+ },
+ {
   "shiva": {
    "name": "POCO M2",
    "model": "M2004J19PI"
