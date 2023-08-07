@@ -1076,7 +1076,7 @@
   }
  },
  "light": {
-  "internal_name": "L19/L19P/L19P",
+  "internal_name": "L19/L19P",
   "name": "Redmi 10 5G / Redmi 11 Prime 5G/Redmi Note 11E 5G/Redmi Note 11R/POCO M4 5G",
   "models": {
    "`22041219G`": "Redmi 10 5G Global",
@@ -1712,7 +1712,8 @@
   "name": "Redmi Note 12 Turbo/POCO F5",
   "models": {
    "`23049RAD8C`": "Redmi Note 12 Turbo China",
-   "`23049PCD8G`": "POCO F5 Global"
+   "`23049PCD8G`": "POCO F5 Global",
+   "`23049PCD8I`": "POCO F5 India"
   }
  },
  "atom": {
@@ -1854,8 +1855,7 @@
   "name": "Redmi K60/POCO F5 Pro",
   "models": {
    "`23013RK75C`": "Redmi K60 China",
-   "`23013PC75G`": "POCO F5 Pro Global",
-   "`23013PC75I`": "POCO F5 Pro India"
+   "`23013PC75G`": "POCO F5 Pro Global"
   }
  },
  "socrates": {
@@ -1955,13 +1955,6 @@
   "name": "POCO F3 GT",
   "models": {
    "`M2104K10I`": "POCO F3 GT India"
-  }
- },
- "marblein": {
-  "internal_name": "M16T",
-  "name": "POCO F5",
-  "models": {
-   "`23049PCD8I`": "POCO F5 India"
   }
  },
  "phoenixin": {
