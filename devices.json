@@ -2540,8 +2540,8 @@
     "display_name_en": "POCO F4 GT"
   },
   "ingres_pre_miui15_global": {
-    "display_name": "XM-INGRES-PRE-MIUI15-GLOBAL",
-    "display_name_en": "XM-INGRES-PRE-MIUI15-GLOBAL"
+    "display_name": "POCO F4 GT",
+    "display_name_en": "POCO F4 GT"
   },
   "ingres_pre_ru_global": {
     "display_name": "POCO F4 GT",
@@ -4539,6 +4539,10 @@
     "display_name": "Xiaomi 12T",
     "display_name_en": "Xiaomi 12T"
   },
+  "plato_pre_eea_miui15_global": {
+    "display_name": "Xiaomi 12T",
+    "display_name_en": "Xiaomi 12T"
+  },
   "plato_pre_global": {
     "display_name": "Xiaomi 12T",
     "display_name_en": "Xiaomi 12T"
@@ -4548,6 +4552,10 @@
     "display_name_en": "XM-PLATO-PRE-GPP-GLOBAL"
   },
   "plato_pre_id_global": {
+    "display_name": "Xiaomi 12T",
+    "display_name_en": "Xiaomi 12T"
+  },
+  "plato_pre_miui15_global": {
     "display_name": "Xiaomi 12T",
     "display_name_en": "Xiaomi 12T"
   },
@@ -5134,6 +5142,10 @@
   "ruby_pre_in_global": {
     "display_name": "Redmi Note 12 Pro 5G/Redmi Note 12 Pro+ 5G",
     "display_name_en": "Redmi Note 12 Pro 5G/Redmi Note 12 Pro+ 5G"
+  },
+  "ruby_pre_kr_global": {
+    "display_name": "Redmi Note 12 Pro+ 5G",
+    "display_name_en": "Redmi Note 12 Pro+ 5G"
   },
   "ruby_pre_lm_cr_global": {
     "display_name": "XM-RUBY-PRE-LM-CR-GLOBAL",
