@@ -558,12 +558,6 @@
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi Note 9 Pro (EEA)",
-     "sku": "joyeuse_eea_global",
-     "projectCode": "J6B2"
-    },
-    {
-     "brand": "Redmi",
      "deviceName": "Redmi 9 (EEA)",
      "sku": "lancelot_eea_global",
      "projectCode": "J19/J19A"
@@ -585,12 +579,6 @@
      "deviceName": "Redmi 9A (ID)",
      "sku": "dandelion_id_global",
      "projectCode": "C3L/C3LV/C3LI"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi Note 9 Pro (TR)",
-     "sku": "joyeuse_tr_global",
-     "projectCode": "J6B2"
     },
     {
      "brand": "Redmi",
@@ -647,5 +635,5 @@
    ]
   }
  ],
- "updateAt": "2023-07-24T01:06:53.000Z"
+ "updateAt": "2023-08-10T02:19:02.000Z"
 }
