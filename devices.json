@@ -95,6 +95,10 @@
     "display_name": "XM-AGATE-PRE-LM-CR-GLOBAL",
     "display_name_en": "XM-AGATE-PRE-LM-CR-GLOBAL"
   },
+  "agate_pre_miui15_global": {
+    "display_name": "Xiaomi 11T",
+    "display_name_en": "Xiaomi 11T"
+  },
   "agate_pre_mx_tc_global": {
     "display_name": "XM-AGATE-PRE-MX-TC-GLOBAL",
     "display_name_en": "XM-AGATE-PRE-MX-TC-GLOBAL"
@@ -1786,6 +1790,10 @@
   "fire_pre_in_global": {
     "display_name": "XM-FIRE-PRE-IN-GLOBAL",
     "display_name_en": "XM-FIRE-PRE-IN-GLOBAL"
+  },
+  "fire_pre_miui15_global": {
+    "display_name": "Redmi 12",
+    "display_name_en": "Redmi 12"
   },
   "fire_pre_mx_at_global": {
     "display_name": "XM-FIRE-MX-AT-GLOBAL",
@@ -3764,6 +3772,10 @@
     "display_name_en": "POCO X5 5G"
   },
   "moonstone_pre_in_global": {
+    "display_name": "POCO X5 5G",
+    "display_name_en": "POCO X5 5G"
+  },
+  "moonstone_pre_miui15_global": {
     "display_name": "POCO X5 5G",
     "display_name_en": "POCO X5 5G"
   },
@@ -5896,6 +5908,10 @@
     "display_name_en": "HM-SUNSTONE-PRE-ID-GLOBAL"
   },
   "sunstone_pre_in_global": {
+    "display_name": "Redmi Note 12 5G",
+    "display_name_en": "Redmi Note 12 5G"
+  },
+  "sunstone_pre_miui15_global": {
     "display_name": "Redmi Note 12 5G",
     "display_name_en": "Redmi Note 12 5G"
   },
