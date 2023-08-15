@@ -399,6 +399,10 @@
     "display_name": "Redmi 10X",
     "display_name_en": "Redmi 10X"
   },
+  "babylon": {
+    "display_name": "Xiaomi MIX Fold 3",
+    "display_name_en": "Xiaomi MIX Fold 3"
+  },
   "begonia": {
     "display_name": "Redmi Note 8 Pro",
     "display_name_en": "Redmi Note 8 Pro"
@@ -922,6 +926,78 @@
   "comet_global": {
     "display_name": "COMET-GLOBAL",
     "display_name_en": "COMET-GLOBAL"
+  },
+  "corot": {
+    "display_name": "Redmi K60 Ultra",
+    "display_name_en": "Redmi K60 Ultra"
+  },
+  "corot_eea_global": {
+    "display_name": "corot",
+    "display_name_en": "corot"
+  },
+  "corot_global": {
+    "display_name": "Xiaomi 13T Pro/corot",
+    "display_name_en": "Xiaomi 13T Pro/corot"
+  },
+  "corot_jp_global": {
+    "display_name": "corot",
+    "display_name_en": "corot"
+  },
+  "corot_jp_sb_global": {
+    "display_name": "corot",
+    "display_name_en": "corot"
+  },
+  "corot_pre_eea_global": {
+    "display_name": "Xiaomi 13T Pro",
+    "display_name_en": "Xiaomi 13T Pro"
+  },
+  "corot_pre_eea_miui15_global": {
+    "display_name": "XM-COROT-PRE-EEA-MIUI15-GLOBAL",
+    "display_name_en": "XM-COROT-PRE-EEA-MIUI15-GLOBAL"
+  },
+  "corot_pre_global": {
+    "display_name": "Xiaomi 13T Pro",
+    "display_name_en": "Xiaomi 13T Pro"
+  },
+  "corot_pre_jp_global": {
+    "display_name": "corot",
+    "display_name_en": "corot"
+  },
+  "corot_pre_jp_sb_global": {
+    "display_name": "corot",
+    "display_name_en": "corot"
+  },
+  "corot_pre_lm_cr_global": {
+    "display_name": "XM-COROT-PRE-LM-CR-GLOBAL",
+    "display_name_en": "XM-COROT-PRE-LM-CR-GLOBAL"
+  },
+  "corot_pre_miui15_global": {
+    "display_name": "XM-COROT-PRE-MIUI15-GLOBAL",
+    "display_name_en": "XM-COROT-PRE-MIUI15-GLOBAL"
+  },
+  "corot_pre_ru_global": {
+    "display_name": "Xiaomi 13T Pro",
+    "display_name_en": "Xiaomi 13T Pro"
+  },
+  "corot_pre_tr_global": {
+    "display_name": "Xiaomi 13T Pro",
+    "display_name_en": "Xiaomi 13T Pro"
+  },
+  "corot_pre_tw_global": {
+    "display_name": "Xiaomi 13T Pro",
+    "display_name_en": "Xiaomi 13T Pro"
+  },
+  "corot_ru_global": {
+    "display_name": "corot",
+    "display_name_en": "corot"
+  },
+  "corot_tr_global": {
+    "display_name": "corot",
+    "display_name_en": "corot"
+  },
+  "corot_tw_global": {
+    "display_name": "corot",
+    "display_name_en": "corot"
   },
   "courbet_eea_global": {
     "display_name": "Mi 11 Lite",
@@ -7339,6 +7415,62 @@
     "display_name": "POCO X4 GT",
     "display_name_en": "POCO X4 GT"
   },
+  "xun": {
+    "display_name": "XM-XUN",
+    "display_name_en": "XM-XUN"
+  },
+  "xun_eea_global": {
+    "display_name": "XM-XUN-EEA-GLOBAL",
+    "display_name_en": "XM-XUN-EEA-GLOBAL"
+  },
+  "xun_global": {
+    "display_name": "XM-XUN-GLOBAL",
+    "display_name_en": "XM-XUN-GLOBAL"
+  },
+  "xun_id_global": {
+    "display_name": "XM-XUN-ID-GLOBAL",
+    "display_name_en": "XM-XUN-ID-GLOBAL"
+  },
+  "xun_pre_eea_global": {
+    "display_name": "XM-XUN-EEA-GLOBAL",
+    "display_name_en": "XM-XUN-EEA-GLOBAL"
+  },
+  "xun_pre_global": {
+    "display_name": "XM-XUN-GLOBAL",
+    "display_name_en": "XM-XUN-GLOBAL"
+  },
+  "xun_pre_id_global": {
+    "display_name": "XM-XUN-ID-GLOBAL",
+    "display_name_en": "XM-XUN-ID-GLOBAL"
+  },
+  "xun_pre_miui15_global": {
+    "display_name": "XM-XUN-PRE-MIUI15-GLOBAL",
+    "display_name_en": "XM-XUN-PRE-MIUI15-GLOBAL"
+  },
+  "xun_pre_ru_global": {
+    "display_name": "XM-XUN-RU-GLOBAL",
+    "display_name_en": "XM-XUN-RU-GLOBAL"
+  },
+  "xun_pre_tr_global": {
+    "display_name": "XM-XUN-TR-GLOBAL",
+    "display_name_en": "XM-XUN-TR-GLOBAL"
+  },
+  "xun_pre_tw_global": {
+    "display_name": "XM-XUN-TW-GLOBAL",
+    "display_name_en": "XM-XUN-TW-GLOBAL"
+  },
+  "xun_ru_global": {
+    "display_name": "XM-XUN-RU-GLOBAL",
+    "display_name_en": "XM-XUN-RU-GLOBAL"
+  },
+  "xun_tr_global": {
+    "display_name": "XM-XUN-TR-GLOBAL",
+    "display_name_en": "XM-XUN-TR-GLOBAL"
+  },
+  "xun_tw_global": {
+    "display_name": "XM-XUN-TW-GLOBAL",
+    "display_name_en": "XM-XUN-TW-GLOBAL"
+  },
   "ysl": {
     "display_name": "红米S2",
     "display_name_en": "Redmi S2"
@@ -7378,6 +7510,10 @@
   "ysl_tr_turkcell_global": {
     "display_name": "Redmi S2",
     "display_name_en": "Redmi S2"
+  },
+  "yudi": {
+    "display_name": "Xiaomi Pad 6 Max 14",
+    "display_name_en": "Xiaomi Pad 6 Max 14"
   },
   "yuechu": {
     "display_name": "Xiaomi Civi 3",
