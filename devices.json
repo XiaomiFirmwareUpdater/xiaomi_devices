@@ -1239,6 +1239,22 @@
     "display_name": "Redmi Note 9S",
     "display_name_en": "Redmi Note 9S"
   },
+  "cuttlefish_mtk_pre_global": {
+    "display_name": "XM-CUTTLEFISH-MTK-PRE-GLOBAL",
+    "display_name_en": "XM-CUTTLEFISH-MTK-PRE-GLOBAL"
+  },
+  "cuttlefish_qcom_foldable_pre_global": {
+    "display_name": "cuttlefish_qcom_foldable",
+    "display_name_en": "cuttlefish_qcom_foldable"
+  },
+  "cuttlefish_qcom_pad_pre_global": {
+    "display_name": "cuttlefish_qcom_pad",
+    "display_name_en": "cuttlefish_qcom_pad"
+  },
+  "cuttlefish_qcom_pre_global": {
+    "display_name": "XM-CUTTLEFISH-QCOM-PRE-GLOBAL",
+    "display_name_en": "XM-CUTTLEFISH-QCOM-PRE-GLOBAL"
+  },
   "dagu": {
     "display_name": "小米平板5 Pro 12.4",
     "display_name_en": "Xiaomi Pad 5 Pro 12.4"
@@ -5164,6 +5180,10 @@
     "display_name_en": "Redmi 5"
   },
   "rubens": {
+    "display_name": "Redmi K50",
+    "display_name_en": "Redmi K50"
+  },
+  "rubens_pre_miui15_global": {
     "display_name": "Redmi K50",
     "display_name_en": "Redmi K50"
   },
