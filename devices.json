@@ -840,6 +840,12 @@
   }
  },
  {
+  "corot": {
+   "name": "Redmi K60 Ultra",
+   "model": "23078RKD5C"
+  }
+ },
+ {
   "rembrandt": {
    "name": "Redmi K60E",
    "model": "22122RK93C"
@@ -2886,6 +2892,12 @@
   }
  },
  {
+  "babylon": {
+   "name": "Xiaomi MIX Fold 3",
+   "model": "2308CPXD0C"
+  }
+ },
+ {
   "nabu": {
    "name": "Xiaomi Pad 5",
    "model": "21051182C"
@@ -2931,6 +2943,12 @@
   "pipa": {
    "name": "Xiaomi Pad 6",
    "model": "23043RP34I"
+  }
+ },
+ {
+  "yudi": {
+   "name": "Xiaomi Pad 6 Max 14",
+   "model": "2307BRPDCC"
   }
  },
  {
