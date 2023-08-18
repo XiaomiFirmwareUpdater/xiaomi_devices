@@ -18,13 +18,13 @@
    "status": 1,
    "deviceName": "Xiaomi Pad 6",
    "releaseDate": "2023-6",
-   "securityUpdateEol": "90 days",
+   "securityUpdateEol": "2026-6",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 13",
    "futureVersion": "Android 14,Android 15",
    "createdAt": "2023-07-24T02:03:39.000Z",
-   "updatedAt": "2023-08-03T01:44:13.000Z"
+   "updatedAt": "2023-08-17T13:08:05.000Z"
   },
   {
    "id": 44,
