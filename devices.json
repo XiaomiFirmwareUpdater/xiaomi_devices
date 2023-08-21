@@ -1483,6 +1483,10 @@
     "display_name": "Xiaomi 12T Pro",
     "display_name_en": "Xiaomi 12T Pro"
   },
+  "diting_pre_eea_miui15_global": {
+    "display_name": "Xiaomi 12T Pro",
+    "display_name_en": "Xiaomi 12T Pro"
+  },
   "diting_pre_global": {
     "display_name": "Xiaomi 12T Pro",
     "display_name_en": "Xiaomi 12T Pro"
@@ -3855,6 +3859,10 @@
     "display_name": "POCO X5 5G",
     "display_name_en": "POCO X5 5G"
   },
+  "moonstone_pre_eea_miui15_global": {
+    "display_name": "POCO X5 5G",
+    "display_name_en": "POCO X5 5G"
+  },
   "moonstone_pre_global": {
     "display_name": "POCO X5 5G",
     "display_name_en": "POCO X5 5G"
@@ -3864,6 +3872,10 @@
     "display_name_en": "POCO X5 5G"
   },
   "moonstone_pre_in_global": {
+    "display_name": "POCO X5 5G",
+    "display_name_en": "POCO X5 5G"
+  },
+  "moonstone_pre_in_miui15_global": {
     "display_name": "POCO X5 5G",
     "display_name_en": "POCO X5 5G"
   },
@@ -6008,6 +6020,10 @@
     "display_name_en": "HM-SUNSTONE-PRE-ID-GLOBAL"
   },
   "sunstone_pre_in_global": {
+    "display_name": "Redmi Note 12 5G",
+    "display_name_en": "Redmi Note 12 5G"
+  },
+  "sunstone_pre_in_miui15_global": {
     "display_name": "Redmi Note 12 5G",
     "display_name_en": "Redmi Note 12 5G"
   },
