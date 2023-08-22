@@ -126,6 +126,8 @@ fuxi_tw_global - F
 gauguin_eea_global - F
 gauguin_global - F
 gauguin_tw_global - F
+ginkgo_eea_global - F
+ginkgo_global - F
 haydn_eea_global - F
 haydn_global - F
 haydn_in_global - F
