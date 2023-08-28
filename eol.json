@@ -609,6 +609,72 @@
      "deviceName": "Redmi 9C (GLOBAL)",
      "sku": "angelica_global",
      "projectCode": "C3M"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 9C NFC (RU)",
+     "sku": "angelican_ru_global",
+     "projectCode": "C3MN"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi K30 Ultra (CN)",
+     "sku": "cezanne",
+     "projectCode": "J10"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 9 (GLOBAL)",
+     "sku": "merlin_in_global",
+     "projectCode": "J15S/J15N"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 9C (EEA)",
+     "sku": "angelica_eea_global",
+     "projectCode": "C3M"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 9 (GLOBAL)",
+     "sku": "lancelot_global",
+     "projectCode": "J19/J19A"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 9 (IN)",
+     "sku": "cattail_in_global",
+     "projectCode": "C3MI"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 9 (RU)",
+     "sku": "lancelot_ru_global",
+     "projectCode": "J19/J19A"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 9C (ID)",
+     "sku": "angelica_id_global",
+     "projectCode": "C3M"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 9C NFC (EEA)",
+     "sku": "angelican_eea_global",
+     "projectCode": "C3MN"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 9A (TR)",
+     "sku": "dandelion_tr_global",
+     "projectCode": "C3L/C3LV/C3LI"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 9 Prime (IN)",
+     "sku": "lancelot_in_global",
+     "projectCode": "J19/J19A"
     }
    ]
   },
@@ -631,9 +697,15 @@
      "deviceName": "Redmi Note 10 5G (MX)",
      "sku": "camellian_mx_at_global",
      "projectCode": "K19/K19P"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO M2 Pro (IN)",
+     "sku": "gram_in_global",
+     "projectCode": "J6C"
     }
    ]
   }
  ],
- "updateAt": "2023-08-10T02:19:02.000Z"
+ "updateAt": "2023-08-28T10:03:32.000Z"
 }
