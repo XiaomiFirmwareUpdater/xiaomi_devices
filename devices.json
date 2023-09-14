@@ -1380,6 +1380,12 @@
   }
  },
  {
+  "xun": {
+   "name": "Redmi Pad SE",
+   "model": "23073RPBFL"
+  }
+ },
+ {
   "tarzan": {
    "name": "Smart TV",
    "model": "MiTV-MOOQ3"
@@ -2358,6 +2364,12 @@
   }
  },
  {
+  "irobot": {
+   "name": "MiTV",
+   "model": "MiTV-MOSR4"
+  }
+ },
+ {
   "machuca": {
    "name": "MiTV",
    "model": "MiTV-MSSP3"
@@ -2400,9 +2412,21 @@
   }
  },
  {
+  "venom": {
+   "name": "MiTV",
+   "model": "MiTV-MOOR6"
+  }
+ },
+ {
   "volver": {
    "name": "MiTV",
    "model": "MiTV-MSSP2"
+  }
+ },
+ {
+  "watchmen": {
+   "name": "MiTV",
+   "model": "MiTV-AXFR2"
   }
  },
  {
