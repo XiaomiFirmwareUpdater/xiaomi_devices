@@ -2247,6 +2247,122 @@
     "display_name": "Xiaomi 13",
     "display_name_en": "Xiaomi 13"
   },
+  "garnet": {
+    "display_name": "XM-GARNET",
+    "display_name_en": "XM-GARNET"
+  },
+  "garnet_cl_en_global": {
+    "display_name": "XM-GARNET-CL-EN-GLOBAL",
+    "display_name_en": "XM-GARNET-CL-EN-GLOBAL"
+  },
+  "garnet_dc_global": {
+    "display_name": "XM-GARNET-DC-GLOBAL",
+    "display_name_en": "XM-GARNET-DC-GLOBAL"
+  },
+  "garnet_eea_global": {
+    "display_name": "XM-GARNET-EEA-GLOBAL",
+    "display_name_en": "XM-GARNET-EEA-GLOBAL"
+  },
+  "garnet_global": {
+    "display_name": "XM-GARNET-GLOBAL",
+    "display_name_en": "XM-GARNET-GLOBAL"
+  },
+  "garnet_id_global": {
+    "display_name": "XM-GARNET-ID-GLOBAL",
+    "display_name_en": "XM-GARNET-ID-GLOBAL"
+  },
+  "garnet_in_global": {
+    "display_name": "XM-GARNET-IN-GLOBAL",
+    "display_name_en": "XM-GARNET-IN-GLOBAL"
+  },
+  "garnet_lm_cr_global": {
+    "display_name": "XM-GARNET-LM-CR-GLOBAL",
+    "display_name_en": "XM-GARNET-LM-CR-GLOBAL"
+  },
+  "garnet_lm_ms_global": {
+    "display_name": "XM-GARNET-LM-MS-GLOBAL",
+    "display_name_en": "XM-GARNET-LM-MS-GLOBAL"
+  },
+  "garnet_mx_at_global": {
+    "display_name": "XM-GARNET-MX-AT-GLOBAL",
+    "display_name_en": "XM-GARNET-MX-AT-GLOBAL"
+  },
+  "garnet_mx_tc_global": {
+    "display_name": "XM-GARNET-MX-TC-GLOBAL",
+    "display_name_en": "XM-GARNET-MX-TC-GLOBAL"
+  },
+  "garnet_pre_cl_en_global": {
+    "display_name": "XM-GARNET-PRE-CL-EN-GLOBAL",
+    "display_name_en": "XM-GARNET-PRE-CL-EN-GLOBAL"
+  },
+  "garnet_pre_dc_global": {
+    "display_name": "XM-GARNET-PRE-DC-GLOBAL",
+    "display_name_en": "XM-GARNET-PRE-DC-GLOBAL"
+  },
+  "garnet_pre_eea_global": {
+    "display_name": "XM-GARNET-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-GARNET-PRE-EEA-GLOBAL"
+  },
+  "garnet_pre_eea_miui15_global": {
+    "display_name": "XM-GARNET-PRE-EEA-MIUI15-GLOBAL",
+    "display_name_en": "XM-GARNET-PRE-EEA-MIUI15-GLOBAL"
+  },
+  "garnet_pre_global": {
+    "display_name": "XM-GARNET-PRE-GLOBAL",
+    "display_name_en": "XM-GARNET-PRE-GLOBAL"
+  },
+  "garnet_pre_id_global": {
+    "display_name": "XM-GARNET-PRE-ID-GLOBAL",
+    "display_name_en": "XM-GARNET-PRE-ID-GLOBAL"
+  },
+  "garnet_pre_in_global": {
+    "display_name": "XM-GARNET-PRE-IN-GLOBAL",
+    "display_name_en": "XM-GARNET-PRE-IN-GLOBAL"
+  },
+  "garnet_pre_lm_cr_global": {
+    "display_name": "XM-GARNET-PRE-LM-CR-GLOBAL",
+    "display_name_en": "XM-GARNET-PRE-LM-CR-GLOBAL"
+  },
+  "garnet_pre_lm_ms_global": {
+    "display_name": "XM-GARNET-PRE-LM-MS-GLOBAL",
+    "display_name_en": "XM-GARNET-PRE-LM-MS-GLOBAL"
+  },
+  "garnet_pre_miui15_global": {
+    "display_name": "XM-GARNET-PRE-MIUI15-GLOBAL",
+    "display_name_en": "XM-GARNET-PRE-MIUI15-GLOBAL"
+  },
+  "garnet_pre_mx_at_global": {
+    "display_name": "XM-GARNET-PRE-MX-AT-GLOBAL",
+    "display_name_en": "XM-GARNET-PRE-MX-AT-GLOBAL"
+  },
+  "garnet_pre_mx_tc_global": {
+    "display_name": "XM-GARNET-PRE-MX-TC-GLOBAL",
+    "display_name_en": "XM-GARNET-PRE-MX-TC-GLOBAL"
+  },
+  "garnet_pre_ru_global": {
+    "display_name": "XM-GARNET-PRE-RU-GLOBAL",
+    "display_name_en": "XM-GARNET-PRE-RU-GLOBAL"
+  },
+  "garnet_pre_tr_global": {
+    "display_name": "XM-GARNET-PRE-TR-GLOBAL",
+    "display_name_en": "XM-GARNET-PRE-TR-GLOBAL"
+  },
+  "garnet_pre_tw_global": {
+    "display_name": "XM-GARNET-PRE-TW-GLOBAL",
+    "display_name_en": "XM-GARNET-PRE-TW-GLOBAL"
+  },
+  "garnet_ru_global": {
+    "display_name": "XM-GARNET-RU-GLOBAL",
+    "display_name_en": "XM-GARNET-RU-GLOBAL"
+  },
+  "garnet_tr_global": {
+    "display_name": "XM-GARNET-TR-GLOBAL",
+    "display_name_en": "XM-GARNET-TR-GLOBAL"
+  },
+  "garnet_tw_global": {
+    "display_name": "XM-GARNET-TW-GLOBAL",
+    "display_name_en": "XM-GARNET-TW-GLOBAL"
+  },
   "gauguin": {
     "display_name": "Redmi Note 9 pro",
     "display_name_en": "Redmi Note 9 pro"
@@ -7730,6 +7846,90 @@
   "zijin": {
     "display_name": "Xiaomi Civi 1S",
     "display_name_en": "Xiaomi Civi 1S"
+  },
+  "zircon": {
+    "display_name": "Redmi Note 13 Pro+ ",
+    "display_name_en": "Redmi Note 13 Pro+ "
+  },
+  "zircon_dc_global": {
+    "display_name": "XM-ZIRCON-DC-GLOBAL",
+    "display_name_en": "XM-ZIRCON-DC-GLOBAL"
+  },
+  "zircon_eea_global": {
+    "display_name": "XM-ZIRCON-EEA-GLOBAL",
+    "display_name_en": "XM-ZIRCON-EEA-GLOBAL"
+  },
+  "zircon_global": {
+    "display_name": "XM-ZIRCON-GLOBAL",
+    "display_name_en": "XM-ZIRCON-GLOBAL"
+  },
+  "zircon_id_global": {
+    "display_name": "XM-ZIRCON-ID-GLOBAL",
+    "display_name_en": "XM-ZIRCON-ID-GLOBAL"
+  },
+  "zircon_in_global": {
+    "display_name": "XM-ZIRCON-IN-GLOBAL",
+    "display_name_en": "XM-ZIRCON-IN-GLOBAL"
+  },
+  "zircon_lm_cr_global": {
+    "display_name": "XM-ZIRCON-LM-CR-GLOBAL",
+    "display_name_en": "XM-ZIRCON-LM-CR-GLOBAL"
+  },
+  "zircon_mx_tc_global": {
+    "display_name": "XM-ZIRCON-MX-TC-GLOBAL",
+    "display_name_en": "XM-ZIRCON-MX-TC-GLOBAL"
+  },
+  "zircon_pre_dc_global": {
+    "display_name": "XM-ZIRCON-PRE-DC-GLOBAL",
+    "display_name_en": "XM-ZIRCON-PRE-DC-GLOBAL"
+  },
+  "zircon_pre_eea_global": {
+    "display_name": "XM-ZIRCON-EEA-GLOBAL",
+    "display_name_en": "XM-ZIRCON-EEA-GLOBAL"
+  },
+  "zircon_pre_global": {
+    "display_name": "XM-ZIRCON-GLOBAL",
+    "display_name_en": "XM-ZIRCON-GLOBAL"
+  },
+  "zircon_pre_id_global": {
+    "display_name": "XM-ZIRCON-PRE-ID-GLOBAL",
+    "display_name_en": "XM-ZIRCON-PRE-ID-GLOBAL"
+  },
+  "zircon_pre_in_global": {
+    "display_name": "XM-ZIRCON-IN-GLOBAL",
+    "display_name_en": "XM-ZIRCON-IN-GLOBAL"
+  },
+  "zircon_pre_lm_cr_global": {
+    "display_name": "XM-ZIRCON-LM-CR-GLOBAL",
+    "display_name_en": "XM-ZIRCON-LM-CR-GLOBAL"
+  },
+  "zircon_pre_mx_tc_global": {
+    "display_name": "XM-ZIRCON-PRE-MX-TC-GLOBAL",
+    "display_name_en": "XM-ZIRCON-PRE-MX-TC-GLOBAL"
+  },
+  "zircon_pre_ru_global": {
+    "display_name": "XM-ZIRCON-RU-GLOBAL",
+    "display_name_en": "XM-ZIRCON-RU-GLOBAL"
+  },
+  "zircon_pre_tr_global": {
+    "display_name": "XM-ZIRCON-TR-GLOBAL",
+    "display_name_en": "XM-ZIRCON-TR-GLOBAL"
+  },
+  "zircon_pre_tw_global": {
+    "display_name": "XM-ZIRCON-TW-GLOBAL",
+    "display_name_en": "XM-ZIRCON-TW-GLOBAL"
+  },
+  "zircon_ru_global": {
+    "display_name": "XM-ZIRCON-RU-GLOBAL",
+    "display_name_en": "XM-ZIRCON-RU-GLOBAL"
+  },
+  "zircon_tr_global": {
+    "display_name": "XM-ZIRCON-TR-GLOBAL",
+    "display_name_en": "XM-ZIRCON-TR-GLOBAL"
+  },
+  "zircon_tw_global": {
+    "display_name": "XM-ZIRCON-TW-GLOBAL",
+    "display_name_en": "XM-ZIRCON-TW-GLOBAL"
   },
   "ziyi": {
     "display_name": "Xiaomi civi2",
