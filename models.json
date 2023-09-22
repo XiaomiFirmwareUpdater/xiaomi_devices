@@ -517,6 +517,8 @@
   "name": "Xiaomi 13T Pro/Redmi K60 Ultra",
   "models": {
    "`23078PND5G`": "Xiaomi 13T Pro Global",
+   "`23088PND5R`": "Xiaomi 13T Pro Japan (SIM Free)",
+   "`A301XM`": "Xiaomi 13T Pro Japan (SoftBank)",
    "`23078RKD5C`": "Redmi K60 Ultra China"
   }
  },
@@ -1684,7 +1686,7 @@
   }
  },
  "rubypro": {
-  "internal_name": "M16UP",
+  "internal_name": "M16U",
   "name": "Redmi Note 12 Pro+ 5G",
   "models": {
    "`22101316UG`": "Redmi Note 12 Pro+ 5G Global",
@@ -1722,6 +1724,33 @@
    "`23049RAD8C`": "Redmi Note 12 Turbo China",
    "`23049PCD8G`": "POCO F5 Global",
    "`23049PCD8I`": "POCO F5 India"
+  }
+ },
+ "gold": {
+  "internal_name": "N17",
+  "name": "Redmi Note 13 5G",
+  "models": {
+   "`2312DRAABG`": "Redmi Note 13 5G Global",
+   "`2312DRAABI`": "Redmi Note 13 5G India",
+   "`2312DRAABC`": "Redmi Note 13 5G China"
+  }
+ },
+ "garnet": {
+  "internal_name": "",
+  "name": "Redmi Note 13 Pro 5G (`garnet`)",
+  "models": {
+   "`2312DRA50G`": "Redmi Note 13 Pro 5G Global",
+   "`2312DRA50I`": "Redmi Note 13 Pro 5G India",
+   "`2312DRA50C` `2312CRAD3C`": "Redmi Note 13 Pro 5G China"
+  }
+ },
+ "zircon": {
+  "internal_name": "N16U",
+  "name": "Redmi Note 13 Pro+ 5G",
+  "models": {
+   "`23090RA98G`": "Redmi Note 13 Pro+ 5G Global",
+   "`23090RA98I`": "Redmi Note 13 Pro+ 5G India",
+   "`23090RA98C`": "Redmi Note 13 Pro+ 5G China"
   }
  },
  "atom": {
