@@ -1218,6 +1218,18 @@
   }
  },
  {
+  "gold": {
+   "name": "Redmi Note 13 5G",
+   "model": "2312DRAABC"
+  }
+ },
+ {
+  "zircon": {
+   "name": "Redmi Note 13 Pro+",
+   "model": "23090RA98C"
+  }
+ },
+ {
   "lavender": {
    "name": "Redmi Note 7",
    "model": "Redmi Note 7"
