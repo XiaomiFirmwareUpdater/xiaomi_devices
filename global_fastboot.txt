@@ -32,6 +32,7 @@ camellia_in_global - F
 camellian_eea_global - F
 camellian_eea_global - F
 camellian_global - F
+camellian_global - F
 camellian_id_global - F
 camellian_id_global - F
 camellian_ru_global - F
@@ -103,6 +104,7 @@ fire_ru_global - F
 fleur_eea_global - F
 fleur_eea_global - F
 fleur_global - F
+fleur_global - F
 fleur_id_global - F
 fleur_id_global - F
 fleur_in_global - F
@@ -166,6 +168,7 @@ laurel_sprout_global - F
 lavender_eea_global - F
 lavender_global - F
 lavender_in_global - F
+lavender_ru_global - F
 light_eea_global - F
 light_global - F
 light_id_global - F
@@ -219,7 +222,6 @@ munch_eea_global - F
 munch_global - F
 munch_id_global - F
 munch_in_global - F
-munch_ru_global - F
 munch_tr_global - F
 munch_tw_global - F
 nabu_eea_global - F
@@ -302,6 +304,7 @@ sea_global - F
 sea_ru_global - F
 sea_tr_global - F
 sea_tw_global - F
+selene_eea_global - F
 selene_global - F
 selene_id_global - F
 selene_ru_global - F
@@ -314,6 +317,7 @@ spesn_eea_global - F
 spesn_global - F
 spesn_ru_global - F
 star_eea_global - F
+star_global - F
 star_id_global - F
 star_in_global - F
 sunstone_global - F
@@ -326,6 +330,7 @@ sweet_global - F
 sweet_id_global - F
 sweet_k6a_eea_global - F
 sweet_k6a_global - F
+sweet_k6a_ru_global - F
 sweet_k6a_tr_global - F
 sweet_ru_global - F
 sweet_tr_global - F
@@ -343,7 +348,6 @@ toco_eea_global - F
 toco_global - F
 toco_ru_global - F
 topaz_eea_global - F
-topaz_global - F
 topaz_id_global - F
 topaz_ru_global - F
 tucana_eea_global - F
