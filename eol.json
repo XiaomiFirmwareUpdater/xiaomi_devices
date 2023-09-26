@@ -675,6 +675,18 @@
      "deviceName": "Redmi 9 Prime (IN)",
      "sku": "lancelot_in_global",
      "projectCode": "J19/J19A"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 9C NFC (GLOBAL)",
+     "sku": "angelican_global",
+     "projectCode": "C3MN"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 9C (TR)",
+     "sku": "angelica_tr_global",
+     "projectCode": "C3M"
     }
    ]
   },
@@ -707,5 +719,5 @@
    ]
   }
  ],
- "updateAt": "2023-08-28T10:03:32.000Z"
+ "updateAt": "2023-09-25T22:24:52.000Z"
 }
