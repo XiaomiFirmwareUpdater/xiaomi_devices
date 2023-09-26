@@ -387,6 +387,126 @@
     "display_name": "MI 2",
     "display_name_en": "MI 2"
   },
+  "aristotle_cl_en_global": {
+    "display_name": "Xiaomi 13T",
+    "display_name_en": "Xiaomi 13T"
+  },
+  "aristotle_dc_global": {
+    "display_name": "Xiaomi 13T",
+    "display_name_en": "Xiaomi 13T"
+  },
+  "aristotle_eea_global": {
+    "display_name": "Xiaomi 13T",
+    "display_name_en": "Xiaomi 13T"
+  },
+  "aristotle_factory_jp_kd_global": {
+    "display_name": "XM-ARISTOTLE-FACTORY-JP-KD-GLOBAL",
+    "display_name_en": "XM-ARISTOTLE-FACTORY-JP-KD-GLOBAL"
+  },
+  "aristotle_global": {
+    "display_name": "Xiaomi 13T",
+    "display_name_en": "Xiaomi 13T"
+  },
+  "aristotle_id_global": {
+    "display_name": "Xiaomi 13T",
+    "display_name_en": "Xiaomi 13T"
+  },
+  "aristotle_jp_global": {
+    "display_name": "XM-ARISTOTLE-JP-GLOBAL",
+    "display_name_en": "XM-ARISTOTLE-JP-GLOBAL"
+  },
+  "aristotle_jp_kd_global": {
+    "display_name": "XM-ARISTOTLE-JP-KD-GLOBAL",
+    "display_name_en": "XM-ARISTOTLE-JP-KD-GLOBAL"
+  },
+  "aristotle_lm_cr_global": {
+    "display_name": "XM-ARISTOTLE-LM-CR-GLOBAL",
+    "display_name_en": "XM-ARISTOTLE-LM-CR-GLOBAL"
+  },
+  "aristotle_mx_at_global": {
+    "display_name": "Xiaomi 13T",
+    "display_name_en": "Xiaomi 13T"
+  },
+  "aristotle_mx_tc_global": {
+    "display_name": "Xiaomi 13T",
+    "display_name_en": "Xiaomi 13T"
+  },
+  "aristotle_pre_cl_en_global": {
+    "display_name": "XM-ARISTOTLE-PRE-CL-EN-GLOBAL",
+    "display_name_en": "XM-ARISTOTLE-PRE-CL-EN-GLOBAL"
+  },
+  "aristotle_pre_dc_global": {
+    "display_name": "Xiaomi 13T",
+    "display_name_en": "Xiaomi 13T"
+  },
+  "aristotle_pre_eea_global": {
+    "display_name": "XM-ARISTOTLE-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-ARISTOTLE-PRE-EEA-GLOBAL"
+  },
+  "aristotle_pre_eea_miui15_global": {
+    "display_name": "XM-ARISTOTLE-PRE-EEA-MIUI15-GLOBAL",
+    "display_name_en": "XM-ARISTOTLE-PRE-EEA-MIUI15-GLOBAL"
+  },
+  "aristotle_pre_global": {
+    "display_name": "XM-ARISTOTLE-PRE-GLOBAL",
+    "display_name_en": "XM-ARISTOTLE-PRE-GLOBAL"
+  },
+  "aristotle_pre_id_global": {
+    "display_name": "XM-ARISTOTLE-PRE-ID-GLOBAL",
+    "display_name_en": "XM-ARISTOTLE-PRE-ID-GLOBAL"
+  },
+  "aristotle_pre_id_miui15_global": {
+    "display_name": "XM-ARISTOTLE-PRE-ID-MIUI15-GLOBAL",
+    "display_name_en": "XM-ARISTOTLE-PRE-ID-MIUI15-GLOBAL"
+  },
+  "aristotle_pre_jp_global": {
+    "display_name": "XM-ARISTOTLE-PRE-JP-GLOBAL",
+    "display_name_en": "XM-ARISTOTLE-PRE-JP-GLOBAL"
+  },
+  "aristotle_pre_jp_kd_global": {
+    "display_name": "XM-ARISTOTLE-PRE-JP-KD-GLOBAL",
+    "display_name_en": "XM-ARISTOTLE-PRE-JP-KD-GLOBAL"
+  },
+  "aristotle_pre_lm_cr_global": {
+    "display_name": "XM-ARISTOTLE-PRE-LM-CR-GLOBAL",
+    "display_name_en": "XM-ARISTOTLE-PRE-LM-CR-GLOBAL"
+  },
+  "aristotle_pre_miui15_global": {
+    "display_name": "XM-ARISTOTLE-PRE-MIUI15-GLOBAL",
+    "display_name_en": "XM-ARISTOTLE-PRE-MIUI15-GLOBAL"
+  },
+  "aristotle_pre_mx_at_global": {
+    "display_name": "XM-ARISTOTLE-PRE-MX-AT-GLOBAL",
+    "display_name_en": "XM-ARISTOTLE-PRE-MX-AT-GLOBAL"
+  },
+  "aristotle_pre_mx_tc_global": {
+    "display_name": "XM-ARISTOTLE-PRE-MX-TC-GLOBAL",
+    "display_name_en": "XM-ARISTOTLE-PRE-MX-TC-GLOBAL"
+  },
+  "aristotle_pre_ru_global": {
+    "display_name": "XM-ARISTOTLE-PRE-RU-GLOBAL",
+    "display_name_en": "XM-ARISTOTLE-PRE-RU-GLOBAL"
+  },
+  "aristotle_pre_tr_global": {
+    "display_name": "XM-ARISTOTLE-PRE-TR-GLOBAL",
+    "display_name_en": "XM-ARISTOTLE-PRE-TR-GLOBAL"
+  },
+  "aristotle_pre_tw_global": {
+    "display_name": "XM-ARISTOTLE-PRE-TW-GLOBAL",
+    "display_name_en": "XM-ARISTOTLE-PRE-TW-GLOBAL"
+  },
+  "aristotle_ru_global": {
+    "display_name": "Xiaomi 13T",
+    "display_name_en": "Xiaomi 13T"
+  },
+  "aristotle_tr_global": {
+    "display_name": "Xiaomi 13T",
+    "display_name_en": "Xiaomi 13T"
+  },
+  "aristotle_tw_global": {
+    "display_name": "Xiaomi 13T",
+    "display_name_en": "Xiaomi 13T"
+  },
   "armani": {
     "display_name": "HM 1SC",
     "display_name_en": "HM 1SC"
@@ -1499,6 +1619,10 @@
     "display_name": "XM-DITING-PRE-JP-SB-GLOBAL",
     "display_name_en": "XM-DITING-PRE-JP-SB-GLOBAL"
   },
+  "diting_pre_lm_cr_global": {
+    "display_name": "Xiaomi 12T Pro",
+    "display_name_en": "Xiaomi 12T Pro"
+  },
   "diting_pre_miui14_global": {
     "display_name": "XM-DITING-PRE-MIUI14-GLOBAL",
     "display_name_en": "XM-DITING-PRE-MIUI14-GLOBAL"
@@ -1506,6 +1630,14 @@
   "diting_pre_miui15_global": {
     "display_name": "XM-DITING-PRE-MIUI15-GLOBAL",
     "display_name_en": "XM-DITING-PRE-MIUI15-GLOBAL"
+  },
+  "diting_pre_mx_at_global": {
+    "display_name": "Xiaomi 12T Pro",
+    "display_name_en": "Xiaomi 12T Pro"
+  },
+  "diting_pre_mx_tc_global": {
+    "display_name": "Xiaomi 12T Pro",
+    "display_name_en": "Xiaomi 12T Pro"
   },
   "diting_pre_ru_global": {
     "display_name": "Xiaomi 12T Pro",
@@ -2262,6 +2394,10 @@
   "garnet_eea_global": {
     "display_name": "XM-GARNET-EEA-GLOBAL",
     "display_name_en": "XM-GARNET-EEA-GLOBAL"
+  },
+  "garnet_factory_jp_kd_global": {
+    "display_name": "XM-GARNET-FACTORY-JP-KD-GLOBAL",
+    "display_name_en": "XM-GARNET-FACTORY-JP-KD-GLOBAL"
   },
   "garnet_global": {
     "display_name": "XM-GARNET-GLOBAL",
