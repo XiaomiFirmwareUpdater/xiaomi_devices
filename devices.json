@@ -2910,6 +2910,30 @@
   }
  },
  {
+  "XIG04": {
+   "name": "Xiaomi 13T",
+   "model": "XIG04"
+  }
+ },
+ {
+  "aristotle": {
+   "name": "Xiaomi 13T",
+   "model": "2306EPN60G"
+  }
+ },
+ {
+  "corot": {
+   "name": "Xiaomi 13T Pro",
+   "model": "23078PND5G"
+  }
+ },
+ {
+  "corot": {
+   "name": "Xiaomi 13T Pro",
+   "model": "A301XM"
+  }
+ },
+ {
   "mona": {
    "name": "Xiaomi Civi",
    "model": "2109119BC"
