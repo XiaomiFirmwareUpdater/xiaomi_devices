@@ -20,6 +20,7 @@ apollo_global - F
 apollo_ru_global - F
 apollo_tw_global - F
 ares_in_global - F
+aristotle_eea_global - F
 aristotle_global - F
 aristotle_tw_global - F
 begonia_eea_global - F
@@ -57,6 +58,7 @@ citrus_tr_global - F
 citrus_tw_global - F
 cmi_eea_global - F
 cmi_global - F
+corot_eea_global - F
 corot_global - F
 corot_tw_global - F
 courbet_eea_global - F
