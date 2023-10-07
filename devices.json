@@ -2411,6 +2411,10 @@
     "display_name": "XM-GARNET-IN-GLOBAL",
     "display_name_en": "XM-GARNET-IN-GLOBAL"
   },
+  "garnet_jp_kd_global": {
+    "display_name": "XM-GARNET-JP-KD-GLOBAL",
+    "display_name_en": "XM-GARNET-JP-KD-GLOBAL"
+  },
   "garnet_lm_cr_global": {
     "display_name": "XM-GARNET-LM-CR-GLOBAL",
     "display_name_en": "XM-GARNET-LM-CR-GLOBAL"
@@ -2454,6 +2458,10 @@
   "garnet_pre_in_global": {
     "display_name": "XM-GARNET-PRE-IN-GLOBAL",
     "display_name_en": "XM-GARNET-PRE-IN-GLOBAL"
+  },
+  "garnet_pre_jp_kd_global": {
+    "display_name": "XM-GARNET-PRE-JP-KD-GLOBAL",
+    "display_name_en": "XM-GARNET-PRE-JP-KD-GLOBAL"
   },
   "garnet_pre_lm_cr_global": {
     "display_name": "XM-GARNET-PRE-LM-CR-GLOBAL",
