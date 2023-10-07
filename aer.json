@@ -1,6 +1,32 @@
 {
  "items": [
   {
+   "id": 53,
+   "status": 1,
+   "deviceName": "Redmi Pad SE",
+   "releaseDate": "2023-9",
+   "securityUpdateEol": "2026-9",
+   "updateFrequency": "90 Days",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 13",
+   "futureVersion": "Android 13,Android 14",
+   "createdAt": "2023-10-07T01:21:34.000Z",
+   "updatedAt": "2023-10-07T01:21:38.000Z"
+  },
+  {
+   "id": 54,
+   "status": 1,
+   "deviceName": "Redmi 12 5G",
+   "releaseDate": "2023-9",
+   "securityUpdateEol": "2027-12",
+   "updateFrequency": "90 days",
+   "updateFrequencyTl": "90 days",
+   "shippedVersion": "Android 13",
+   "futureVersion": "Android 14,Android 15",
+   "createdAt": "2023-10-07T01:37:08.000Z",
+   "updatedAt": "2023-10-07T01:37:47.000Z"
+  },
+  {
    "id": 51,
    "status": 1,
    "deviceName": "Redmi 12",
@@ -612,5 +638,5 @@
    "updatedAt": "2021-11-15T12:35:15.000Z"
   }
  ],
- "total": 47
+ "total": 49
 }
