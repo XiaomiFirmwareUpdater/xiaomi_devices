@@ -7823,6 +7823,10 @@
     "display_name": "Redmi Pad SE",
     "display_name_en": "Redmi Pad SE"
   },
+  "xun_in_global": {
+    "display_name": "Redmi Pad SE",
+    "display_name_en": "Redmi Pad SE"
+  },
   "xun_pre_eea_global": {
     "display_name": "XM-XUN-EEA-GLOBAL",
     "display_name_en": "XM-XUN-EEA-GLOBAL"
@@ -7834,6 +7838,10 @@
   "xun_pre_id_global": {
     "display_name": "XM-XUN-ID-GLOBAL",
     "display_name_en": "XM-XUN-ID-GLOBAL"
+  },
+  "xun_pre_in_global": {
+    "display_name": "Redmi Pad SE",
+    "display_name_en": "Redmi Pad SE"
   },
   "xun_pre_miui15_global": {
     "display_name": "XM-XUN-PRE-MIUI15-GLOBAL",
