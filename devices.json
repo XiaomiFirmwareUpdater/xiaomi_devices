@@ -1224,6 +1224,18 @@
   }
  },
  {
+  "garnet": {
+   "name": "Redmi Note 13 Pro",
+   "model": "2312CRAD3C"
+  }
+ },
+ {
+  "garnet": {
+   "name": "Redmi Note 13 Pro",
+   "model": "2312DRA50C"
+  }
+ },
+ {
   "zircon": {
    "name": "Redmi Note 13 Pro+",
    "model": "23090RA98C"
@@ -3027,6 +3039,18 @@
   "soul": {
    "name": "Xiaomi TV stick 4K",
    "model": "MiTV-AYFR0"
+  }
+ },
+ {
+  "axolotl": {
+   "name": "Xiaomi Watch 2 Pro",
+   "model": "Xiaomi Watch 2 Pro"
+  }
+ },
+ {
+  "axolotlte": {
+   "name": "Xiaomi Watch 2 Pro",
+   "model": "Xiaomi Watch 2 Pro"
   }
  },
  {
