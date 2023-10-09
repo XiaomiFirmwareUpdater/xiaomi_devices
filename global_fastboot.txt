@@ -46,6 +46,7 @@ cannong_eea_global - F
 cannong_global - F
 cannong_ru_global - F
 cannong_tw_global - F
+chopin_global - F
 chopin_id_global - F
 chopin_tr_global - F
 citrus_eea_global - F
@@ -79,15 +80,18 @@ dandelion_c3l2_id_global - F
 dandelion_c3l2_ru_global - F
 dandelion_c3l2_tw_global - F
 dandelion_eea_global - F
+dandelion_global - F
 dandelion_id_global - F
 dandelion_ru_global - F
 davinci_eea_global - F
 davinci_global - F
 davinci_ru_global - F
+dipper_global - F
 dipper_ru_global - F
 diting_eea_global - F
 diting_global - F
 diting_jp_global - F
+diting_ru_global - F
 diting_tw_global - F
 earth_eea_global - F
 earth_global - F
@@ -218,6 +222,7 @@ monet_global - F
 monet_tw_global - F
 moonstone_eea_global - F
 moonstone_global - F
+moonstone_ru_global - F
 moonstone_tw_global - F
 munch_eea_global - F
 munch_global - F
@@ -245,6 +250,7 @@ olive_in_global - F
 olive_ru_global - F
 opal_eea_global - F
 opal_global - F
+opal_tw_global - F
 pine_eea_global - F
 pine_global - F
 pine_ru_global - F
