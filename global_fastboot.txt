@@ -257,6 +257,7 @@ pine_ru_global - F
 pipa_eea_global - F
 pipa_global - F
 pipa_in_global - F
+pipa_ru_global - F
 pipa_tw_global - F
 pissarro_eea_global - F
 pissarro_global - F
