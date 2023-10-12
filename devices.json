@@ -456,6 +456,18 @@
   }
  },
  {
+  "XIG03": {
+   "name": "Redmi 12 5G",
+   "model": "XIG03"
+  }
+ },
+ {
+  "river": {
+   "name": "Redmi 12 5G",
+   "model": "23076RA4BR"
+  }
+ },
+ {
   "aether": {
    "name": "Redmi 12C",
    "model": "22126RN91Y"
