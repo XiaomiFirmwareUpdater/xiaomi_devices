@@ -2420,6 +2420,12 @@
  {
   "irobot": {
    "name": "MiTV",
+   "model": "MiTV-MOSR3"
+  }
+ },
+ {
+  "irobot": {
+   "name": "MiTV",
    "model": "MiTV-MOSR4"
   }
  },
