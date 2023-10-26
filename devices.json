@@ -2871,6 +2871,90 @@
     "display_name": "HM Note 2",
     "display_name_en": "HM Note 2"
   },
+  "houji": {
+    "display_name": "XM-HOUJI",
+    "display_name_en": "XM-HOUJI"
+  },
+  "houji_eea_global": {
+    "display_name": "XM-HOUJI-EEA-GLOBAL",
+    "display_name_en": "XM-HOUJI-EEA-GLOBAL"
+  },
+  "houji_global": {
+    "display_name": "XM-HOUJI-GLOBAL",
+    "display_name_en": "XM-HOUJI-GLOBAL"
+  },
+  "houji_id_global": {
+    "display_name": "XM-HOUJI-ID-GLOBAL",
+    "display_name_en": "XM-HOUJI-ID-GLOBAL"
+  },
+  "houji_in_global": {
+    "display_name": "XM-HOUJI-IN-GLOBAL",
+    "display_name_en": "XM-HOUJI-IN-GLOBAL"
+  },
+  "houji_pre_eea_global": {
+    "display_name": "XM-HOUJI-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-HOUJI-PRE-EEA-GLOBAL"
+  },
+  "houji_pre_eea_miui15_global": {
+    "display_name": "XM-HOUJI-PRE-EEA-MIUI15-GLOBAL",
+    "display_name_en": "XM-HOUJI-PRE-EEA-MIUI15-GLOBAL"
+  },
+  "houji_pre_global": {
+    "display_name": "XM-HOUJI-PRE-GLOBAL",
+    "display_name_en": "XM-HOUJI-PRE-GLOBAL"
+  },
+  "houji_pre_id_global": {
+    "display_name": "XM-HOUJI-PRE-ID-GLOBAL",
+    "display_name_en": "XM-HOUJI-PRE-ID-GLOBAL"
+  },
+  "houji_pre_id_miui15_global": {
+    "display_name": "XM-HOUJI-PRE-ID-MIUI15-GLOBAL",
+    "display_name_en": "XM-HOUJI-PRE-ID-MIUI15-GLOBAL"
+  },
+  "houji_pre_in_global": {
+    "display_name": "XM-HOUJI-PRE-IN-GLOBAL",
+    "display_name_en": "XM-HOUJI-PRE-IN-GLOBAL"
+  },
+  "houji_pre_miui15_global": {
+    "display_name": "XM-HOUJI-PRE-MIUI15-GLOBAL",
+    "display_name_en": "XM-HOUJI-PRE-MIUI15-GLOBAL"
+  },
+  "houji_pre_ru_global": {
+    "display_name": "XM-HOUJI-PRE-RU-GLOBAL",
+    "display_name_en": "XM-HOUJI-PRE-RU-GLOBAL"
+  },
+  "houji_pre_ru_miui15_global": {
+    "display_name": "XM-HOUJI-PRE-RU-MIUI15-GLOBAL",
+    "display_name_en": "XM-HOUJI-PRE-RU-MIUI15-GLOBAL"
+  },
+  "houji_pre_tr_global": {
+    "display_name": "XM-HOUJI-PRE-TR-GLOBAL",
+    "display_name_en": "XM-HOUJI-PRE-TR-GLOBAL"
+  },
+  "houji_pre_tr_miui15_global": {
+    "display_name": "XM-HOUJI-PRE-TR-MIUI15-GLOBAL",
+    "display_name_en": "XM-HOUJI-PRE-TR-MIUI15-GLOBAL"
+  },
+  "houji_pre_tw_global": {
+    "display_name": "XM-HOUJI-PRE-TW-GLOBAL",
+    "display_name_en": "XM-HOUJI-PRE-TW-GLOBAL"
+  },
+  "houji_pre_tw_miui15_global": {
+    "display_name": "XM-HOUJI-PRE-TW-MIUI15-GLOBAL",
+    "display_name_en": "XM-HOUJI-PRE-TW-MIUI15-GLOBAL"
+  },
+  "houji_ru_global": {
+    "display_name": "XM-HOUJI-RU-GLOBAL",
+    "display_name_en": "XM-HOUJI-RU-GLOBAL"
+  },
+  "houji_tr_global": {
+    "display_name": "XM-HOUJI-TR-GLOBAL",
+    "display_name_en": "XM-HOUJI-TR-GLOBAL"
+  },
+  "houji_tw_global": {
+    "display_name": "XM-HOUJI-TW-GLOBAL",
+    "display_name_en": "XM-HOUJI-TW-GLOBAL"
+  },
   "hydrogen": {
     "display_name": "小米Max",
     "display_name_en": "MI MAX"
@@ -6066,6 +6150,98 @@
   "selenes_za_vc_global": {
     "display_name": "HM-K19S-ZA-VC-GLOBAL",
     "display_name_en": "HM-K19S-ZA-VC-GLOBAL"
+  },
+  "shennong": {
+    "display_name": "XM-SHENNONG",
+    "display_name_en": "XM-SHENNONG"
+  },
+  "shennong_eea_global": {
+    "display_name": "XM-SHENNONG-EEA-GLOBAL",
+    "display_name_en": "XM-SHENNONG-EEA-GLOBAL"
+  },
+  "shennong_global": {
+    "display_name": "XM-SHENNONG-GLOBAL",
+    "display_name_en": "XM-SHENNONG-GLOBAL"
+  },
+  "shennong_id_global": {
+    "display_name": "XM-SHENNONG-ID-GLOBAL",
+    "display_name_en": "XM-SHENNONG-ID-GLOBAL"
+  },
+  "shennong_in_global": {
+    "display_name": "XM-SHENNONG-IN-GLOBAL",
+    "display_name_en": "XM-SHENNONG-IN-GLOBAL"
+  },
+  "shennong_pre_bts_global": {
+    "display_name": "XM-SHENNONG-PRE-BTS-GLOBAL",
+    "display_name_en": "XM-SHENNONG-PRE-BTS-GLOBAL"
+  },
+  "shennong_pre_eea_global": {
+    "display_name": "XM-SHENNONG-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-SHENNONG-PRE-EEA-GLOBAL"
+  },
+  "shennong_pre_eea_miui15_global": {
+    "display_name": "XM-SHENNONG-PRE-EEA-MIUI15-GLOBAL",
+    "display_name_en": "XM-SHENNONG-PRE-EEA-MIUI15-GLOBAL"
+  },
+  "shennong_pre_global": {
+    "display_name": "XM-SHENNONG-PRE-GLOBAL",
+    "display_name_en": "XM-SHENNONG-PRE-GLOBAL"
+  },
+  "shennong_pre_id_global": {
+    "display_name": "XM-SHENNONG-PRE-ID-GLOBAL",
+    "display_name_en": "XM-SHENNONG-PRE-ID-GLOBAL"
+  },
+  "shennong_pre_id_miui15_global": {
+    "display_name": "XM-SHENNONG-PRE-ID-MIUI15-GLOBAL",
+    "display_name_en": "XM-SHENNONG-PRE-ID-MIUI15-GLOBAL"
+  },
+  "shennong_pre_in_global": {
+    "display_name": "XM-SHENNONG-PRE-IN-GLOBAL",
+    "display_name_en": "XM-SHENNONG-PRE-IN-GLOBAL"
+  },
+  "shennong_pre_in_miui15_global": {
+    "display_name": "XM-SHENNONG-PRE-IN-MIUI15-GLOBAL",
+    "display_name_en": "XM-SHENNONG-PRE-IN-MIUI15-GLOBAL"
+  },
+  "shennong_pre_miui15_global": {
+    "display_name": "XM-SHENNONG-PRE-MIUI15-GLOBAL",
+    "display_name_en": "XM-SHENNONG-PRE-MIUI15-GLOBAL"
+  },
+  "shennong_pre_ru_global": {
+    "display_name": "XM-SHENNONG-PRE-RU-GLOBAL",
+    "display_name_en": "XM-SHENNONG-PRE-RU-GLOBAL"
+  },
+  "shennong_pre_ru_miui15_global": {
+    "display_name": "XM-SHENNONG-PRE-RU-MIUI15-GLOBAL",
+    "display_name_en": "XM-SHENNONG-PRE-RU-MIUI15-GLOBAL"
+  },
+  "shennong_pre_tr_global": {
+    "display_name": "XM-SHENNONG-PRE-TR-GLOBAL",
+    "display_name_en": "XM-SHENNONG-PRE-TR-GLOBAL"
+  },
+  "shennong_pre_tr_miui15_global": {
+    "display_name": "XM-SHENNONG-PRE-TR-MIUI15-GLOBAL",
+    "display_name_en": "XM-SHENNONG-PRE-TR-MIUI15-GLOBAL"
+  },
+  "shennong_pre_tw_global": {
+    "display_name": "XM-SHENNONG-PRE-TW-GLOBAL",
+    "display_name_en": "XM-SHENNONG-PRE-TW-GLOBAL"
+  },
+  "shennong_pre_tw_miui15_global": {
+    "display_name": "XM-SHENNONG-PRE-TW-MIUI15-GLOBAL",
+    "display_name_en": "XM-SHENNONG-PRE-TW-MIUI15-GLOBAL"
+  },
+  "shennong_ru_global": {
+    "display_name": "XM-SHENNONG-RU-GLOBAL",
+    "display_name_en": "XM-SHENNONG-RU-GLOBAL"
+  },
+  "shennong_tr_global": {
+    "display_name": "XM-SHENNONG-TR-GLOBAL",
+    "display_name_en": "XM-SHENNONG-TR-GLOBAL"
+  },
+  "shennong_tw_global": {
+    "display_name": "XM-SHENNONG-TW-GLOBAL",
+    "display_name_en": "XM-SHENNONG-TW-GLOBAL"
   },
   "shiva_in_global": {
     "display_name": "POCO M2",
