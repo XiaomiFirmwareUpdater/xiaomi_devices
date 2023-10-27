@@ -281,6 +281,42 @@
      "deviceName": "Mi 10 Ultra (CN)",
      "sku": "cas",
      "projectCode": "J1S"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 10T Pro (GLOBAL)",
+     "sku": "apollo_global",
+     "projectCode": "J3S"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 10T (GLOBAL)",
+     "sku": "apollo_global",
+     "projectCode": "J3S"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 10T Pro (EEA)",
+     "sku": "apollo_eea_global",
+     "projectCode": "J3S"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 10T (EEA)",
+     "sku": "apollo_eea_global",
+     "projectCode": "J3S"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 10T Pro (IN)",
+     "sku": "apollo_in_global",
+     "projectCode": "J3S"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 10T (IN)",
+     "sku": "apollo_in_global",
+     "projectCode": "J3S"
     }
    ]
   },
@@ -715,9 +751,21 @@
      "deviceName": "POCO M2 Pro (IN)",
      "sku": "gram_in_global",
      "projectCode": "J6C"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO X3 (IN)",
+     "sku": "surya_in_global",
+     "projectCode": "J20C"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO X3 NFC (RU)",
+     "sku": "surya_ru_global",
+     "projectCode": "J20C"
     }
    ]
   }
  ],
- "updateAt": "2023-09-25T22:24:52.000Z"
+ "updateAt": "2023-10-26T23:20:25.000Z"
 }
