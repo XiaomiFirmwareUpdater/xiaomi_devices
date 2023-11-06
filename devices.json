@@ -6156,8 +6156,8 @@
     "display_name_en": "HM-K19S-ZA-VC-GLOBAL"
   },
   "shennong": {
-    "display_name": "Xiaomi 14 Pro",
-    "display_name_en": "Xiaomi 14 Pro"
+    "display_name": "Xiaomi 14 Pro/XM-SHENNONG",
+    "display_name_en": "Xiaomi 14 Pro/XM-SHENNONG"
   },
   "shennong_eea_global": {
     "display_name": "XM-SHENNONG-EEA-GLOBAL",
@@ -6476,8 +6476,8 @@
     "display_name_en": "Redmi Note 11"
   },
   "star": {
-    "display_name": "Mi 11 Pro/Mi 11 Ultra",
-    "display_name_en": "Mi 11 Pro/Mi 11 Ultra"
+    "display_name": "Mi 11 Ultra/Mi 11 Pro",
+    "display_name_en": "Mi 11 Ultra/Mi 11 Pro"
   },
   "star_eea_global": {
     "display_name": "Mi 11 Ultra",
@@ -7324,8 +7324,8 @@
     "display_name_en": "MI CC 9 Meitu Edition"
   },
   "venus": {
-    "display_name": "Mi 11",
-    "display_name_en": "Mi 11"
+    "display_name": "XM-VENUS/Mi 11",
+    "display_name_en": "XM-VENUS/Mi 11"
   },
   "venus_eea_global": {
     "display_name": "Mi 11",
@@ -7948,8 +7948,8 @@
     "display_name_en": ""
   },
   "xaga": {
-    "display_name": "Redmi Note 11T Pro/Redmi Note 11T Pro +",
-    "display_name_en": "Redmi Note 11T Pro/Redmi Note 11T Pro +"
+    "display_name": "XM-XAGA/Redmi Note 11T Pro/Redmi Note 11T Pro +",
+    "display_name_en": "XM-XAGA/Redmi Note 11T Pro/Redmi Note 11T Pro +"
   },
   "xaga_eea_global": {
     "display_name": "POCO X4 GT",
