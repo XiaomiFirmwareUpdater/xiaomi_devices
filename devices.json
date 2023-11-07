@@ -2420,8 +2420,8 @@
     "display_name_en": "XM-GARNET-IN-GLOBAL"
   },
   "garnet_jp_kd_global": {
-    "display_name": "XM-GARNET-JP-KD-GLOBAL/-",
-    "display_name_en": "XM-GARNET-JP-KD-GLOBAL/-"
+    "display_name": "XM-GARNET-JP-KD-GLOBAL",
+    "display_name_en": "XM-GARNET-JP-KD-GLOBAL"
   },
   "garnet_lm_cr_global": {
     "display_name": "XM-GARNET-LM-CR-GLOBAL",
@@ -6156,8 +6156,8 @@
     "display_name_en": "HM-K19S-ZA-VC-GLOBAL"
   },
   "shennong": {
-    "display_name": "Xiaomi 14 Pro/XM-SHENNONG",
-    "display_name_en": "Xiaomi 14 Pro/XM-SHENNONG"
+    "display_name": "Xiaomi 14 Pro/Xiaomi 14 Pro Ti",
+    "display_name_en": "Xiaomi 14 Pro/Xiaomi 14 Pro Ti"
   },
   "shennong_eea_global": {
     "display_name": "XM-SHENNONG-EEA-GLOBAL",
