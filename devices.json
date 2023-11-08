@@ -2387,6 +2387,102 @@
     "display_name": "Xiaomi 13",
     "display_name_en": "Xiaomi 13"
   },
+  "gale_dc_global": {
+    "display_name": "XM-GALE-DC-GLOBAL",
+    "display_name_en": "XM-GALE-DC-GLOBAL"
+  },
+  "gale_eea_global": {
+    "display_name": "XM-GALE-EEA-GLOBAL",
+    "display_name_en": "XM-GALE-EEA-GLOBAL"
+  },
+  "gale_global": {
+    "display_name": "XM-GALE-GLOBAL",
+    "display_name_en": "XM-GALE-GLOBAL"
+  },
+  "gale_gt_tg_global": {
+    "display_name": "XM-GALE-GT-TG-GLOBAL",
+    "display_name_en": "XM-GALE-GT-TG-GLOBAL"
+  },
+  "gale_id_global": {
+    "display_name": "XM-GALE-ID-GLOBAL",
+    "display_name_en": "XM-GALE-ID-GLOBAL"
+  },
+  "gale_in_global": {
+    "display_name": "POCO C65",
+    "display_name_en": "POCO C65"
+  },
+  "gale_lm_cr_global": {
+    "display_name": "XM-GALE-LM-CR-GLOBAL",
+    "display_name_en": "XM-GALE-LM-CR-GLOBAL"
+  },
+  "gale_mx_at_global": {
+    "display_name": "XM-GALE-MX-AT-GLOBAL",
+    "display_name_en": "XM-GALE-MX-AT-GLOBAL"
+  },
+  "gale_mx_tc_global": {
+    "display_name": "XM-GALE-MX-TC-GLOBAL",
+    "display_name_en": "XM-GALE-MX-TC-GLOBAL"
+  },
+  "gale_pre_dc_global": {
+    "display_name": "XM-GALE-PRE-DC-GLOBAL",
+    "display_name_en": "XM-GALE-PRE-DC-GLOBAL"
+  },
+  "gale_pre_eea_global": {
+    "display_name": "XM-GALE-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-GALE-PRE-EEA-GLOBAL"
+  },
+  "gale_pre_global": {
+    "display_name": "XM-GALE-PRE-GLOBAL",
+    "display_name_en": "XM-GALE-PRE-GLOBAL"
+  },
+  "gale_pre_gt_tg_global": {
+    "display_name": "XM-GALE-PRE-GT-TG-GLOBAL",
+    "display_name_en": "XM-GALE-PRE-GT-TG-GLOBAL"
+  },
+  "gale_pre_id_global": {
+    "display_name": "XM-GALE-PRE-ID-GLOBAL",
+    "display_name_en": "XM-GALE-PRE-ID-GLOBAL"
+  },
+  "gale_pre_in_global": {
+    "display_name": "XM-GALE-IN-GLOBAL",
+    "display_name_en": "XM-GALE-IN-GLOBAL"
+  },
+  "gale_pre_lm_cr_global": {
+    "display_name": "XM-GALE-PRE-LM-CR-GLOBAL",
+    "display_name_en": "XM-GALE-PRE-LM-CR-GLOBAL"
+  },
+  "gale_pre_mx_at_global": {
+    "display_name": "XM-GALE-PRE-MX-AT-GLOBAL",
+    "display_name_en": "XM-GALE-PRE-MX-AT-GLOBAL"
+  },
+  "gale_pre_mx_tc_global": {
+    "display_name": "XM-GALE-PRE-MX-TC-GLOBAL",
+    "display_name_en": "XM-GALE-PRE-MX-TC-GLOBAL"
+  },
+  "gale_pre_ru_global": {
+    "display_name": "XM-GALE-PRE-RU-GLOBAL",
+    "display_name_en": "XM-GALE-PRE-RU-GLOBAL"
+  },
+  "gale_pre_tr_global": {
+    "display_name": "XM-GALE-PRE-TR-GLOBAL",
+    "display_name_en": "XM-GALE-PRE-TR-GLOBAL"
+  },
+  "gale_pre_tw_global": {
+    "display_name": "XM-GALE-PRE-TW-GLOBAL",
+    "display_name_en": "XM-GALE-PRE-TW-GLOBAL"
+  },
+  "gale_ru_global": {
+    "display_name": "XM-GALE-RU-GLOBAL",
+    "display_name_en": "XM-GALE-RU-GLOBAL"
+  },
+  "gale_tr_global": {
+    "display_name": "XM-GALE-TR-GLOBAL",
+    "display_name_en": "XM-GALE-TR-GLOBAL"
+  },
+  "gale_tw_global": {
+    "display_name": "XM-GALE-TW-GLOBAL",
+    "display_name_en": "XM-GALE-TW-GLOBAL"
+  },
   "garnet": {
     "display_name": "Redmi Note 13 Pro",
     "display_name_en": "Redmi Note 13 Pro"
