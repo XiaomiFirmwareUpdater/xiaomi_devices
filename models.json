@@ -1197,6 +1197,22 @@
    "`22126RN91Y`": "Redmi 12C Global (NFC)"
   }
  },
+ "gale": {
+  "internal_name": "",
+  "name": "Redmi 13C (`gale`)",
+  "models": {
+   "`23106RN0DA`": "Redmi 13C Global",
+   "`23100RN82L`": "Redmi 13C Latin America"
+  }
+ },
+ "gust": {
+  "internal_name": "",
+  "name": "Redmi 13C (`gust`)/POCO C65 (`gust`)",
+  "models": {
+   "`23108RN04Y`": "Redmi 13C Global (NFC)",
+   "`2310FPCA4G`": "POCO C65 Global"
+  }
+ },
  "lcsh92_wet_gb9": {
   "internal_name": "H3W",
   "name": "Redmi Note",
