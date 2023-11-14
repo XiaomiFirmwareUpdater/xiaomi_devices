@@ -36,6 +36,12 @@
   }
  },
  {
+  "gust": {
+   "name": "POCO C65",
+   "model": "2310FPCA4G"
+  }
+ },
+ {
   "lmi": {
    "name": "POCO F2 Pro",
    "model": "POCO F2 Pro"
@@ -495,6 +501,18 @@
   "earth": {
    "name": "Redmi 12C",
    "model": "2212ARNC4L"
+  }
+ },
+ {
+  "gale": {
+   "name": "Redmi 13C",
+   "model": "23100RN82L"
+  }
+ },
+ {
+  "gale": {
+   "name": "Redmi 13C",
+   "model": "23106RN0DA"
   }
  },
  {
