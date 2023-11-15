@@ -2388,16 +2388,16 @@
     "display_name_en": "Xiaomi 13"
   },
   "gale_dc_global": {
-    "display_name": "XM-GALE-DC-GLOBAL",
-    "display_name_en": "XM-GALE-DC-GLOBAL"
+    "display_name": "POCO C65/Redmi 13C",
+    "display_name_en": "POCO C65/Redmi 13C"
   },
   "gale_eea_global": {
     "display_name": "XM-GALE-EEA-GLOBAL",
     "display_name_en": "XM-GALE-EEA-GLOBAL"
   },
   "gale_global": {
-    "display_name": "XM-GALE-GLOBAL",
-    "display_name_en": "XM-GALE-GLOBAL"
+    "display_name": "POCO C65/Redmi 13C",
+    "display_name_en": "POCO C65/Redmi 13C"
   },
   "gale_gt_tg_global": {
     "display_name": "XM-GALE-GT-TG-GLOBAL",
@@ -2424,8 +2424,8 @@
     "display_name_en": "XM-GALE-MX-TC-GLOBAL"
   },
   "gale_pre_dc_global": {
-    "display_name": "XM-GALE-PRE-DC-GLOBAL",
-    "display_name_en": "XM-GALE-PRE-DC-GLOBAL"
+    "display_name": "Redmi 13C/POCO C65",
+    "display_name_en": "Redmi 13C/POCO C65"
   },
   "gale_pre_eea_global": {
     "display_name": "XM-GALE-PRE-EEA-GLOBAL",
@@ -2480,8 +2480,8 @@
     "display_name_en": "XM-GALE-TR-GLOBAL"
   },
   "gale_tw_global": {
-    "display_name": "XM-GALE-TW-GLOBAL",
-    "display_name_en": "XM-GALE-TW-GLOBAL"
+    "display_name": "POCO C65/Redmi 13C",
+    "display_name_en": "POCO C65/Redmi 13C"
   },
   "garnet": {
     "display_name": "Redmi Note 13 Pro",
