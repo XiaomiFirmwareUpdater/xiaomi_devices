@@ -77,6 +77,7 @@ curtana_tr_global - F
 dandelion_c3l2_eea_global - F
 dandelion_c3l2_global - F
 dandelion_c3l2_id_global - F
+dandelion_c3l2_ru_global - F
 dandelion_c3l2_tw_global - F
 dandelion_eea_global - F
 dandelion_global - F
@@ -214,6 +215,7 @@ mojito_tr_global - F
 mondrian_eea_global - F
 mondrian_global - F
 mondrian_ru_global - F
+mondrian_tr_global - F
 mondrian_tw_global - F
 monet_eea_global - F
 monet_global - F
@@ -328,6 +330,7 @@ star_id_global - F
 star_in_global - F
 sunstone_global - F
 sunstone_tw_global - F
+surya_eea_global - F
 surya_global - F
 surya_ru_global - F
 sweet_eea_global - F
@@ -413,6 +416,7 @@ yunluo_eea_global - F
 yunluo_global - F
 yunluo_tw_global - F
 zeus_eea_global - F
+zeus_global - F
 zeus_id_global - F
 zeus_in_global - F
 zeus_ru_global - F
