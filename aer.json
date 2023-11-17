@@ -118,6 +118,19 @@
    "updatedAt": "2023-03-01T06:41:16.000Z"
   },
   {
+   "id": 57,
+   "status": 1,
+   "deviceName": "Redmi 13C",
+   "releaseDate": "2023-11",
+   "securityUpdateEol": "2027-11",
+   "updateFrequency": "90 Days",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 14",
+   "futureVersion": "Android 15,Android 16",
+   "createdAt": "2023-11-17T01:11:22.000Z",
+   "updatedAt": "2023-11-17T01:11:26.000Z"
+  },
+  {
    "id": 42,
    "status": 1,
    "deviceName": "Redmi Note 11 SE",
@@ -664,5 +677,5 @@
    "updatedAt": "2021-11-15T12:35:15.000Z"
   }
  ],
- "total": 51
+ "total": 52
 }
