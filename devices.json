@@ -2256,8 +2256,8 @@
     "display_name_en": "Redmi 10C"
   },
   "freeguy": {
-    "display_name": "S pro miniled",
-    "display_name_en": "S pro miniled"
+    "display_name": "Xiaomi Tv S Pro Mini LED",
+    "display_name_en": "Xiaomi Tv S Pro Mini LED"
   },
   "frost_eea_global": {
     "display_name": "POCO C40",
@@ -2838,6 +2838,10 @@
   "gram_pre_miui14_in_global": {
     "display_name": "HM-J6C-PRE-MIUI14-IN-GLOBAL",
     "display_name_en": "HM-J6C-PRE-MIUI14-IN-GLOBAL"
+  },
+  "grayman": {
+    "display_name": "Xiaomi TV S Mini LED",
+    "display_name_en": "Xiaomi TV S Mini LED"
   },
   "grus": {
     "display_name": "小米9 SE",
