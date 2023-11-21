@@ -125,10 +125,10 @@
    "securityUpdateEol": "2027-11",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
-   "shippedVersion": "Android 14",
-   "futureVersion": "Android 15,Android 16",
+   "shippedVersion": "Android 13",
+   "futureVersion": "Android 14,Android 15",
    "createdAt": "2023-11-17T01:11:22.000Z",
-   "updatedAt": "2023-11-17T01:11:26.000Z"
+   "updatedAt": "2023-11-21T08:24:47.000Z"
   },
   {
    "id": 42,
