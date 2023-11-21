@@ -1763,20 +1763,24 @@
  },
  "gold": {
   "internal_name": "N17",
-  "name": "Redmi Note 13 5G",
+  "name": "Redmi Note 13 5G/Redmi Note 13R Pro/POCO X6 Neo",
   "models": {
    "`2312DRAABG`": "Redmi Note 13 5G Global",
    "`2312DRAABI`": "Redmi Note 13 5G India",
-   "`2312DRAABC`": "Redmi Note 13 5G China"
+   "`2312DRAABC`": "Redmi Note 13 5G China",
+   "`2311FRAFDC`": "Redmi Note 13R Pro China",
+   "`2312FRAFDI`": "POCO X6 Neo India"
   }
  },
  "garnet": {
-  "internal_name": "N16",
-  "name": "Redmi Note 13 Pro 5G",
+  "internal_name": "N16/N16P",
+  "name": "Redmi Note 13 Pro 5G/POCO X6 5G",
   "models": {
    "`2312DRA50G`": "Redmi Note 13 Pro 5G Global",
    "`2312DRA50I`": "Redmi Note 13 Pro 5G India",
-   "`2312DRA50C` `2312CRAD3C`": "Redmi Note 13 Pro 5G China"
+   "`2312DRA50C` `2312CRAD3C`": "Redmi Note 13 Pro 5G China",
+   "`23122PCD1G`": "POCO X6 5G Global",
+   "`23122PCD1I`": "POCO X6 5G India"
   }
  },
  "zircon": {
@@ -1942,6 +1946,27 @@
   "name": "Redmi K60E",
   "models": {
    "`22122RK93C`": "Redmi K60E China"
+  }
+ },
+ "vermeer": {
+  "internal_name": "N11",
+  "name": "Redmi K70",
+  "models": {
+   "`23113RKC6C`": "Redmi K70 China"
+  }
+ },
+ "manet": {
+  "internal_name": "N11R",
+  "name": "Redmi K70 Pro",
+  "models": {
+   "`23117RK66C`": "Redmi K70 Pro China"
+  }
+ },
+ "duchamp": {
+  "internal_name": "N11A",
+  "name": "Redmi K70E",
+  "models": {
+   "`2311DRK48C`": "Redmi K70E China"
   }
  },
  "omega": {
