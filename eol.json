@@ -317,6 +317,30 @@
      "deviceName": "Mi 10T (IN)",
      "sku": "apollo_in_global",
      "projectCode": "J3S"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Redmi K30S Ultra (CN)",
+     "sku": "apollo",
+     "projectCode": "J3S"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 10T Pro (LM)",
+     "sku": "apollo_lm_cr_global",
+     "projectCode": "J3S"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 10T Pro (MX)",
+     "sku": "apollo_mx_tc_global",
+     "projectCode": "J3S"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 10T (MX)",
+     "sku": "apollo_mx_tc_global",
+     "projectCode": "J3S"
     }
    ]
   },
@@ -723,6 +747,24 @@
      "deviceName": "Redmi 9C (TR)",
      "sku": "angelica_tr_global",
      "projectCode": "C3M"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 9 Pro (ZA)",
+     "sku": "joyeuse_za_vc_global",
+     "projectCode": "J6B2"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 9 (ZA)",
+     "sku": "lancelot_za_vc_global",
+     "projectCode": "J19/J19A"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 9C (MX)",
+     "sku": "angelica_mx_tc_global",
+     "projectCode": "C3M"
     }
    ]
   },
@@ -763,9 +805,21 @@
      "deviceName": "POCO X3 NFC (RU)",
      "sku": "surya_ru_global",
      "projectCode": "J20C"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO X3 NFC (ID)",
+     "sku": "surya_id_global",
+     "projectCode": "J20C"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO X3 NFC (TR)",
+     "sku": "surya_tr_global",
+     "projectCode": "J20C"
     }
    ]
   }
  ],
- "updateAt": "2023-10-26T23:20:25.000Z"
+ "updateAt": "2023-11-20T23:18:11.000Z"
 }
