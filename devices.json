@@ -1364,8 +1364,8 @@
     "display_name_en": "Redmi Note 9S"
   },
   "cuttlefish_mtk_pre_global": {
-    "display_name": "XM-CUTTLEFISH-MTK-PRE-GLOBAL",
-    "display_name_en": "XM-CUTTLEFISH-MTK-PRE-GLOBAL"
+    "display_name": "CUTTLEFISH_MTK x86_64",
+    "display_name_en": "CUTTLEFISH_MTK x86_64"
   },
   "cuttlefish_qcom_foldable_pre_global": {
     "display_name": "cuttlefish_qcom_foldable",
@@ -2308,8 +2308,8 @@
     "display_name_en": "XM-FUXI-GPP-GLOBAL"
   },
   "fuxi_id_global": {
-    "display_name": "Xiaomi 13",
-    "display_name_en": "Xiaomi 13"
+    "display_name": "XM-FUXI-ID-GLOBAL",
+    "display_name_en": "XM-FUXI-ID-GLOBAL"
   },
   "fuxi_pre_dpp_global": {
     "display_name": "XM-FUXI-PRE-DPP-GLOBAL",
@@ -2380,8 +2380,8 @@
     "display_name_en": "Xiaomi 13"
   },
   "fuxi_tr_global": {
-    "display_name": "Xiaomi 13",
-    "display_name_en": "Xiaomi 13"
+    "display_name": "XM-FUXI-TR-GLOBAL",
+    "display_name_en": "XM-FUXI-TR-GLOBAL"
   },
   "fuxi_tw_global": {
     "display_name": "Xiaomi 13",
@@ -4716,8 +4716,8 @@
     "display_name_en": "Xiaomi 13 Pro"
   },
   "nuwa_tr_global": {
-    "display_name": "Xiaomi 13 Pro",
-    "display_name_en": "Xiaomi 13 Pro"
+    "display_name": "XM-NUWA-TR-GLOBAL",
+    "display_name_en": "XM-NUWA-TR-GLOBAL"
   },
   "nuwa_tw_global": {
     "display_name": "Xiaomi 13 Pro",
