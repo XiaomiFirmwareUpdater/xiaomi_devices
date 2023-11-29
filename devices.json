@@ -1667,6 +1667,66 @@
     "display_name": "Xiaomi 12T Pro",
     "display_name_en": "Xiaomi 12T Pro"
   },
+  "duchamp": {
+    "display_name": "XM-DUCHAMP",
+    "display_name_en": "XM-DUCHAMP"
+  },
+  "duchamp_eea_global": {
+    "display_name": "XM-DUCHAMP-EEA-GLOBAL",
+    "display_name_en": "XM-DUCHAMP-EEA-GLOBAL"
+  },
+  "duchamp_global": {
+    "display_name": "XM-DUCHAMP-GLOBAL",
+    "display_name_en": "XM-DUCHAMP-GLOBAL"
+  },
+  "duchamp_id_global": {
+    "display_name": "XM-DUCHAMP-ID-GLOBAL",
+    "display_name_en": "XM-DUCHAMP-ID-GLOBAL"
+  },
+  "duchamp_in_global": {
+    "display_name": "XM-DUCHAMP-IN-GLOBAL",
+    "display_name_en": "XM-DUCHAMP-IN-GLOBAL"
+  },
+  "duchamp_pre_eea_global": {
+    "display_name": "XM-DUCHAMP-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-DUCHAMP-PRE-EEA-GLOBAL"
+  },
+  "duchamp_pre_global": {
+    "display_name": "XM-DUCHAMP-PRE-GLOBAL",
+    "display_name_en": "XM-DUCHAMP-PRE-GLOBAL"
+  },
+  "duchamp_pre_id_global": {
+    "display_name": "XM-DUCHAMP-PRE-ID-GLOBAL",
+    "display_name_en": "XM-DUCHAMP-PRE-ID-GLOBAL"
+  },
+  "duchamp_pre_in_global": {
+    "display_name": "XM-DUCHAMP-PRE-IN-GLOBAL",
+    "display_name_en": "XM-DUCHAMP-PRE-IN-GLOBAL"
+  },
+  "duchamp_pre_ru_global": {
+    "display_name": "XM-DUCHAMP-PRE-RU-GLOBAL",
+    "display_name_en": "XM-DUCHAMP-PRE-RU-GLOBAL"
+  },
+  "duchamp_pre_tr_global": {
+    "display_name": "XM-DUCHAMP-PRE-TR-GLOBAL",
+    "display_name_en": "XM-DUCHAMP-PRE-TR-GLOBAL"
+  },
+  "duchamp_pre_tw_global": {
+    "display_name": "XM-DUCHAMP-PRE-TW-GLOBAL",
+    "display_name_en": "XM-DUCHAMP-PRE-TW-GLOBAL"
+  },
+  "duchamp_ru_global": {
+    "display_name": "XM-DUCHAMP-RU-GLOBAL",
+    "display_name_en": "XM-DUCHAMP-RU-GLOBAL"
+  },
+  "duchamp_tr_global": {
+    "display_name": "XM-DUCHAMP-TR-GLOBAL",
+    "display_name_en": "XM-DUCHAMP-TR-GLOBAL"
+  },
+  "duchamp_tw_global": {
+    "display_name": "XM-DUCHAMP-TW-GLOBAL",
+    "display_name_en": "XM-DUCHAMP-TW-GLOBAL"
+  },
   "earth": {
     "display_name": "Redmi 12C",
     "display_name_en": "Redmi 12C"
@@ -3970,6 +4030,10 @@
   "lte26007_global": {
     "display_name": "LTE26007-GLOBAL",
     "display_name_en": "LTE26007-GLOBAL"
+  },
+  "manet": {
+    "display_name": "XM-MANET",
+    "display_name_en": "XM-MANET"
   },
   "marble": {
     "display_name": "Redmi Note 12 Turbo",
@@ -7518,6 +7582,66 @@
   "venus_tw_global": {
     "display_name": "Mi 11",
     "display_name_en": "Mi 11"
+  },
+  "vermeer": {
+    "display_name": "vermeer",
+    "display_name_en": "vermeer"
+  },
+  "vermeer_eea_global": {
+    "display_name": "vermeer",
+    "display_name_en": "vermeer"
+  },
+  "vermeer_global": {
+    "display_name": "vermeer",
+    "display_name_en": "vermeer"
+  },
+  "vermeer_id_global": {
+    "display_name": "vermeer",
+    "display_name_en": "vermeer"
+  },
+  "vermeer_in_global": {
+    "display_name": "vermeer",
+    "display_name_en": "vermeer"
+  },
+  "vermeer_pre_eea_global": {
+    "display_name": "XM-VERMEER-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-VERMEER-PRE-EEA-GLOBAL"
+  },
+  "vermeer_pre_global": {
+    "display_name": "XM-VERMEER-PRE-GLOBAL",
+    "display_name_en": "XM-VERMEER-PRE-GLOBAL"
+  },
+  "vermeer_pre_id_global": {
+    "display_name": "XM-VERMEER-PRE-ID-GLOBAL",
+    "display_name_en": "XM-VERMEER-PRE-ID-GLOBAL"
+  },
+  "vermeer_pre_in_global": {
+    "display_name": "XM-VERMEER-PRE-IN-GLOBAL",
+    "display_name_en": "XM-VERMEER-PRE-IN-GLOBAL"
+  },
+  "vermeer_pre_ru_global": {
+    "display_name": "XM-VERMEER-PRE-RU-GLOBAL",
+    "display_name_en": "XM-VERMEER-PRE-RU-GLOBAL"
+  },
+  "vermeer_pre_tr_global": {
+    "display_name": "XM-VERMEER-PRE-TR-GLOBAL",
+    "display_name_en": "XM-VERMEER-PRE-TR-GLOBAL"
+  },
+  "vermeer_pre_tw_global": {
+    "display_name": "XM-VERMEER-PRE-TW-GLOBAL",
+    "display_name_en": "XM-VERMEER-PRE-TW-GLOBAL"
+  },
+  "vermeer_ru_global": {
+    "display_name": "vermeer",
+    "display_name_en": "vermeer"
+  },
+  "vermeer_tr_global": {
+    "display_name": "vermeer",
+    "display_name_en": "vermeer"
+  },
+  "vermeer_tw_global": {
+    "display_name": "vermeer",
+    "display_name_en": "vermeer"
   },
   "veux": {
     "display_name": "Redmi Note 11E Pro",
