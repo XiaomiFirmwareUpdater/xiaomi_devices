@@ -22,6 +22,7 @@ apollo_tw_global - F
 ares_in_global - F
 aristotle_eea_global - F
 aristotle_global - F
+aristotle_ru_global - F
 aristotle_tw_global - F
 camellia_in_global - F
 camellia_in_global - F
@@ -53,6 +54,7 @@ cmi_eea_global - F
 cmi_global - F
 corot_eea_global - F
 corot_global - F
+corot_ru_global - F
 corot_tw_global - F
 courbet_eea_global - F
 courbet_global - F
