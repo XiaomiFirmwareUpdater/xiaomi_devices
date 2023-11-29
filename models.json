@@ -1198,19 +1198,29 @@
   }
  },
  "gale": {
-  "internal_name": "",
-  "name": "Redmi 13C (`gale`)",
+  "internal_name": "C3U",
+  "name": "Redmi 13C",
   "models": {
    "`23106RN0DA`": "Redmi 13C Global",
+   "`2311DRN14I`": "Redmi 13C India",
    "`23100RN82L`": "Redmi 13C Latin America"
   }
  },
  "gust": {
-  "internal_name": "",
-  "name": "Redmi 13C (`gust`)/POCO C65 (`gust`)",
+  "internal_name": "C3UN/C3UP",
+  "name": "Redmi 13C/POCO C65",
   "models": {
    "`23108RN04Y`": "Redmi 13C Global (NFC)",
    "`2310FPCA4G`": "POCO C65 Global"
+  }
+ },
+ "air": {
+  "internal_name": "C3V",
+  "name": "Redmi 13C 5G",
+  "models": {
+   "`23124RN87G`": "Redmi 13C 5G Global",
+   "`23124RN87C`": "Redmi 13C 5G China",
+   "`23124RN87I`": "Redmi 13C 5G India"
   }
  },
  "lcsh92_wet_gb9": {
@@ -1964,9 +1974,11 @@
  },
  "duchamp": {
   "internal_name": "N11A",
-  "name": "Redmi K70E",
+  "name": "Redmi K70E/POCO X6 Pro 5G",
   "models": {
-   "`2311DRK48C`": "Redmi K70E China"
+   "`2311DRK48C`": "Redmi K70E China",
+   "`2311DRK48G`": "POCO X6 Pro 5G Global",
+   "`2311DRK48I`": "POCO X6 Pro 5G India"
   }
  },
  "omega": {
