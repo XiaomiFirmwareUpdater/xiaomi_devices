@@ -76,6 +76,7 @@ dandelion_c3l2_ru_global - F
 dandelion_c3l2_tw_global - F
 dandelion_eea_global - F
 dandelion_global - F
+dandelion_id_global - F
 dandelion_ru_global - F
 dipper_global - F
 dipper_ru_global - F
@@ -224,6 +225,7 @@ nabu_tr_global - F
 nabu_tw_global - F
 nuwa_eea_global - F
 nuwa_global - F
+nuwa_in_global - F
 nuwa_ru_global - F
 nuwa_tr_global - F
 nuwa_tw_global - F
