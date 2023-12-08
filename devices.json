@@ -131,6 +131,90 @@
     "display_name": "Xiaomi 11T",
     "display_name_en": "Xiaomi 11T"
   },
+  "air": {
+    "display_name": "Redmi 13C 5G",
+    "display_name_en": "Redmi 13C 5G"
+  },
+  "air_cl_en_global": {
+    "display_name": "XM-AIR-CL-EN-GLOBAL",
+    "display_name_en": "XM-AIR-CL-EN-GLOBAL"
+  },
+  "air_dc_global": {
+    "display_name": "XM-AIR-DC-GLOBAL",
+    "display_name_en": "XM-AIR-DC-GLOBAL"
+  },
+  "air_eea_global": {
+    "display_name": "XM-AIR-EEA-GLOBAL",
+    "display_name_en": "XM-AIR-EEA-GLOBAL"
+  },
+  "air_global": {
+    "display_name": "XM-AIR-GLOBAL",
+    "display_name_en": "XM-AIR-GLOBAL"
+  },
+  "air_id_global": {
+    "display_name": "XM-AIR-ID-GLOBAL",
+    "display_name_en": "XM-AIR-ID-GLOBAL"
+  },
+  "air_in_global": {
+    "display_name": "Redmi 13C 5G/POCO M6 5G",
+    "display_name_en": "Redmi 13C 5G/POCO M6 5G"
+  },
+  "air_lm_cr_global": {
+    "display_name": "XM-AIR-LM-CR-GLOBAL",
+    "display_name_en": "XM-AIR-LM-CR-GLOBAL"
+  },
+  "air_pre_cl_en_global": {
+    "display_name": "XM-AIR-PRE-CL-EN-GLOBAL",
+    "display_name_en": "XM-AIR-PRE-CL-EN-GLOBAL"
+  },
+  "air_pre_dc_global": {
+    "display_name": "XM-AIR-PRE-DC-GLOBAL",
+    "display_name_en": "XM-AIR-PRE-DC-GLOBAL"
+  },
+  "air_pre_eea_global": {
+    "display_name": "XM-AIR-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-AIR-PRE-EEA-GLOBAL"
+  },
+  "air_pre_global": {
+    "display_name": "XM-AIR-PRE-GLOBAL",
+    "display_name_en": "XM-AIR-PRE-GLOBAL"
+  },
+  "air_pre_id_global": {
+    "display_name": "XM-AIR-PRE-ID-GLOBAL",
+    "display_name_en": "XM-AIR-PRE-ID-GLOBAL"
+  },
+  "air_pre_in_global": {
+    "display_name": "POCO M6 5G/Redmi 13C 5G",
+    "display_name_en": "POCO M6 5G/Redmi 13C 5G"
+  },
+  "air_pre_lm_cr_global": {
+    "display_name": "XM-AIR-PRE-LM-CR-GLOBAL",
+    "display_name_en": "XM-AIR-PRE-LM-CR-GLOBAL"
+  },
+  "air_pre_ru_global": {
+    "display_name": "XM-AIR-PRE-RU-GLOBAL",
+    "display_name_en": "XM-AIR-PRE-RU-GLOBAL"
+  },
+  "air_pre_tr_global": {
+    "display_name": "XM-AIR-PRE-TR-GLOBAL",
+    "display_name_en": "XM-AIR-PRE-TR-GLOBAL"
+  },
+  "air_pre_tw_global": {
+    "display_name": "XM-AIR-PRE-TW-GLOBAL",
+    "display_name_en": "XM-AIR-PRE-TW-GLOBAL"
+  },
+  "air_ru_global": {
+    "display_name": "XM-AIR-RU-GLOBAL",
+    "display_name_en": "XM-AIR-RU-GLOBAL"
+  },
+  "air_tr_global": {
+    "display_name": "XM-AIR-TR-GLOBAL",
+    "display_name_en": "XM-AIR-TR-GLOBAL"
+  },
+  "air_tw_global": {
+    "display_name": "XM-AIR-TW-GLOBAL",
+    "display_name_en": "XM-AIR-TW-GLOBAL"
+  },
   "alioth": {
     "display_name": "Redmi K40",
     "display_name_en": "Redmi K40"
@@ -4258,6 +4342,10 @@
   "mocha_global": {
     "display_name": "MI PAD",
     "display_name_en": "MI PAD"
+  },
+  "moderntimes": {
+    "display_name": "Redmi A系列",
+    "display_name_en": "Redmi A"
   },
   "mojito_eea_global": {
     "display_name": "Redmi Note 10",
@@ -8551,6 +8639,10 @@
     "display_name": "XM-ZIRCON-IN-GLOBAL",
     "display_name_en": "XM-ZIRCON-IN-GLOBAL"
   },
+  "zircon_jp_global": {
+    "display_name": "XM-ZIRCON-JP-GLOBAL",
+    "display_name_en": "XM-ZIRCON-JP-GLOBAL"
+  },
   "zircon_lm_cr_global": {
     "display_name": "XM-ZIRCON-LM-CR-GLOBAL",
     "display_name_en": "XM-ZIRCON-LM-CR-GLOBAL"
@@ -8578,6 +8670,10 @@
   "zircon_pre_in_global": {
     "display_name": "XM-ZIRCON-IN-GLOBAL",
     "display_name_en": "XM-ZIRCON-IN-GLOBAL"
+  },
+  "zircon_pre_jp_global": {
+    "display_name": "XM-ZIRCON-PRE-JP-GLOBAL",
+    "display_name_en": "XM-ZIRCON-PRE-JP-GLOBAL"
   },
   "zircon_pre_lm_cr_global": {
     "display_name": "XM-ZIRCON-LM-CR-GLOBAL",
