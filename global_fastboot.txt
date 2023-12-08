@@ -218,6 +218,7 @@ munch_ru_global - F
 munch_tr_global - F
 munch_tw_global - F
 nabu_eea_global - F
+nabu_global - F
 nabu_in_global - F
 nabu_ru_global - F
 nabu_tr_global - F
@@ -242,6 +243,7 @@ pissarro_in_global - F
 pissarro_ru_global - F
 pissarro_tr_global - F
 pissarro_tw_global - F
+plato_eea_global - F
 plato_global - F
 plato_id_global - F
 plato_ru_global - F
@@ -260,6 +262,7 @@ renoir_global - F
 renoir_jp_global - F
 renoir_ru_global - F
 renoir_tw_global - F
+rock_eea_global - F
 rock_global - F
 rock_id_global - F
 rock_id_global - F
@@ -301,6 +304,7 @@ spesn_global - F
 spesn_ru_global - F
 star_eea_global - F
 star_global - F
+star_id_global - F
 star_in_global - F
 sunstone_global - F
 sunstone_tw_global - F
