@@ -1198,12 +1198,13 @@
   }
  },
  "gale": {
-  "internal_name": "C3U",
-  "name": "Redmi 13C",
+  "internal_name": "C3U/C3UP",
+  "name": "Redmi 13C/POCO C65",
   "models": {
    "`23106RN0DA`": "Redmi 13C Global",
    "`2311DRN14I`": "Redmi 13C India",
-   "`23100RN82L`": "Redmi 13C Latin America"
+   "`23100RN82L`": "Redmi 13C Latin America",
+   "`2310FPCA4I`": "POCO C65 India"
   }
  },
  "gust": {
@@ -1215,12 +1216,13 @@
   }
  },
  "air": {
-  "internal_name": "C3V",
-  "name": "Redmi 13C 5G / Redmi 13R 5G",
+  "internal_name": "C3V/C3VP",
+  "name": "Redmi 13C 5G / Redmi 13R 5G/POCO M6 5G",
   "models": {
    "`23124RN87G`": "Redmi 13C 5G Global",
    "`23124RN87I`": "Redmi 13C 5G India",
-   "`23124RN87C`": "Redmi 13R 5G China"
+   "`23124RN87C`": "Redmi 13R 5G China",
+   "`23128PC33I`": "POCO M6 5G India"
   }
  },
  "lcsh92_wet_gb9": {
@@ -1960,9 +1962,11 @@
  },
  "vermeer": {
   "internal_name": "N11",
-  "name": "Redmi K70",
+  "name": "Redmi K70/POCO F6 Pro",
   "models": {
-   "`23113RKC6C`": "Redmi K70 China"
+   "`23113RKC6C`": "Redmi K70 China",
+   "`23113RKC6G`": "POCO F6 Pro Global",
+   "`23113RKC6I`": "POCO F6 Pro India"
   }
  },
  "manet": {
