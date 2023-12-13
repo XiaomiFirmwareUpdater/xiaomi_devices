@@ -36,6 +36,12 @@
   }
  },
  {
+  "gale": {
+   "name": "POCO C65",
+   "model": "2310FPCA4I"
+  }
+ },
+ {
   "gust": {
    "name": "POCO C65",
    "model": "2310FPCA4G"
@@ -171,6 +177,12 @@
   "rosemary": {
    "name": "POCO M5s",
    "model": "2207117BPG"
+  }
+ },
+ {
+  "sky": {
+   "name": "POCO M6 Pro 5G",
+   "model": "23076PC4BI"
   }
  },
  {
@@ -513,6 +525,24 @@
   "gale": {
    "name": "Redmi 13C",
    "model": "23106RN0DA"
+  }
+ },
+ {
+  "gale": {
+   "name": "Redmi 13C",
+   "model": "2311DRN14I"
+  }
+ },
+ {
+  "gust": {
+   "name": "Redmi 13C",
+   "model": "23108RN04Y"
+  }
+ },
+ {
+  "air": {
+   "name": "Redmi 13C 5G",
+   "model": "23124RN87I"
   }
  },
  {
@@ -1267,13 +1297,13 @@
  },
  {
   "garnet": {
-   "name": "Redmi Note 13 Pro",
+   "name": "Redmi Note 13 Pro 5G",
    "model": "2312CRAD3C"
   }
  },
  {
   "garnet": {
-   "name": "Redmi Note 13 Pro",
+   "name": "Redmi Note 13 Pro 5G",
    "model": "2312DRA50C"
   }
  },
