@@ -118,6 +118,19 @@
    "updatedAt": "2023-03-01T06:41:16.000Z"
   },
   {
+   "id": 58,
+   "status": 1,
+   "deviceName": "POCO M6 Pro 5G",
+   "releaseDate": "2023-12",
+   "securityUpdateEol": "2026-9",
+   "updateFrequency": "90 DAYS",
+   "updateFrequencyTl": "90 DAYS",
+   "shippedVersion": "Android 13，",
+   "futureVersion": "Android 14，Android 15",
+   "createdAt": "2023-12-13T12:36:38.000Z",
+   "updatedAt": "2023-12-13T12:40:44.000Z"
+  },
+  {
    "id": 57,
    "status": 1,
    "deviceName": "Redmi 13C",
@@ -677,5 +690,5 @@
    "updatedAt": "2021-11-15T12:35:15.000Z"
   }
  ],
- "total": 52
+ "total": 53
 }
