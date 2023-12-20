@@ -21,6 +21,7 @@ apollo_ru_global - F
 apollo_tw_global - F
 ares_in_global - F
 aristotle_eea_global - F
+aristotle_global - F
 aristotle_ru_global - F
 aristotle_tw_global - F
 camellia_in_global - F
@@ -277,6 +278,7 @@ rosemary_p_ru_global - F
 rosemary_p_tw_global - F
 rosemary_ru_global - F
 rosemary_tr_global - F
+rosemary_tw_global - F
 ruby_eea_global - F
 ruby_global - F
 ruby_id_global - F
