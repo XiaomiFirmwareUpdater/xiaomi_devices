@@ -128,6 +128,7 @@ fuxi_ru_global - F
 fuxi_tr_global - F
 fuxi_tw_global - F
 gale_global - F
+gale_ru_global - F
 gale_tw_global - F
 gauguin_eea_global - F
 gauguin_global - F
