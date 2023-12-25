@@ -520,23 +520,7 @@
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi Note 8 (ID)"
-    },
-    {
-     "brand": "Redmi",
      "deviceName": "Redmi 8A Dual"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi Note 8 (IN)"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi Note 8 (GLOBAL)"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi Note 8 (CN)"
     },
     {
      "brand": "Redmi",
@@ -765,6 +749,30 @@
      "deviceName": "Redmi 9C (MX)",
      "sku": "angelica_mx_tc_global",
      "projectCode": "C3M"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 9 (TW)",
+     "sku": "merlin_tw_global",
+     "projectCode": "J15S/J15N"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 9 (CN)",
+     "sku": "cannon",
+     "projectCode": "J22"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 8",
+     "sku": "ginkgo_eea_global",
+     "projectCode": "C3J"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 9 Pro (TW)",
+     "sku": "joyeuse_tw_global",
+     "projectCode": "J6B2"
     }
    ]
   },
@@ -821,5 +829,5 @@
    ]
   }
  ],
- "updateAt": "2023-11-20T23:18:11.000Z"
+ "updateAt": "2023-12-24T22:47:27.000Z"
 }
