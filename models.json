@@ -1773,6 +1773,21 @@
    "`23049PCD8I`": "POCO F5 India"
   }
  },
+ "sapphire": {
+  "internal_name": "N7",
+  "name": "Redmi Note 13",
+  "models": {
+   "`23129RAA4G`": "Redmi Note 13 Global",
+   "`23129RA5FL`": "Redmi Note 13 Latin America"
+  }
+ },
+ "sapphiren": {
+  "internal_name": "N7N",
+  "name": "Redmi Note 13",
+  "models": {
+   "`23124RA7EO`": "Redmi Note 13 Global (NFC)"
+  }
+ },
  "gold": {
   "internal_name": "N17",
   "name": "Redmi Note 13 5G/Redmi Note 13R Pro/POCO X6 Neo",
