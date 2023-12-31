@@ -200,7 +200,6 @@ merlin_global - F
 merlin_ru_global - F
 merlin_tw_global - F
 mondrian_eea_global - F
-mondrian_global - F
 mondrian_ru_global - F
 mondrian_tr_global - F
 mondrian_tw_global - F
@@ -213,7 +212,6 @@ moonstone_ru_global - F
 moonstone_tw_global - F
 munch_eea_global - F
 munch_global - F
-munch_id_global - F
 munch_in_global - F
 munch_ru_global - F
 munch_tr_global - F
