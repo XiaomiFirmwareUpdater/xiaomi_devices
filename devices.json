@@ -1999,6 +1999,102 @@
     "display_name": "小米平板 5 Pro",
     "display_name_en": "Xiaomi Pad 5 Pro"
   },
+  "emerald_dc_global": {
+    "display_name": "Redmi Note 13 Pro",
+    "display_name_en": "Redmi Note 13 Pro"
+  },
+  "emerald_eea_global": {
+    "display_name": "POCO M6 Pro/Redmi Note 13 Pro",
+    "display_name_en": "POCO M6 Pro/Redmi Note 13 Pro"
+  },
+  "emerald_global": {
+    "display_name": "POCO M6 Pro/Redmi Note 13 Pro",
+    "display_name_en": "POCO M6 Pro/Redmi Note 13 Pro"
+  },
+  "emerald_id_global": {
+    "display_name": "POCO M6 Pro/Redmi Note 13 Pro",
+    "display_name_en": "POCO M6 Pro/Redmi Note 13 Pro"
+  },
+  "emerald_lm_cr_global": {
+    "display_name": "Redmi Note 13 Pro",
+    "display_name_en": "Redmi Note 13 Pro"
+  },
+  "emerald_lm_ms_global": {
+    "display_name": "Redmi Note 13 Pro",
+    "display_name_en": "Redmi Note 13 Pro"
+  },
+  "emerald_mx_at_global": {
+    "display_name": "Redmi Note 13 Pro",
+    "display_name_en": "Redmi Note 13 Pro"
+  },
+  "emerald_mx_tc_global": {
+    "display_name": "Redmi Note 13 Pro",
+    "display_name_en": "Redmi Note 13 Pro"
+  },
+  "emerald_pre_dc_global": {
+    "display_name": "Redmi Note 13 Pro",
+    "display_name_en": "Redmi Note 13 Pro"
+  },
+  "emerald_pre_eea_global": {
+    "display_name": "XM-EMERALD-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-EMERALD-PRE-EEA-GLOBAL"
+  },
+  "emerald_pre_global": {
+    "display_name": "XM-EMERALD-PRE-GLOBAL",
+    "display_name_en": "XM-EMERALD-PRE-GLOBAL"
+  },
+  "emerald_pre_id_global": {
+    "display_name": "XM-EMERALD-PRE-ID-GLOBAL",
+    "display_name_en": "XM-EMERALD-PRE-ID-GLOBAL"
+  },
+  "emerald_pre_lm_cr_global": {
+    "display_name": "Redmi Note 13 Pro",
+    "display_name_en": "Redmi Note 13 Pro"
+  },
+  "emerald_pre_lm_ms_global": {
+    "display_name": "Redmi Note 13 Pro",
+    "display_name_en": "Redmi Note 13 Pro"
+  },
+  "emerald_pre_mx_at_global": {
+    "display_name": "Redmi Note 13 Pro",
+    "display_name_en": "Redmi Note 13 Pro"
+  },
+  "emerald_pre_mx_tc_global": {
+    "display_name": "Redmi Note 13 Pro",
+    "display_name_en": "Redmi Note 13 Pro"
+  },
+  "emerald_pre_ru_global": {
+    "display_name": "XM-EMERALD-PRE-RU-GLOBAL",
+    "display_name_en": "XM-EMERALD-PRE-RU-GLOBAL"
+  },
+  "emerald_pre_tr_global": {
+    "display_name": "XM-EMERALD-PRE-TR-GLOBAL",
+    "display_name_en": "XM-EMERALD-PRE-TR-GLOBAL"
+  },
+  "emerald_pre_za_mt_global": {
+    "display_name": "Redmi Note 13 Pro",
+    "display_name_en": "Redmi Note 13 Pro"
+  },
+  "emerald_pre_za_vc_global": {
+    "display_name": "Redmi Note 13 Pro",
+    "display_name_en": "Redmi Note 13 Pro"
+  },
+  "emerald_ru_global": {
+    "display_name": "POCO M6 Pro/Redmi Note 13 Pro",
+    "display_name_en": "POCO M6 Pro/Redmi Note 13 Pro"
+  },
+  "emerald_tr_global": {
+    "display_name": "POCO M6 Pro/Redmi Note 13 Pro",
+    "display_name_en": "POCO M6 Pro/Redmi Note 13 Pro"
+  },
+  "emerald_za_mt_global": {
+    "display_name": "Redmi Note 13 Pro",
+    "display_name_en": "Redmi Note 13 Pro"
+  },
+  "emerald_za_vc_global": {
+    "display_name": "Redmi Note 13 Pro",
+    "display_name_en": "Redmi Note 13 Pro"
+  },
   "enuma": {
     "display_name": "小米平板 5 Pro 5G",
     "display_name_en": "Xiaomi Pad 5 Pro 5G"
