@@ -1799,6 +1799,14 @@
    "`2312FRAFDI`": "POCO X6 Neo India"
   }
  },
+ "emerald": {
+  "internal_name": "",
+  "name": "Redmi Note 13 Pro (`emerald`)/POCO M6 Pro (`emerald`)",
+  "models": {
+   "`23117RA68G`": "Redmi Note 13 Pro Global",
+   "`2312FPCA6G`": "POCO M6 Pro Global"
+  }
+ },
  "garnet": {
   "internal_name": "N16/N16P",
   "name": "Redmi Note 13 Pro 5G/POCO X6 5G",
