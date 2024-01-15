@@ -1,5 +1,4 @@
 agate_eea_global - F
-agate_global - F
 agate_id_global - F
 agate_ru_global - F
 agate_tw_global - F
@@ -398,5 +397,4 @@ zeus_tr_global - F
 zeus_tw_global - F
 ziyi_eea_global - F
 ziyi_global - F
-ziyi_ru_global - F
 ziyi_tw_global - F
