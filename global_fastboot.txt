@@ -1,4 +1,5 @@
 agate_eea_global - F
+agate_global - F
 agate_id_global - F
 agate_ru_global - F
 agate_tw_global - F
@@ -199,7 +200,6 @@ merlin_global - F
 merlin_ru_global - F
 merlin_tw_global - F
 mondrian_eea_global - F
-mondrian_global - F
 mondrian_ru_global - F
 mondrian_tr_global - F
 mondrian_tw_global - F
@@ -212,7 +212,6 @@ moonstone_ru_global - F
 moonstone_tw_global - F
 munch_eea_global - F
 munch_global - F
-munch_id_global - F
 munch_in_global - F
 munch_ru_global - F
 munch_tr_global - F
@@ -384,6 +383,7 @@ xaga_tr_global - F
 xaga_tw_global - F
 xun_eea_global - F
 xun_global - F
+xun_ru_global - F
 xun_tw_global - F
 yunluo_eea_global - F
 yunluo_global - F
@@ -397,4 +397,5 @@ zeus_tr_global - F
 zeus_tw_global - F
 ziyi_eea_global - F
 ziyi_global - F
+ziyi_ru_global - F
 ziyi_tw_global - F
