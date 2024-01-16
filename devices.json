@@ -679,6 +679,10 @@
     "display_name": "Redmi Note 8 (2021)",
     "display_name_en": "Redmi Note 8 (2021)"
   },
+  "blueplanet": {
+    "display_name": "XM-BLUEPLANET",
+    "display_name_en": "XM-BLUEPLANET"
+  },
   "bomb": {
     "display_name": "Redmi 10X pro",
     "display_name_en": "Redmi 10X pro"
@@ -2988,16 +2992,16 @@
     "display_name_en": "Redmi Note 13 5G"
   },
   "gold_global": {
-    "display_name": "XM-GOLD-GLOBAL",
-    "display_name_en": "XM-GOLD-GLOBAL"
+    "display_name": "Redmi Note 13 5G",
+    "display_name_en": "Redmi Note 13 5G"
   },
   "gold_gt_tg_global": {
     "display_name": "Redmi Note 13 5G",
     "display_name_en": "Redmi Note 13 5G"
   },
   "gold_id_global": {
-    "display_name": "XM-GOLD-ID-GLOBAL",
-    "display_name_en": "XM-GOLD-ID-GLOBAL"
+    "display_name": "Redmi Note 13 5G",
+    "display_name_en": "Redmi Note 13 5G"
   },
   "gold_in_global": {
     "display_name": "Redmi Note 13 5G/POCO X6 Neo 5G",
@@ -3060,8 +3064,8 @@
     "display_name_en": "Redmi Note 13 5G"
   },
   "gold_tw_global": {
-    "display_name": "XM-GOLD-TW-GLOBAL",
-    "display_name_en": "XM-GOLD-TW-GLOBAL"
+    "display_name": "Redmi Note 13 5G",
+    "display_name_en": "Redmi Note 13 5G"
   },
   "gram_in_global": {
     "display_name": "POCO M2 Pro",
@@ -6676,12 +6680,12 @@
     "display_name_en": "XM-SKY-DC-GLOBAL"
   },
   "sky_eea_global": {
-    "display_name": "XM-SKY-EEA-GLOBAL",
-    "display_name_en": "XM-SKY-EEA-GLOBAL"
+    "display_name": "Redmi 12 5G",
+    "display_name_en": "Redmi 12 5G"
   },
   "sky_global": {
-    "display_name": "XM-SKY-GLOBAL",
-    "display_name_en": "XM-SKY-GLOBAL"
+    "display_name": "Redmi 12 5G",
+    "display_name_en": "Redmi 12 5G"
   },
   "sky_gt_tg_global": {
     "display_name": "XM-SKY-GT-TG-GLOBAL",
@@ -6692,8 +6696,8 @@
     "display_name_en": "POCO M6 Pro 5G/Redmi 12 5G"
   },
   "sky_jp_global": {
-    "display_name": "XM-SKY-JP-GLOBAL",
-    "display_name_en": "XM-SKY-JP-GLOBAL"
+    "display_name": "Redmi 12 5G",
+    "display_name_en": "Redmi 12 5G"
   },
   "sky_jp_kd_global": {
     "display_name": "Redmi 12 5G",
@@ -6756,8 +6760,8 @@
     "display_name_en": "XM-SKY-PRE-TW-GLOBAL"
   },
   "sky_tw_global": {
-    "display_name": "XM-SKY-TW-GLOBAL",
-    "display_name_en": "XM-SKY-TW-GLOBAL"
+    "display_name": "Redmi 12 5G",
+    "display_name_en": "Redmi 12 5G"
   },
   "socrates": {
     "display_name": "Redmi K60 Pro",
@@ -8764,40 +8768,40 @@
     "display_name_en": "Redmi Note 13 Pro+ "
   },
   "zircon_dc_global": {
-    "display_name": "XM-ZIRCON-DC-GLOBAL",
-    "display_name_en": "XM-ZIRCON-DC-GLOBAL"
+    "display_name": "Redmi Note 13 Pro+ 5G",
+    "display_name_en": "Redmi Note 13 Pro+ 5G"
   },
   "zircon_eea_global": {
-    "display_name": "XM-ZIRCON-EEA-GLOBAL",
-    "display_name_en": "XM-ZIRCON-EEA-GLOBAL"
+    "display_name": "Redmi Note 13 Pro+ 5G",
+    "display_name_en": "Redmi Note 13 Pro+ 5G"
   },
   "zircon_global": {
-    "display_name": "XM-ZIRCON-GLOBAL",
-    "display_name_en": "XM-ZIRCON-GLOBAL"
+    "display_name": "Redmi Note 13 Pro+ 5G",
+    "display_name_en": "Redmi Note 13 Pro+ 5G"
   },
   "zircon_id_global": {
-    "display_name": "XM-ZIRCON-ID-GLOBAL",
-    "display_name_en": "XM-ZIRCON-ID-GLOBAL"
+    "display_name": "Redmi Note 13 Pro+ 5G",
+    "display_name_en": "Redmi Note 13 Pro+ 5G"
   },
   "zircon_in_global": {
-    "display_name": "XM-ZIRCON-IN-GLOBAL",
-    "display_name_en": "XM-ZIRCON-IN-GLOBAL"
+    "display_name": "Redmi Note 13 Pro+ 5G",
+    "display_name_en": "Redmi Note 13 Pro+ 5G"
   },
   "zircon_jp_global": {
-    "display_name": "XM-ZIRCON-JP-GLOBAL",
-    "display_name_en": "XM-ZIRCON-JP-GLOBAL"
+    "display_name": "Redmi Note 13 Pro+ 5G",
+    "display_name_en": "Redmi Note 13 Pro+ 5G"
   },
   "zircon_lm_cr_global": {
-    "display_name": "XM-ZIRCON-LM-CR-GLOBAL",
-    "display_name_en": "XM-ZIRCON-LM-CR-GLOBAL"
+    "display_name": "Redmi Note 13 Pro+ 5G",
+    "display_name_en": "Redmi Note 13 Pro+ 5G"
   },
   "zircon_mx_tc_global": {
     "display_name": "XM-ZIRCON-MX-TC-GLOBAL",
     "display_name_en": "XM-ZIRCON-MX-TC-GLOBAL"
   },
   "zircon_pre_dc_global": {
-    "display_name": "XM-ZIRCON-PRE-DC-GLOBAL",
-    "display_name_en": "XM-ZIRCON-PRE-DC-GLOBAL"
+    "display_name": "Redmi Note 13 Pro+ 5G",
+    "display_name_en": "Redmi Note 13 Pro+ 5G"
   },
   "zircon_pre_eea_global": {
     "display_name": "XM-ZIRCON-EEA-GLOBAL",
@@ -8816,8 +8820,8 @@
     "display_name_en": "XM-ZIRCON-IN-GLOBAL"
   },
   "zircon_pre_jp_global": {
-    "display_name": "XM-ZIRCON-PRE-JP-GLOBAL",
-    "display_name_en": "XM-ZIRCON-PRE-JP-GLOBAL"
+    "display_name": "Redmi Note 13 Pro+ 5G",
+    "display_name_en": "Redmi Note 13 Pro+ 5G"
   },
   "zircon_pre_lm_cr_global": {
     "display_name": "XM-ZIRCON-LM-CR-GLOBAL",
@@ -8840,16 +8844,16 @@
     "display_name_en": "XM-ZIRCON-TW-GLOBAL"
   },
   "zircon_ru_global": {
-    "display_name": "XM-ZIRCON-RU-GLOBAL",
-    "display_name_en": "XM-ZIRCON-RU-GLOBAL"
+    "display_name": "Redmi Note 13 Pro+ 5G",
+    "display_name_en": "Redmi Note 13 Pro+ 5G"
   },
   "zircon_tr_global": {
-    "display_name": "XM-ZIRCON-TR-GLOBAL",
-    "display_name_en": "XM-ZIRCON-TR-GLOBAL"
+    "display_name": "Redmi Note 13 Pro+ 5G",
+    "display_name_en": "Redmi Note 13 Pro+ 5G"
   },
   "zircon_tw_global": {
-    "display_name": "XM-ZIRCON-TW-GLOBAL",
-    "display_name_en": "XM-ZIRCON-TW-GLOBAL"
+    "display_name": "Redmi Note 13 Pro+ 5G",
+    "display_name_en": "Redmi Note 13 Pro+ 5G"
   },
   "ziyi": {
     "display_name": "Xiaomi Civi 2",
