@@ -1788,11 +1788,17 @@
    "`23124RA7EO`": "Redmi Note 13 Global (NFC)"
   }
  },
+ "iron": {
+  "internal_name": "N17",
+  "name": "Redmi Note 13 5G",
+  "models": {
+   "`2312DRAABG`": "Redmi Note 13 5G Global"
+  }
+ },
  "gold": {
   "internal_name": "N17",
   "name": "Redmi Note 13 5G/Redmi Note 13R Pro/POCO X6 Neo",
   "models": {
-   "`2312DRAABG`": "Redmi Note 13 5G Global",
    "`2312DRAABI`": "Redmi Note 13 5G India",
    "`2312DRAABC`": "Redmi Note 13 5G China",
    "`2311FRAFDC`": "Redmi Note 13R Pro China",
@@ -1800,8 +1806,8 @@
   }
  },
  "emerald": {
-  "internal_name": "",
-  "name": "Redmi Note 13 Pro (`emerald`)/POCO M6 Pro (`emerald`)",
+  "internal_name": "N6/N6P",
+  "name": "Redmi Note 13 Pro/POCO M6 Pro",
   "models": {
    "`23117RA68G`": "Redmi Note 13 Pro Global",
    "`2312FPCA6G`": "POCO M6 Pro Global"
