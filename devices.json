@@ -6199,6 +6199,62 @@
     "display_name": "XM-SAPPHIRE-PRE-MX-TC-GLOBAL",
     "display_name_en": "XM-SAPPHIRE-PRE-MX-TC-GLOBAL"
   },
+  "sapphiren_dc_global": {
+    "display_name": "Redmi Note 13",
+    "display_name_en": "Redmi Note 13"
+  },
+  "sapphiren_eea_global": {
+    "display_name": "Redmi Note 13",
+    "display_name_en": "Redmi Note 13"
+  },
+  "sapphiren_global": {
+    "display_name": "Redmi Note 13",
+    "display_name_en": "Redmi Note 13"
+  },
+  "sapphiren_id_global": {
+    "display_name": "Redmi Note 13",
+    "display_name_en": "Redmi Note 13"
+  },
+  "sapphiren_pre_dc_global": {
+    "display_name": "Redmi Note 13",
+    "display_name_en": "Redmi Note 13"
+  },
+  "sapphiren_pre_eea_global": {
+    "display_name": "XM-SAPPHIREN-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-SAPPHIREN-PRE-EEA-GLOBAL"
+  },
+  "sapphiren_pre_global": {
+    "display_name": "XM-SAPPHIREN-PRE-GLOBAL",
+    "display_name_en": "XM-SAPPHIREN-PRE-GLOBAL"
+  },
+  "sapphiren_pre_id_global": {
+    "display_name": "XM-SAPPHIREN-PRE-ID-GLOBAL",
+    "display_name_en": "XM-SAPPHIREN-PRE-ID-GLOBAL"
+  },
+  "sapphiren_pre_ru_global": {
+    "display_name": "XM-SAPPHIREN-PRE-RU-GLOBAL",
+    "display_name_en": "XM-SAPPHIREN-PRE-RU-GLOBAL"
+  },
+  "sapphiren_pre_tr_global": {
+    "display_name": "Redmi Note 13",
+    "display_name_en": "Redmi Note 13"
+  },
+  "sapphiren_pre_tw_global": {
+    "display_name": "XM-SAPPHIREN-PRE-TW-GLOBAL",
+    "display_name_en": "XM-SAPPHIREN-PRE-TW-GLOBAL"
+  },
+  "sapphiren_ru_global": {
+    "display_name": "Redmi Note 13",
+    "display_name_en": "Redmi Note 13"
+  },
+  "sapphiren_tr_global": {
+    "display_name": "Redmi Note 13",
+    "display_name_en": "Redmi Note 13"
+  },
+  "sapphiren_tw_global": {
+    "display_name": "Redmi Note 13",
+    "display_name_en": "Redmi Note 13"
+  },
   "scorpio": {
     "display_name": "小米Note 2",
     "display_name_en": "Mi Note2"
