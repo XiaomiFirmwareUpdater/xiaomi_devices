@@ -1290,9 +1290,33 @@
   }
  },
  {
+  "sapphire": {
+   "name": "Redmi Note 13",
+   "model": "23129RA5FL"
+  }
+ },
+ {
+  "sapphiren": {
+   "name": "Redmi Note 13",
+   "model": "23124RA7EO"
+  }
+ },
+ {
   "gold": {
    "name": "Redmi Note 13 5G",
    "model": "2312DRAABC"
+  }
+ },
+ {
+  "gold": {
+   "name": "Redmi Note 13 5G",
+   "model": "2312DRAABI"
+  }
+ },
+ {
+  "iron": {
+   "name": "Redmi Note 13 5G",
+   "model": "2312DRAABG"
   }
  },
  {
