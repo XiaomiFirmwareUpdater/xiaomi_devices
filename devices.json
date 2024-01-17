@@ -87,6 +87,10 @@
   "Xiaomi 13",
   "FUXI"
  ],
+ "garnet": [
+  "Redmi Note 13 Pro 5G/POCO X6 5G",
+  "GARNET"
+ ],
  "gauguin": [
   "Mi 10T Lite / Mi 10i / Redmi Note 9 Pro China",
   "HMNote9Pro5G_MI10TLite"
@@ -110,6 +114,10 @@
  "helium": [
   "Mi Max Pro",
   "MIMAXPro"
+ ],
+ "houji": [
+  "Xiaomi 14",
+  "HOUJI"
  ],
  "hydrogen": [
   "Mi Max",
@@ -170,6 +178,10 @@
  "lmipro": [
   "Redmi K30 Pro Zoom Edition",
   "HMK30ProZE"
+ ],
+ "manet": [
+  "Redmi K70 Pro",
+  "MANET"
  ],
  "markw": [
   "Redmi 4 Prime/Pro",
@@ -347,9 +359,17 @@
   "Mi Note 2",
   "MINote2"
  ],
+ "shennong": [
+  "Xiaomi 14 Pro",
+  "SHENNONG"
+ ],
  "sirius": [
   "Mi 8 SE",
   "MI8SE"
+ ],
+ "sky": [
+  "Redmi 12 5G/Redmi 12R/Redmi Note 12R/POCO M6 Pro 5G",
+  "SKY"
  ],
  "socrates": [
   "Redmi K60 Pro",
@@ -450,6 +470,10 @@
  "venus": [
   "Mi 11",
   "MI11"
+ ],
+ "vermeer": [
+  "Redmi K70",
+  "VERMEER"
  ],
  "veux": [
   "Redmi Note 11E Pro",
