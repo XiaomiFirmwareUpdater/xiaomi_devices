@@ -92,6 +92,9 @@ earth_in_global - F
 earth_ru_global - F
 earth_tr_global - F
 earth_tw_global - F
+emerald_eea_global - F
+emerald_global - F
+emerald_ru_global - F
 evergreen_eea_global - F
 evergreen_global - F
 evergreen_ru_global - F
@@ -130,6 +133,11 @@ fuxi_tw_global - F
 gale_global - F
 gale_ru_global - F
 gale_tw_global - F
+garnet_eea_global - F
+garnet_global - F
+garnet_in_global - F
+garnet_tr_global - F
+garnet_tw_global - F
 gauguin_eea_global - F
 gauguin_global - F
 gauguin_tw_global - F
@@ -286,6 +294,8 @@ ruby_id_global - F
 ruby_in_global - F
 ruby_ru_global - F
 ruby_tw_global - F
+sapphire_global - F
+sapphiren_eea_global - F
 sea_eea_global - F
 sea_global - F
 sea_ru_global - F
