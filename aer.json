@@ -1,6 +1,58 @@
 {
  "items": [
   {
+   "id": 59,
+   "status": 1,
+   "deviceName": "Redmi Note 13 Pro",
+   "releaseDate": "2024-1",
+   "securityUpdateEol": "2028-1",
+   "updateFrequency": "90 Days",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 13,",
+   "futureVersion": "Android 14,Android 15",
+   "createdAt": "2024-01-22T08:26:16.000Z",
+   "updatedAt": "2024-01-22T08:26:22.000Z"
+  },
+  {
+   "id": 60,
+   "status": 1,
+   "deviceName": "Redmi Note 13 Pro 5G",
+   "releaseDate": "2024-1",
+   "securityUpdateEol": "2027-9",
+   "updateFrequency": "90 Days",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 13",
+   "futureVersion": "Android 14,Android 15",
+   "createdAt": "2024-01-22T08:38:19.000Z",
+   "updatedAt": "2024-01-22T08:38:24.000Z"
+  },
+  {
+   "id": 61,
+   "status": 1,
+   "deviceName": "Redmi Note 13 Pro+ 5G",
+   "releaseDate": "2024-1",
+   "securityUpdateEol": "2028-1",
+   "updateFrequency": "90 Days",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 13",
+   "futureVersion": "Android 14,Android 15",
+   "createdAt": "2024-01-22T09:02:00.000Z",
+   "updatedAt": "2024-01-22T09:02:06.000Z"
+  },
+  {
+   "id": 62,
+   "status": 1,
+   "deviceName": "Redmi Note 13 5G",
+   "releaseDate": "2024-1",
+   "securityUpdateEol": "2027-9",
+   "updateFrequency": "90 Days",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 13",
+   "futureVersion": "Android 14,Android 15",
+   "createdAt": "2024-01-22T09:06:10.000Z",
+   "updatedAt": "2024-01-22T09:06:14.000Z"
+  },
+  {
    "id": 53,
    "status": 1,
    "deviceName": "Redmi Pad SE",
@@ -690,5 +742,5 @@
    "updatedAt": "2021-11-15T12:35:15.000Z"
   }
  ],
- "total": 53
+ "total": 57
 }
