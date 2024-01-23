@@ -141,6 +141,11 @@ garnet_tw_global - F
 gauguin_eea_global - F
 gauguin_global - F
 gauguin_tw_global - F
+gold_global - F
+gold_id_global - F
+gold_in_global - F
+gold_tr_global - F
+gold_tw_global - F
 haydn_eea_global - F
 haydn_global - F
 haydn_in_global - F
@@ -296,6 +301,9 @@ ruby_ru_global - F
 ruby_tw_global - F
 sapphire_global - F
 sapphiren_eea_global - F
+sapphiren_global - F
+sapphiren_ru_global - F
+sapphiren_tw_global - F
 sea_eea_global - F
 sea_global - F
 sea_ru_global - F
@@ -407,6 +415,9 @@ zeus_in_global - F
 zeus_ru_global - F
 zeus_tr_global - F
 zeus_tw_global - F
+zircon_eea_global - F
+zircon_global - F
+zircon_tw_global - F
 ziyi_eea_global - F
 ziyi_global - F
 ziyi_ru_global - F
