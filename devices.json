@@ -180,6 +180,12 @@
   }
  },
  {
+  "emerald": {
+   "name": "POCO M6 Pro",
+   "model": "2312FPCA6G"
+  }
+ },
+ {
   "sky": {
    "name": "POCO M6 Pro 5G",
    "model": "23076PC4BI"
@@ -231,6 +237,18 @@
   "veux": {
    "name": "POCO X4 Pro 5G",
    "model": "2201116PG"
+  }
+ },
+ {
+  "garnet": {
+   "name": "POCO X6 5G",
+   "model": "23122PCD1G"
+  }
+ },
+ {
+  "garnet": {
+   "name": "POCO X6 5G",
+   "model": "23122PCD1I"
   }
  },
  {
@@ -1320,6 +1338,12 @@
   }
  },
  {
+  "emerald": {
+   "name": "Redmi Note 13 Pro",
+   "model": "23117RA68G"
+  }
+ },
+ {
   "garnet": {
    "name": "Redmi Note 13 Pro 5G",
    "model": "2312CRAD3C"
@@ -1332,9 +1356,33 @@
   }
  },
  {
+  "garnet": {
+   "name": "Redmi Note 13 Pro 5G",
+   "model": "2312DRA50G"
+  }
+ },
+ {
+  "garnet": {
+   "name": "Redmi Note 13 Pro 5G",
+   "model": "2312DRA50I"
+  }
+ },
+ {
   "zircon": {
    "name": "Redmi Note 13 Pro+",
    "model": "23090RA98C"
+  }
+ },
+ {
+  "zircon": {
+   "name": "Redmi Note 13 Pro+ 5G",
+   "model": "23090RA98G"
+  }
+ },
+ {
+  "zircon": {
+   "name": "Redmi Note 13 Pro+ 5G",
+   "model": "23090RA98I"
   }
  },
  {
@@ -3093,6 +3141,12 @@
   "shennong": {
    "name": "Xiaomi 14 Pro",
    "model": "23116PN5BC"
+  }
+ },
+ {
+  "shennong": {
+   "name": "Xiaomi 14 Pro",
+   "model": "2311BPN23C"
   }
  },
  {
