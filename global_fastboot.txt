@@ -166,7 +166,6 @@ ishtar_global - F
 ishtar_ru_global - F
 ishtar_tw_global - F
 joyeuse_eea_global - F
-joyeuse_global - F
 joyeuse_id_global - F
 joyeuse_ru_global - F
 joyeuse_tw_global - F
@@ -181,7 +180,6 @@ lavender_eea_global - F
 lavender_global - F
 lavender_in_global - F
 lavender_ru_global - F
-light_eea_global - F
 light_global - F
 light_id_global - F
 light_ru_global - F
