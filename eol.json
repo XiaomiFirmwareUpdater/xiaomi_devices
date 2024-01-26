@@ -341,6 +341,24 @@
      "deviceName": "Mi 10T (MX)",
      "sku": "apollo_mx_tc_global",
      "projectCode": "J3S"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 10T Pro (RU)",
+     "sku": "apollo_ru_global",
+     "projectCode": "J3S"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 10T (RU)",
+     "sku": "apollo_ru_global",
+     "projectCode": "J3S"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 10 lite 5G (TW)",
+     "sku": "monet_tw_global",
+     "projectCode": "J9"
     }
    ]
   },
@@ -773,6 +791,60 @@
      "deviceName": "Redmi Note 9 Pro (TW)",
      "sku": "joyeuse_tw_global",
      "projectCode": "J6B2"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 9T (RU)",
+     "sku": "cannong_ru_global",
+     "projectCode": "J22G"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 9T (TR)",
+     "sku": "cannong_tr_global",
+     "projectCode": "J22G"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 9T (EEA)",
+     "sku": "cannong_eea_global",
+     "projectCode": "J22G"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 9T (ID)",
+     "sku": "lime_id_global",
+     "projectCode": "J19S/J19N/J19L"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 9T (TR)",
+     "sku": "lime_tr_global",
+     "projectCode": "J19S/J19N/J19L"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 9T (GLOBAL)",
+     "sku": "lime_global",
+     "projectCode": "J19S/J19N/J19L"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 9T (TW)",
+     "sku": "lime_tw_global",
+     "projectCode": "J19S/J19N/J19L"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 9T (TW)",
+     "sku": "cannong_tw_global",
+     "projectCode": "J22G"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 9T (GLOBAL)",
+     "sku": "cannong_global",
+     "projectCode": "J22G"
     }
    ]
   },
@@ -825,9 +897,33 @@
      "deviceName": "POCO X3 NFC (TR)",
      "sku": "surya_tr_global",
      "projectCode": "J20C"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO M3 (TW)",
+     "sku": "citrus_tw_global",
+     "projectCode": "J19C"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO M3 (RU)",
+     "sku": "citrus_ru_global",
+     "projectCode": "J19C"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO M3 (TR)",
+     "sku": "citrus_tr_global",
+     "projectCode": "J19C"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO M3 (ID)",
+     "sku": "citrus_id_global",
+     "projectCode": "J19C"
     }
    ]
   }
  ],
- "updateAt": "2023-12-24T22:47:27.000Z"
+ "updateAt": "2024-01-25T17:34:01.000Z"
 }
