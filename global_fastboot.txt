@@ -328,6 +328,7 @@ star_eea_global - F
 star_global - F
 star_id_global - F
 star_in_global - F
+sunstone_eea_global - F
 sunstone_global - F
 sunstone_tw_global - F
 surya_eea_global - F
