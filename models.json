@@ -539,6 +539,14 @@
    "`23116PN5BC`": "Xiaomi 14 Pro China"
   }
  },
+ "aurora": {
+  "internal_name": "N1",
+  "name": "Xiaomi 14 Ultra",
+  "models": {
+   "`24030PN60G`": "Xiaomi 14 Ultra Global",
+   "`24030PN60C`": "Xiaomi 14 Ultra China"
+  }
+ },
  "virgo": {
   "internal_name": "X5",
   "name": "Mi Note",
