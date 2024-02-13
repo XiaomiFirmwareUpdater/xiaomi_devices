@@ -54,6 +54,7 @@ cmi_eea_global - F
 cmi_global - F
 corot_eea_global - F
 corot_global - F
+corot_jp_global - F
 corot_ru_global - F
 corot_tw_global - F
 courbet_eea_global - F
