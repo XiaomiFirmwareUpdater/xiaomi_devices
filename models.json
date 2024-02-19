@@ -535,7 +535,6 @@
   "internal_name": "N2",
   "name": "Xiaomi 14 Pro",
   "models": {
-   "`23116PN5BG`": "Xiaomi 14 Pro Global",
    "`23116PN5BC`": "Xiaomi 14 Pro China"
   }
  },
@@ -544,7 +543,7 @@
   "name": "Xiaomi 14 Ultra",
   "models": {
    "`24030PN60G`": "Xiaomi 14 Ultra Global",
-   "`24030PN60C`": "Xiaomi 14 Ultra China"
+   "`24031PN0DC`": "Xiaomi 14 Ultra China"
   }
  },
  "virgo": {
@@ -2284,6 +2283,14 @@
   "name": "Xiaomi Pad 6 Max 14",
   "models": {
    "`2307BRPDCC`": "Xiaomi Pad 6 Max 14 China"
+  }
+ },
+ "sheng": {
+  "internal_name": "N81A",
+  "name": "Xiaomi Pad 6S Pro 12.4",
+  "models": {
+   "`24018RPACG`": "Xiaomi Pad 6S Pro 12.4 Global",
+   "`24018RPACC`": "Xiaomi Pad 6S Pro 12.4 China"
   }
  },
  "yunluo": {
