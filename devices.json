@@ -607,6 +607,66 @@
     "display_name": "Redmi 10X",
     "display_name_en": "Redmi 10X"
   },
+  "aurora": {
+    "display_name": "Xiaomi 14 Ultra/Xiaomi 14 Ultra Ti",
+    "display_name_en": "Xiaomi 14 Ultra/Xiaomi 14 Ultra Ti"
+  },
+  "aurora_eea_global": {
+    "display_name": "XM-AURORA-EEA-GLOBAL",
+    "display_name_en": "XM-AURORA-EEA-GLOBAL"
+  },
+  "aurora_global": {
+    "display_name": "XM-AURORA-GLOBAL",
+    "display_name_en": "XM-AURORA-GLOBAL"
+  },
+  "aurora_id_global": {
+    "display_name": "XM-AURORA-ID-GLOBAL",
+    "display_name_en": "XM-AURORA-ID-GLOBAL"
+  },
+  "aurora_in_global": {
+    "display_name": "XM-AURORA-IN-GLOBAL",
+    "display_name_en": "XM-AURORA-IN-GLOBAL"
+  },
+  "aurora_pre_eea_global": {
+    "display_name": "XM-AURORA-EEA-GLOBAL",
+    "display_name_en": "XM-AURORA-EEA-GLOBAL"
+  },
+  "aurora_pre_global": {
+    "display_name": "XM-AURORA-GLOBAL",
+    "display_name_en": "XM-AURORA-GLOBAL"
+  },
+  "aurora_pre_id_global": {
+    "display_name": "XM-AURORA-ID-GLOBAL",
+    "display_name_en": "XM-AURORA-ID-GLOBAL"
+  },
+  "aurora_pre_in_global": {
+    "display_name": "XM-AURORA-PRE-IN-GLOBAL",
+    "display_name_en": "XM-AURORA-PRE-IN-GLOBAL"
+  },
+  "aurora_pre_ru_global": {
+    "display_name": "XM-AURORA-RU-GLOBAL",
+    "display_name_en": "XM-AURORA-RU-GLOBAL"
+  },
+  "aurora_pre_tr_global": {
+    "display_name": "XM-AURORA-TR-GLOBAL",
+    "display_name_en": "XM-AURORA-TR-GLOBAL"
+  },
+  "aurora_pre_tw_global": {
+    "display_name": "XM-AURORA-TW-GLOBAL",
+    "display_name_en": "XM-AURORA-TW-GLOBAL"
+  },
+  "aurora_ru_global": {
+    "display_name": "XM-AURORA-RU-GLOBAL",
+    "display_name_en": "XM-AURORA-RU-GLOBAL"
+  },
+  "aurora_tr_global": {
+    "display_name": "XM-AURORA-TR-GLOBAL",
+    "display_name_en": "XM-AURORA-TR-GLOBAL"
+  },
+  "aurora_tw_global": {
+    "display_name": "XM-AURORA-TW-GLOBAL",
+    "display_name_en": "XM-AURORA-TW-GLOBAL"
+  },
   "babylon": {
     "display_name": "Xiaomi MIX Fold 3",
     "display_name_en": "Xiaomi MIX Fold 3"
@@ -6766,6 +6826,50 @@
   "selenes_za_vc_global": {
     "display_name": "HM-K19S-ZA-VC-GLOBAL",
     "display_name_en": "HM-K19S-ZA-VC-GLOBAL"
+  },
+  "sheng": {
+    "display_name": "Xiaomi Pad 6S Pro 12.4",
+    "display_name_en": "Xiaomi Pad 6S Pro 12.4"
+  },
+  "sheng_eea_global": {
+    "display_name": "XM-SHENG-EEA-GLOBAL",
+    "display_name_en": "XM-SHENG-EEA-GLOBAL"
+  },
+  "sheng_global": {
+    "display_name": "XM-SHENG-GLOBAL",
+    "display_name_en": "XM-SHENG-GLOBAL"
+  },
+  "sheng_id_global": {
+    "display_name": "XM-SHENG-ID-GLOBAL",
+    "display_name_en": "XM-SHENG-ID-GLOBAL"
+  },
+  "sheng_pre_eea_global": {
+    "display_name": "XM-SHENG-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-SHENG-PRE-EEA-GLOBAL"
+  },
+  "sheng_pre_global": {
+    "display_name": "XM-SHENG-PRE-GLOBAL",
+    "display_name_en": "XM-SHENG-PRE-GLOBAL"
+  },
+  "sheng_pre_id_global": {
+    "display_name": "XM-SHENG-PRE-ID-GLOBAL",
+    "display_name_en": "XM-SHENG-PRE-ID-GLOBAL"
+  },
+  "sheng_pre_ru_global": {
+    "display_name": "XM-SHENG-PRE-RU-GLOBAL",
+    "display_name_en": "XM-SHENG-PRE-RU-GLOBAL"
+  },
+  "sheng_pre_tw_global": {
+    "display_name": "XM-SHENG-PRE-TW-GLOBAL",
+    "display_name_en": "XM-SHENG-PRE-TW-GLOBAL"
+  },
+  "sheng_ru_global": {
+    "display_name": "XM-SHENG-RU-GLOBAL",
+    "display_name_en": "XM-SHENG-RU-GLOBAL"
+  },
+  "sheng_tw_global": {
+    "display_name": "XM-SHENG-TW-GLOBAL",
+    "display_name_en": "XM-SHENG-TW-GLOBAL"
   },
   "shennong": {
     "display_name": "Xiaomi 14 Pro/Xiaomi 14 Pro Ti",
