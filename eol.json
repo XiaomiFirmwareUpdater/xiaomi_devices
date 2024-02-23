@@ -845,6 +845,18 @@
      "deviceName": "Redmi Note 9T (GLOBAL)",
      "sku": "cannong_global",
      "projectCode": "J22G"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 9T (eea)",
+     "sku": "lime_eea_global",
+     "projectCode": "J19S/J19N/J19L"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 9T (ru)",
+     "sku": "lime_ru_global",
+     "projectCode": "J19S/J19N/J19L"
     }
    ]
   },
@@ -925,5 +937,5 @@
    ]
   }
  ],
- "updateAt": "2024-02-04T19:32:56.000Z"
+ "updateAt": "2024-02-23T01:26:29.000Z"
 }
