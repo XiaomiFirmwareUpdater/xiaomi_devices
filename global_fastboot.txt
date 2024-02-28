@@ -412,6 +412,7 @@ xun_ru_global - F
 xun_tw_global - F
 yunluo_eea_global - F
 yunluo_global - F
+yunluo_ru_global - F
 yunluo_tw_global - F
 zeus_eea_global - F
 zeus_global - F
