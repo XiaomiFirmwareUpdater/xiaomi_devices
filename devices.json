@@ -1663,6 +1663,10 @@
     "display_name": "Redmi Note 9S",
     "display_name_en": "Redmi Note 9S"
   },
+  "cuttlefish_arm_pre_global": {
+    "display_name": "cuttlefisharm",
+    "display_name_en": "cuttlefisharm"
+  },
   "cuttlefish_mtk_pre_global": {
     "display_name": "CUTTLEFISH_MTK x86_64",
     "display_name_en": "CUTTLEFISH_MTK x86_64"
