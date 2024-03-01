@@ -2093,6 +2093,16 @@
    "`2302EPCC4H` `2302EPCC4I`": "POCO C51 India"
   }
  },
+ "blue": {
+  "internal_name": "",
+  "name": "Redmi A3 (`blue`)/POCO C61 (`blue`)",
+  "models": {
+   "`23129RN51X`": "Redmi A3 Global",
+   "`23129RN51H`": "Redmi A3 India",
+   "`2312CRNCCL`": "Redmi A3 Latin America",
+   "`2312BPC51H`": "POCO C61 India"
+  }
+ },
  "beryllium": {
   "internal_name": "E10",
   "name": "POCO F1",
