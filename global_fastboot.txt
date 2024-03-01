@@ -24,6 +24,9 @@ aristotle_eea_global - F
 aristotle_global - F
 aristotle_ru_global - F
 aristotle_tw_global - F
+blue_global - F
+blue_id_global - F
+blue_ru_global - F
 camellia_in_global - F
 camellia_in_global - F
 camellian_eea_global - F
