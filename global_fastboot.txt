@@ -252,6 +252,7 @@ nuwa_tr_global - F
 nuwa_tw_global - F
 opal_eea_global - F
 opal_global - F
+opal_ru_global - F
 opal_tw_global - F
 pipa_eea_global - F
 pipa_global - F
