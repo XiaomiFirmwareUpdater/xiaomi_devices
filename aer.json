@@ -100,9 +100,9 @@
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 13",
-   "futureVersion": "Android 14,Android 15,Android 16",
+   "futureVersion": "Android 14,Android 15,Android 16,Android 17",
    "createdAt": "2023-10-17T13:19:30.000Z",
-   "updatedAt": "2023-10-17T13:19:36.000Z"
+   "updatedAt": "2024-03-11T05:43:49.000Z"
   },
   {
    "id": 56,
@@ -113,9 +113,9 @@
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 13",
-   "futureVersion": "Android 14,Android 15,Android 16",
+   "futureVersion": "Android 14,Android 15,Android 16,Android 17",
    "createdAt": "2023-10-17T13:21:08.000Z",
-   "updatedAt": "2023-10-17T13:21:14.000Z"
+   "updatedAt": "2024-03-11T05:44:15.000Z"
   },
   {
    "id": 51,
@@ -256,9 +256,9 @@
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 12",
-   "futureVersion": "Android 13，Android 14",
+   "futureVersion": "Android 13,Android 14,Android 15",
    "createdAt": "2022-10-09T09:40:29.000Z",
-   "updatedAt": "2022-10-12T07:42:00.000Z"
+   "updatedAt": "2024-03-11T06:07:09.000Z"
   },
   {
    "id": 33,
@@ -386,9 +386,9 @@
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 12",
-   "futureVersion": "Android 13,Android 14",
+   "futureVersion": "Android 13,Android 14,Android 15",
    "createdAt": "2022-10-09T09:41:32.000Z",
-   "updatedAt": "2022-10-09T09:41:57.000Z"
+   "updatedAt": "2024-03-11T06:06:25.000Z"
   },
   {
    "id": 41,
@@ -594,22 +594,22 @@
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 11",
-   "futureVersion": "Android 12",
+   "futureVersion": "Android 12,Android 13",
    "createdAt": "2021-08-12T09:22:46.000Z",
-   "updatedAt": "2021-11-15T12:33:42.000Z"
+   "updatedAt": "2024-03-11T05:48:35.000Z"
   },
   {
    "id": 6,
    "status": 1,
    "deviceName": "Mi 11 Ultra",
    "releaseDate": "2021-04",
-   "securityUpdateEol": "2024-04",
+   "securityUpdateEol": "2025-03",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 11",
-   "futureVersion": "Android 12",
+   "futureVersion": "Android 12,Android 13,Android 14",
    "createdAt": "2021-08-12T09:22:46.000Z",
-   "updatedAt": "2021-11-15T12:33:44.000Z"
+   "updatedAt": "2024-03-11T05:49:57.000Z"
   },
   {
    "id": 8,
@@ -620,9 +620,9 @@
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 11",
-   "futureVersion": "Android 12",
+   "futureVersion": "Android 12,Android 13",
    "createdAt": "2021-08-12T09:22:46.000Z",
-   "updatedAt": "2021-11-15T12:33:21.000Z"
+   "updatedAt": "2024-03-11T05:50:26.000Z"
   },
   {
    "id": 12,
@@ -659,9 +659,9 @@
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 11",
-   "futureVersion": "Android 12",
+   "futureVersion": "Android 12,Android 13",
    "createdAt": "2021-08-12T09:22:46.000Z",
-   "updatedAt": "2021-11-15T12:33:40.000Z"
+   "updatedAt": "2024-03-11T05:47:27.000Z"
   },
   {
    "id": 11,
@@ -672,9 +672,9 @@
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 11",
-   "futureVersion": "Android 12",
+   "futureVersion": "Android 12,Android 13",
    "createdAt": "2021-08-12T09:22:46.000Z",
-   "updatedAt": "2021-11-15T12:33:06.000Z"
+   "updatedAt": "2024-03-11T05:47:56.000Z"
   },
   {
    "id": 10,
