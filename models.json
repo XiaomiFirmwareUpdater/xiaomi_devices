@@ -1174,7 +1174,8 @@
    "`23076RN8DY`": "Redmi 12 5G Global (NFC)",
    "`23077RABDC`": "Redmi 12 5G China",
    "`23076RA4BR`": "Redmi 12 5G Japan (SIM Free)",
-   "`XIG03`": "Redmi 12 5G Japan (KDDI)"
+   "`XIG03`": "Redmi 12 5G Japan (KDDI)",
+   "`A401XM`": "Redmi 12 5G Japan (SoftBank)"
   }
  },
  "sky": {
@@ -1839,6 +1840,15 @@
    "`23090RA98G`": "Redmi Note 13 Pro+ 5G Global",
    "`23090RA98I`": "Redmi Note 13 Pro+ 5G India",
    "`23090RA98C`": "Redmi Note 13 Pro+ 5G China"
+  }
+ },
+ "peridot": {
+  "internal_name": "N16T",
+  "name": "Redmi Note 13 Turbo/POCO F6",
+  "models": {
+   "`24069RA21C`": "Redmi Note 13 Turbo China",
+   "`24069PC21G`": "POCO F6 Global",
+   "`24069PC21I`": "POCO F6 India"
   }
  },
  "atom": {
