@@ -36,6 +36,12 @@
   }
  },
  {
+  "blue": {
+   "name": "POCO C61",
+   "model": "2312BPC51H"
+  }
+ },
+ {
   "gale": {
    "name": "POCO C65",
    "model": "2310FPCA4I"
@@ -510,6 +516,12 @@
   }
  },
  {
+  "river": {
+   "name": "Redmi 12 5G",
+   "model": "A401XM"
+  }
+ },
+ {
   "aether": {
    "name": "Redmi 12C",
    "model": "22126RN91Y"
@@ -789,6 +801,24 @@
   "water": {
    "name": "Redmi A2+",
    "model": "23028RNCAG"
+  }
+ },
+ {
+  "blue": {
+   "name": "Redmi A3",
+   "model": "23129RN51H"
+  }
+ },
+ {
+  "blue": {
+   "name": "Redmi A3",
+   "model": "23129RN51X"
+  }
+ },
+ {
+  "blue": {
+   "name": "Redmi A3",
+   "model": "2312CRNCCL"
   }
  },
  {
@@ -3147,6 +3177,12 @@
   "shennong": {
    "name": "Xiaomi 14 Pro",
    "model": "2311BPN23C"
+  }
+ },
+ {
+  "aurora": {
+   "name": "Xiaomi 14 Ultra",
+   "model": "Xiaomi for arm64"
   }
  },
  {
