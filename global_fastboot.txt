@@ -24,6 +24,7 @@ aristotle_eea_global - F
 aristotle_global - F
 aristotle_ru_global - F
 aristotle_tw_global - F
+aurora_global - F
 blue_global - F
 blue_id_global - F
 blue_in_global - F
@@ -157,6 +158,9 @@ gold_tw_global - F
 haydn_eea_global - F
 haydn_global - F
 haydn_in_global - F
+houji_global - F
+houji_id_global - F
+houji_tw_global - F
 ice_eea_global - F
 ice_global - F
 ice_id_global - F
