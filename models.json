@@ -1842,15 +1842,6 @@
    "`23090RA98C`": "Redmi Note 13 Pro+ 5G China"
   }
  },
- "peridot": {
-  "internal_name": "N16T",
-  "name": "Redmi Note 13 Turbo/POCO F6",
-  "models": {
-   "`24069RA21C`": "Redmi Note 13 Turbo China",
-   "`24069PC21G`": "POCO F6 Global",
-   "`24069PC21I`": "POCO F6 India"
-  }
- },
  "atom": {
   "internal_name": "J7A",
   "name": "Redmi 10X 5G",
@@ -2125,6 +2116,14 @@
   "name": "POCO F3 GT",
   "models": {
    "`M2104K10I`": "POCO F3 GT India"
+  }
+ },
+ "peridot": {
+  "internal_name": "N16T",
+  "name": "POCO F6",
+  "models": {
+   "`24069PC21G`": "POCO F6 Global",
+   "`24069PC21I`": "POCO F6 India"
   }
  },
  "phoenixin": {
