@@ -25,6 +25,7 @@ aristotle_global - F
 aristotle_ru_global - F
 aristotle_tw_global - F
 aurora_global - F
+aurora_tw_global - F
 blue_global - F
 blue_id_global - F
 blue_in_global - F
