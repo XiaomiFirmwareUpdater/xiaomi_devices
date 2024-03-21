@@ -535,7 +535,7 @@
   "internal_name": "N2",
   "name": "Xiaomi 14 Pro",
   "models": {
-   "`23116PN5BC`": "Xiaomi 14 Pro China",
+   "`23116PN5BC`": "Xiaomi 14 Pro China / Xiaomi 14 Pro Ti China",
    "`2311BPN23C`": "Xiaomi 14 Pro Ti Satellite China"
   }
  },
@@ -733,6 +733,13 @@
   "name": "Xiaomi Civi 3",
   "models": {
    "`23046PNC9C`": "Xiaomi Civi 3 China"
+  }
+ },
+ "chenfeng": {
+  "internal_name": "N9",
+  "name": "Xiaomi Civi 4 Pro",
+  "models": {
+   "`24053PY09C`": "Xiaomi Civi 4 Pro China"
   }
  },
  "lotus": {
@@ -2328,13 +2335,6 @@
    "`23073RPBFG`": "Redmi Pad SE Global",
    "`23073RPBFC`": "Redmi Pad SE China",
    "`23073RPBFL`": "Redmi Pad SE Latin America"
-  }
- },
- "baiji": {
-  "internal_name": "",
-  "name": "Mi Watch (`baiji`)",
-  "models": {
-   "`XMWT01`": "Mi Watch"
   }
  },
  "FYJ01QP": {
