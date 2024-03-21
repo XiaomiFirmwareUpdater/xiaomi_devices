@@ -1219,6 +1219,26 @@
     "display_name": "Redmi K30 至尊纪念版",
     "display_name_en": "Redmi K30 Ultra"
   },
+  "chenfeng": {
+    "display_name": "Xiaomi Civi 4 Pro",
+    "display_name_en": "XM-CHENFENG"
+  },
+  "chenfeng_global": {
+    "display_name": "XM-CHENFENG-GLOBAL",
+    "display_name_en": "XM-CHENFENG-GLOBAL"
+  },
+  "chenfeng_in_global": {
+    "display_name": "XM-CHENFENG-IN-GLOBAL",
+    "display_name_en": "XM-CHENFENG-IN-GLOBAL"
+  },
+  "chenfeng_pre_global": {
+    "display_name": "XM-CHENFENG-PRE-GLOBAL",
+    "display_name_en": "XM-CHENFENG-PRE-GLOBAL"
+  },
+  "chenfeng_pre_in_global": {
+    "display_name": "XM-CHENFENG-PRE-IN-GLOBAL",
+    "display_name_en": "XM-CHENFENG-PRE-IN-GLOBAL"
+  },
   "chiron": {
     "display_name": "MIX 2",
     "display_name_en": "MIX 2"
