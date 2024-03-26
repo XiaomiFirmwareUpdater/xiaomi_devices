@@ -612,20 +612,20 @@
     "display_name_en": "Xiaomi 14 Ultra/Xiaomi 14 Ultra Ti"
   },
   "aurora_eea_global": {
-    "display_name": "XM-AURORA-EEA-GLOBAL",
-    "display_name_en": "XM-AURORA-EEA-GLOBAL"
+    "display_name": "Xiaomi 14 Ultra",
+    "display_name_en": "Xiaomi 14 Ultra"
   },
   "aurora_global": {
-    "display_name": "XM-AURORA-GLOBAL",
-    "display_name_en": "XM-AURORA-GLOBAL"
+    "display_name": "Xiaomi 14 Ultra",
+    "display_name_en": "Xiaomi 14 Ultra"
   },
   "aurora_id_global": {
-    "display_name": "XM-AURORA-ID-GLOBAL",
-    "display_name_en": "XM-AURORA-ID-GLOBAL"
+    "display_name": "Xiaomi 14 Ultra",
+    "display_name_en": "Xiaomi 14 Ultra"
   },
   "aurora_in_global": {
-    "display_name": "XM-AURORA-IN-GLOBAL",
-    "display_name_en": "XM-AURORA-IN-GLOBAL"
+    "display_name": "Xiaomi 14 Ultra",
+    "display_name_en": "Xiaomi 14 Ultra"
   },
   "aurora_pre_eea_global": {
     "display_name": "XM-AURORA-EEA-GLOBAL",
@@ -640,8 +640,8 @@
     "display_name_en": "XM-AURORA-ID-GLOBAL"
   },
   "aurora_pre_in_global": {
-    "display_name": "XM-AURORA-PRE-IN-GLOBAL",
-    "display_name_en": "XM-AURORA-PRE-IN-GLOBAL"
+    "display_name": "Xiaomi 14 Ultra",
+    "display_name_en": "Xiaomi 14 Ultra"
   },
   "aurora_pre_ru_global": {
     "display_name": "XM-AURORA-RU-GLOBAL",
@@ -656,16 +656,16 @@
     "display_name_en": "XM-AURORA-TW-GLOBAL"
   },
   "aurora_ru_global": {
-    "display_name": "XM-AURORA-RU-GLOBAL",
-    "display_name_en": "XM-AURORA-RU-GLOBAL"
+    "display_name": "Xiaomi 14 Ultra",
+    "display_name_en": "Xiaomi 14 Ultra"
   },
   "aurora_tr_global": {
-    "display_name": "XM-AURORA-TR-GLOBAL",
-    "display_name_en": "XM-AURORA-TR-GLOBAL"
+    "display_name": "Xiaomi 14 Ultra",
+    "display_name_en": "Xiaomi 14 Ultra"
   },
   "aurora_tw_global": {
-    "display_name": "XM-AURORA-TW-GLOBAL",
-    "display_name_en": "XM-AURORA-TW-GLOBAL"
+    "display_name": "Xiaomi 14 Ultra",
+    "display_name_en": "Xiaomi 14 Ultra"
   },
   "babylon": {
     "display_name": "Xiaomi MIX Fold 3",
@@ -772,6 +772,10 @@
     "display_name_en": "Redmi A3"
   },
   "blue_eea_vf_global": {
+    "display_name": "Redmi A3",
+    "display_name_en": "Redmi A3"
+  },
+  "blue_global": {
     "display_name": "Redmi A3",
     "display_name_en": "Redmi A3"
   },
