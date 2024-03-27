@@ -812,26 +812,8 @@
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi 9T (ID)",
-     "sku": "lime_id_global",
-     "projectCode": "J19S/J19N/J19L"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi 9T (TR)",
-     "sku": "lime_tr_global",
-     "projectCode": "J19S/J19N/J19L"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi 9T (GLOBAL)",
+     "deviceName": "Redmi 9T",
      "sku": "lime_global",
-     "projectCode": "J19S/J19N/J19L"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi 9T (TW)",
-     "sku": "lime_tw_global",
      "projectCode": "J19S/J19N/J19L"
     },
     {
@@ -848,15 +830,21 @@
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi 9T (eea)",
-     "sku": "lime_eea_global",
-     "projectCode": "J19S/J19N/J19L"
+     "deviceName": "Redmi Note 10 Pro Max (global)",
+     "sku": "sweetin_in_global",
+     "projectCode": "K6_in"
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi 9T (ru)",
-     "sku": "lime_ru_global",
-     "projectCode": "J19S/J19N/J19L"
+     "deviceName": "Redmi Note 10 Pro (global)",
+     "sku": "sweetin_in_global",
+     "projectCode": "K6_in"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Go (ru)",
+     "sku": "tiare_ru_global",
+     "projectCode": "C3G_Android_Go"
     }
    ]
   },
@@ -937,5 +925,5 @@
    ]
   }
  ],
- "updateAt": "2024-02-23T01:26:29.000Z"
+ "updateAt": "2024-03-25T18:08:57.000Z"
 }
