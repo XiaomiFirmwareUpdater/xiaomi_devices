@@ -1225,23 +1225,23 @@
   },
   "chenfeng": {
     "display_name": "Xiaomi Civi 4 Pro",
-    "display_name_en": "XM-CHENFENG"
+    "display_name_en": "Xiaomi Civi 4 Pro"
   },
   "chenfeng_global": {
-    "display_name": "XM-CHENFENG-GLOBAL",
-    "display_name_en": "XM-CHENFENG-GLOBAL"
+    "display_name": "Xiaomi Civi 4 Pro",
+    "display_name_en": "Xiaomi Civi 4 Pro"
   },
   "chenfeng_in_global": {
-    "display_name": "XM-CHENFENG-IN-GLOBAL",
-    "display_name_en": "XM-CHENFENG-IN-GLOBAL"
+    "display_name": "Xiaomi Civi 4 Pro",
+    "display_name_en": "Xiaomi Civi 4 Pro"
   },
   "chenfeng_pre_global": {
-    "display_name": "XM-CHENFENG-PRE-GLOBAL",
-    "display_name_en": "XM-CHENFENG-PRE-GLOBAL"
+    "display_name": "Xiaomi Civi 4 Pro",
+    "display_name_en": "Xiaomi Civi 4 Pro"
   },
   "chenfeng_pre_in_global": {
-    "display_name": "XM-CHENFENG-PRE-IN-GLOBAL",
-    "display_name_en": "XM-CHENFENG-PRE-IN-GLOBAL"
+    "display_name": "Xiaomi Civi 4 Pro",
+    "display_name_en": "Xiaomi Civi 4 Pro"
   },
   "chiron": {
     "display_name": "MIX 2",
@@ -2442,10 +2442,6 @@
   "ferrari_global": {
     "display_name": "Mi 4i",
     "display_name_en": "Mi 4i"
-  },
-  "finch": {
-    "display_name": "S pro mini/redmi X",
-    "display_name_en": "S pro mini/redmi X"
   },
   "fire_cl_en_global": {
     "display_name": "Redmi 12",
@@ -8176,12 +8172,12 @@
     "display_name_en": "vermeer"
   },
   "vermeer_id_global": {
-    "display_name": "vermeer",
-    "display_name_en": "vermeer"
+    "display_name": "XM-VERMEER-ID-GLOBAL",
+    "display_name_en": "XM-VERMEER-ID-GLOBAL"
   },
   "vermeer_in_global": {
-    "display_name": "vermeer",
-    "display_name_en": "vermeer"
+    "display_name": "XM-VERMEER-IN-GLOBAL",
+    "display_name_en": "XM-VERMEER-IN-GLOBAL"
   },
   "vermeer_pre_eea_global": {
     "display_name": "XM-VERMEER-PRE-EEA-GLOBAL",
