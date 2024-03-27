@@ -94,6 +94,7 @@ diting_ru_global - F
 diting_tw_global - F
 duchamp_eea_global - F
 duchamp_global - F
+duchamp_ru_global - F
 duchamp_tw_global - F
 earth_eea_global - F
 earth_global - F
@@ -285,7 +286,6 @@ psyche_ru_global - F
 psyche_tw_global - F
 redwood_eea_global - F
 redwood_global - F
-redwood_ru_global - F
 redwood_ru_global - F
 redwood_tw_global - F
 renoir_eea_global - F
