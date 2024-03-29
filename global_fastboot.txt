@@ -153,6 +153,7 @@ garnet_tw_global - F
 gauguin_eea_global - F
 gauguin_global - F
 gauguin_tw_global - F
+gold_eea_global - F
 gold_global - F
 gold_id_global - F
 gold_in_global - F
