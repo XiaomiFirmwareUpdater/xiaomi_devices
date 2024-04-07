@@ -24,8 +24,10 @@ aristotle_eea_global - F
 aristotle_global - F
 aristotle_ru_global - F
 aristotle_tw_global - F
+aurora_eea_global - F
 aurora_global - F
 aurora_tw_global - F
+blue_eea_global - F
 blue_global - F
 blue_id_global - F
 blue_in_global - F
@@ -148,6 +150,7 @@ gale_tw_global - F
 garnet_eea_global - F
 garnet_global - F
 garnet_in_global - F
+garnet_ru_global - F
 garnet_tr_global - F
 garnet_tw_global - F
 gauguin_eea_global - F
