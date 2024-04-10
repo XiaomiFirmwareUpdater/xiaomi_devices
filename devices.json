@@ -1995,6 +1995,66 @@
     "display_name": "Xiaomi 12T Pro",
     "display_name_en": "Xiaomi 12T Pro"
   },
+  "dizi": {
+    "display_name": "Redmi Pad Pro/Redmi Pad Pro 哈利·波特版",
+    "display_name_en": "Redmi Pad Pro/Redmi Pad Pro Special Edition featuring Harry Potter"
+  },
+  "dizi_eea_global": {
+    "display_name": "XM-DIZI-EEA-GLOBAL",
+    "display_name_en": "XM-DIZI-EEA-GLOBAL"
+  },
+  "dizi_global": {
+    "display_name": "XM-DIZI-GLOBAL",
+    "display_name_en": "XM-DIZI-GLOBAL"
+  },
+  "dizi_id_global": {
+    "display_name": "XM-DIZI-ID-GLOBAL",
+    "display_name_en": "XM-DIZI-ID-GLOBAL"
+  },
+  "dizi_in_global": {
+    "display_name": "XM-DIZI-IN-GLOBAL",
+    "display_name_en": "XM-DIZI-IN-GLOBAL"
+  },
+  "dizi_pre_eea_global": {
+    "display_name": "XM-DIZI-EEA-GLOBAL",
+    "display_name_en": "XM-DIZI-EEA-GLOBAL"
+  },
+  "dizi_pre_global": {
+    "display_name": "XM-DIZI-GLOBAL",
+    "display_name_en": "XM-DIZI-GLOBAL"
+  },
+  "dizi_pre_id_global": {
+    "display_name": "XM-DIZI-ID-GLOBAL",
+    "display_name_en": "XM-DIZI-ID-GLOBAL"
+  },
+  "dizi_pre_in_global": {
+    "display_name": "XM-DIZI-PRE-IN-GLOBAL",
+    "display_name_en": "XM-DIZI-PRE-IN-GLOBAL"
+  },
+  "dizi_pre_ru_global": {
+    "display_name": "XM-DIZI-RU-GLOBAL",
+    "display_name_en": "XM-DIZI-RU-GLOBAL"
+  },
+  "dizi_pre_tr_global": {
+    "display_name": "XM-DIZI-TR-GLOBAL",
+    "display_name_en": "XM-DIZI-TR-GLOBAL"
+  },
+  "dizi_pre_tw_global": {
+    "display_name": "XM-DIZI-PRE-TW-GLOBAL",
+    "display_name_en": "XM-DIZI-PRE-TW-GLOBAL"
+  },
+  "dizi_ru_global": {
+    "display_name": "XM-DIZI-RU-GLOBAL",
+    "display_name_en": "XM-DIZI-RU-GLOBAL"
+  },
+  "dizi_tr_global": {
+    "display_name": "XM-DIZI-TR-GLOBAL",
+    "display_name_en": "XM-DIZI-TR-GLOBAL"
+  },
+  "dizi_tw_global": {
+    "display_name": "XM-DIZI-TW-GLOBAL",
+    "display_name_en": "XM-DIZI-TW-GLOBAL"
+  },
   "duchamp": {
     "display_name": "Redmi K70E",
     "display_name_en": "Redmi K70E"
@@ -6238,6 +6298,54 @@
   "rosy_ru_global": {
     "display_name": "Redmi 5",
     "display_name_en": "Redmi 5"
+  },
+  "ruan": {
+    "display_name": "Redmi Pad Pro 5G",
+    "display_name_en": "Redmi Pad Pro 5G"
+  },
+  "ruan_eea_global": {
+    "display_name": "XM-RUAN-EEA-GLOBAL",
+    "display_name_en": "XM-RUAN-EEA-GLOBAL"
+  },
+  "ruan_global": {
+    "display_name": "XM-RUAN-GLOBAL",
+    "display_name_en": "XM-RUAN-GLOBAL"
+  },
+  "ruan_in_global": {
+    "display_name": "XM-RUAN-IN-GLOBAL",
+    "display_name_en": "XM-RUAN-IN-GLOBAL"
+  },
+  "ruan_pre_eea_global": {
+    "display_name": "XM-RUAN-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-RUAN-PRE-EEA-GLOBAL"
+  },
+  "ruan_pre_global": {
+    "display_name": "XM-RUAN-PRE-GLOBAL",
+    "display_name_en": "XM-RUAN-PRE-GLOBAL"
+  },
+  "ruan_pre_in_global": {
+    "display_name": "XM-RUAN-PRE-IN-GLOBAL",
+    "display_name_en": "XM-RUAN-PRE-IN-GLOBAL"
+  },
+  "ruan_pre_ru_global": {
+    "display_name": "XM-RUAN-PRE-RU-GLOBAL",
+    "display_name_en": "XM-RUAN-PRE-RU-GLOBAL"
+  },
+  "ruan_pre_tr_global": {
+    "display_name": "XM-RUAN-PRE-TR-GLOBAL",
+    "display_name_en": "XM-RUAN-PRE-TR-GLOBAL"
+  },
+  "ruan_pre_tw_global": {
+    "display_name": "XM-RUAN-TW-GLOBAL",
+    "display_name_en": "XM-RUAN-TW-GLOBAL"
+  },
+  "ruan_ru_global": {
+    "display_name": "XM-RUAN-RU-GLOBAL",
+    "display_name_en": "XM-RUAN-RU-GLOBAL"
+  },
+  "ruan_tw_global": {
+    "display_name": "XM-RUAN-TW-GLOBAL",
+    "display_name_en": "XM-RUAN-TW-GLOBAL"
   },
   "rubens": {
     "display_name": "Redmi K50",
