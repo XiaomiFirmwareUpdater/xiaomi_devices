@@ -759,6 +759,10 @@
     "display_name": "Redmi A3",
     "display_name_en": "Redmi A3"
   },
+  "blue_eea_or_global": {
+    "display_name": "Redmi A3",
+    "display_name_en": "Redmi A3"
+  },
   "blue_eea_sf_global": {
     "display_name": "Redmi A3",
     "display_name_en": "Redmi A3"
@@ -824,6 +828,10 @@
     "display_name_en": "Redmi A3"
   },
   "blue_pre_eea_hg_global": {
+    "display_name": "Redmi A3",
+    "display_name_en": "Redmi A3"
+  },
+  "blue_pre_eea_or_global": {
     "display_name": "Redmi A3",
     "display_name_en": "Redmi A3"
   },
@@ -5482,6 +5490,66 @@
   "pearl": {
     "display_name": "Redmi Note 12T Pro",
     "display_name_en": "Redmi Note 12T Pro"
+  },
+  "peridot": {
+    "display_name": "Redmi Turbo 3",
+    "display_name_en": "Redmi Turbo 3"
+  },
+  "peridot_eea_global": {
+    "display_name": "POCO F6",
+    "display_name_en": "POCO F6"
+  },
+  "peridot_global": {
+    "display_name": "POCO F6",
+    "display_name_en": "POCO F6"
+  },
+  "peridot_id_global": {
+    "display_name": "POCO F6",
+    "display_name_en": "POCO F6"
+  },
+  "peridot_in_global": {
+    "display_name": "POCO F6",
+    "display_name_en": "POCO F6"
+  },
+  "peridot_pre_eea_global": {
+    "display_name": "POCO F6",
+    "display_name_en": "POCO F6"
+  },
+  "peridot_pre_global": {
+    "display_name": "POCO F6",
+    "display_name_en": "POCO F6"
+  },
+  "peridot_pre_id_global": {
+    "display_name": "POCO F6",
+    "display_name_en": "POCO F6"
+  },
+  "peridot_pre_in_global": {
+    "display_name": "POCO F6",
+    "display_name_en": "POCO F6"
+  },
+  "peridot_pre_ru_global": {
+    "display_name": "POCO F6",
+    "display_name_en": "POCO F6"
+  },
+  "peridot_pre_tr_global": {
+    "display_name": "POCO F6",
+    "display_name_en": "POCO F6"
+  },
+  "peridot_pre_tw_global": {
+    "display_name": "POCO F6",
+    "display_name_en": "POCO F6"
+  },
+  "peridot_ru_global": {
+    "display_name": "POCO F6",
+    "display_name_en": "POCO F6"
+  },
+  "peridot_tr_global": {
+    "display_name": "POCO F6",
+    "display_name_en": "POCO F6"
+  },
+  "peridot_tw_global": {
+    "display_name": "POCO F6",
+    "display_name_en": "POCO F6"
   },
   "perseus": {
     "display_name": "小米MIX 3",
