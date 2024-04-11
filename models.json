@@ -2338,6 +2338,14 @@
    "`23073RPBFL`": "Redmi Pad SE Latin America"
   }
  },
+ "dizi": {
+  "internal_name": "",
+  "name": "Redmi Pad Pro (`dizi`)",
+  "models": {
+   "`2405CRPFDG`": "Redmi Pad Pro Global",
+   "`2405CRPFDC`": "Redmi Pad Pro China"
+  }
+ },
  "FYJ01QP": {
   "internal_name": "",
   "name": "Xiaomi Mijia Translator (`FYJ01QP`)",
