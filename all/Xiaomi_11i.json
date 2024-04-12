@@ -1,0 +1,82 @@
+{
+ "name": "Xiaomi 11i",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-11i.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_11i-11185.php",
+ "codenames": [
+  "pissarroin"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+   "4G bands": "1, 3, 5, 8, 40, 41",
+   "5G bands": "1, 3, 5, 8, 28, 40, 77, 78 SA/NSA",
+   "Speed": "HSPA, LTE (CA), 5G"
+  },
+  "Launch": {
+   "Announced": "2022, January 06",
+   "Status": "Available. Released 2022, January 12"
+  },
+  "Body": {
+   "Dimensions": "163.7 x 76.2 x 8.3 mm (6.44 x 3.00 x 0.33 in)",
+   "Weight": "207 g (7.30 oz)",
+   "Build": "Glass front (Gorilla Glass 5), glass back",
+   "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "IP53, dust and splash resistant"
+  },
+  "Display": {
+   "Type": "AMOLED, 120Hz, HDR10, 700 nits, 1200 nits (peak)",
+   "Size": "6.67 inches, 107.4 cm2 (~86.1% screen-to-body ratio)",
+   "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+   "Protection": "Corning Gorilla Glass 5"
+  },
+  "Platform": {
+   "OS": "Android 11, upgradable to Android 12, MIUI 13",
+   "Chipset": "Mediatek Dimensity 920 (6 nm)",
+   "CPU": "Octa-core (2x2.5 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+   "GPU": "Mali-G68 MC4"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (uses shared SIM slot)",
+   "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+   "info": "UFS 2.2"
+  },
+  "Main Camera": {
+   "Triple": "108 MP, f/1.9, 26mm (wide), 1/1.52\", 0.7µm, PDAF\n8 MP, f/2.2, 120˚ (ultrawide), 1.0µm\n2 MP, f/2.4, (macro)",
+   "Features": "LED flash, HDR, panorama",
+   "Video": "4K@30fps, 1080p@30/60/120fps, 720p@960fps"
+  },
+  "Selfie camera": {
+   "Single": "16 MP, f/2.5, (wide), 1/3.06\" 1.0µm",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "Yes",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.2, A2DP, LE",
+   "Positioning": "GPS, GLONASS, BDS",
+   "NFC": "No",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 5160 mAh, non-removable",
+   "Charging": "67W wired, 50% in 13 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "Camo Green, Stealth Black, Purple Mist, Pacific Pearl",
+   "Models": "‎MZB0A5EIN",
+   "SAR": "0.82 W/kg (head)     0.61 W/kg (body)",
+   "Price": "₹ 15,899"
+  }
+ }
+}

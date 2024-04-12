@@ -1,0 +1,83 @@
+{
+ "name": "Xiaomi Redmi Note 12R",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12r.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_note_12r-12392.php",
+ "codenames": [
+  "sky"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "CDMA2000 1xEV-DO",
+   "3G bands": "HSDPA 850 / 900 / 2100",
+   "4G bands": "1, 3, 5, 8, 34, 38, 39, 40, 41",
+   "5G bands": "1, 5, 8, 28, 41, 78 SA/NSA",
+   "Speed": "HSPA, LTE, 5G"
+  },
+  "Launch": {
+   "Announced": "2023, June 28",
+   "Status": "Available. Released 2023, June 28"
+  },
+  "Body": {
+   "Dimensions": "168.6 x 76.3 x 8.2 mm (6.64 x 3.00 x 0.32 in)",
+   "Weight": "199 g (7.02 oz)",
+   "Build": "Glass front, plastic frame, glass back",
+   "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "IP53, dust and splash resistant"
+  },
+  "Display": {
+   "Type": "IPS LCD, 90Hz, 550 nits",
+   "Size": "6.79 inches, 109.5 cm2 (~85.1% screen-to-body ratio)",
+   "Resolution": "1080 x 2460 pixels (~396 ppi density)"
+  },
+  "Platform": {
+   "OS": "Android 13, MIUI 14",
+   "Chipset": "Qualcomm Snapdragon 4 Gen 2 (4 nm)",
+   "CPU": "Octa-core (2x2.2 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55)",
+   "GPU": "Adreno 613"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (uses shared SIM slot)",
+   "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+   "info": "UFS 2.2"
+  },
+  "Main Camera": {
+   "Dual": "50 MP, f/1.8, (wide), PDAF\n2 MP, f/2.4, (macro)",
+   "Features": "LED flash, HDR",
+   "Video": "1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "5 MP, f/2.2, (wide), 1/5.0\", 1.12µm",
+   "Features": "HDR",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.3, A2DP, LE",
+   "Positioning": "GPS, GLONASS, GALILEO, BDS",
+   "NFC": "Yes (market/region dependent)",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, compass",
+   "info": "Virtual proximity sensing"
+  },
+  "Battery": {
+   "Type": "Li-Po 5000 mAh, non-removable",
+   "Charging": "18W wired, PD"
+  },
+  "Misc": {
+   "Colors": "Black, Blue, Silver",
+   "Models": "23076RA4BC",
+   "Price": "About 150 EUR"
+  }
+ }
+}

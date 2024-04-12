@@ -1,0 +1,83 @@
+{
+ "name": "Xiaomi Mi Note 10 Pro",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-note10-.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_mi_note_10_pro-9945.php",
+ "codenames": [
+  "tucana"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 38, 40",
+   "Speed": "HSPA 42.2/5.76 Mbps, LTE (3CA) Cat15 800/150 Mbps"
+  },
+  "Launch": {
+   "Announced": "2019, November 06",
+   "Status": "Available. Released 2019, November 11"
+  },
+  "Body": {
+   "Dimensions": "157.8 x 74.2 x 9.7 mm (6.21 x 2.92 x 0.38 in)",
+   "Weight": "208 g (7.34 oz)",
+   "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "AMOLED, HDR10, 600 nits (typ)",
+   "Size": "6.47 inches, 102.8 cm2 (~87.8% screen-to-body ratio)",
+   "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~398 ppi density)",
+   "Protection": "Corning Gorilla Glass 5",
+   "info": "Always-on display"
+  },
+  "Platform": {
+   "OS": "Android 9.0 (Pie), upgradable to Android 10, MIUI 12",
+   "Chipset": "Qualcomm SDM730 Snapdragon 730G (8 nm)",
+   "CPU": "Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)",
+   "GPU": "Adreno 618"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "256GB 8GB RAM",
+   "info": "UFS 2.0"
+  },
+  "Main Camera": {
+   "Five": "108 MP (8P lens), f/1.7, 25mm (wide), 1/1.33\", 0.8µm, PDAF, Laser AF, OIS\n12 MP, f/2.0, 50mm (telephoto), 1/2.55\", 1.4µm, dual pixel PDAF, 2x optical zoom\n8MP, f/2.0, (telephoto), 1.0µm, PDAF, OIS, 3.7x optical zoom, 5x hybrid zoom\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0µm\n2 MP, f/2.4, (macro)",
+   "Features": "Quad-LED dual-tone flash, HDR",
+   "Video": "4K@30fps, 1080p@30/60/120/240fps, 720p@960fps"
+  },
+  "Selfie camera": {
+   "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8µm",
+   "Features": "HDR",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.0, A2DP, LE, aptX HD",
+   "Positioning": "GPS, GLONASS, GALILEO, BDS",
+   "NFC": "Yes",
+   "Infrared port": "Yes",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 5260 mAh, non-removable",
+   "Charging": "30W wired, PD, 58% in 30 min, 100% in 65 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "Aurora Green, Glacier White, Midnight Black",
+   "Models": "M1910F4S",
+   "SAR": "1.19 W/kg (head)     1.18 W/kg (body)",
+   "SAR EU": "1.11 W/kg (head)     1.39 W/kg (body)",
+   "Price": "About 480 EUR"
+  }
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "name": "Xiaomi Redmi 1S",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/Xiaomi-Hongmi-Redmi-1s.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_1s-6373.php",
+ "codenames": [
+  "wt93807",
+  "armani",
+  "wt96007"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA",
+   "2G bands": "GSM 900 / 1800 / 1900",
+   "3G bands": "HSDPA 900 / 2100",
+   "Speed": "HSPA"
+  },
+  "Launch": {
+   "Announced": "2014, May. Released 2014, May",
+   "Status": "Discontinued"
+  },
+  "Body": {
+   "Dimensions": "137 x 69 x 9.9 mm (5.39 x 2.72 x 0.39 in)",
+   "Weight": "158 g (5.57 oz)",
+   "Build": "Glass front (Asahi Dragontrail), plastic back, plastic frame",
+   "SIM": "Dual SIM (Mini-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "IPS LCD",
+   "Size": "4.7 inches, 60.9 cm2 (~64.4% screen-to-body ratio)",
+   "Resolution": "720 x 1280 pixels, 16:9 ratio (~312 ppi density)",
+   "Protection": "Asahi Dragontrail Glass"
+  },
+  "Platform": {
+   "OS": "Android 4.3 (Jelly Bean), upgradable to 4.4.4 (KitKat), MIUI 9.2",
+   "Chipset": "Qualcomm MSM8228 Snapdragon 400 (28 nm)",
+   "CPU": "Quad-core 1.6 GHz Cortex-A7",
+   "GPU": "Adreno 305"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (dedicated slot)",
+   "Internal": "8GB 1GB RAM",
+   "info": "eMMC 4.5"
+  },
+  "Main Camera": {
+   "Single": "8 MP, f/2.2, 1/3.2\", 1.4µm, AF",
+   "Features": "LED flash, HDR",
+   "Video": "1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "1.6 MP",
+   "Video": "720p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+   "Bluetooth": "4.0, A2DP, LE",
+   "Positioning": "GPS, GLONASS",
+   "NFC": "No",
+   "Radio": "FM radio",
+   "USB": "microUSB 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Accelerometer, gyro, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Ion 2000 mAh, removable"
+  },
+  "Misc": {
+   "Colors": "Black, Chinese Red, Metallic Gray/ blue, green, yellow panels",
+   "Models": "2014011",
+   "Price": "About 90 EUR"
+  },
+  "Tests": {
+   "Performance": "Basemark OS II 2.0: 454",
+   "Display": "Contrast ratio: 1370 (nominal), 1.350 (sunlight)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "Voice 66dB / Noise 65dB / Ring 71dB",
+   "Audio quality": "Noise -95.4dB / Crosstalk -82.3dB",
+   "Battery (old)": "Endurance rating 51h",
+   "info": ""
+  }
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "name": "Xiaomi Mi Mix 3",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix3.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_mi_mix_3-9378.php",
+ "codenames": [
+  "perseus"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 34, 38, 39, 40, 41 - China",
+   "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1800 / 1900 / 2100 - Global",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 29, 30, 34, 38, 39, 40, 41, 66 - Global",
+   "Speed": "HSPA, LTE"
+  },
+  "Launch": {
+   "Announced": "2018, October",
+   "Status": "Available. Released 2018, November"
+  },
+  "Body": {
+   "Dimensions": "157.9 x 74.7 x 8.5 mm (6.22 x 2.94 x 0.33 in)",
+   "Weight": "218 g (7.69 oz)",
+   "Build": "Glass front, ceramic back, aluminum frame (7000 series)",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "Super AMOLED, HDR",
+   "Size": "6.39 inches, 100.2 cm2 (~85.0% screen-to-body ratio)",
+   "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
+   "Protection": "Corning Gorilla Glass 5"
+  },
+  "Platform": {
+   "OS": "Android 9.0 (Pie), upgradable to Android 10, MIUI 12",
+   "Chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+   "CPU": "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver)",
+   "GPU": "Adreno 630"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 256GB 10GB RAM",
+   "info": "UFS 2.1"
+  },
+  "Main Camera": {
+   "Dual": "12 MP (wide), f/1.8, 1/2.55\", 1.4µm, dual pixel PDAF, 4-axis OIS\n12 MP (telephoto), 1/3.4\", 1.0µm",
+   "Features": "LED flash, HDR, panorama",
+   "Video": "4K@30/60fps, 1080p@30/60fps, 1080p@960fps"
+  },
+  "Selfie camera": {
+   "Dual": "Manual pop-up 24 MP, f/2.0, 26mm (wide), 1/2.8\", 0.9µm\nManual pop-up 2 MP, depth sensor",
+   "Features": "LED flash, HDR",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "No"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.0, A2DP, aptX HD, LE",
+   "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1), GALILEO (E1+E5a), QZSS (L1+L5)",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, compass",
+   "info": "Virtual proximity sensing"
+  },
+  "Battery": {
+   "Type": "Li-Po 3200 mAh, non-removable",
+   "Charging": "18W wired, QC4\n10W wireless"
+  },
+  "Misc": {
+   "Colors": "Jade Green, Sapphire Blue, Onyx Black, Forbidden City Blue",
+   "Models": "M1810E5A",
+   "SAR": "1.45 W/kg (head)     1.57 W/kg (body)",
+   "Price": "About 730 EUR"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 292353 (v7), 352130 (v8)\nGeekBench: 9065 (v4.4), 2170 (v5.1)\nGFXBench: 30fps (ES 3.1 onscreen)",
+   "Display": "Contrast ratio: Infinite (nominal), 4.291(sunlight)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "-29.9 LUFS (Average)",
+   "Audio quality": "Noise -93.2dB / Crosstalk -90.6dB",
+   "Battery (old)": "Endurance rating 84h",
+   "info": ""
+  }
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "name": "Xiaomi Poco X5 Pro",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x5-pro-5g.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_poco_x5_pro-12094.php",
+ "codenames": [
+  "redwood"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - International",
+   "info": "1, 3, 5, 8, 28, 40, 78 SA/NSA - India",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41, 66 - International",
+   "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 77, 78 SA/NSA/Sub6 - International",
+   "Speed": "HSPA, LTE (CA), 5G"
+  },
+  "Launch": {
+   "Announced": "2023, February 06",
+   "Status": "Available. Released 2023, February 07"
+  },
+  "Body": {
+   "Dimensions": "162.9 x 76 x 7.9 mm (6.41 x 2.99 x 0.31 in)",
+   "Weight": "181 g (6.38 oz)",
+   "Build": "Glass front (Gorilla Glass 5), plastic back, plastic frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "IP53, dust and splash resistant"
+  },
+  "Display": {
+   "Type": "AMOLED, 1B colors, 120Hz, Dolby Vision, HDR10+, 500 nits (typ), 900 nits (HBM)",
+   "Size": "6.67 inches, 107.4 cm2 (~86.8% screen-to-body ratio)",
+   "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+   "Protection": "Corning Gorilla Glass 5"
+  },
+  "Platform": {
+   "OS": "Android 12, upgradable to Android 13, MIUI 14 for POCO",
+   "Chipset": "Qualcomm SM7325 Snapdragon 778G 5G (6 nm)",
+   "CPU": "Octa-core (1x2.4 GHz Cortex-A78 & 3x2.2 GHz Cortex-A78 & 4x1.9 GHz Cortex-A55)",
+   "GPU": "Adreno 642L"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "128GB 6GB RAM, 256GB 8GB RAM",
+   "info": "UFS 2.2"
+  },
+  "Main Camera": {
+   "Triple": "108 MP, f/1.9, (wide), 1/1.52\", 0.7µm, PDAF\n8 MP, f/2.2, 120˚ (ultrawide), 1/4.0\", 1.12µm\n2 MP, f/2.4, (macro)",
+   "Features": "LED flash, HDR, panorama",
+   "Video": "4K@30fps, 1080p@30/60/120fps, gyro-EIS"
+  },
+  "Selfie camera": {
+   "Single": "16 MP, f/2.4, (wide), 1/3.06\" 1.0µm",
+   "Features": "HDR, panorama",
+   "Video": "1080p@30/60fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "Yes",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi DirectWi-Fi 802.11 a/b/g/n/ac, dual-band - India",
+   "Bluetooth": "5.2 (Intl), 5.1 (India), A2DP, LE",
+   "Positioning": "GPS, GLONASS, BDS, GALILEO",
+   "NFC": "Yes (market/region dependent)",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 5000 mAh, non-removable",
+   "Charging": "67W wired, PD3.0, QC4, 100% in 45 min (advertised)\n5W reverse wired"
+  },
+  "Misc": {
+   "Colors": "Astral Black, Horizon Blue, Poco Yellow",
+   "Models": "22101320G, 22101320I",
+   "Price": "$ 241.19 / £ 273.08 / € 119.04 / ₹ 19,899"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 531398 (v9)\nGeekBench: 2930 (v5.1)\nGFXBench: 28fps (ES 3.1 onscreen)",
+   "Display": "Contrast ratio: Infinite (nominal)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "-24.9 LUFS (Very good)",
+   "Battery (old)": "Endurance rating 113h",
+   "info": ""
+  }
+ }
+}

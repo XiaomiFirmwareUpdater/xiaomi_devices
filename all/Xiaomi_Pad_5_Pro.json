@@ -1,0 +1,79 @@
+{
+ "name": "Xiaomi Pad 5 Pro",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-5-pro.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_pad_5_pro-11043.php",
+ "codenames": [
+  "elish"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900",
+   "info": "CDMA2000 1xEV-DO",
+   "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 9, 19, 34, 38, 39, 40, 41, 42",
+   "5G bands": "1, 3, 28, 41, 77, 78 Sub6",
+   "Speed": "HSPA, LTE (CA), 5G"
+  },
+  "Launch": {
+   "Announced": "2021, August 10",
+   "Status": "Available. Released 2021, August 10"
+  },
+  "Body": {
+   "Dimensions": "254.7 x 166.3 x 6.9 mm (10.03 x 6.55 x 0.27 in)",
+   "Weight": "515 g (1.14 lb)",
+   "Build": "Glass front, aluminum frame, plastic back",
+   "SIM": "Nano-SIM",
+   "info": "Stylus support (magnetic)"
+  },
+  "Display": {
+   "Type": "IPS LCD, 1B colors, 120Hz, HDR10, Dolby Vision",
+   "Size": "11.0 inches, 350.9 cm2 (~82.8% screen-to-body ratio)",
+   "Resolution": "1600 x 2560 pixels, 16:10 ratio (~274 ppi density)"
+  },
+  "Platform": {
+   "OS": "Android 11, upgradable to Android 13, MIUI 14",
+   "Chipset": "Qualcomm SM8250-AC Snapdragon 870 5G (7 nm)",
+   "CPU": "Octa-core (1x3.2 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.80 GHz Kryo 585)",
+   "GPU": "Adreno 650"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "128GB 6GB RAM, 256GB 6GB RAM, 256GB 8GB RAM",
+   "info": "UFS 3.1"
+  },
+  "Main Camera": {
+   "Dual": "5G model:\n50 MP, 1/2.5\", 0.7µm, PDAF\n5 MP, f/2.4, (depth)\n\nWi-Fi model\n13 MP, f/2.0, AF\n5 MP, f/2.4, (depth)",
+   "Features": "Dual-LED flash, panorama, HDR",
+   "Video": "4K@30fps, 1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "8 MP, f/2.0",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers (8 speakers)",
+   "3.5mm jack": "No"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.2, A2DP, LE",
+   "Positioning": "GPS, GLONASS, GALILEO, QZSS (5G model only)",
+   "NFC": "No",
+   "Radio": "No",
+   "USB": "USB Type-C"
+  },
+  "Features": {
+   "Sensors": "Accelerometer, gyro, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 8600 mAh, non-removable",
+   "Charging": "67W wired, PD3.0, QC4"
+  },
+  "Misc": {
+   "Colors": "Black, White",
+   "Models": "M2105K81AC",
+   "Price": "About 330 EUR"
+  }
+ }
+}

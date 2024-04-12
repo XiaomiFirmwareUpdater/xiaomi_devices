@@ -1,0 +1,90 @@
+{
+ "name": "Xiaomi Mi A3",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-a3.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_mi_a3-9769.php",
+ "codenames": [
+  "laurel_sprout"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40",
+   "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 400/50 Mbps"
+  },
+  "Launch": {
+   "Announced": "2019, July 17",
+   "Status": "Available. Released 2019, July 24"
+  },
+  "Body": {
+   "Dimensions": "153.5 x 71.9 x 8.5 mm (6.04 x 2.83 x 0.33 in)",
+   "Weight": "173.8 g (6.14 oz)",
+   "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), plastic frame",
+   "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "Super AMOLED",
+   "Size": "6.09 inches, 91.0 cm2 (~82.5% screen-to-body ratio)",
+   "Resolution": "720 x 1560 pixels, 19.5:9 ratio (~282 ppi density)",
+   "Protection": "Corning Gorilla Glass 5"
+  },
+  "Platform": {
+   "OS": "Android 9.0 (Pie), upgradable to Android 11, Android One",
+   "Chipset": "Qualcomm SDM665 Snapdragon 665 (11 nm)",
+   "CPU": "Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
+   "GPU": "Adreno 610"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (uses shared SIM slot)",
+   "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",
+   "info": "UFS 2.1"
+  },
+  "Main Camera": {
+   "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, PDAF\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12µm\n2 MP, f/2.4, (depth)",
+   "Features": "LED flash, HDR, panorama",
+   "Video": "4K@30fps, 1080p@30/60/120fps"
+  },
+  "Selfie camera": {
+   "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8µm",
+   "Features": "HDR",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.0, A2DP, LE, aptX HD",
+   "Positioning": "GPS, GLONASS, BDS",
+   "NFC": "No",
+   "Infrared port": "Yes",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 4030 mAh, non-removable",
+   "Charging": "18W wired, QC3"
+  },
+  "Misc": {
+   "Colors": "Kind of Gray, Not just Blue, More than White",
+   "Models": "M1906F9SH, M1906F9SI",
+   "SAR": "0.53 W/kg (head)     0.72 W/kg (body)",
+   "SAR EU": "0.30 W/kg (head)     1.10 W/kg (body)",
+   "Price": "About 230 EUR"
+  },
+  "Tests": {
+   "Performance": "Basemark OS II 2.0: 2345Basemark X: 17948",
+   "Display": "Contrast ratio: Infinite (nominal)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "Voice 74dB / Noise 74dB / Ring 81dB",
+   "Audio quality": "Noise -93.7dB / Crosstalk -93.0dB",
+   "Battery (old)": "Endurance rating 101h",
+   "info": ""
+  }
+ }
+}

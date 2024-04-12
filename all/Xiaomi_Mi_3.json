@@ -1,0 +1,87 @@
+{
+ "name": "Xiaomi Mi 3",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi3.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_mi_3-5678.php",
+ "codenames": [
+  "cancro",
+  "pisces"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900",
+   "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+   "Speed": "HSPA 42.2/5.76 Mbps"
+  },
+  "Launch": {
+   "Announced": "2013, September. Released 2013, December",
+   "Status": "Discontinued"
+  },
+  "Body": {
+   "Dimensions": "144 x 73.6 x 8.1 mm (5.67 x 2.90 x 0.32 in)",
+   "Weight": "145 g (5.11 oz)",
+   "Build": "Glass front (Gorilla Glass 3), plastic back, plastic frame",
+   "SIM": "Mini-SIM"
+  },
+  "Display": {
+   "Type": "IPS LCD",
+   "Size": "5.0 inches, 68.9 cm2 (~65.0% screen-to-body ratio)",
+   "Resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)",
+   "Protection": "Corning Gorilla Glass 3"
+  },
+  "Platform": {
+   "OS": "Android 4.3 (Jelly Bean), upgradable to 6.0 (Marshmallow), MIUI 5",
+   "Chipset": "Qualcomm MSM8274AB Snapdragon 800 (28 nm)",
+   "CPU": "Quad-core 2.3 GHz Krait 400",
+   "GPU": "Adreno 330"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "16GB 2GB RAM, 64GB 2GB RAM",
+   "info": "eMMC 4.5"
+  },
+  "Main Camera": {
+   "Single": "13 MP, f/2.2, 28mm (wide), AF",
+   "Features": "Dual-LED flash, HDR",
+   "Video": "1080p@30fps, HDR"
+  },
+  "Selfie camera": {
+   "Single": "2 MP, f/2.2",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot",
+   "Bluetooth": "4.0, A2DP",
+   "Positioning": "GPS, GLONASS",
+   "NFC": "Yes",
+   "Radio": "FM radio",
+   "USB": "microUSB 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Accelerometer, gyro, proximity, compass, barometer"
+  },
+  "Battery": {
+   "Type": "Li-Ion 3050 mAh, non-removable",
+   "Charging": "18W wired, QC2",
+   "Stand-by": "Up to 500 h",
+   "Talk time": "Up to 25 h",
+   "Music play": "Up to 50 h"
+  },
+  "Misc": {
+   "Colors": "White, Gray, Black, Yellow, Pink, Blue, Gold, Green",
+   "Price": "About 200 EUR"
+  },
+  "Tests": {
+   "Display": "Contrast ratio: 907 (nominal), 2.001 (sunlight)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "Voice 69dB / Noise 66dB / Ring 75dB",
+   "Audio quality": "Noise -91.5dB / Crosstalk -44.2dB",
+   "Battery (old)": "Endurance rating 66h",
+   "info": ""
+  }
+ }
+}

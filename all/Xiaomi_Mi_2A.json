@@ -1,0 +1,70 @@
+{
+ "name": "Xiaomi Mi 2A",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi2a.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_mi_2a-5646.php",
+ "codenames": [
+  "taurus"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900",
+   "3G bands": "HSDPA 900 / 1900 / 2100",
+   "Speed": "HSPA 21.1/5.76 Mbps"
+  },
+  "Launch": {
+   "Announced": "2013. Released 2013",
+   "Status": "Discontinued"
+  },
+  "Body": {
+   "Dimensions": "133 x 66.5 x 9.5 mm (5.24 x 2.62 x 0.37 in)",
+   "Weight": "133 g (4.69 oz)",
+   "SIM": "Mini-SIM"
+  },
+  "Display": {
+   "Type": "IPS LCD",
+   "Size": "4.5 inches, 55.8 cm2 (~63.1% screen-to-body ratio)",
+   "Resolution": "720 x 1280 pixels, 16:9 ratio (~326 ppi density)"
+  },
+  "Platform": {
+   "OS": "Android 4.1 (Jelly Bean)",
+   "Chipset": "Qualcomm Snapdragon S4 Pro",
+   "CPU": "Dual-core 1.7 GHz",
+   "GPU": "Adreno 320"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "16GB 1GB RAM"
+  },
+  "Main Camera": {
+   "Single": "8 MP, f/2.0, AF",
+   "Features": "LED flash, HDR",
+   "Video": "1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "2 MP",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+   "Bluetooth": "4.0, A2DP",
+   "Positioning": "GPS, GLONASS",
+   "NFC": "Yes",
+   "Radio": "FM radio",
+   "USB": "microUSB 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Accelerometer, gyro, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Ion 2030 mAh, removable"
+  },
+  "Misc": {
+   "Colors": "Black (front panel), 4 color options (back panel)"
+  }
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "name": "Xiaomi Poco M3",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m3-.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_poco_m3-10599.php",
+ "codenames": [
+  "citrus"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41",
+   "Speed": "HSPA, LTE"
+  },
+  "Launch": {
+   "Announced": "2020, November 24",
+   "Status": "Available. Released 2020, November 27"
+  },
+  "Body": {
+   "Dimensions": "162.3 x 77.3 x 9.6 mm (6.39 x 3.04 x 0.38 in)",
+   "Weight": "198 g (6.98 oz)",
+   "Build": "Glass front (Gorilla Glass 3), plastic back, plastic frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "IPS LCD, 400 nits (typ)",
+   "Size": "6.53 inches, 104.7 cm2 (~83.4% screen-to-body ratio)",
+   "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~395 ppi density)",
+   "Protection": "Corning Gorilla Glass 3"
+  },
+  "Platform": {
+   "OS": "Android 10, MIUI 12",
+   "Chipset": "Qualcomm SM6115 Snapdragon 662 (11 nm)",
+   "CPU": "Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
+   "GPU": "Adreno 610"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (dedicated slot)",
+   "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",
+   "info": "UFS 2.1 - 64GB\nUFS 2.2 - 128GB"
+  },
+  "Main Camera": {
+   "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, PDAF\n2 MP, f/2.4, (macro)\n2 MP, f/2.4, (depth)",
+   "Features": "LED flash, HDR, panorama",
+   "Video": "1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "8 MP, f/2.1, (wide), 1/4.0\", 1.12µm",
+   "Features": "Panorama",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with dual speakers",
+   "3.5mm jack": "Yes",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.0, A2DP, LE",
+   "Positioning": "GPS, GLONASS, BDS, GALILEO",
+   "NFC": "No",
+   "Infrared port": "Yes",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 6000 mAh, non-removable",
+   "Charging": "18W wired\n2.5W reverse wired"
+  },
+  "Misc": {
+   "Colors": "Cool Blue, Poco Yellow, Power Black",
+   "Models": "M2010J19CG, M2010J19CI",
+   "SAR": "1.09 W/kg (head)     1.00 W/kg (body)",
+   "SAR EU": "0.60 W/kg (head)     0.81 W/kg (body)",
+   "Price": "$ 170.00 / £ 99.00 / € 105.41 / ₹ 6,498"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 177904 (v8)\nGeekBench: 1398 (v5.1)\nGFXBench: 5.9fps (ES 3.1 onscreen)",
+   "Display": "Contrast ratio: 1567:1 (nominal)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "-26.5 LUFS (Good)",
+   "Battery (old)": "Endurance rating 154h",
+   "info": ""
+  }
+ }
+}

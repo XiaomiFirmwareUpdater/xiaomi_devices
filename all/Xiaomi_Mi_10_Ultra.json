@@ -1,0 +1,90 @@
+{
+ "name": "Xiaomi Mi 10 Ultra",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi10-ultra.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_mi_10_ultra-10361.php",
+ "codenames": [
+  "cas"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "CDMA2000 1xEV-DO",
+   "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 34, 38, 39, 40, 41",
+   "5G bands": "1, 3, 41, 78, 79 SA/NSA",
+   "Speed": "HSPA, LTE, 5G"
+  },
+  "Launch": {
+   "Announced": "2020, August 11",
+   "Status": "Available. Released 2020, August 16"
+  },
+  "Body": {
+   "Dimensions": "162.4 x 75.1 x 9.5 mm (6.39 x 2.96 x 0.37 in)",
+   "Weight": "221.8 g (7.83 oz)",
+   "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 6), aluminum frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "OLED, 1B colors, 120Hz, HDR10+, 800 nits (HBM), 1120 nits (peak)",
+   "Size": "6.67 inches, 109.2 cm2 (~89.5% screen-to-body ratio)",
+   "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~386 ppi density)",
+   "Protection": "Corning Gorilla Glass 5"
+  },
+  "Platform": {
+   "OS": "Android 10, MIUI 12.5",
+   "Chipset": "Qualcomm SM8250 Snapdragon 865 5G (7 nm+)",
+   "CPU": "Octa-core (1x2.84 GHz Cortex-A77 & 3x2.42 GHz Cortex-A77 & 4x1.80 GHz Cortex-A55)",
+   "GPU": "Adreno 650"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 16GB RAM",
+   "info": "UFS 3.1"
+  },
+  "Main Camera": {
+   "Quad": "48 MP, f/1.9, 25mm (wide), 1/1.32\", 1.2µm, PDAF, Laser AF, OIS\n48 MP, f/4.1, 120mm (periscope telephoto), 1/2.0\", 0.8µm, PDAF, OIS, 5x optical zoom\n12 MP, f/2.0, 50mm (telephoto), 1/2.55\", 1.4µm, dual pixel PDAF, 2x optical zoom\n20 MP, f/2.2, 128˚, 12mm (ultrawide), 1/2.8\", 1.0µm, PDAF",
+   "Features": "Dual-LED flash, HDR, panorama",
+   "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10 rec."
+  },
+  "Selfie camera": {
+   "Single": "20 MP, f/2.3, (wide), 1/3.4\", 0.8µm",
+   "Features": "HDR",
+   "Video": "1080p@30fps, 720p@120fps, gyro-EIS"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "No",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, DLNA",
+   "Bluetooth": "5.1, A2DP, LE, aptX HD",
+   "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+   "NFC": "Yes",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum, barometer"
+  },
+  "Battery": {
+   "Type": "Li-Ion 4500 mAh, non-removable, graphene-enhanced",
+   "Charging": "120W wired, PD3.0, QC5, 41% in 5 min, 100% in 23 min (advertised)\n50W wireless, 100% in 40 mins (advertised)\n10W reverse wireless"
+  },
+  "Misc": {
+   "Colors": "Obsidian Black, Mercury Silver, Transparent Edition",
+   "Models": "M2007J1SC",
+   "Price": "About 650 EUR"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 638497 (v8)\nGeekBench: 3248 (v5.1)\nGFXBench: 46fps (ES 3.1 onscreen)",
+   "Display": "Contrast ratio: Infinite (nominal)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "-24.6 LUFS (Very good)",
+   "Battery (old)": "Endurance rating 85h",
+   "info": ""
+  }
+ }
+}

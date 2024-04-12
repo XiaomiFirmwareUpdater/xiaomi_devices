@@ -1,0 +1,80 @@
+{
+ "name": "Xiaomi Redmi K30 5G Racing",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30-5g-racing-edition1.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_k30_5g_racing-10235.php",
+ "codenames": [
+  "picasso"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+   "4G bands": "1, 3, 5, 7, 8, 34, 38, 39, 40, 41",
+   "5G bands": "41, 78 SA/NSA/Sub6",
+   "Speed": "HSPA, LTE, 5G (2+ Gbps DL)"
+  },
+  "Launch": {
+   "Announced": "2020, May 11",
+   "Status": "Available. Released 2020, May 14"
+  },
+  "Body": {
+   "Dimensions": "165.3 x 76.6 x 8.8 mm (6.51 x 3.02 x 0.35 in)",
+   "Weight": "208 g (7.34 oz)",
+   "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
+   "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "IPS LCD, 120Hz, HDR10",
+   "Size": "6.67 inches, 107.4 cm2 (~84.8% screen-to-body ratio)",
+   "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+   "Protection": "Corning Gorilla Glass 5"
+  },
+  "Platform": {
+   "OS": "Android 10, MIUI 11",
+   "Chipset": "Qualcomm SDM768 Snapdragon 768G 5G (7 nm)",
+   "CPU": "Octa-core (1x2.8 GHz Kryo 475 Prime & 1x2.2 GHz Kryo 475 Gold & 6x1.8 GHz Kryo 475 Silver)",
+   "GPU": "Adreno 620"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "128GB 6GB RAM",
+   "info": "UFS 2.1"
+  },
+  "Main Camera": {
+   "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.72\", 0.8µm, PDAF\n8 MP, f/2.2, 116˚ (ultrawide), 1/4.0\", 1.12µm\n5 MP, f/2.4, (macro)\n2 MP, f/2.4, (depth)",
+   "Features": "Dual-LED flash, HDR, panorama",
+   "Video": "4K@30fps, 1080p@30/120fps, 720p@960fps; gyro-EIS"
+  },
+  "Selfie camera": {
+   "Dual": "20 MP, f/2.2, 27mm (wide), 1/3.4\", 0.8µm\n2 MP, f/2.4, 1/5.0\", 1.75µm, depth sensor",
+   "Features": "HDR",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.1, A2DP, LE, aptX HD",
+   "Positioning": "GPS",
+   "NFC": "Yes",
+   "Infrared port": "Yes",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 4500 mAh, non-removable",
+   "Charging": "30W wired, 100% in 57 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "Mint, Blue, Red, Purple, White",
+   "Price": "About 260 EUR"
+  }
+ }
+}

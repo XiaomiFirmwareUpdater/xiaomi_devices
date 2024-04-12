@@ -1,0 +1,81 @@
+{
+ "name": "Xiaomi Redmi 6",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-6.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_6-9237.php",
+ "codenames": [
+  "cereus"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "1, 3, 5, 7, 8, 34, 38, 39, 40, 41",
+   "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 38, 40 - Global",
+   "Speed": "HSPA, LTE"
+  },
+  "Launch": {
+   "Announced": "2018, June",
+   "Status": "Available. Released 2018, June"
+  },
+  "Body": {
+   "Dimensions": "147.5 x 71.5 x 8.3 mm (5.81 x 2.81 x 0.33 in)",
+   "Weight": "146 g (5.15 oz)",
+   "Build": "Glass front, plastic back, plastic frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "IPS LCD",
+   "Size": "5.45 inches, 76.7 cm2 (~72.7% screen-to-body ratio)",
+   "Resolution": "720 x 1440 pixels, 18:9 ratio (~295 ppi density)"
+  },
+  "Platform": {
+   "OS": "Android 8.1 (Oreo), planned upgrade to Android 10, MIUI 12",
+   "Chipset": "Mediatek MT6762 Helio P22 (12 nm)",
+   "CPU": "Octa-core 2.0 GHz Cortex-A53",
+   "GPU": "PowerVR GE8320"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (dedicated slot)",
+   "Internal": "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM",
+   "info": "eMMC 5.1"
+  },
+  "Main Camera": {
+   "Dual": "12 MP, f/2.2, 1.25 μm, PDAF\n5 MP, f/2.2, (depth)",
+   "Features": "LED flash, HDR, panorama",
+   "Video": "1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "5 MP",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+   "Bluetooth": "4.2, A2DP, LE",
+   "Positioning": "GPS, GLONASS, BDS",
+   "NFC": "No",
+   "Radio": "FM radio",
+   "USB": "microUSB 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 3000 mAh, non-removable"
+  },
+  "Misc": {
+   "Colors": "Black, Grey, Blue, Gold, Rose Gold",
+   "Models": "M1804C3DG, M1804C3DH, M1804C3DI",
+   "SAR": "0.55 W/kg (head)     1.42 W/kg (body)",
+   "Price": "About 130 EUR"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 75182 (v7)\nGeekBench: 3639 (v4.4)\nGFXBench: 4.8fps (ES 3.1 onscreen)",
+   "info": ""
+  }
+ }
+}

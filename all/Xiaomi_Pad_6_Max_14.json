@@ -1,0 +1,77 @@
+{
+ "name": "Xiaomi Pad 6 Max 14",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-6-max-14.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_pad_6_max_14-12463.php",
+ "codenames": [
+  "yudi"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "No cellular connectivity",
+   "2G bands": "N/A",
+   "3G bands": "N/A",
+   "GPRS": "N/A",
+   "EDGE": "N/A"
+  },
+  "Launch": {
+   "Announced": "2023, August 14",
+   "Status": "Available. Released 2023, August 14"
+  },
+  "Body": {
+   "Dimensions": "318.6 x 206.1 x 6.5 mm (12.54 x 8.11 x 0.26 in)",
+   "Weight": "750 g (1.65 lb)",
+   "Build": "Glass front, aluminum back, aluminum frame",
+   "SIM": "No",
+   "info": "Stylus (5ms) support"
+  },
+  "Display": {
+   "Type": "IPS LCD, 1B colors, 120Hz, HDR10, Dolby Vision, 600 nits (peak)",
+   "Size": "14.0 inches, 573.0 cm2 (~87.3% screen-to-body ratio)",
+   "Resolution": "1800 x 2880 pixels, 16:10 ratio (~242 ppi density)"
+  },
+  "Platform": {
+   "OS": "Android 13, MIUI Pad 14",
+   "Chipset": "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)",
+   "CPU": "Octa-core (1x3.19 GHz Cortex-X2 & 3x2.75 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)",
+   "GPU": "Adreno 730"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM, 1TB 16GB RAM",
+   "info": "UFS 3.1"
+  },
+  "Main Camera": {
+   "Dual": "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF\n2 MP, f/2.4, (depth)",
+   "Features": "LED flash, HDR, panorama",
+   "Video": "4K@30/60fps, 1080p@30/60fps"
+  },
+  "Selfie camera": {
+   "Single": "20 MP, f/2.2, (wide), 1/3.4\", 0.8µm\nToF sensor",
+   "Video": "1080p@30/60fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers (8 speakers)",
+   "3.5mm jack": "No",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/a/6e, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE",
+   "Positioning": "No",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2, OTG, accessory connector"
+  },
+  "Features": {
+   "Sensors": "Accelerometer, gyro, proximity (accessories only), compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 10000 mAh, non-removable",
+   "Charging": "67W wired, PD3.0, QC4\n33W reverse wired, PD3.0"
+  },
+  "Misc": {
+   "Colors": "Black, Silver",
+   "Price": "About 450 EUR"
+  }
+ }
+}

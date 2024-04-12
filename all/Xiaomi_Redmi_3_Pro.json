@@ -1,0 +1,88 @@
+{
+ "name": "Xiaomi Redmi 3 Pro",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-3-pro-.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_3_pro-8007.php",
+ "codenames": [
+  "ido",
+  "ido_xhdpi"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
+   "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "CDMA2000 1xEV-DO",
+   "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+   "4G bands": "1, 3, 7, 38, 39, 40, 41",
+   "Speed": "HSPA, LTE, EV-DO Rev.A 3.1 Mbps"
+  },
+  "Launch": {
+   "Announced": "2016, March. Released 2016, April",
+   "Status": "Discontinued"
+  },
+  "Body": {
+   "Dimensions": "139.3 x 69.6 x 8.5 mm (5.48 x 2.74 x 0.33 in)",
+   "Weight": "144 g (5.08 oz)",
+   "Build": "Glass front, aluminum back, aluminum frame",
+   "SIM": "Hybrid Dual SIM (Micro-SIM/Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "IPS LCD",
+   "Size": "5.0 inches, 68.9 cm2 (~71.1% screen-to-body ratio)",
+   "Resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+  },
+  "Platform": {
+   "OS": "Android 5.1 (Lollipop), MIUI 7.3",
+   "Chipset": "Qualcomm MSM8939v2 Snapdragon 616 (28 nm)",
+   "CPU": "Octa-core (4x1.5 GHz Cortex-A53 & 4x1.2 GHz Cortex-A53)",
+   "GPU": "Adreno 405"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (uses shared SIM slot)",
+   "Internal": "32GB 3GB RAM",
+   "info": "eMMC 4.5"
+  },
+  "Main Camera": {
+   "Single": "13 MP, f/2.0, PDAF",
+   "Features": "LED flash, HDR, panorama",
+   "Video": "1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "5 MP, f/2.2",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+   "Bluetooth": "4.1, A2DP",
+   "Positioning": "GPS, GLONASS, BDS",
+   "NFC": "No",
+   "Infrared port": "Yes",
+   "Radio": "FM radio",
+   "USB": "microUSB 2.0"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Ion 4100 mAh, non-removable",
+   "Charging": "10W wired"
+  },
+  "Misc": {
+   "Colors": "Dark Gray, Silver, Gold",
+   "SAR EU": "1.33 W/kg (head)",
+   "Price": "About 130 EUR"
+  },
+  "Tests": {
+   "Performance": "Basemark OS II 2.0: 5427Basemark X: 262",
+   "Display": "Contrast ratio: 1145:1 (nominal), 2.803 (sunlight)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "Voice 67dB / Noise 70dB / Ring 74dB",
+   "Audio quality": "Noise -90.6dB / Crosstalk -92.3dB",
+   "Battery (old)": "Endurance rating 104h",
+   "info": ""
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "name": "Xiaomi Redmi Note 11SE",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11se.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_note_11se-11551.php",
+ "codenames": [
+  "camellia"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "CDMA2000 1xEV-DO",
+   "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+   "4G bands": "1, 3, 5, 7, 8, 34, 38, 39, 40, 41",
+   "5G bands": "1, 41, 78 SA/NSA",
+   "Speed": "HSPA, LTE (CA), 5G"
+  },
+  "Launch": {
+   "Announced": "2022, May 24",
+   "Status": "Available. Released 2022, May 31"
+  },
+  "Body": {
+   "Dimensions": "161.8 x 75.3 x 8.9 mm (6.37 x 2.96 x 0.35 in)",
+   "Weight": "190 g (6.70 oz)",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "IPS LCD, 90Hz, 400 nits (typ)",
+   "Size": "6.5 inches, 102.0 cm2 (~83.7% screen-to-body ratio)",
+   "Resolution": "1080 x 2400 pixels, 20:9 ratio (~405 ppi density)"
+  },
+  "Platform": {
+   "OS": "Android 11, MIUI 12.5",
+   "Chipset": "Mediatek Dimensity 700 (7 nm)",
+   "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+   "GPU": "Mali-G57 MC2"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "128GB 4GB RAM, 128GB 8GB RAM",
+   "info": "UFS 2.2"
+  },
+  "Main Camera": {
+   "Dual": "48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, PDAF\n2 MP, f/2.4, (macro)",
+   "Features": "Dual-LED dual-tone flash, HDR, panorama",
+   "Video": "1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.1, A2DP, LE",
+   "Positioning": "GPS, GLONASS, GALILEO, BDS",
+   "NFC": "Yes",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 5000 mAh, non-removable",
+   "Charging": "18W wired"
+  },
+  "Misc": {
+   "Colors": "Blue, Black",
+   "Price": "About 150 EUR"
+  }
+ }
+}

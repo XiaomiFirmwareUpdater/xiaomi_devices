@@ -1,0 +1,90 @@
+{
+ "name": "Xiaomi Redmi K20 Pro",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k20pro-.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_k20_pro-9708.php",
+ "codenames": [
+  "raphael",
+  "raphaelin"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+   "4G bands": "1, 3, 5, 7, 8, 34, 38, 39, 40, 41",
+   "Speed": "HSPA, LTE"
+  },
+  "Launch": {
+   "Announced": "2019, May 28",
+   "Status": "Available. Released 2019, June 01"
+  },
+  "Body": {
+   "Dimensions": "156.7 x 74.3 x 8.8 mm (6.17 x 2.93 x 0.35 in)",
+   "Weight": "191 g (6.74 oz)",
+   "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "Super AMOLED, HDR10",
+   "Size": "6.39 inches, 100.2 cm2 (~86.1% screen-to-body ratio)",
+   "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
+   "Protection": "Corning Gorilla Glass 5"
+  },
+  "Platform": {
+   "OS": "Android 9.0 (Pie), upgradable to Android 10, MIUI 12",
+   "Chipset": "Qualcomm SM8150 Snapdragon 855 (7 nm)",
+   "CPU": "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)",
+   "GPU": "Adreno 640"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+   "info": "UFS 2.1"
+  },
+  "Main Camera": {
+   "Triple": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF, Laser AF\n8 MP, f/2.4, 53mm (telephoto), 1/4.0\", 1.12µm, PDAF, 2x optical zoom\n13 MP, f/2.4, 12mm (ultrawide), 1/3.1\", 1.12µm",
+   "Features": "Dual-LED flash, HDR, panorama",
+   "Video": "4K@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
+  },
+  "Selfie camera": {
+   "Single": "Motorized pop-up 20 MP, f/2.2, (wide), 1/3.4\", 0.8µm",
+   "Features": "HDR",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.0, A2DP, LE, aptX HD",
+   "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1), GALILEO (E1+E5a)",
+   "NFC": "Yes (China only)",
+   "Radio": "Yes",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 4000 mAh, non-removable",
+   "Charging": "27W wired, QC4"
+  },
+  "Misc": {
+   "Colors": "Carbon black, Flame red, Glacier blue, Summer Honey, Pearl White",
+   "Models": "M1903F11I",
+   "SAR": "1.03 W/kg (head)     0.72 W/kg (body)",
+   "Price": "About 400 EUR"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 368846 (v7), 437823 (v8)\nGeekBench: 10684 (v4.4), 2732 (v5.1)\nGFXBench: 36fps (ES 3.1 onscreen)",
+   "Display": "Contrast ratio: Infinite (nominal)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "Voice 71dB / Noise 75dB / Ring 84dB",
+   "Audio quality": "Noise -93.9dB / Crosstalk -94.2dB",
+   "Battery (old)": "Endurance rating 103h",
+   "info": ""
+  }
+ }
+}

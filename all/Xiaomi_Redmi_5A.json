@@ -1,0 +1,78 @@
+{
+ "name": "Xiaomi Redmi 5A",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-5a.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_5a-8898.php",
+ "codenames": [
+  "riva"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "CDMA 800 & TD-SCDMA",
+   "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+   "4G bands": "1, 3, 5, 7, 8, 34, 38, 39, 40, 41",
+   "Speed": "HSPA, LTE"
+  },
+  "Launch": {
+   "Announced": "2017, November",
+   "Status": "Available. Released 2017, December"
+  },
+  "Body": {
+   "Dimensions": "140.4 x 70.1 x 8.4 mm (5.53 x 2.76 x 0.33 in)",
+   "Weight": "137 g (4.83 oz)",
+   "Build": "Glass front, aluminum back, aluminum frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "IPS LCD",
+   "Size": "5.0 inches, 68.0 cm2 (~69.1% screen-to-body ratio)",
+   "Resolution": "720 x 1280 pixels, 16:9 ratio (~296 ppi density)"
+  },
+  "Platform": {
+   "OS": "Android 7.1.2 (Nougat), MIUI 11",
+   "Chipset": "Qualcomm MSM8917 Snapdragon 425 (28 nm)",
+   "CPU": "Quad-core 1.4 GHz Cortex-A53",
+   "GPU": "Adreno 308"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (dedicated slot)",
+   "Internal": "16GB 2GB RAM, 32GB 3GB RAM",
+   "info": "eMMC 5.1"
+  },
+  "Main Camera": {
+   "Single": "13 MP, f/2.2, PDAF",
+   "Features": "LED flash, HDR, panorama",
+   "Video": "1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "5 MP, f/2.0",
+   "Video": ""
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+   "Bluetooth": "4.1, A2DP, LE",
+   "Positioning": "GPS, GLONASS, BDS",
+   "NFC": "No",
+   "Infrared port": "Yes",
+   "Radio": "FM radio",
+   "USB": "microUSB 2.0"
+  },
+  "Features": {
+   "Sensors": "Accelerometer, proximity"
+  },
+  "Battery": {
+   "Type": "Li-Ion 3000 mAh, non-removable"
+  },
+  "Misc": {
+   "Colors": "Gold, Dark Gray, Rose Gold, Blue",
+   "Models": "MCG3B, MCI3B",
+   "SAR": "0.53 W/kg (head)     1.23 W/kg (body)",
+   "Price": "About 100 EUR"
+  }
+ }
+}

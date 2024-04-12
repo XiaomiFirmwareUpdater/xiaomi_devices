@@ -1,0 +1,81 @@
+{
+ "name": "Xiaomi Redmi Note 11 Pro+ 5G (India)",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-note-11-pro-plus-5g.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_note_11_pro+_5g_(india)-11412.php",
+ "codenames": [
+  "peux"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+   "4G bands": "1, 3, 5, 8, 40, 41",
+   "5G bands": "1, 3, 5, 8, 28, 40, 78 SA/NSA",
+   "Speed": "HSPA, LTE (CA), 5G"
+  },
+  "Launch": {
+   "Announced": "2022, March 09",
+   "Status": "Available. Released 2022, March 15"
+  },
+  "Body": {
+   "Dimensions": "164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in)",
+   "Weight": "202 g (7.13 oz)",
+   "Build": "Glass front (Gorilla Glass 5), glass back",
+   "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "IP53, dust and splash resistant"
+  },
+  "Display": {
+   "Type": "Super AMOLED, 120Hz, 700 nits, 1200 nits (peak)",
+   "Size": "6.67 inches, 107.4 cm2 (~86.0% screen-to-body ratio)",
+   "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+   "Protection": "Corning Gorilla Glass 5"
+  },
+  "Platform": {
+   "OS": "Android 11, MIUI 13",
+   "Chipset": "Qualcomm SM6375 Snapdragon 695 5G (6 nm)",
+   "CPU": "Octa-core (2x2.2 GHz Kryo 660 Gold & 6x1.7 GHz Kryo 660 Silver)",
+   "GPU": "Adreno 619"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (uses shared SIM slot)",
+   "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+   "info": "UFS 2.2"
+  },
+  "Main Camera": {
+   "Triple": "108 MP, f/1.9, 26mm (wide), 1/1.52\", 0.7µm, PDAF\n8 MP, f/2.2, 118˚ (ultrawide)\n2 MP, f/2.4, (macro)",
+   "Features": "LED flash, HDR, panorama",
+   "Video": "1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "16 MP, f/2.5, (wide), 1/3.06\" 1.0µm",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "Yes",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.1, A2DP, LE",
+   "Positioning": "GPS, GLONASS, BDS, GALILEO",
+   "NFC": "No",
+   "Infrared port": "Yes",
+   "Radio": "Unspecified",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 5000 mAh, non-removable",
+   "Charging": "67W wired, PD3.0, QC3, 50% in 15 min, 100% in 42 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "Mirage Blue, Phantom White, Stealth Black",
+   "Models": "2201116SI",
+   "Price": "About 250 EUR"
+  }
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "name": "Xiaomi Redmi Note 10 Pro (China)",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-10-pro-china-new.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_note_10_pro_(china)-10930.php",
+ "codenames": [
+  "chopin"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "CDMA2000 1xEV-DO",
+   "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 18, 19, 26, 34, 38, 39, 40, 41, 42",
+   "5G bands": "1, 3, 28, 41, 77, 78 SA/NSA/Sub6",
+   "Speed": "HSPA, LTE (CA), 5G"
+  },
+  "Launch": {
+   "Announced": "2021, May 26",
+   "Status": "Available. Released 2021, June 02"
+  },
+  "Body": {
+   "Dimensions": "163.3 x 75.9 x 8.9 mm (6.43 x 2.99 x 0.35 in)",
+   "Weight": "193 g (6.81 oz)",
+   "Build": "Glass front (Gorilla Glass Victus), plastic frame, plastic back",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "IP53, dust and splash resistant"
+  },
+  "Display": {
+   "Type": "IPS LCD, 120Hz, HDR10, 450 nits (typ)",
+   "Size": "6.6 inches, 105.2 cm2 (~84.9% screen-to-body ratio)",
+   "Resolution": "1080 x 2400 pixels, 20:9 ratio (~399 ppi density)",
+   "Protection": "Corning Gorilla Glass Victus"
+  },
+  "Platform": {
+   "OS": "Android 11, MIUI 12.5",
+   "Chipset": "Mediatek Dimensity 1100 (6 nm)",
+   "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+   "GPU": "Mali-G77 MC9"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+   "info": "UFS 3.1"
+  },
+  "Main Camera": {
+   "Triple": "64 MP, f/1.8, 26mm (wide), 1/1.97\", 0.7µm, PDAF\n8 MP, f/2.2, 120˚ (ultrawide), 1/4.0\", 1.12µm\n2 MP, f/2.4, (macro)",
+   "Features": "LED flash, HDR, panorama",
+   "Video": "4K@30fps, 1080p@30/60/120fps, 720p@960fps, HDR"
+  },
+  "Selfie camera": {
+   "Single": "16 MP, f/2.5, (wide), 1/3.06\", 1.0µm",
+   "Features": "Panorama, HDR",
+   "Video": "1080p@30fps, 720p@120fps, HDR"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "No",
+   "info": "24-bit/192kHz Hi-Res audio\nTuned by JBL"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.2, A2DP, LE",
+   "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+   "NFC": "Yes",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass, color spectrum",
+   "info": "Virtual proximity sensing"
+  },
+  "Battery": {
+   "Type": "Li-Po 5000 mAh, non-removable",
+   "Charging": "67W wired, PD3.0, 100% in 42 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "Stargaze Black, Wave Blue, Cloud White",
+   "Price": "About 200 EUR"
+  }
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "name": "Xiaomi Redmi K30 Ultra",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30-ultra.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_k30_ultra-10349.php",
+ "codenames": [
+  "cezanne"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "CDMA2000 1xEV-DO",
+   "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+   "4G bands": "1, 3, 5, 7, 8, 34, 38, 39, 40, 41",
+   "5G bands": "1, 3, 41, 78, 79 SA/NSA",
+   "Speed": "HSPA, LTE, 5G"
+  },
+  "Launch": {
+   "Announced": "2020, August 11",
+   "Status": "Available. Released 2020, August 14"
+  },
+  "Body": {
+   "Dimensions": "163.3 x 75.4 x 9.1 mm (6.43 x 2.97 x 0.36 in)",
+   "Weight": "213 g (7.51 oz)",
+   "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "AMOLED, 120Hz, HDR10+, 500 nits (typ)",
+   "Size": "6.67 inches, 107.4 cm2 (~87.2% screen-to-body ratio)",
+   "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+   "Protection": "Corning Gorilla Glass 5"
+  },
+  "Platform": {
+   "OS": "Android 10, MIUI 12",
+   "Chipset": "Mediatek Dimensity 1000+ (7nm)",
+   "CPU": "Octa-core (4x2.6 GHz Cortex-A77 & 4x2.0 GHz Cortex-A55)",
+   "GPU": "Mali-G77 MC9"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 512GB 8GB RAM",
+   "info": "UFS"
+  },
+  "Main Camera": {
+   "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.73\", 0.8µm, PDAF\n13 MP, f/2.4, 119˚ (ultrawide), 1.12µm\n5 MP, f/2.2, 50mm (telephoto macro), AF\n2 MP, f/2.4, (depth)",
+   "Features": "Dual-LED dual-tone flash, HDR, panorama",
+   "Video": "4K@30fps, 1080p@30/60/120/240/960fps; gyro-EIS"
+  },
+  "Selfie camera": {
+   "Single": "Motorized pop-up 20 MP, (wide)",
+   "Features": "HDR",
+   "Video": "1080p@30fps, 720p@120fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "No",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.1, A2DP, LE, aptX HD",
+   "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+   "NFC": "Yes",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 4500 mAh, non-removable",
+   "Charging": "33W wired, PD, QC4, 100% in 58 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "Moonlight White, Midnight Black, Mint Green",
+   "Models": "M2006J10C",
+   "Price": "About 250 EUR"
+  }
+ }
+}

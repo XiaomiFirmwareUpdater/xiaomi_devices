@@ -1,0 +1,93 @@
+{
+ "name": "Xiaomi Mi 10 5G",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10-5g.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_mi_10_5g-10082.php",
+ "codenames": [
+  "umi"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)",
+   "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 32, 38, 40 - Global",
+   "info": "1, 3, 41, 78, 79 SA/NSA - China",
+   "5G bands": "1, 3, 7, 28, 77, 78 Sub6 - Global",
+   "Speed": "HSPA, LTE, 5G (2+ Gbps DL)"
+  },
+  "Launch": {
+   "Announced": "2020, February 13",
+   "Status": "Available. Released 2020, February 14"
+  },
+  "Body": {
+   "Dimensions": "162.5 x 74.8 x 9 mm (6.40 x 2.94 x 0.35 in)",
+   "Weight": "208 g (7.34 oz)",
+   "Build": "Glass front (Gorilla Glass 5), glass back, aluminum frame",
+   "SIM": "Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "Super AMOLED, 90Hz, HDR10+, 500 nits (typ)",
+   "Size": "6.67 inches, 109.2 cm2 (~89.8% screen-to-body ratio)",
+   "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~386 ppi density)",
+   "Protection": "Corning Gorilla Glass 5"
+  },
+  "Platform": {
+   "OS": "Android 10, upgradable to Android 13, MIUI 14",
+   "Chipset": "Qualcomm SM8250 Snapdragon 865 5G (7 nm+)",
+   "CPU": "Octa-core (1x2.84 GHz Cortex-A77 & 3x2.42 GHz Cortex-A77 & 4x1.80 GHz Cortex-A55)",
+   "GPU": "Adreno 650"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "128GB 8GB RAM, 256GB 6GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",
+   "info": "UFS 3.0"
+  },
+  "Main Camera": {
+   "Quad": "108 MP, f/1.7, (wide), 1/1.33\", 0.8µm, PDAF, OIS\n13 MP, f/2.4, 12mm (ultrawide), 1/3.06\", 1.12µm\n2 MP, f/2.4, (macro)\n2 MP, f/2.4, (depth)",
+   "Features": "Dual-LED dual-tone flash, HDR, panorama",
+   "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60fps; gyro-EIS"
+  },
+  "Selfie camera": {
+   "Single": "20 MP, f/2.0, (wide), 1/3\", 0.9µm",
+   "Features": "HDR",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "No",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, DLNA",
+   "Bluetooth": "5.1, A2DP, LE, aptX HD, aptX Adaptive",
+   "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1), GALILEO (E1+E5a)",
+   "NFC": "Yes",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass, barometer",
+   "info": "Virtual proximity sensing"
+  },
+  "Battery": {
+   "Type": "Li-Po 4780 mAh, non-removable",
+   "Charging": "30W wired, PD3.0\n30W wireless\n5W reverse wireless"
+  },
+  "Misc": {
+   "Colors": "Coral Green, Twilight Grey, Peach Gold",
+   "Models": "M2001J2G, M2001J2I, Mi 10",
+   "SAR": "1.09 W/kg (head)     1.02 W/kg (body)",
+   "SAR EU": "0.69 W/kg (head)     0.99 W/kg (body)",
+   "Price": "£ 296.26 / € 177.99"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 578056 (v8)\nGeekBench: 3322 (v5.1)\nGFXBench: 42fps (ES 3.1 onscreen)",
+   "Display": "Contrast ratio: Infinite (nominal)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "-26.9 LUFS (Good)",
+   "Battery (old)": "Endurance rating 109h",
+   "info": ""
+  }
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "name": "Xiaomi Mi 2",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi2.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_mi_2-4928.php",
+ "codenames": [
+  "aries"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900",
+   "3G bands": "HSDPA 850 / 1900 / 2100",
+   "Speed": "HSPA 42.2/5.76 Mbps"
+  },
+  "Launch": {
+   "Announced": "2012, August. Released 2012, November",
+   "Status": "Discontinued"
+  },
+  "Body": {
+   "Dimensions": "126 x 62 x 10.2 mm (4.96 x 2.44 x 0.40 in)",
+   "Weight": "145 g (5.11 oz)",
+   "SIM": "Mini-SIM"
+  },
+  "Display": {
+   "Type": "IPS LCD",
+   "Size": "4.3 inches, 51.0 cm2 (~65.2% screen-to-body ratio)",
+   "Resolution": "720 x 1280 pixels, 16:9 ratio (~342 ppi density)"
+  },
+  "Platform": {
+   "OS": "Android 4.1 (Jelly Bean), upgradable to 4.4.4 (KitKat), MIUI 5",
+   "Chipset": "Qualcomm APQ8064 Snapdragon S4 Pro",
+   "CPU": "Quad-core 1.5 GHz Krait",
+   "GPU": "Adreno 320"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "16GB 2GB RAM, 32GB 2GB RAM"
+  },
+  "Main Camera": {
+   "Single": "8 MP, f/2.0, 27mm (wide), AF",
+   "Features": "LED flash, HDR",
+   "Video": "1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "2 MP",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+   "Bluetooth": "4.0, A2DP",
+   "Positioning": "GPS, A-GPS, GLONASS",
+   "Radio": "FM radio",
+   "USB": "microUSB 2.0 (MHL TV-out), OTG"
+  },
+  "Features": {
+   "Sensors": "Accelerometer, gyro, proximity, compass, barometer"
+  },
+  "Battery": {
+   "Type": "Removable Li-Ion 2000 mAh battery"
+  },
+  "Misc": {
+   "Colors": "White, green, blue, red",
+   "Price": "About 250 EUR"
+  }
+ }
+}

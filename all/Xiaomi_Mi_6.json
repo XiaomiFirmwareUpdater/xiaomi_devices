@@ -1,0 +1,88 @@
+{
+ "name": "Xiaomi Mi 6",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-6.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_mi_6-8507.php",
+ "codenames": [
+  "sagit"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+   "4G bands": "1, 3, 5, 7, 8, 38, 39, 40, 41",
+   "Speed": "HSPA 42.2/5.76 Mbps, LTE (3CA) Cat9 450/50 Mbps"
+  },
+  "Launch": {
+   "Announced": "2017, April",
+   "Status": "Available. Released 2017, April"
+  },
+  "Body": {
+   "Dimensions": "145.2 x 70.5 x 7.5 mm (5.72 x 2.78 x 0.30 in)",
+   "Weight": "168 g / 182 g (Ceramic) (5.93 oz)",
+   "Build": "Glass front (Gorilla Glass 4), glass back, stainless steel frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "Water-repellent coating"
+  },
+  "Display": {
+   "Type": "IPS LCD",
+   "Size": "5.15 inches, 73.1 cm2 (~71.4% screen-to-body ratio)",
+   "Resolution": "1080 x 1920 pixels, 16:9 ratio (~428 ppi density)",
+   "Protection": "Corning Gorilla Glass 4"
+  },
+  "Platform": {
+   "OS": "Android 7.1.1 (Nougat), upgradable to Android 9.0 (Pie), MIUI 8",
+   "Chipset": "Qualcomm MSM8998 Snapdragon 835 (10 nm)",
+   "CPU": "Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)",
+   "GPU": "Adreno 540"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM"
+  },
+  "Main Camera": {
+   "Dual": "12 MP, f/1.8, 27mm (wide), 1/2.9\", 1.25µm, PDAF, 4-axis OIS\n12 MP, f/2.6, 52mm (telephoto), 1.0µm, AF, 2x optical zoom",
+   "Features": "Dual-LED dual-tone flash, HDR, panorama",
+   "Video": "4K@30fps, 1080p@30fps, 720p@120fps"
+  },
+  "Selfie camera": {
+   "Single": "8 MP",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "No"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA",
+   "Bluetooth": "5.0, A2DP, LE",
+   "Positioning": "GPS, GLONASS, BDS",
+   "NFC": "Yes",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer"
+  },
+  "Battery": {
+   "Type": "Li-Po 3350 mAh, non-removable",
+   "Charging": "18W wired, QC3"
+  },
+  "Misc": {
+   "Colors": "Ceramic Black, Black, Blue, White",
+   "Models": "MCE16",
+   "SAR": "0.41 W/kg (head)     1.55 W/kg (body)",
+   "Price": "About 330 EUR"
+  },
+  "Tests": {
+   "Performance": "GeekBench: 6719 (v4.4)\nGFXBench: 25fps (ES 3.1 onscreen)",
+   "Display": "Contrast ratio: 1305:1 (nominal), 3.767 (sunlight)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "Voice 66dB / Noise 69dB / Ring 84dB",
+   "Audio quality": "Noise -94.3dB / Crosstalk -90.9dB",
+   "Battery (old)": "Endurance rating 80h",
+   "info": ""
+  }
+ }
+}

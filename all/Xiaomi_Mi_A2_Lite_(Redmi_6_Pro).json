@@ -1,0 +1,90 @@
+{
+ "name": "Xiaomi Mi A2 Lite (Redmi 6 Pro)",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-a2-lite.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_mi_a2_lite_(redmi_6_pro)-9247.php",
+ "codenames": [
+  "daisy"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "1, 3, 5, 7, 8, 34, 38, 39, 40, 41 - China",
+   "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 38, 40 - Global",
+   "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps"
+  },
+  "Launch": {
+   "Announced": "2018, July",
+   "Status": "Available. Released 2018, July"
+  },
+  "Body": {
+   "Dimensions": "149.3 x 71.7 x 8.8 mm (5.88 x 2.82 x 0.35 in)",
+   "Weight": "178 g (6.28 oz)",
+   "Build": "Glass front, aluminum back, aluminum frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "IPS LCD",
+   "Size": "5.84 inches, 85.1 cm2 (~79.5% screen-to-body ratio)",
+   "Resolution": "1080 x 2280 pixels, 19:9 ratio (~432 ppi density)"
+  },
+  "Platform": {
+   "OS": "Android 8.1 (Oreo), upgradable to Android 10, MIUI 12, Android One",
+   "Chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
+   "CPU": "Octa-core 2.0 GHz Cortex-A53",
+   "GPU": "Adreno 506"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (dedicated slot)",
+   "Internal": "32GB 3GB RAM, 64GB 4GB RAM",
+   "info": "eMMC 5.1"
+  },
+  "Main Camera": {
+   "Dual": "12 MP, f/2.2, 1.25 μm, PDAF\n5 MP, f/2.2, (depth)",
+   "Features": "LED flash, HDR, panorama",
+   "Video": "1080p@30fps (gyro-EIS)"
+  },
+  "Selfie camera": {
+   "Single": "5 MP, f/2.0",
+   "Features": "HDR",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct",
+   "Bluetooth": "4.2, A2DP, LE",
+   "Positioning": "GPS, GLONASS, BDS",
+   "NFC": "No",
+   "Infrared port": "Yes",
+   "Radio": "FM radio (after SW update to Android 9.0)",
+   "USB": "microUSB 2.0"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 4000 mAh, non-removable",
+   "Charging": "10W wired"
+  },
+  "Misc": {
+   "Colors": "Black, Blue, Gold, Rose Gold, Red",
+   "Models": "M1805D1SG",
+   "SAR": "1.04 W/kg (head)     1.15 W/kg (body)",
+   "SAR EU": "0.55 W/kg (head)     1.47 W/kg (body)",
+   "Price": "About 380 EUR"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 77964 (v7)\nGeekBench: 4388 (v4.4)\nGFXBench: 3.4fps (ES 3.1 onscreen)",
+   "Display": "Contrast ratio: 1268:1 (nominal), 3.087 (sunlight)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "Voice 70dB / Noise 74dB / Ring 86dB",
+   "Audio quality": "Noise -90.3dB / Crosstalk -93.1dB",
+   "Battery (old)": "Endurance rating 106h",
+   "info": ""
+  }
+ }
+}

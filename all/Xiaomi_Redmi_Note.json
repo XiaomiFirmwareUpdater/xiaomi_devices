@@ -1,0 +1,87 @@
+{
+ "name": "Xiaomi Redmi Note",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-new.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_note-6217.php",
+ "codenames": [
+  "dior",
+  "lcsh92_wet_jb9",
+  "lcsh92_wet_gb9",
+  "lcsh92_wet_xm_td"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA",
+   "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 900 / 2100",
+   "Speed": "HSPA"
+  },
+  "Launch": {
+   "Announced": "2014, March. Released 2014, March",
+   "Status": "Discontinued"
+  },
+  "Body": {
+   "Dimensions": "154 x 78.7 x 9.5 mm (6.06 x 3.10 x 0.37 in)",
+   "Weight": "199 g (7.02 oz)",
+   "Build": "Glass front (Gorilla Glass 3), plastic back, plastic frame",
+   "SIM": "Dual SIM"
+  },
+  "Display": {
+   "Type": "IPS LCD",
+   "Size": "5.5 inches, 83.4 cm2 (~68.8% screen-to-body ratio)",
+   "Resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)",
+   "Protection": "Corning Gorilla Glass 3"
+  },
+  "Platform": {
+   "OS": "Android 4.2 (Jelly Bean), upgradable to 4.4.4 (KitKat), MIUI 9.2",
+   "Chipset": "Mediatek MT6592 (28 nm)",
+   "CPU": "Octa-core 1.4/1.7 GHz Cortex-A7",
+   "GPU": "Mali-450MP4"
+  },
+  "Memory": {
+   "Card slot": "microSDHC (dedicated slot)",
+   "Internal": "8GB 1GB RAM, 8GB 2GB RAM"
+  },
+  "Main Camera": {
+   "Single": "13 MP, f/2.2, 28mm (wide), AF",
+   "Features": "LED flash, HDR",
+   "Video": "1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "5 MP",
+   "Video": "720p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+   "Bluetooth": "4.0, A2DP, LE",
+   "Positioning": "GPS, GLONASS",
+   "NFC": "No",
+   "Radio": "FM radio, recording",
+   "USB": "microUSB 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Accelerometer, gyro, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 3200/3100 mAh, removable"
+  },
+  "Misc": {
+   "Colors": "Black, White",
+   "Models": "2014712",
+   "SAR": "0.88 W/kg (head)     0.58 W/kg (body)",
+   "Price": "About 120 EUR"
+  },
+  "Tests": {
+   "Performance": "Basemark OS II 2.0: 479Basemark X: 2974",
+   "Display": "Contrast ratio: 1016 (nominal), 2.119 (sunlight)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "Voice 65dB / Noise 66dB / Ring 75dB",
+   "Audio quality": "Noise -88.4dB / Crosstalk -85.2dB",
+   "Battery (old)": "Endurance rating 55h",
+   "info": ""
+  }
+ }
+}

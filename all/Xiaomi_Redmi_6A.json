@@ -1,0 +1,82 @@
+{
+ "name": "Xiaomi Redmi 6A",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-6a.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_6a-9217.php",
+ "codenames": [
+  "cactus"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "1, 3, 5, 7, 8, 34, 38, 39, 40, 41",
+   "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 38, 40 - Global",
+   "Speed": "HSPA 21.1/5.76 Mbps, LTE (2CA) Cat7 300/150 Mbps"
+  },
+  "Launch": {
+   "Announced": "2018, June",
+   "Status": "Available. Released 2018, June"
+  },
+  "Body": {
+   "Dimensions": "147.5 x 71.5 x 8.3 mm (5.81 x 2.81 x 0.33 in)",
+   "Weight": "145 g (5.11 oz)",
+   "Build": "Glass front, plastic back, plastic frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "IPS LCD",
+   "Size": "5.45 inches, 76.7 cm2 (~72.7% screen-to-body ratio)",
+   "Resolution": "720 x 1440 pixels, 18:9 ratio (~295 ppi density)"
+  },
+  "Platform": {
+   "OS": "Android 8.1 (Oreo), planned upgrade to Android 10, MIUI 12",
+   "Chipset": "Mediatek MT6761 Helio A22 (12 nm)",
+   "CPU": "Quad-core 2.0 GHz Cortex-A53",
+   "GPU": "PowerVR GE8320"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (dedicated slot)",
+   "Internal": "16GB 2GB RAM, 32GB 2GB RAM, 32GB 3GB RAM",
+   "info": "eMMC 5.1"
+  },
+  "Main Camera": {
+   "Single": "13 MP, f/2.2, PDAF",
+   "Features": "LED flash, HDR, panorama",
+   "Video": "1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "5 MP, f/2.2",
+   "Video": ""
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+   "Bluetooth": "4.2, A2DP, LE",
+   "Positioning": "GPS, GLONASS, BDS",
+   "NFC": "No",
+   "Radio": "FM radio",
+   "USB": "microUSB 2.0"
+  },
+  "Features": {
+   "Sensors": "Accelerometer, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Ion 3000 mAh, non-removable"
+  },
+  "Misc": {
+   "Colors": "Black, Grey, Blue, Gold, Rose Gold",
+   "Models": "M1804C3CG, M1804C3CH, M1804C3CI",
+   "SAR": "0.78 W/kg (head)     1.17 W/kg (body)",
+   "SAR EU": "0.66 W/kg (head)     1.52 W/kg (body)",
+   "Price": "About 110 EUR"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 61660 (v7)\nGeekBench: 2450 (v4.4)\nGFXBench: 3.1fps (ES 3.1 onscreen)",
+   "info": ""
+  }
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "name": "Xiaomi Mi Note 2",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-note2-.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_mi_note_2-8014.php",
+ "codenames": [
+  "scorpio"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41",
+   "Speed": "HSPA 42.2/5.76 Mbps, LTE (3CA) Cat12 600/150 Mbps"
+  },
+  "Launch": {
+   "Announced": "2016, October. Released 2016, November",
+   "Status": "Discontinued"
+  },
+  "Body": {
+   "Dimensions": "156.2 x 77.3 x 7.6 mm (6.15 x 3.04 x 0.30 in)",
+   "Weight": "166 g (5.86 oz)",
+   "Build": "Glass front, glass back, aluminum frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "AMOLED",
+   "Size": "5.7 inches, 89.6 cm2 (~74.2% screen-to-body ratio)",
+   "Resolution": "1080 x 1920 pixels, 16:9 ratio (~386 ppi density)"
+  },
+  "Platform": {
+   "OS": "Android 6.0 (Marshmallow), MIUI 8.2",
+   "Chipset": "Qualcomm MSM8996 Snapdragon 821 (14 nm)",
+   "CPU": "Quad-core (2x2.35 GHz Kryo & 2x1.6 GHz Kryo)",
+   "GPU": "Adreno 530"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM"
+  },
+  "Main Camera": {
+   "Single": "22.5 MP, f/2.0, 1/2.6\", 1.0µm, PDAF",
+   "Features": "Dual-LED dual-tone flash, HDR, panorama",
+   "Video": "4K@30fps, 1080p@30fps (gyro-EIS)"
+  },
+  "Selfie camera": {
+   "Single": "8 MP, f/2.0, AF",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes",
+   "info": "24-bit/192kHz audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "4.2, A2DP, LE",
+   "Positioning": "GPS, GLONASS, BDS",
+   "NFC": "Yes",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer"
+  },
+  "Battery": {
+   "Type": "Li-Ion 4070 mAh, non-removable",
+   "Charging": "18W wired, QC3"
+  },
+  "Misc": {
+   "Colors": "Black, Gold, Silver",
+   "Models": "2015213",
+   "SAR": "0.78 W/kg (head)     1.38 W/kg (body)",
+   "Price": "About 310 EUR"
+  },
+  "Tests": {
+   "Performance": "GFXBench: 20fps (ES 3.1 onscreen)",
+   "Display": "Contrast ratio: 66800 (nominal), 3.228 (sunlight)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "Voice 63dB / Noise 68dB / Ring 76dB",
+   "Audio quality": "Noise-94.4dB / Crosstalk -91.7dB",
+   "Battery (old)": "Endurance rating 92h",
+   "info": ""
+  }
+ }
+}

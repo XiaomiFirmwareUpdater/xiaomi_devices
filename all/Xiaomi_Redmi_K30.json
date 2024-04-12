@@ -1,0 +1,89 @@
+{
+ "name": "Xiaomi Redmi K30",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_k30-9991.php",
+ "codenames": [
+  "phoenix"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "CDMA2000 1xEV-DO",
+   "3G bands": "HSDPA 850 / 900 / 2100",
+   "4G bands": "1, 3, 5, 8, 34, 38, 39, 40, 41",
+   "Speed": "HSPA, LTE"
+  },
+  "Launch": {
+   "Announced": "2019, December 10",
+   "Status": "Available. Released 2019, December 20"
+  },
+  "Body": {
+   "Dimensions": "165.3 x 76.6 x 8.8 mm (6.51 x 3.02 x 0.35 in)",
+   "Weight": "208 g (7.34 oz)",
+   "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
+   "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "IPS LCD, 120Hz, HDR10",
+   "Size": "6.67 inches, 107.4 cm2 (~84.8% screen-to-body ratio)",
+   "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+   "Protection": "Corning Gorilla Glass 5"
+  },
+  "Platform": {
+   "OS": "Android 10, MIUI 11",
+   "Chipset": "Qualcomm SDM730 Snapdragon 730G (8 nm)",
+   "CPU": "Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)",
+   "GPU": "Adreno 618"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (uses shared SIM slot)",
+   "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+   "info": "UFS 2.1"
+  },
+  "Main Camera": {
+   "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.72\", 0.8µm, PDAF\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12µm\n2 MP, f/2.4, (macro)\n2 MP, f/2.4, (depth)",
+   "Features": "Dual-LED flash, HDR, panorama",
+   "Video": "4K@30fps, 1080p@30/120fps, 720p@960fps; gyro-EIS"
+  },
+  "Selfie camera": {
+   "Dual": "20 MP, f/2.2, 27mm (wide), 1/3.4\", 0.8µm\n2 MP, f/2.4, 1/5.0\", 1.75µm, depth sensor",
+   "Features": "HDR",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.0, A2DP, LE, aptX HD",
+   "Positioning": "GPS, GLONASS, GALILEO, BDS",
+   "NFC": "Yes",
+   "Infrared port": "Yes",
+   "Radio": "FM radio, recording",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 4500 mAh, non-removable",
+   "Charging": "27W wired, 100% in 68 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "Blue, Red, Purple",
+   "Models": "M1912G7BE, M1912G7BC",
+   "Price": "About 210 EUR"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 218200 (v7), 272229 (v8)\nGeekBench: 7008 (v4.4), 1692 (v5.1)\nGFXBench: 15fps (ES 3.1 onscreen)",
+   "Display": "Contrast ratio: 1378:1 (nominal)",
+   "Camera": "Photo / Video",
+   "Audio quality": "Noise -94.0dB / Crosstalk -93.0dB",
+   "Battery (old)": "Endurance rating 101h",
+   "info": ""
+  }
+ }
+}

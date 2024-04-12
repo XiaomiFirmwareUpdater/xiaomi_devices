@@ -1,0 +1,91 @@
+{
+ "name": "Xiaomi Mi 11 Lite",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-11-lite-4g.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_mi_11_lite-10665.php",
+ "codenames": [
+  "courbet"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 32, 38, 40, 41, 66",
+   "Speed": "HSPA, LTE"
+  },
+  "Launch": {
+   "Announced": "2021, March 29",
+   "Status": "Available. Released 2021, April 16"
+  },
+  "Body": {
+   "Dimensions": "160.5 x 75.7 x 6.8 mm (6.32 x 2.98 x 0.27 in)",
+   "Weight": "157 g (5.54 oz)",
+   "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "IP53, dust and splash resistant"
+  },
+  "Display": {
+   "Type": "AMOLED, 1B colors, HDR10, 90Hz, 500 nits (typ), 800 nits",
+   "Size": "6.55 inches, 103.6 cm2 (~85.3% screen-to-body ratio)",
+   "Resolution": "1080 x 2400 pixels, 20:9 ratio (~402 ppi density)",
+   "Protection": "Corning Gorilla Glass 5"
+  },
+  "Platform": {
+   "OS": "Android 11, MIUI 12",
+   "Chipset": "Qualcomm SM7150 Snapdragon 732G (8 nm)",
+   "CPU": "Octa-core (2x2.3 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)",
+   "GPU": "Adreno 618"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (uses shared SIM slot)",
+   "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM",
+   "info": "UFS 2.2"
+  },
+  "Main Camera": {
+   "Triple": "64 MP, f/1.8, 26mm (wide), 1/1.97\", 0.7µm, PDAF\n8 MP, f/2.2, 119˚ (ultrawide), 1/4.0\", 1.12µm\n5 MP, f/2.4, (macro), AF",
+   "Features": "Dual-LED dual-tone flash, HDR, panorama",
+   "Video": "4K@30fps, 1080p@30/60/120fps; gyro-EIS"
+  },
+  "Selfie camera": {
+   "Single": "16 MP, f/2.5, (wide), 1/3.06\" 1.0µm",
+   "Features": "HDR, panorama",
+   "Video": "1080p@30fps, 720p@120fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with dual speakers",
+   "3.5mm jack": "No",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.1, A2DP, LE",
+   "Positioning": "GPS, GLONASS, BDS, GALILEO",
+   "NFC": "Yes (market/region dependent)",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+   "info": "Virtual proximity sensing"
+  },
+  "Battery": {
+   "Type": "Li-Po 4250 mAh, non-removable",
+   "Charging": "33W wired"
+  },
+  "Misc": {
+   "Colors": "Boba Black (Vinyl Black), Peach Pink (Tuscany Coral), Bubblegum Blue (Jazz Blue)",
+   "Models": "M2101K9AG, M2101K9AI",
+   "SAR": "1.07 W/kg (head)     0.82 W/kg (body)",
+   "SAR EU": "0.60 W/kg (head)     0.95 W/kg (body)",
+   "Price": "$ 249.99 / € 126.99 / ₹ 13,890"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 290172 (v8), 294251 (v9)\nGeekBench: 1796 (v5.1)\nGFXBench: 17fps (ES 3.1 onscreen)",
+   "Display": "Contrast ratio: Infinite (nominal)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "-24.2 LUFS (Very good)",
+   "Battery (old)": "Endurance rating 100h",
+   "info": ""
+  }
+ }
+}
