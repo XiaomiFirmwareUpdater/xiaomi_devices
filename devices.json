@@ -1416,6 +1416,12 @@
   }
  },
  {
+  "zircon": {
+   "name": "Redmi Note 13 Pro+ 5G",
+   "model": "24040RA98R"
+  }
+ },
+ {
   "lavender": {
    "name": "Redmi Note 7",
    "model": "Redmi Note 7"
@@ -3177,6 +3183,12 @@
   "shennong": {
    "name": "Xiaomi 14 Pro",
    "model": "2311BPN23C"
+  }
+ },
+ {
+  "aurora": {
+   "name": "Xiaomi 14 Ultra",
+   "model": "24030PN60G"
   }
  },
  {
