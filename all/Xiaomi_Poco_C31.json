@@ -1,0 +1,77 @@
+{
+ "name": "Xiaomi Poco C31",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c31.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_poco_c31-11134.php",
+ "codenames": [
+  "angelicain"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 850 / 900 / 2100",
+   "4G bands": "1, 3, 5, 8, 40, 41",
+   "Speed": "HSPA, LTE"
+  },
+  "Launch": {
+   "Announced": "2021, September 30",
+   "Status": "Available. Released 2021, October 02"
+  },
+  "Body": {
+   "Dimensions": "164.9 x 77.1 x 9 mm (6.49 x 3.04 x 0.35 in)",
+   "Weight": "194 g (6.84 oz)",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "IPS LCD",
+   "Size": "6.53 inches, 102.9 cm2 (~81.0% screen-to-body ratio)",
+   "Resolution": "720 x 1600 pixels, 20:9 ratio (~269 ppi density)"
+  },
+  "Platform": {
+   "OS": "Android 10, MIUI 12",
+   "Chipset": "Mediatek MT6765G Helio G35 (12 nm)",
+   "CPU": "Octa-core (4x2.3 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)",
+   "GPU": "PowerVR GE8320"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (dedicated slot)",
+   "Internal": "32GB 3GB RAM, 64GB 4GB RAM",
+   "info": "eMMC 5.1"
+  },
+  "Main Camera": {
+   "Triple": "13 MP, f/2.2, (wide), 1.0µm, PDAF\n2 MP, f/2.4, (macro)\n2 MP, f/2.4, (depth)",
+   "Features": "LED flash, HDR",
+   "Video": "1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "5 MP, f/2.2, (wide), 1.12µm",
+   "Features": "HDR",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct",
+   "Bluetooth": "5.0, A2DP, LE",
+   "Positioning": "GPS, GLONASS, BDS",
+   "NFC": "No",
+   "Radio": "FM radio",
+   "USB": "microUSB 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+  },
+  "Battery": {
+   "Type": "Li-Po 5000 mAh, non-removable",
+   "Charging": "10W wired"
+  },
+  "Misc": {
+   "Colors": "Royal Blue, Shadow Gray",
+   "Models": "MZB0A0MIN, MZB0A0KIN, 211033MI, 22031116AI",
+   "SAR": "0.51 W/kg (head)     0.83 W/kg (body)",
+   "Price": "About 90 EUR"
+  }
+ }
+}

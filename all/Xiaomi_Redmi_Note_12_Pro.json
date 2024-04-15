@@ -1,0 +1,92 @@
+{
+ "name": "Xiaomi Redmi Note 12 Pro",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_note_12_pro-11955.php",
+ "codenames": [
+  "ruby"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "1, 3, 5, 8, 28, 38, 41, 77, 78 SA/NSA - China",
+   "3G bands": "HSDPA 800 / 850 / 900 / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 66 - International",
+   "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA - International",
+   "Speed": "HSPA, LTE (CA), 5G"
+  },
+  "Launch": {
+   "Announced": "2022, October 27",
+   "Status": "Available. Released 2022, November 01"
+  },
+  "Body": {
+   "Dimensions": "163 x 76 x 8 mm (6.42 x 2.99 x 0.31 in)",
+   "Weight": "187 g (6.60 oz)",
+   "Build": "Glass front (Gorilla Glass 5), glass back, plastic frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "IP53, dust and splash resistant"
+  },
+  "Display": {
+   "Type": "AMOLED, 1B colors, 120Hz, Dolby Vision, HDR10+, 500 nits (typ), 900 nits (HBM)",
+   "Size": "6.67 inches, 107.4 cm2 (~86.7% screen-to-body ratio)",
+   "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+   "Protection": "Corning Gorilla Glass 5"
+  },
+  "Platform": {
+   "OS": "Android 12, MIUI 13",
+   "Chipset": "Mediatek Dimensity 1080 (6 nm)",
+   "CPU": "Octa-core (2x2.6 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+   "GPU": "Mali-G68 MC4"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",
+   "info": "UFS 2.2"
+  },
+  "Main Camera": {
+   "Triple": "50 MP, f/1.9, 24mm (wide), 1/1.56\", 1.0µm, PDAF, OIS\n8 MP, f/2.2, 120˚ (ultrawide), 1/4.0\", 1.12µm\n2 MP, f/2.4, (macro)",
+   "Features": "Dual-LED dual-tone flash, HDR, panorama",
+   "Video": "4K@30fps, 1080p@30/60/120fps, 720p@960fps"
+  },
+  "Selfie camera": {
+   "Single": "16 MP, f/2.5, (wide), 1/3.06\", 1.0µm",
+   "Features": "HDR",
+   "Video": "1080p@30/60fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "Yes",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.2, A2DP, LE",
+   "Positioning": "GPS (L1), GLONASS (G1), BDS (B1I+B1c), GALILEO (E1), QZSS (L1)",
+   "NFC": "Yes (market/region dependent)",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 5000 mAh, non-removable",
+   "Charging": "67W wired, PD3.0, 50% in 15 min, 100% in 46 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "Frosted Blue (Sky Blue), Onyx Black (Midnight Black), Polar White, Stardust Purple",
+   "Models": "22101316C, 22101316I, 23013RK75C, 22101316G",
+   "Price": "$ 229.99 / £ 196.50 / € 177.66 / ₹ 17,949"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 490526 (v9)\nGeekBench: 2209 (v5.1), 2372 (v6)\nGFXBench: 22fps (ES 3.1 onscreen)",
+   "Display": "Contrast ratio: Infinite (nominal)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "-26.6 LUFS (Good)",
+   "Battery (new)": "Active use score 12:08h",
+   "Battery (old)": "Endurance rating 97h",
+   "info": ""
+  }
+ }
+}

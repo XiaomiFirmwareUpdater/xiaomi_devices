@@ -1,0 +1,91 @@
+{
+ "name": "Xiaomi Poco X3 NFC",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x3-nfc.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_poco_x3_nfc-10415.php",
+ "codenames": [
+  "surya"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41",
+   "Speed": "HSPA, LTE"
+  },
+  "Launch": {
+   "Announced": "2020, September 07",
+   "Status": "Available. Released 2020, September 08"
+  },
+  "Body": {
+   "Dimensions": "165.3 x 76.8 x 9.4 mm (6.51 x 3.02 x 0.37 in)",
+   "Weight": "215 g (7.58 oz)",
+   "Build": "Glass front (Gorilla Glass 5), aluminum frame, plastic back",
+   "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "IP53, dust and splash resistant"
+  },
+  "Display": {
+   "Type": "IPS LCD, 120Hz, HDR10, 450 nits (typ)",
+   "Size": "6.67 inches, 107.4 cm2 (~84.6% screen-to-body ratio)",
+   "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+   "Protection": "Corning Gorilla Glass 5"
+  },
+  "Platform": {
+   "OS": "Android 10, upgradable to Android 12, MIUI 14",
+   "Chipset": "Qualcomm SM7150-AC Snapdragon 732G (8 nm)",
+   "CPU": "Octa-core (2x2.3 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)",
+   "GPU": "Adreno 618"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (uses shared SIM slot)",
+   "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM",
+   "info": "UFS 2.1"
+  },
+  "Main Camera": {
+   "Quad": "64 MP, f/1.9, (wide), 1/1.73\", 0.8µm, PDAF\n13 MP, f/2.2, 119˚ (ultrawide), 1.0µm\n2 MP, f/2.4, (macro)\n2 MP, f/2.4, (depth)",
+   "Features": "Dual-LED flash, HDR, panorama",
+   "Video": "4K@30fps, 1080p@30/120fps, 720p@960fps; gyro-EIS"
+  },
+  "Selfie camera": {
+   "Single": "20 MP, f/2.2, (wide), 1/3.4\", 0.8µm",
+   "Features": "HDR, panorama",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "Yes",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.1, A2DP, LE",
+   "Positioning": "GPS, GLONASS, BDS",
+   "NFC": "Yes",
+   "Infrared port": "Yes",
+   "Radio": "FM radio, recording",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 5160 mAh, non-removable",
+   "Charging": "33W wired, 62% in 30 min, 100% in 65 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "Cobalt Blue, Shadow Gray",
+   "Models": "M2007J20CG, M2007J20CT",
+   "SAR": "0.77 W/kg (head)     0.61 W/kg (body)",
+   "SAR EU": "0.56 W/kg (head)     0.99 W/kg (body)",
+   "Price": "$ 269.99 / € 112.00"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 283750 (v8)\nGeekBench: 1777 (v5.1)\nGFXBench: 16fps (ES 3.1 onscreen)",
+   "Display": "Contrast ratio: 1299:1 (nominal)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "-25.3 LUFS (Very good)",
+   "Battery (old)": "Endurance rating 125h",
+   "info": ""
+  }
+ }
+}

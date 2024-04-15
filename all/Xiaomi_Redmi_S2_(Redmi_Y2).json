@@ -1,113 +1,89 @@
 {
  "name": "Xiaomi Redmi S2 (Redmi Y2)",
- "codename": "ysl",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-s2-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_s2_(redmi_y2)-9185.php",
+ "codenames": [
+  "ysl"
+ ],
  "specs": {
-  "Network": [
-   {
-    "Technology": "GSM / CDMA / HSPA / LTE",
-    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "info": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
-    "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
-    "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300) - Global",
-    "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps"
-   }
-  ],
-  "Launch": [
-   {
-    "Announced": "2018, May",
-    "Status": "Available. Released 2018, May"
-   }
-  ],
-  "Body": [
-   {
-    "Dimensions": "160.7 x 77.3 x 8.1 mm (6.33 x 3.04 x 0.32 in)",
-    "Weight": "170 g (6.00 oz)",
-    "Build": "Glass front, plastic back, plastic frame",
-    "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
-   }
-  ],
-  "Display": [
-   {
-    "Type": "IPS LCD capacitive touchscreen, 16M colors",
-    "Size": "5.99 inches, 92.6 cm2 (~74.5% screen-to-body ratio)",
-    "Resolution": "720 x 1440 pixels, 18:9 ratio (~269 ppi density)"
-   }
-  ],
-  "Platform": [
-   {
-    "OS": "Android 8.1 (Oreo), upgradable to Android 9.0 (Pie); MIUI 11",
-    "Chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
-    "CPU": "Octa-core 2.0 GHz Cortex-A53",
-    "GPU": "Adreno 506"
-   }
-  ],
-  "Memory": [
-   {
-    "Card slot": "microSDXC (dedicated slot)",
-    "Internal": "32GB 3GB RAM, 64GB 4GB RAM",
-    "info": "eMMC 5.1"
-   }
-  ],
-  "Main Camera": [
-   {
-    "Dual": "12 MP, f/2.2, 1.25\u03bcm, PDAF\r\n5 MP, f/2.4, 1/5.0\", 1.12\u00b5m, depth sensor",
-    "Features": "LED flash, panorama, HDR",
-    "Video": "1080p@30fps (gyro-EIS)"
-   }
-  ],
-  "Selfie camera": [
-   {
-    "Single": "16 MP, f/2.0, 26mm (wide), 1/3.1\", 1.0\u00b5m",
-    "Features": "HDR, LED flash",
-    "Video": "1080p@30fps"
-   }
-  ],
-  "Sound": [
-   {
-    "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes"
-   }
-  ],
-  "Comms": [
-   {
-    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
-    "Bluetooth": "4.2, A2DP, LE",
-    "GPS": "Yes, with A-GPS, GLONASS, BDS",
-    "Infrared port": "Yes",
-    "Radio": "FM radio",
-    "USB": "microUSB 2.0"
-   }
-  ],
-  "Features": [
-   {
-    "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
-   }
-  ],
-  "Battery": [
-   {
-    "info": "Non-removable Li-Po 3080 mAh battery",
-    "Charging": "Battery charging 10W"
-   }
-  ],
-  "Misc": [
-   {
-    "Colors": "Gray, Gold, Rose Gold, Mesmerising Blue, Stunning Black",
-    "Models": "M1803E6G, M1803E6H, M1803E6I",
-    "SAR": "0.43 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009105.99 / \u00a3\u2009100.58 / \u20ac\u2009161.73 / \u20b9\u20097,799"
-   }
-  ],
-  "Tests": [
-   {
-    "Performance": "\r\nAnTuTu: 77488 (v7)\nGeekBench: 4313 (v4.4)\nGFXBench: 7.4fps (ES 3.1 onscreen)",
-    "Display": "\nContrast ratio: 1072:1 (nominal), 3.077 (sunlight)",
-    "Camera": "\nPhoto / Video",
-    "Loudspeaker": "\nVoice 68dB / Noise 69dB / Ring 82dB\n",
-    "Audio quality": "\nNoise -90.3dB / Crosstalk -93.1dB",
-    "Battery life": "\n\nEndurance rating 92h\n\n"
-   }
-  ]
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "1, 3, 5, 7, 8, 34, 38, 39, 40, 41 - China",
+   "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+   "4G bands": "1, 3, 4, 5, 7, 8, 20, 38, 40 - Global",
+   "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps"
+  },
+  "Launch": {
+   "Announced": "2018, May",
+   "Status": "Available. Released 2018, May"
+  },
+  "Body": {
+   "Dimensions": "160.7 x 77.3 x 8.1 mm (6.33 x 3.04 x 0.32 in)",
+   "Weight": "170 g (6.00 oz)",
+   "Build": "Glass front, plastic back, plastic frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "IPS LCD",
+   "Size": "5.99 inches, 92.6 cm2 (~74.5% screen-to-body ratio)",
+   "Resolution": "720 x 1440 pixels, 18:9 ratio (~269 ppi density)"
+  },
+  "Platform": {
+   "OS": "Android 8.1 (Oreo), upgradable to Android 9, MIUI 12",
+   "Chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
+   "CPU": "Octa-core 2.0 GHz Cortex-A53",
+   "GPU": "Adreno 506"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (dedicated slot)",
+   "Internal": "32GB 3GB RAM, 64GB 4GB RAM",
+   "info": "eMMC 5.1"
+  },
+  "Main Camera": {
+   "Dual": "12 MP, f/2.2, 1.25μm, PDAF\n5 MP, f/2.4, (depth)",
+   "Features": "LED flash, panorama, HDR",
+   "Video": "1080p@30fps (gyro-EIS)"
+  },
+  "Selfie camera": {
+   "Single": "16 MP, f/2.5, (wide), 1/3.06\" 1.0µm",
+   "Features": "HDR, LED flash",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+   "Bluetooth": "4.2, A2DP, LE",
+   "Positioning": "",
+   "NFC": "No",
+   "Infrared port": "Yes",
+   "Radio": "FM radio",
+   "USB": "microUSB 2.0"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 3080 mAh, non-removable",
+   "Charging": "10W wired"
+  },
+  "Misc": {
+   "Colors": "Gray, Gold, Rose Gold, Mesmerising Blue, Stunning Black",
+   "Models": "M1803E6G, M1803E6H, M1803E6I",
+   "SAR": "0.43 W/kg (head)     1.58 W/kg (body)",
+   "Price": "About 160 EUR"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 77488 (v7)\nGeekBench: 4313 (v4.4)\nGFXBench: 7.4fps (ES 3.1 onscreen)",
+   "Display": "Contrast ratio: 1072:1 (nominal), 3.077 (sunlight)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "Voice 68dB / Noise 69dB / Ring 82dB",
+   "Audio quality": "Noise -90.3dB / Crosstalk -93.1dB",
+   "Battery (old)": "Endurance rating 92h",
+   "info": ""
+  }
  }
 }

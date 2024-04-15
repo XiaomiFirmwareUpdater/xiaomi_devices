@@ -1,0 +1,92 @@
+{
+ "name": "Xiaomi Redmi Note 10 Pro",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10-pro.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_note_10_pro-10662.php",
+ "codenames": [
+  "sweet"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 32, 38, 40, 41",
+   "Speed": "HSPA, LTE (CA)"
+  },
+  "Launch": {
+   "Announced": "2021, March 04",
+   "Status": "Available. Released 2021, March 24"
+  },
+  "Body": {
+   "Dimensions": "164 x 76.5 x 8.1 mm (6.46 x 3.01 x 0.32 in)",
+   "Weight": "193 g (6.81 oz)",
+   "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), plastic frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "IP53, dust and splash resistant"
+  },
+  "Display": {
+   "Type": "AMOLED, 120Hz, HDR10, 450 nits (typ), 1200 nits (peak)",
+   "Size": "6.67 inches, 107.4 cm2 (~85.6% screen-to-body ratio)",
+   "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+   "Protection": "Corning Gorilla Glass 5"
+  },
+  "Platform": {
+   "OS": "Android 11, upgradable to Android 13, MIUI 14",
+   "Chipset": "Qualcomm SM7150 Snapdragon 732G (8 nm)",
+   "CPU": "Octa-core (2x2.3 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)",
+   "GPU": "Adreno 618"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (dedicated slot)",
+   "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+   "info": "UFS 2.2"
+  },
+  "Main Camera": {
+   "Quad": "108 MP, f/1.9, 26mm (wide), 1/1.52\", 0.7µm, PDAF\n8 MP, f/2.2, 118˚ (ultrawide), 1/4.0\", 1.12µm\n5 MP, f/2.4, (macro), AF\n2 MP, f/2.4, (depth)",
+   "Features": "LED flash, HDR, panorama",
+   "Video": "4K@30fps, 1080p@30/60fps"
+  },
+  "Selfie camera": {
+   "Single": "16 MP, f/2.5, (wide), 1/3.06\", 1.0µm",
+   "Features": "Panorama",
+   "Video": "1080p@30fps, 720p@120fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "Yes",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.1, A2DP, LE",
+   "Positioning": "GPS, GLONASS, GALILEO, BDS",
+   "NFC": "Yes (market/region dependent)",
+   "Infrared port": "Yes",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+   "info": "Virtual proximity sensing"
+  },
+  "Battery": {
+   "Type": "Li-Po 5020 mAh, non-removable",
+   "Charging": "33W wired, 59% in 30 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "Onyx Gray, Glacier Blue, Gradient Bronze",
+   "Models": "M2101K6G, M2101K6R",
+   "SAR": "1.09 W/kg (head)     1.06 W/kg (body)",
+   "SAR EU": "0.60 W/kg (head)     0.99 W/kg (body)",
+   "Price": "$ 157.50 / £ 139.10 / € 168.00 / ₹ 13,069"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 295442 (v8)\nGeekBench: 1780 (v5.1)\nGFXBench: 16fps (ES 3.1 onscreen)",
+   "Display": "Contrast ratio: Infinite (nominal)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "-25.7 LUFS (Very good)",
+   "Battery (old)": "Endurance rating 118h",
+   "info": ""
+  }
+ }
+}

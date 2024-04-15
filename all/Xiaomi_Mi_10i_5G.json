@@ -1,0 +1,82 @@
+{
+ "name": "Xiaomi Mi 10i 5G",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10i-5g.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_mi_10i_5g-10615.php",
+ "codenames": [
+  "gauguininpro"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+   "4G bands": "1, 3, 5, 7, 8, 38, 40, 41",
+   "5G bands": "77, 78 Sub6",
+   "Speed": "HSPA, LTE, 5G"
+  },
+  "Launch": {
+   "Announced": "2021, January 05",
+   "Status": "Available. Released 2021, January 08"
+  },
+  "Body": {
+   "Dimensions": "165.4 x 76.8 x 9 mm (6.51 x 3.02 x 0.35 in)",
+   "Weight": "214.5 g (7.55 oz)",
+   "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5)",
+   "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "IPS LCD, HDR10, 120Hz, 450 nits (typ)",
+   "Size": "6.67 inches, 107.4 cm2 (~84.6% screen-to-body ratio)",
+   "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+   "Protection": "Corning Gorilla Glass 5"
+  },
+  "Platform": {
+   "OS": "Android 10, MIUI 12",
+   "Chipset": "Qualcomm SM7225 Snapdragon 750G 5G (8 nm)",
+   "CPU": "Octa-core (2x2.2 GHz Kryo 570 & 6x1.8 GHz Kryo 570)",
+   "GPU": "Adreno 619"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (uses shared SIM slot)",
+   "Internal": "128GB 6GB RAM, 128GB 8GB RAM",
+   "info": "UFS 2.2"
+  },
+  "Main Camera": {
+   "Quad": "108 MP, f/1.8, 26mm (wide), 1/1.52\", 0.7µm, PDAF\n8 MP, f/2.2, 120˚ (ultrawide), 1/4.0\", 1.12µm\n2 MP, f/2.4, (macro)\n2 MP, f/2.4, (depth)",
+   "Features": "Dual-LED dual-tone flash, HDR, panorama",
+   "Video": "4K@30fps, 1080p@30/60/120fps, 720p@960fps, gyro-EIS"
+  },
+  "Selfie camera": {
+   "Single": "16 MP, f/2.5, (wide), 1/3.06\", 1.0µm",
+   "Features": "Panorama",
+   "Video": "1080p@30fps, 720p@120fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "Yes",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Yes",
+   "Bluetooth": "Yes",
+   "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1), GALILEO (E1+E5a), NavIC",
+   "NFC": "Yes",
+   "Infrared port": "Yes",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 4820 mAh, non-removable",
+   "Charging": "33W wired, PD, 100% in 58 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "Pacific Sunrise, Midnight Black, Atlantic Blue",
+   "Models": "M2007J17I",
+   "SAR": "0.87 W/kg (head)     0.82 W/kg (body)",
+   "Price": "About 250 EUR"
+  }
+ }
+}

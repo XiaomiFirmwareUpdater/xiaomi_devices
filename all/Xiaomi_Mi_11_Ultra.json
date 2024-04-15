@@ -1,0 +1,94 @@
+{
+ "name": "Xiaomi Mi 11 Ultra",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi11-ultra-5g-k1.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_mi_11_ultra-10737.php",
+ "codenames": [
+  "star"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "1, 3, 28, 41, 77, 78, 79 SA/NSA - China",
+   "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 32, 38, 40, 41, 42, 66 - International",
+   "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 77, 78, 79 SA/NSA - International",
+   "Speed": "HSPA, LTE, 5G"
+  },
+  "Launch": {
+   "Announced": "2021, March 29",
+   "Status": "Available. Released 2021, April 02"
+  },
+  "Body": {
+   "Dimensions": "164.3 x 74.6 x 8.4 mm (6.47 x 2.94 x 0.33 in)",
+   "Weight": "234 g (8.25 oz)",
+   "Build": "Glass front (Gorilla Glass Victus), ceramic back, aluminum frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "IP68 dust/water resistant (up to 1.5m for 30 min)"
+  },
+  "Display": {
+   "Type": "AMOLED, 1B colors, 120Hz, HDR10+, Dolby Vision, 900 nits (HBM), 1700 nits (peak)",
+   "Size": "6.81 inches, 112.0 cm2 (~91.4% screen-to-body ratio)",
+   "Resolution": "1440 x 3200 pixels, 20:9 ratio (~515 ppi density)",
+   "Protection": "Corning Gorilla Glass Victus"
+  },
+  "Platform": {
+   "OS": "Android 11, upgradable to Android 13, MIUI 14",
+   "Chipset": "Qualcomm SM8350 Snapdragon 888 5G (5 nm)",
+   "CPU": "Octa-core (1x2.84 GHz Cortex-X1 & 3x2.42 GHz Cortex-A78 & 4x1.80 GHz Cortex-A55)",
+   "GPU": "Adreno 660"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+   "info": "UFS 3.1"
+  },
+  "Main Camera": {
+   "Triple": "50 MP, f/2.0, 24mm (wide), 1/1.12\", 1.4µm, dual pixel PDAF, Laser AF, OIS\n48 MP, f/4.1, 120mm (periscope telephoto), 1/2.0\", 0.8µm, PDAF, OIS, 5x optical zoom\n48 MP, f/2.2, 12mm, 128˚ (ultrawide), 1/2.0\", 0.8µm, PDAF",
+   "Features": "Dual-LED flash, HDR, panorama, 1.1” AMOLED selfie display",
+   "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240/960/1920fps, gyro-EIS, HDR10+ rec."
+  },
+  "Selfie camera": {
+   "Single": "20 MP, f/2.2, 27mm (wide), 1/3.4\", 0.8µm",
+   "Features": "HDR, panorama",
+   "Video": "1080p@30/60fps, 720p@120fps, gyro-EIS"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "No",
+   "info": "24-bit/192kHz Hi-Res audio\nTuned by Harman Kardon\nSnapdragon Sound"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct, DLNA",
+   "Bluetooth": "5.2, A2DP, LE, aptX HD, aptX Adaptive",
+   "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+   "NFC": "Yes",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass, color spectrum",
+   "info": "Virtual proximity sensing"
+  },
+  "Battery": {
+   "Type": "Li-Po 5000 mAh, non-removable",
+   "Charging": "67W wired, PD3.0, QC4, 100% in 36 min (advertised)\n67W wireless, 100% in 39 min (advertised)\n10W reverse wireless"
+  },
+  "Misc": {
+   "Colors": "Ceramic White (Cosmic White), Ceramic Black (Cosmic Black)",
+   "Models": "M2102K1G, M2102K1C",
+   "SAR": "1.08 W/kg (head)     0.81 W/kg (body)",
+   "SAR EU": "0.55 W/kg (head)     0.99 W/kg (body)",
+   "Price": "About 1500 EUR"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 688720 (v8)\nGeekBench: 3191 (v5.1)\nGFXBench: 33fps (ES 3.1 onscreen)",
+   "Display": "Contrast ratio: Infinite (nominal)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "-24.3 LUFS (Very good)",
+   "Battery (old)": "Endurance rating 95h",
+   "info": ""
+  }
+ }
+}

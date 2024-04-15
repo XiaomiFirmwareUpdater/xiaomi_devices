@@ -1,102 +1,78 @@
 {
  "name": "Xiaomi Redmi 8A Pro",
- "codename": "",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-8a-dual.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_8a_pro-10169.php",
+ "codenames": [
+  "olivewood"
+ ],
  "specs": {
-  "Network": [
-   {
-    "Technology": "GSM / HSPA / LTE",
-    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
-    "4G bands": "LTE band 1(2100), 3(1800), 5(850), 8(900), 40(2300), 41(2500)",
-    "Speed": "HSPA, LTE-A"
-   }
-  ],
-  "Launch": [
-   {
-    "Announced": "2020, April 2",
-    "Status": "Available. Released 2020, April 2"
-   }
-  ],
-  "Body": [
-   {
-    "Dimensions": "156.5 x 75.4 x 9.4 mm (6.16 x 2.97 x 0.37 in)",
-    "Weight": "188 g (6.63 oz)",
-    "Build": "Glass front (Gorilla Glass 5), plastic back, plastic frame",
-    "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
-    "": "Splash resistant"
-   }
-  ],
-  "Display": [
-   {
-    "Type": "IPS LCD capacitive touchscreen, 16M colors",
-    "Size": "6.22 inches, 96.6 cm2 (~81.8% screen-to-body ratio)",
-    "Resolution": "720 x 1520 pixels, 19:9 ratio (~270 ppi density)",
-    "Protection": "Corning Gorilla Glass 5",
-    "": "400 nits typ. brightness (advertised)"
-   }
-  ],
-  "Platform": [
-   {
-    "OS": "Android 9.0 (Pie); MIUI 11",
-    "Chipset": "Qualcomm SDM439 Snapdragon 439 (12 nm)",
-    "CPU": "Octa-core (4x1.95 GHz Cortex-A53 & 4x1.45 GHz Cortex A53)",
-    "GPU": "Adreno 505"
-   }
-  ],
-  "Memory": [
-   {
-    "Card slot": "microSDXC (dedicated slot)",
-    "Internal": "32GB 2GB RAM, 32GB 3GB RAM",
-    "": "eMMC 5.1"
-   }
-  ],
-  "Main Camera": [
-   {
-    "Dual": "13 MP, f/2.2, (wide), 1/3.1\", 1.12µm, PDAF\r\n2 MP, f/2.4, (depth)",
-    "Features": "LED flash, HDR, panorama",
-    "Video": "1080p@30fps"
-   }
-  ],
-  "Selfie camera": [
-   {
-    "Single": "8 MP, f/2.0, 1/4\", 1.12µm",
-    "Features": "HDR",
-    "Video": "1080p@30fps"
-   }
-  ],
-  "Sound": [
-   {
-    "Loudspeaker": "Yes",
-    "3.5mm jack": "Yes"
-   }
-  ],
-  "Comms": [
-   {
-    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
-    "Bluetooth": "4.2, A2DP, LE",
-    "GPS": "Yes, with A-GPS, GLONASS, BDS",
-    "Radio": "FM Radio, built-in antenna",
-    "USB": "2.0, Type-C 1.0 reversible connector, USB On-The-Go"
-   }
-  ],
-  "Features": [
-   {
-    "Sensors": "Accelerometer, proximity, compass"
-   }
-  ],
-  "Battery": [
-   {
-    "": "Non-removable Li-Po 5000 mAh battery",
-    "Charging": "Fast charging 18W\r\nPower bank/Reverse charging"
-   }
-  ],
-  "Misc": [
-   {
-    "Colors": "Sky White, Sea Blue, Midnight Grey",
-    "Price": "About 90 EUR"
-   }
-  ]
+  "Network": {
+   "Technology": "GSM / HSPA / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+   "4G bands": "1, 3, 5, 8, 40, 41",
+   "Speed": "HSPA, LTE"
+  },
+  "Launch": {
+   "Announced": "2020, April 02",
+   "Status": "Available. Released 2020, April 02"
+  },
+  "Body": {
+   "Dimensions": "156.5 x 75.4 x 9.4 mm (6.16 x 2.97 x 0.37 in)",
+   "Weight": "188 g (6.63 oz)",
+   "Build": "Glass front (Gorilla Glass 5), plastic back, plastic frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "Water-repellent coating"
+  },
+  "Display": {
+   "Type": "IPS LCD, 400 nits (typ)",
+   "Size": "6.22 inches, 96.6 cm2 (~81.8% screen-to-body ratio)",
+   "Resolution": "720 x 1520 pixels, 19:9 ratio (~270 ppi density)",
+   "Protection": "Corning Gorilla Glass 5"
+  },
+  "Platform": {
+   "OS": "Android 9.0 (Pie), planned upgrade to Android 10, MIUI 12",
+   "Chipset": "Qualcomm SDM439 Snapdragon 439 (12 nm)",
+   "CPU": "Octa-core (4x1.95 GHz Cortex-A53 & 4x1.45 GHz Cortex A53)",
+   "GPU": "Adreno 505"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (dedicated slot)",
+   "Internal": "32GB 2GB RAM, 32GB 3GB RAM",
+   "info": "eMMC 5.1"
+  },
+  "Main Camera": {
+   "Dual": "13 MP, f/2.2, (wide), 1/3.1\", 1.12µm, PDAF\n2 MP, f/2.4, (depth)",
+   "Features": "LED flash, HDR, panorama",
+   "Video": "1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "8 MP, f/2.0, 1/4.0\", 1.12µm",
+   "Features": "HDR",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+   "Bluetooth": "4.2, A2DP, LE",
+   "Positioning": "GPS, GLONASS, BDS",
+   "NFC": "No",
+   "Radio": "FM Radio, built-in antenna",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Accelerometer, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 5000 mAh, non-removable",
+   "Charging": "18W wired\n2.5W reverse wired"
+  },
+  "Misc": {
+   "Colors": "Sky White, Sea Blue, Midnight Grey",
+   "Price": "About 90 EUR"
+  }
  }
 }

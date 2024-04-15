@@ -1,0 +1,91 @@
+{
+ "name": "Xiaomi 12T Pro",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12t-pro-.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_12t_pro-11887.php",
+ "codenames": [
+  "diting"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 42, 48, 66",
+   "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78, 75 SA/NSA",
+   "Speed": "HSPA, LTE, 5G"
+  },
+  "Launch": {
+   "Announced": "2022, October 04",
+   "Status": "Available. Released 2022, October 06"
+  },
+  "Body": {
+   "Dimensions": "163.1 x 75.9 x 8.6 mm (6.42 x 2.99 x 0.34 in)",
+   "Weight": "205 g (7.23 oz)",
+   "SIM": "Nano-SIM and eSIM or Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "IP53, dust and splash resistant"
+  },
+  "Display": {
+   "Type": "AMOLED, 68B colors, 120Hz, Dolby Vision, HDR10+, 500 nits (typ), 900 nits (peak)",
+   "Size": "6.67 inches, 107.4 cm2 (~86.7% screen-to-body ratio)",
+   "Resolution": "1220 x 2712 pixels, 20:9 ratio (~446 ppi density)",
+   "Protection": "Corning Gorilla Glass 5"
+  },
+  "Platform": {
+   "OS": "Android 12, upgradable to Android 14, HyperOS",
+   "Chipset": "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)",
+   "CPU": "Octa-core (1x3.19 GHz Cortex-X2 & 3x2.75 GHz Cortex-A710 & 4x2.0 GHz Cortex-A510)",
+   "GPU": "Adreno 730"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",
+   "info": "UFS 3.1"
+  },
+  "Main Camera": {
+   "Triple": "200 MP, f/1.7, (wide), 1/1.22\", 0.64µm, PDAF, OIS\n8 MP, f/2.2, 120˚ (ultrawide), 1/4.0\", 1.12µm\n2 MP, f/2.4, (macro)",
+   "Features": "Dual-LED dual-tone flash, HDR, panorama",
+   "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240fps, HDR10+"
+  },
+  "Selfie camera": {
+   "Single": "20 MP, f/2.2, (wide), 1/3.47\", 0.8µm",
+   "Features": "HDR, panorama",
+   "Video": "1080p@30/60fps, HDR"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "No",
+   "info": "Tuned by Harman Kardon\n24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.2, A2DP, LE, aptX HD",
+   "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+   "NFC": "Yes (market/region dependent)",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum"
+  },
+  "Battery": {
+   "Type": "Li-Po 5000 mAh, non-removable",
+   "Charging": "120W wired, 100% in 19 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "Black, Silver, Blue",
+   "Models": "22081212UG, 22081212G",
+   "SAR": "1.08 W/kg (head)     1.07 W/kg (body)",
+   "SAR EU": "1.00 W/kg (head)     1.00 W/kg (body)",
+   "Price": "$ 599.00 / € 332.03"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 1032185 (v9)\nGeekBench: 4081 (v5.1)\nGFXBench: 65fps (ES 3.1 onscreen)",
+   "Display": "Contrast ratio: Infinite (nominal)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "-24.1 LUFS (Very good)",
+   "Battery (old)": "Endurance rating 91h",
+   "info": ""
+  }
+ }
+}

@@ -1,112 +1,89 @@
 {
  "name": "Xiaomi Mi A1 (Mi 5X)",
- "codename": "tissot",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-a1.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_a1_(mi_5x)-8776.php",
+ "codenames": [
+  "tissot",
+  "tiffany"
+ ],
  "specs": {
-  "Network": [
-   {
-    "Technology": "GSM / HSPA / LTE",
-    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
-    "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300)",
-    "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps"
-   }
-  ],
-  "Launch": [
-   {
-    "Announced": "2017, September",
-    "Status": "Available. Released 2017, September"
-   }
-  ],
-  "Body": [
-   {
-    "Dimensions": "155.4 x 75.8 x 7.3 mm (6.12 x 2.98 x 0.29 in)",
-    "Weight": "165 g (5.82 oz)",
-    "Build": "Glass front (Gorilla Glass 3), aluminum back, aluminum frame",
-    "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)"
-   }
-  ],
-  "Display": [
-   {
-    "Type": "LTPS IPS LCD capacitive touchscreen, 16M colors",
-    "Size": "5.5 inches, 82.6 cm2 (~70.1% screen-to-body ratio)",
-    "Resolution": "1080 x 1920 pixels, 16:9 ratio (~403 ppi density)",
-    "Protection": "Corning Gorilla Glass 3"
-   }
-  ],
-  "Platform": [
-   {
-    "OS": "Android 7.1.2 (Nougat), upgradable to Android 9.0 (Pie); Android One",
-    "Chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
-    "CPU": "Octa-core 2.0 GHz Cortex-A53",
-    "GPU": "Adreno 506"
-   }
-  ],
-  "Memory": [
-   {
-    "Card slot": "microSDXC (uses shared SIM slot)",
-    "Internal": "64GB 4GB RAM",
-    "info": "eMMC 5.1"
-   }
-  ],
-  "Main Camera": [
-   {
-    "Dual": "12 MP, f/2.2, 26mm (wide), 1/2.9\", 1.25\u00b5m, PDAF\r\n12 MP, f/2.6, 50mm (telephoto), 1.0\u00b5m, AF, 2x optical zoom",
-    "Features": "Dual-LED dual-tone flash, HDR, panorama",
-    "Video": "2160p@30fps, 1080p@30fps, 720p@120fps"
-   }
-  ],
-  "Selfie camera": [
-   {
-    "Single": "5 MP",
-    "Video": "1080p@30fps"
-   }
-  ],
-  "Sound": [
-   {
-    "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes"
-   }
-  ],
-  "Comms": [
-   {
-    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
-    "Bluetooth": "4.2, A2DP, LE",
-    "GPS": "Yes, with A-GPS, GLONASS, BDS",
-    "Infrared port": "Yes",
-    "Radio": "FM radio",
-    "USB": "2.0, Type-C 1.0 reversible connector"
-   }
-  ],
-  "Features": [
-   {
-    "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity"
-   }
-  ],
-  "Battery": [
-   {
-    "info": "Non-removable Li-Po 3080 mAh battery",
-    "Charging": "Battery charging 10W"
-   }
-  ],
-  "Misc": [
-   {
-    "Colors": "Black, Gold, Rose Gold, Red",
-    "Models": "MDG2, MDI2",
-    "SAR": "1.75 W/kg (head) \u00a0 \u00a0 0.76 W/kg (body) \u00a0 \u00a0 ",
-    "Price": "$\u2009169.99 / \u00a3\u2009181.60 / \u20b9\u200970"
-   }
-  ],
-  "Tests": [
-   {
-    "Performance": "\r\nGeekBench: 4292 (v4.4)\nGFXBench: 3.5fps (ES 3.1 onscreen)",
-    "Display": "\nContrast ratio: 1570:1 (nominal), 2.689 (sunlight)",
-    "Camera": "\nPhoto / Video",
-    "Loudspeaker": "\nVoice 74dB / Noise 73dB / Ring 90dB\n",
-    "Audio quality": "\nNoise -91.0dB / Crosstalk -82.5dB",
-    "Battery life": "\n\nEndurance rating 87h\n\n"
-   }
-  ]
+  "Network": {
+   "Technology": "GSM / HSPA / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+   "4G bands": "1, 3, 5, 7, 8, 20, 38, 40",
+   "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps"
+  },
+  "Launch": {
+   "Announced": "2017, September",
+   "Status": "Available. Released 2017, September"
+  },
+  "Body": {
+   "Dimensions": "155.4 x 75.8 x 7.3 mm (6.12 x 2.98 x 0.29 in)",
+   "Weight": "165 g (5.82 oz)",
+   "Build": "Glass front (Gorilla Glass 3), aluminum back, aluminum frame",
+   "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "IPS LCD",
+   "Size": "5.5 inches, 82.6 cm2 (~70.1% screen-to-body ratio)",
+   "Resolution": "1080 x 1920 pixels, 16:9 ratio (~403 ppi density)",
+   "Protection": "Corning Gorilla Glass 3"
+  },
+  "Platform": {
+   "OS": "Android 7.1.2 (Nougat), upgradable to Android 9.0 (Pie), Android One",
+   "Chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
+   "CPU": "Octa-core 2.0 GHz Cortex-A53",
+   "GPU": "Adreno 506"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (uses shared SIM slot)",
+   "Internal": "32GB 4GB RAM, 64GB 4GB RAM",
+   "info": "eMMC 5.1"
+  },
+  "Main Camera": {
+   "Dual": "12 MP, f/2.2, 26mm (wide), 1/2.9\", 1.25µm, PDAF\n12 MP, f/2.6, 50mm (telephoto), 1.0µm, AF, 2x optical zoom",
+   "Features": "Dual-LED dual-tone flash, HDR, panorama",
+   "Video": "4K@30fps, 1080p@30fps, 720p@120fps"
+  },
+  "Selfie camera": {
+   "Single": "5 MP",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "4.2, A2DP, LE",
+   "Positioning": "GPS, GLONASS, BDS",
+   "NFC": "No",
+   "Infrared port": "Yes",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity"
+  },
+  "Battery": {
+   "Type": "Li-Po 3080 mAh, non-removable",
+   "Charging": "10W wired"
+  },
+  "Misc": {
+   "Colors": "Black, Gold, Rose Gold, Red",
+   "Models": "MDG2, MDI2",
+   "SAR": "1.75 W/kg (head)     0.76 W/kg (body)",
+   "Price": "About 170 EUR"
+  },
+  "Tests": {
+   "Performance": "GeekBench: 4292 (v4.4)\nGFXBench: 3.5fps (ES 3.1 onscreen)",
+   "Display": "Contrast ratio: 1570:1 (nominal), 2.689 (sunlight)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "Voice 74dB / Noise 73dB / Ring 90dB",
+   "Audio quality": "Noise -91.0dB / Crosstalk -82.5dB",
+   "Battery (old)": "Endurance rating 87h",
+   "info": ""
+  }
  }
 }

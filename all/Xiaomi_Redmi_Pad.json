@@ -1,0 +1,83 @@
+{
+ "name": "Xiaomi Redmi Pad",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pad.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_pad-11911.php",
+ "codenames": [
+  "yunluo"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "No cellular connectivity",
+   "2G bands": "N/A",
+   "3G bands": "N/A",
+   "4G bands": "N/A",
+   "GPRS": "N/A",
+   "EDGE": "N/A"
+  },
+  "Launch": {
+   "Announced": "2022, October 04",
+   "Status": "Available. Released 2022, October 05"
+  },
+  "Body": {
+   "Dimensions": "250.5 x 158.1 x 7.1 mm (9.86 x 6.22 x 0.28 in)",
+   "Weight": "465 g (1.03 lb)",
+   "Build": "Glass front, aluminum frame",
+   "SIM": "No"
+  },
+  "Display": {
+   "Type": "IPS LCD, 1B colors, 90Hz, 400 nits (typ)",
+   "Size": "10.61 inches, 320.4 cm2 (~80.9% screen-to-body ratio)",
+   "Resolution": "1200 x 2000 pixels, 5:3 ratio (~220 ppi density)"
+  },
+  "Platform": {
+   "OS": "Android 12, upgradable to Android 13, MIUI 14",
+   "Chipset": "Mediatek Helio G99 (6nm)",
+   "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+   "GPU": "Mali-G57 MC2"
+  },
+  "Memory": {
+   "Card slot": "microSDXC",
+   "Internal": "64GB 3GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",
+   "info": "UFS 2.2"
+  },
+  "Main Camera": {
+   "Single": "8 MP, f/2.0, (wide), AF",
+   "Video": "1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "8 MP, f/2.3, 105° (ultrawide)",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+   "3.5mm jack": "No",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.2, A2DP, LE",
+   "Positioning": "No",
+   "NFC": "No",
+   "Radio": "No",
+   "USB": "USB Type-C, OTG"
+  },
+  "Features": {
+   "Sensors": "Accelerometer"
+  },
+  "Battery": {
+   "Type": "Li-Po 8000 mAh, non-removable",
+   "Charging": "18W wired"
+  },
+  "Misc": {
+   "Colors": "Graphite Gray, Moonlight Silver, Mint Green",
+   "Models": "22081283G",
+   "Price": "About 250 EUR"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 319077 (v9)\nGeekBench: 1852 (v5.1)\nGFXBench: 13fps (ES 3.1 onscreen)",
+   "Display": "Contrast ratio: 1529:1 (nominal)",
+   "Loudspeaker": "-23.9 LUFS (Very good)",
+   "info": ""
+  }
+ }
+}

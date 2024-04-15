@@ -1,0 +1,84 @@
+{
+ "name": "Xiaomi Mix 4",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix-4.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_mix_4-11040.php",
+ "codenames": [
+  "odin"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "CDMA2000 1xEV-DO",
+   "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 42",
+   "5G bands": "1, 3, 5, 8, 28, 41, 77, 78, 79 SA/NSA/Sub6",
+   "Speed": "HSPA, LTE, 5G"
+  },
+  "Launch": {
+   "Announced": "2021, August 10",
+   "Status": "Available. Released 2021, August 16"
+  },
+  "Body": {
+   "Dimensions": "162.6 x 75.4 x 8 mm (6.40 x 2.97 x 0.31 in)",
+   "Weight": "225 g (7.94 oz)",
+   "Build": "Glass front (Gorilla Glass Victus), ceramic back, aluminum frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "IP53, dust and splash resistant"
+  },
+  "Display": {
+   "Type": "AMOLED, 1B colors, 120Hz, HDR10+, Dolby Vision, 800 nits (HBM)",
+   "Size": "6.67 inches, 107.4 cm2 (~87.6% screen-to-body ratio)",
+   "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+   "Protection": "Corning Gorilla Glass Victus"
+  },
+  "Platform": {
+   "OS": "Android 11, MIUI 12.5",
+   "Chipset": "Qualcomm SM8350 Snapdragon 888+ 5G (5 nm)",
+   "CPU": "Octa-core (1x2.99 GHz Cortex-X1 & 3x2.42 GHz Cortex-A78 & 4x1.80 GHz Cortex-A55)",
+   "GPU": "Adreno 660"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+   "info": "UFS 3.1"
+  },
+  "Main Camera": {
+   "Triple": "108 MP, f/1.9, 24mm (wide), 1/1.33\", 0.8µm, PDAF, Laser AF, OIS\n8 MP, f/4.1, 120mm (periscope telephoto), PDAF, OIS, 5x optical zoom\n13 MP, f/2.2, 12mm, 123˚ (ultrawide), 1/3.06\", 1.12µm",
+   "Features": "Dual-LED flash, HDR, panorama",
+   "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/480fps; gyro-EIS, HDR10+"
+  },
+  "Selfie camera": {
+   "Single": "20 MP, 27mm (wide), 1/3.4\", 0.8µm, under display",
+   "Features": "HDR",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "No",
+   "info": "24-bit/192kHz Hi-Res audio\nTuned by Harman Kardon\nSnapdragon Sound"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.2, A2DP, LE, aptX HD",
+   "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+   "NFC": "Yes",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum",
+   "info": "Ultra Wideband (UWB) support"
+  },
+  "Battery": {
+   "Type": "Li-Po 4500 mAh, non-removable",
+   "Charging": "120W wired, PD3.0, QC4, 100% in 15 min (advertised)\n50W wireless, 100% in 28 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "Ceramic Black, Ceramic White, Shadow Gray",
+   "Models": "2106118C",
+   "Price": "About 660 EUR"
+  }
+ }
+}

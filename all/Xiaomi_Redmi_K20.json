@@ -1,105 +1,81 @@
 {
  "name": "Xiaomi Redmi K20",
- "codename": "davinciin",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k20pro-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_k20-9720.php",
+ "codenames": [
+  "davinci",
+  "davinciin"
+ ],
  "specs": {
-  "Network": [
-   {
-    "Technology": "GSM / HSPA / LTE",
-    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
-    "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)",
-    "Speed": "HSPA 42.2/5.76 Mbps, LTE-A"
-   }
-  ],
-  "Launch": [
-   {
-    "Announced": "2019, May",
-    "Status": "Available. Released 2019, June"
-   }
-  ],
-  "Body": [
-   {
-    "Dimensions": "156.7 x 74.3 x 8.8 mm (6.17 x 2.93 x 0.35 in)",
-    "Weight": "191 g (6.74 oz)",
-    "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
-    "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
-   }
-  ],
-  "Display": [
-   {
-    "Type": "Super AMOLED capacitive touchscreen, 16M colors",
-    "Size": "6.39 inches, 100.2 cm2 (~86.1% screen-to-body ratio)",
-    "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
-    "Protection": "Corning Gorilla Glass 5",
-    "": "HDR"
-   }
-  ],
-  "Platform": [
-   {
-    "OS": "Android 9.0 (Pie), upgradable to Android 10.0; MIUI 11",
-    "Chipset": "Qualcomm SDM730 Snapdragon 730 (8 nm)",
-    "CPU": "Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)",
-    "GPU": "Adreno 618"
-   }
-  ],
-  "Memory": [
-   {
-    "Card slot": "No",
-    "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM",
-    "": "UFS 2.1"
-   }
-  ],
-  "Main Camera": [
-   {
-    "Triple": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF\r\n8 MP, f/2.4, 53mm (telephoto), 1/4.0\", 1.12µm, PDAF, 2x optical zoom\r\n13 MP, f/2.4, 12mm (ultrawide), 1/3.1\", 1.12µm",
-    "Features": "Dual-LED flash, HDR, panorama",
-    "Video": "2160p@30fps, 1080p@30/120/240fps, 1080p@960fps"
-   }
-  ],
-  "Selfie camera": [
-   {
-    "Single": "Motorized pop-up 20 MP, f/2.2, (wide), 1/3.4\", 0.8µm",
-    "Features": "HDR",
-    "Video": "1080p@30fps"
-   }
-  ],
-  "Sound": [
-   {
-    "Loudspeaker": "Yes",
-    "3.5mm jack": "Yes",
-    "": "24-bit/192kHz audio"
-   }
-  ],
-  "Comms": [
-   {
-    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
-    "Bluetooth": "5.0, A2DP, LE, aptX HD",
-    "GPS": "Yes, with A-GPS, GLONASS, GALILEO, BDS",
-    "NFC": "Yes (China only)",
-    "Radio": "FM radio",
-    "USB": "2.0, Type-C 1.0 reversible connector, USB On-The-Go"
-   }
-  ],
-  "Features": [
-   {
-    "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-   }
-  ],
-  "Battery": [
-   {
-    "": "Non-removable Li-Po 4000 mAh battery",
-    "Charging": "Fast battery charging 18W"
-   }
-  ],
-  "Misc": [
-   {
-    "Colors": "Carbon black, Red flame, Glacier blue, Pearl White",
-    "Models": "M1903F10I",
-    "SAR": "1.07 W/kg (head)     0.72 W/kg (body)",
-    "Price": "$ 278.78 / ₹ 19,293"
-   }
-  ]
+  "Network": {
+   "Technology": "GSM / HSPA / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+   "4G bands": "1, 3, 5, 7, 8, 34, 38, 39, 40, 41",
+   "Speed": "HSPA, LTE"
+  },
+  "Launch": {
+   "Announced": "2019, May",
+   "Status": "Available. Released 2019, June"
+  },
+  "Body": {
+   "Dimensions": "156.7 x 74.3 x 8.8 mm (6.17 x 2.93 x 0.35 in)",
+   "Weight": "191 g (6.74 oz)",
+   "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "Super AMOLED, HDR",
+   "Size": "6.39 inches, 100.2 cm2 (~86.1% screen-to-body ratio)",
+   "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
+   "Protection": "Corning Gorilla Glass 5"
+  },
+  "Platform": {
+   "OS": "Android 9.0 (Pie), upgradable to Android 10, MIUI 12",
+   "Chipset": "Qualcomm SDM730 Snapdragon 730 (8 nm)",
+   "CPU": "Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)",
+   "GPU": "Adreno 618"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM",
+   "info": "UFS 2.1"
+  },
+  "Main Camera": {
+   "Triple": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF\n8 MP, f/2.4, 53mm (telephoto), 1/4.0\", 1.12µm, PDAF, 2x optical zoom\n13 MP, f/2.4, 12mm (ultrawide), 1/3.1\", 1.12µm",
+   "Features": "Dual-LED flash, HDR, panorama",
+   "Video": "4K@30fps, 1080p@30/120/240fps, 1080p@960fps"
+  },
+  "Selfie camera": {
+   "Single": "Motorized pop-up 20 MP, f/2.2, (wide), 1/3.4\", 0.8µm",
+   "Features": "HDR",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.0, A2DP, LE, aptX HD",
+   "Positioning": "GPS, GLONASS, GALILEO, BDS",
+   "NFC": "Yes (China only)",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 4000 mAh, non-removable",
+   "Charging": "18W wired"
+  },
+  "Misc": {
+   "Colors": "Carbon black, Red flame, Glacier blue, Pearl White",
+   "Models": "M1903F10I",
+   "SAR": "1.07 W/kg (head)     0.72 W/kg (body)",
+   "Price": "About 260 EUR"
+  }
  }
 }

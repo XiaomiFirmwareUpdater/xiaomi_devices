@@ -1,0 +1,82 @@
+{
+ "name": "Xiaomi Redmi K40 Pro",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k40-pro.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_k40_pro-10727.php",
+ "codenames": [
+  "haydn"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "CDMA2000 1x",
+   "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 42",
+   "5G bands": "1, 3, 28, 41, 77, 78 SA/NSA/Sub6",
+   "Speed": "HSPA, LTE, 5G"
+  },
+  "Launch": {
+   "Announced": "2021, February 25",
+   "Status": "Available. Released 2021, March 04"
+  },
+  "Body": {
+   "Dimensions": "163.7 x 76.4 x 7.8 mm (6.44 x 3.01 x 0.31 in)",
+   "Weight": "196 g (6.91 oz)",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "IP53, dust and splash resistant"
+  },
+  "Display": {
+   "Type": "Super AMOLED, 120Hz, HDR10+, 1300 nits (peak)",
+   "Size": "6.67 inches, 107.4 cm2 (~85.9% screen-to-body ratio)",
+   "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+   "Protection": "Corning Gorilla Glass 5"
+  },
+  "Platform": {
+   "OS": "Android 11, MIUI 12",
+   "Chipset": "Qualcomm SM8350 Snapdragon 888 5G (5 nm)",
+   "CPU": "Octa-core (1x2.84 GHz Cortex-X1 & 3x2.42 GHz Cortex-A78 & 4x1.80 GHz Cortex-A55)",
+   "GPU": "Adreno 660"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",
+   "info": "UFS 3.1"
+  },
+  "Main Camera": {
+   "Triple": "64 MP, f/1.9, 26mm (wide), 1/1.7\", 0.8µm, PDAF\n8 MP, f/2.2, 119˚ (ultrawide)\n5 MP, f/2.4, 50mm (macro), 1/5.0\", 1.12µm",
+   "Features": "LED flash, HDR, panorama",
+   "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10+"
+  },
+  "Selfie camera": {
+   "Single": "20 MP, f/2.5, (wide), 1/3.4\", 0.8µm",
+   "Features": "HDR",
+   "Video": "1080p@30fps, 720p@120fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "No",
+   "info": "24-bit/192kHz Hi-Res audio\nSnapdragon Sound"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.2, A2DP, LE, aptX HD, aptX Adaptive",
+   "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+   "NFC": "Yes",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, color spectrum, barometer"
+  },
+  "Battery": {
+   "Type": "Li-Po 4520 mAh, non-removable",
+   "Charging": "33W wired, PD3.0, QC3, 100% in 52 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "Black, White, Aurora",
+   "Models": "M2012K11C",
+   "Price": "About 360 EUR"
+  }
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "name": "Xiaomi Redmi K60 Ultra",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k60-ultra.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_k60_ultra-12470.php",
+ "codenames": [
+  "corot"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "CDMA2000 1x",
+   "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 2100",
+   "4G bands": "1, 3, 4, 5, 8, 18, 19, 26, 34, 38, 39, 40, 41, 42, 66",
+   "5G bands": "1, 3, 5, 8, 28, 38, 41, 66, 77, 78 SA/NSA",
+   "Speed": "HSPA, LTE (CA), 5G"
+  },
+  "Launch": {
+   "Announced": "2023, August 15",
+   "Status": "Available. Released 2023, August 15"
+  },
+  "Body": {
+   "Dimensions": "162.2 x 75.7 x 8.5 mm (6.39 x 2.98 x 0.33 in)",
+   "Weight": "204 g (7.20 oz)",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "IP68 dust/water resistant (up to 1.5m for 30 min)"
+  },
+  "Display": {
+   "Type": "OLED, 68B colors, 144Hz, Dolby Vision, HDR10+, 2600 nits (peak)",
+   "Size": "6.67 inches, 107.4 cm2 (~87.5% screen-to-body ratio)",
+   "Resolution": "1220 x 2712 pixels, 20:9 ratio (~446 ppi density)",
+   "Protection": "Unspecified"
+  },
+  "Platform": {
+   "OS": "Android 13, MIUI 14",
+   "Chipset": "Mediatek Dimensity 9200+ (4 nm)",
+   "CPU": "Octa-core (1x3.35 GHz Cortex-X3 & 3x3.0 GHz Cortex-A715 & 4x2.0 GHz Cortex-A510)",
+   "GPU": "Immortalis-G715 MC11"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 16GB RAM, 1TB 16GB RAM, 1TB 24GB RAM",
+   "info": "UFS 4.0"
+  },
+  "Main Camera": {
+   "Triple": "50 MP, f/1.7, (wide), 1/1.49\", 1.0µm, PDAF, OIS\n8 MP, 119˚ (ultrawide), 1/4.0\", 1.12µm\n2 MP, f/2.4, (macro)",
+   "Features": "Dual-LED dual-tone flash, HDR, panorama",
+   "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10+, 10-bit"
+  },
+  "Selfie camera": {
+   "Single": "20 MP, (wide), 1/2.0\", 0.8µm",
+   "Features": "HDR",
+   "Video": "1080p@30/120fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "No",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.4, A2DP, LE",
+   "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1C+B2a+B2b), GALILEO (E1+E5a), QZSS (L1+L5), NavIC",
+   "NFC": "Yes",
+   "Infrared port": "Yes",
+   "Radio": "Unspecified",
+   "USB": "USB Type-C, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum"
+  },
+  "Battery": {
+   "Type": "Li-Po 5000 mAh, non-removable",
+   "Charging": "120W wired, PD3.0, 100% in 19 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "Black, White, Green",
+   "Models": "23078RKD5C",
+   "Price": "About 330 EUR"
+  }
+ }
+}

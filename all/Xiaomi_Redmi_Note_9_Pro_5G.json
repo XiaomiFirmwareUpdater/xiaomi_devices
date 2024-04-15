@@ -1,0 +1,84 @@
+{
+ "name": "Xiaomi Redmi Note 9 Pro 5G",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note9-pro.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_note_9_pro_5g-10582.php",
+ "codenames": [
+  "gauguinpro"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "CDMA2000 1xEV-DO",
+   "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+   "4G bands": "1, 3, 5, 7, 8, 34, 38, 39, 40, 41",
+   "5G bands": "1, 3, 41, 78, 79 SA/NSA/Sub6",
+   "Speed": "HSPA, LTE, 5G"
+  },
+  "Launch": {
+   "Announced": "2020, November 26",
+   "Status": "Available. Released 2020, December 01"
+  },
+  "Body": {
+   "Dimensions": "165.4 x 76.8 x 9 mm (6.51 x 3.02 x 0.35 in)",
+   "Weight": "215 g (7.58 oz)",
+   "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5)",
+   "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "IP53, dust and splash resistant"
+  },
+  "Display": {
+   "Type": "IPS LCD, HDR10, 120Hz, 450 nits (typ)",
+   "Size": "6.67 inches, 107.4 cm2 (~84.6% screen-to-body ratio)",
+   "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+   "Protection": "Corning Gorilla Glass 5"
+  },
+  "Platform": {
+   "OS": "Android 10, MIUI 12",
+   "Chipset": "Qualcomm SM7225 Snapdragon 750G 5G (8 nm)",
+   "CPU": "Octa-core (2x2.2 GHz Kryo 570 & 6x1.8 GHz Kryo 570)",
+   "GPU": "Adreno 619"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (uses shared SIM slot)",
+   "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+   "info": "UFS 2.2"
+  },
+  "Main Camera": {
+   "Quad": "108 MP, f/1.8, 26mm (wide), 1/1.52\", 0.7µm, PDAF\n8 MP, f/2.2, 118˚ (ultrawide), 1/4.0\", 1.12µm\n2 MP, f/2.4, (macro)\n2 MP, f/2.4, (depth)",
+   "Features": "Dual-LED dual-tone flash, HDR, panorama",
+   "Video": "4K@30fps, 1080p@30/60fps, gyro-EIS"
+  },
+  "Selfie camera": {
+   "Single": "16 MP, f/2.5, (wide), 1/3.06\", 1.0µm",
+   "Features": "HDR, panorama",
+   "Video": "1080p@30fps, gyro-EIS"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "Yes",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.1, A2DP, LE",
+   "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+   "NFC": "Yes",
+   "Infrared port": "Yes",
+   "Radio": "Unspecified",
+   "USB": "USB Type-C 2.0"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+   "info": "Virtual proximity sensing"
+  },
+  "Battery": {
+   "Type": "Li-Po 4820 mAh, non-removable",
+   "Charging": "33W wired, 100% in 58 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "Gray, Blue, Red/Mint",
+   "Models": "M2007J17C",
+   "Price": "About 370 EUR"
+  }
+ }
+}

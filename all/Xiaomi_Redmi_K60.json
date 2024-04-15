@@ -1,0 +1,79 @@
+{
+ "name": "Xiaomi Redmi K60",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k60.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_k60-11975.php",
+ "codenames": [
+  "mondrian"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "CDMA2000 1x",
+   "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 2100",
+   "4G bands": "1, 3, 4, 5, 8, 18, 19, 26, 34, 38, 39, 40, 41, 42",
+   "5G bands": "1, 3, 5, 8, 28, 38, 41, 77, 78 SA/NSA",
+   "Speed": "HSPA, LTE (CA), 5G"
+  },
+  "Launch": {
+   "Announced": "2022, December 27",
+   "Status": "Available. Released 2023, January 01"
+  },
+  "Body": {
+   "Dimensions": "162.8 x 75.4 x 8.6 mm or 8.8 mm",
+   "Weight": "199 g or 204 g (7.02 oz)",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "OLED, 68B colors, 120Hz, Dolby Vision, HDR10+, 1400 nits (peak)",
+   "Size": "6.67 inches, 107.4 cm2 (~87.5% screen-to-body ratio)",
+   "Resolution": "1440 x 3200 pixels, 20:9 ratio (~526 ppi density)"
+  },
+  "Platform": {
+   "OS": "Android 13, MIUI 14",
+   "Chipset": "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)",
+   "CPU": "Octa-core (1x3.0 GHz Cortex-X2 & 3x2.5 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)",
+   "GPU": "Adreno 730"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+   "info": "UFS 3.1"
+  },
+  "Main Camera": {
+   "Triple": "64 MP, f/1.8, (wide), 1/2.0\", 0.7µm, PDAF, OIS\n8 MP, f/2.2, 120˚ (ultrawide), 1/4.0\", 1.12µm\n2 MP, f/2.4, (macro)",
+   "Features": "Dual-LED dual-tone flash, HDR, panorama",
+   "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS"
+  },
+  "Selfie camera": {
+   "Single": "16 MP, f/2.5, (wide), 1/3.06\", 1.0µm",
+   "Features": "HDR",
+   "Video": "1080p@30/60/120fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "No",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE",
+   "Positioning": "GPS (L1), GLONASS (G1), BDS (B1I+B1c), GALILEO (E1), QZSS (L1)",
+   "NFC": "Yes",
+   "Infrared port": "Yes",
+   "Radio": "Unspecified",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum"
+  },
+  "Battery": {
+   "Type": "Li-Po 5500 mAh, non-removable",
+   "Charging": "67W wired, PD3.0, QC3+\n30W wireless"
+  },
+  "Misc": {
+   "Colors": "Black, White, Blue, Green",
+   "Price": "About 350 EUR"
+  }
+ }
+}

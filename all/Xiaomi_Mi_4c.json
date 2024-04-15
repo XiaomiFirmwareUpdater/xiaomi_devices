@@ -1,109 +1,87 @@
 {
  "name": "Xiaomi Mi 4c",
- "codename": "libra",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-4c.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_4c-7512.php",
+ "codenames": [
+  "libra"
+ ],
  "specs": {
-  "Network": [
-   {
-    "Technology": "GSM / HSPA / LTE",
-    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "3G bands": "HSDPA 850 / 900 / 1900 / 2100 ",
-    "info": " TD-SCDMA",
-    "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)",
-    "Speed": "HSPA, LTE Cat4 150/50 Mbps"
-   }
-  ],
-  "Launch": [
-   {
-    "Announced": "2015, September",
-    "Status": "Available. Released 2015, September"
-   }
-  ],
-  "Body": [
-   {
-    "Dimensions": "138.1 x 69.6 x 7.8 mm (5.44 x 2.74 x 0.31 in)",
-    "Weight": "132 g (4.66 oz)",
-    "Build": "Glass front, plastic back, plastic frame",
-    "SIM": "Dual SIM"
-   }
-  ],
-  "Display": [
-   {
-    "Type": "IPS LCD capacitive touchscreen, 16M colors",
-    "Size": "5.0 inches, 68.9 cm2 (~71.7% screen-to-body ratio)",
-    "Resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)"
-   }
-  ],
-  "Platform": [
-   {
-    "OS": "Android 5.1.1 (Lollipop), upgradable to 7.0 (Nougat); MIUI 10",
-    "Chipset": "Qualcomm MSM8992 Snapdragon 808 (20 nm)",
-    "CPU": "Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A57)",
-    "GPU": "Adreno 418"
-   }
-  ],
-  "Memory": [
-   {
-    "Card slot": "No",
-    "Internal": "16GB 2GB RAM, 32GB 3GB RAM"
-   }
-  ],
-  "Main Camera": [
-   {
-    "Single": "13 MP, f/2.0, 24mm (wide), 1/3.1\", 1.12\u00b5m, PDAF",
-    "Features": "Dual-LED dual-tone flash, panorama, HDR",
-    "Video": "1080p@30fps"
-   }
-  ],
-  "Selfie camera": [
-   {
-    "Single": "5 MP, f/2.0",
-    "Video": "1080p@30fps"
-   }
-  ],
-  "Sound": [
-   {
-    "Loudspeaker ": "Yes",
-    "3.5mm jack ": "Yes"
-   }
-  ],
-  "Comms": [
-   {
-    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
-    "Bluetooth": "4.1, A2DP",
-    "GPS": "Yes, with A-GPS, GLONASS, BDS",
-    "Infrared port": "Yes",
-    "Radio": "No",
-    "USB": "Type-C 1.0 reversible connector"
-   }
-  ],
-  "Features": [
-   {
-    "Sensors": "Accelerometer, gyro, proximity, compass"
-   }
-  ],
-  "Battery": [
-   {
-    "info": "Non-removable Li-Ion 3080 mAh battery",
-    "Charging": "Fast battery charging 18W: 40% in 60 min (Quick Charge 2.0)"
-   }
-  ],
-  "Misc": [
-   {
-    "Colors": "White, grey, pink, yellow, blue",
-    "Price": "About 210 EUR"
-   }
-  ],
-  "Tests": [
-   {
-    "Performance": "\r\nBasemark OS II 2.0: 1233Basemark X: 12096",
-    "Display": "\nContrast ratio: 1609 (nominal),  2.574(sunlight)",
-    "Camera": "\nPhoto / Video",
-    "Loudspeaker": "\nVoice 73dB / Noise 66dB / Ring 77dB\n",
-    "Audio quality": "\nNoise -94.7dB / Crosstalk -95.3dB",
-    "Battery life": "\n\nEndurance rating 52h\n\n"
-   }
-  ]
+  "Network": {
+   "Technology": "GSM / HSPA / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+   "info": "TD-SCDMA",
+   "4G bands": "1, 3, 7, 38, 39, 40, 41",
+   "Speed": "HSPA, LTE Cat4 150/50 Mbps"
+  },
+  "Launch": {
+   "Announced": "2015, September. Released 2015, September",
+   "Status": "Discontinued"
+  },
+  "Body": {
+   "Dimensions": "138.1 x 69.6 x 7.8 mm (5.44 x 2.74 x 0.31 in)",
+   "Weight": "132 g (4.66 oz)",
+   "Build": "Glass front, plastic back, plastic frame",
+   "SIM": "Dual SIM"
+  },
+  "Display": {
+   "Type": "IPS LCD",
+   "Size": "5.0 inches, 68.9 cm2 (~71.7% screen-to-body ratio)",
+   "Resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)"
+  },
+  "Platform": {
+   "OS": "Android 5.1.1 (Lollipop), upgradable to 7.0 (Nougat), MIUI 10",
+   "Chipset": "Qualcomm MSM8992 Snapdragon 808 (20 nm)",
+   "CPU": "Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A57)",
+   "GPU": "Adreno 418"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "16GB 2GB RAM, 32GB 3GB RAM",
+   "info": "eMMC 5.0"
+  },
+  "Main Camera": {
+   "Single": "13 MP, f/2.0, 24mm (wide), 1/3.1\", 1.12µm, PDAF",
+   "Features": "Dual-LED dual-tone flash, panorama, HDR",
+   "Video": "1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "5 MP, f/2.0",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+   "Bluetooth": "4.1, A2DP",
+   "Positioning": "GPS, GLONASS, BDS",
+   "NFC": "No",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C"
+  },
+  "Features": {
+   "Sensors": "Accelerometer, gyro, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Ion 3080 mAh, non-removable",
+   "Charging": "18W wired, QC2, 40% in 60 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "White, grey, pink, yellow, blue",
+   "Models": "Mi-4c",
+   "Price": "About 210 EUR"
+  },
+  "Tests": {
+   "Performance": "Basemark OS II 2.0: 1233Basemark X: 12096",
+   "Display": "Contrast ratio: 1609 (nominal),  2.574(sunlight)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "Voice 73dB / Noise 66dB / Ring 77dB",
+   "Audio quality": "Noise -94.7dB / Crosstalk -95.3dB",
+   "Battery (old)": "Endurance rating 52h",
+   "info": ""
+  }
  }
 }

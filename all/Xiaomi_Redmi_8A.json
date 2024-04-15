@@ -1,111 +1,86 @@
 {
  "name": "Xiaomi Redmi 8A",
- "codename": "olivelite",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-8a.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_8a-9897.php",
+ "codenames": [
+  "olivelite"
+ ],
  "specs": {
-  "Network": [
-   {
-    "Technology": "GSM / HSPA / LTE",
-    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
-    "": "LTE band 1(2100), 3(1800), 5(850), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500) - China",
-    "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300) - Global",
-    "Speed": "HSPA, LTE-A"
-   }
-  ],
-  "Launch": [
-   {
-    "Announced": "2019, September",
-    "Status": "Available. Released 2019, September"
-   }
-  ],
-  "Body": [
-   {
-    "Dimensions": "156.5 x 75.4 x 9.4 mm (6.16 x 2.97 x 0.37 in)",
-    "Weight": "188 g (6.63 oz)",
-    "Build": "Glass front (Gorilla Glass 5), plastic back, plastic frame",
-    "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
-    "": "Splash resistant"
-   }
-  ],
-  "Display": [
-   {
-    "Type": "IPS LCD capacitive touchscreen, 16M colors",
-    "Size": "6.22 inches, 96.6 cm2 (~81.8% screen-to-body ratio)",
-    "Resolution": "720 x 1520 pixels, 19:9 ratio (~270 ppi density)",
-    "Protection": "Corning Gorilla Glass 5",
-    "": "400 nits typ. brightness (advertised)"
-   }
-  ],
-  "Platform": [
-   {
-    "OS": "Android 9.0 (Pie); MIUI 11",
-    "Chipset": "Qualcomm SDM439 Snapdragon 439 (12 nm)",
-    "CPU": "Octa-core (4x1.95 GHz Cortex-A53 & 4x1.45 GHz Cortex A53)",
-    "GPU": "Adreno 505"
-   }
-  ],
-  "Memory": [
-   {
-    "Card slot": "microSDXC (dedicated slot)",
-    "Internal": "32GB 2GB RAM, 32GB 3GB RAM, 64GB 4GB RAM",
-    "": "eMMC 5.1"
-   }
-  ],
-  "Main Camera": [
-   {
-    "Single": "12 MP, f/1.8, (wide), 1/2.55\", 1.4µm, dual pixel PDAF",
-    "Features": "LED flash, HDR, panorama",
-    "Video": "1080p@30fps"
-   }
-  ],
-  "Selfie camera": [
-   {
-    "Single": "8 MP, f/2.0, 1/4\", 1.12µm",
-    "Features": "HDR",
-    "Video": "1080p@30fps"
-   }
-  ],
-  "Sound": [
-   {
-    "Loudspeaker": "Yes",
-    "3.5mm jack": "Yes"
-   }
-  ],
-  "Comms": [
-   {
-    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
-    "Bluetooth": "4.2, A2DP, LE",
-    "GPS": "Yes, with A-GPS, GLONASS, BDS",
-    "Radio": "FM Radio, built-in antenna",
-    "USB": "2.0, Type-C 1.0 reversible connector, USB On-The-Go"
-   }
-  ],
-  "Features": [
-   {
-    "Sensors": "Accelerometer, proximity, compass"
-   }
-  ],
-  "Battery": [
-   {
-    "": "Non-removable Li-Po 5000 mAh battery",
-    "Charging": "Fast charging 18W"
-   }
-  ],
-  "Misc": [
-   {
-    "Colors": "Midnight Black, Ocean Blue, Sunset Red",
-    "Models": "MZB8458IN, M1908C3KG, M1908C3KH",
-    "SAR": "0.48 W/kg (head)     1.07 W/kg (body)",
-    "SAR EU": "0.23 W/kg (head)     1.48 W/kg (body)",
-    "Price": "$ 99.99 / £ 99.99 / € 125.90 / ₹ 6,499"
-   }
-  ],
-  "Tests": [
-   {
-    "Performance": "AnTuTu: 89901 (v8)\r\nGeekBench: 3030 (v4.4)\r\nGFXBench: 7fps (ES 3.1 onscreen)"
-   }
-  ]
+  "Network": {
+   "Technology": "GSM / HSPA / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+   "info": "1, 3, 5, 8, 34, 38, 39, 40, 41 - China",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 38, 40 - Global",
+   "Speed": "HSPA, LTE"
+  },
+  "Launch": {
+   "Announced": "2019, September 25",
+   "Status": "Available. Released 2019, September 30"
+  },
+  "Body": {
+   "Dimensions": "156.5 x 75.4 x 9.4 mm (6.16 x 2.97 x 0.37 in)",
+   "Weight": "188 g (6.63 oz)",
+   "Build": "Glass front (Gorilla Glass 5), plastic back, plastic frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "Water-repellent coating"
+  },
+  "Display": {
+   "Type": "IPS LCD, 400 nits (typ)",
+   "Size": "6.22 inches, 96.6 cm2 (~81.8% screen-to-body ratio)",
+   "Resolution": "720 x 1520 pixels, 19:9 ratio (~270 ppi density)",
+   "Protection": "Corning Gorilla Glass 5"
+  },
+  "Platform": {
+   "OS": "Android 9.0 (Pie), upgradable to Android 10, MIUI 12",
+   "Chipset": "Qualcomm SDM439 Snapdragon 439 (12 nm)",
+   "CPU": "Octa-core (4x1.95 GHz Cortex-A53 & 4x1.45 GHz Cortex A53)",
+   "GPU": "Adreno 505"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (dedicated slot)",
+   "Internal": "32GB 2GB RAM, 32GB 3GB RAM, 64GB 4GB RAM",
+   "info": "eMMC 5.1"
+  },
+  "Main Camera": {
+   "Single": "12 MP, f/1.8, (wide), 1/2.55\", 1.4µm, dual pixel PDAF",
+   "Features": "LED flash, HDR, panorama",
+   "Video": "1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "8 MP, f/2.0, 1/4.0\", 1.12µm",
+   "Features": "HDR",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+   "Bluetooth": "4.2, A2DP, LE",
+   "Positioning": "GPS, GLONASS, BDS",
+   "NFC": "No",
+   "Radio": "FM Radio, built-in antenna",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Accelerometer, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 5000 mAh, non-removable",
+   "Charging": "18W wired"
+  },
+  "Misc": {
+   "Colors": "Midnight Black, Ocean Blue, Sunset Red",
+   "Models": "MZB8458IN, M1908C3KG, M1908C3KH",
+   "SAR": "0.48 W/kg (head)     1.07 W/kg (body)",
+   "SAR EU": "0.23 W/kg (head)     1.48 W/kg (body)",
+   "Price": "About 120 EUR"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 89901 (v8)\nGeekBench: 3030 (v4.4)\nGFXBench: 7fps (ES 3.1 onscreen)",
+   "info": ""
+  }
  }
 }

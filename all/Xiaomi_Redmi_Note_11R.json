@@ -1,0 +1,81 @@
+{
+ "name": "Xiaomi Redmi Note 11R",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11r.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_note_11r-11904.php",
+ "codenames": [
+  "light"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "CDMA 800",
+   "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+   "4G bands": "1, 3, 5, 7, 8, 34, 38, 39, 40, 41",
+   "5G bands": "1, 5, 8, 28, 41, 78",
+   "Speed": "HSPA, LTE, 5G"
+  },
+  "Launch": {
+   "Announced": "2022, September 30",
+   "Status": "Available. Released 2022, September 30"
+  },
+  "Body": {
+   "Dimensions": "164 x 76.1 x 8.9 mm (6.46 x 3.00 x 0.35 in)",
+   "Weight": "201 g (7.09 oz)",
+   "Build": "Glass front, plastic frame, plastic back",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "IPS LCD, 90Hz, 400 nits (typ)",
+   "Size": "6.58 inches, 104.3 cm2 (~83.6% screen-to-body ratio)",
+   "Resolution": "1080 x 2408 pixels, 20:9 ratio (~401 ppi density)"
+  },
+  "Platform": {
+   "OS": "Android 12, MIUI 13",
+   "Chipset": "Mediatek Dimensity 700 (7 nm)",
+   "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+   "GPU": "Mali-G57 MC2"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (dedicated slot)",
+   "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM",
+   "info": "UFS 2.2"
+  },
+  "Main Camera": {
+   "Dual": "13 MP, f/2.2, (wide), PDAF\n2 MP, f/2.4, (depth)",
+   "Features": "LED flash, HDR, panorama",
+   "Video": "1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "5 MP, f/2.2, (wide)",
+   "Features": "HDR",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.1, A2DP, LE",
+   "Positioning": "GPS, GLONASS, GALILEO, BDS",
+   "NFC": "No",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 5000 mAh, non-removable",
+   "Charging": "18W wired"
+  },
+  "Misc": {
+   "Colors": "Black, Blue, Gray",
+   "Models": "22095RA98C",
+   "Price": "About 160 EUR"
+  }
+ }
+}

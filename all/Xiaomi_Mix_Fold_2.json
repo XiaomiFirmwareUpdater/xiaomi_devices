@@ -1,0 +1,90 @@
+{
+ "name": "Xiaomi Mix Fold 2",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mix-fold-2.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_mix_fold_2-11758.php",
+ "codenames": [
+  "zizhan"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "CDMA2000 1xEV-DO",
+   "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 42",
+   "5G bands": "1, 3, 5, 8, 20, 28, 38, 40, 41, 77, 78, 79 SA/NSA",
+   "Speed": "HSPA, LTE (CA), 5G"
+  },
+  "Launch": {
+   "Announced": "2022, August 11",
+   "Status": "Available. Released 2022, August 26"
+  },
+  "Body": {
+   "Dimensions": "Unfolded: 161.1 x 144.7 x 5.4 mm Folded: 161.1 x 73.9 x 11.2 mm",
+   "Weight": "262 g (9.24 oz)",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "Foldable LTPO2 OLED, 1B colors, 120Hz, HDR10+, Dolby Vision, 1000 nits (HBM), 1300 nits (peak)",
+   "Size": "8.02 inches, 206.0 cm2 (~88.4% screen-to-body ratio)",
+   "Resolution": "1914 x 2160 pixels (~360 ppi density)",
+   "Protection": "Schott UTG glass",
+   "info": "Cover display:\nAMOLED, 120Hz, HDR10+, Dolby Vision, 1000 nits (HBM), 1300 nits (peak)\n6.56 inches, 1080 x 2520 pixels, 21:9 ratio\nCorning Gorilla Glass Victus"
+  },
+  "Platform": {
+   "OS": "Android 12, MIUI Fold 13",
+   "Chipset": "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)",
+   "CPU": "Octa-core (1x3.19 GHz Cortex-X2 & 3x2.75 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)",
+   "GPU": "Adreno 730"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM",
+   "info": "UFS 3.1"
+  },
+  "Main Camera": {
+   "Triple": "50 MP, f/1.8, (wide), 1/1.56\", 1.0µm, PDAF, OIS\n8 MP, f/2.6, 45mm (telephoto), dual pixel PDAF, 2x optical zoom\n13 MP, f/2.4, 15mm, 123˚ (ultrawide), 1.12µm, AF",
+   "Features": "Dual LED flash, HDR, panorama, Leica lenses",
+   "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS"
+  },
+  "Selfie camera": {
+   "Single": "20 MP, f/2.4, 23mm (wide)",
+   "Features": "HDR, panorama",
+   "Video": "1080p@30/60fps, 720p@120fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "No",
+   "info": "24-bit/192kHz Hi-Res audio\nTuned by Harman Kardon\nSnapdragon Sound"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.2, A2DP, LE, aptX HD, aptX Adaptive",
+   "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+   "NFC": "Yes",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, color spectrum, barometer"
+  },
+  "Battery": {
+   "Type": "Li-Po 4500 mAh, non-removable",
+   "Charging": "67W wired, PD3.0, QC4, 100% in 40 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "Black, Gold",
+   "Models": "22061218C",
+   "Price": "About 1300 EUR"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 1050139 (v9)\nGeekBench: 4368 (v5.1)\nGFXBench: 52fps (ES 3.1 onscreen)",
+   "Display": "Contrast ratio: Infinite (nominal)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "-26.2 LUFS (Good)",
+   "Battery (old)": "Endurance rating 82h",
+   "info": ""
+  }
+ }
+}

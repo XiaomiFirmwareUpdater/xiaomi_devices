@@ -1,0 +1,82 @@
+{
+ "name": "Xiaomi Mi Mix Fold",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix-fold.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_mi_mix_fold-10817.php",
+ "codenames": [
+  "cetus"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "CDMA2000 1xEV-DO",
+   "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 42",
+   "5G bands": "1, 3, 28, 41, 77, 78, 79 SA/NSA",
+   "Speed": "HSPA, LTE (CA), 5G"
+  },
+  "Launch": {
+   "Announced": "2021, March",
+   "Status": "Available. Released 2021, April 16"
+  },
+  "Body": {
+   "Dimensions": "Unfolded: 173.3 x 133.4 x 7.6 mm Folded: 173.3 x 69.8 x 17.2 mm",
+   "Weight": "317 g (Glass)332 g (Ceramic) (11.18 oz)",
+   "Build": "Glass front (folded), plastic front (unfolded), glass back (Gorilla Glass 5) or ceramic back, aluminum frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "Foldable AMOLED, 1B colors, HDR10+, Dolby Vision, 600 nits (typ), 900 nits (peak)",
+   "Size": "8.01 inches, 198.7 cm2 (~85.9% screen-to-body ratio)",
+   "Resolution": "1860 x 2480 pixels, 4:3 ratio (~387 ppi density)",
+   "info": "Cover display:\nAMOLED, 90Hz, HDR10+, Dolby Vision, 650 nits (typ), 900 nits (peak)\n6.52 inches, 840 x 2520 pixels, 27:9 ratio"
+  },
+  "Platform": {
+   "OS": "Android 10, MIUI 12",
+   "Chipset": "Qualcomm SM8350 Snapdragon 888 5G (5 nm)",
+   "CPU": "Octa-core (1x2.84 GHz Cortex-X1 & 3x2.42 GHz Cortex-A78 & 4x1.80 GHz Cortex-A55)",
+   "GPU": "Adreno 660"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM",
+   "info": "UFS 3.1"
+  },
+  "Main Camera": {
+   "Triple": "108 MP, f/1.8, (wide), 1/1.52\", 0.7µm, PDAF\n8 MP, 80mm (telephoto/macro), liquid lens, PDAF, 3x optical zoom\n13 MP, f/2.4, 123˚ (ultrawide), 1.12µm",
+   "Features": "Dual LED flash, HDR, panorama",
+   "Video": "8K@24/30fps, 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+  },
+  "Selfie camera": {
+   "Single": "20 MP, (wide)",
+   "Features": "HDR, panorama",
+   "Video": "1080p@30/60fps, 720p@120fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+   "3.5mm jack": "No",
+   "info": "24-bit/192kHz Hi-Res audio\nTuned by Harman Kardon\nSnapdragon Sound"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.2, A2DP, LE, aptX HD, aptX Adaptive",
+   "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+   "NFC": "Yes",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, color spectrum, barometer"
+  },
+  "Battery": {
+   "Type": "Li-Po 5020 mAh, non-removable",
+   "Charging": "67W wired, PD3.0, QC4, 100% in 37 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "Black, Ceramic",
+   "Models": "M2011J18C",
+   "Price": "About 1300 EUR"
+  }
+ }
+}

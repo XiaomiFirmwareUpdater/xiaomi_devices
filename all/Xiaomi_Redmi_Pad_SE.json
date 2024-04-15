@@ -1,0 +1,83 @@
+{
+ "name": "Xiaomi Redmi Pad SE",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-se.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_pad_se-12466.php",
+ "codenames": [
+  "xun"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "No cellular connectivity",
+   "2G bands": "N/A",
+   "3G bands": "N/A",
+   "4G bands": "N/A",
+   "GPRS": "N/A",
+   "EDGE": "N/A"
+  },
+  "Launch": {
+   "Announced": "2023, August 15",
+   "Status": "Available. Released 2023, September"
+  },
+  "Body": {
+   "Dimensions": "255.5 x 167.1 x 7.4 mm (10.06 x 6.58 x 0.29 in)",
+   "Weight": "478 g (1.05 lb)",
+   "Build": "Glass front, aluminum back, aluminum frame",
+   "SIM": "No"
+  },
+  "Display": {
+   "Type": "IPS LCD, 90Hz, 400 nits (typ)",
+   "Size": "11.0 inches, 347.5 cm2 (~81.4% screen-to-body ratio)",
+   "Resolution": "1200 x 1920 pixels, 16:10 ratio (~207 ppi density)"
+  },
+  "Platform": {
+   "OS": "Android 13, MIUI Pad 14",
+   "Chipset": "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+   "CPU": "Octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver)",
+   "GPU": "Adreno 610"
+  },
+  "Memory": {
+   "Card slot": "microSDXC",
+   "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+   "info": "eMMC 5.1"
+  },
+  "Main Camera": {
+   "Single": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm, AF",
+   "Video": "1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "5 MP, f/2.2, (ultrawide), 1/5.0\", 1.12µm",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+   "3.5mm jack": "Yes",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.0, A2DP, LE",
+   "Positioning": "No",
+   "NFC": "No",
+   "Radio": "Yes",
+   "USB": "USB Type-C, OTG"
+  },
+  "Features": {
+   "Sensors": "Accelerometer, proximity (accessories only)"
+  },
+  "Battery": {
+   "Type": "Li-Po 8000 mAh, non-removable",
+   "Charging": "18W Quick Charge 3.0"
+  },
+  "Misc": {
+   "Colors": "Lavender Purple, Graphite Gray, Mint Green",
+   "Price": "About 200 EUR"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 242885 (v9), 261613 (v10)\nGeekBench: 1201 (v5), 1292 (v6)",
+   "Display": "Contrast ratio: 1595:1",
+   "Loudspeaker": "-23.2 LUFS (Very good)",
+   "Battery (new)": "Active use score 13:56h",
+   "info": ""
+  }
+ }
+}

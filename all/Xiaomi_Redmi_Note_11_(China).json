@@ -1,0 +1,81 @@
+{
+ "name": "Xiaomi Redmi Note 11 (China)",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note11.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_note_11_(china)-11181.php",
+ "codenames": [
+  "evergo"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "CDMA2000 1xEV-DO",
+   "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+   "4G bands": "1, 3, 5, 7, 8, 34, 38, 39, 40, 41",
+   "5G bands": "1, 28, 41, 78 SA/NSA",
+   "Speed": "HSPA, LTE (CA), 5G"
+  },
+  "Launch": {
+   "Announced": "2021, October 28",
+   "Status": "Available. Released 2021, November 01"
+  },
+  "Body": {
+   "Dimensions": "163.6 x 75.8 x 8.8 mm (6.44 x 2.98 x 0.35 in)",
+   "Weight": "195 g (6.88 oz)",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "IP53, dust and splash resistant"
+  },
+  "Display": {
+   "Type": "IPS LCD, 90Hz",
+   "Size": "6.6 inches, 105.2 cm2 (~84.8% screen-to-body ratio)",
+   "Resolution": "1080 x 2400 pixels, 20:9 ratio (~399 ppi density)"
+  },
+  "Platform": {
+   "OS": "Android 11, MIUI 12.5",
+   "Chipset": "Mediatek Dimensity 810 (6 nm)",
+   "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+   "GPU": "Mali-G57 MC2"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+   "info": "UFS 2.2"
+  },
+  "Main Camera": {
+   "Dual": "50 MP, f/1.8, 26mm (wide), PDAF\n8 MP, 119˚, (ultrawide), 1/4.0\", 1.12µm",
+   "Features": "LED flash, HDR, panorama",
+   "Video": "1080p@30/60fps"
+  },
+  "Selfie camera": {
+   "Single": "16 MP, f/2.5, (wide), 1/3.06\", 1.0µm",
+   "Features": "HDR, panorama",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "Yes",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.1, A2DP, LE",
+   "Positioning": "GPS (L1), GLONASS (G1), BDS (B1), GALILEO (E1)",
+   "NFC": "No",
+   "Infrared port": "Yes",
+   "Radio": "Unspecified",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 5000 mAh, non-removable",
+   "Charging": "33W wired, 100% in 62 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "Mysterious Black, Milky Way Blue, Mint Green",
+   "Models": "21091116AC",
+   "Price": "About 140 EUR"
+  }
+ }
+}

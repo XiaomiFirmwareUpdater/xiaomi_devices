@@ -1,97 +1,74 @@
 {
  "name": "Xiaomi Mi Pad 2",
- "codename": "latte",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-pad-2.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_pad_2-7770.php",
+ "codenames": [
+  "latte"
+ ],
  "specs": {
-  "Network": [
-   {
-    "Technology": "No cellular connectivity",
-    "2G bands": " N/A",
-    "GPRS": "No",
-    "EDGE": "No"
-   }
-  ],
-  "Launch": [
-   {
-    "Announced": "2015, November",
-    "Status": "Available. Released 2015, November"
-   }
-  ],
-  "Body": [
-   {
-    "Dimensions": "200.4 x 132.6 x 7 mm (7.89 x 5.22 x 0.28 in)",
-    "Weight": "322 g (11.36 oz)",
-    "SIM": "No"
-   }
-  ],
-  "Display": [
-   {
-    "Type": "IPS LCD capacitive touchscreen, 16M colors",
-    "Size": "7.9 inches, 190.9 cm2 (~71.8% screen-to-body ratio)",
-    "Resolution": "1536 x 2048 pixels, 4:3 ratio (~326 ppi density)"
-   }
-  ],
-  "Platform": [
-   {
-    "OS": "Android OS/ Optional Windows 10 (64 GB model); MIUI 7",
-    "Chipset": "Intel Atom X5-Z8500",
-    "CPU": "Quad-core 2.24 GHz",
-    "GPU": "Intel HD Graphics"
-   }
-  ],
-  "Memory": [
-   {
-    "Card slot": "No",
-    "Internal": "16GB 2GB RAM, 64GB 2GB RAM"
-   }
-  ],
-  "Main Camera": [
-   {
-    "Single": "8 MP, f/2.0",
-    "Video": "1080p@30fps"
-   }
-  ],
-  "Selfie camera": [
-   {
-    "Single": "5 MP",
-    "Video": ""
-   }
-  ],
-  "Sound": [
-   {
-    "Loudspeaker ": "Yes, with stereo speakers",
-    "3.5mm jack ": "Yes"
-   }
-  ],
-  "Comms": [
-   {
-    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
-    "Bluetooth": "4.1, A2DP, LE",
-    "GPS": "No",
-    "Radio": "No",
-    "USB": "Type-C 1.0 reversible connector"
-   }
-  ],
-  "Features": [
-   {
-    "Sensors": "Accelerometer, gyro, compass"
-   }
-  ],
-  "Battery": [
-   {
-    "info": "Non-removable Li-Po 6190 mAh battery",
-    "Charging": "Battery charging 10W",
-    "Stand-by": "Up to 649 h",
-    "Talk time": "Up to 12 h 30 min (multimedia)",
-    "Music play": "Up to 100 h"
-   }
-  ],
-  "Misc": [
-   {
-    "Colors": "Dark grey, Champagne gold",
-    "Price": "About 180 EUR"
-   }
-  ]
+  "Network": {
+   "Technology": "No cellular connectivity",
+   "2G bands": "N/A",
+   "GPRS": "No",
+   "EDGE": "No"
+  },
+  "Launch": {
+   "Announced": "2015, November. Released 2015, November",
+   "Status": "Discontinued"
+  },
+  "Body": {
+   "Dimensions": "200.4 x 132.6 x 7 mm (7.89 x 5.22 x 0.28 in)",
+   "Weight": "322 g (11.36 oz)",
+   "SIM": "No"
+  },
+  "Display": {
+   "Type": "IPS LCD",
+   "Size": "7.9 inches, 190.9 cm2 (~71.8% screen-to-body ratio)",
+   "Resolution": "1536 x 2048 pixels, 4:3 ratio (~326 ppi density)"
+  },
+  "Platform": {
+   "OS": "Android OS/ Optional Windows 10 (64 GB model), MIUI 7",
+   "Chipset": "Intel Atom X5-Z8500",
+   "CPU": "Quad-core 2.24 GHz",
+   "GPU": "Intel HD Graphics"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "16GB 2GB RAM, 64GB 2GB RAM"
+  },
+  "Main Camera": {
+   "Single": "8 MP, f/2.0",
+   "Video": "1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "5 MP",
+   "Video": ""
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "Yes"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+   "Bluetooth": "4.1, A2DP, LE",
+   "Positioning": "No",
+   "NFC": "No",
+   "Radio": "No",
+   "USB": "USB Type-C"
+  },
+  "Features": {
+   "Sensors": "Accelerometer, gyro, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 6190 mAh, non-removable",
+   "Charging": "10W wired",
+   "Stand-by": "Up to 649 h",
+   "Talk time": "Up to 12 h 30 min (multimedia)",
+   "Music play": "Up to 100 h"
+  },
+  "Misc": {
+   "Colors": "Dark grey, Champagne gold",
+   "Price": "About 180 EUR"
+  }
  }
 }

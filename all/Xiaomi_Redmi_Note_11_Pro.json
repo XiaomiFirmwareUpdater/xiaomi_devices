@@ -1,0 +1,93 @@
+{
+ "name": "Xiaomi Redmi Note 11 Pro",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11-pro-global.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_note_11_pro-11334.php",
+ "codenames": [
+  "viva",
+  "vida"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International",
+   "info": "1, 3, 5, 8, 40, 41 - India",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 26, 28, 32, 38, 40, 41, 66 - International",
+   "Speed": "HSPA, LTE (CA)"
+  },
+  "Launch": {
+   "Announced": "2022, January 26",
+   "Status": "Available. Released 2022, February 18"
+  },
+  "Body": {
+   "Dimensions": "164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in)",
+   "Weight": "202 g (7.13 oz)",
+   "Build": "Glass front (Gorilla Glass 5), glass back, plastic frame",
+   "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "IP53, dust and splash resistant"
+  },
+  "Display": {
+   "Type": "Super AMOLED, 120Hz, 700 nits, 1200 nits (peak)",
+   "Size": "6.67 inches, 107.4 cm2 (~86.0% screen-to-body ratio)",
+   "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+   "Protection": "Corning Gorilla Glass 5"
+  },
+  "Platform": {
+   "OS": "Android 11, MIUI 13",
+   "Chipset": "Mediatek MT6781 Helio G96 (12 nm)",
+   "CPU": "Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+   "GPU": "Mali-G57 MC2"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (uses shared SIM slot)",
+   "Internal": "64GB 6GB RAM, 128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM",
+   "info": "UFS 2.2"
+  },
+  "Main Camera": {
+   "Quad": "108 MP, f/1.9, 26mm (wide), 1/1.52\", 0.7µm, PDAF\n8 MP, f/2.2, 118˚ (ultrawide)\n2 MP, f/2.4, (macro)\n2 MP, f/2.4, (depth)",
+   "Features": "LED flash, HDR, panorama",
+   "Video": "1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "16 MP, f/2.5, (wide), 1/3.06\" 1.0µm",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "Yes",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.1, A2DP, LE",
+   "Positioning": "GPS, GLONASS, BDS, GALILEO",
+   "NFC": "Yes (market/region dependent)",
+   "Infrared port": "Yes",
+   "Radio": "Unspecified",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+   "info": "Virtual proximity sensing"
+  },
+  "Battery": {
+   "Type": "Li-Po 5000 mAh, non-removable",
+   "Charging": "67W wired, PD3.0, QC3, 51% in 15 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "Graphite Gray (Stealth Black), Polar White (Phantom White), Star Blue",
+   "Models": "2201116TG, 2201116TI",
+   "SAR": "1.08 W/kg (head)     1.08 W/kg (body)",
+   "SAR EU": "0.58 W/kg (head)     0.86 W/kg (body)",
+   "Price": "$ 190.00 / £ 178.41 / € 148.71"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 261309 (v8), 319093 (v9)\nGeekBench: 1729 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
+   "Display": "Contrast ratio: Infinite (nominal)",
+   "Camera": "Photo / Video",
+   "Loudspeaker": "-24.4 LUFS (Very good)",
+   "Battery (old)": "Endurance rating 100h",
+   "info": ""
+  }
+ }
+}

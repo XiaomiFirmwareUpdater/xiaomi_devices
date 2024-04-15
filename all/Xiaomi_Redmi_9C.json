@@ -1,0 +1,78 @@
+{
+ "name": "Xiaomi Redmi 9C",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9c-.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_9c-10278.php",
+ "codenames": [
+  "angelica"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41",
+   "Speed": "HSPA, LTE"
+  },
+  "Launch": {
+   "Announced": "2020, June 30",
+   "Status": "Available. Released 2020, August 12"
+  },
+  "Body": {
+   "Dimensions": "164.9 x 77 x 9 mm (6.49 x 3.03 x 0.35 in)",
+   "Weight": "196 g (6.91 oz)",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "IPS LCD, 400 nits (typ)",
+   "Size": "6.53 inches, 102.9 cm2 (~81.1% screen-to-body ratio)",
+   "Resolution": "720 x 1600 pixels, 20:9 ratio (~269 ppi density)"
+  },
+  "Platform": {
+   "OS": "Android 10, MIUI 12",
+   "Chipset": "Mediatek MT6765G Helio G35 (12 nm)",
+   "CPU": "Octa-core (4x2.3 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)",
+   "GPU": "PowerVR GE8320"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (dedicated slot)",
+   "Internal": "32GB 2GB RAM, 32GB 3GB RAM, 64GB 2GB RAM, 64GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM",
+   "info": "eMMC 5.1"
+  },
+  "Main Camera": {
+   "Triple": "13 MP, f/2.2, 28mm (wide), 1.0µm, PDAF\n2 MP, f/2.4, (macro)\n2 MP, f/2.4, (depth)",
+   "Features": "LED flash, HDR",
+   "Video": "1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "5 MP, f/2.2, (wide), 1.12µm",
+   "Features": "HDR",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+   "Bluetooth": "5.0, A2DP, LE",
+   "Positioning": "GPS, GLONASS, BDS",
+   "NFC": "No",
+   "Radio": "FM radio",
+   "USB": "microUSB 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+  },
+  "Battery": {
+   "Type": "Li-Po 5000 mAh, non-removable",
+   "Charging": "10W wired"
+  },
+  "Misc": {
+   "Colors": "Midnight Gray, Sunrise Orange, Twilight Blue",
+   "Models": "M2006C3MG, M2006C3MT",
+   "SAR": "0.73 W/kg (head)     0.52 W/kg (body)",
+   "SAR EU": "0.35 W/kg (head)     0.78 W/kg (body)",
+   "Price": "$ 99.99 / £ 84.99 / € 78.99"
+  }
+ }
+}

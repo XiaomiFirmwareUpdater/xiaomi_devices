@@ -1,0 +1,84 @@
+{
+ "name": "Xiaomi Pad 5",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-5.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_pad_5-11042.php",
+ "codenames": [
+  "nabu"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "No cellular connectivity",
+   "2G bands": "N/A",
+   "3G bands": "N/A",
+   "GPRS": "N/A",
+   "EDGE": "N/A"
+  },
+  "Launch": {
+   "Announced": "2021, August 10",
+   "Status": "Available. Released 2021, August 10"
+  },
+  "Body": {
+   "Dimensions": "254.7 x 166.3 x 6.9 mm (10.03 x 6.55 x 0.27 in)",
+   "Weight": "511 g (1.13 lb)",
+   "Build": "Glass front, aluminum frame, plastic back",
+   "SIM": "No",
+   "info": "Stylus support (magnetic)"
+  },
+  "Display": {
+   "Type": "IPS LCD, 1B colors, 120Hz, HDR10, Dolby Vision",
+   "Size": "11.0 inches, 350.9 cm2 (~82.8% screen-to-body ratio)",
+   "Resolution": "1600 x 2560 pixels, 16:10 ratio (~274 ppi density)"
+  },
+  "Platform": {
+   "OS": "Android 11, upgradable to Android 13, MIUI 14",
+   "Chipset": "Qualcomm Snapdragon 860 (7 nm)",
+   "CPU": "Octa-core (1x2.96 GHz Kryo 485 Gold & 3x2.42 GHz Kryo 485 Gold & 4x1.78 GHz Kryo 485 Silver)",
+   "GPU": "Adreno 640"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "128GB 6GB RAM, 256GB 6GB RAM",
+   "info": "UFS 3.1"
+  },
+  "Main Camera": {
+   "Single": "13 MP, f/2.0",
+   "Features": "Dual-LED flash, HDR, panorama",
+   "Video": "4K@30fps, 1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "8 MP, f/2.0",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+   "3.5mm jack": "No",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.0, A2DP, LE",
+   "Positioning": "No",
+   "NFC": "No",
+   "Radio": "No",
+   "USB": "USB Type-C"
+  },
+  "Features": {
+   "Sensors": "Accelerometer, gyro, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 8720 mAh, non-removable",
+   "Charging": "33W wired, PD3.0"
+  },
+  "Misc": {
+   "Colors": "Cosmic Gray, Pearl White, Green",
+   "Models": "21051182G, 21051182C",
+   "Price": "About 350 EUR"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 473819 (v8), 555079 (v9)\nGeekBench: 2583 (v5.1)\nGFXBench: 24fps (ES 3.1 onscreen)",
+   "Display": "Contrast ratio: 1271:1 (nominal)",
+   "Loudspeaker": "-24.4 LUFS (Very good)",
+   "info": ""
+  }
+ }
+}
