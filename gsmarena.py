@@ -7,16 +7,6 @@ from requests import get, post
 URL = 'https://script.google.com/macros/s/AKfycbxl1aIUEI7jHepwGV8MsBKOrFAAC6iF-9dUJvhF5kgGFeCR_Tjz8f9el94aFnYs4YjgwQ/exec'
 DEVICES = {}
 
-def get_codename(name):
-    """
-    Get the codename of a device using its name
-    :param name: Device's name
-    :return: codename
-    """
-    device_codenames = DEVICES.get(name, [])
-    print('Device codenames: ' + ', '.join(device_codenames))
-    return device_codenames
-
 def get_device_info(device):
     """
     Scrap device info from gsmarena page and generate JSON
@@ -24,8 +14,8 @@ def get_device_info(device):
     :return: device info JSON
     """
     detail = {
-        "route": "device-detail",
-        "key": device
+        'route': 'device-detail',
+        'key': device
     }
     def parse_data(data):
         if len(data) == 0:
@@ -41,9 +31,10 @@ def get_device_info(device):
     info = {}
     info.update({'name': data['device_name']})
     info.update({'picture': data['device_image']})
-    info.update({'url': f"https://www.gsmarena.com/{device}.php"})
-    info.update({'codenames': get_codename(info['name'])})
+    info.update({'url': f'https://www.gsmarena.com/{device}.php'})
+    info.update({'codenames': DEVICES.get(info['name'], [])})
     info.update({'specs': parse_data(data['more_specification'])})
+    print('Device codenames: ' + ', '.join(info['codenames']))
     name = info['name'].replace(' ', '_')
     with open(f'all/{name}.json', 'w') as output:
         json.dump(info, output, indent=1, ensure_ascii=False)
@@ -54,13 +45,13 @@ def main():
     """
     Scrap every Xiaomi device info from gsmarena and generate JSON files
     """
-    with open("gsmarena_codenames.json") as file:
-        DEVICES = json.loads(file.read())
+    with open('gsmarena_codenames.json') as file:
+        DEVICES.update(json.loads(file.read()))
     xiaomi = {
-        "route": "device-list-by-brand",
-        "brand_id": 80,
-        "brand_name": "xiaomi",
-        "page": 1
+        'route': 'device-list-by-brand',
+        'brand_id': 80,
+        'brand_name': 'xiaomi',
+        'page': 1
     }
     devices = []
     all_info = []
