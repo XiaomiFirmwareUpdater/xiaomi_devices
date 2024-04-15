@@ -455,7 +455,8 @@
         "eos"
     ],
     "Xiaomi Pad 5 Pro": [
-        "elish"
+        "elish",
+        "enuma"
     ],
     "Xiaomi Pad 5": [
         "nabu"
@@ -638,7 +639,8 @@
         "angelica"
     ],
     "Xiaomi Redmi 9": [
-        "lancelot"
+        "lancelot",
+        "galahad"
     ],
     "Xiaomi Redmi 10X Pro 5G": [
         "bomb"
@@ -757,7 +759,8 @@
         "laurus"
     ],
     "Xiaomi Mi CC9": [
-        "pyxis"
+        "pyxis",
+        "vela"
     ],
     "Xiaomi Redmi Note 8": [
         "ginkgo"
@@ -829,7 +832,8 @@
         "wayne"
     ],
     "Xiaomi Mi A2 Lite (Redmi 6 Pro)": [
-        "daisy"
+        "daisy",
+        "sakura"
     ],
     "Xiaomi Mi Max 3": [
         "nitrogen"
@@ -1042,7 +1046,9 @@
         "wt96007"
     ],
     "Xiaomi Redmi": [
-        "HM2013023"
+        "HM2013023",
+        "wt93007",
+        "wt98007"
     ],
     "Xiaomi Mi 2A": [
         "taurus"
