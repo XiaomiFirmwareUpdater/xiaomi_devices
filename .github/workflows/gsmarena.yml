@@ -22,4 +22,12 @@ jobs:
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Run
-      run: chmod +x sync.sh && ./sync.sh
+      run: python3 gsmarena.py
+
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "xiaomifirmwareupdater@gmail.com"
+        git config --local user.name "XiaomiFirmwareUpdater"
+        git add devices.json all/*.json
+        git diff --quiet && git diff --staged --quiet || git commit -m "Sync: $(date +%d.%m.%Y) [skip ci]"
+        git push origin HEAD
