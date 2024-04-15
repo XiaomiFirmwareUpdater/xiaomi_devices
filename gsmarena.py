@@ -5,6 +5,7 @@ import json
 from requests import get, post
 
 URL = 'https://script.google.com/macros/s/AKfycbxl1aIUEI7jHepwGV8MsBKOrFAAC6iF-9dUJvhF5kgGFeCR_Tjz8f9el94aFnYs4YjgwQ/exec'
+DEVICES = {}
 
 def get_codename(name):
     """
@@ -53,7 +54,6 @@ def main():
     """
     Scrap every Xiaomi device info from gsmarena and generate JSON files
     """
-    global DEVICES
     with open("gsmarena_codenames.json") as file:
         DEVICES = json.loads(file.read())
     xiaomi = {
