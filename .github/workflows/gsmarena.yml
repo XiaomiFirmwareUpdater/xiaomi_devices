@@ -1,0 +1,33 @@
+name: Gsmarena job
+
+on:
+  push:
+    branches: [ gsmarena ]
+  workflow_dispatch:
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: gsmarena
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Run
+      run: python3 gsmarena.py
+
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "xiaomifirmwareupdater@gmail.com"
+        git config --local user.name "XiaomiFirmwareUpdater"
+        git add devices.json all/*.json
+        git diff --quiet && git diff --staged --quiet || git commit -m "Sync: $(date +%d.%m.%Y) [skip ci]"
+        git push origin HEAD
