@@ -2,7 +2,9 @@
  "name": "Xiaomi Mix Fold 2",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mix-fold-2.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mix_fold_2-11758.php",
- "codenames": [],
+ "codenames": [
+  "zizhan"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

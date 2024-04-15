@@ -2,7 +2,9 @@
  "name": "Xiaomi Poco M2",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m2-mzb9921in.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_m2-10434.php",
- "codenames": [],
+ "codenames": [
+  "shiva"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

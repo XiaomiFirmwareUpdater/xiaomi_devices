@@ -2,7 +2,10 @@
  "name": "Xiaomi Poco X4 Pro 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x4-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_x4_pro_5g-11371.php",
- "codenames": [],
+ "codenames": [
+  "veux",
+  "peux"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

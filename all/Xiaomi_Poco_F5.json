@@ -2,7 +2,9 @@
  "name": "Xiaomi Poco F5",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f5-2.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_f5-12258.php",
- "codenames": [],
+ "codenames": [
+  "marble"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

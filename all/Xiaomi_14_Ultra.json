@@ -2,7 +2,9 @@
  "name": "Xiaomi 14 Ultra",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-14-ultra-new.jpg",
  "url": "https://www.gsmarena.com/xiaomi_14_ultra-12827.php",
- "codenames": [],
+ "codenames": [
+  "aurora"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi Pad 3",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-pad-3-1.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_pad_3-8477.php",
- "codenames": [],
+ "codenames": [
+  "cappu"
+ ],
  "specs": {
   "Network": {
    "Technology": "No cellular connectivity",

@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi Note 13R Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13r-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_13r_pro-12697.php",
- "codenames": [],
+ "codenames": [
+  "gold"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / LTE / 5G",

@@ -2,7 +2,9 @@
  "name": "Xiaomi 12T Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12t-pro-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_12t_pro-11887.php",
- "codenames": [],
+ "codenames": [
+  "diting"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

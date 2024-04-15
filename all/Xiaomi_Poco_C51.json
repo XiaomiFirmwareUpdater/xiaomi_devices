@@ -2,7 +2,9 @@
  "name": "Xiaomi Poco C51",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c51.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_c51-12215.php",
- "codenames": [],
+ "codenames": [
+  "water"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

@@ -2,7 +2,9 @@
  "name": "Xiaomi 12 Lite",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12-lite-5g-new.jpg",
  "url": "https://www.gsmarena.com/xiaomi_12_lite-11472.php",
- "codenames": [],
+ "codenames": [
+  "taoyao"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi K30 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_k30_pro-10140.php",
- "codenames": [],
+ "codenames": [
+  "lmi"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

@@ -2,7 +2,10 @@
  "name": "Xiaomi Poco X3 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x3-pro-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_x3_pro-10802.php",
- "codenames": [],
+ "codenames": [
+  "vayu",
+  "bhima"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

@@ -2,7 +2,10 @@
  "name": "Xiaomi Poco M3 Pro 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m3-pro-5g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_m3_pro_5g-10857.php",
- "codenames": [],
+ "codenames": [
+  "camellian",
+  "camellia"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

@@ -2,7 +2,9 @@
  "name": "Xiaomi Poco X6 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x6-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_x6_pro-12717.php",
- "codenames": [],
+ "codenames": [
+  "duchamp"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",
@@ -75,7 +77,7 @@
   "Misc": {
    "Colors": "Black, Yellow, Gray",
    "Models": "2311DRK48G, 2311DRK48I",
-   "Price": "$ 332.99 / £ 308.25 / € 309.90 / ₹ 26,999"
+   "Price": "$ 332.99 / £ 279.66 / € 309.90 / ₹ 26,999"
   },
   "Tests": {
    "Performance": "AnTuTu: 1396547 (v10)\nGeekBench: 4696 (v6)",

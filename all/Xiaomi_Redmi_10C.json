@@ -2,7 +2,11 @@
  "name": "Xiaomi Redmi 10C",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10c.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_10c-11418.php",
- "codenames": [],
+ "codenames": [
+  "fog",
+  "rain",
+  "wind"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

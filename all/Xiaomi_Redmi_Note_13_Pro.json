@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi Note 13 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13-pro-5g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_13_pro-12581.php",
- "codenames": [],
+ "codenames": [
+  "garnet"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",

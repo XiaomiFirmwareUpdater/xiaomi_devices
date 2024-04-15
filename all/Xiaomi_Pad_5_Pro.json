@@ -2,7 +2,10 @@
  "name": "Xiaomi Pad 5 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-5-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_pad_5_pro-11043.php",
- "codenames": [],
+ "codenames": [
+  "elish",
+  "enuma"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

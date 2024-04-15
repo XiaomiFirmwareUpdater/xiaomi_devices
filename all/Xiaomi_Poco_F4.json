@@ -2,7 +2,9 @@
  "name": "Xiaomi Poco F4",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f4-5g-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_f4-11627.php",
- "codenames": [],
+ "codenames": [
+  "munch"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

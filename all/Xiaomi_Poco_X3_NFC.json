@@ -2,7 +2,9 @@
  "name": "Xiaomi Poco X3 NFC",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x3-nfc.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_x3_nfc-10415.php",
- "codenames": [],
+ "codenames": [
+  "surya"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

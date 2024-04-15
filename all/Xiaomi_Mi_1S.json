@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi 1S",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi1.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_1s-4929.php",
- "codenames": [],
+ "codenames": [
+  "mione_plus"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA",

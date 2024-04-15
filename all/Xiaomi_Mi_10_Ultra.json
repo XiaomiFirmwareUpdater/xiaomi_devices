@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi 10 Ultra",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi10-ultra.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_10_ultra-10361.php",
- "codenames": [],
+ "codenames": [
+  "cas"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

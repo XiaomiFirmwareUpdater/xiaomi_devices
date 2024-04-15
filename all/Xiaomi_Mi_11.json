@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi 11",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi11.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_11-10656.php",
- "codenames": [],
+ "codenames": [
+  "venus"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

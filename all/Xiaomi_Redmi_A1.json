@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi A1",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-a1.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_a1-11848.php",
- "codenames": [],
+ "codenames": [
+  "ice"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

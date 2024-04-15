@@ -2,7 +2,10 @@
  "name": "Xiaomi Redmi Note 8 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-8-pro-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_8_pro-9812.php",
- "codenames": [],
+ "codenames": [
+  "begoniain",
+  "begonia"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

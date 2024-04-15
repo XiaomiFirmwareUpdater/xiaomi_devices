@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi 2",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi2.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_2-4928.php",
- "codenames": [],
+ "codenames": [
+  "aries"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA",

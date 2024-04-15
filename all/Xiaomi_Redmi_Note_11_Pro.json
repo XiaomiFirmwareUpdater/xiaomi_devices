@@ -2,7 +2,10 @@
  "name": "Xiaomi Redmi Note 11 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11-pro-global.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_11_pro-11334.php",
- "codenames": [],
+ "codenames": [
+  "viva",
+  "vida"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

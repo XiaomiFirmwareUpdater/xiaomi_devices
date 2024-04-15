@@ -2,7 +2,9 @@
  "name": "Xiaomi Poco M5",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m5.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_m5-11850.php",
- "codenames": [],
+ "codenames": [
+  "stone"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

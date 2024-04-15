@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi 7",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-7.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_7-9498.php",
- "codenames": [],
+ "codenames": [
+  "onclite"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / LTE",

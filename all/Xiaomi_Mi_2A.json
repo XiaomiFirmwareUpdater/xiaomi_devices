@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi 2A",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi2a.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_2a-5646.php",
- "codenames": [],
+ "codenames": [
+  "taurus"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA",

@@ -2,7 +2,9 @@
  "name": "Xiaomi Poco M4 5G (India)",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m4-5g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_m4_5g_(india)-11427.php",
- "codenames": [],
+ "codenames": [
+  "light"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

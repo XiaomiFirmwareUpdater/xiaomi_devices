@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi Pad SE",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-se.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_pad_se-12466.php",
- "codenames": [],
+ "codenames": [
+  "xun"
+ ],
  "specs": {
   "Network": {
    "Technology": "No cellular connectivity",

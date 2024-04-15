@@ -2,7 +2,9 @@
  "name": "Xiaomi Poco C61",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c61.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_c61-12886.php",
- "codenames": [],
+ "codenames": [
+  "blue"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

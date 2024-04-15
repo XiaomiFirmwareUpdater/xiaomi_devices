@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi Note 9 4G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note9-4g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_9_4g-10609.php",
- "codenames": [],
+ "codenames": [
+  "lime"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / LTE",

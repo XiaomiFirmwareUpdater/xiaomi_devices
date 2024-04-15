@@ -2,7 +2,9 @@
  "name": "Xiaomi Mix Fold 3",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mix-fold3-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mix_fold_3-12468.php",
- "codenames": [],
+ "codenames": [
+  "babylon"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

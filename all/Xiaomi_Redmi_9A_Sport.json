@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi 9A Sport",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9a-sport.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_9a_sport-11128.php",
- "codenames": [],
+ "codenames": [
+  "dandelion"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

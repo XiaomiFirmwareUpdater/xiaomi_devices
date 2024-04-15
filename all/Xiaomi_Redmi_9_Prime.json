@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi 9 Prime",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_9_prime-10353.php",
- "codenames": [],
+ "codenames": [
+  "lancelot"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

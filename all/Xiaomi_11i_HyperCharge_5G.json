@@ -2,7 +2,9 @@
  "name": "Xiaomi 11i HyperCharge 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-11i-hypercharge.jpg",
  "url": "https://www.gsmarena.com/xiaomi_11i_hypercharge_5g-11186.php",
- "codenames": [],
+ "codenames": [
+  "pissarroinpro"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

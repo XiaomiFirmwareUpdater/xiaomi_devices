@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi Play",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-miplay.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_play-9499.php",
- "codenames": [],
+ "codenames": [
+  "lotus"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / LTE",

@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi Note 9T",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-9t-5g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_9t-10661.php",
- "codenames": [],
+ "codenames": [
+  "cannong"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

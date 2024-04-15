@@ -2,7 +2,9 @@
  "name": "Xiaomi Poco X4 GT",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x4-gt.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_x4_gt-11626.php",
- "codenames": [],
+ "codenames": [
+  "xaga"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

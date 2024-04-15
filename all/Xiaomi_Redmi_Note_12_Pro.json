@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi Note 12 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_12_pro-11955.php",
- "codenames": [],
+ "codenames": [
+  "ruby"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

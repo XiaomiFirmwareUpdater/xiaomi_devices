@@ -2,7 +2,9 @@
  "name": "Xiaomi Poco C50",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c50.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_c50-12053.php",
- "codenames": [],
+ "codenames": [
+  "snow"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

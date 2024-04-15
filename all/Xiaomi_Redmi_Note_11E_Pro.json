@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi Note 11E Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11e-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_11e_pro-11395.php",
- "codenames": [],
+ "codenames": [
+  "veux"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",

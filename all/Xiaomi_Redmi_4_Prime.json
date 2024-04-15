@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi 4 Prime",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-4-prime-new.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_4_prime-8263.php",
- "codenames": [],
+ "codenames": [
+  "markw"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",

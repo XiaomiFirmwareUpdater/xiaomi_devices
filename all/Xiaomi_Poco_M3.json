@@ -2,7 +2,9 @@
  "name": "Xiaomi Poco M3",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m3-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_m3-10599.php",
- "codenames": [],
+ "codenames": [
+  "citrus"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

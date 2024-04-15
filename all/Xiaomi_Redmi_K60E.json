@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi K60E",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k60e.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_k60e-12047.php",
- "codenames": [],
+ "codenames": [
+  "rembrandt"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",

@@ -2,7 +2,11 @@
  "name": "Xiaomi Redmi 9T",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9-power.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_9t-10670.php",
- "codenames": [],
+ "codenames": [
+  "lime",
+  "lemon",
+  "pomelo"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

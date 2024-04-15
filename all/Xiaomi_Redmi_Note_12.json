@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi Note 12",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/redmi-note-12-5g-international.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_12-12063.php",
- "codenames": [],
+ "codenames": [
+  "sunstone"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

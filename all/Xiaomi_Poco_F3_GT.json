@@ -2,7 +2,9 @@
  "name": "Xiaomi Poco F3 GT",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f3-gt.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_f3_gt-10886.php",
- "codenames": [],
+ "codenames": [
+  "aresin"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

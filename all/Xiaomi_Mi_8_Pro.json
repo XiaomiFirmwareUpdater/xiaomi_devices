@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi 8 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-8-pro-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_8_pro-9336.php",
- "codenames": [],
+ "codenames": [
+  "equuleus"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

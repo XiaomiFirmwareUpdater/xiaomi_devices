@@ -2,7 +2,9 @@
  "name": "Xiaomi 14 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-14-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_14_pro-12643.php",
- "codenames": [],
+ "codenames": [
+  "shennong"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",

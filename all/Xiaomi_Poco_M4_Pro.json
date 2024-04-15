@@ -2,7 +2,10 @@
  "name": "Xiaomi Poco M4 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m4-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_m4_pro-11388.php",
- "codenames": [],
+ "codenames": [
+  "miel",
+  "fleur"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

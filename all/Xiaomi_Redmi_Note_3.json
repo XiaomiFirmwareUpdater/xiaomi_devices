@@ -2,7 +2,10 @@
  "name": "Xiaomi Redmi Note 3",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-3.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_3-7863.php",
- "codenames": [],
+ "codenames": [
+  "kenzo",
+  "kate"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi 13R",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-13r-5g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_13r-12735.php",
- "codenames": [],
+ "codenames": [
+  "air"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",

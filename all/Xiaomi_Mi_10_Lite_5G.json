@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi 10 Lite 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi10-lite-5g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_10_lite_5g-10159.php",
- "codenames": [],
+ "codenames": [
+  "monet"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

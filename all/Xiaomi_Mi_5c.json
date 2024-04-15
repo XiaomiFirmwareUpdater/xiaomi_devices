@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi 5c",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-5c.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_5c-8439.php",
- "codenames": [],
+ "codenames": [
+  "meri"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / LTE",

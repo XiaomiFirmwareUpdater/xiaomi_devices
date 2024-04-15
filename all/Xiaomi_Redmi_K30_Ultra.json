@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi K30 Ultra",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30-ultra.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_k30_ultra-10349.php",
- "codenames": [],
+ "codenames": [
+  "cezanne"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi Pad 4",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-pad-4.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_pad_4-9249.php",
- "codenames": [],
+ "codenames": [
+  "clover"
+ ],
  "specs": {
   "Network": {
    "Technology": "LTE",

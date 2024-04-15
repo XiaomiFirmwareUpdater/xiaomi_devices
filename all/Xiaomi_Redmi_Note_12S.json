@@ -2,7 +2,10 @@
  "name": "Xiaomi Redmi Note 12S",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12s.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_12s-12218.php",
- "codenames": [],
+ "codenames": [
+  "ocean",
+  "sea"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

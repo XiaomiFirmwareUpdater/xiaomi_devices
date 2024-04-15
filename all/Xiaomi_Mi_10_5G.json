@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi 10 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10-5g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_10_5g-10082.php",
- "codenames": [],
+ "codenames": [
+  "umi"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

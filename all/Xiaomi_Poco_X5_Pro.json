@@ -2,7 +2,9 @@
  "name": "Xiaomi Poco X5 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x5-pro-5g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_x5_pro-12094.php",
- "codenames": [],
+ "codenames": [
+  "redwood"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

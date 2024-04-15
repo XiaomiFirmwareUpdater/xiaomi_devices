@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi 11 Ultra",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi11-ultra-5g-k1.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_11_ultra-10737.php",
- "codenames": [],
+ "codenames": [
+  "star"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

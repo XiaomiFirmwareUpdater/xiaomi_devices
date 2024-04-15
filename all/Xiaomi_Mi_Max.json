@@ -2,7 +2,10 @@
  "name": "Xiaomi Mi Max",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-max-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_max-8057.php",
- "codenames": [],
+ "codenames": [
+  "hydrogen",
+  "helium"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",

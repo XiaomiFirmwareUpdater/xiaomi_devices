@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi K50 Gaming",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k50-gaming.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_k50_gaming-11362.php",
- "codenames": [],
+ "codenames": [
+  "ingres"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",

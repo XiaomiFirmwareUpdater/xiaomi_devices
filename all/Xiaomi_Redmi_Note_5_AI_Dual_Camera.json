@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi Note 5 AI Dual Camera",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-5-ai-dual-camera.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_5_ai_dual_camera-9120.php",
- "codenames": [],
+ "codenames": [
+  "whyred"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / LTE",

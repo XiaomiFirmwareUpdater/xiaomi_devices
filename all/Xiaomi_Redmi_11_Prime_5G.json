@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi 11 Prime 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10-5g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_11_prime_5g-11834.php",
- "codenames": [],
+ "codenames": [
+  "light"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

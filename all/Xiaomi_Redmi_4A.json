@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi 4A",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-4a-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_4a-8420.php",
- "codenames": [],
+ "codenames": [
+  "rolex"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

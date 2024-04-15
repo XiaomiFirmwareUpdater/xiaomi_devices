@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi 3s Prime",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-3-pro-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_3s_prime-8250.php",
- "codenames": [],
+ "codenames": [
+  "land"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

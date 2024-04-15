@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi Note 11 Pro 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11-pro-5g-global.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_11_pro_5g-11333.php",
- "codenames": [],
+ "codenames": [
+  "veux"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

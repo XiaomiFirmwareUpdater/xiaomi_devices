@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi 4i",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi4i.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_4i-7211.php",
- "codenames": [],
+ "codenames": [
+  "ferrari"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

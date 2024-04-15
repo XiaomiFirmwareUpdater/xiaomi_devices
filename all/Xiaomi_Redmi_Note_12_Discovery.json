@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi Note 12 Discovery",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro-discovery-explorer.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_12_discovery-11953.php",
- "codenames": [],
+ "codenames": [
+  "rubyplus"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

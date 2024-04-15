@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_pro-8233.php",
- "codenames": [],
+ "codenames": [
+  "omega"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",

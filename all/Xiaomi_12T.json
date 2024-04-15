@@ -2,7 +2,9 @@
  "name": "Xiaomi 12T",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12t-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_12t-11888.php",
- "codenames": [],
+ "codenames": [
+  "plato"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

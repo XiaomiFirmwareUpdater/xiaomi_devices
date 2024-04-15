@@ -2,7 +2,10 @@
  "name": "Xiaomi Poco M4 Pro 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m4-pro-5g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_m4_pro_5g-11193.php",
- "codenames": [],
+ "codenames": [
+  "evergreen",
+  "evergo"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

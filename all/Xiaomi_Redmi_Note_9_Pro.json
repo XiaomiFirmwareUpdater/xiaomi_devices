@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi Note 9 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-9-pro-global-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_9_pro-10217.php",
- "codenames": [],
+ "codenames": [
+  "joyeuse"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

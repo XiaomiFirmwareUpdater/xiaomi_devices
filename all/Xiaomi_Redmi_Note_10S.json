@@ -2,7 +2,11 @@
  "name": "Xiaomi Redmi Note 10S",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10s.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_10s-10769.php",
- "codenames": [],
+ "codenames": [
+  "secret",
+  "rosemary",
+  "maltose"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

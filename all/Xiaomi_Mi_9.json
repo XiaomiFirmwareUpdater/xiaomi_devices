@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi 9",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_9-9507.php",
- "codenames": [],
+ "codenames": [
+  "cepheus"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / LTE",

@@ -2,7 +2,9 @@
  "name": "Xiaomi 12S Ultra",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12s-ultra.jpg",
  "url": "https://www.gsmarena.com/xiaomi_12s_ultra-11614.php",
- "codenames": [],
+ "codenames": [
+  "thor"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

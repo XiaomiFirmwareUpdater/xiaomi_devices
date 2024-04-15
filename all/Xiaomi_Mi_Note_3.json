@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi Note 3",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-note3-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_note_3-8707.php",
- "codenames": [],
+ "codenames": [
+  "jason"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",

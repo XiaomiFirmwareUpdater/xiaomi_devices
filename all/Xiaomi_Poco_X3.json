@@ -2,7 +2,9 @@
  "name": "Xiaomi Poco X3",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x3.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_x3-10461.php",
- "codenames": [],
+ "codenames": [
+  "karna"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

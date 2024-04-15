@@ -2,7 +2,10 @@
  "name": "Xiaomi Redmi Note 11S",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11s-global.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_11s-11335.php",
- "codenames": [],
+ "codenames": [
+  "miel",
+  "fleur"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

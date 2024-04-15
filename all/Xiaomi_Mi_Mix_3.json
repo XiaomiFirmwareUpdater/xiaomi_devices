@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi Mix 3",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix3.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_mix_3-9378.php",
- "codenames": [],
+ "codenames": [
+  "perseus"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",

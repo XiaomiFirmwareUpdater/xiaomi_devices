@@ -2,7 +2,9 @@
  "name": "Xiaomi Poco F2 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f2-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_f2_pro-10220.php",
- "codenames": [],
+ "codenames": [
+  "lmi"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

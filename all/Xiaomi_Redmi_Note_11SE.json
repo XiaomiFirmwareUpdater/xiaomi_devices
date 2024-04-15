@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi Note 11SE",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11se.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_11se-11551.php",
- "codenames": [],
+ "codenames": [
+  "camellia"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

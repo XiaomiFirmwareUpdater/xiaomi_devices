@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi 9 Power",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9-power.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_9_power-10616.php",
- "codenames": [],
+ "codenames": [
+  "lime"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

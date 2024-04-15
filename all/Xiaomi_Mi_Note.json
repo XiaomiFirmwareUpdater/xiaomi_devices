@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi Note",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-note-2015.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_note-6944.php",
- "codenames": [],
+ "codenames": [
+  "virgo"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

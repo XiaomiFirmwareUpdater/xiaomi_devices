@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi 11X",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi11x.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_11x-10775.php",
- "codenames": [],
+ "codenames": [
+  "aliothin"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

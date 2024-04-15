@@ -2,7 +2,10 @@
  "name": "Xiaomi Redmi 2",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-2.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_2-6884.php",
- "codenames": [],
+ "codenames": [
+  "wt88047",
+  "wt86047"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

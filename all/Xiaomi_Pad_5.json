@@ -2,7 +2,9 @@
  "name": "Xiaomi Pad 5",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-5.jpg",
  "url": "https://www.gsmarena.com/xiaomi_pad_5-11042.php",
- "codenames": [],
+ "codenames": [
+  "nabu"
+ ],
  "specs": {
   "Network": {
    "Technology": "No cellular connectivity",

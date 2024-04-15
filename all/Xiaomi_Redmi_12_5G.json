@@ -2,7 +2,10 @@
  "name": "Xiaomi Redmi 12 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-12-5g-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_12_5g-12446.php",
- "codenames": [],
+ "codenames": [
+  "sky",
+  "river"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

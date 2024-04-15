@@ -2,7 +2,9 @@
  "name": "Xiaomi Civi 4 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-civi-4-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_civi_4_pro-12888.php",
- "codenames": [],
+ "codenames": [
+  "chenfeng"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",

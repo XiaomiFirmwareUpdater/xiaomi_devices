@@ -2,7 +2,10 @@
  "name": "Xiaomi Poco C65",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c65.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_c65-12684.php",
- "codenames": [],
+ "codenames": [
+  "gust",
+  "gale"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

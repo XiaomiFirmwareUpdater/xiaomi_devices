@@ -2,7 +2,9 @@
  "name": "Xiaomi Poco X2",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x2.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_x2-10050.php",
- "codenames": [],
+ "codenames": [
+  "phoenixin"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

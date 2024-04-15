@@ -2,7 +2,9 @@
  "name": "Xiaomi Pad 6",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad6.jpg",
  "url": "https://www.gsmarena.com/xiaomi_pad_6-12237.php",
- "codenames": [],
+ "codenames": [
+  "pipa"
+ ],
  "specs": {
   "Network": {
    "Technology": "No cellular connectivity",

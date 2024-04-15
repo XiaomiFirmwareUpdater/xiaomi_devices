@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi Note 10 Pro (India)",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10-pro-india.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_10_pro_(india)-10771.php",
- "codenames": [],
+ "codenames": [
+  "sweetin"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

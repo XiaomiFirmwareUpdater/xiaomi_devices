@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi CC9 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-cc9-pro-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_cc9_pro-9935.php",
- "codenames": [],
+ "codenames": [
+  "tucana"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / LTE",

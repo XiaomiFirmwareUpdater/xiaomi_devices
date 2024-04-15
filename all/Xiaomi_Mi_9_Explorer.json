@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi 9 Explorer",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9-explore.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_9_explorer-9584.php",
- "codenames": [],
+ "codenames": [
+  "cepheus"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / LTE",

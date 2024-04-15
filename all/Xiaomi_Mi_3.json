@@ -2,7 +2,10 @@
  "name": "Xiaomi Mi 3",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi3.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_3-5678.php",
- "codenames": [],
+ "codenames": [
+  "cancro",
+  "pisces"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA",

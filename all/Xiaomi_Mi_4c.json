@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi 4c",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-4c.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_4c-7512.php",
- "codenames": [],
+ "codenames": [
+  "libra"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

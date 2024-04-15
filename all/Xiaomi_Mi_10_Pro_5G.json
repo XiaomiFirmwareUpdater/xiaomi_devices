@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi 10 Pro 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10-pro-5g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_10_pro_5g-10055.php",
- "codenames": [],
+ "codenames": [
+  "cmi"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

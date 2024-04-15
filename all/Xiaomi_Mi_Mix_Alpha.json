@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi Mix Alpha",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix-alpha.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_mix_alpha-9893.php",
- "codenames": [],
+ "codenames": [
+  "draco"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / LTE / 5G",

@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi 6A",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-6a.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_6a-9217.php",
- "codenames": [],
+ "codenames": [
+  "cactus"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / LTE",

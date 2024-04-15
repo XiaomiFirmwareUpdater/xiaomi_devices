@@ -2,7 +2,9 @@
  "name": "Xiaomi Poco F5 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f5-pro-2.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_f5_pro-12257.php",
- "codenames": [],
+ "codenames": [
+  "mondrian"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

@@ -2,7 +2,10 @@
  "name": "Xiaomi Redmi K20 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k20pro-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_k20_pro-9708.php",
- "codenames": [],
+ "codenames": [
+  "raphael",
+  "raphaelin"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

@@ -2,7 +2,9 @@
  "name": "Xiaomi 13 Lite",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-13-lite.jpg",
  "url": "https://www.gsmarena.com/xiaomi_13_lite-12072.php",
- "codenames": [],
+ "codenames": [
+  "ziyi"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

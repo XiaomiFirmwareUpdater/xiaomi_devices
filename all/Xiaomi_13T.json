@@ -2,7 +2,9 @@
  "name": "Xiaomi 13T",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-13t.jpg",
  "url": "https://www.gsmarena.com/xiaomi_13t-12389.php",
- "codenames": [],
+ "codenames": [
+  "aristotle"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

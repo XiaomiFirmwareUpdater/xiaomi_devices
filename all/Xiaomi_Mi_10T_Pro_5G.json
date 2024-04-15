@@ -2,7 +2,9 @@
  "name": "Xiaomi Mi 10T Pro 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10t-5g-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_10t_pro_5g-10437.php",
- "codenames": [],
+ "codenames": [
+  "apollo"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

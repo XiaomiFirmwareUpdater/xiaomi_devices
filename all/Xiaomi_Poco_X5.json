@@ -2,7 +2,9 @@
  "name": "Xiaomi Poco X5",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x5-5g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_x5-12092.php",
- "codenames": [],
+ "codenames": [
+  "moonstone"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

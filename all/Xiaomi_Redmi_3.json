@@ -2,7 +2,10 @@
  "name": "Xiaomi Redmi 3",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-3-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_3-7862.php",
- "codenames": [],
+ "codenames": [
+  "ido",
+  "ido_xhdpi"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",

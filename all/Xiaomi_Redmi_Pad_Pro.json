@@ -2,7 +2,9 @@
  "name": "Xiaomi Redmi Pad Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pad-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_pad_pro-12922.php",
- "codenames": [],
+ "codenames": [
+  "dizi"
+ ],
  "specs": {
   "Network": {
    "Technology": "No cellular connectivity",

@@ -2,7 +2,10 @@
  "name": "Xiaomi Redmi Note 10 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10-5g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_10_5g-10768.php",
- "codenames": [],
+ "codenames": [
+  "camellian",
+  "camellia"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

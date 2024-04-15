@@ -2,7 +2,9 @@
  "name": "Xiaomi Poco C40",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c40.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_c40-11468.php",
- "codenames": [],
+ "codenames": [
+  "frost"
+ ],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
