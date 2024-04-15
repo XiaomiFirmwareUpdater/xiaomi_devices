@@ -2,9 +2,7 @@
  "name": "Xiaomi 13T",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-13t.jpg",
  "url": "https://www.gsmarena.com/xiaomi_13t-12389.php",
- "codenames": [
-  "aristotle"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",
@@ -76,7 +74,7 @@
   "Misc": {
    "Colors": "Alpine Blue, Meadow Green, Black",
    "Models": "2306EPN60G",
-   "Price": "$ 454.50 / £ 398.10 / € 428.90"
+   "Price": "$ 499.50 / £ 416.99 / € 428.90"
   },
   "Tests": {
    "Performance": "AnTuTu: 825858 (v9), 888714 (v10)\nGeekBench: 3755 (v5), 3841 (v6)\nGFXBench: 43fps (ES 3.1 onscreen)",

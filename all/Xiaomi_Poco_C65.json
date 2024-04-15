@@ -2,10 +2,7 @@
  "name": "Xiaomi Poco C65",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c65.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_c65-12684.php",
- "codenames": [
-  "gust",
-  "gale"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -75,7 +72,7 @@
   "Misc": {
    "Colors": "Black, Blue, Purple",
    "Models": "2310FPCA4G",
-   "Price": "$ 105.00 / £ 145.02 / € 122.46 / ₹ 7,299"
+   "Price": "$ 105.00 / £ 145.02 / € 122.50 / ₹ 7,299"
   },
   "Tests": {
    "Performance": "AnTuTu: 242885 (v9), 261613 (v10)\nGeekBench: 1201 (v5), 1292 (v6)",

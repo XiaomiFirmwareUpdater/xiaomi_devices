@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi Pad Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pad-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_pad_pro-12922.php",
- "codenames": [
-  "dizi"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "No cellular connectivity",
@@ -15,7 +13,7 @@
   },
   "Launch": {
    "Announced": "2024, April 10",
-   "Status": "Coming soon. Exp. release 2024, April 15"
+   "Status": "Available. Released 2024, April 15"
   },
   "Body": {
    "Dimensions": "280 x 181.9 x 7.5 mm (11.02 x 7.16 x 0.30 in)",

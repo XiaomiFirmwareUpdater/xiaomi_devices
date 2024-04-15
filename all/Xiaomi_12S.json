@@ -2,9 +2,7 @@
  "name": "Xiaomi 12S",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12s.jpg",
  "url": "https://www.gsmarena.com/xiaomi_12s-11645.php",
- "codenames": [
-  "mayfly"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

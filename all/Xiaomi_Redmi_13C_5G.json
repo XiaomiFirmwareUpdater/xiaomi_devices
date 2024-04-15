@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi 13C 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-13c-5g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_13c_5g-12726.php",
- "codenames": [
-  "air"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

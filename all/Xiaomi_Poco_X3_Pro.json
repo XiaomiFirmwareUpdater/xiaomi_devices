@@ -2,10 +2,7 @@
  "name": "Xiaomi Poco X3 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x3-pro-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_x3_pro-10802.php",
- "codenames": [
-  "vayu",
-  "bhima"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -79,7 +76,7 @@
    "Models": "M2102J20SG, M2102J20SI",
    "SAR": "0.99 W/kg (head)     0.67 W/kg (body)",
    "SAR EU": "0.57 W/kg (head)     0.90 W/kg (body)",
-   "Price": "$ 279.99 / C$ 470.61 / £ 265.00 / € 173.63 / ₹ 11,499"
+   "Price": "$ 279.99 / C$ 474.73 / £ 265.00 / € 173.63 / ₹ 11,499"
   },
   "Tests": {
    "Performance": "AnTuTu: 453223 (v8)\nGeekBench: 2574 (v5.1)\nGFXBench: 38fps (ES 3.1 onscreen)",

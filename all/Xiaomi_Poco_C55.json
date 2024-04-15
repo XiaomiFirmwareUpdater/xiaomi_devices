@@ -2,9 +2,7 @@
  "name": "Xiaomi Poco C55",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c55.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_c55-12126.php",
- "codenames": [
-  "earth"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -75,7 +73,7 @@
    "Colors": "Cool Blue, Power Black, Forest Green",
    "Models": "22127PC95I",
    "SAR": "0.87 W/kg (head)     0.77 W/kg (body)",
-   "Price": "₹ 3,999"
+   "Price": "₹ 6,499"
   }
  }
 }

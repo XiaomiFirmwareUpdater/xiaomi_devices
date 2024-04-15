@@ -2,10 +2,7 @@
  "name": "Xiaomi Redmi 3 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-3-pro-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_3_pro-8007.php",
- "codenames": [
-  "ido",
-  "ido_xhdpi"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",

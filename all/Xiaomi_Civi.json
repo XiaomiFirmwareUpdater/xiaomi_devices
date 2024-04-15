@@ -2,9 +2,7 @@
  "name": "Xiaomi Civi",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-civi.jpg",
  "url": "https://www.gsmarena.com/xiaomi_civi-11119.php",
- "codenames": [
-  "mona"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",

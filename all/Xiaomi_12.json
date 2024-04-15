@@ -2,9 +2,7 @@
  "name": "Xiaomi 12",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12.jpg",
  "url": "https://www.gsmarena.com/xiaomi_12-11285.php",
- "codenames": [
-  "cupid"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

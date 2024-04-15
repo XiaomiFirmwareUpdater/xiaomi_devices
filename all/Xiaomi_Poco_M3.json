@@ -2,9 +2,7 @@
  "name": "Xiaomi Poco M3",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m3-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_m3-10599.php",
- "codenames": [
-  "citrus"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -76,7 +74,7 @@
    "Models": "M2010J19CG, M2010J19CI",
    "SAR": "1.09 W/kg (head)     1.00 W/kg (body)",
    "SAR EU": "0.60 W/kg (head)     0.81 W/kg (body)",
-   "Price": "$ 170.00 / £ 99.00 / € 105.41 / ₹ 6,498"
+   "Price": "$ 170.00 / £ 99.00 / € 102.03 / ₹ 6,498"
   },
   "Tests": {
    "Performance": "AnTuTu: 177904 (v8)\nGeekBench: 1398 (v5.1)\nGFXBench: 5.9fps (ES 3.1 onscreen)",

@@ -2,11 +2,7 @@
  "name": "Xiaomi Redmi Note 10S",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10s.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_10s-10769.php",
- "codenames": [
-  "secret",
-  "rosemary",
-  "maltose"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -79,7 +75,7 @@
    "Models": "M2101K7BG, M2101K7BI, M2101K7BNY, M2101K7BL",
    "SAR": "1.07 W/kg (head)     0.81 W/kg (body)",
    "SAR EU": "0.60 W/kg (head)     0.90 W/kg (body)",
-   "Price": "$ 169.99 / £ 119.99 / € 119.64 / ₹ 9,390"
+   "Price": "$ 169.99 / £ 119.99 / € 116.06 / ₹ 9,390"
   }
  }
 }

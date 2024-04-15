@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi A1",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-a1.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_a1-11848.php",
- "codenames": [
-  "ice"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -72,7 +70,7 @@
    "Models": "220733SI, 220733SG, 220733SL, 220743FI, 220733SH",
    "SAR": "1.10 W/kg (head)     1.03 W/kg (body)",
    "SAR EU": "0.85 W/kg (head)     1.00 W/kg (body)",
-   "Price": "$ 71.40 / £ 74.99 / € 66.88 / ₹ 6,799"
+   "Price": "$ 71.40 / £ 74.99 / € 71.05 / ₹ 5,290"
   }
  }
 }

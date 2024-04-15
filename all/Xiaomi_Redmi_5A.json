@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi 5A",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-5a.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_5a-8898.php",
- "codenames": [
-  "riva"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / LTE",

@@ -2,9 +2,7 @@
  "name": "Xiaomi Mi 9 SE",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9-se.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_9_se-9583.php",
- "codenames": [
-  "grus"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / LTE",

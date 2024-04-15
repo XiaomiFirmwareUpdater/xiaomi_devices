@@ -2,9 +2,7 @@
  "name": "Xiaomi Mi 10T Lite 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10t-lite-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_10t_lite_5g-10480.php",
- "codenames": [
-  "gauguin"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

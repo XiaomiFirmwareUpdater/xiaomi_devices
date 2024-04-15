@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi K60 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k60-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_k60_pro-12046.php",
- "codenames": [
-  "socrates"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",

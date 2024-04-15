@@ -2,11 +2,7 @@
  "name": "Xiaomi Redmi 10C",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10c.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_10c-11418.php",
- "codenames": [
-  "fog",
-  "rain",
-  "wind"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -74,7 +70,7 @@
    "Models": "220333QAG, 220333QBI, 220333QNY, 220333QL",
    "SAR": "0.96 W/kg (head)     1.02 W/kg (body)",
    "SAR EU": "0.57 W/kg (head)     0.96 W/kg (body)",
-   "Price": "$ 124.99 / £ 94.89 / € 80.38"
+   "Price": "$ 124.99 / £ 94.89 / € 82.66"
   }
  }
 }

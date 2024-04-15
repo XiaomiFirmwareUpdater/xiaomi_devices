@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi 9 Activ",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9-activ.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_9_activ-11127.php",
- "codenames": [
-  "cattail"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

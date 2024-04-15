@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi Note 11T Pro+",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11t-pro-plus.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_11t_pro+-11549.php",
- "codenames": [
-  "xagapro"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

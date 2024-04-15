@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi Note 6 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-6-pro-r.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_6_pro-9333.php",
- "codenames": [
-  "tulip"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

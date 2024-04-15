@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi K50i",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k50i-5g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_k50i-11653.php",
- "codenames": [
-  "xagain"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",
@@ -73,7 +71,7 @@
   "Misc": {
    "Colors": "Phantom Blue, Stealth Black, Quick Silver",
    "Models": "22041216I",
-   "Price": "About 320 EUR"
+   "Price": "₹ 27,999"
   }
  }
 }

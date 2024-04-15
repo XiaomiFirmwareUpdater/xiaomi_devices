@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi 5 Plus (Redmi Note 5)",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-5-plus.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_5_plus_(redmi_note_5)-8959.php",
- "codenames": [
-  "vince"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

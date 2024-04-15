@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi Note 12 Pro 4G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro-4g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_12_pro_4g-12209.php",
- "codenames": [
-  "sweet"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -70,7 +68,7 @@
   "Misc": {
    "Colors": "Star Blue, Graphite Gray, Polar White, Ice blue",
    "Models": "‎2209116AG, 2209116AG",
-   "Price": "$ 259.00 / € 229.42"
+   "Price": "$ 228.99 / € 224.98"
   }
  }
 }

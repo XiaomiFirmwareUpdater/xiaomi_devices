@@ -2,9 +2,7 @@
  "name": "Xiaomi Poco X3",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x3.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_x3-10461.php",
- "codenames": [
-  "karna"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -76,7 +74,7 @@
    "Colors": "Cobalt Blue, Shadow Gray",
    "Models": "MZB07Z0IN, MZB07Z1IN, MZB07Z2IN, MZB07Z3IN, MZB07Z4IN, MZB9965IN, M2007J20CI",
    "SAR": "0.75 W/kg (head)     0.61 W/kg (body)",
-   "Price": "€ 224.00 / ₹ 10,999"
+   "Price": "€ 224.00 / ₹ 9,990"
   }
  }
 }

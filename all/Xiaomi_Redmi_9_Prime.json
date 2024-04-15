@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi 9 Prime",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_9_prime-10353.php",
- "codenames": [
-  "lancelot"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -75,7 +73,7 @@
    "Colors": "Space Blue, Mint Green, Matte Black, Sunrise Flare",
    "Models": "M2004J19PI",
    "SAR": "0.85 W/kg (head)     0.42 W/kg (body)",
-   "Price": "₹ 7,699"
+   "Price": "₹ 5,999"
   }
  }
 }

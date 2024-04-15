@@ -2,9 +2,7 @@
  "name": "Xiaomi Poco F5",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f5-2.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_f5-12258.php",
- "codenames": [
-  "marble"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",
@@ -75,7 +73,7 @@
   "Misc": {
    "Colors": "Black, Blue, White",
    "Models": "23049PCD8G, 23049PCD8I",
-   "Price": "$ 339.99 / € 345.57 / ₹ 21,999"
+   "Price": "$ 339.99 / € 327.32 / ₹ 28,999"
   },
   "Tests": {
    "Performance": "AnTuTu: 931174 (v9)\nGeekBench: 3939 (v5.1), 4348 (v6)\nGFXBench: 66fps (ES 3.1 onscreen)",

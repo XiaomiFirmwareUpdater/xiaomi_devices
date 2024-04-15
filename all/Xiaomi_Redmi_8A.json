@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi 8A",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-8a.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_8a-9897.php",
- "codenames": [
-  "olivelite"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

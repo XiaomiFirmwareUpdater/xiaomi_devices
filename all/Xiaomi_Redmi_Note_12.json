@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi Note 12",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/redmi-note-12-5g-international.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_12-12063.php",
- "codenames": [
-  "sunstone"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",
@@ -75,7 +73,7 @@
   "Misc": {
    "Colors": "Frosted Green, Matte Black, Mystique Blue",
    "Models": "22111317I, 22111317G",
-   "Price": "$ 189.50 / £ 136.00 / € 160.16 / ₹ 11,999"
+   "Price": "$ 189.50 / £ 135.00 / € 160.11 / ₹ 11,999"
   },
   "Tests": {
    "Performance": "AnTuTu: 360745 (v9)\nGeekBench: 1998\t(v5.1), 2017 (v6)",

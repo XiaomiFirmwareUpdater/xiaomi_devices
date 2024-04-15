@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi 8A Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-8a-dual.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_8a_pro-10169.php",
- "codenames": [
-  "olivewood"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

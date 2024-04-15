@@ -2,9 +2,7 @@
  "name": "Xiaomi Mi A3",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-a3.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_a3-9769.php",
- "codenames": [
-  "laurel_sprout"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

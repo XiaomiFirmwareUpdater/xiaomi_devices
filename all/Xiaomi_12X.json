@@ -2,9 +2,7 @@
  "name": "Xiaomi 12X",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12x.jpg",
  "url": "https://www.gsmarena.com/xiaomi_12x-11292.php",
- "codenames": [
-  "psyche"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

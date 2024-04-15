@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi K50 Ultra",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k50-ultra.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_k50_ultra-11580.php",
- "codenames": [
-  "diting"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",

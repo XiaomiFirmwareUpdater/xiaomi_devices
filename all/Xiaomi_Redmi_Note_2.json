@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi Note 2",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-2--.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_2-6992.php",
- "codenames": [
-  "hermes"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

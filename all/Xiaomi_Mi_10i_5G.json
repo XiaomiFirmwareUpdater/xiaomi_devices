@@ -2,9 +2,7 @@
  "name": "Xiaomi Mi 10i 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10i-5g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_10i_5g-10615.php",
- "codenames": [
-  "gauguininpro"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

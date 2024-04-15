@@ -2,9 +2,7 @@
  "name": "Xiaomi Mi 10T 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10t-5g-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_10t_5g-10473.php",
- "codenames": [
-  "apollo"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",
@@ -77,7 +75,7 @@
    "Models": "M2007J3SY",
    "SAR": "0.97 W/kg (head)     0.98 W/kg (body)",
    "SAR EU": "0.57 W/kg (head)     1.00 W/kg (body)",
-   "Price": "$ 100.00 / € 137.63 / ₹ 17,999"
+   "Price": "$ 179.99 / € 143.21 / ₹ 17,999"
   }
  }
 }

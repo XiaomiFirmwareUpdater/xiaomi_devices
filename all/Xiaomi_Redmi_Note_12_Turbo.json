@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi Note 12 Turbo",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-turbo.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_12_turbo-12181.php",
- "codenames": [
-  "marble"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / CDMA2000 / LTE / 5G",

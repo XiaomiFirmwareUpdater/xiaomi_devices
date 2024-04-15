@@ -2,9 +2,7 @@
  "name": "Xiaomi Mi Max 2",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-max2.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_max_2-8582.php",
- "codenames": [
-  "oxygen"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",

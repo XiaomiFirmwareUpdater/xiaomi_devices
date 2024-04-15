@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi Go",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-go.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_go-9534.php",
- "codenames": [
-  "tiare"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

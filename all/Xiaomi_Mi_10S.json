@@ -2,9 +2,7 @@
  "name": "Xiaomi Mi 10S",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10s.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_10s-10780.php",
- "codenames": [
-  "thyme"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

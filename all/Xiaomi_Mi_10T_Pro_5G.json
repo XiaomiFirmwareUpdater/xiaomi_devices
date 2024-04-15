@@ -2,9 +2,7 @@
  "name": "Xiaomi Mi 10T Pro 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10t-5g-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_10t_pro_5g-10437.php",
- "codenames": [
-  "apollo"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",
@@ -77,7 +75,7 @@
    "Models": "M2007J3SG, M2007J3SP, M2007J3SI, M2007J17C",
    "SAR": "0.97 W/kg (head)     0.98 W/kg (body)",
    "SAR EU": "0.57 W/kg (head)     1.00 W/kg (body)",
-   "Price": "£ 306.43 / € 167.48 / ₹ 20,999"
+   "Price": "£ 306.43 / € 161.46 / ₹ 20,999"
   },
   "Tests": {
    "Performance": "AnTuTu: 563961 (v8)\nGeekBench: 3311 (v5.1)\nGFXBench: 46fps (ES 3.1 onscreen)",

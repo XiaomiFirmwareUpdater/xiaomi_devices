@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi Note 5 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-5-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_5_pro-8893.php",
- "codenames": [
-  "whyred"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

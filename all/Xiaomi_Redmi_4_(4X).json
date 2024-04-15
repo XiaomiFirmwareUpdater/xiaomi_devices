@@ -2,11 +2,7 @@
  "name": "Xiaomi Redmi 4 (4X)",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-4x.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_4_(4x)-8608.php",
- "codenames": [
-  "markw",
-  "prada",
-  "santoni"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

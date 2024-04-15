@@ -2,9 +2,7 @@
  "name": "Xiaomi 12S Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12s-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_12s_pro-11651.php",
- "codenames": [
-  "unicorn"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

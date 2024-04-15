@@ -2,9 +2,7 @@
  "name": "Xiaomi Mi CC9",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-cc9-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_cc9-9749.php",
- "codenames": [
-  "pyxis"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / LTE",

@@ -2,9 +2,7 @@
  "name": "Xiaomi Mi Mix 2S",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix-2s.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_mix_2s-9067.php",
- "codenames": [
-  "polaris"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",

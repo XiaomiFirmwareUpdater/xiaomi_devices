@@ -2,9 +2,7 @@
  "name": "Xiaomi 12 Lite",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12-lite-5g-new.jpg",
  "url": "https://www.gsmarena.com/xiaomi_12_lite-11472.php",
- "codenames": [
-  "taoyao"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",
@@ -78,7 +76,7 @@
    "Models": "2203129G",
    "SAR": "1.09 W/kg (head)     0.73 W/kg (body)",
    "SAR EU": "0.60 W/kg (head)     1.00 W/kg (body)",
-   "Price": "$ 277.00 / C$ 395.68 / € 215.36"
+   "Price": "$ 277.00 / C$ 393.38 / £ 330.99 / € 215.50"
   },
   "Tests": {
    "Performance": "AnTuTu: 528905 (v9)\nGeekBench: 2943 (v5.1)\nGFXBench: 29fps (ES 3.1 onscreen)",

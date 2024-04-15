@@ -2,9 +2,7 @@
  "name": "Xiaomi Poco C40",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c40.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_c40-11468.php",
- "codenames": [
-  "frost"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -72,7 +70,7 @@
   "Misc": {
    "Colors": "Power Black, Coral Green, Poco Yellow",
    "Models": "220333QPG",
-   "Price": "$ 70.81 / € 87.45"
+   "Price": "$ 86.70 / € 89.00"
   }
  }
 }

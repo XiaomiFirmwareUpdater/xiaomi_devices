@@ -2,10 +2,7 @@
  "name": "Xiaomi Redmi Note 12 4G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/redmi-note-12-4g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_12_4g-12188.php",
- "codenames": [
-  "tapas",
-  "topaz"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -75,7 +72,7 @@
   "Misc": {
    "Colors": "Onyx Gray, Mint Green, Ice Blue",
    "Models": "23021RAAEG, 23021RAA2Y, 23027RAD4I, 23028RA60L",
-   "Price": "$ 129.99 / £ 122.74 / € 121.08 / ₹ 8,599"
+   "Price": "$ 144.00 / £ 122.74 / € 121.08 / ₹ 9,299"
   },
   "Tests": {
    "Performance": "AnTuTu: 319219 (v9)\nGeekBench: 1797 (v5.1), 1341 (v6)\nGFXBench: 7.5fps (ES 3.1 onscreen)",

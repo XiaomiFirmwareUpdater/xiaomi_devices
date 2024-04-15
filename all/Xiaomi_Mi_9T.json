@@ -2,9 +2,7 @@
  "name": "Xiaomi Mi 9T",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9t.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_9t-9738.php",
- "codenames": [
-  "davinci"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

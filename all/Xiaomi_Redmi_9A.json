@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi 9A",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9a-1.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_9a-10279.php",
- "codenames": [
-  "dandelion"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -73,7 +71,7 @@
    "Models": "M2006C3LG, M2006C3LI, M2006C3LC, M2004C3L",
    "SAR": "0.90 W/kg (head)     0.65 W/kg (body)",
    "SAR EU": "0.40 W/kg (head)     1.19 W/kg (body)",
-   "Price": "$ 69.00 / £ 72.00 / € 70.94 / ₹ 6,499"
+   "Price": "$ 69.00 / £ 72.00 / € 75.48"
   }
  }
 }

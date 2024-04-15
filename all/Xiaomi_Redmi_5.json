@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi 5",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-5.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_5-8768.php",
- "codenames": [
-  "rosy"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / LTE",

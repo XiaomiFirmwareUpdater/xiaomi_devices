@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi Pad",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pad.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_pad-11911.php",
- "codenames": [
-  "yunluo"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "No cellular connectivity",

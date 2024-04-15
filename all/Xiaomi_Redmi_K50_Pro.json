@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi K50 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k50-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_k50_pro-11372.php",
- "codenames": [
-  "matisse"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",

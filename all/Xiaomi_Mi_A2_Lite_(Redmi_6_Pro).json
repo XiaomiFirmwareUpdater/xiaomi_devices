@@ -2,9 +2,7 @@
  "name": "Xiaomi Mi A2 Lite (Redmi 6 Pro)",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-a2-lite.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_a2_lite_(redmi_6_pro)-9247.php",
- "codenames": [
-  "daisy"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / LTE",

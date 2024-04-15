@@ -2,9 +2,7 @@
  "name": "Xiaomi Mi 11",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi11.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_11-10656.php",
- "codenames": [
-  "venus"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -79,7 +77,7 @@
    "Models": "M2011K2C, M2011K2G",
    "SAR": "0.95 W/kg (head)     0.65 W/kg (body)",
    "SAR EU": "0.56 W/kg (head)     0.98 W/kg (body)",
-   "Price": "£ 399.99 / € 259.00"
+   "Price": "£ 399.99 / € 279.00"
   },
   "Tests": {
    "Performance": "AnTuTu: 668722 (v8)\nGeekBench: 3489 (v5.1)\nGFXBench: 33fps (ES 3.1 onscreen)",

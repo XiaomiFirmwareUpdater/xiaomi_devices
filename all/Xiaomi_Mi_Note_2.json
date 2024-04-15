@@ -2,9 +2,7 @@
  "name": "Xiaomi Mi Note 2",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-note2-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_note_2-8014.php",
- "codenames": [
-  "scorpio"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

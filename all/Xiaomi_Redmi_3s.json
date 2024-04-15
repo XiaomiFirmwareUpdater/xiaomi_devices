@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi 3s",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-3s.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_3s-8150.php",
- "codenames": [
-  "land"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi Turbo 3",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-turbo3.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_turbo_3-12920.php",
- "codenames": [
-  "peridot"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -70,7 +68,7 @@
    "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
   },
   "Battery": {
-   "Type": "5000 mAh, non-removable",
+   "Type": "Li-Po 5000 mAh, non-removable",
    "Charging": "90W wired, PD3.0, QC3+"
   },
   "Misc": {

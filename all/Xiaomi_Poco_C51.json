@@ -2,9 +2,7 @@
  "name": "Xiaomi Poco C51",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c51.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_c51-12215.php",
- "codenames": [
-  "water"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -70,7 +68,7 @@
    "Colors": "Power Black, Royal Blue",
    "Models": "MZB0E6DIN, MZB0DXKIN, 2302EPCC4I, 2305EPCC4G",
    "SAR": "0.97 W/kg (head)     0.87 W/kg (body)",
-   "Price": "₹ 7,290"
+   "Price": "₹ 9,499"
   }
  }
 }

@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi Note 7S",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-7s.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_7s-9707.php",
- "codenames": [
-  "lavender"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

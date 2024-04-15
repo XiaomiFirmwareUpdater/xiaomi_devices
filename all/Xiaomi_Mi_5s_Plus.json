@@ -2,9 +2,7 @@
  "name": "Xiaomi Mi 5s Plus",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-5s-plus.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_5s_plus-8350.php",
- "codenames": [
-  "natrium"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",

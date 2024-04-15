@@ -2,9 +2,7 @@
  "name": "Xiaomi Poco X6 Neo",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x6-neo-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_x6_neo-12863.php",
- "codenames": [
-  "gold"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",
@@ -77,7 +75,7 @@
    "Colors": "Astral Black, Horizon Blue, Martian Orange",
    "Models": "MZB0GGWIN",
    "SAR": "0.85 W/kg (head)     0.71 W/kg (body)",
-   "Price": "₹ 16,037"
+   "Price": "₹ 16,490"
   }
  }
 }

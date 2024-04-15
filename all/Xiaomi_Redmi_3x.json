@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi 3x",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-3x.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_3x-8212.php",
- "codenames": [
-  "land"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",

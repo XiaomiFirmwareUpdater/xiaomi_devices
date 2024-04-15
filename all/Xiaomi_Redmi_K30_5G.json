@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi K30 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30-5g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_k30_5g-9979.php",
- "codenames": [
-  "picasso"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

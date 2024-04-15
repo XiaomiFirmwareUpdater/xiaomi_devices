@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi Note 10 Pro (China)",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-10-pro-china-new.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_10_pro_(china)-10930.php",
- "codenames": [
-  "chopin"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

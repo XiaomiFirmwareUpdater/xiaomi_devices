@@ -2,10 +2,7 @@
  "name": "Xiaomi Mi 4 LTE",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-4-lte.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_4_lte-6866.php",
- "codenames": [
-  "cancro",
-  "cancro_lte_ct"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi Note 13 (China)",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_13_(china)-12582.php",
- "codenames": [
-  "gold"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",

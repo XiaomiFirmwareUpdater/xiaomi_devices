@@ -3,9 +3,7 @@
   "name": "Xiaomi Redmi Pad Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pad-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_pad_pro-12922.php",
-  "codenames": [
-   "dizi"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "No cellular connectivity",
@@ -16,7 +14,7 @@
    },
    "Launch": {
     "Announced": "2024, April 10",
-    "Status": "Coming soon. Exp. release 2024, April 15"
+    "Status": "Available. Released 2024, April 15"
    },
    "Body": {
     "Dimensions": "280 x 181.9 x 7.5 mm (11.02 x 7.16 x 0.30 in)",
@@ -81,9 +79,7 @@
   "name": "Xiaomi Redmi Turbo 3",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-turbo3.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_turbo_3-12920.php",
-  "codenames": [
-   "peridot"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -149,7 +145,7 @@
     "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
    },
    "Battery": {
-    "Type": "5000 mAh, non-removable",
+    "Type": "Li-Po 5000 mAh, non-removable",
     "Charging": "90W wired, PD3.0, QC3+"
    },
    "Misc": {
@@ -162,9 +158,7 @@
   "name": "Xiaomi Poco C61",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c61.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_c61-12886.php",
-  "codenames": [
-   "blue"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -231,7 +225,7 @@
     "Colors": "Black, Blue, Green",
     "Models": "2312BPC51H",
     "SAR": "0.84 W/kg (head)     0.77 W/kg (body)",
-    "Price": "₹ 7,498"
+    "Price": "₹ 7,599"
    }
   }
  },
@@ -239,9 +233,7 @@
   "name": "Xiaomi Civi 4 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-civi-4-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_civi_4_pro-12888.php",
-  "codenames": [
-   "chenfeng"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -320,9 +312,7 @@
   "name": "Xiaomi Poco X6 Neo",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x6-neo-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_x6_neo-12863.php",
-  "codenames": [
-   "gold"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -395,7 +385,7 @@
     "Colors": "Astral Black, Horizon Blue, Martian Orange",
     "Models": "MZB0GGWIN",
     "SAR": "0.85 W/kg (head)     0.71 W/kg (body)",
-    "Price": "₹ 16,037"
+    "Price": "₹ 16,490"
    }
   }
  },
@@ -403,9 +393,7 @@
   "name": "Xiaomi 14",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-14-new.jpg",
   "url": "https://www.gsmarena.com/xiaomi_14-12626.php",
-  "codenames": [
-   "houji"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -478,7 +466,7 @@
    "Misc": {
     "Colors": "Black, White, Jade Green, Pink",
     "Models": "23127PN0CC, 23127PN0CG",
-    "Price": "£ 895.11 / € 847.00 / ₹ 69,950"
+    "Price": "£ 898.34 / € 847.00 / ₹ 69,950"
    },
    "Tests": {
     "Performance": "AnTuTu: 2003429 (v10)\nGeekBench: 6810 (v6)",
@@ -493,9 +481,7 @@
   "name": "Xiaomi 14 Ultra",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-14-ultra-new.jpg",
   "url": "https://www.gsmarena.com/xiaomi_14_ultra-12827.php",
-  "codenames": [
-   "aurora"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -568,7 +554,7 @@
    },
    "Misc": {
     "Colors": "Black, Blue, White, Titanium Gray",
-    "Price": "£ 1,299.00 / € 1,327.85 / ₹ 99,999"
+    "Price": "£ 1,299.00 / € 1,332.02"
    },
    "Tests": {
     "Performance": "AnTuTu: 2014262 (v10)\nGeekBench: 7060 (v6)\n3DMark Wild life: 17244 (offscreen 1440p)",
@@ -583,9 +569,7 @@
   "name": "Xiaomi Pad 6S Pro 12.4",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-6s-pro-124.jpg",
   "url": "https://www.gsmarena.com/xiaomi_pad_6s_pro_12_4-12838.php",
-  "codenames": [
-   "sheng"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "No cellular connectivity",
@@ -661,9 +645,7 @@
   "name": "Xiaomi Redmi A3",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a3.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_a3-12822.php",
-  "codenames": [
-   "blue"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -731,7 +713,7 @@
    "Misc": {
     "Colors": "Midnight Black, Forest Green (Olive Green), Star Blue (Lake Blue)",
     "Models": "23129RN51X",
-    "Price": "$ 120.03 / € 95.00 / ₹ 6,999"
+    "Price": "$ 120.03 / € 93.30 / ₹ 6,999"
    }
   }
  },
@@ -739,9 +721,7 @@
   "name": "Xiaomi Redmi Note 13 Pro 4G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13-pro-4g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_13_pro_4g-12749.php",
-  "codenames": [
-   "emerald"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -811,7 +791,7 @@
    "Misc": {
     "Colors": "Midnight Black, Lavender Purple, Forest Green",
     "Models": "23117RA68G, 2312FPCA6G",
-    "Price": "$ 216.99 / £ 285.99 / € 249.60"
+    "Price": "$ 216.99 / £ 285.99 / € 244.29"
    },
    "Tests": {
     "Performance": "AnTuTu: 382881 (v9), 428545 (v10)\nGeekBench: 1844 (v5), 1942 (v6)\nGFXBench ES 3.1: 15fps (offscreen 1080p)",
@@ -827,10 +807,7 @@
   "name": "Xiaomi Redmi Note 13 4G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13-4g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_13_4g-12750.php",
-  "codenames": [
-   "sapphire",
-   "sapphiren"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -899,7 +876,7 @@
    "Misc": {
     "Colors": "Midnight Black, Mint Green, Ice Blue, Ocean Sunset",
     "Models": "23129RAA4G, 23124RA7EO",
-    "Price": "$ 174.99 / £ 151.84 / € 166.65"
+    "Price": "$ 171.55 / £ 151.68 / € 163.80"
    },
    "Tests": {
     "Performance": "AnTuTu: 316857 (v9), 383407 (v10)\nGeekBench: 1817 (v5), 1542 (v6)\n3DMark Wild life: 655 (offscreen 1440p)",
@@ -914,9 +891,7 @@
   "name": "Xiaomi Redmi Note 13 Pro+",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13-pro-plus-int.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_13_pro+-12572.php",
-  "codenames": [
-   "zircon"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -990,7 +965,7 @@
    "Misc": {
     "Colors": "Midnight Black (Fushion Black), Moonlight White (Fushion White), Aurora Purple, Fushion Purple, Camo Green",
     "Models": "23090RA98C, 23090RA98G, 23090RA98I",
-    "Price": "$ 329.00 / £ 369.00 / € 371.00 / ₹ 29,999"
+    "Price": "$ 329.00 / £ 369.00 / € 370.83 / ₹ 29,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 683899 (v9), 779812 (v10)\nGeekBench: 2353 (v5), 2597 (v6)\n3DMark Wild life: 4341 (offscreen 1440p)",
@@ -1005,9 +980,7 @@
   "name": "Xiaomi Redmi Note 13 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13-pro-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_13_pro-12581.php",
-  "codenames": [
-   "garnet"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -1082,7 +1055,7 @@
    "Misc": {
     "Colors": "Midnight Black, Aurora Purple (Coral Purple), Ocean Teal, Arctic White",
     "Models": "2312DRA50C, 2312CRAD3C, 2312DRA50G, 2312DRA50I",
-    "Price": "$ 301.00 / £ 269.00 / € 310.00 / ₹ 25,999"
+    "Price": "$ 300.00 / £ 269.00 / € 299.00 / ₹ 25,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 523746 (v9), 581979 (v10)\nGeekBench: 2695 (v5), 2751 (v6)",
@@ -1098,10 +1071,7 @@
   "name": "Xiaomi Redmi Note 13",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_13-12776.php",
-  "codenames": [
-   "iron",
-   "gold"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -1175,7 +1145,7 @@
    "Misc": {
     "Colors": "Graphite black (Stealth Black), Arctic White, Ocean Teal, Prism Gold",
     "Models": "2312DRAABG",
-    "Price": "$ 220.00 / £ 152.00 / € 227.01 / ₹ 17,998"
+    "Price": "$ 221.25 / £ 152.99 / € 219.00 / ₹ 17,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 405118 (v9), 455421 (v10)\nGeekBench: 1968 (v5), 1978 (v6)\n3DMark Wild life: 1334 (offscreen 1440p)",
@@ -1190,9 +1160,7 @@
   "name": "Xiaomi Poco X6 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x6-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_x6_pro-12717.php",
-  "codenames": [
-   "duchamp"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -1265,7 +1233,7 @@
    "Misc": {
     "Colors": "Black, Yellow, Gray",
     "Models": "2311DRK48G, 2311DRK48I",
-    "Price": "$ 336.00 / £ 274.67 / € 308.93 / ₹ 26,999"
+    "Price": "$ 332.99 / £ 308.25 / € 309.90 / ₹ 26,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 1396547 (v10)\nGeekBench: 4696 (v6)",
@@ -1281,9 +1249,7 @@
   "name": "Xiaomi Poco X6",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x6.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_x6-12723.php",
-  "codenames": [
-   "garnet"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -1355,7 +1321,7 @@
    "Misc": {
     "Colors": "Black, White, Blue",
     "Models": "23122PCD1G, 23122PCD1I",
-    "Price": "$ 274.50 / £ 242.00 / € 247.91 / ₹ 17,997"
+    "Price": "$ 274.50 / £ 238.00 / € 259.90 / ₹ 17,997"
    },
    "Tests": {
     "Performance": "AnTuTu: 533112 (v9), 605803 (v10)\nGeekBench: 2945 (v6)\n3DMark Wild Life: 3032 (offscreen 1440p)",
@@ -1371,9 +1337,7 @@
   "name": "Xiaomi Poco M6 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m6-pro-4g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_m6_pro-12779.php",
-  "codenames": [
-   "emerald"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -1459,9 +1423,7 @@
   "name": "Xiaomi Poco M6",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m6-5g-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_m6-12737.php",
-  "codenames": [
-   "air"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -1531,7 +1493,7 @@
    "Misc": {
     "Colors": "Galactic Black, Orion Blue",
     "Models": "23128PC33I",
-    "Price": "₹ 9,494"
+    "Price": "₹ 9,749"
    }
   }
  },
@@ -1539,9 +1501,7 @@
   "name": "Xiaomi Redmi 13R",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-13r-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_13r-12735.php",
-  "codenames": [
-   "air"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -1618,9 +1578,7 @@
   "name": "Xiaomi Redmi 13C 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-13c-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_13c_5g-12726.php",
-  "codenames": [
-   "air"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -1698,9 +1656,7 @@
   "name": "Xiaomi Redmi K70 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k70-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k70_pro-12714.php",
-  "codenames": [
-   "manet"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -1778,9 +1734,7 @@
   "name": "Xiaomi Redmi K70",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k70.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k70-12715.php",
-  "codenames": [
-   "vermeer"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -1858,9 +1812,7 @@
   "name": "Xiaomi Redmi K70E",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k70e.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k70e-12716.php",
-  "codenames": [
-   "duchamp"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -1938,9 +1890,7 @@
   "name": "Xiaomi Redmi Note 13R Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13r-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_13r_pro-12697.php",
-  "codenames": [
-   "gold"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE / 5G",
@@ -2020,10 +1970,7 @@
   "name": "Xiaomi Redmi 13C",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-13c.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_13c-12689.php",
-  "codenames": [
-   "gale",
-   "gust"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -2091,7 +2038,7 @@
    "Misc": {
     "Colors": "Midnight Black, Navy Blue, Glacier White, Clover Green",
     "Models": "23100RN82L, 23106RN0DA, 23108RN04Y, 2311DRN14I",
-    "Price": "$ 109.00 / C$ 328.19 / £ 100.43 / € 112.99 / ₹ 7,699"
+    "Price": "$ 109.00 / C$ 328.18 / £ 109.06 / € 108.00 / ₹ 7,699"
    }
   }
  },
@@ -2099,10 +2046,7 @@
   "name": "Xiaomi Poco C65",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c65.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_c65-12684.php",
-  "codenames": [
-   "gust",
-   "gale"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -2172,7 +2116,7 @@
    "Misc": {
     "Colors": "Black, Blue, Purple",
     "Models": "2310FPCA4G",
-    "Price": "$ 105.00 / £ 145.02 / € 122.46 / ₹ 7,299"
+    "Price": "$ 105.00 / £ 145.02 / € 122.50 / ₹ 7,299"
    },
    "Tests": {
     "Performance": "AnTuTu: 242885 (v9), 261613 (v10)\nGeekBench: 1201 (v5), 1292 (v6)",
@@ -2188,9 +2132,7 @@
   "name": "Xiaomi 14 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-14-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_14_pro-12643.php",
-  "codenames": [
-   "shennong"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -2272,9 +2214,7 @@
   "name": "Xiaomi 13T Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-13t-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_13t_pro-12388.php",
-  "codenames": [
-   "corot"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -2363,9 +2303,7 @@
   "name": "Xiaomi 13T",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-13t.jpg",
   "url": "https://www.gsmarena.com/xiaomi_13t-12389.php",
-  "codenames": [
-   "aristotle"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -2437,7 +2375,7 @@
    "Misc": {
     "Colors": "Alpine Blue, Meadow Green, Black",
     "Models": "2306EPN60G",
-    "Price": "$ 454.50 / £ 398.10 / € 428.90"
+    "Price": "$ 499.50 / £ 416.99 / € 428.90"
    },
    "Tests": {
     "Performance": "AnTuTu: 825858 (v9), 888714 (v10)\nGeekBench: 3755 (v5), 3841 (v6)\nGFXBench: 43fps (ES 3.1 onscreen)",
@@ -2454,9 +2392,7 @@
   "name": "Xiaomi Redmi Note 13 (China)",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_13_(china)-12582.php",
-  "codenames": [
-   "gold"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -2535,9 +2471,7 @@
   "name": "Xiaomi Redmi Pad SE",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-se.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_pad_se-12466.php",
-  "codenames": [
-   "xun"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "No cellular connectivity",
@@ -2618,9 +2552,7 @@
   "name": "Xiaomi Redmi K60 Ultra",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k60-ultra.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k60_ultra-12470.php",
-  "codenames": [
-   "corot"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -2700,9 +2632,7 @@
   "name": "Xiaomi Mix Fold 3",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mix-fold3-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mix_fold_3-12468.php",
-  "codenames": [
-   "babylon"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -2790,9 +2720,7 @@
   "name": "Xiaomi Pad 6 Max 14",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-6-max-14.jpg",
   "url": "https://www.gsmarena.com/xiaomi_pad_6_max_14-12463.php",
-  "codenames": [
-   "yudi"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "No cellular connectivity",
@@ -2867,9 +2795,7 @@
   "name": "Xiaomi Poco M6 Pro 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m6-pro-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_m6_pro_5g-12452.php",
-  "codenames": [
-   "sky"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -2942,7 +2868,7 @@
    "Misc": {
     "Colors": "Power Black, Forest Green",
     "Models": "23076PC4BI",
-    "Price": "₹ 9,949"
+    "Price": "₹ 9,935"
    }
   }
  },
@@ -2950,10 +2876,7 @@
   "name": "Xiaomi Redmi 12 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-12-5g-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_12_5g-12446.php",
-  "codenames": [
-   "sky",
-   "river"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -3026,7 +2949,7 @@
    "Misc": {
     "Colors": "Jade Black, Pastel Blue, Moonstone Silver",
     "Models": "23076RN4BI, 23076RN8DY",
-    "Price": "£ 120.60 / € 139.07 / ₹ 11,790"
+    "Price": "£ 140.86 / € 142.57 / ₹ 11,999"
    }
   }
  },
@@ -3034,9 +2957,7 @@
   "name": "Xiaomi Redmi Note 12R",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12r.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_12r-12392.php",
-  "codenames": [
-   "sky"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -3117,9 +3038,7 @@
   "name": "Xiaomi Redmi Note 12R Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12r-pro-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_12r_pro-12245.php",
-  "codenames": [
-   "sunstone"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -3198,10 +3117,7 @@
   "name": "Xiaomi Redmi 12",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-12-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_12-12328.php",
-  "codenames": [
-   "fire",
-   "heat"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -3269,7 +3185,7 @@
    "Misc": {
     "Colors": "Midnight Black, Sky Blue, Polar Silver, Moonstone Silver",
     "Models": "23053RN02A, 23053RN02Y, 23053RN02I, 23053RN02L",
-    "Price": "$ 129.00 / C$ 254.11 / £ 99.50 / € 118.99 / ₹ 9,899"
+    "Price": "$ 129.00 / C$ 254.11 / £ 95.00 / € 118.99 / ₹ 9,899"
    },
    "Tests": {
     "Performance": "AnTuTu: 258006 (v9)\nGeekBench: 1303 (v5.1), 1380 (v6)\nGFXBench: 9fps (ES 3.1 onscreen)",
@@ -3285,9 +3201,7 @@
   "name": "Xiaomi Redmi Note 12T Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12t-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_12t_pro-12298.php",
-  "codenames": [
-   "pearl"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -3365,9 +3279,7 @@
   "name": "Xiaomi Civi 3",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-civi-3.jpg",
   "url": "https://www.gsmarena.com/xiaomi_civi_3-12134.php",
-  "codenames": [
-   "yuechu"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -3447,9 +3359,7 @@
   "name": "Xiaomi Poco F5 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f5-pro-2.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_f5_pro-12257.php",
-  "codenames": [
-   "mondrian"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -3521,7 +3431,7 @@
    "Misc": {
     "Colors": "Black, White",
     "Models": "23013PC75G",
-    "Price": "$ 431.80 / £ 379.00 / € 448.75"
+    "Price": "$ 431.80 / £ 379.00 / € 428.69"
    },
    "Tests": {
     "Performance": "AnTuTu: 1057977 (v9)\nGeekBench: 4001 (v5.1), 4009 (v6)\nGFXBench: 50fps (ES 3.1 onscreen)",
@@ -3537,9 +3447,7 @@
   "name": "Xiaomi Poco F5",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f5-2.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_f5-12258.php",
-  "codenames": [
-   "marble"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -3610,7 +3518,7 @@
    "Misc": {
     "Colors": "Black, Blue, White",
     "Models": "23049PCD8G, 23049PCD8I",
-    "Price": "$ 339.99 / € 345.57 / ₹ 21,999"
+    "Price": "$ 339.99 / € 327.32 / ₹ 28,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 931174 (v9)\nGeekBench: 3939 (v5.1), 4348 (v6)\nGFXBench: 66fps (ES 3.1 onscreen)",
@@ -3627,9 +3535,7 @@
   "name": "Xiaomi 13 Ultra",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-13-ultra.jpg",
   "url": "https://www.gsmarena.com/xiaomi_13_ultra-12236.php",
-  "codenames": [
-   "ishtar"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -3702,7 +3608,7 @@
    "Misc": {
     "Colors": "Black, Olive Green, White, Orange, Yellow, Blue",
     "Models": "2304FPN6DC, 2304FPN6DG",
-    "Price": "$ 1,199.00"
+    "Price": "$ 869.49"
    },
    "Tests": {
     "Performance": "AnTuTu: 1268538 (v9)\nGeekBench: 5049 (v5.1), 5556 (v6)\nGFXBench: 110fps (ES 3.1 onscreen)",
@@ -3719,9 +3625,7 @@
   "name": "Xiaomi Pad 6 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad6-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_pad_6_pro-12238.php",
-  "codenames": [
-   "liuqin"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "No cellular connectivity",
@@ -3797,9 +3701,7 @@
   "name": "Xiaomi Pad 6",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad6.jpg",
   "url": "https://www.gsmarena.com/xiaomi_pad_6-12237.php",
-  "codenames": [
-   "pipa"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "No cellular connectivity",
@@ -3881,9 +3783,7 @@
   "name": "Xiaomi Poco C51",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c51.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_c51-12215.php",
-  "codenames": [
-   "water"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -3949,7 +3849,7 @@
     "Colors": "Power Black, Royal Blue",
     "Models": "MZB0E6DIN, MZB0DXKIN, 2302EPCC4I, 2305EPCC4G",
     "SAR": "0.97 W/kg (head)     0.87 W/kg (body)",
-    "Price": "₹ 7,290"
+    "Price": "₹ 9,499"
    }
   }
  },
@@ -3957,10 +3857,7 @@
   "name": "Xiaomi Redmi Note 12S",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12s.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_12s-12218.php",
-  "codenames": [
-   "ocean",
-   "sea"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -4025,7 +3922,7 @@
    "Misc": {
     "Colors": "Onyx Black, Ice Blue, Pearl Green",
     "Models": "2303CRA44A, 23030RAC7Y, 2303ERA42L",
-    "Price": "$ 189.50 / £ 184.82 / € 165.67"
+    "Price": "$ 189.50 / £ 184.82 / € 163.77"
    }
   }
  },
@@ -4033,9 +3930,7 @@
   "name": "Xiaomi Redmi Note 12 Pro 4G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro-4g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_12_pro_4g-12209.php",
-  "codenames": [
-   "sweet"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -4101,7 +3996,7 @@
    "Misc": {
     "Colors": "Star Blue, Graphite Gray, Polar White, Ice blue",
     "Models": "‎2209116AG, 2209116AG",
-    "Price": "$ 259.00 / € 229.42"
+    "Price": "$ 228.99 / € 224.98"
    }
   }
  },
@@ -4109,9 +4004,7 @@
   "name": "Xiaomi Redmi Note 12 Turbo",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-turbo.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_12_turbo-12181.php",
-  "codenames": [
-   "marble"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / CDMA2000 / LTE / 5G",
@@ -4189,9 +4082,7 @@
   "name": "Xiaomi Redmi A2+",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a2-plus.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_a2+-12197.php",
-  "codenames": [
-   "water"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -4257,7 +4148,7 @@
    "Misc": {
     "Colors": "Aqua Blue, Classic Black, Sea Green",
     "Models": "23028RNCAG, 23028RN4DI, 23028RNCAI",
-    "Price": "$ 84.99 / £ 84.05 / € 79.00 / ₹ 7,299"
+    "Price": "$ 84.99 / £ 84.04 / € 79.00 / ₹ 7,499"
    }
   }
  },
@@ -4265,9 +4156,7 @@
   "name": "Xiaomi Redmi A2",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a2-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_a2-12124.php",
-  "codenames": [
-   "cloud"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -4333,7 +4222,7 @@
    "Misc": {
     "Colors": "Aqua Blue, Classic Black, Sea Green",
     "Models": "23028RN4DG, 23026RN54G",
-    "Price": "$ 74.38 / £ 59.99 / € 68.22 / ₹ 5,299"
+    "Price": "$ 74.38 / £ 59.99 / € 72.13 / ₹ 5,299"
    }
   }
  },
@@ -4341,10 +4230,7 @@
   "name": "Xiaomi Redmi Note 12 4G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/redmi-note-12-4g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_12_4g-12188.php",
-  "codenames": [
-   "tapas",
-   "topaz"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -4414,7 +4300,7 @@
    "Misc": {
     "Colors": "Onyx Gray, Mint Green, Ice Blue",
     "Models": "23021RAAEG, 23021RAA2Y, 23027RAD4I, 23028RA60L",
-    "Price": "$ 129.99 / £ 122.74 / € 121.08 / ₹ 8,599"
+    "Price": "$ 144.00 / £ 122.74 / € 121.08 / ₹ 9,299"
    },
    "Tests": {
     "Performance": "AnTuTu: 319219 (v9)\nGeekBench: 1797 (v5.1), 1341 (v6)\nGFXBench: 7.5fps (ES 3.1 onscreen)",
@@ -4430,9 +4316,7 @@
   "name": "Xiaomi 13 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-13-pro-black.jpg",
   "url": "https://www.gsmarena.com/xiaomi_13_pro-11962.php",
-  "codenames": [
-   "nuwa"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -4505,7 +4389,7 @@
    "Misc": {
     "Colors": "Ceramic White, Ceramic Black, Ceramic Flora Green, Mountain Blue",
     "Models": "2210132G, 2210132C",
-    "Price": "€ 665.00 / ₹ 85,038"
+    "Price": "€ 665.00 / ₹ 85,211"
    },
    "Tests": {
     "Performance": "AnTuTu: 1281666 (v9)\nGeekBench: 5087 (v5.1), 5323 (v6)\nGFXBench: 64fps (ES 3.1 onscreen)",
@@ -4522,9 +4406,7 @@
   "name": "Xiaomi 13",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-13-red.jpg",
   "url": "https://www.gsmarena.com/xiaomi_13-12013.php",
-  "codenames": [
-   "fuxi"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -4597,7 +4479,7 @@
    "Misc": {
     "Colors": "White, Black, Flora Green, Mountain Blue, Red, Blue, Yellow, Green, Gray",
     "Models": "2211133C, 2211133G",
-    "Price": "$ 882.40 / £ 647.41 / € 698.95"
+    "Price": "$ 882.40 / £ 647.41 / € 673.26"
    },
    "Tests": {
     "Performance": "AnTuTu: 1248260 (v9)\nGeekBench: 5129 (v5.1)\nGFXBench: 109fps (ES 3.1 onscreen)",
@@ -4613,9 +4495,7 @@
   "name": "Xiaomi 13 Lite",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-13-lite.jpg",
   "url": "https://www.gsmarena.com/xiaomi_13_lite-12072.php",
-  "codenames": [
-   "ziyi"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -4686,7 +4566,7 @@
    },
    "Misc": {
     "Colors": "Black, Lite Blue, Lite Pink",
-    "Price": "€ 369.80"
+    "Price": "€ 359.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 534143 (v9)\nGeekBench: 2936 (v5.1), 2434 (v6)\nGFXBench: 33fps (ES 3.1 onscreen)",
@@ -4702,9 +4582,7 @@
   "name": "Xiaomi Poco C55",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c55.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_c55-12126.php",
-  "codenames": [
-   "earth"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -4775,7 +4653,7 @@
     "Colors": "Cool Blue, Power Black, Forest Green",
     "Models": "22127PC95I",
     "SAR": "0.87 W/kg (head)     0.77 W/kg (body)",
-    "Price": "₹ 3,999"
+    "Price": "₹ 6,499"
    }
   }
  },
@@ -4783,9 +4661,7 @@
   "name": "Xiaomi Poco X5 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x5-pro-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_x5_pro-12094.php",
-  "codenames": [
-   "redwood"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -4858,7 +4734,7 @@
    "Misc": {
     "Colors": "Astral Black, Horizon Blue, Poco Yellow",
     "Models": "22101320G, 22101320I",
-    "Price": "$ 241.19 / £ 273.08 / € 119.04 / ₹ 19,899"
+    "Price": "$ 241.19 / £ 273.08 / € 119.04 / ₹ 19,879"
    },
    "Tests": {
     "Performance": "AnTuTu: 531398 (v9)\nGeekBench: 2930 (v5.1)\nGFXBench: 28fps (ES 3.1 onscreen)",
@@ -4874,9 +4750,7 @@
   "name": "Xiaomi Poco X5",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x5-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_x5-12092.php",
-  "codenames": [
-   "moonstone"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -4965,9 +4839,7 @@
   "name": "Xiaomi Redmi Note 12",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/redmi-note-12-5g-international.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_12-12063.php",
-  "codenames": [
-   "sunstone"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -5038,7 +4910,7 @@
    "Misc": {
     "Colors": "Frosted Green, Matte Black, Mystique Blue",
     "Models": "22111317I, 22111317G",
-    "Price": "$ 189.50 / £ 136.00 / € 160.16 / ₹ 11,999"
+    "Price": "$ 189.50 / £ 135.00 / € 160.11 / ₹ 11,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 360745 (v9)\nGeekBench: 1998\t(v5.1), 2017 (v6)",
@@ -5055,9 +4927,7 @@
   "name": "Xiaomi Poco C50",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c50.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_c50-12053.php",
-  "codenames": [
-   "snow"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -5133,9 +5003,7 @@
   "name": "Xiaomi Redmi Note 12 Pro Speed",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro-speed.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_12_pro_speed-12045.php",
-  "codenames": [
-   "redwood"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -5214,9 +5082,7 @@
   "name": "Xiaomi Redmi K60 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k60-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k60_pro-12046.php",
-  "codenames": [
-   "socrates"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -5294,9 +5160,7 @@
   "name": "Xiaomi Redmi K60E",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k60e.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k60e-12047.php",
-  "codenames": [
-   "rembrandt"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -5375,9 +5239,7 @@
   "name": "Xiaomi Redmi K60",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k60.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k60-11975.php",
-  "codenames": [
-   "mondrian"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -5454,10 +5316,7 @@
   "name": "Xiaomi Redmi 12C",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-12c.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_12c-12051.php",
-  "codenames": [
-   "earth",
-   "aether"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
@@ -5524,7 +5383,7 @@
    "Misc": {
     "Colors": "Graphite Gray, Ocean Blue, Mint Green, Lavender Purple",
     "Models": "22120RN86G, 22120RN86I, 22126RN91Y, 2212ARNC4L",
-    "Price": "$ 95.99 / £ 90.95 / € 89.99"
+    "Price": "$ 95.99 / £ 88.44 / € 89.99"
    }
   }
  },
@@ -5532,9 +5391,7 @@
   "name": "Xiaomi Redmi Note 12 Discovery",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro-discovery-explorer.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_12_discovery-11953.php",
-  "codenames": [
-   "rubyplus"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -5614,9 +5471,7 @@
   "name": "Xiaomi Redmi Note 12 Pro+",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro-plus.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_12_pro+-11954.php",
-  "codenames": [
-   "rubypro"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -5689,7 +5544,7 @@
    "Misc": {
     "Colors": "Arctic White, Iceberg Blue, Obsidian Black, Trend edition",
     "Models": "22101316UCP, 22101316UG",
-    "Price": "$ 337.40 / £ 271.38 / € 273.53 / ₹ 24,964"
+    "Price": "$ 337.40 / £ 263.23 / € 241.34 / ₹ 19,795"
    },
    "Tests": {
     "Performance": "AnTuTu: 498710 (v9)\nGeekBench: 2208 (v5.1), 2372 (v6)\nGFXBench: 22fps (ES 3.1 onscreen)",
@@ -5706,9 +5561,7 @@
   "name": "Xiaomi Redmi Note 12 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_12_pro-11955.php",
-  "codenames": [
-   "ruby"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -5781,7 +5634,7 @@
    "Misc": {
     "Colors": "Frosted Blue (Sky Blue), Onyx Black (Midnight Black), Polar White, Stardust Purple",
     "Models": "22101316C, 22101316I, 23013RK75C, 22101316G",
-    "Price": "$ 229.99 / £ 196.50 / € 177.66 / ₹ 17,949"
+    "Price": "$ 229.99 / £ 196.00 / € 173.73 / ₹ 20,499"
    },
    "Tests": {
     "Performance": "AnTuTu: 490526 (v9)\nGeekBench: 2209 (v5.1), 2372 (v6)\nGFXBench: 22fps (ES 3.1 onscreen)",
@@ -5798,9 +5651,7 @@
   "name": "Xiaomi Redmi Note 12 (China)",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_12_(china)-11956.php",
-  "codenames": [
-   "sunstone"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -5879,9 +5730,7 @@
   "name": "Xiaomi 12T Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12t-pro-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_12t_pro-11887.php",
-  "codenames": [
-   "diting"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -5954,7 +5803,7 @@
     "Models": "22081212UG, 22081212G",
     "SAR": "1.08 W/kg (head)     1.07 W/kg (body)",
     "SAR EU": "1.00 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 599.00 / € 332.03"
+    "Price": "$ 599.00 / € 349.33"
    },
    "Tests": {
     "Performance": "AnTuTu: 1032185 (v9)\nGeekBench: 4081 (v5.1)\nGFXBench: 65fps (ES 3.1 onscreen)",
@@ -5970,9 +5819,7 @@
   "name": "Xiaomi 12T",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12t-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_12t-11888.php",
-  "codenames": [
-   "plato"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -6044,7 +5891,7 @@
     "Models": "22071212AG",
     "SAR": "1.09 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.99 W/kg (head)     0.99 W/kg (body)",
-    "Price": "£ 350.50 / € 200.04"
+    "Price": "£ 407.45 / € 200.04"
    },
    "Tests": {
     "Performance": "AnTuTu: 780204 (v9)\nGeekBench: 3756 (v5.1)",
@@ -6060,9 +5907,7 @@
   "name": "Xiaomi Redmi Pad",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pad.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_pad-11911.php",
-  "codenames": [
-   "yunluo"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "No cellular connectivity",
@@ -6143,9 +5988,7 @@
   "name": "Xiaomi Redmi Note 11R",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11r.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_11r-11904.php",
-  "codenames": [
-   "light"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE / 5G",
@@ -6224,9 +6067,7 @@
   "name": "Xiaomi Redmi A1+",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a1-plus-new.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_a1+-11909.php",
-  "codenames": [
-   "snow"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -6293,7 +6134,7 @@
     "Models": "220733SFG",
     "SAR": "1.00 W/kg (head)     1.10 W/kg (body)",
     "SAR EU": "0.91 W/kg (head)     1.00 W/kg (body)",
-    "Price": "£ 74.98 / € 78.69 / ₹ 5,999"
+    "Price": "£ 74.84 / € 74.00 / ₹ 5,990"
    }
   }
  },
@@ -6301,9 +6142,7 @@
   "name": "Xiaomi Civi 2",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-civi2.jpg",
   "url": "https://www.gsmarena.com/xiaomi_civi_2-11906.php",
-  "codenames": [
-   "ziyi"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -6383,9 +6222,7 @@
   "name": "Xiaomi Redmi 11 Prime",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-11-prime-4g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_11_prime-11855.php",
-  "codenames": [
-   "rock"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -6463,9 +6300,7 @@
   "name": "Xiaomi Redmi 11 Prime 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_11_prime_5g-11834.php",
-  "codenames": [
-   "light"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -6542,9 +6377,7 @@
   "name": "Xiaomi Redmi A1",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-a1.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_a1-11848.php",
-  "codenames": [
-   "ice"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -6612,7 +6445,7 @@
     "Models": "220733SI, 220733SG, 220733SL, 220743FI, 220733SH",
     "SAR": "1.10 W/kg (head)     1.03 W/kg (body)",
     "SAR EU": "0.85 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 71.40 / £ 74.99 / € 66.88 / ₹ 6,799"
+    "Price": "$ 71.40 / £ 74.99 / € 71.05 / ₹ 5,290"
    }
   }
  },
@@ -6620,9 +6453,7 @@
   "name": "Xiaomi Poco M5s",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m5s.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_m5s-11832.php",
-  "codenames": [
-   "rosemary"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -6711,9 +6542,7 @@
   "name": "Xiaomi Poco M5",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m5.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_m5-11850.php",
-  "codenames": [
-   "stone"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -6783,7 +6612,7 @@
     "Models": "22071219CG",
     "SAR": "1.04 W/kg (head)     0.83 W/kg (body)",
     "SAR EU": "0.52 W/kg (head)     0.83 W/kg (body)",
-    "Price": "$ 144.97 / £ 146.88 / € 87.08"
+    "Price": "$ 144.97 / £ 146.88 / € 83.43"
    },
    "Tests": {
     "Performance": "AnTuTu: 386311 (v9)\nGeekBench: 1896 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
@@ -6799,9 +6628,7 @@
   "name": "Xiaomi Poco M5 (India)",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m5.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_m5_(india)-11869.php",
-  "codenames": [
-   "rock"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -6881,9 +6708,7 @@
   "name": "Xiaomi Redmi Note 11 SE (India)",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10s.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_11_se_(india)-11819.php",
-  "codenames": [
-   "secret"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -6962,9 +6787,7 @@
   "name": "Xiaomi Poco M4 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m4-5g-global.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_m4_5g-11762.php",
-  "codenames": [
-   "thunder"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -7054,9 +6877,7 @@
   "name": "Xiaomi Redmi K50 Ultra",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k50-ultra.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k50_ultra-11580.php",
-  "codenames": [
-   "diting"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -7134,9 +6955,7 @@
   "name": "Xiaomi Mix Fold 2",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mix-fold-2.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mix_fold_2-11758.php",
-  "codenames": [
-   "zizhan"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -7224,9 +7043,7 @@
   "name": "Xiaomi Pad 5 Pro 12.4",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-pad-5-pro-124.jpg",
   "url": "https://www.gsmarena.com/xiaomi_pad_5_pro_12_4-11759.php",
-  "codenames": [
-   "dagu"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "No cellular connectivity",
@@ -7302,9 +7119,7 @@
   "name": "Xiaomi Redmi K50i",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k50i-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k50i-11653.php",
-  "codenames": [
-   "xagain"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -7373,7 +7188,7 @@
    "Misc": {
     "Colors": "Phantom Blue, Stealth Black, Quick Silver",
     "Models": "22041216I",
-    "Price": "About 320 EUR"
+    "Price": "₹ 27,999"
    }
   }
  },
@@ -7381,9 +7196,7 @@
   "name": "Xiaomi 12 Lite",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12-lite-5g-new.jpg",
   "url": "https://www.gsmarena.com/xiaomi_12_lite-11472.php",
-  "codenames": [
-   "taoyao"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -7457,7 +7270,7 @@
     "Models": "2203129G",
     "SAR": "1.09 W/kg (head)     0.73 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 277.00 / C$ 395.68 / € 215.36"
+    "Price": "$ 277.00 / C$ 393.38 / £ 330.99 / € 215.50"
    },
    "Tests": {
     "Performance": "AnTuTu: 528905 (v9)\nGeekBench: 2943 (v5.1)\nGFXBench: 29fps (ES 3.1 onscreen)",
@@ -7473,9 +7286,7 @@
   "name": "Xiaomi 12S Ultra",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12s-ultra.jpg",
   "url": "https://www.gsmarena.com/xiaomi_12s_ultra-11614.php",
-  "codenames": [
-   "thor"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -7565,9 +7376,7 @@
   "name": "Xiaomi 12S Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12s-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_12s_pro-11651.php",
-  "codenames": [
-   "unicorn"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -7648,9 +7457,7 @@
   "name": "Xiaomi 12S",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12s.jpg",
   "url": "https://www.gsmarena.com/xiaomi_12s-11645.php",
-  "codenames": [
-   "mayfly"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -7730,9 +7537,7 @@
   "name": "Xiaomi 12 Pro (Dimensity)",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12-pro-dimensity.jpg",
   "url": "https://www.gsmarena.com/xiaomi_12_pro_(dimensity)-11652.php",
-  "codenames": [
-   "daumier"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -7811,9 +7616,7 @@
   "name": "Xiaomi Poco F4",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f4-5g-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_f4-11627.php",
-  "codenames": [
-   "munch"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -7884,7 +7687,7 @@
    "Misc": {
     "Colors": "Moonlight Silver, Night Black, Nebula Green",
     "Models": "22021211RG, 22021211RI",
-    "Price": "$ 204.99 / £ 324.99 / € 296.43 / ₹ 17,998"
+    "Price": "$ 229.99 / £ 324.99 / € 296.43 / ₹ 17,998"
    },
    "Tests": {
     "Performance": "AnTuTu: 590961 (v8), 698586 (v9)\nGeekBench: 3190 (v5.1)\nGFXBench: 49fps (ES 3.1 onscreen)",
@@ -7900,9 +7703,7 @@
   "name": "Xiaomi Poco X4 GT",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x4-gt.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_x4_gt-11626.php",
-  "codenames": [
-   "xaga"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -7973,7 +7774,7 @@
     "Models": "22041216G",
     "SAR": "1.09 W/kg (head)     0.92 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 299.20 / € 317.99"
+    "Price": "$ 299.20 / € 298.48"
    },
    "Tests": {
     "Performance": "AnTuTu: 747871 (v9)\nGeekBench: 3719 (v5.1)\nGFXBench: 46fps (ES 3.1 onscreen)",
@@ -7989,9 +7790,7 @@
   "name": "Xiaomi Poco C40",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c40.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_c40-11468.php",
-  "codenames": [
-   "frost"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -8059,7 +7858,7 @@
    "Misc": {
     "Colors": "Power Black, Coral Green, Poco Yellow",
     "Models": "220333QPG",
-    "Price": "$ 70.81 / € 87.45"
+    "Price": "$ 86.70 / € 89.00"
    }
   }
  },
@@ -8067,9 +7866,7 @@
   "name": "Xiaomi Redmi Note 11T Pro+",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11t-pro-plus.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_11t_pro+-11549.php",
-  "codenames": [
-   "xagapro"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -8148,9 +7945,7 @@
   "name": "Xiaomi Redmi Note 11T Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11t-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_11t_pro-11550.php",
-  "codenames": [
-   "xaga"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -8228,9 +8023,7 @@
   "name": "Xiaomi Redmi Note 11SE",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11se.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_11se-11551.php",
-  "codenames": [
-   "camellia"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -8306,9 +8099,7 @@
   "name": "Xiaomi Redmi 10 Prime 2022",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_10_prime_2022-11519.php",
-  "codenames": [
-   "selene"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -8388,9 +8179,7 @@
   "name": "Xiaomi Poco M4 5G (India)",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m4-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_m4_5g_(india)-11427.php",
-  "codenames": [
-   "light"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -8475,9 +8264,7 @@
   "name": "Xiaomi Poco F4 GT",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f4-gt.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_f4_gt-11479.php",
-  "codenames": [
-   "ingres"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -8568,9 +8355,7 @@
   "name": "Xiaomi Civi 1S",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-civi-1s.jpg",
   "url": "https://www.gsmarena.com/xiaomi_civi_1s-11487.php",
-  "codenames": [
-   "zijin"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -8649,9 +8434,7 @@
   "name": "Xiaomi Redmi 10 Power",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10-power-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_10_power-11486.php",
-  "codenames": [
-   "fog"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -8726,9 +8509,7 @@
   "name": "Xiaomi Redmi 10A",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10a.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_10a-11449.php",
-  "codenames": [
-   "dandelion"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / CDMA2000 / LTE",
@@ -8796,7 +8577,7 @@
     "Models": "220233L2C, 220233L2G, 220233L2I",
     "SAR": "0.90 W/kg (head)     0.65 W/kg (body)",
     "SAR EU": "0.40 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 75.00 / £ 111.99 / € 85.72"
+    "Price": "$ 75.00 / £ 111.99 / € 86.40"
    }
   }
  },
@@ -8804,9 +8585,7 @@
   "name": "Xiaomi Redmi Note 11S 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11s-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_11s_5g-11419.php",
-  "codenames": [
-   "opal"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -8895,10 +8674,7 @@
   "name": "Xiaomi Redmi 10 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_10_5g-11425.php",
-  "codenames": [
-   "light",
-   "thunder"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -8970,7 +8746,7 @@
     "Models": "22041219G, 22041219NY",
     "SAR": "1.09 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 134.31 / € 124.39"
+    "Price": "$ 134.31 / € 116.25"
    }
   }
  },
@@ -8978,9 +8754,7 @@
   "name": "Xiaomi Redmi Note 11 Pro+ 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note11-pro-plus-new.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_11_pro+_5g-11180.php",
-  "codenames": [
-   "pissarropro"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -9054,7 +8828,7 @@
     "Models": "21091116UG, 21091116UC",
     "SAR": "1.09 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 297.50 / € 219.99"
+    "Price": "$ 297.50 / € 214.37"
    },
    "Tests": {
     "Performance": "AnTuTu: 375528 (v8), 437872 (v9)\nGeekBench: 2225 (v5.1)\nGFXBench: 22fps (ES 3.1 onscreen)",
@@ -9070,9 +8844,7 @@
   "name": "Xiaomi Redmi K50 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k50-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k50_pro-11372.php",
-  "codenames": [
-   "matisse"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -9152,9 +8924,7 @@
   "name": "Xiaomi Redmi K50",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k50.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k50-11430.php",
-  "codenames": [
-   "rubens"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -9234,9 +9004,7 @@
   "name": "Xiaomi Redmi K40S",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k40s.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k40s-11431.php",
-  "codenames": [
-   "munch"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -9314,9 +9082,7 @@
   "name": "Xiaomi 12 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_12_pro-11287.php",
-  "codenames": [
-   "zeus"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -9391,7 +9157,7 @@
     "Models": "2201122C, 2201122G",
     "SAR": "1.09 W/kg (head)     1.05 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 430.00 / £ 417.99 / € 355.99 / ₹ 31,999"
+    "Price": "$ 430.00 / £ 417.99 / € 351.99 / ₹ 31,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 985226 (v9)\nGeekBench: 3682 (v5.1)\nGFXBench: 46fps (ES 3.1 onscreen)",
@@ -9407,9 +9173,7 @@
   "name": "Xiaomi 12",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12.jpg",
   "url": "https://www.gsmarena.com/xiaomi_12-11285.php",
-  "codenames": [
-   "cupid"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -9500,9 +9264,7 @@
   "name": "Xiaomi 12X",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12x.jpg",
   "url": "https://www.gsmarena.com/xiaomi_12x-11292.php",
-  "codenames": [
-   "psyche"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -9590,9 +9352,7 @@
   "name": "Xiaomi Redmi 10 (India)",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10-india.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_10_(india)-11424.php",
-  "codenames": [
-   "fog"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -9667,11 +9427,7 @@
   "name": "Xiaomi Redmi 10C",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10c.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_10c-11418.php",
-  "codenames": [
-   "fog",
-   "rain",
-   "wind"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -9739,7 +9495,7 @@
     "Models": "220333QAG, 220333QBI, 220333QNY, 220333QL",
     "SAR": "0.96 W/kg (head)     1.02 W/kg (body)",
     "SAR EU": "0.57 W/kg (head)     0.96 W/kg (body)",
-    "Price": "$ 124.99 / £ 94.89 / € 80.38"
+    "Price": "$ 124.99 / £ 94.89 / € 82.66"
    }
   }
  },
@@ -9747,9 +9503,7 @@
   "name": "Xiaomi Redmi Note 11 Pro+ 5G (India)",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-note-11-pro-plus-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_11_pro+_5g_(india)-11412.php",
-  "codenames": [
-   "peux"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -9828,9 +9582,7 @@
   "name": "Xiaomi Redmi Note 11E Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11e-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_11e_pro-11395.php",
-  "codenames": [
-   "veux"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -9908,9 +9660,7 @@
   "name": "Xiaomi Redmi Note 11E",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11e.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_11e-11396.php",
-  "codenames": [
-   "light"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -9988,10 +9738,7 @@
   "name": "Xiaomi Poco X4 Pro 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x4-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_x4_pro_5g-11371.php",
-  "codenames": [
-   "veux",
-   "peux"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -10066,7 +9813,7 @@
     "Models": "2201116PG",
     "SAR": "1.06 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.96 W/kg (body)",
-    "Price": "$ 210.00 / £ 230.00 / € 194.59 / ₹ 13,999"
+    "Price": "$ 210.00 / £ 230.00 / € 195.66 / ₹ 13,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 335353 (v8), 384646 (v9)\nGeekBench: 2063 (v5.1)\nGFXBench: 17fps (ES 3.1 onscreen)",
@@ -10082,10 +9829,7 @@
   "name": "Xiaomi Poco M4 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m4-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_m4_pro-11388.php",
-  "codenames": [
-   "miel",
-   "fleur"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -10160,7 +9904,7 @@
     "Models": "MZB0B5VIN, 2201117PI, 2201117PG",
     "SAR": "0.85 W/kg (head)     0.85 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     0.84 W/kg (body)",
-    "Price": "£ 196.85 / € 174.82"
+    "Price": "£ 196.85 / € 172.17"
    },
    "Tests": {
     "Performance": "AnTuTu: 318444 (v9)\nGeekBench: 1836 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
@@ -10176,9 +9920,7 @@
   "name": "Xiaomi Redmi K50 Gaming",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k50-gaming.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k50_gaming-11362.php",
-  "codenames": [
-   "ingres"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -10260,10 +10002,7 @@
   "name": "Xiaomi Redmi 10 2022",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11-4g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_10_2022-11357.php",
-  "codenames": [
-   "selene",
-   "eos"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -10332,7 +10071,7 @@
     "Colors": "Carbon Gray, Pebble White, Sea Blue",
     "Models": "21121119SG, 22011119UY, 21121119VL",
     "SAR": "0.77 W/kg (head)     0.74 W/kg (body)",
-    "Price": "$ 112.50 / £ 98.00 / € 97.46"
+    "Price": "$ 112.50 / £ 88.39 / € 91.49"
    }
   }
  },
@@ -10340,9 +10079,7 @@
   "name": "Xiaomi Redmi Note 11 Pro 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11-pro-5g-global.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_11_pro_5g-11333.php",
-  "codenames": [
-   "veux"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -10432,10 +10169,7 @@
   "name": "Xiaomi Redmi Note 11 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11-pro-global.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_11_pro-11334.php",
-  "codenames": [
-   "viva",
-   "vida"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -10509,7 +10243,7 @@
     "Models": "2201116TG, 2201116TI",
     "SAR": "1.08 W/kg (head)     1.08 W/kg (body)",
     "SAR EU": "0.58 W/kg (head)     0.86 W/kg (body)",
-    "Price": "$ 190.00 / £ 178.41 / € 148.71"
+    "Price": "$ 190.00 / £ 179.99 / € 168.00"
    },
    "Tests": {
     "Performance": "AnTuTu: 261309 (v8), 319093 (v9)\nGeekBench: 1729 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
@@ -10525,10 +10259,7 @@
   "name": "Xiaomi Redmi Note 11S",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11s-global.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_11s-11335.php",
-  "codenames": [
-   "miel",
-   "fleur"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -10601,7 +10332,7 @@
     "Models": "2201117SG, 2201117SI, 2201117SY, 2201117SL",
     "SAR": "1.09 W/kg (head)     1.05 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     0.88 W/kg (body)",
-    "Price": "$ 164.99 / £ 151.90 / € 150.80"
+    "Price": "$ 164.99 / £ 151.90 / € 146.60"
    },
    "Tests": {
     "Performance": "AnTuTu: 251201 (v8), 308741 (v9)\nGeekBench: 1873 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
@@ -10617,10 +10348,7 @@
   "name": "Xiaomi Redmi Note 11",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11-global.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_11-11336.php",
-  "codenames": [
-   "spes",
-   "spesn"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -10692,7 +10420,7 @@
     "Models": "2201117TG, 2201117TI, 2201117TY, 2201117TL",
     "SAR": "0.97 W/kg (head)     0.93 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 159.00 / £ 127.07 / € 99.14 / ₹ 8,799"
+    "Price": "$ 159.00 / £ 127.07 / € 109.13 / ₹ 8,799"
    },
    "Tests": {
     "Performance": "AnTuTu: 228044 (v8), 244526 (v9)\nGeekBench: 1662 (v5.1)\nGFXBench: 6.8fps (ES 3.1 onscreen)",
@@ -10708,9 +10436,7 @@
   "name": "Xiaomi 11i HyperCharge 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-11i-hypercharge.jpg",
   "url": "https://www.gsmarena.com/xiaomi_11i_hypercharge_5g-11186.php",
-  "codenames": [
-   "pissarroinpro"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -10797,9 +10523,7 @@
   "name": "Xiaomi 11i",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-11i.jpg",
   "url": "https://www.gsmarena.com/xiaomi_11i-11185.php",
-  "codenames": [
-   "pissarroin"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -10871,7 +10595,7 @@
     "Colors": "Camo Green, Stealth Black, Purple Mist, Pacific Pearl",
     "Models": "‎MZB0A5EIN",
     "SAR": "0.82 W/kg (head)     0.61 W/kg (body)",
-    "Price": "₹ 15,899"
+    "Price": "₹ 14,999"
    }
   }
  },
@@ -10879,9 +10603,7 @@
   "name": "Xiaomi Redmi Note 11T 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11t-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_11t_5g-11217.php",
-  "codenames": [
-   "evergo"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -10952,7 +10674,7 @@
    "Misc": {
     "Colors": "Aquamarine Blue, Stardust White, Matte Black",
     "Models": "21091116AI",
-    "Price": "₹ 12,399"
+    "Price": "₹ 12,990"
    }
   }
  },
@@ -10960,9 +10682,7 @@
   "name": "Xiaomi Redmi Note 11 4G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11-4g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_11_4g-11241.php",
-  "codenames": [
-   "selenes"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -11037,10 +10757,7 @@
   "name": "Xiaomi Poco M4 Pro 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m4-pro-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_m4_pro_5g-11193.php",
-  "codenames": [
-   "evergreen",
-   "evergo"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -11114,7 +10831,7 @@
     "Models": "21091116AG, MZB0BGVIN",
     "SAR": "1.07 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 144.40 / £ 244.00 / € 184.09 / ₹ 10,499"
+    "Price": "$ 144.40 / £ 244.00 / € 184.09 / ₹ 9,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 296721 (v8), 353663 (v9)\nGeekBench: 1797 (v5.1)\nGFXBench: 13fps (ES 3.1 onscreen)",
@@ -11130,9 +10847,7 @@
   "name": "Xiaomi Redmi Note 11 Pro (China)",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note11-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_11_pro_(china)-11159.php",
-  "codenames": [
-   "pissarro"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -11212,9 +10927,7 @@
   "name": "Xiaomi Redmi Note 11 (China)",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note11.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_11_(china)-11181.php",
-  "codenames": [
-   "evergo"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -11293,9 +11006,7 @@
   "name": "Xiaomi Redmi Note 10 Lite",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-10-lite.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_10_lite-11137.php",
-  "codenames": [
-   "curtana"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -11374,9 +11085,7 @@
   "name": "Xiaomi Civi",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-civi.jpg",
   "url": "https://www.gsmarena.com/xiaomi_civi-11119.php",
-  "codenames": [
-   "mona"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -11456,9 +11165,7 @@
   "name": "Xiaomi Redmi 9i Sport",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9i-sport.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_9i_sport-11129.php",
-  "codenames": [
-   "dandelion"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -11532,9 +11239,7 @@
   "name": "Xiaomi Redmi 9A Sport",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9a-sport.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_9a_sport-11128.php",
-  "codenames": [
-   "dandelion"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -11608,9 +11313,7 @@
   "name": "Xiaomi Poco C31",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c31.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_c31-11134.php",
-  "codenames": [
-   "angelicain"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -11685,9 +11388,7 @@
   "name": "Xiaomi Redmi 9 Activ",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9-activ.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_9_activ-11127.php",
-  "codenames": [
-   "cattail"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -11762,9 +11463,7 @@
   "name": "Xiaomi 11T Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-11t-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_11t_pro-11100.php",
-  "codenames": [
-   "vili"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -11837,7 +11536,7 @@
     "Colors": "Meteorite Gray, Moonlight White, Celestial Blue",
     "Models": "2107113SG, 2107113SI, 2107113SR",
     "SAR": "0.78 W/kg (head)     0.49 W/kg (body)",
-    "Price": "$ 410.00 / £ 194.99 / € 168.30 / ₹ 21,499"
+    "Price": "$ 410.00 / £ 194.99 / € 165.10 / ₹ 21,499"
    },
    "Tests": {
     "Display": "Contrast ratio: Infinite (nominal)",
@@ -11852,9 +11551,7 @@
   "name": "Xiaomi 11T",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-11t.jpg",
   "url": "https://www.gsmarena.com/xiaomi_11t-11099.php",
-  "codenames": [
-   "amber"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -11926,7 +11623,7 @@
     "Models": "21081111RG",
     "SAR": "1.09 W/kg (head)     0.83 W/kg (body)",
     "SAR EU": "0.55 W/kg (head)     0.95 W/kg (body)",
-    "Price": "$ 219.00 / £ 241.99 / € 180.77"
+    "Price": "$ 219.00 / £ 279.99 / € 183.20"
    },
    "Tests": {
     "Performance": "AnTuTu: 590837 (v9)\nGeekBench: 2834 (v5.1)\nGFXBench: 40fps (ES 3.1 onscreen)",
@@ -11942,9 +11639,7 @@
   "name": "Xiaomi 11 Lite 5G NE",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-11-lite-5g-ne.jpg",
   "url": "https://www.gsmarena.com/xiaomi_11_lite_5g_ne-11101.php",
-  "codenames": [
-   "lisa"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -12033,9 +11728,7 @@
   "name": "Xiaomi Redmi 10 Prime",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_10_prime-11079.php",
-  "codenames": [
-   "selene"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -12115,10 +11808,7 @@
   "name": "Xiaomi Redmi 10",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_10-11060.php",
-  "codenames": [
-   "selene",
-   "eos"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -12187,7 +11877,7 @@
    "Misc": {
     "Colors": "Carbon Gray, Pebble White, Sea Blue",
     "Models": "21061119AG, 21061119DG, 21061119AL",
-    "Price": "$ 111.70 / £ 109.96 / € 102.93 / ₹ 9,480"
+    "Price": "$ 99.99 / £ 109.96 / € 102.93 / ₹ 9,299"
    },
    "Tests": {
     "Display": "Contrast ratio: 1494:1",
@@ -12202,9 +11892,7 @@
   "name": "Xiaomi Pad 5 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-5-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_pad_5_pro-11043.php",
-  "codenames": [
-   "elish"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -12281,9 +11969,7 @@
   "name": "Xiaomi Pad 5",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-5.jpg",
   "url": "https://www.gsmarena.com/xiaomi_pad_5-11042.php",
-  "codenames": [
-   "nabu"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "No cellular connectivity",
@@ -12365,9 +12051,7 @@
   "name": "Xiaomi Mix 4",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix-4.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mix_4-11040.php",
-  "codenames": [
-   "odin"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -12449,9 +12133,7 @@
   "name": "Xiaomi Poco X3 GT",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-10-pro-china-new.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_x3_gt-10949.php",
-  "codenames": [
-   "chopin"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -12541,9 +12223,7 @@
   "name": "Xiaomi Poco F3 GT",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f3-gt.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_f3_gt-10886.php",
-  "codenames": [
-   "aresin"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -12624,11 +12304,7 @@
   "name": "Xiaomi Redmi Note 10T 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-10t-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_10t_5g-11008.php",
-  "codenames": [
-   "camellia",
-   "camellian",
-   "lilac"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -12709,9 +12385,7 @@
   "name": "Xiaomi Redmi Note 10 Pro (China)",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-10-pro-china-new.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_10_pro_(china)-10930.php",
-  "codenames": [
-   "chopin"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -12792,9 +12466,7 @@
   "name": "Xiaomi Redmi Note 8 2021",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note8-2021.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_8_2021-10919.php",
-  "codenames": [
-   "biloba"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -12881,10 +12553,7 @@
   "name": "Xiaomi Poco M3 Pro 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m3-pro-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_m3_pro_5g-10857.php",
-  "codenames": [
-   "camellian",
-   "camellia"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -12956,7 +12625,7 @@
     "Models": "M2103K19PG, M2103K19PI, M2103K19PY",
     "SAR": "0.94 W/kg (head)     1.06 W/kg (body)",
     "SAR EU": "0.54 W/kg (head)     0.90 W/kg (body)",
-    "Price": "$ 109.99 / £ 223.86 / € 164.99 / ₹ 10,849"
+    "Price": "$ 109.99 / £ 223.86 / € 164.99"
    },
    "Tests": {
     "Display": "Contrast ratio: 1475:1 (nominal)",
@@ -12971,9 +12640,7 @@
   "name": "Xiaomi Redmi K40 Gaming",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k40-gaming.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k40_gaming-10880.php",
-  "codenames": [
-   "ares"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -13054,9 +12721,7 @@
   "name": "Xiaomi Mi 11X Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi11x-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_11x_pro-10776.php",
-  "codenames": [
-   "haydnin"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -13136,9 +12801,7 @@
   "name": "Xiaomi Mi 11X",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi11x.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_11x-10775.php",
-  "codenames": [
-   "aliothin"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -13210,7 +12873,7 @@
     "Colors": "Celestial Silver, Lunar White, Cosmic Black",
     "Models": "M2012K11AI",
     "SAR": "0.86 W/kg (head)     0.69 W/kg (body)",
-    "Price": "₹ 16,499"
+    "Price": "₹ 18,999"
    }
   }
  },
@@ -13218,9 +12881,7 @@
   "name": "Xiaomi Poco M2 Reloaded",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m2-reloaded.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_m2_reloaded-10867.php",
-  "codenames": [
-   "shiva"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -13299,9 +12960,7 @@
   "name": "Xiaomi Mi Mix Fold",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix-fold.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_mix_fold-10817.php",
-  "codenames": [
-   "cetus"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -13381,9 +13040,7 @@
   "name": "Xiaomi Mi 11 Ultra",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi11-ultra-5g-k1.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_11_ultra-10737.php",
-  "codenames": [
-   "star"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -13475,9 +13132,7 @@
   "name": "Xiaomi Mi 11 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-11-pro-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_11_pro-10816.php",
-  "codenames": [
-   "mars"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -13557,9 +13212,7 @@
   "name": "Xiaomi Mi 11i",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-11i-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_11i-10777.php",
-  "codenames": [
-   "haydn"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -13632,7 +13285,7 @@
     "Models": "M2012K11G",
     "SAR": "0.95 W/kg (head)     0.74 W/kg (body)",
     "SAR EU": "0.57 W/kg (head)     0.77 W/kg (body)",
-    "Price": "About 240 EUR"
+    "Price": "€ 273.00"
    },
    "Tests": {
     "Performance": "AnTuTu: 690021 (v8)\nGeekBench: 3641 (v5.1)",
@@ -13648,9 +13301,7 @@
   "name": "Xiaomi Mi 11 Lite 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-11-lite-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_11_lite_5g-10815.php",
-  "codenames": [
-   "renoir"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -13726,7 +13377,7 @@
     "Models": "M2101K9G, M2101K9C, M2101K9R",
     "SAR": "1.03 W/kg (head)     1.06 W/kg (body)",
     "SAR EU": "0.56 W/kg (head)     0.89 W/kg (body)",
-    "Price": "$ 299.99 / £ 167.00 / € 122.77"
+    "Price": "$ 299.99 / £ 167.00 / € 125.68"
    },
    "Tests": {
     "Performance": "AnTuTu: 465534 (v8) | 522490 (v9)\nGeekBench: 2909 (v5.1)\nGFXBench: 35fps (ES 3.1 onscreen)",
@@ -13742,9 +13393,7 @@
   "name": "Xiaomi Mi 11 Lite",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-11-lite-4g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_11_lite-10665.php",
-  "codenames": [
-   "courbet"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -13817,7 +13466,7 @@
     "Models": "M2101K9AG, M2101K9AI",
     "SAR": "1.07 W/kg (head)     0.82 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.95 W/kg (body)",
-    "Price": "$ 249.99 / € 126.99 / ₹ 13,890"
+    "Price": "$ 249.99 / € 132.99 / ₹ 13,890"
    },
    "Tests": {
     "Performance": "AnTuTu: 290172 (v8), 294251 (v9)\nGeekBench: 1796 (v5.1)\nGFXBench: 17fps (ES 3.1 onscreen)",
@@ -13833,10 +13482,7 @@
   "name": "Xiaomi Poco X3 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x3-pro-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_x3_pro-10802.php",
-  "codenames": [
-   "vayu",
-   "bhima"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -13910,7 +13556,7 @@
     "Models": "M2102J20SG, M2102J20SI",
     "SAR": "0.99 W/kg (head)     0.67 W/kg (body)",
     "SAR EU": "0.57 W/kg (head)     0.90 W/kg (body)",
-    "Price": "$ 279.99 / C$ 470.61 / £ 265.00 / € 173.63 / ₹ 11,499"
+    "Price": "$ 279.99 / C$ 474.73 / £ 265.00 / € 173.63 / ₹ 11,499"
    },
    "Tests": {
     "Performance": "AnTuTu: 453223 (v8)\nGeekBench: 2574 (v5.1)\nGFXBench: 38fps (ES 3.1 onscreen)",
@@ -13926,9 +13572,7 @@
   "name": "Xiaomi Poco F3",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f3.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_f3-10758.php",
-  "codenames": [
-   "alioth"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -14003,7 +13647,7 @@
     "Models": "M2012K11AG",
     "SAR": "1.06 W/kg (head)     0.72 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.84 W/kg (body)",
-    "Price": "$ 223.20 / £ 250.00 / € 200.00"
+    "Price": "$ 223.20 / £ 250.00 / € 184.75"
    },
    "Tests": {
     "Performance": "AnTuTu: 631850 (v8), 697216 (v9)\nGeekBench: 3206 (v5.1)\nGFXBench: 48fps (ES 3.1 onscreen)",
@@ -14019,9 +13663,7 @@
   "name": "Xiaomi Mi 10S",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10s.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_10s-10780.php",
-  "codenames": [
-   "thyme"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -14099,9 +13741,7 @@
   "name": "Xiaomi Redmi Note 10 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_10_pro-10662.php",
-  "codenames": [
-   "sweet"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -14175,7 +13815,7 @@
     "Models": "M2101K6G, M2101K6R",
     "SAR": "1.09 W/kg (head)     1.06 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 157.50 / £ 139.10 / € 168.00 / ₹ 13,069"
+    "Price": "$ 152.25 / £ 179.00 / € 145.26 / ₹ 11,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 295442 (v8)\nGeekBench: 1780 (v5.1)\nGFXBench: 16fps (ES 3.1 onscreen)",
@@ -14191,10 +13831,7 @@
   "name": "Xiaomi Redmi Note 10 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_10_5g-10768.php",
-  "codenames": [
-   "camellian",
-   "camellia"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -14266,7 +13903,7 @@
     "Models": "M2103K19G, M2103K19C",
     "SAR": "0.94 W/kg (head)     1.06 W/kg (body)",
     "SAR EU": "0.54 W/kg (head)     0.90 W/kg (body)",
-    "Price": "$ 157.40 / £ 119.00 / € 115.30"
+    "Price": "$ 157.40 / £ 119.00 / € 120.32"
    },
    "Tests": {
     "Display": "Contrast ratio: 1795:1 (nominal)",
@@ -14281,11 +13918,7 @@
   "name": "Xiaomi Redmi Note 10S",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10s.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_10s-10769.php",
-  "codenames": [
-   "secret",
-   "rosemary",
-   "maltose"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -14358,7 +13991,7 @@
     "Models": "M2101K7BG, M2101K7BI, M2101K7BNY, M2101K7BL",
     "SAR": "1.07 W/kg (head)     0.81 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.90 W/kg (body)",
-    "Price": "$ 169.99 / £ 119.99 / € 119.64 / ₹ 9,390"
+    "Price": "$ 169.99 / £ 119.99 / € 116.06 / ₹ 9,390"
    }
   }
  },
@@ -14366,9 +13999,7 @@
   "name": "Xiaomi Redmi Note 10",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10--.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_10-10247.php",
-  "codenames": [
-   "mojito"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -14443,7 +14074,7 @@
     "Models": "M2101K7AI, M2101K7AG",
     "SAR": "1.09 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     0.97 W/kg (body)",
-    "Price": "€ 102.68 / ₹ 6,999"
+    "Price": "€ 105.61 / ₹ 8,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 218788 (v8)\nGeekBench: 2860 (v5.1)\nGFXBench: 7.9fps (ES 3.1 onscreen)",
@@ -14459,9 +14090,7 @@
   "name": "Xiaomi Redmi Note 10 Pro Max",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10-pro-india.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_10_pro_max-10770.php",
-  "codenames": [
-   "sweetin"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -14541,9 +14170,7 @@
   "name": "Xiaomi Redmi Note 10 Pro (India)",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10-pro-india.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_10_pro_(india)-10771.php",
-  "codenames": [
-   "sweetin"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -14621,9 +14248,7 @@
   "name": "Xiaomi Redmi K40 Pro+",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k40-pro-plus.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k40_pro+-10752.php",
-  "codenames": [
-   "haydn"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -14702,9 +14327,7 @@
   "name": "Xiaomi Redmi K40 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k40-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k40_pro-10727.php",
-  "codenames": [
-   "haydn"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -14784,9 +14407,7 @@
   "name": "Xiaomi Redmi K40",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k40.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k40-10728.php",
-  "codenames": [
-   "alioth"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
@@ -14865,9 +14486,7 @@
   "name": "Xiaomi Redmi Note 9T",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-9t-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_9t-10661.php",
-  "codenames": [
-   "cannong"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -14940,7 +14559,7 @@
     "Models": "M2007J22G, J22",
     "SAR": "1.07 W/kg (head)     1.05 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     0.94 W/kg (body)",
-    "Price": "£ 119.00 / € 108.96"
+    "Price": "£ 119.00 / € 104.91"
    },
    "Tests": {
     "Performance": "AnTuTu: 288732 (v8)\nGeekBench: 1775 (v5.1)",
@@ -14956,11 +14575,7 @@
   "name": "Xiaomi Redmi 9T",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9-power.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_9t-10670.php",
-  "codenames": [
-   "lime",
-   "lemon",
-   "pomelo"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -15032,7 +14647,7 @@
     "Models": "J19S, M2010J19SG, M2010J19SY",
     "SAR": "1.09 W/kg (head)     1.00 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.81 W/kg (body)",
-    "Price": "$ 94.99 / € 117.84"
+    "Price": "$ 94.99 / € 117.25"
    },
    "Tests": {
     "Performance": "AnTuTu: 177917 (v8)\nGeekBench: 1400 (v5.1)\nGFXBench: 5.8fps (ES 3.1 onscreen)",
@@ -15048,9 +14663,7 @@
   "name": "Xiaomi Mi 10i 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10i-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_10i_5g-10615.php",
-  "codenames": [
-   "gauguininpro"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -15130,9 +14743,7 @@
   "name": "Xiaomi Mi 11",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi11.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_11-10656.php",
-  "codenames": [
-   "venus"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -15207,7 +14818,7 @@
     "Models": "M2011K2C, M2011K2G",
     "SAR": "0.95 W/kg (head)     0.65 W/kg (body)",
     "SAR EU": "0.56 W/kg (head)     0.98 W/kg (body)",
-    "Price": "£ 399.99 / € 259.00"
+    "Price": "£ 399.99 / € 279.00"
    },
    "Tests": {
     "Performance": "AnTuTu: 668722 (v8)\nGeekBench: 3489 (v5.1)\nGFXBench: 33fps (ES 3.1 onscreen)",
@@ -15223,9 +14834,7 @@
   "name": "Xiaomi Redmi 9 Power",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9-power.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_9_power-10616.php",
-  "codenames": [
-   "lime"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -15304,9 +14913,7 @@
   "name": "Xiaomi Redmi Note 9 Pro 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note9-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_9_pro_5g-10582.php",
-  "codenames": [
-   "gauguinpro"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -15388,9 +14995,7 @@
   "name": "Xiaomi Redmi Note 9 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-9-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_9_5g-10581.php",
-  "codenames": [
-   "cannon"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -15470,9 +15075,7 @@
   "name": "Xiaomi Redmi Note 9 4G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note9-4g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_9_4g-10609.php",
-  "codenames": [
-   "lime"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -15551,9 +15154,7 @@
   "name": "Xiaomi Poco M3",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m3-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_m3-10599.php",
-  "codenames": [
-   "citrus"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -15625,7 +15226,7 @@
     "Models": "M2010J19CG, M2010J19CI",
     "SAR": "1.09 W/kg (head)     1.00 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.81 W/kg (body)",
-    "Price": "$ 170.00 / £ 99.00 / € 105.41 / ₹ 6,498"
+    "Price": "$ 170.00 / £ 99.00 / € 102.03 / ₹ 6,498"
    },
    "Tests": {
     "Performance": "AnTuTu: 177904 (v8)\nGeekBench: 1398 (v5.1)\nGFXBench: 5.9fps (ES 3.1 onscreen)",
@@ -15641,9 +15242,7 @@
   "name": "Xiaomi Redmi K30S",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10t-5g-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k30s-10517.php",
-  "codenames": [
-   "apollo"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -15723,9 +15322,7 @@
   "name": "Xiaomi Poco C3",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c3.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_c3-10482.php",
-  "codenames": [
-   "angelicain"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -15793,7 +15390,7 @@
     "Colors": "Arctic Blue, Lime Green, Matte Black",
     "Models": "M2006C3MII, MZB07RIIN, MZB07RJIN, MZB07QAIN, MZB07RLIN, MZB07RKIN, MZB07RHIN",
     "SAR": "0.51 W/kg (head)     0.83 W/kg (body)",
-    "Price": "About 80 EUR"
+    "Price": "₹ 5,799"
    }
   }
  },
@@ -15801,9 +15398,7 @@
   "name": "Xiaomi Mi 10T Pro 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10t-5g-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_10t_pro_5g-10437.php",
-  "codenames": [
-   "apollo"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -15876,7 +15471,7 @@
     "Models": "M2007J3SG, M2007J3SP, M2007J3SI, M2007J17C",
     "SAR": "0.97 W/kg (head)     0.98 W/kg (body)",
     "SAR EU": "0.57 W/kg (head)     1.00 W/kg (body)",
-    "Price": "£ 306.43 / € 167.48 / ₹ 20,999"
+    "Price": "£ 306.43 / € 161.46 / ₹ 20,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 563961 (v8)\nGeekBench: 3311 (v5.1)\nGFXBench: 46fps (ES 3.1 onscreen)",
@@ -15892,9 +15487,7 @@
   "name": "Xiaomi Mi 10T 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10t-5g-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_10t_5g-10473.php",
-  "codenames": [
-   "apollo"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -15967,7 +15560,7 @@
     "Models": "M2007J3SY",
     "SAR": "0.97 W/kg (head)     0.98 W/kg (body)",
     "SAR EU": "0.57 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 100.00 / € 137.63 / ₹ 17,999"
+    "Price": "$ 179.99 / € 143.21 / ₹ 17,999"
    }
   }
  },
@@ -15975,9 +15568,7 @@
   "name": "Xiaomi Mi 10T Lite 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10t-lite-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_10t_lite_5g-10480.php",
-  "codenames": [
-   "gauguin"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -16067,9 +15658,7 @@
   "name": "Xiaomi Redmi 9AT",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9a-1.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_9at-10591.php",
-  "codenames": [
-   "dandelion"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -16145,9 +15734,7 @@
   "name": "Xiaomi Redmi 9i",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9a-1.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_9i-10399.php",
-  "codenames": [
-   "dandelion"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -16221,9 +15808,7 @@
   "name": "Xiaomi Poco M2",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m2-mzb9921in.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_m2-10434.php",
-  "codenames": [
-   "shiva"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -16294,7 +15879,7 @@
     "Colors": "Brick Red, Pitch Black, Slate Blue",
     "Models": "MZB9919IN, M2004J19PI",
     "SAR": "0.85 W/kg (head)     0.42 W/kg (body)",
-    "Price": "₹ 7,564"
+    "Price": "₹ 7,850"
    }
   }
  },
@@ -16302,9 +15887,7 @@
   "name": "Xiaomi Poco X3",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x3.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_x3-10461.php",
-  "codenames": [
-   "karna"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -16376,7 +15959,7 @@
     "Colors": "Cobalt Blue, Shadow Gray",
     "Models": "MZB07Z0IN, MZB07Z1IN, MZB07Z2IN, MZB07Z3IN, MZB07Z4IN, MZB9965IN, M2007J20CI",
     "SAR": "0.75 W/kg (head)     0.61 W/kg (body)",
-    "Price": "€ 224.00 / ₹ 10,999"
+    "Price": "€ 224.00 / ₹ 9,990"
    }
   }
  },
@@ -16384,9 +15967,7 @@
   "name": "Xiaomi Poco X3 NFC",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x3-nfc.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_x3_nfc-10415.php",
-  "codenames": [
-   "surya"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -16459,7 +16040,7 @@
     "Models": "M2007J20CG, M2007J20CT",
     "SAR": "0.77 W/kg (head)     0.61 W/kg (body)",
     "SAR EU": "0.56 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 269.99 / € 112.00"
+    "Price": "$ 269.99 / € 142.00"
    },
    "Tests": {
     "Performance": "AnTuTu: 283750 (v8)\nGeekBench: 1777 (v5.1)\nGFXBench: 16fps (ES 3.1 onscreen)",
@@ -16475,9 +16056,7 @@
   "name": "Xiaomi Redmi 9 (India)",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9-india.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_9_(india)-10398.php",
-  "codenames": [
-   "cattail"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -16553,9 +16132,7 @@
   "name": "Xiaomi Mi 10 Ultra",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi10-ultra.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_10_ultra-10361.php",
-  "codenames": [
-   "cas"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -16643,9 +16220,7 @@
   "name": "Xiaomi Redmi K30 Ultra",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30-ultra.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k30_ultra-10349.php",
-  "codenames": [
-   "cezanne"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -16725,9 +16300,7 @@
   "name": "Xiaomi Redmi 9 Prime",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_9_prime-10353.php",
-  "codenames": [
-   "lancelot"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -16798,7 +16371,7 @@
     "Colors": "Space Blue, Mint Green, Matte Black, Sunrise Flare",
     "Models": "M2004J19PI",
     "SAR": "0.85 W/kg (head)     0.42 W/kg (body)",
-    "Price": "₹ 7,699"
+    "Price": "₹ 5,999"
    }
   }
  },
@@ -16806,9 +16379,7 @@
   "name": "Xiaomi Poco M2 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/poco-m2-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_m2_pro-10318.php",
-  "codenames": [
-   "gram"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -16886,9 +16457,7 @@
   "name": "Xiaomi Redmi 9A",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9a-1.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_9a-10279.php",
-  "codenames": [
-   "dandelion"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -16957,7 +16526,7 @@
     "Models": "M2006C3LG, M2006C3LI, M2006C3LC, M2004C3L",
     "SAR": "0.90 W/kg (head)     0.65 W/kg (body)",
     "SAR EU": "0.40 W/kg (head)     1.19 W/kg (body)",
-    "Price": "$ 69.00 / £ 72.00 / € 70.94 / ₹ 6,499"
+    "Price": "$ 69.00 / £ 72.00 / € 75.48"
    }
   }
  },
@@ -16965,9 +16534,7 @@
   "name": "Xiaomi Redmi 9C NFC",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9c-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_9c_nfc-10277.php",
-  "codenames": [
-   "angelican"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -17043,9 +16610,7 @@
   "name": "Xiaomi Redmi 9C",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9c-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_9c-10278.php",
-  "codenames": [
-   "angelica"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -17121,9 +16686,7 @@
   "name": "Xiaomi Redmi 9",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_9-10233.php",
-  "codenames": [
-   "lancelot"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -17194,7 +16757,7 @@
     "Models": "M2004J19G, M2004J19C",
     "SAR": "0.91 W/kg (head)     1.00 W/kg (body)",
     "SAR EU": "0.71 W/kg (head)     1.06 W/kg (body)",
-    "Price": "$ 127.35 / £ 107.81 / € 233.11 / ₹ 5,499"
+    "Price": "$ 127.35 / £ 103.31 / € 233.11 / ₹ 6,749"
    },
    "Tests": {
     "Performance": "AnTuTu: 201829 (v8)\nGeekBench: 1325 (v5.1)",
@@ -17210,9 +16773,7 @@
   "name": "Xiaomi Redmi 10X Pro 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10x-pro-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_10x_pro_5g-10267.php",
-  "codenames": [
-   "bomb"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE / 5G",
@@ -17293,9 +16854,7 @@
   "name": "Xiaomi Redmi 10X 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10x-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_10x_5g-10266.php",
-  "codenames": [
-   "atom"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE / 5G",
@@ -17375,9 +16934,7 @@
   "name": "Xiaomi Redmi 10X 4G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10x-4g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_10x_4g-10202.php",
-  "codenames": [
-   "merlin"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -17454,9 +17011,7 @@
   "name": "Xiaomi Redmi K30i 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30i-5g-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k30i_5g-10200.php",
-  "codenames": [
-   "picasso48m"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -17534,9 +17089,7 @@
   "name": "Xiaomi Poco F2 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f2-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_f2_pro-10220.php",
-  "codenames": [
-   "lmi"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -17609,7 +17162,7 @@
     "Models": "M2004J11G",
     "SAR": "1.09 W/kg (head)     0.51 W/kg (body)",
     "SAR EU": "0.79 W/kg (head)     1.03 W/kg (body)",
-    "Price": "£ 455.22 / € 266.67"
+    "Price": "£ 455.37 / € 269.40"
    },
    "Tests": {
     "Performance": "AnTuTu: 538221 (v8)\nGeekBench: 3332 (v5.1)\nGFXBench: 40fps (ES 3.1 onscreen)",
@@ -17625,9 +17178,7 @@
   "name": "Xiaomi Redmi K30 5G Racing",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30-5g-racing-edition1.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k30_5g_racing-10235.php",
-  "codenames": [
-   "picasso"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -17705,9 +17256,7 @@
   "name": "Xiaomi Redmi Note 9 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-9-pro-global-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_9_pro-10217.php",
-  "codenames": [
-   "joyeuse"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -17778,7 +17327,7 @@
     "Models": "M2003J6B2G",
     "SAR": "0.87 W/kg (head)     0.71 W/kg (body)",
     "SAR EU": "0.66 W/kg (head)     1.02 W/kg (body)",
-    "Price": "$ 199.99 / £ 121.95 / € 117.99"
+    "Price": "$ 199.99 / £ 121.95 / € 114.76"
    },
    "Tests": {
     "Performance": "AnTuTu: 279625 (v8)\nGeekBench: 1785 (v5.1)\nGFXBench: 15fps (ES 3.1 onscreen)",
@@ -17794,10 +17343,7 @@
   "name": "Xiaomi Redmi Note 9",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-9.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_9-10192.php",
-  "codenames": [
-   "merlin",
-   "merlinnfc"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -17868,7 +17414,7 @@
     "Models": "M2003J15SC, M2003J15SG, M2003J15SS",
     "SAR": "0.84 W/kg (head)     0.90 W/kg (body)",
     "SAR EU": "0.80 W/kg (head)     1.14 W/kg (body)",
-    "Price": "$ 104.40 / £ 109.00 / € 96.69 / ₹ 8,139"
+    "Price": "$ 99.76 / £ 109.00 / € 90.92 / ₹ 8,139"
    },
    "Tests": {
     "Performance": "AnTuTu: 200414 (v8)\nGeekBench: 1292 (v5.1)",
@@ -17884,9 +17430,7 @@
   "name": "Xiaomi Mi Note 10 Lite",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-note-10-lite-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_note_10_lite-10183.php",
-  "codenames": [
-   "toco"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -17974,9 +17518,7 @@
   "name": "Xiaomi Mi 10 Youth 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10-youth-5g-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_10_youth_5g-10207.php",
-  "codenames": [
-   "vangogh"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -18056,9 +17598,7 @@
   "name": "Xiaomi Mi 10 Lite 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi10-lite-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_10_lite_5g-10159.php",
-  "codenames": [
-   "monet"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -18146,9 +17686,7 @@
   "name": "Xiaomi Redmi K30 Pro Zoom",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30-pro-zoom.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k30_pro_zoom-10150.php",
-  "codenames": [
-   "lmipro"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -18227,9 +17765,7 @@
   "name": "Xiaomi Redmi K30 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k30_pro-10140.php",
-  "codenames": [
-   "lmi"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -18309,9 +17845,7 @@
   "name": "Xiaomi Redmi Note 9S",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-9-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_9s-10147.php",
-  "codenames": [
-   "curtana"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -18383,7 +17917,7 @@
     "Models": "M2003J6A1G",
     "SAR": "0.96 W/kg (head)     0.40 W/kg (body)",
     "SAR EU": "0.72 W/kg (head)     0.98 W/kg (body)",
-    "Price": "£ 107.78 / € 107.99"
+    "Price": "£ 101.93 / € 109.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 254000 (v8)\nGeekBench: 1785 (v5.1)\nGFXBench: 15fps (ES 3.1 onscreen)",
@@ -18399,9 +17933,7 @@
   "name": "Xiaomi Redmi Note 9 Pro Max",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-9-pro-max.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_9_pro_max-10126.php",
-  "codenames": [
-   "excalibur"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -18480,9 +18012,7 @@
   "name": "Xiaomi Redmi Note 9 Pro (India)",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-9-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_9_pro_(india)-10120.php",
-  "codenames": [
-   "curtana"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -18567,9 +18097,7 @@
   "name": "Xiaomi Mi 10 Pro 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10-pro-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_10_pro_5g-10055.php",
-  "codenames": [
-   "cmi"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -18660,9 +18188,7 @@
   "name": "Xiaomi Mi 10 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_10_5g-10082.php",
-  "codenames": [
-   "umi"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -18737,7 +18263,7 @@
     "Models": "M2001J2G, M2001J2I, Mi 10",
     "SAR": "1.09 W/kg (head)     1.02 W/kg (body)",
     "SAR EU": "0.69 W/kg (head)     0.99 W/kg (body)",
-    "Price": "£ 296.26 / € 177.99"
+    "Price": "£ 273.22 / € 173.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 578056 (v8)\nGeekBench: 3322 (v5.1)\nGFXBench: 42fps (ES 3.1 onscreen)",
@@ -18753,9 +18279,7 @@
   "name": "Xiaomi Redmi 8A Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-8a-dual.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_8a_pro-10169.php",
-  "codenames": [
-   "olivewood"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -18831,9 +18355,7 @@
   "name": "Xiaomi Redmi 8A Dual",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-8a-dual.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_8a_dual-10078.php",
-  "codenames": [
-   "olivewood"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -18911,9 +18433,7 @@
   "name": "Xiaomi Poco X2",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x2.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_x2-10050.php",
-  "codenames": [
-   "phoenixin"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -18993,9 +18513,7 @@
   "name": "Xiaomi Redmi K30",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k30-9991.php",
-  "codenames": [
-   "phoenix"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
@@ -19082,9 +18600,7 @@
   "name": "Xiaomi Redmi K30 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k30-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k30_5g-9979.php",
-  "codenames": [
-   "picasso"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
@@ -19163,9 +18679,7 @@
   "name": "Xiaomi Redmi Note 8T",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-8t.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_8t-9946.php",
-  "codenames": [
-   "willow"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -19253,9 +18767,7 @@
   "name": "Xiaomi Mi Note 10 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-note10-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_note_10_pro-9945.php",
-  "codenames": [
-   "tucana"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -19336,9 +18848,7 @@
   "name": "Xiaomi Mi Note 10",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-note10-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_note_10-9936.php",
-  "codenames": [
-   "tucana"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -19428,9 +18938,7 @@
   "name": "Xiaomi Mi CC9 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-cc9-pro-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_cc9_pro-9935.php",
-  "codenames": [
-   "tucana"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -19515,9 +19023,7 @@
   "name": "Xiaomi Redmi 8",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-8.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_8-9800.php",
-  "codenames": [
-   "olive"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -19598,9 +19104,7 @@
   "name": "Xiaomi Redmi 8A",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-8a.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_8a-9897.php",
-  "codenames": [
-   "olivelite"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -19684,9 +19188,7 @@
   "name": "Xiaomi Mi Mix Alpha",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix-alpha.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_mix_alpha-9893.php",
-  "codenames": [
-   "draco"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE / 5G",
@@ -19763,9 +19265,7 @@
   "name": "Xiaomi Mi 9 Pro 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9-pro-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_9_pro_5g-9892.php",
-  "codenames": [
-   "crux"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE / 5G",
@@ -19843,9 +19343,7 @@
   "name": "Xiaomi Mi 9 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_9_pro-9891.php",
-  "codenames": [
-   "crux"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -19922,9 +19420,7 @@
   "name": "Xiaomi Redmi K20 Pro Premium",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k20pro-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k20_pro_premium-9884.php",
-  "codenames": [
-   "raphaels"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -20001,9 +19497,7 @@
   "name": "Xiaomi Mi 9 Lite",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-cc9-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_9_lite-9862.php",
-  "codenames": [
-   "pyxis"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -20091,10 +19585,7 @@
   "name": "Xiaomi Redmi Note 8 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-8-pro-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_8_pro-9812.php",
-  "codenames": [
-   "begoniain",
-   "begonia"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -20182,9 +19673,7 @@
   "name": "Xiaomi Mi A3",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-a3.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_a3-9769.php",
-  "codenames": [
-   "laurel_sprout"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -20272,9 +19761,7 @@
   "name": "Xiaomi Redmi 7A",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-7a-mzb8008in.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_7a-9716.php",
-  "codenames": [
-   "pine"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -20353,9 +19840,7 @@
   "name": "Xiaomi Mi CC9e",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-cc9e-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_cc9e-9759.php",
-  "codenames": [
-   "laurus"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -20432,9 +19917,7 @@
   "name": "Xiaomi Mi CC9",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-cc9-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_cc9-9749.php",
-  "codenames": [
-   "pyxis"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -20511,9 +19994,7 @@
   "name": "Xiaomi Redmi Note 8",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-8-1.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_8-9814.php",
-  "codenames": [
-   "ginkgo"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -20602,9 +20083,7 @@
   "name": "Xiaomi Mi 9T Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9t.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_9t_pro-9791.php",
-  "codenames": [
-   "raphael"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -20691,9 +20170,7 @@
   "name": "Xiaomi Mi 9T",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9t.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_9t-9738.php",
-  "codenames": [
-   "davinci"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -20781,10 +20258,7 @@
   "name": "Xiaomi Redmi K20",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k20pro-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k20-9720.php",
-  "codenames": [
-   "davinci",
-   "davinciin"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -20862,10 +20336,7 @@
   "name": "Xiaomi Redmi K20 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k20pro-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_k20_pro-9708.php",
-  "codenames": [
-   "raphael",
-   "raphaelin"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -20952,9 +20423,7 @@
   "name": "Xiaomi Redmi Note 7S",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-7s.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_7s-9707.php",
-  "codenames": [
-   "lavender"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -21032,9 +20501,7 @@
   "name": "Xiaomi Redmi Y3",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-y3.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_y3-9674.php",
-  "codenames": [
-   "onc"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -21118,9 +20585,7 @@
   "name": "Xiaomi Redmi 7",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-7.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_7-9498.php",
-  "codenames": [
-   "onclite"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -21205,9 +20670,7 @@
   "name": "Xiaomi Redmi Note 7 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-7-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_7_pro-9521.php",
-  "codenames": [
-   "violet"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -21289,9 +20752,7 @@
   "name": "Xiaomi Mi Mix 3 5G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix3.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_mix_3_5g-9602.php",
-  "codenames": [
-   "andromeda"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -21371,9 +20832,7 @@
   "name": "Xiaomi Mi 9 Explorer",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9-explore.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_9_explorer-9584.php",
-  "codenames": [
-   "cepheus"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -21450,9 +20909,7 @@
   "name": "Xiaomi Mi 9 SE",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9-se.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_9_se-9583.php",
-  "codenames": [
-   "grus"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -21542,9 +20999,7 @@
   "name": "Xiaomi Mi 9",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_9-9507.php",
-  "codenames": [
-   "cepheus"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -21634,9 +21089,7 @@
   "name": "Xiaomi Redmi Go",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-go.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_go-9534.php",
-  "codenames": [
-   "tiare"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -21711,9 +21164,7 @@
   "name": "Xiaomi Redmi Note 7",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-7.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_7-9513.php",
-  "codenames": [
-   "lavender"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -21802,9 +21253,7 @@
   "name": "Xiaomi Mi Play",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-miplay.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_play-9499.php",
-  "codenames": [
-   "lotus"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -21880,9 +21329,7 @@
   "name": "Xiaomi Mi Mix 3",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix3.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_mix_3-9378.php",
-  "codenames": [
-   "perseus"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
@@ -21970,9 +21417,7 @@
   "name": "Xiaomi Redmi Note 6 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-6-pro-r.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_6_pro-9333.php",
-  "codenames": [
-   "tulip"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -22061,9 +21506,7 @@
   "name": "Xiaomi Mi 8 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-8-pro-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_8_pro-9336.php",
-  "codenames": [
-   "equuleus"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -22140,9 +21583,7 @@
   "name": "Xiaomi Mi 8 Lite",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-8-lite-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_8_lite-9329.php",
-  "codenames": [
-   "platina"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -22228,9 +21669,7 @@
   "name": "Xiaomi Pocophone F1",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pocophone-f1-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_pocophone_f1-9293.php",
-  "codenames": [
-   "beryllium"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -22317,10 +21756,7 @@
   "name": "Xiaomi Mi A2 (Mi 6X)",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-a2-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_a2_(mi_6x)-9140.php",
-  "codenames": [
-   "jasmine",
-   "wayne"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -22406,9 +21842,7 @@
   "name": "Xiaomi Mi A2 Lite (Redmi 6 Pro)",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-a2-lite.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_a2_lite_(redmi_6_pro)-9247.php",
-  "codenames": [
-   "daisy"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -22496,9 +21930,7 @@
   "name": "Xiaomi Mi Max 3",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-max3-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_max_3-8963.php",
-  "codenames": [
-   "nitrogen"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
@@ -22585,9 +22017,7 @@
   "name": "Xiaomi Mi Pad 4 Plus",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-pad-4-plus.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_pad_4_plus-9295.php",
-  "codenames": [
-   "clover"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "LTE",
@@ -22661,9 +22091,7 @@
   "name": "Xiaomi Mi Pad 4",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-pad-4.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_pad_4-9249.php",
-  "codenames": [
-   "clover"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "LTE",
@@ -22737,9 +22165,7 @@
   "name": "Xiaomi Redmi 6",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-6.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_6-9237.php",
-  "codenames": [
-   "cereus"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -22818,9 +22244,7 @@
   "name": "Xiaomi Redmi 6A",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-6a.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_6a-9217.php",
-  "codenames": [
-   "cactus"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -22900,9 +22324,7 @@
   "name": "Xiaomi Mi 8 Explorer",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi8-explore-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_8_explorer-9218.php",
-  "codenames": [
-   "ursa"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -22976,9 +22398,7 @@
   "name": "Xiaomi Mi 8",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi8.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_8-9065.php",
-  "codenames": [
-   "dipper"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -23065,9 +22485,7 @@
   "name": "Xiaomi Mi 8 SE",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi8-se.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_8_se-9219.php",
-  "codenames": [
-   "sirius"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -23151,9 +22569,7 @@
   "name": "Xiaomi Redmi S2 (Redmi Y2)",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-s2-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_s2_(redmi_y2)-9185.php",
-  "codenames": [
-   "ysl"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -23240,9 +22656,7 @@
   "name": "Xiaomi Mi Mix 2S",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix-2s.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_mix_2s-9067.php",
-  "codenames": [
-   "polaris"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
@@ -23327,9 +22741,7 @@
   "name": "Xiaomi Redmi Note 5 AI Dual Camera",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-5-ai-dual-camera.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_5_ai_dual_camera-9120.php",
-  "codenames": [
-   "whyred"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -23417,9 +22829,7 @@
   "name": "Xiaomi Redmi Note 5 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-5-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_5_pro-8893.php",
-  "codenames": [
-   "whyred"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -23501,9 +22911,7 @@
   "name": "Xiaomi Redmi 5 Plus (Redmi Note 5)",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-5-plus.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_5_plus_(redmi_note_5)-8959.php",
-  "codenames": [
-   "vince"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -23589,9 +22997,7 @@
   "name": "Xiaomi Redmi 5",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-5.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_5-8768.php",
-  "codenames": [
-   "rosy"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -23678,9 +23084,7 @@
   "name": "Xiaomi Redmi 5A",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-5a.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_5a-8898.php",
-  "codenames": [
-   "riva"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -23756,9 +23160,7 @@
   "name": "Xiaomi Redmi Y1 (Note 5A)",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-5a.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_y1_(note_5a)-8753.php",
-  "codenames": [
-   "ugg"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -23846,9 +23248,7 @@
   "name": "Xiaomi Redmi Y1 Lite",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-5as.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_y1_lite-8818.php",
-  "codenames": [
-   "ugglite"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -23927,9 +23327,7 @@
   "name": "Xiaomi Mi Note 3",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-note3-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_note_3-8707.php",
-  "codenames": [
-   "jason"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
@@ -24008,9 +23406,7 @@
   "name": "Xiaomi Mi Mix 2",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix2-new.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_mix_2-8529.php",
-  "codenames": [
-   "chiron"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
@@ -24096,10 +23492,7 @@
   "name": "Xiaomi Mi A1 (Mi 5X)",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-a1.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_a1_(mi_5x)-8776.php",
-  "codenames": [
-   "tissot",
-   "tiffany"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -24185,9 +23578,7 @@
   "name": "Xiaomi Mi Max 2",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-max2.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_max_2-8582.php",
-  "codenames": [
-   "oxygen"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
@@ -24274,11 +23665,7 @@
   "name": "Xiaomi Redmi 4 (4X)",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-4x.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_4_(4x)-8608.php",
-  "codenames": [
-   "markw",
-   "prada",
-   "santoni"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -24366,9 +23753,7 @@
   "name": "Xiaomi Mi 6",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-6.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_6-8507.php",
-  "codenames": [
-   "sagit"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -24454,9 +23839,7 @@
   "name": "Xiaomi Mi Pad 3",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-pad-3-1.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_pad_3-8477.php",
-  "codenames": [
-   "cappu"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "No cellular connectivity",
@@ -24527,9 +23910,7 @@
   "name": "Xiaomi Mi 5c",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-5c.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_5c-8439.php",
-  "codenames": [
-   "meri"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / LTE",
@@ -24604,10 +23985,7 @@
   "name": "Xiaomi Redmi Note 4X",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-4x.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_4x-8580.php",
-  "codenames": [
-   "mido",
-   "nikel"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -24682,10 +24060,7 @@
   "name": "Xiaomi Redmi Note 4",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-4-sn.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_4-8531.php",
-  "codenames": [
-   "mido",
-   "nikel"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -24770,9 +24145,7 @@
   "name": "Xiaomi Redmi 4A",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-4a-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_4a-8420.php",
-  "codenames": [
-   "rolex"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -24852,9 +24225,7 @@
   "name": "Xiaomi Redmi 4 (China)",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-4-prime-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_4_(china)-8419.php",
-  "codenames": [
-   "santoni"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
@@ -24928,9 +24299,7 @@
   "name": "Xiaomi Redmi 4 Prime",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-4-prime-new.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_4_prime-8263.php",
-  "codenames": [
-   "markw"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
@@ -25010,9 +24379,7 @@
   "name": "Xiaomi Mi Mix",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mix-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_mix-8400.php",
-  "codenames": [
-   "lithium"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -25094,9 +24461,7 @@
   "name": "Xiaomi Mi Note 2",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-note2-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_note_2-8014.php",
-  "codenames": [
-   "scorpio"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -25181,9 +24546,7 @@
   "name": "Xiaomi Mi 5s Plus",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-5s-plus.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_5s_plus-8350.php",
-  "codenames": [
-   "natrium"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
@@ -25268,9 +24631,7 @@
   "name": "Xiaomi Mi 5s",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-5s1.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_5s-7260.php",
-  "codenames": [
-   "capricorn"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
@@ -25356,9 +24717,7 @@
   "name": "Xiaomi Redmi Note 4 (MediaTek)",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-4.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_4_(mediatek)-8291.php",
-  "codenames": [
-   "nikel"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -25440,9 +24799,7 @@
   "name": "Xiaomi Redmi Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_pro-8233.php",
-  "codenames": [
-   "omega"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
@@ -25521,9 +24878,7 @@
   "name": "Xiaomi Redmi 3x",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-3x.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_3x-8212.php",
-  "codenames": [
-   "land"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
@@ -25598,9 +24953,7 @@
   "name": "Xiaomi Redmi 3s Prime",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-3-pro-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_3s_prime-8250.php",
-  "codenames": [
-   "land"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -25682,9 +25035,7 @@
   "name": "Xiaomi Redmi 3s",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-3s.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_3s-8150.php",
-  "codenames": [
-   "land"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -25770,10 +25121,7 @@
   "name": "Xiaomi Redmi 3 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-3-pro-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_3_pro-8007.php",
-  "codenames": [
-   "ido",
-   "ido_xhdpi"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
@@ -25858,10 +25206,7 @@
   "name": "Xiaomi Mi Max",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-max-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_max-8057.php",
-  "codenames": [
-   "hydrogen",
-   "helium"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
@@ -25947,9 +25292,7 @@
   "name": "Xiaomi Mi 5",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-5.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_5-6948.php",
-  "codenames": [
-   "gemini"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / EVDO / LTE",
@@ -26036,9 +25379,7 @@
   "name": "Xiaomi Mi 4s",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-4s.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_4s-7962.php",
-  "codenames": [
-   "aqua"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / LTE",
@@ -26121,10 +25462,7 @@
   "name": "Xiaomi Redmi Note 3",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-3.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_3-7863.php",
-  "codenames": [
-   "kenzo",
-   "kate"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -26212,10 +25550,7 @@
   "name": "Xiaomi Redmi 3",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-3-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_3-7862.php",
-  "codenames": [
-   "ido",
-   "ido_xhdpi"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
@@ -26298,9 +25633,7 @@
   "name": "Xiaomi Redmi Note Prime",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-prime-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_prime-7822.php",
-  "codenames": [
-   "gucci"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -26376,9 +25709,7 @@
   "name": "Xiaomi Mi Pad 2",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-pad-2.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_pad_2-7770.php",
-  "codenames": [
-   "latte"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "No cellular connectivity",
@@ -26450,9 +25781,7 @@
   "name": "Xiaomi Redmi Note 3 (MediaTek)",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-3.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_3_(mediatek)-7769.php",
-  "codenames": [
-   "hennessy"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -26539,9 +25868,7 @@
   "name": "Xiaomi Mi 4c",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-4c.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_4c-7512.php",
-  "codenames": [
-   "libra"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -26626,9 +25953,7 @@
   "name": "Xiaomi Redmi Note 2",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-2--.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_2-6992.php",
-  "codenames": [
-   "hermes"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -26717,9 +26042,7 @@
   "name": "Xiaomi Redmi 2 Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-2-prime-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_2_pro-7710.php",
-  "codenames": [
-   "HM2014819"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -26792,9 +26115,7 @@
   "name": "Xiaomi Redmi 2 Prime",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-2-prime-.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_2_prime-7480.php",
-  "codenames": [
-   "wt86047"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -26869,9 +26190,7 @@
   "name": "Xiaomi Mi 4i",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi4i.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_4i-7211.php",
-  "codenames": [
-   "ferrari"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -26957,9 +26276,7 @@
   "name": "Xiaomi Mi Note Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-note-pro2.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_note_pro-6952.php",
-  "codenames": [
-   "leo"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -27033,9 +26350,7 @@
   "name": "Xiaomi Mi Note",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-note-2015.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_note-6944.php",
-  "codenames": [
-   "virgo"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -27119,10 +26434,7 @@
   "name": "Xiaomi Redmi 2A",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-2.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_2a-7159.php",
-  "codenames": [
-   "lte26007",
-   "wt86047"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -27194,10 +26506,7 @@
   "name": "Xiaomi Redmi 2",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-2.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_2-6884.php",
-  "codenames": [
-   "wt88047",
-   "wt86047"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -27283,10 +26592,7 @@
   "name": "Xiaomi Mi 4 LTE",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-4-lte.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_4_lte-6866.php",
-  "codenames": [
-   "cancro",
-   "cancro_lte_ct"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -27359,9 +26665,7 @@
   "name": "Xiaomi Redmi Note 4G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-4g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note_4g-6561.php",
-  "codenames": [
-   "dior"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA / LTE",
@@ -27436,9 +26740,7 @@
   "name": "Xiaomi Mi 4",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-4.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_4-6518.php",
-  "codenames": [
-   "cancro"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
@@ -27526,9 +26828,7 @@
   "name": "Xiaomi Mi Pad 7.9",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-pad-79.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_pad_7_9-6365.php",
-  "codenames": [
-   "mocha"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "No cellular connectivity",
@@ -27604,12 +26904,7 @@
   "name": "Xiaomi Redmi Note",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-new.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_note-6217.php",
-  "codenames": [
-   "dior",
-   "lcsh92_wet_jb9",
-   "lcsh92_wet_gb9",
-   "lcsh92_wet_xm_td"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA",
@@ -27691,10 +26986,7 @@
   "name": "Xiaomi Mi 3",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi3.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_3-5678.php",
-  "codenames": [
-   "cancro",
-   "pisces"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA",
@@ -27778,11 +27070,7 @@
   "name": "Xiaomi Redmi 1S",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/Xiaomi-Hongmi-Redmi-1s.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_1s-6373.php",
-  "codenames": [
-   "wt93807",
-   "armani",
-   "wt96007"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA",
@@ -27864,9 +27152,7 @@
   "name": "Xiaomi Redmi",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-hongmi.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi-5609.php",
-  "codenames": [
-   "HM2013023"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA",
@@ -27936,9 +27222,7 @@
   "name": "Xiaomi Mi 2A",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi2a.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_2a-5646.php",
-  "codenames": [
-   "taurus"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA",
@@ -28006,9 +27290,7 @@
   "name": "Xiaomi Mi 2S",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi2s.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_2s-5397.php",
-  "codenames": [
-   "aries"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA",
@@ -28080,9 +27362,7 @@
   "name": "Xiaomi Mi 2",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi2.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_2-4928.php",
-  "codenames": [
-   "aries"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA",
@@ -28150,9 +27430,7 @@
   "name": "Xiaomi Mi 1S",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi1.jpg",
   "url": "https://www.gsmarena.com/xiaomi_mi_1s-4929.php",
-  "codenames": [
-   "mione_plus"
-  ],
+  "codenames": [],
   "specs": {
    "Network": {
     "Technology": "GSM / HSPA",

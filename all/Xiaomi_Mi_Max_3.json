@@ -2,9 +2,7 @@
  "name": "Xiaomi Mi Max 3",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-max3-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_max_3-8963.php",
- "codenames": [
-  "nitrogen"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",

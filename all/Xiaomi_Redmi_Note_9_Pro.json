@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi Note 9 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-9-pro-global-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_9_pro-10217.php",
- "codenames": [
-  "joyeuse"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -75,7 +73,7 @@
    "Models": "M2003J6B2G",
    "SAR": "0.87 W/kg (head)     0.71 W/kg (body)",
    "SAR EU": "0.66 W/kg (head)     1.02 W/kg (body)",
-   "Price": "$ 199.99 / £ 121.95 / € 117.99"
+   "Price": "$ 199.99 / £ 121.95 / € 114.76"
   },
   "Tests": {
    "Performance": "AnTuTu: 279625 (v8)\nGeekBench: 1785 (v5.1)\nGFXBench: 15fps (ES 3.1 onscreen)",

@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi Note 10 Pro Max",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10-pro-india.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_10_pro_max-10770.php",
- "codenames": [
-  "sweetin"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

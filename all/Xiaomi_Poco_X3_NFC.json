@@ -2,9 +2,7 @@
  "name": "Xiaomi Poco X3 NFC",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x3-nfc.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_x3_nfc-10415.php",
- "codenames": [
-  "surya"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -77,7 +75,7 @@
    "Models": "M2007J20CG, M2007J20CT",
    "SAR": "0.77 W/kg (head)     0.61 W/kg (body)",
    "SAR EU": "0.56 W/kg (head)     0.99 W/kg (body)",
-   "Price": "$ 269.99 / € 112.00"
+   "Price": "$ 269.99 / € 142.00"
   },
   "Tests": {
    "Performance": "AnTuTu: 283750 (v8)\nGeekBench: 1777 (v5.1)\nGFXBench: 16fps (ES 3.1 onscreen)",

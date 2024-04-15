@@ -2,9 +2,7 @@
  "name": "Xiaomi Poco X3 GT",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-10-pro-china-new.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_x3_gt-10949.php",
- "codenames": [
-  "chopin"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

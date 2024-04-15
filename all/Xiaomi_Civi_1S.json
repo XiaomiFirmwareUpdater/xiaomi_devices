@@ -2,9 +2,7 @@
  "name": "Xiaomi Civi 1S",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-civi-1s.jpg",
  "url": "https://www.gsmarena.com/xiaomi_civi_1s-11487.php",
- "codenames": [
-  "zijin"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",

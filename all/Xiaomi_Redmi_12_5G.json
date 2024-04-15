@@ -2,10 +2,7 @@
  "name": "Xiaomi Redmi 12 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-12-5g-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_12_5g-12446.php",
- "codenames": [
-  "sky",
-  "river"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",
@@ -78,7 +75,7 @@
   "Misc": {
    "Colors": "Jade Black, Pastel Blue, Moonstone Silver",
    "Models": "23076RN4BI, 23076RN8DY",
-   "Price": "£ 120.60 / € 139.07 / ₹ 11,790"
+   "Price": "£ 140.86 / € 142.57 / ₹ 11,999"
   }
  }
 }

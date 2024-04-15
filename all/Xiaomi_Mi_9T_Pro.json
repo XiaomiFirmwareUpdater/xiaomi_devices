@@ -2,9 +2,7 @@
  "name": "Xiaomi Mi 9T Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9t.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_9t_pro-9791.php",
- "codenames": [
-  "raphael"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

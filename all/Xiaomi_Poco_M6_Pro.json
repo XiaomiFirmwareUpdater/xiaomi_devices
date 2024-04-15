@@ -2,9 +2,7 @@
  "name": "Xiaomi Poco M6 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m6-pro-4g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_m6_pro-12779.php",
- "codenames": [
-  "emerald"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

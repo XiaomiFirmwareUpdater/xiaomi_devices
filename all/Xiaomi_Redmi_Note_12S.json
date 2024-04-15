@@ -2,10 +2,7 @@
  "name": "Xiaomi Redmi Note 12S",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12s.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_12s-12218.php",
- "codenames": [
-  "ocean",
-  "sea"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -70,7 +67,7 @@
   "Misc": {
    "Colors": "Onyx Black, Ice Blue, Pearl Green",
    "Models": "2303CRA44A, 23030RAC7Y, 2303ERA42L",
-   "Price": "$ 189.50 / £ 184.82 / € 165.67"
+   "Price": "$ 189.50 / £ 184.82 / € 163.77"
   }
  }
 }

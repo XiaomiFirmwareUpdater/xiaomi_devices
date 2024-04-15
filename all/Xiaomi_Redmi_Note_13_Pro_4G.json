@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi Note 13 Pro 4G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13-pro-4g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_13_pro_4g-12749.php",
- "codenames": [
-  "emerald"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -74,7 +72,7 @@
   "Misc": {
    "Colors": "Midnight Black, Lavender Purple, Forest Green",
    "Models": "23117RA68G, 2312FPCA6G",
-   "Price": "$ 216.99 / £ 285.99 / € 249.60"
+   "Price": "$ 216.99 / £ 285.99 / € 244.29"
   },
   "Tests": {
    "Performance": "AnTuTu: 382881 (v9), 428545 (v10)\nGeekBench: 1844 (v5), 1942 (v6)\nGFXBench ES 3.1: 15fps (offscreen 1080p)",

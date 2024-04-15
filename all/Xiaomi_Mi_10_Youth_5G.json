@@ -2,9 +2,7 @@
  "name": "Xiaomi Mi 10 Youth 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10-youth-5g-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_10_youth_5g-10207.php",
- "codenames": [
-  "vangogh"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

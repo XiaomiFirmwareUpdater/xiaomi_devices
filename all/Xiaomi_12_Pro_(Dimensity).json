@@ -2,9 +2,7 @@
  "name": "Xiaomi 12 Pro (Dimensity)",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12-pro-dimensity.jpg",
  "url": "https://www.gsmarena.com/xiaomi_12_pro_(dimensity)-11652.php",
- "codenames": [
-  "daumier"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi 10 Prime",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_10_prime-11079.php",
- "codenames": [
-  "selene"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

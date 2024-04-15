@@ -2,10 +2,7 @@
  "name": "Xiaomi Redmi 13C",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-13c.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_13c-12689.php",
- "codenames": [
-  "gale",
-  "gust"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -73,7 +70,7 @@
   "Misc": {
    "Colors": "Midnight Black, Navy Blue, Glacier White, Clover Green",
    "Models": "23100RN82L, 23106RN0DA, 23108RN04Y, 2311DRN14I",
-   "Price": "$ 109.00 / C$ 328.19 / £ 100.43 / € 112.99 / ₹ 7,699"
+   "Price": "$ 109.00 / C$ 328.18 / £ 109.06 / € 108.00 / ₹ 7,699"
   }
  }
 }

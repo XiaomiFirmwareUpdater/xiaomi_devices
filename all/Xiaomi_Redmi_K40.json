@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi K40",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k40.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_k40-10728.php",
- "codenames": [
-  "alioth"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",

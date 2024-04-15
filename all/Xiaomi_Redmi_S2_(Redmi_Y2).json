@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi S2 (Redmi Y2)",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-s2-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_s2_(redmi_y2)-9185.php",
- "codenames": [
-  "ysl"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / LTE",

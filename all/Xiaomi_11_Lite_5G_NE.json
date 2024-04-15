@@ -2,9 +2,7 @@
  "name": "Xiaomi 11 Lite 5G NE",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-11-lite-5g-ne.jpg",
  "url": "https://www.gsmarena.com/xiaomi_11_lite_5g_ne-11101.php",
- "codenames": [
-  "lisa"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

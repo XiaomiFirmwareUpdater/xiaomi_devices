@@ -2,9 +2,7 @@
  "name": "Xiaomi Mi 5",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-5.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_5-6948.php",
- "codenames": [
-  "gemini"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / EVDO / LTE",

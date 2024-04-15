@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi Note 7 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-7-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_7_pro-9521.php",
- "codenames": [
-  "violet"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

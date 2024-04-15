@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi 10X Pro 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10x-pro-5g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_10x_pro_5g-10267.php",
- "codenames": [
-  "bomb"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / LTE / 5G",

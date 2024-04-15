@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi 10X 4G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10x-4g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_10x_4g-10202.php",
- "codenames": [
-  "merlin"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / LTE",

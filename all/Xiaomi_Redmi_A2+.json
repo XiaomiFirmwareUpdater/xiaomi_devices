@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi A2+",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a2-plus.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_a2+-12197.php",
- "codenames": [
-  "water"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -70,7 +68,7 @@
   "Misc": {
    "Colors": "Aqua Blue, Classic Black, Sea Green",
    "Models": "23028RNCAG, 23028RN4DI, 23028RNCAI",
-   "Price": "$ 84.99 / £ 84.05 / € 79.00 / ₹ 7,299"
+   "Price": "$ 84.99 / £ 84.04 / € 79.00 / ₹ 7,499"
   }
  }
 }

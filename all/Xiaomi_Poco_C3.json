@@ -2,9 +2,7 @@
  "name": "Xiaomi Poco C3",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c3.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_c3-10482.php",
- "codenames": [
-  "angelicain"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -72,7 +70,7 @@
    "Colors": "Arctic Blue, Lime Green, Matte Black",
    "Models": "M2006C3MII, MZB07RIIN, MZB07RJIN, MZB07QAIN, MZB07RLIN, MZB07RKIN, MZB07RHIN",
    "SAR": "0.51 W/kg (head)     0.83 W/kg (body)",
-   "Price": "About 80 EUR"
+   "Price": "₹ 5,799"
   }
  }
 }

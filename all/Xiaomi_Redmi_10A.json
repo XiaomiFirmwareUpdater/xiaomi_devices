@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi 10A",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10a.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_10a-11449.php",
- "codenames": [
-  "dandelion"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / CDMA2000 / LTE",
@@ -72,7 +70,7 @@
    "Models": "220233L2C, 220233L2G, 220233L2I",
    "SAR": "0.90 W/kg (head)     0.65 W/kg (body)",
    "SAR EU": "0.40 W/kg (head)     0.99 W/kg (body)",
-   "Price": "$ 75.00 / £ 111.99 / € 85.72"
+   "Price": "$ 75.00 / £ 111.99 / € 86.40"
   }
  }
 }

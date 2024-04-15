@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi Note 9 Pro 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note9-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_9_pro_5g-10582.php",
- "codenames": [
-  "gauguinpro"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

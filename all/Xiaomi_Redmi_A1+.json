@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi A1+",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a1-plus-new.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_a1+-11909.php",
- "codenames": [
-  "snow"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -71,7 +69,7 @@
    "Models": "220733SFG",
    "SAR": "1.00 W/kg (head)     1.10 W/kg (body)",
    "SAR EU": "0.91 W/kg (head)     1.00 W/kg (body)",
-   "Price": "£ 74.98 / € 78.69 / ₹ 5,999"
+   "Price": "£ 74.84 / € 74.00 / ₹ 5,990"
   }
  }
 }

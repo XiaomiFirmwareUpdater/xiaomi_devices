@@ -2,10 +2,7 @@
  "name": "Xiaomi Redmi K20",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k20pro-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_k20-9720.php",
- "codenames": [
-  "davinci",
-  "davinciin"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

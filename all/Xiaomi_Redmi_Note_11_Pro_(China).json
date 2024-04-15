@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi Note 11 Pro (China)",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note11-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_11_pro_(china)-11159.php",
- "codenames": [
-  "pissarro"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

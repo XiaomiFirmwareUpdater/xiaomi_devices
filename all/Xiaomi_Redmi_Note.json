@@ -2,12 +2,7 @@
  "name": "Xiaomi Redmi Note",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-new.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note-6217.php",
- "codenames": [
-  "dior",
-  "lcsh92_wet_jb9",
-  "lcsh92_wet_gb9",
-  "lcsh92_wet_xm_td"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA",

@@ -2,10 +2,7 @@
  "name": "Xiaomi Poco M4 Pro 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m4-pro-5g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_m4_pro_5g-11193.php",
- "codenames": [
-  "evergreen",
-  "evergo"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",
@@ -79,7 +76,7 @@
    "Models": "21091116AG, MZB0BGVIN",
    "SAR": "1.07 W/kg (head)     1.09 W/kg (body)",
    "SAR EU": "0.59 W/kg (head)     1.00 W/kg (body)",
-   "Price": "$ 144.40 / £ 244.00 / € 184.09 / ₹ 10,499"
+   "Price": "$ 144.40 / £ 244.00 / € 184.09 / ₹ 9,999"
   },
   "Tests": {
    "Performance": "AnTuTu: 296721 (v8), 353663 (v9)\nGeekBench: 1797 (v5.1)\nGFXBench: 13fps (ES 3.1 onscreen)",

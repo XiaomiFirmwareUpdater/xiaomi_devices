@@ -2,10 +2,7 @@
  "name": "Xiaomi Redmi 2A",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-2.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_2a-7159.php",
- "codenames": [
-  "lte26007",
-  "wt86047"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

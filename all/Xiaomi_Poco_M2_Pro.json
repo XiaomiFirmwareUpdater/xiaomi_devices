@@ -2,9 +2,7 @@
  "name": "Xiaomi Poco M2 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/poco-m2-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_m2_pro-10318.php",
- "codenames": [
-  "gram"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

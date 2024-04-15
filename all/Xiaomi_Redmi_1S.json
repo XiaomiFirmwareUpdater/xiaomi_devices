@@ -2,11 +2,7 @@
  "name": "Xiaomi Redmi 1S",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/Xiaomi-Hongmi-Redmi-1s.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_1s-6373.php",
- "codenames": [
-  "wt93807",
-  "armani",
-  "wt96007"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA",

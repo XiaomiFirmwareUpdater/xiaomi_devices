@@ -2,9 +2,7 @@
  "name": "Xiaomi Mi Note 10 Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-note10-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_note_10_pro-9945.php",
- "codenames": [
-  "tucana"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

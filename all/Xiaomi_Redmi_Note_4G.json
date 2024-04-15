@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi Note 4G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-4g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_4g-6561.php",
- "codenames": [
-  "dior"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

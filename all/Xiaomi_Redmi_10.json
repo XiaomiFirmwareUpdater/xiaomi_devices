@@ -2,10 +2,7 @@
  "name": "Xiaomi Redmi 10",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_10-11060.php",
- "codenames": [
-  "selene",
-  "eos"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -74,7 +71,7 @@
   "Misc": {
    "Colors": "Carbon Gray, Pebble White, Sea Blue",
    "Models": "21061119AG, 21061119DG, 21061119AL",
-   "Price": "$ 111.70 / £ 109.96 / € 102.93 / ₹ 9,480"
+   "Price": "$ 99.99 / £ 109.96 / € 102.93 / ₹ 9,299"
   },
   "Tests": {
    "Display": "Contrast ratio: 1494:1",

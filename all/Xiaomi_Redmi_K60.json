@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi K60",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k60.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_k60-11975.php",
- "codenames": [
-  "mondrian"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",

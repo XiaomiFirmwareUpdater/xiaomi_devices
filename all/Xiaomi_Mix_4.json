@@ -2,9 +2,7 @@
  "name": "Xiaomi Mix 4",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix-4.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mix_4-11040.php",
- "codenames": [
-  "odin"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

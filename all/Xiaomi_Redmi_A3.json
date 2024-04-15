@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi A3",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a3.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_a3-12822.php",
- "codenames": [
-  "blue"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -72,7 +70,7 @@
   "Misc": {
    "Colors": "Midnight Black, Forest Green (Olive Green), Star Blue (Lake Blue)",
    "Models": "23129RN51X",
-   "Price": "$ 120.03 / € 95.00 / ₹ 6,999"
+   "Price": "$ 120.03 / € 93.30 / ₹ 6,999"
   }
  }
 }

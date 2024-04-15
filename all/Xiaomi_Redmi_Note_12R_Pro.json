@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi Note 12R Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12r-pro-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_12r_pro-12245.php",
- "codenames": [
-  "sunstone"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",

@@ -2,10 +2,7 @@
  "name": "Xiaomi Redmi 12C",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-12c.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_12c-12051.php",
- "codenames": [
-  "earth",
-  "aether"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
@@ -72,7 +69,7 @@
   "Misc": {
    "Colors": "Graphite Gray, Ocean Blue, Mint Green, Lavender Purple",
    "Models": "22120RN86G, 22120RN86I, 22126RN91Y, 2212ARNC4L",
-   "Price": "$ 95.99 / £ 90.95 / € 89.99"
+   "Price": "$ 95.99 / £ 88.44 / € 89.99"
   }
  }
 }

@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi 10 Power",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10-power-.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_10_power-11486.php",
- "codenames": [
-  "fog"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

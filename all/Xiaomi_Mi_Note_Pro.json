@@ -2,9 +2,7 @@
  "name": "Xiaomi Mi Note Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-note-pro2.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_note_pro-6952.php",
- "codenames": [
-  "leo"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",

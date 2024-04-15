@@ -2,10 +2,7 @@
  "name": "Xiaomi Redmi Note 9",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-9.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_note_9-10192.php",
- "codenames": [
-  "merlin",
-  "merlinnfc"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE",
@@ -76,7 +73,7 @@
    "Models": "M2003J15SC, M2003J15SG, M2003J15SS",
    "SAR": "0.84 W/kg (head)     0.90 W/kg (body)",
    "SAR EU": "0.80 W/kg (head)     1.14 W/kg (body)",
-   "Price": "$ 104.40 / £ 109.00 / € 96.69 / ₹ 8,139"
+   "Price": "$ 99.76 / £ 109.00 / € 90.92 / ₹ 8,139"
   },
   "Tests": {
    "Performance": "AnTuTu: 200414 (v8)\nGeekBench: 1292 (v5.1)",

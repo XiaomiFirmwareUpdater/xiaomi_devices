@@ -2,10 +2,7 @@
  "name": "Xiaomi Poco M3 Pro 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m3-pro-5g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_m3_pro_5g-10857.php",
- "codenames": [
-  "camellian",
-  "camellia"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",
@@ -77,7 +74,7 @@
    "Models": "M2103K19PG, M2103K19PI, M2103K19PY",
    "SAR": "0.94 W/kg (head)     1.06 W/kg (body)",
    "SAR EU": "0.54 W/kg (head)     0.90 W/kg (body)",
-   "Price": "$ 109.99 / £ 223.86 / € 164.99 / ₹ 10,849"
+   "Price": "$ 109.99 / £ 223.86 / € 164.99"
   },
   "Tests": {
    "Display": "Contrast ratio: 1475:1 (nominal)",

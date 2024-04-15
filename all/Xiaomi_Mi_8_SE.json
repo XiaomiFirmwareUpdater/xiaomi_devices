@@ -2,9 +2,7 @@
  "name": "Xiaomi Mi 8 SE",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi8-se.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_8_se-9219.php",
- "codenames": [
-  "sirius"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / LTE",

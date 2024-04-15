@@ -2,9 +2,7 @@
  "name": "Xiaomi Mi 11X Pro",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi11x-pro.jpg",
  "url": "https://www.gsmarena.com/xiaomi_mi_11x_pro-10776.php",
- "codenames": [
-  "haydnin"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / HSPA / LTE / 5G",

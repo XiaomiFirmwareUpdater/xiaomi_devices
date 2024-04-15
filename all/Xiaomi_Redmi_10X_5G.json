@@ -2,9 +2,7 @@
  "name": "Xiaomi Redmi 10X 5G",
  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10x-5g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_10x_5g-10266.php",
- "codenames": [
-  "atom"
- ],
+ "codenames": [],
  "specs": {
   "Network": {
    "Technology": "GSM / CDMA / HSPA / LTE / 5G",
