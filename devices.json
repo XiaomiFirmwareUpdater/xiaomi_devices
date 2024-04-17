@@ -3212,6 +3212,12 @@
  {
   "aurora": {
    "name": "Xiaomi 14 Ultra",
+   "model": "24031PN0DC"
+  }
+ },
+ {
+  "aurora": {
+   "name": "Xiaomi 14 Ultra",
    "model": "Xiaomi for arm64"
   }
  },
