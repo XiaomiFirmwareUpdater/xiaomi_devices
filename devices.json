@@ -1590,6 +1590,12 @@
   }
  },
  {
+  "ruan": {
+   "name": "Redmi Pad Pro 5G",
+   "model": "24074RPD2C"
+  }
+ },
+ {
   "xun": {
    "name": "Redmi Pad SE",
    "model": "23073RPBFC"
@@ -1605,6 +1611,12 @@
   "xun": {
    "name": "Redmi Pad SE",
    "model": "23073RPBFL"
+  }
+ },
+ {
+  "peridot": {
+   "name": "Redmi Turbo 3",
+   "model": "24069RA21C"
   }
  },
  {
@@ -3231,6 +3243,12 @@
   "zijin": {
    "name": "Xiaomi Civi 1S",
    "model": "2109119BC"
+  }
+ },
+ {
+  "chenfeng": {
+   "name": "Xiaomi Civi 4",
+   "model": "24053PY09C"
   }
  },
  {
