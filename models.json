@@ -1211,7 +1211,7 @@
   }
  },
  "sky": {
-  "internal_name": "M19",
+  "internal_name": "M19/M19P",
   "name": "Redmi 12 5G/Redmi 12R/Redmi Note 12R/POCO M6 Pro 5G",
   "models": {
    "`23076RN4BI`": "Redmi 12 5G India",
@@ -1254,6 +1254,14 @@
   "models": {
    "`24040RN64Y`": "Redmi 13 Global (NFC)",
    "`2404APC5FG`": "POCO M6 Global"
+  }
+ },
+ "breeze": {
+  "internal_name": "N19",
+  "name": "Redmi 13 5G",
+  "models": {
+   "`2406ERN9CC`": "Redmi 13 5G China",
+   "`2406ERN9CI`": "Redmi 13 5G India"
   }
  },
  "gale": {
