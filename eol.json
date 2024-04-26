@@ -224,7 +224,7 @@
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "Mi 10 Pro (GLOBAL)",
+     "deviceName": "Mi 10 Pro (Global)",
      "sku": "cmi_global",
      "projectCode": "J1"
     },
@@ -266,7 +266,7 @@
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "Mi 10 (GLOBAL)",
+     "deviceName": "Mi 10 (Global)",
      "sku": "umi_global",
      "projectCode": "J2"
     },
@@ -284,13 +284,13 @@
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "Mi 10T Pro (GLOBAL)",
+     "deviceName": "Mi 10T Pro (Global)",
      "sku": "apollo_global",
      "projectCode": "J3S"
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "Mi 10T (GLOBAL)",
+     "deviceName": "Mi 10T (Global)",
      "sku": "apollo_global",
      "projectCode": "J3S"
     },
@@ -359,6 +359,48 @@
      "deviceName": "Mi 10 lite 5G (TW)",
      "sku": "monet_tw_global",
      "projectCode": "J9"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 11 Lite (TR)",
+     "sku": "courbet_tr_global",
+     "projectCode": "K9A"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 11 Lite (RU)",
+     "sku": "courbet_ru_global",
+     "projectCode": "K9A"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 11 Lite (IN)",
+     "sku": "courbet_in_global",
+     "projectCode": "K9A"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 11 Lite (EEA)",
+     "sku": "courbet_eea_global",
+     "projectCode": "K9A"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 11 Lite (Global)",
+     "sku": "courbet_global",
+     "projectCode": "K9A"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 11 Lite (ID)",
+     "sku": "courbet_id_global",
+     "projectCode": "K9A"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi MIX Fold (CN)",
+     "sku": "cetus",
+     "projectCode": "J18"
     }
    ]
   },
@@ -566,25 +608,13 @@
     },
     {
      "brand": "Redmi",
-     "deviceName": "POCO F2 Pro (GLOBAL)",
+     "deviceName": "POCO F2 Pro (Global)",
      "sku": "lmi_global",
      "projectCode": "J11"
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi Note 9 (EEA)",
-     "sku": "merlin_eea_global",
-     "projectCode": "J15S/J15N"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi Note 9 (ID)",
-     "sku": "merlin_id_global",
-     "projectCode": "J15S/J15N"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi Note 9 (GLOBAL)",
+     "deviceName": "Redmi Note 9",
      "sku": "merlin_global",
      "projectCode": "J15S/J15N"
     },
@@ -602,7 +632,7 @@
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi 9A (GLOBAL)",
+     "deviceName": "Redmi 9A",
      "sku": "dandelion_global",
      "projectCode": "C3L/C3LV/C3LI"
     },
@@ -614,51 +644,9 @@
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi Note 9 (RU)",
-     "sku": "merlin_ru_global",
-     "projectCode": "J15S/J15N"
-    },
-    {
-     "brand": "Redmi",
      "deviceName": "Redmi 9 (EEA)",
      "sku": "lancelot_eea_global",
      "projectCode": "J19/J19A"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi 9A (EEA)",
-     "sku": "dandelion_eea_global",
-     "projectCode": "C3L/C3LV/C3LI"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi 9A (RU)",
-     "sku": "dandelion_ru_global",
-     "projectCode": "C3L/C3LV/C3LI"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi 9A (ID)",
-     "sku": "dandelion_id_global",
-     "projectCode": "C3L/C3LV/C3LI"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi 9A (IN)",
-     "sku": "dandelion_in_global",
-     "projectCode": "C3L/C3LV/C3LI"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi Note 9 (TR)",
-     "sku": "merlin_tr_global",
-     "projectCode": "J15S/J15N"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi 9A (CN)",
-     "sku": "dandelion",
-     "projectCode": "C3L/C3LV/C3LI"
     },
     {
      "brand": "Redmi",
@@ -668,15 +656,9 @@
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi 9C (GLOBAL)",
+     "deviceName": "Redmi 9C",
      "sku": "angelica_global",
      "projectCode": "C3M"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi 9C NFC (RU)",
-     "sku": "angelican_ru_global",
-     "projectCode": "C3MN"
     },
     {
      "brand": "Redmi",
@@ -686,19 +668,7 @@
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi Note 9 (GLOBAL)",
-     "sku": "merlin_in_global",
-     "projectCode": "J15S/J15N"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi 9C (EEA)",
-     "sku": "angelica_eea_global",
-     "projectCode": "C3M"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi 9 (GLOBAL)",
+     "deviceName": "Redmi 9 (Global)",
      "sku": "lancelot_global",
      "projectCode": "J19/J19A"
     },
@@ -716,39 +686,15 @@
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi 9C (ID)",
-     "sku": "angelica_id_global",
-     "projectCode": "C3M"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi 9C NFC (EEA)",
-     "sku": "angelican_eea_global",
-     "projectCode": "C3MN"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi 9A (TR)",
-     "sku": "dandelion_tr_global",
-     "projectCode": "C3L/C3LV/C3LI"
-    },
-    {
-     "brand": "Redmi",
      "deviceName": "Redmi 9 Prime (IN)",
      "sku": "lancelot_in_global",
      "projectCode": "J19/J19A"
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi 9C NFC (GLOBAL)",
+     "deviceName": "Redmi 9C NFC",
      "sku": "angelican_global",
      "projectCode": "C3MN"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi 9C (TR)",
-     "sku": "angelica_tr_global",
-     "projectCode": "C3M"
     },
     {
      "brand": "Redmi",
@@ -761,24 +707,6 @@
      "deviceName": "Redmi 9 (ZA)",
      "sku": "lancelot_za_vc_global",
      "projectCode": "J19/J19A"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi 9C (MX)",
-     "sku": "angelica_mx_tc_global",
-     "projectCode": "C3M"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi Note 9 (TW)",
-     "sku": "merlin_tw_global",
-     "projectCode": "J15S/J15N"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi Note 9 (CN)",
-     "sku": "cannon",
-     "projectCode": "J22"
     },
     {
      "brand": "Redmi",
@@ -824,27 +752,63 @@
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi Note 9T (GLOBAL)",
+     "deviceName": "Redmi Note 9T (Global)",
      "sku": "cannong_global",
      "projectCode": "J22G"
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi Note 10 Pro Max (global)",
+     "deviceName": "Redmi Note 10 Pro Max (Global)",
      "sku": "sweetin_in_global",
      "projectCode": "K6_in"
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi Note 10 Pro (global)",
+     "deviceName": "Redmi Note 10 Pro (Global)",
      "sku": "sweetin_in_global",
      "projectCode": "K6_in"
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi Go (ru)",
+     "deviceName": "Redmi Go (RU)",
      "sku": "tiare_ru_global",
      "projectCode": "C3G_Android_Go"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 10 Pro (TW)",
+     "sku": "sweet_tw_global",
+     "projectCode": "K6"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 10 Pro (RU)",
+     "sku": "sweet_ru_global",
+     "projectCode": "K6"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 10 Pro (TR)",
+     "sku": "sweet_tr_global",
+     "projectCode": "K6"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 10 Pro (ID)",
+     "sku": "sweet_id_global",
+     "projectCode": "K6"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 10 Pro (EEA)",
+     "sku": "sweet_eea_global",
+     "projectCode": "K6"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 10 Pro (Global)",
+     "sku": "sweet_global",
+     "projectCode": "K6"
     }
    ]
   },
@@ -921,9 +885,21 @@
      "deviceName": "POCO M3 (ID)",
      "sku": "citrus_id_global",
      "projectCode": "J19C"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO X3 Pro (TW)",
+     "sku": "vayu_tw_global",
+     "projectCode": "J20S"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO X3 Pro (IN)",
+     "sku": "vayu_in_global",
+     "projectCode": "J20S"
     }
    ]
   }
  ],
- "updateAt": "2024-03-25T18:08:57.000Z"
+ "updateAt": "2024-04-26T00:38:05.000Z"
 }
