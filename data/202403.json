@@ -1,0 +1,15 @@
+{
+ "id": 74,
+ "operator": "zhaotongtong3",
+ "publishedAt": "2024-04-26T08:38:00.711Z",
+ "status": 1,
+ "heavy": "CVE-2023-28578;CVE-2024-0039;CVE-2024-23717",
+ "high": "CVE-2023-21135;CVE-2024-0050;CVE-2024-0049;CVE-2024-0051;CVE-2024-0053;CVE-2023-40081;CVE-2023-33042;CVE-2024-0046;CVE-2024-0045;CVE-2023-33066;CVE-2024-0052;CVE-2024-0044;CVE-2024-0047;CVE-2023-43546;CVE-2023-43548;CVE-2023-33105;CVE-2023-43552;CVE-2023-43547;CVE-2023-43539;CVE-2023-43549;CVE-2023-43553;CVE-2023-43550;CVE-2023-48424;CVE-2023-6143;CVE-2023-6241;CVE-2024-0048;CVE-2024-20020;CVE-2024-20022;CVE-2024-20023;CVE-2024-20005;CVE-2024-20026;CVE-2024-20028;CVE-2024-20024;CVE-2024-20025;CVE-2024-20027;CVE-2023-48425",
+ "middle": "",
+ "low": "",
+ "ignoreable": "",
+ "models": "Xiaomi 11T;Redmi 13R 5G;Redmi 13C 5G;POCO F3 GT;Xiaomi 13T;Xiaomi 14 Ultra Ti;Xiaomi 14 Ultra;Redmi A3;POCO C61;Redmi K60 Ultra;Xiaomi 13T Pro;Xiaomi 12;Redmi K50 Ultra;Xiaomi 12T Pro;Redmi K70E;POCO X6 Pro 5G;Redmi 12C;POCO C55;Redmi Note 13 Pro;POCO M6 Pro;Redmi 12;Redmi Note 11S;Redmi 10C;Xiaomi 13;POCO C65;Redmi 13C;Redmi Note 13 Pro 5G;POCO X6 5G;Redmi Note 13R Pro;Redmi Note 13 5G;POCO X6 Neo 5G;Xiaomi 14;Redmi A1;Redmi A1+;POCO F4 GT;Xiaomi 13 Ultra;Redmi Note 11E;Redmi 10 5G;Redmi Note 10T;Xiaomi 11 Lite 5G NE;Redmi K70 Pro;POCO F5 Pro;POCO F4;Xiaomi Pad 5;Xiaomi 13 Pro;Redmi Note 11S 5G;Xiaomi Pad 6;Redmi Note 11 Pro+ 5G;Xiaomi 11i;Xiaomi 11i HyperCharge;Xiaomi 12T;POCO X5 Pro 5G;POCO M5;Redmi Note 11 SE;Redmi Note 10S;POCO M5s;Redmi Note 12 Pro;Redmi Note 12 Pro+;Redmi Note 12 DISCOVERY EDITION;Redmi Note 12 Pro 5G;Redmi Note 12 Pro+ 5G;Redmi Note 13;Redmi Note 12S;Xiaomi Pad 6S Pro 12.4;Redmi 12 5G;Redmi K60 Pro;Redmi Note 11;Redmi Note 12 5G;Redmi Note 12 Pro;Xiaomi 12 Lite;Redmi Note 12;Redmi Note 11 Pro 5G;Xiaomi 11T Pro;Redmi Note 11 Pro;Redmi A2;Redmi A2+;POCO C51;Redmi Pad;Xiaomi 12 Pro;Redmi Note 13 Pro+ 5G;Xiaomi 13 Lite",
+ "modelsTl": "Xiaomi 11T;Redmi 13R 5G;Redmi 13C 5G;POCO F3 GT;Xiaomi 13T;Xiaomi 14 Ultra Ti;Xiaomi 14 Ultra;Redmi A3;POCO C61;Redmi K60 Ultra;Xiaomi 13T Pro;Xiaomi 12;Redmi K50 Ultra;Xiaomi 12T Pro;Redmi K70E;POCO X6 Pro 5G;Redmi 12C;POCO C55;Redmi Note 13 Pro;POCO M6 Pro;Redmi 12;Redmi Note 11S;Redmi 10C;Xiaomi 13;POCO C65;Redmi 13C;Redmi Note 13 Pro 5G;POCO X6 5G;Redmi Note 13R Pro;Redmi Note 13 5G;POCO X6 Neo 5G;Xiaomi 14;Redmi A1;Redmi A1+;POCO F4 GT;Xiaomi 13 Ultra;Redmi Note 11E;Redmi 10 5G;Redmi Note 10T;Xiaomi 11 Lite 5G NE;Redmi K70 Pro;POCO F5 Pro;POCO F4;Xiaomi Pad 5;Xiaomi 13 Pro;Redmi Note 11S 5G;Xiaomi Pad 6;Redmi Note 11 Pro+ 5G;Xiaomi 11i;Xiaomi 11i HyperCharge;Xiaomi 12T;POCO X5 Pro 5G;POCO M5;Redmi Note 11 SE;Redmi Note 10S;POCO M5s;Redmi Note 12 Pro;Redmi Note 12 Pro+;Redmi Note 12 DISCOVERY EDITION;Redmi Note 12 Pro 5G;Redmi Note 12 Pro+ 5G;Redmi Note 13;Redmi Note 12S;Xiaomi Pad 6S Pro 12.4;Redmi 12 5G;Redmi K60 Pro;Redmi Note 11;Redmi Note 12 5G;Redmi Note 12 Pro;Xiaomi 12 Lite;Redmi Note 12;Redmi Note 11 Pro 5G;Xiaomi 11T Pro;Redmi Note 11 Pro;Redmi A2;Redmi A2+;POCO C51;Redmi Pad;Xiaomi 12 Pro;Redmi Note 13 Pro+ 5G;Xiaomi 13 Lite",
+ "createdAt": "2024-04-23T03:20:37.000Z",
+ "syncTime": "202403"
+}
