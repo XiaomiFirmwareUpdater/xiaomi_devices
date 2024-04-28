@@ -6380,8 +6380,8 @@
     "display_name_en": "XM-RUAN-GLOBAL"
   },
   "ruan_in_global": {
-    "display_name": "XM-RUAN-IN-GLOBAL",
-    "display_name_en": "XM-RUAN-IN-GLOBAL"
+    "display_name": "XM-RUAN-IN-GLOBAL/NA",
+    "display_name_en": "XM-RUAN-IN-GLOBAL/NA"
   },
   "ruan_pre_eea_global": {
     "display_name": "XM-RUAN-PRE-EEA-GLOBAL",
@@ -6392,8 +6392,8 @@
     "display_name_en": "XM-RUAN-PRE-GLOBAL"
   },
   "ruan_pre_in_global": {
-    "display_name": "XM-RUAN-PRE-IN-GLOBAL",
-    "display_name_en": "XM-RUAN-PRE-IN-GLOBAL"
+    "display_name": "XM-RUAN-IN-GLOBAL/NA",
+    "display_name_en": "XM-RUAN-IN-GLOBAL/NA"
   },
   "ruan_pre_ru_global": {
     "display_name": "XM-RUAN-PRE-RU-GLOBAL",
