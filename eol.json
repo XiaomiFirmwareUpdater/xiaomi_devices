@@ -188,15 +188,7 @@
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "MIX 2S"
-    },
-    {
-     "brand": "Xiaomi",
      "deviceName": "Mi MIX 2S"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "MIX 3"
     },
     {
      "brand": "Xiaomi",
@@ -316,12 +308,6 @@
      "brand": "Xiaomi",
      "deviceName": "Mi 10T (IN)",
      "sku": "apollo_in_global",
-     "projectCode": "J3S"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Redmi K30S Ultra (CN)",
-     "sku": "apollo",
      "projectCode": "J3S"
     },
     {
@@ -608,21 +594,9 @@
     },
     {
      "brand": "Redmi",
-     "deviceName": "POCO F2 Pro (Global)",
-     "sku": "lmi_global",
-     "projectCode": "J11"
-    },
-    {
-     "brand": "Redmi",
      "deviceName": "Redmi Note 9",
      "sku": "merlin_global",
      "projectCode": "J15S/J15N"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi 9 (CN)",
-     "sku": "lancelot",
-     "projectCode": "J19/J19A"
     },
     {
      "brand": "Redmi",
@@ -644,15 +618,9 @@
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi 9 (EEA)",
-     "sku": "lancelot_eea_global",
-     "projectCode": "J19/J19A"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi 9 (ID)",
-     "sku": "lancelot_id_global",
-     "projectCode": "J19/J19A"
+     "deviceName": "Redmi Note 10 5G (MX)",
+     "sku": "camellian_mx_at_global",
+     "projectCode": "K19/K19P"
     },
     {
      "brand": "Redmi",
@@ -668,20 +636,8 @@
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi 9 (Global)",
+     "deviceName": "Redmi 9",
      "sku": "lancelot_global",
-     "projectCode": "J19/J19A"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi 9 (IN)",
-     "sku": "cattail_in_global",
-     "projectCode": "C3MI"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi 9 (RU)",
-     "sku": "lancelot_ru_global",
      "projectCode": "J19/J19A"
     },
     {
@@ -698,15 +654,15 @@
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi Note 9 Pro (ZA)",
-     "sku": "joyeuse_za_vc_global",
-     "projectCode": "J6B2"
+     "deviceName": "Redmi K30S Ultra (CN)",
+     "sku": "apollo",
+     "projectCode": "J3S"
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi 9 (ZA)",
-     "sku": "lancelot_za_vc_global",
-     "projectCode": "J19/J19A"
+     "deviceName": "Redmi Note 9 Pro (ZA)",
+     "sku": "joyeuse_za_vc_global",
+     "projectCode": "J6B2"
     },
     {
      "brand": "Redmi",
@@ -828,9 +784,9 @@
     },
     {
      "brand": "POCO",
-     "deviceName": "Redmi Note 10 5G (MX)",
-     "sku": "camellian_mx_at_global",
-     "projectCode": "K19/K19P"
+     "deviceName": "POCO F2 Pro (Global)",
+     "sku": "lmi_global",
+     "projectCode": "J11"
     },
     {
      "brand": "POCO",
@@ -901,5 +857,5 @@
    ]
   }
  ],
- "updateAt": "2024-04-26T00:38:05.000Z"
+ "updateAt": "2024-04-27T18:15:48.000Z"
 }
