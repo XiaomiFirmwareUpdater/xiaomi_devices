@@ -1387,6 +1387,14 @@
     "display_name": "Redmi K60 Ultra",
     "display_name_en": "Redmi K60 Ultra"
   },
+  "corot_dpp_global": {
+    "display_name": "Xiaomi 13T Pro",
+    "display_name_en": "Xiaomi 13T Pro"
+  },
+  "corot_eea_dpp_global": {
+    "display_name": "Xiaomi 13T Pro",
+    "display_name_en": "Xiaomi 13T Pro"
+  },
   "corot_eea_global": {
     "display_name": "Xiaomi 13T Pro",
     "display_name_en": "Xiaomi 13T Pro"
@@ -1400,6 +1408,14 @@
     "display_name_en": "Xiaomi 13T Pro"
   },
   "corot_jp_sb_global": {
+    "display_name": "Xiaomi 13T Pro",
+    "display_name_en": "Xiaomi 13T Pro"
+  },
+  "corot_pre_dpp_global": {
+    "display_name": "Xiaomi 13T Pro",
+    "display_name_en": "Xiaomi 13T Pro"
+  },
+  "corot_pre_eea_dpp_global": {
     "display_name": "Xiaomi 13T Pro",
     "display_name_en": "Xiaomi 13T Pro"
   },
@@ -3527,6 +3543,14 @@
     "display_name": "Xiaomi 14",
     "display_name_en": "Xiaomi 14"
   },
+  "houji_dpp_global": {
+    "display_name": "Xiaomi 14",
+    "display_name_en": "Xiaomi 14"
+  },
+  "houji_eea_dpp_global": {
+    "display_name": "Xiaomi 14",
+    "display_name_en": "Xiaomi 14"
+  },
   "houji_eea_global": {
     "display_name": "XM-HOUJI-EEA-GLOBAL",
     "display_name_en": "XM-HOUJI-EEA-GLOBAL"
@@ -3542,6 +3566,14 @@
   "houji_in_global": {
     "display_name": "XM-HOUJI-IN-GLOBAL",
     "display_name_en": "XM-HOUJI-IN-GLOBAL"
+  },
+  "houji_pre_dpp_global": {
+    "display_name": "Xiaomi 14",
+    "display_name_en": "Xiaomi 14"
+  },
+  "houji_pre_eea_dpp_global": {
+    "display_name": "Xiaomi 14",
+    "display_name_en": "Xiaomi 14"
   },
   "houji_pre_eea_global": {
     "display_name": "XM-HOUJI-PRE-EEA-GLOBAL",
@@ -7035,6 +7067,14 @@
     "display_name": "Xiaomi Pad 6S Pro 12.4",
     "display_name_en": "Xiaomi Pad 6S Pro 12.4"
   },
+  "sheng_dpp_global": {
+    "display_name": "XM-SHENG-DPP-GLOBAL",
+    "display_name_en": "XM-SHENG-DPP-GLOBAL"
+  },
+  "sheng_eea_dpp_global": {
+    "display_name": "XM-SHENG-EEA-DPP-GLOBAL",
+    "display_name_en": "XM-SHENG-EEA-DPP-GLOBAL"
+  },
   "sheng_eea_global": {
     "display_name": "XM-SHENG-EEA-GLOBAL",
     "display_name_en": "XM-SHENG-EEA-GLOBAL"
@@ -7046,6 +7086,14 @@
   "sheng_id_global": {
     "display_name": "XM-SHENG-ID-GLOBAL",
     "display_name_en": "XM-SHENG-ID-GLOBAL"
+  },
+  "sheng_pre_dpp_global": {
+    "display_name": "XM-SHENG-PRE-DPP-GLOBAL",
+    "display_name_en": "XM-SHENG-PRE-DPP-GLOBAL"
+  },
+  "sheng_pre_eea_dpp_global": {
+    "display_name": "XM-SHENG-PRE-EEA-DPP-GLOBAL",
+    "display_name_en": "XM-SHENG-PRE-EEA-DPP-GLOBAL"
   },
   "sheng_pre_eea_global": {
     "display_name": "XM-SHENG-PRE-EEA-GLOBAL",
