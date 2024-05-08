@@ -1,6 +1,32 @@
 {
  "items": [
   {
+   "id": 64,
+   "status": 1,
+   "deviceName": "Xiaomi 14",
+   "releaseDate": "2024-2",
+   "securityUpdateEol": "2029-2",
+   "updateFrequency": "90 Days",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 14",
+   "futureVersion": "Android 15,Android 16,,Android 17,Android 18",
+   "createdAt": "2024-05-08T09:57:11.000Z",
+   "updatedAt": "2024-05-08T09:59:16.000Z"
+  },
+  {
+   "id": 65,
+   "status": 1,
+   "deviceName": "Xiaomi 14 Ultra",
+   "releaseDate": "2024-2",
+   "securityUpdateEol": "2029-2",
+   "updateFrequency": "90 Days",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 14",
+   "futureVersion": "Android 15,Android 16,,Android 17,Android 18",
+   "createdAt": "2024-05-08T09:58:17.000Z",
+   "updatedAt": "2024-05-08T09:58:40.000Z"
+  },
+  {
    "id": 59,
    "status": 1,
    "deviceName": "Redmi Note 13 Pro",
@@ -755,5 +781,5 @@
    "updatedAt": "2024-03-11T15:46:51.000Z"
   }
  ],
- "total": 58
+ "total": 60
 }
