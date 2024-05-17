@@ -1259,9 +1259,9 @@
  },
  "breeze": {
   "internal_name": "N19",
-  "name": "Redmi 13 5G",
+  "name": "Redmi 13 5G/Redmi Note 13R",
   "models": {
-   "`2406ERN9CC`": "Redmi 13 5G China",
+   "`2406ERN9CC`": "Redmi Note 13R China",
    "`2406ERN9CI`": "Redmi 13 5G India"
   }
  },
