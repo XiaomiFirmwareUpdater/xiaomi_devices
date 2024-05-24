@@ -32,7 +32,7 @@
    "Protection": "Corning Gorilla Glass Victus"
   },
   "Platform": {
-   "OS": "Android 11, MIUI 12.5",
+   "OS": "Android 11, upgradable to Android 14, HyperOS",
    "Chipset": "Qualcomm SM8350 Snapdragon 888 5G (5 nm)",
    "CPU": "Octa-core (1x2.84 GHz Cortex-X1 & 3x2.42 GHz Cortex-A78 & 4x1.80 GHz Cortex-A55",
    "GPU": "Adreno 660"
@@ -79,7 +79,7 @@
    "Models": "M2011K2C, M2011K2G",
    "SAR": "0.95 W/kg (head)     0.65 W/kg (body)",
    "SAR EU": "0.56 W/kg (head)     0.98 W/kg (body)",
-   "Price": "£ 399.99 / € 279.00"
+   "Price": "£ 399.99 / € 199.90"
   },
   "Tests": {
    "Performance": "AnTuTu: 668722 (v8)\nGeekBench: 3489 (v5.1)\nGFXBench: 33fps (ES 3.1 onscreen)",

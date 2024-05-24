@@ -73,6 +73,10 @@
   "Misc": {
    "Colors": "Black, Blue, Green",
    "Price": "About 700 EUR"
+  },
+  "Tests": {
+   "Battery (new)": "Active use score 11:14h",
+   "info": ""
   }
  }
 }

@@ -37,7 +37,7 @@
   },
   "Memory": {
    "Card slot": "microSDXC (dedicated slot)",
-   "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+   "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 4GB RAM, 256GB 8GB RAM",
    "info": "eMMC 5.1"
   },
   "Main Camera": {
@@ -73,7 +73,7 @@
   "Misc": {
    "Colors": "Midnight Black, Navy Blue, Glacier White, Clover Green",
    "Models": "23100RN82L, 23106RN0DA, 23108RN04Y, 2311DRN14I",
-   "Price": "$ 109.00 / C$ 328.18 / £ 109.06 / € 108.00 / ₹ 7,699"
+   "Price": "$ 115.87 / C$ 323.37 / £ 98.83 / € 114.47 / ₹ 7,699"
   }
  }
 }

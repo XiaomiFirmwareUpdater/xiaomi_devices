@@ -1,9 +1,9 @@
 {
- "name": "Xiaomi Redmi Note 12R",
- "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12r.jpg",
- "url": "https://www.gsmarena.com/xiaomi_redmi_note_12r-12392.php",
+ "name": "Xiaomi Redmi Note 13R",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13r.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_note_13r-13011.php",
  "codenames": [
-  "sky"
+  "breeze"
  ],
  "specs": {
   "Network": {
@@ -16,40 +16,39 @@
    "Speed": "HSPA, LTE, 5G"
   },
   "Launch": {
-   "Announced": "2023, June 28",
-   "Status": "Available. Released 2023, June 28"
+   "Announced": "2024, May 17",
+   "Status": "Available. Released 2024, May 17"
   },
   "Body": {
    "Dimensions": "168.6 x 76.3 x 8.2 mm (6.64 x 3.00 x 0.32 in)",
-   "Weight": "199 g (7.02 oz)",
+   "Weight": "205 g (7.23 oz)",
    "Build": "Glass front, plastic frame, glass back",
-   "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
    "info": "IP53, dust and splash resistant"
   },
   "Display": {
-   "Type": "IPS LCD, 90Hz, 550 nits",
+   "Type": "IPS LCD, 120Hz, 550 nits",
    "Size": "6.79 inches, 109.5 cm2 (~85.1% screen-to-body ratio)",
    "Resolution": "1080 x 2460 pixels (~396 ppi density)"
   },
   "Platform": {
-   "OS": "Android 13, MIUI 14",
-   "Chipset": "Qualcomm SM4450 Snapdragon 4 Gen 2 (4 nm)",
-   "CPU": "Octa-core (2x2.2 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55)",
+   "OS": "Android 14, HyperOS",
+   "Chipset": "Qualcomm SM4450 Snapdragon 4+ Gen 2 (4 nm)",
+   "CPU": "Octa-core (2x2.3 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55)",
    "GPU": "Adreno 613"
   },
   "Memory": {
-   "Card slot": "microSDXC (uses shared SIM slot)",
-   "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+   "Card slot": "No",
+   "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
    "info": "UFS 2.2"
   },
   "Main Camera": {
-   "Dual": "50 MP, f/1.8, (wide), PDAF\n2 MP, f/2.4, (macro)",
+   "Dual": "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF\n2 MP, f/2.4, (macro)",
    "Features": "LED flash, HDR",
    "Video": "1080p@30fps"
   },
   "Selfie camera": {
-   "Single": "5 MP, f/2.2, (wide), 1/5.0\", 1.12µm",
-   "Features": "HDR",
+   "Single": "8 MP, (wide), 1/4.0\", 1.12µm",
    "Video": "1080p@30fps"
   },
   "Sound": {
@@ -61,7 +60,7 @@
    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
    "Bluetooth": "5.3, A2DP, LE",
    "Positioning": "GPS, GLONASS, GALILEO, BDS",
-   "NFC": "Yes (market/region dependent)",
+   "NFC": "Yes",
    "Infrared port": "Yes",
    "Radio": "No",
    "USB": "USB Type-C"
@@ -71,13 +70,12 @@
    "info": "Virtual proximity sensing"
   },
   "Battery": {
-   "Type": "Li-Po 5000 mAh, non-removable",
-   "Charging": "18W wired, PD"
+   "Type": "5030 mAh, non-removable",
+   "Charging": "33W wired"
   },
   "Misc": {
    "Colors": "Black, Blue, Silver",
-   "Models": "23076RA4BC",
-   "Price": "About 150 EUR"
+   "Price": "About 180 EUR"
   }
  }
 }

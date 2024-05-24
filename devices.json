@@ -1,5 +1,86 @@
 [
  {
+  "name": "Xiaomi Redmi Note 13R",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13r.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_redmi_note_13r-13011.php",
+  "codenames": [
+   "breeze"
+  ],
+  "specs": {
+   "Network": {
+    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "info": "CDMA2000 1xEV-DO",
+    "3G bands": "HSDPA 850 / 900 / 2100",
+    "4G bands": "1, 3, 5, 8, 34, 38, 39, 40, 41",
+    "5G bands": "1, 5, 8, 28, 41, 78 SA/NSA",
+    "Speed": "HSPA, LTE, 5G"
+   },
+   "Launch": {
+    "Announced": "2024, May 17",
+    "Status": "Available. Released 2024, May 17"
+   },
+   "Body": {
+    "Dimensions": "168.6 x 76.3 x 8.2 mm (6.64 x 3.00 x 0.32 in)",
+    "Weight": "205 g (7.23 oz)",
+    "Build": "Glass front, plastic frame, glass back",
+    "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+    "info": "IP53, dust and splash resistant"
+   },
+   "Display": {
+    "Type": "IPS LCD, 120Hz, 550 nits",
+    "Size": "6.79 inches, 109.5 cm2 (~85.1% screen-to-body ratio)",
+    "Resolution": "1080 x 2460 pixels (~396 ppi density)"
+   },
+   "Platform": {
+    "OS": "Android 14, HyperOS",
+    "Chipset": "Qualcomm SM4450 Snapdragon 4+ Gen 2 (4 nm)",
+    "CPU": "Octa-core (2x2.3 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55)",
+    "GPU": "Adreno 613"
+   },
+   "Memory": {
+    "Card slot": "No",
+    "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+    "info": "UFS 2.2"
+   },
+   "Main Camera": {
+    "Dual": "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF\n2 MP, f/2.4, (macro)",
+    "Features": "LED flash, HDR",
+    "Video": "1080p@30fps"
+   },
+   "Selfie camera": {
+    "Single": "8 MP, (wide), 1/4.0\", 1.12µm",
+    "Video": "1080p@30fps"
+   },
+   "Sound": {
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "Yes",
+    "info": "24-bit/192kHz Hi-Res audio"
+   },
+   "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Bluetooth": "5.3, A2DP, LE",
+    "Positioning": "GPS, GLONASS, GALILEO, BDS",
+    "NFC": "Yes",
+    "Infrared port": "Yes",
+    "Radio": "No",
+    "USB": "USB Type-C"
+   },
+   "Features": {
+    "Sensors": "Fingerprint (side-mounted), accelerometer, compass",
+    "info": "Virtual proximity sensing"
+   },
+   "Battery": {
+    "Type": "5030 mAh, non-removable",
+    "Charging": "33W wired"
+   },
+   "Misc": {
+    "Colors": "Black, Blue, Silver",
+    "Price": "About 180 EUR"
+   }
+  }
+ },
+ {
   "name": "Xiaomi Redmi Pad Pro",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pad-pro.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_pad_pro-12922.php",
@@ -231,7 +312,7 @@
     "Colors": "Black, Blue, Green",
     "Models": "2312BPC51H",
     "SAR": "0.84 W/kg (head)     0.77 W/kg (body)",
-    "Price": "₹ 7,599"
+    "Price": "₹ 6,499"
    }
   }
  },
@@ -395,7 +476,7 @@
     "Colors": "Astral Black, Horizon Blue, Martian Orange",
     "Models": "MZB0GGWIN",
     "SAR": "0.85 W/kg (head)     0.71 W/kg (body)",
-    "Price": "₹ 16,490"
+    "Price": "₹ 15,099"
    }
   }
  },
@@ -478,7 +559,7 @@
    "Misc": {
     "Colors": "Black, White, Jade Green, Pink",
     "Models": "23127PN0CC, 23127PN0CG",
-    "Price": "£ 898.34 / € 847.00 / ₹ 69,950"
+    "Price": "$ 899.99 / £ 880.29 / € 779.00 / ₹ 69,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 2003429 (v10)\nGeekBench: 6810 (v6)",
@@ -568,7 +649,7 @@
    },
    "Misc": {
     "Colors": "Black, Blue, White, Titanium Gray",
-    "Price": "£ 1,299.00 / € 1,332.02"
+    "Price": "$ 1,499.99 / £ 1,055.25 / € 1,284.41 / ₹ 99,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 2014262 (v10)\nGeekBench: 7060 (v6)\n3DMark Wild life: 17244 (offscreen 1440p)",
@@ -654,6 +735,10 @@
    "Misc": {
     "Colors": "Black, Blue, Green",
     "Price": "About 700 EUR"
+   },
+   "Tests": {
+    "Battery (new)": "Active use score 11:14h",
+    "info": ""
    }
   }
  },
@@ -731,7 +816,7 @@
    "Misc": {
     "Colors": "Midnight Black, Forest Green (Olive Green), Star Blue (Lake Blue)",
     "Models": "23129RN51X",
-    "Price": "$ 120.03 / € 93.30 / ₹ 6,999"
+    "Price": "$ 75.78 / € 83.48 / ₹ 6,900"
    }
   }
  },
@@ -811,7 +896,7 @@
    "Misc": {
     "Colors": "Midnight Black, Lavender Purple, Forest Green",
     "Models": "23117RA68G, 2312FPCA6G",
-    "Price": "$ 216.99 / £ 285.99 / € 244.29"
+    "Price": "$ 244.00 / C$ 443.15 / £ 282.99 / € 226.25"
    },
    "Tests": {
     "Performance": "AnTuTu: 382881 (v9), 428545 (v10)\nGeekBench: 1844 (v5), 1942 (v6)\nGFXBench ES 3.1: 15fps (offscreen 1080p)",
@@ -899,7 +984,7 @@
    "Misc": {
     "Colors": "Midnight Black, Mint Green, Ice Blue, Ocean Sunset",
     "Models": "23129RAA4G, 23124RA7EO",
-    "Price": "$ 171.55 / £ 151.68 / € 163.80"
+    "Price": "$ 168.00 / £ 196.99 / € 155.00"
    },
    "Tests": {
     "Performance": "AnTuTu: 316857 (v9), 383407 (v10)\nGeekBench: 1817 (v5), 1542 (v6)\n3DMark Wild life: 655 (offscreen 1440p)",
@@ -946,7 +1031,7 @@
     "info": "Always-on display"
    },
    "Platform": {
-    "OS": "Android 13, MIUI 14",
+    "OS": "Android 13, upgradable to Android 14, HyperOS",
     "Chipset": "Mediatek Dimensity 7200 Ultra (4 nm)",
     "CPU": "Octa-core (2x2.8 GHz Cortex-A715 & 6x2.0 GHz Cortex-A510)",
     "GPU": "Mali-G610 MC4"
@@ -990,7 +1075,7 @@
    "Misc": {
     "Colors": "Midnight Black (Fushion Black), Moonlight White (Fushion White), Aurora Purple, Fushion Purple, Camo Green",
     "Models": "23090RA98C, 23090RA98G, 23090RA98I",
-    "Price": "$ 329.00 / £ 369.00 / € 370.83 / ₹ 29,999"
+    "Price": "$ 329.00 / £ 383.49 / € 332.00 / ₹ 29,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 683899 (v9), 779812 (v10)\nGeekBench: 2353 (v5), 2597 (v6)\n3DMark Wild life: 4341 (offscreen 1440p)",
@@ -1053,7 +1138,7 @@
     "Video": "4K@30fps, 1080p@30/60/120fps, gyro-EIS"
    },
    "Selfie camera": {
-    "Single": "16 MP, f/2.4, (wide)",
+    "Single": "16 MP, f/2.4, (wide), 1/3.06\", 1.0µm",
     "Features": "HDR, panorama",
     "Video": "1080p@30/60fps"
    },
@@ -1082,7 +1167,7 @@
    "Misc": {
     "Colors": "Midnight Black, Aurora Purple (Coral Purple), Ocean Teal, Arctic White",
     "Models": "2312DRA50C, 2312CRAD3C, 2312DRA50G, 2312DRA50I",
-    "Price": "$ 300.00 / £ 269.00 / € 299.00 / ₹ 25,999"
+    "Price": "$ 294.99 / C$ 514.99 / £ 269.00 / € 285.68 / ₹ 23,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 523746 (v9), 581979 (v10)\nGeekBench: 2695 (v5), 2751 (v6)",
@@ -1131,7 +1216,7 @@
     "info": "*1B colors (market/region dependent)"
    },
    "Platform": {
-    "OS": "Android 13, MIUI 14",
+    "OS": "Android 13, upgradable to Android 14, HyperOS",
     "Chipset": "Mediatek Dimensity 6080 (6 nm)",
     "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
     "GPU": "Mali-G57 MC2"
@@ -1175,7 +1260,7 @@
    "Misc": {
     "Colors": "Graphite black (Stealth Black), Arctic White, Ocean Teal, Prism Gold",
     "Models": "2312DRAABG",
-    "Price": "$ 221.55 / £ 152.99 / € 218.98 / ₹ 17,999"
+    "Price": "$ 214.00 / £ 159.99 / € 220.99 / ₹ 16,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 405118 (v9), 455421 (v10)\nGeekBench: 1968 (v5), 1978 (v6)\n3DMark Wild life: 1334 (offscreen 1440p)",
@@ -1231,7 +1316,7 @@
     "info": "UFS 4.0"
    },
    "Main Camera": {
-    "Triple": "64 MP, f/1.7, 25mm (wide), 0.7µm, PDAF, OIS\n8 MP, f/2.2, 120˚ (ultrawide)\n2 MP, f/2.4, (macro)",
+    "Triple": "64 MP, f/1.7, 25mm (wide), 1/2.0\", 0.7µm, PDAF, OIS\n8 MP, f/2.2, 120˚ (ultrawide)\n2 MP, f/2.4, (macro)",
     "Features": "LED flash, HDR, panorama",
     "Video": "4K@24/30fps, 1080p@30/60fps, gyro-EIS"
    },
@@ -1247,7 +1332,7 @@
    },
    "Comms": {
     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
-    "Bluetooth": "5.4, A2DP, LE",
+    "Bluetooth": "5.4, A2DP, LE, aptX HD",
     "Positioning": "GPS, GALILEO, GLONASS, QZSS, BDS (B1I+B1c)",
     "NFC": "Yes (market/region dependent)",
     "Infrared port": "Yes",
@@ -1260,12 +1345,12 @@
    },
    "Battery": {
     "Type": "5000 mAh, non-removable",
-    "Charging": "67W wired, 100% in 45 min (advertised)"
+    "Charging": "67W wired, QC2.0, PD3.0, 100% in 45 min (advertised)"
    },
    "Misc": {
     "Colors": "Black, Yellow, Gray",
     "Models": "2311DRK48G, 2311DRK48I",
-    "Price": "$ 332.99 / £ 279.66 / € 309.90 / ₹ 26,999"
+    "Price": "$ 259.56 / C$ 445.86 / £ 308.19 / € 299.49 / ₹ 22,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 1396547 (v10)\nGeekBench: 4696 (v6)",
@@ -1355,7 +1440,7 @@
    "Misc": {
     "Colors": "Black, White, Blue",
     "Models": "23122PCD1G, 23122PCD1I",
-    "Price": "$ 274.50 / £ 238.00 / € 259.90 / ₹ 17,997"
+    "Price": "$ 264.00 / £ 239.00 / € 235.00 / ₹ 16,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 533112 (v9), 605803 (v10)\nGeekBench: 2945 (v6)\n3DMark Wild Life: 3032 (offscreen 1440p)",
@@ -1443,7 +1528,7 @@
    },
    "Misc": {
     "Colors": "Black, Blue, Purple",
-    "Price": "$ 199.50 / £ 185.00 / € 189.80"
+    "Price": "$ 194.00 / £ 176.58 / € 189.93"
    },
    "Tests": {
     "Performance": "AnTuTu: 386301 (v9), 428531 (v10)\nGeekBench: 1892 (v5), 1979 (v6)\nGFXBench ES 3.1: 15fps (offscreen 1080p)",
@@ -1531,7 +1616,7 @@
    "Misc": {
     "Colors": "Galactic Black, Orion Blue",
     "Models": "23128PC33I",
-    "Price": "₹ 9,749"
+    "Price": "₹ 9,249"
    }
   }
  },
@@ -1690,7 +1775,7 @@
    "Misc": {
     "Colors": "Starlight Black, Startrail Green, Startrail Silver",
     "Models": "23124RN87G, 23124RN87I, 23124RN87C",
-    "Price": "₹ 10,499"
+    "Price": "₹ 9,999"
    }
   }
  },
@@ -2055,7 +2140,7 @@
    },
    "Memory": {
     "Card slot": "microSDXC (dedicated slot)",
-    "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+    "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 4GB RAM, 256GB 8GB RAM",
     "info": "eMMC 5.1"
    },
    "Main Camera": {
@@ -2091,7 +2176,7 @@
    "Misc": {
     "Colors": "Midnight Black, Navy Blue, Glacier White, Clover Green",
     "Models": "23100RN82L, 23106RN0DA, 23108RN04Y, 2311DRN14I",
-    "Price": "$ 109.00 / C$ 328.18 / £ 109.06 / € 108.00 / ₹ 7,699"
+    "Price": "$ 115.87 / C$ 323.37 / £ 98.83 / € 114.47 / ₹ 7,699"
    }
   }
  },
@@ -2172,7 +2257,7 @@
    "Misc": {
     "Colors": "Black, Blue, Purple",
     "Models": "2310FPCA4G",
-    "Price": "$ 105.00 / £ 145.02 / € 122.50 / ₹ 7,299"
+    "Price": "$ 89.80 / £ 118.99 / € 121.68 / ₹ 6,799"
    },
    "Tests": {
     "Performance": "AnTuTu: 242885 (v9), 261613 (v10)\nGeekBench: 1201 (v5), 1292 (v6)",
@@ -2346,7 +2431,7 @@
    "Misc": {
     "Colors": "Alpine Blue, Meadow Green, Black",
     "Models": "23078PND5G",
-    "Price": "$ 649.50 / C$ 999.99 / £ 481.09 / € 511.00"
+    "Price": "$ 584.35 / C$ 999.99 / £ 497.85 / € 539.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 1214085 (v9), 1470464 (v10)\nGeekBench: 4859 (v5), 4518 (v6)\nGFXBench: 84fps (ES 3.1 onscreen)",
@@ -2437,7 +2522,7 @@
    "Misc": {
     "Colors": "Alpine Blue, Meadow Green, Black",
     "Models": "2306EPN60G",
-    "Price": "$ 499.50 / £ 416.99 / € 428.90"
+    "Price": "$ 469.50 / £ 403.76 / € 399.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 825858 (v9), 888714 (v10)\nGeekBench: 3755 (v5), 3841 (v6)\nGFXBench: 43fps (ES 3.1 onscreen)",
@@ -2898,7 +2983,7 @@
    },
    "Platform": {
     "OS": "Android 13, MIUI 14",
-    "Chipset": "Qualcomm Snapdragon 4 Gen 2 (4 nm)",
+    "Chipset": "Qualcomm SM4450 Snapdragon 4 Gen 2 (4 nm)",
     "CPU": "Octa-core (2x2.2 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55)",
     "GPU": "Adreno 613"
    },
@@ -2942,7 +3027,7 @@
    "Misc": {
     "Colors": "Power Black, Forest Green",
     "Models": "23076PC4BI",
-    "Price": "₹ 9,935"
+    "Price": "₹ 9,499"
    }
   }
  },
@@ -2982,7 +3067,7 @@
    },
    "Platform": {
     "OS": "Android 13, MIUI 14",
-    "Chipset": "Qualcomm Snapdragon 4 Gen 2 (4 nm)",
+    "Chipset": "Qualcomm SM4450 Snapdragon 4 Gen 2 (4 nm)",
     "CPU": "Octa-core (2x2.2 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55)",
     "GPU": "Adreno 613"
    },
@@ -3026,7 +3111,7 @@
    "Misc": {
     "Colors": "Jade Black, Pastel Blue, Moonstone Silver",
     "Models": "23076RN4BI, 23076RN8DY",
-    "Price": "£ 140.86 / € 142.57 / ₹ 11,999"
+    "Price": "£ 129.49 / € 135.42 / ₹ 11,990"
    }
   }
  },
@@ -3065,7 +3150,7 @@
    },
    "Platform": {
     "OS": "Android 13, MIUI 14",
-    "Chipset": "Qualcomm Snapdragon 4 Gen 2 (4 nm)",
+    "Chipset": "Qualcomm SM4450 Snapdragon 4 Gen 2 (4 nm)",
     "CPU": "Octa-core (2x2.2 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55)",
     "GPU": "Adreno 613"
    },
@@ -3269,7 +3354,7 @@
    "Misc": {
     "Colors": "Midnight Black, Sky Blue, Polar Silver, Moonstone Silver",
     "Models": "23053RN02A, 23053RN02Y, 23053RN02I, 23053RN02L",
-    "Price": "$ 129.00 / C$ 254.11 / £ 95.00 / € 118.99 / ₹ 9,899"
+    "Price": "$ 119.00 / C$ 299.99 / £ 95.00 / € 109.95 / ₹ 9,500"
    },
    "Tests": {
     "Performance": "AnTuTu: 258006 (v9)\nGeekBench: 1303 (v5.1), 1380 (v6)\nGFXBench: 9fps (ES 3.1 onscreen)",
@@ -3521,7 +3606,7 @@
    "Misc": {
     "Colors": "Black, White",
     "Models": "23013PC75G",
-    "Price": "$ 431.80 / £ 379.00 / € 428.69"
+    "Price": "$ 436.99 / £ 499.99 / € 473.20"
    },
    "Tests": {
     "Performance": "AnTuTu: 1057977 (v9)\nGeekBench: 4001 (v5.1), 4009 (v6)\nGFXBench: 50fps (ES 3.1 onscreen)",
@@ -3547,7 +3632,7 @@
     "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
     "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41, 66",
     "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 77, 78 SA/NSA",
-    "Speed": "HSPA, LTE (CA), 5G"
+    "Speed": "HSPA, LTE, 5G"
    },
    "Launch": {
     "Announced": "2023, May 09",
@@ -3610,7 +3695,7 @@
    "Misc": {
     "Colors": "Black, Blue, White",
     "Models": "23049PCD8G, 23049PCD8I",
-    "Price": "$ 339.99 / € 327.32 / ₹ 28,999"
+    "Price": "$ 369.50 / € 309.06"
    },
    "Tests": {
     "Performance": "AnTuTu: 931174 (v9)\nGeekBench: 3939 (v5.1), 4348 (v6)\nGFXBench: 66fps (ES 3.1 onscreen)",
@@ -3702,7 +3787,7 @@
    "Misc": {
     "Colors": "Black, Olive Green, White, Orange, Yellow, Blue",
     "Models": "2304FPN6DC, 2304FPN6DG",
-    "Price": "$ 869.49"
+    "Price": "$ 779.50"
    },
    "Tests": {
     "Performance": "AnTuTu: 1268538 (v9)\nGeekBench: 5049 (v5.1), 5556 (v6)\nGFXBench: 110fps (ES 3.1 onscreen)",
@@ -3949,7 +4034,7 @@
     "Colors": "Power Black, Royal Blue",
     "Models": "MZB0E6DIN, MZB0DXKIN, 2302EPCC4I, 2305EPCC4G",
     "SAR": "0.97 W/kg (head)     0.87 W/kg (body)",
-    "Price": "₹ 9,499"
+    "Price": "About 100 EUR"
    }
   }
  },
@@ -4025,7 +4110,7 @@
    "Misc": {
     "Colors": "Onyx Black, Ice Blue, Pearl Green",
     "Models": "2303CRA44A, 23030RAC7Y, 2303ERA42L",
-    "Price": "$ 189.50 / £ 184.82 / € 163.77"
+    "Price": "$ 178.00 / £ 176.22 / € 153.89"
    }
   }
  },
@@ -4101,7 +4186,7 @@
    "Misc": {
     "Colors": "Star Blue, Graphite Gray, Polar White, Ice blue",
     "Models": "‎2209116AG, 2209116AG",
-    "Price": "$ 228.99 / € 224.98"
+    "Price": "$ 180.00 / € 193.00"
    }
   }
  },
@@ -4257,7 +4342,7 @@
    "Misc": {
     "Colors": "Aqua Blue, Classic Black, Sea Green",
     "Models": "23028RNCAG, 23028RN4DI, 23028RNCAI",
-    "Price": "$ 84.99 / £ 84.04 / € 79.00 / ₹ 7,499"
+    "Price": "$ 84.99 / € 85.41 / ₹ 7,999"
    }
   }
  },
@@ -4333,7 +4418,7 @@
    "Misc": {
     "Colors": "Aqua Blue, Classic Black, Sea Green",
     "Models": "23028RN4DG, 23026RN54G",
-    "Price": "$ 74.38 / £ 59.99 / € 72.13 / ₹ 5,299"
+    "Price": "$ 74.38 / £ 49.99 / € 59.99 / ₹ 7,999"
    }
   }
  },
@@ -4414,7 +4499,7 @@
    "Misc": {
     "Colors": "Onyx Gray, Mint Green, Ice Blue",
     "Models": "23021RAAEG, 23021RAA2Y, 23027RAD4I, 23028RA60L",
-    "Price": "$ 144.00 / £ 122.74 / € 121.08 / ₹ 9,299"
+    "Price": "$ 133.76 / £ 112.02 / € 101.88 / ₹ 10,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 319219 (v9)\nGeekBench: 1797 (v5.1), 1341 (v6)\nGFXBench: 7.5fps (ES 3.1 onscreen)",
@@ -4505,7 +4590,7 @@
    "Misc": {
     "Colors": "Ceramic White, Ceramic Black, Ceramic Flora Green, Mountain Blue",
     "Models": "2210132G, 2210132C",
-    "Price": "€ 665.00 / ₹ 85,211"
+    "Price": "€ 599.99 / ₹ 85,766"
    },
    "Tests": {
     "Performance": "AnTuTu: 1281666 (v9)\nGeekBench: 5087 (v5.1), 5323 (v6)\nGFXBench: 64fps (ES 3.1 onscreen)",
@@ -4597,7 +4682,7 @@
    "Misc": {
     "Colors": "White, Black, Flora Green, Mountain Blue, Red, Blue, Yellow, Green, Gray",
     "Models": "2211133C, 2211133G",
-    "Price": "$ 882.40 / £ 647.41 / € 673.26"
+    "Price": "$ 799.00 / € 614.38"
    },
    "Tests": {
     "Performance": "AnTuTu: 1248260 (v9)\nGeekBench: 5129 (v5.1)\nGFXBench: 109fps (ES 3.1 onscreen)",
@@ -4686,7 +4771,7 @@
    },
    "Misc": {
     "Colors": "Black, Lite Blue, Lite Pink",
-    "Price": "€ 359.99"
+    "Price": "£ 595.00 / € 235.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 534143 (v9)\nGeekBench: 2936 (v5.1), 2434 (v6)\nGFXBench: 33fps (ES 3.1 onscreen)",
@@ -4775,7 +4860,7 @@
     "Colors": "Cool Blue, Power Black, Forest Green",
     "Models": "22127PC95I",
     "SAR": "0.87 W/kg (head)     0.77 W/kg (body)",
-    "Price": "₹ 6,499"
+    "Price": "₹ 7,499"
    }
   }
  },
@@ -4858,7 +4943,7 @@
    "Misc": {
     "Colors": "Astral Black, Horizon Blue, Poco Yellow",
     "Models": "22101320G, 22101320I",
-    "Price": "$ 241.19 / £ 273.08 / € 119.04 / ₹ 19,879"
+    "Price": "$ 241.19 / £ 266.89 / € 198.66 / ₹ 18,989"
    },
    "Tests": {
     "Performance": "AnTuTu: 531398 (v9)\nGeekBench: 2930 (v5.1)\nGFXBench: 28fps (ES 3.1 onscreen)",
@@ -4949,7 +5034,7 @@
     "Colors": "Jaguar Black, Wildcat Blue, Supernova Green",
     "Models": "22111317PG, 22111317PI",
     "SAR": "0.84 W/kg (head)     0.68 W/kg (body)",
-    "Price": "$ 214.99 / € 186.48"
+    "Price": "$ 214.99 / € 161.63"
    },
    "Tests": {
     "Performance": "AnTuTu: 400895 (v9)\nGeekBench: 2088 (v5.1)",
@@ -5038,7 +5123,7 @@
    "Misc": {
     "Colors": "Frosted Green, Matte Black, Mystique Blue",
     "Models": "22111317I, 22111317G",
-    "Price": "$ 189.50 / £ 135.00 / € 160.11 / ₹ 11,999"
+    "Price": "$ 177.50 / £ 128.85 / € 147.99 / ₹ 11,979"
    },
    "Tests": {
     "Performance": "AnTuTu: 360745 (v9)\nGeekBench: 1998\t(v5.1), 2017 (v6)",
@@ -5524,7 +5609,7 @@
    "Misc": {
     "Colors": "Graphite Gray, Ocean Blue, Mint Green, Lavender Purple",
     "Models": "22120RN86G, 22120RN86I, 22126RN91Y, 2212ARNC4L",
-    "Price": "$ 95.99 / £ 88.44 / € 89.99"
+    "Price": "$ 95.99 / £ 83.49 / € 79.00"
    }
   }
  },
@@ -5689,7 +5774,7 @@
    "Misc": {
     "Colors": "Arctic White, Iceberg Blue, Obsidian Black, Trend edition",
     "Models": "22101316UCP, 22101316UG",
-    "Price": "$ 337.40 / £ 263.23 / € 241.34 / ₹ 19,795"
+    "Price": "$ 329.50 / £ 263.25 / € 272.84 / ₹ 22,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 498710 (v9)\nGeekBench: 2208 (v5.1), 2372 (v6)\nGFXBench: 22fps (ES 3.1 onscreen)",
@@ -5781,7 +5866,7 @@
    "Misc": {
     "Colors": "Frosted Blue (Sky Blue), Onyx Black (Midnight Black), Polar White, Stardust Purple",
     "Models": "22101316C, 22101316I, 23013RK75C, 22101316G",
-    "Price": "$ 229.99 / £ 196.00 / € 173.73 / ₹ 20,499"
+    "Price": "$ 199.99 / £ 185.00 / € 193.00 / ₹ 16,300"
    },
    "Tests": {
     "Performance": "AnTuTu: 490526 (v9)\nGeekBench: 2209 (v5.1), 2372 (v6)\nGFXBench: 22fps (ES 3.1 onscreen)",
@@ -5954,7 +6039,7 @@
     "Models": "22081212UG, 22081212G",
     "SAR": "1.08 W/kg (head)     1.07 W/kg (body)",
     "SAR EU": "1.00 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 599.00 / € 349.33"
+    "Price": "$ 529.00 / € 277.85"
    },
    "Tests": {
     "Performance": "AnTuTu: 1032185 (v9)\nGeekBench: 4081 (v5.1)\nGFXBench: 65fps (ES 3.1 onscreen)",
@@ -6044,7 +6129,7 @@
     "Models": "22071212AG",
     "SAR": "1.09 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.99 W/kg (head)     0.99 W/kg (body)",
-    "Price": "£ 407.45 / € 200.04"
+    "Price": "£ 302.81 / € 200.96"
    },
    "Tests": {
     "Performance": "AnTuTu: 780204 (v9)\nGeekBench: 3756 (v5.1)",
@@ -6293,7 +6378,7 @@
     "Models": "220733SFG",
     "SAR": "1.00 W/kg (head)     1.10 W/kg (body)",
     "SAR EU": "0.91 W/kg (head)     1.00 W/kg (body)",
-    "Price": "£ 74.84 / € 74.00 / ₹ 5,990"
+    "Price": "£ 72.70 / € 77.98"
    }
   }
  },
@@ -6612,7 +6697,7 @@
     "Models": "220733SI, 220733SG, 220733SL, 220743FI, 220733SH",
     "SAR": "1.10 W/kg (head)     1.03 W/kg (body)",
     "SAR EU": "0.85 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 71.40 / £ 74.99 / € 71.05 / ₹ 5,290"
+    "Price": "$ 71.40 / £ 69.99 / € 69.43"
    }
   }
  },
@@ -6695,7 +6780,7 @@
     "Models": "2207117BPG",
     "SAR": "1.00 W/kg (head)     0.65 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.87 W/kg (body)",
-    "Price": "$ 145.00 / £ 143.47 / € 119.90"
+    "Price": "$ 145.00 / £ 130.00 / € 125.13"
    },
    "Tests": {
     "Performance": "AnTuTu: 360681 (v9)\nGeekBench: 1831 (v5.1)\nGFXBench: 18fps (ES 3.1 onscreen)",
@@ -6783,7 +6868,7 @@
     "Models": "22071219CG",
     "SAR": "1.04 W/kg (head)     0.83 W/kg (body)",
     "SAR EU": "0.52 W/kg (head)     0.83 W/kg (body)",
-    "Price": "$ 144.97 / £ 146.88 / € 83.43"
+    "Price": "$ 139.87 / £ 139.88 / € 85.55"
    },
    "Tests": {
     "Performance": "AnTuTu: 386311 (v9)\nGeekBench: 1896 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
@@ -7038,7 +7123,7 @@
     "Models": "22041219PG",
     "SAR": "1.09 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 143.75 / € 135.99"
+    "Price": "$ 115.00 / £ 150.99 / € 131.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 336380 (v9)\nGeekBench: 1730 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
@@ -7373,7 +7458,7 @@
    "Misc": {
     "Colors": "Phantom Blue, Stealth Black, Quick Silver",
     "Models": "22041216I",
-    "Price": "₹ 27,999"
+    "Price": "₹ 16,499"
    }
   }
  },
@@ -7457,7 +7542,7 @@
     "Models": "2203129G",
     "SAR": "1.09 W/kg (head)     0.73 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 277.00 / C$ 393.38 / £ 330.99 / € 215.50"
+    "Price": "$ 249.99 / C$ 380.48 / € 192.59"
    },
    "Tests": {
     "Performance": "AnTuTu: 528905 (v9)\nGeekBench: 2943 (v5.1)\nGFXBench: 29fps (ES 3.1 onscreen)",
@@ -7884,7 +7969,7 @@
    "Misc": {
     "Colors": "Moonlight Silver, Night Black, Nebula Green",
     "Models": "22021211RG, 22021211RI",
-    "Price": "$ 229.99 / £ 324.99 / € 296.43 / ₹ 17,998"
+    "Price": "$ 243.20 / £ 309.99 / € 268.34 / ₹ 17,998"
    },
    "Tests": {
     "Performance": "AnTuTu: 590961 (v8), 698586 (v9)\nGeekBench: 3190 (v5.1)\nGFXBench: 49fps (ES 3.1 onscreen)",
@@ -7973,7 +8058,7 @@
     "Models": "22041216G",
     "SAR": "1.09 W/kg (head)     0.92 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 299.20 / € 298.48"
+    "Price": "$ 299.20 / € 256.98"
    },
    "Tests": {
     "Performance": "AnTuTu: 747871 (v9)\nGeekBench: 3719 (v5.1)\nGFXBench: 46fps (ES 3.1 onscreen)",
@@ -8059,7 +8144,7 @@
    "Misc": {
     "Colors": "Power Black, Coral Green, Poco Yellow",
     "Models": "220333QPG",
-    "Price": "$ 86.70 / € 89.00"
+    "Price": "$ 86.70 / £ 147.54 / € 89.16"
    }
   }
  },
@@ -8552,7 +8637,7 @@
     "Models": "21121210G",
     "SAR": "1.09 W/kg (head)     0.99 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     0.96 W/kg (body)",
-    "Price": "$ 380.00 / £ 409.99 / € 340.54"
+    "Price": "$ 310.00 / £ 200.00 / € 349.11"
    },
    "Tests": {
     "Performance": "AnTuTu: 952124 (v9)\nGeekBench: 3637 (v5.1)",
@@ -8796,7 +8881,7 @@
     "Models": "220233L2C, 220233L2G, 220233L2I",
     "SAR": "0.90 W/kg (head)     0.65 W/kg (body)",
     "SAR EU": "0.40 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 72.19 / £ 111.99 / € 86.40"
+    "Price": "$ 75.00 / £ 81.96 / € 86.79"
    }
   }
  },
@@ -8879,7 +8964,7 @@
     "Models": "22031116BG",
     "SAR": "1.09 W/kg (head)     1.00 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 224.99 / £ 151.88 / € 136.91"
+    "Price": "$ 159.99 / C$ 272.88 / £ 144.71 / € 130.00"
    },
    "Tests": {
     "Performance": "AnTuTu: 360255 (v9)\nGeekBench: 1820 (v5.1)\nGFXBench: 13fps (ES 3.1 onscreen)",
@@ -8970,7 +9055,7 @@
     "Models": "22041219G, 22041219NY",
     "SAR": "1.09 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 134.31 / € 116.25"
+    "Price": "$ 134.80 / € 107.00"
    }
   }
  },
@@ -9054,7 +9139,7 @@
     "Models": "21091116UG, 21091116UC",
     "SAR": "1.09 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 297.50 / € 214.37"
+    "Price": "$ 297.50 / € 219.34"
    },
    "Tests": {
     "Performance": "AnTuTu: 375528 (v8), 437872 (v9)\nGeekBench: 2225 (v5.1)\nGFXBench: 22fps (ES 3.1 onscreen)",
@@ -9391,7 +9476,7 @@
     "Models": "2201122C, 2201122G",
     "SAR": "1.09 W/kg (head)     1.05 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 430.00 / £ 418.00 / € 351.99 / ₹ 31,999"
+    "Price": "$ 459.88 / £ 280.00 / € 303.99 / ₹ 31,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 985226 (v9)\nGeekBench: 3682 (v5.1)\nGFXBench: 46fps (ES 3.1 onscreen)",
@@ -9484,7 +9569,7 @@
     "Models": "2201123G, 2201123C",
     "SAR": "1.09 W/kg (head)     0.91 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 189.99 / £ 359.99 / € 339.99"
+    "Price": "$ 179.99 / £ 319.00 / € 248.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 985115 (v9)\nGeekBench: 3652 (v5.1)\nGFXBench: 75fps (ES 3.1 onscreen)",
@@ -9574,7 +9659,7 @@
     "Colors": "Gray, Blue, Purple",
     "Models": "2112123AC, 2112123AG",
     "SAR EU": "0.59 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 319.99 / € 225.49"
+    "Price": "$ 389.99 / € 195.48"
    },
    "Tests": {
     "Performance": "AnTuTu: 598003 (v8), 690298 (v9)\nGeekBench: 3168 (v5.1)\nGFXBench: 47fps (ES 3.1 onscreen)",
@@ -9739,7 +9824,7 @@
     "Models": "220333QAG, 220333QBI, 220333QNY, 220333QL",
     "SAR": "0.96 W/kg (head)     1.02 W/kg (body)",
     "SAR EU": "0.57 W/kg (head)     0.96 W/kg (body)",
-    "Price": "$ 124.99 / £ 94.89 / € 82.66"
+    "Price": "$ 84.99 / £ 94.89 / € 99.90"
    }
   }
  },
@@ -10066,7 +10151,7 @@
     "Models": "2201116PG",
     "SAR": "1.06 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.96 W/kg (body)",
-    "Price": "$ 210.00 / £ 230.00 / € 195.66 / ₹ 13,999"
+    "Price": "$ 209.50 / £ 334.99 / € 147.88 / ₹ 14,950"
    },
    "Tests": {
     "Performance": "AnTuTu: 335353 (v8), 384646 (v9)\nGeekBench: 2063 (v5.1)\nGFXBench: 17fps (ES 3.1 onscreen)",
@@ -10160,7 +10245,7 @@
     "Models": "MZB0B5VIN, 2201117PI, 2201117PG",
     "SAR": "0.85 W/kg (head)     0.85 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     0.84 W/kg (body)",
-    "Price": "£ 196.85 / € 172.17"
+    "Price": "£ 186.81 / € 151.45"
    },
    "Tests": {
     "Performance": "AnTuTu: 318444 (v9)\nGeekBench: 1836 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
@@ -10332,7 +10417,7 @@
     "Colors": "Carbon Gray, Pebble White, Sea Blue",
     "Models": "21121119SG, 22011119UY, 21121119VL",
     "SAR": "0.77 W/kg (head)     0.74 W/kg (body)",
-    "Price": "$ 112.50 / £ 88.39 / € 91.49"
+    "Price": "$ 99.50 / £ 89.97 / € 85.90"
    }
   }
  },
@@ -10416,7 +10501,7 @@
     "Models": "21091116I, 2201116SG",
     "SAR": "1.05 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.96 W/kg (body)",
-    "Price": "$ 214.99 / £ 171.48 / € 174.99"
+    "Price": "$ 190.00 / £ 134.48 / € 137.00"
    },
    "Tests": {
     "Performance": "AnTuTu: 288914 (v8), 382902 (v9)\nGeekBench: 2063 (v5.1)\nGFXBench: 17fps (ES 3.1 onscreen)",
@@ -10509,7 +10594,7 @@
     "Models": "2201116TG, 2201116TI",
     "SAR": "1.08 W/kg (head)     1.08 W/kg (body)",
     "SAR EU": "0.58 W/kg (head)     0.86 W/kg (body)",
-    "Price": "$ 190.00 / £ 179.99 / € 168.00"
+    "Price": "$ 190.00 / £ 179.77 / € 165.84"
    },
    "Tests": {
     "Performance": "AnTuTu: 261309 (v8), 319093 (v9)\nGeekBench: 1729 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
@@ -10601,7 +10686,7 @@
     "Models": "2201117SG, 2201117SI, 2201117SY, 2201117SL",
     "SAR": "1.09 W/kg (head)     1.05 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     0.88 W/kg (body)",
-    "Price": "$ 164.99 / £ 151.90 / € 146.60"
+    "Price": "$ 139.99 / £ 138.90 / € 129.61"
    },
    "Tests": {
     "Performance": "AnTuTu: 251201 (v8), 308741 (v9)\nGeekBench: 1873 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
@@ -10692,7 +10777,7 @@
     "Models": "2201117TG, 2201117TI, 2201117TY, 2201117TL",
     "SAR": "0.97 W/kg (head)     0.93 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 159.00 / £ 127.07 / € 109.13 / ₹ 8,799"
+    "Price": "$ 159.99 / £ 119.99 / € 121.21 / ₹ 8,480"
    },
    "Tests": {
     "Performance": "AnTuTu: 228044 (v8), 244526 (v9)\nGeekBench: 1662 (v5.1)\nGFXBench: 6.8fps (ES 3.1 onscreen)",
@@ -10871,7 +10956,7 @@
     "Colors": "Camo Green, Stealth Black, Purple Mist, Pacific Pearl",
     "Models": "‎MZB0A5EIN",
     "SAR": "0.82 W/kg (head)     0.61 W/kg (body)",
-    "Price": "₹ 14,999"
+    "Price": "₹ 15,499"
    }
   }
  },
@@ -10952,7 +11037,7 @@
    "Misc": {
     "Colors": "Aquamarine Blue, Stardust White, Matte Black",
     "Models": "21091116AI",
-    "Price": "₹ 12,990"
+    "Price": "₹ 9,990"
    }
   }
  },
@@ -11029,7 +11114,7 @@
    "Misc": {
     "Colors": "Carbon Gray, Pebble White, Sea Blue",
     "Models": "21121119SC",
-    "Price": "$ 159.00 / £ 134.99 / € 149.00"
+    "Price": "£ 144.00 / € 144.00"
    }
   }
  },
@@ -11114,7 +11199,7 @@
     "Models": "21091116AG, MZB0BGVIN",
     "SAR": "1.07 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 144.40 / £ 244.00 / € 184.09 / ₹ 9,999"
+    "Price": "$ 144.40 / £ 166.04 / € 161.90 / ₹ 9,990"
    },
    "Tests": {
     "Performance": "AnTuTu: 296721 (v8), 353663 (v9)\nGeekBench: 1797 (v5.1)\nGFXBench: 13fps (ES 3.1 onscreen)",
@@ -11837,7 +11922,7 @@
     "Colors": "Meteorite Gray, Moonlight White, Celestial Blue",
     "Models": "2107113SG, 2107113SI, 2107113SR",
     "SAR": "0.78 W/kg (head)     0.49 W/kg (body)",
-    "Price": "$ 410.00 / £ 194.99 / € 165.10 / ₹ 21,499"
+    "Price": "$ 299.99 / £ 194.99 / € 184.88 / ₹ 21,990"
    },
    "Tests": {
     "Display": "Contrast ratio: Infinite (nominal)",
@@ -11926,7 +12011,7 @@
     "Models": "21081111RG",
     "SAR": "1.09 W/kg (head)     0.83 W/kg (body)",
     "SAR EU": "0.55 W/kg (head)     0.95 W/kg (body)",
-    "Price": "$ 219.00 / £ 279.99 / € 183.20"
+    "Price": "$ 309.20 / £ 299.99 / € 149.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 590837 (v9)\nGeekBench: 2834 (v5.1)\nGFXBench: 40fps (ES 3.1 onscreen)",
@@ -12017,7 +12102,7 @@
     "Models": "2109119DG, 2107119DC, 2109119DI",
     "SAR": "1.09 W/kg (head)     1.05 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     0.95 W/kg (body)",
-    "Price": "£ 169.99 / € 179.00 / ₹ 17,499"
+    "Price": "£ 104.99 / € 179.00 / ₹ 14,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 527663 (v9)\nGeekBench: 2832 (v5.1)\nGFXBench: 28fps (ES 3.1 onscreen)",
@@ -12187,7 +12272,7 @@
    "Misc": {
     "Colors": "Carbon Gray, Pebble White, Sea Blue",
     "Models": "21061119AG, 21061119DG, 21061119AL",
-    "Price": "$ 99.99 / £ 109.96 / € 102.93 / ₹ 9,299"
+    "Price": "$ 115.70 / £ 101.99 / € 89.55 / ₹ 9,480"
    },
    "Tests": {
     "Display": "Contrast ratio: 1494:1",
@@ -12526,7 +12611,7 @@
     "Models": "21061110AG",
     "SAR": "1.09 W/kg (head)     1.05 W/kg (body)",
     "SAR EU": "0.58 W/kg (head)     0.94 W/kg (body)",
-    "Price": "$ 270.00 / € 249.73"
+    "Price": "£ 449.00 / € 382.16"
    },
    "Tests": {
     "Performance": "AnTuTu: 506800 (v8) | 578505 (v9)\nGeekBench: 2310 (v5.1)\nGFXBench: 38fps (ES 3.1 onscreen)",
@@ -12957,7 +13042,7 @@
     "Models": "M2103K19PG, M2103K19PI, M2103K19PY",
     "SAR": "0.94 W/kg (head)     1.06 W/kg (body)",
     "SAR EU": "0.54 W/kg (head)     0.90 W/kg (body)",
-    "Price": "$ 109.99 / £ 223.86 / € 164.99"
+    "Price": "$ 185.00 / £ 200.00 / € 164.99 / ₹ 11,930"
    },
    "Tests": {
     "Display": "Contrast ratio: 1475:1 (nominal)",
@@ -13129,7 +13214,7 @@
     "Colors": "Celestial Silver, Lunar White, Cosmic Black",
     "Models": "M2012K11I",
     "SAR": "0.85 W/kg (head)     0.60 W/kg (body)",
-    "Price": "₹ 23,499"
+    "Price": "₹ 18,999"
    }
   }
  },
@@ -13211,7 +13296,7 @@
     "Colors": "Celestial Silver, Lunar White, Cosmic Black",
     "Models": "M2012K11AI",
     "SAR": "0.86 W/kg (head)     0.69 W/kg (body)",
-    "Price": "₹ 18,999"
+    "Price": "₹ 14,999"
    }
   }
  },
@@ -13633,7 +13718,7 @@
     "Models": "M2012K11G",
     "SAR": "0.95 W/kg (head)     0.74 W/kg (body)",
     "SAR EU": "0.57 W/kg (head)     0.77 W/kg (body)",
-    "Price": "€ 273.00"
+    "Price": "€ 187.65"
    },
    "Tests": {
     "Performance": "AnTuTu: 690021 (v8)\nGeekBench: 3641 (v5.1)",
@@ -13727,7 +13812,7 @@
     "Models": "M2101K9G, M2101K9C, M2101K9R",
     "SAR": "1.03 W/kg (head)     1.06 W/kg (body)",
     "SAR EU": "0.56 W/kg (head)     0.89 W/kg (body)",
-    "Price": "$ 299.99 / £ 167.00 / € 125.68"
+    "Price": "$ 279.99 / £ 104.99 / € 116.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 465534 (v8) | 522490 (v9)\nGeekBench: 2909 (v5.1)\nGFXBench: 35fps (ES 3.1 onscreen)",
@@ -13818,7 +13903,7 @@
     "Models": "M2101K9AG, M2101K9AI",
     "SAR": "1.07 W/kg (head)     0.82 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.95 W/kg (body)",
-    "Price": "$ 249.99 / € 132.99 / ₹ 13,890"
+    "Price": "$ 209.00 / € 114.99 / ₹ 21,990"
    },
    "Tests": {
     "Performance": "AnTuTu: 290172 (v8), 294251 (v9)\nGeekBench: 1796 (v5.1)\nGFXBench: 17fps (ES 3.1 onscreen)",
@@ -13911,7 +13996,7 @@
     "Models": "M2102J20SG, M2102J20SI",
     "SAR": "0.99 W/kg (head)     0.67 W/kg (body)",
     "SAR EU": "0.57 W/kg (head)     0.90 W/kg (body)",
-    "Price": "$ 279.99 / C$ 474.73 / £ 265.00 / € 173.63 / ₹ 11,499"
+    "Price": "$ 290.00 / £ 265.00 / € 159.99 / ₹ 8,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 453223 (v8)\nGeekBench: 2574 (v5.1)\nGFXBench: 38fps (ES 3.1 onscreen)",
@@ -14004,7 +14089,7 @@
     "Models": "M2012K11AG",
     "SAR": "1.06 W/kg (head)     0.72 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.84 W/kg (body)",
-    "Price": "$ 223.20 / £ 250.00 / € 184.74"
+    "Price": "$ 223.20 / £ 250.00 / € 181.21"
    },
    "Tests": {
     "Performance": "AnTuTu: 631850 (v8), 697216 (v9)\nGeekBench: 3206 (v5.1)\nGFXBench: 48fps (ES 3.1 onscreen)",
@@ -14176,7 +14261,7 @@
     "Models": "M2101K6G, M2101K6R",
     "SAR": "1.09 W/kg (head)     1.06 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 152.25 / £ 179.00 / € 145.26 / ₹ 11,999"
+    "Price": "$ 144.90 / £ 199.99 / € 140.06 / ₹ 11,490"
    },
    "Tests": {
     "Performance": "AnTuTu: 295442 (v8)\nGeekBench: 1780 (v5.1)\nGFXBench: 16fps (ES 3.1 onscreen)",
@@ -14267,7 +14352,7 @@
     "Models": "M2103K19G, M2103K19C",
     "SAR": "0.94 W/kg (head)     1.06 W/kg (body)",
     "SAR EU": "0.54 W/kg (head)     0.90 W/kg (body)",
-    "Price": "$ 157.40 / £ 119.00 / € 120.32"
+    "Price": "$ 157.40 / £ 117.99 / € 110.86"
    },
    "Tests": {
     "Display": "Contrast ratio: 1795:1 (nominal)",
@@ -14359,7 +14444,7 @@
     "Models": "M2101K7BG, M2101K7BI, M2101K7BNY, M2101K7BL",
     "SAR": "1.07 W/kg (head)     0.81 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.90 W/kg (body)",
-    "Price": "$ 169.99 / £ 119.99 / € 116.06 / ₹ 9,390"
+    "Price": "$ 170.00 / £ 119.99 / € 117.99 / ₹ 8,999"
    }
   }
  },
@@ -14444,7 +14529,7 @@
     "Models": "M2101K7AI, M2101K7AG",
     "SAR": "1.09 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     0.97 W/kg (body)",
-    "Price": "€ 105.61 / ₹ 8,999"
+    "Price": "£ 309.00 / € 101.32 / ₹ 8,790"
    },
    "Tests": {
     "Performance": "AnTuTu: 218788 (v8)\nGeekBench: 2860 (v5.1)\nGFXBench: 7.9fps (ES 3.1 onscreen)",
@@ -14941,7 +15026,7 @@
     "Models": "M2007J22G, J22",
     "SAR": "1.07 W/kg (head)     1.05 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     0.94 W/kg (body)",
-    "Price": "£ 119.00 / € 104.91"
+    "Price": "£ 137.12 / € 96.70"
    },
    "Tests": {
     "Performance": "AnTuTu: 288732 (v8)\nGeekBench: 1775 (v5.1)",
@@ -15033,7 +15118,7 @@
     "Models": "J19S, M2010J19SG, M2010J19SY",
     "SAR": "1.09 W/kg (head)     1.00 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.81 W/kg (body)",
-    "Price": "$ 94.99 / € 117.25"
+    "Price": "$ 84.99 / £ 139.90 / € 119.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 177917 (v8)\nGeekBench: 1400 (v5.1)\nGFXBench: 5.8fps (ES 3.1 onscreen)",
@@ -15161,7 +15246,7 @@
     "Protection": "Corning Gorilla Glass Victus"
    },
    "Platform": {
-    "OS": "Android 11, MIUI 12.5",
+    "OS": "Android 11, upgradable to Android 14, HyperOS",
     "Chipset": "Qualcomm SM8350 Snapdragon 888 5G (5 nm)",
     "CPU": "Octa-core (1x2.84 GHz Cortex-X1 & 3x2.42 GHz Cortex-A78 & 4x1.80 GHz Cortex-A55",
     "GPU": "Adreno 660"
@@ -15208,7 +15293,7 @@
     "Models": "M2011K2C, M2011K2G",
     "SAR": "0.95 W/kg (head)     0.65 W/kg (body)",
     "SAR EU": "0.56 W/kg (head)     0.98 W/kg (body)",
-    "Price": "£ 399.99 / € 279.00"
+    "Price": "£ 399.99 / € 199.90"
    },
    "Tests": {
     "Performance": "AnTuTu: 668722 (v8)\nGeekBench: 3489 (v5.1)\nGFXBench: 33fps (ES 3.1 onscreen)",
@@ -15626,7 +15711,7 @@
     "Models": "M2010J19CG, M2010J19CI",
     "SAR": "1.09 W/kg (head)     1.00 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.81 W/kg (body)",
-    "Price": "$ 170.00 / £ 99.00 / € 102.03 / ₹ 6,498"
+    "Price": "$ 179.99 / £ 99.99 / € 122.74 / ₹ 6,498"
    },
    "Tests": {
     "Performance": "AnTuTu: 177904 (v8)\nGeekBench: 1398 (v5.1)\nGFXBench: 5.9fps (ES 3.1 onscreen)",
@@ -15794,7 +15879,7 @@
     "Colors": "Arctic Blue, Lime Green, Matte Black",
     "Models": "M2006C3MII, MZB07RIIN, MZB07RJIN, MZB07QAIN, MZB07RLIN, MZB07RKIN, MZB07RHIN",
     "SAR": "0.51 W/kg (head)     0.83 W/kg (body)",
-    "Price": "₹ 5,799"
+    "Price": "About 80 EUR"
    }
   }
  },
@@ -15877,7 +15962,7 @@
     "Models": "M2007J3SG, M2007J3SP, M2007J3SI, M2007J17C",
     "SAR": "0.97 W/kg (head)     0.98 W/kg (body)",
     "SAR EU": "0.57 W/kg (head)     1.00 W/kg (body)",
-    "Price": "£ 306.43 / € 161.46 / ₹ 20,999"
+    "Price": "£ 272.49 / € 150.17 / ₹ 20,494"
    },
    "Tests": {
     "Performance": "AnTuTu: 563961 (v8)\nGeekBench: 3311 (v5.1)\nGFXBench: 46fps (ES 3.1 onscreen)",
@@ -15968,7 +16053,7 @@
     "Models": "M2007J3SY",
     "SAR": "0.97 W/kg (head)     0.98 W/kg (body)",
     "SAR EU": "0.57 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 179.99 / € 143.21 / ₹ 17,999"
+    "Price": "€ 199.00 / ₹ 21,999"
    }
   }
  },
@@ -16295,7 +16380,7 @@
     "Colors": "Brick Red, Pitch Black, Slate Blue",
     "Models": "MZB9919IN, M2004J19PI",
     "SAR": "0.85 W/kg (head)     0.42 W/kg (body)",
-    "Price": "₹ 7,850"
+    "Price": "₹ 7,999"
    }
   }
  },
@@ -16377,7 +16462,7 @@
     "Colors": "Cobalt Blue, Shadow Gray",
     "Models": "MZB07Z0IN, MZB07Z1IN, MZB07Z2IN, MZB07Z3IN, MZB07Z4IN, MZB9965IN, M2007J20CI",
     "SAR": "0.75 W/kg (head)     0.61 W/kg (body)",
-    "Price": "€ 224.00 / ₹ 9,990"
+    "Price": "€ 149.00 / ₹ 10,799"
    }
   }
  },
@@ -16460,7 +16545,7 @@
     "Models": "M2007J20CG, M2007J20CT",
     "SAR": "0.77 W/kg (head)     0.61 W/kg (body)",
     "SAR EU": "0.56 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 269.99 / € 142.00"
+    "Price": "$ 239.99 / € 120.53"
    },
    "Tests": {
     "Performance": "AnTuTu: 283750 (v8)\nGeekBench: 1777 (v5.1)\nGFXBench: 16fps (ES 3.1 onscreen)",
@@ -16799,7 +16884,7 @@
     "Colors": "Space Blue, Mint Green, Matte Black, Sunrise Flare",
     "Models": "M2004J19PI",
     "SAR": "0.85 W/kg (head)     0.42 W/kg (body)",
-    "Price": "₹ 5,999"
+    "Price": "₹ 7,599"
    }
   }
  },
@@ -16958,7 +17043,7 @@
     "Models": "M2006C3LG, M2006C3LI, M2006C3LC, M2004C3L",
     "SAR": "0.90 W/kg (head)     0.65 W/kg (body)",
     "SAR EU": "0.40 W/kg (head)     1.19 W/kg (body)",
-    "Price": "$ 69.00 / £ 72.00 / € 75.48"
+    "Price": "$ 69.00 / £ 72.00 / € 74.50"
    }
   }
  },
@@ -17114,7 +17199,7 @@
     "Models": "M2006C3MG, M2006C3MT",
     "SAR": "0.73 W/kg (head)     0.52 W/kg (body)",
     "SAR EU": "0.35 W/kg (head)     0.78 W/kg (body)",
-    "Price": "$ 99.99 / £ 84.99 / € 78.99"
+    "Price": "$ 64.80 / £ 77.99 / € 77.48"
    }
   }
  },
@@ -17196,7 +17281,7 @@
     "Models": "M2004J19G, M2004J19C",
     "SAR": "0.91 W/kg (head)     1.00 W/kg (body)",
     "SAR EU": "0.71 W/kg (head)     1.06 W/kg (body)",
-    "Price": "$ 127.35 / £ 103.31 / € 233.11 / ₹ 6,680"
+    "Price": "$ 130.50 / £ 98.81 / € 243.56 / ₹ 7,499"
    },
    "Tests": {
     "Performance": "AnTuTu: 201829 (v8)\nGeekBench: 1325 (v5.1)",
@@ -17611,7 +17696,7 @@
     "Models": "M2004J11G",
     "SAR": "1.09 W/kg (head)     0.51 W/kg (body)",
     "SAR EU": "0.79 W/kg (head)     1.03 W/kg (body)",
-    "Price": "£ 455.37 / € 269.40"
+    "Price": "£ 453.67 / € 134.89"
    },
    "Tests": {
     "Performance": "AnTuTu: 538221 (v8)\nGeekBench: 3332 (v5.1)\nGFXBench: 40fps (ES 3.1 onscreen)",
@@ -17780,7 +17865,7 @@
     "Models": "M2003J6B2G",
     "SAR": "0.87 W/kg (head)     0.71 W/kg (body)",
     "SAR EU": "0.66 W/kg (head)     1.02 W/kg (body)",
-    "Price": "$ 199.99 / £ 121.95 / € 114.76"
+    "Price": "$ 290.00 / £ 140.00 / € 96.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 279625 (v8)\nGeekBench: 1785 (v5.1)\nGFXBench: 15fps (ES 3.1 onscreen)",
@@ -17870,7 +17955,7 @@
     "Models": "M2003J15SC, M2003J15SG, M2003J15SS",
     "SAR": "0.84 W/kg (head)     0.90 W/kg (body)",
     "SAR EU": "0.80 W/kg (head)     1.14 W/kg (body)",
-    "Price": "$ 99.76 / £ 109.00 / € 91.67 / ₹ 8,139"
+    "Price": "$ 88.20 / £ 129.99 / € 134.69 / ₹ 6,998"
    },
    "Tests": {
     "Performance": "AnTuTu: 200414 (v8)\nGeekBench: 1292 (v5.1)",
@@ -17960,7 +18045,7 @@
     "Models": "M2002F4LG, M1910F4G",
     "SAR": "1.17 W/kg (head)     0.86 W/kg (body)",
     "SAR EU": "1.01 W/kg (head)     1.39 W/kg (body)",
-    "Price": "£ 239.99 / € 150.56"
+    "Price": "£ 239.99 / € 118.10"
    },
    "Tests": {
     "Performance": "AnTuTu: 253271 (v8)\nGeekBench: 1694 (v5.1)\nGFXBench: 15fps (ES 3.1 onscreen)",
@@ -18385,7 +18470,7 @@
     "Models": "M2003J6A1G",
     "SAR": "0.96 W/kg (head)     0.40 W/kg (body)",
     "SAR EU": "0.72 W/kg (head)     0.98 W/kg (body)",
-    "Price": "£ 101.93 / € 109.99"
+    "Price": "£ 152.53 / € 100.00"
    },
    "Tests": {
     "Performance": "AnTuTu: 254000 (v8)\nGeekBench: 1785 (v5.1)\nGFXBench: 15fps (ES 3.1 onscreen)",
@@ -18739,7 +18824,7 @@
     "Models": "M2001J2G, M2001J2I, Mi 10",
     "SAR": "1.09 W/kg (head)     1.02 W/kg (body)",
     "SAR EU": "0.69 W/kg (head)     0.99 W/kg (body)",
-    "Price": "£ 273.22 / € 173.99"
+    "Price": "£ 291.53 / € 181.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 578056 (v8)\nGeekBench: 3322 (v5.1)\nGFXBench: 42fps (ES 3.1 onscreen)",
@@ -18987,7 +19072,7 @@
     "Colors": "Atlantis Blue, Matrix Purple, Phoenix Red",
     "Models": "MZB9011IN, MZB9012IN, MZB9013IN, MZB8741IN, MZB8742IN, MZB8743IN, MZB8744IN, MZB8745IN, MZB8746IN",
     "SAR": "1.08 W/kg (head)     0.62 W/kg (body)",
-    "Price": "₹ 10,884"
+    "Price": "₹ 15,999"
    }
   }
  },
@@ -20678,7 +20763,7 @@
     "Models": "M1903F11G",
     "SAR": "1.03 W/kg (head)     0.72 W/kg (body)",
     "SAR EU": "1.30 W/kg (head)     1.51 W/kg (body)",
-    "Price": "€ 136.82"
+    "Price": "€ 122.27"
    },
    "Tests": {
     "Performance": "AnTuTu: 368846 (v7), 437823 (v8)\nGeekBench: 10684 (v4.4), 2732 (v5.1)\nGFXBench: 36fps (ES 3.1 onscreen)",

@@ -43,7 +43,7 @@
    "info": "UFS 4.0"
   },
   "Main Camera": {
-   "Triple": "64 MP, f/1.7, 25mm (wide), 0.7µm, PDAF, OIS\n8 MP, f/2.2, 120˚ (ultrawide)\n2 MP, f/2.4, (macro)",
+   "Triple": "64 MP, f/1.7, 25mm (wide), 1/2.0\", 0.7µm, PDAF, OIS\n8 MP, f/2.2, 120˚ (ultrawide)\n2 MP, f/2.4, (macro)",
    "Features": "LED flash, HDR, panorama",
    "Video": "4K@24/30fps, 1080p@30/60fps, gyro-EIS"
   },
@@ -59,7 +59,7 @@
   },
   "Comms": {
    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
-   "Bluetooth": "5.4, A2DP, LE",
+   "Bluetooth": "5.4, A2DP, LE, aptX HD",
    "Positioning": "GPS, GALILEO, GLONASS, QZSS, BDS (B1I+B1c)",
    "NFC": "Yes (market/region dependent)",
    "Infrared port": "Yes",
@@ -72,12 +72,12 @@
   },
   "Battery": {
    "Type": "5000 mAh, non-removable",
-   "Charging": "67W wired, 100% in 45 min (advertised)"
+   "Charging": "67W wired, QC2.0, PD3.0, 100% in 45 min (advertised)"
   },
   "Misc": {
    "Colors": "Black, Yellow, Gray",
    "Models": "2311DRK48G, 2311DRK48I",
-   "Price": "$ 332.99 / £ 279.66 / € 309.90 / ₹ 26,999"
+   "Price": "$ 259.56 / C$ 445.86 / £ 308.19 / € 299.49 / ₹ 22,999"
   },
   "Tests": {
    "Performance": "AnTuTu: 1396547 (v10)\nGeekBench: 4696 (v6)",

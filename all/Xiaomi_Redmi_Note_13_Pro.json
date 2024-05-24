@@ -50,7 +50,7 @@
    "Video": "4K@30fps, 1080p@30/60/120fps, gyro-EIS"
   },
   "Selfie camera": {
-   "Single": "16 MP, f/2.4, (wide)",
+   "Single": "16 MP, f/2.4, (wide), 1/3.06\", 1.0µm",
    "Features": "HDR, panorama",
    "Video": "1080p@30/60fps"
   },
@@ -79,7 +79,7 @@
   "Misc": {
    "Colors": "Midnight Black, Aurora Purple (Coral Purple), Ocean Teal, Arctic White",
    "Models": "2312DRA50C, 2312CRAD3C, 2312DRA50G, 2312DRA50I",
-   "Price": "$ 300.00 / £ 269.00 / € 299.00 / ₹ 25,999"
+   "Price": "$ 294.99 / C$ 514.99 / £ 269.00 / € 285.68 / ₹ 23,999"
   },
   "Tests": {
    "Performance": "AnTuTu: 523746 (v9), 581979 (v10)\nGeekBench: 2695 (v5), 2751 (v6)",
