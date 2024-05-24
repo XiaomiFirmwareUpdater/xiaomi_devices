@@ -336,6 +336,7 @@ selene_id_global - F
 selene_ru_global - F
 selene_tr_global - F
 selene_tw_global - F
+sheng_global - F
 sky_eea_global - F
 sky_global - F
 sky_jp_global - F
