@@ -576,6 +576,12 @@
   }
  },
  {
+  "atmos": {
+   "name": "Redmi 13C 5G",
+   "model": "23124RN87G"
+  }
+ },
+ {
   "cereus": {
    "name": "Redmi 6",
    "model": "Redmi 6"
@@ -3327,6 +3333,12 @@
   "yudi": {
    "name": "Xiaomi Pad 6 Max 14",
    "model": "2307BRPDCC"
+  }
+ },
+ {
+  "sheng": {
+   "name": "Xiaomi Pad 6S Pro 12.4",
+   "model": "24018RPACG"
   }
  },
  {
