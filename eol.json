@@ -765,6 +765,12 @@
      "deviceName": "Redmi Note 10 Pro (Global)",
      "sku": "sweet_global",
      "projectCode": "K6"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 10 (TR)",
+     "sku": "mojito_tr_global",
+     "projectCode": "K7A"
     }
    ]
   },
@@ -857,5 +863,5 @@
    ]
   }
  ],
- "updateAt": "2024-04-27T18:15:48.000Z"
+ "updateAt": "2024-05-26T23:20:36.000Z"
 }
