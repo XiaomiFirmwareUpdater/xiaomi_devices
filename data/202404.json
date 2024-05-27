@@ -1,0 +1,15 @@
+{
+ "id": 75,
+ "operator": "zhaotongtong3",
+ "publishedAt": "2024-05-27T07:22:19.107Z",
+ "status": 1,
+ "heavy": "CVE-2023-28582",
+ "high": "CVE-2023-21267;CVE-2024-0022;CVE-2023-33096;CVE-2023-33103;CVE-2023-33084;CVE-2023-33095;CVE-2023-33104;CVE-2023-33086;CVE-2024-23704;CVE-2023-33101;CVE-2023-33100;CVE-2023-28547;CVE-2023-33099;CVE-2023-33023;CVE-2023-33115;CVE-2024-23712;CVE-2024-23713;CVE-2024-0027;CVE-2024-0026;CVE-2024-23710;CVE-2024-0042;CVE-2024-21463;CVE-2024-21468;CVE-2024-21472;CVE-2024-20039;CVE-2024-20040;CVE-2023-32890",
+ "middle": "",
+ "low": "",
+ "ignoreable": "",
+ "models": "Xiaomi 11T;Redmi 13R 5G;Redmi 13C 5G;Xiaomi 13T;Xiaomi 14 Ultra Ti;Xiaomi 14 Ultra;Xiaomi MIX Fold 3;Redmi A3;Redmi K60 Ultra;Xiaomi 13T Pro;Xiaomi 12;Xiaomi 12T Pro;Redmi Pad Pro;Redmi Pad Pro 哈利波特版;POCO C55;Redmi 12;Redmi Note 11S;Redmi 10C;POCO C65;Redmi 13C;Redmi Note 13 5G;Redmi K40 Pro;Redmi K40 Pro +;Mi 11i;Xiaomi 14;Redmi A1;Redmi A1+;POCO C50;POCO F4 GT;Redmi Note 10 JE;Xiaomi 13 Ultra;POCO X5 5G;Redmi K40S;POCO F4;Xiaomi 13 Pro;MIX 4;Xiaomi 12T;Redmi Note 12 Pro 极速版;POCO M5;POCO M5s;Redmi Note 12 Pro+ 5G;Redmi Note 12 Pro 5G;Redmi Note 13;Redmi Note 12S;Redmi 12 5G;Mi 11 Pro;Mi 11 Ultra;Redmi Note 12 5G;Redmi Note 12;Xiaomi 12S Ultra;Xiaomi 12S Pro;Mi 11;Redmi Note 11 Pro 5G;Xiaomi 11T Pro;Redmi Note 11 Pro;Redmi A2;Redmi Note 11T Pro;Redmi Note 11T Pro +;Xiaomi 12 Pro;",
+ "modelsTl": "Xiaomi 11T;Redmi 13R 5G;Redmi 13C 5G;Xiaomi 13T;Xiaomi 14 Ultra Ti;Xiaomi 14 Ultra;Xiaomi MIX Fold 3;Redmi A3;Redmi K60 Ultra;Xiaomi 13T Pro;Xiaomi 12;Xiaomi 12T Pro;Redmi Pad Pro;Redmi Pad Pro Special Edition featuring Harry Potter;POCO C55;Redmi 12;Redmi Note 11S;Redmi 10C;POCO C65;Redmi 13C;Redmi Note 13 5G;Redmi K40 Pro;Redmi K40 Pro +;Mi 11i;Xiaomi 14;Redmi A1;Redmi A1+;POCO C50;POCO F4 GT;Redmi Note 10 JE;Xiaomi 13 Ultra;POCO X5 5G;Redmi K40S;POCO F4;Xiaomi 13 Pro;MIX 4;Xiaomi 12T;Redmi Note 12 Pro Speed;POCO M5;POCO M5s;Redmi Note 12 Pro+ 5G;Redmi Note 12 Pro 5G;Redmi Note 13;Redmi Note 12S;Redmi 12 5G;Mi 11 Pro;Mi 11 Ultra;Redmi Note 12 5G;Redmi Note 12;Xiaomi 12S Ultra;Xiaomi 12S Pro;Mi 11;Redmi Note 11 Pro 5G;Xiaomi 11T Pro;Redmi Note 11 Pro;Redmi A2;Redmi Note 11T Pro;Redmi Note 11T Pro +;Xiaomi 12 Pro;",
+ "createdAt": "2024-05-21T02:12:10.000Z",
+ "syncTime": "202404"
+}
