@@ -1258,11 +1258,12 @@
   }
  },
  "breeze": {
-  "internal_name": "N19",
-  "name": "Redmi 13 5G/Redmi Note 13R",
+  "internal_name": "N19/N19P",
+  "name": "Redmi 13 5G/Redmi Note 13R/POCO M6 Plus 5G",
   "models": {
    "`2406ERN9CC`": "Redmi Note 13R China",
-   "`2406ERN9CI`": "Redmi 13 5G India"
+   "`2406ERN9CI`": "Redmi 13 5G India",
+   "`24066PC95I`": "POCO M6 Plus 5G India"
   }
  },
  "gale": {
@@ -1283,11 +1284,17 @@
    "`2310FPCA4G`": "POCO C65 Global"
   }
  },
+ "atmos": {
+  "internal_name": "C3V",
+  "name": "Redmi 13C 5G",
+  "models": {
+   "`23124RN87G`": "Redmi 13C 5G Global"
+  }
+ },
  "air": {
   "internal_name": "C3V/C3VP",
   "name": "Redmi 13C 5G / Redmi 13R 5G/POCO M6 5G",
   "models": {
-   "`23124RN87G`": "Redmi 13C 5G Global",
    "`23124RN87I`": "Redmi 13C 5G India",
    "`23124RN87C`": "Redmi 13C 5G China / Redmi 13R 5G China",
    "`23128PC33I`": "POCO M6 5G India"
@@ -2174,6 +2181,14 @@
    "`2312BPC51H`": "POCO C61 India"
   }
  },
+ "klein": {
+  "internal_name": "",
+  "name": "Redmi A3x (`klein`)",
+  "models": {
+   "`24048RN6CG`": "Redmi A3x Global",
+   "`24048RN6CI`": "Redmi A3x India"
+  }
+ },
  "beryllium": {
   "internal_name": "E10",
   "name": "POCO F1",
@@ -2398,6 +2413,7 @@
   "models": {
    "`2405CRPFDG`": "Redmi Pad Pro Global",
    "`2405CRPFDC`": "Redmi Pad Pro China",
+   "`2405CRPFDL`": "Redmi Pad Pro Latin America",
    "`2405CPCFBG`": "POCO Pad Global"
   }
  },
