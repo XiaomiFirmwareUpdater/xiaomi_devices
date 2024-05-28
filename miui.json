@@ -524,6 +524,7 @@
  "peridot": "NPCN",
  "peridot_eea_global": "NPEU",
  "peridot_global": "NPMI",
+ "peridot_id_global": "NPID",
  "peridot_in_global": "NPIN",
  "peridot_ru_global": "NPRU",
  "perseus": "EECN",
