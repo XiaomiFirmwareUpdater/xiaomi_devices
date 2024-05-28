@@ -11,6 +11,10 @@
   "Mi 10T/Pro / Redmi K30S Ultra",
   "HMK30SUltra_MI10T"
  ],
+ "aurora": [
+  "Xiaomi 14 Ultra",
+  "AURORA"
+ ],
  "beryllium": [
   "Pocophone F1",
   "POCOF1"
@@ -275,6 +279,10 @@
   "Mi Max 2",
   "MIMAX2"
  ],
+ "peridot": [
+  "Redmi Turbo 3/POCO F6",
+  "PERIDOT"
+ ],
  "perseus": [
   "Mi MIX 3",
   "MIMix3"
@@ -354,6 +362,14 @@
  "santoni": [
   "Redmi 4X",
   "HM4X"
+ ],
+ "sapphire": [
+  "Redmi Note 13",
+  "SAPPHIREN"
+ ],
+ "sapphiren": [
+  "Redmi Note 13 NFC",
+  "SAPPHIREN"
  ],
  "scorpio": [
   "Mi Note 2",
@@ -472,7 +488,7 @@
   "MI11"
  ],
  "vermeer": [
-  "Redmi K70",
+  "Redmi K70/POCO F6 Pro",
   "VERMEER"
  ],
  "veux": [
