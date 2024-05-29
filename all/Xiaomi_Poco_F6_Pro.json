@@ -1,0 +1,88 @@
+{
+ "name": "Xiaomi Poco F6 Pro",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f6-pro.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_poco_f6_pro-12992.php",
+ "codenames": [
+  "vermeer"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 28, 38, 40, 41, 66",
+   "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 77, 78 SA/NSA/Sub6",
+   "Speed": "HSPA, LTE, 5G"
+  },
+  "Launch": {
+   "Announced": "2024, May 23",
+   "Status": "Available. Released 2024, May 23"
+  },
+  "Body": {
+   "Dimensions": "160.9 x 75 x 8.2 mm (6.33 x 2.95 x 0.32 in)",
+   "Weight": "209 g (7.37 oz)",
+   "Build": "Glass front (Gorilla Glass 5), glass back, aluminum frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "IP54, dust and splash resistant"
+  },
+  "Display": {
+   "Type": "AMOLED, 68B colors, 120Hz, Dolby Vision, HDR10+, 700 nits (typ), 1200 nits (HBM), 4000 nits (peak)",
+   "Size": "6.67 inches, 107.4 cm2 (~89.0% screen-to-body ratio)",
+   "Resolution": "1440 x 3200 pixels, 20:9 ratio (~526 ppi density)",
+   "Protection": "Corning Gorilla Glass 5"
+  },
+  "Platform": {
+   "OS": "Android 14, HyperOS",
+   "Chipset": "Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)",
+   "CPU": "Octa-core (1x3.2 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)",
+   "GPU": "Adreno 740"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 16GB RAM",
+   "info": "UFS 4.0"
+  },
+  "Main Camera": {
+   "Triple": "50 MP, f/1.6, (wide), 1/1.55\", 1.0µm, PDAF, OIS\n8 MP, f/2.2, (ultrawide)\n2 MP, f/2.4, (macro)",
+   "Features": "LED flash, HDR, panorama",
+   "Video": "8K@24fps, 4K@24/30/60fps, 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS"
+  },
+  "Selfie camera": {
+   "Single": "16 MP, (wide)",
+   "Features": "HDR",
+   "Video": "1080p@30/60fps, gyro-EIS"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "No",
+   "info": "24-bit/192kHz Hi-Res & Hi-Res wireless audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7 (market/region dependent), tri-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE, aptX HD, LHDC",
+   "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+   "NFC": "Yes (market/region dependent)",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (under display, optical), accelerometer, proximity, gyro, compass"
+  },
+  "Battery": {
+   "Type": "5000 mAh, non-removable",
+   "Charging": "120W wired, PD3.0, QC3+, 100% in 19 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "Black, White",
+   "Price": "£ 469.90 / € 499.90"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 1287854 (v9), 1584439 (v10)\nGeekBench: 4859 (v5), 5310 (v6)",
+   "Display": "Contrast ratio: Infinite (nominal)",
+   "Loudspeaker": "-24.8 LUFS (Very good)",
+   "Battery (new)": "Active use score 10:29h",
+   "info": ""
+  }
+ }
+}

@@ -31,7 +31,7 @@
   },
   "Platform": {
    "OS": "Android 12, MIUI 13",
-   "Chipset": "Mediatek MT6769Z Helio G85 (12nm)",
+   "Chipset": "Mediatek MT6769Z Helio G85 (12 nm)",
    "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
    "GPU": "Mali-G52 MC2"
   },

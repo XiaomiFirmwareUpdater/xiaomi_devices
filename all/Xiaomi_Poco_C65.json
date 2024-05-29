@@ -33,7 +33,7 @@
   },
   "Platform": {
    "OS": "Android 13, MIUI 14 for POCO",
-   "Chipset": "Mediatek MT6769Z Helio G85 (12nm)",
+   "Chipset": "Mediatek MT6769Z Helio G85 (12 nm)",
    "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
    "GPU": "Mali-G52 MC2"
   },
@@ -75,7 +75,7 @@
   "Misc": {
    "Colors": "Black, Blue, Purple",
    "Models": "2310FPCA4G",
-   "Price": "$ 89.80 / £ 118.99 / € 121.68 / ₹ 6,799"
+   "Price": "$ 89.80 / £ 110.99 / € 119.68 / ₹ 6,799"
   },
   "Tests": {
    "Performance": "AnTuTu: 242885 (v9), 261613 (v10)\nGeekBench: 1201 (v5), 1292 (v6)",

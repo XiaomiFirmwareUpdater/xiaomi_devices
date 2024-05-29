@@ -30,7 +30,7 @@
   },
   "Platform": {
    "OS": "Android 11, MIUI 12.5",
-   "Chipset": "Mediatek MT6769H Helio G88 (12nm)",
+   "Chipset": "Mediatek MT6769H Helio G88 (12 nm)",
    "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
    "GPU": "Mali-G52 MC2"
   },
@@ -71,7 +71,7 @@
   "Misc": {
    "Colors": "Carbon Gray, Pebble White, Sea Blue",
    "Models": "21121119SC",
-   "Price": "£ 144.00 / € 144.00"
+   "Price": "£ 135.00 / € 144.00"
   }
  }
 }

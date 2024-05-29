@@ -33,7 +33,7 @@
   },
   "Platform": {
    "OS": "Android 10, upgradable to Android 11, MIUI 12.5 E",
-   "Chipset": "Mediatek MT6769Z Helio G85 (12nm)",
+   "Chipset": "Mediatek MT6769Z Helio G85 (12 nm)",
    "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
    "GPU": "Mali-G52 MC2"
   },
@@ -76,7 +76,7 @@
    "Models": "M2003J15SC, M2003J15SG, M2003J15SS",
    "SAR": "0.84 W/kg (head)     0.90 W/kg (body)",
    "SAR EU": "0.80 W/kg (head)     1.14 W/kg (body)",
-   "Price": "$ 88.20 / £ 129.99 / € 134.69 / ₹ 6,998"
+   "Price": "$ 88.20 / £ 129.99 / € 98.88 / ₹ 6,977"
   },
   "Tests": {
    "Performance": "AnTuTu: 200414 (v8)\nGeekBench: 1292 (v5.1)",

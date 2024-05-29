@@ -31,7 +31,7 @@
   },
   "Platform": {
    "OS": "Android 13, MIUI 14",
-   "Chipset": "Mediatek MT6769Z Helio G85 (12nm)",
+   "Chipset": "Mediatek MT6769Z Helio G85 (12 nm)",
    "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
    "GPU": "Mali-G52 MC2"
   },
@@ -73,7 +73,7 @@
   "Misc": {
    "Colors": "Midnight Black, Navy Blue, Glacier White, Clover Green",
    "Models": "23100RN82L, 23106RN0DA, 23108RN04Y, 2311DRN14I",
-   "Price": "$ 115.87 / C$ 323.37 / £ 98.83 / € 114.47 / ₹ 7,699"
+   "Price": "$ 115.87 / C$ 317.26 / £ 98.89 / € 107.14 / ₹ 7,699"
   }
  }
 }

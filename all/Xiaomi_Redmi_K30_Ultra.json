@@ -33,7 +33,7 @@
   },
   "Platform": {
    "OS": "Android 10, MIUI 12",
-   "Chipset": "Mediatek Dimensity 1000+ (7nm)",
+   "Chipset": "Mediatek Dimensity 1000+ (7 nm)",
    "CPU": "Octa-core (4x2.6 GHz Cortex-A77 & 4x2.0 GHz Cortex-A55)",
    "GPU": "Mali-G77 MC9"
   },

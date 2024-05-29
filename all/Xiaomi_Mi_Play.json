@@ -30,7 +30,7 @@
   },
   "Platform": {
    "OS": "Android 9.0 (Pie)",
-   "Chipset": "Mediatek MT6765 Helio P35 (12nm)",
+   "Chipset": "Mediatek MT6765 Helio P35 (12 nm)",
    "CPU": "Octa-core (4x2.3 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)",
    "GPU": "PowerVR GE8320"
   },

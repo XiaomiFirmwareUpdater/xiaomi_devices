@@ -32,7 +32,7 @@
   },
   "Platform": {
    "OS": "Android 9.0 (Pie), upgradable to Android 11, MIUI 12.5",
-   "Chipset": "Mediatek MT6785V/CC Helio G90T (12nm)",
+   "Chipset": "Mediatek MT6785V/CC Helio G90T (12 nm)",
    "CPU": "Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
    "GPU": "Mali-G76 MC4"
   },

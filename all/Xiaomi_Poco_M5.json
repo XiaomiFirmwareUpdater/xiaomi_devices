@@ -31,7 +31,7 @@
   },
   "Platform": {
    "OS": "Android 12, MIUI 13",
-   "Chipset": "Mediatek Helio G99 (6nm)",
+   "Chipset": "Mediatek Helio G99 (6 nm)",
    "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
    "GPU": "Mali-G57 MC2"
   },
@@ -74,7 +74,7 @@
    "Models": "22071219CG",
    "SAR": "1.04 W/kg (head)     0.83 W/kg (body)",
    "SAR EU": "0.52 W/kg (head)     0.83 W/kg (body)",
-   "Price": "$ 139.87 / £ 139.88 / € 85.55"
+   "Price": "$ 139.87 / £ 148.99 / € 85.55"
   },
   "Tests": {
    "Performance": "AnTuTu: 386311 (v9)\nGeekBench: 1896 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
