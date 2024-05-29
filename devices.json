@@ -830,6 +830,12 @@
  {
   "klein": {
    "name": "Redmi A3x",
+   "model": "24044RN32L"
+  }
+ },
+ {
+  "klein": {
+   "name": "Redmi A3x",
    "model": "24048RN6CG"
   }
  },
