@@ -911,6 +911,26 @@
     "display_name": "Redmi 10X pro",
     "display_name_en": "Redmi 10X pro"
   },
+  "breeze": {
+    "display_name": "Redmi Note 13R",
+    "display_name_en": "Redmi Note 13R"
+  },
+  "breeze_global": {
+    "display_name": "Redmi Note 13R",
+    "display_name_en": "Redmi Note 13R"
+  },
+  "breeze_in_global": {
+    "display_name": "XM-BREEZE-IN-GLOBAL",
+    "display_name_en": "XM-BREEZE-IN-GLOBAL"
+  },
+  "breeze_pre_global": {
+    "display_name": "Redmi Note 13R",
+    "display_name_en": "Redmi Note 13R"
+  },
+  "breeze_pre_in_global": {
+    "display_name": "XM-BREEZE-PRE-IN-GLOBAL",
+    "display_name_en": "XM-BREEZE-PRE-IN-GLOBAL"
+  },
   "cactus": {
     "display_name": "红米6A",
     "display_name_en": "Redmi 6A"
