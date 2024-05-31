@@ -1828,8 +1828,7 @@
   "name": "Redmi Note 12 Pro Speed/POCO X5 Pro 5G",
   "models": {
    "`22101320C`": "Redmi Note 12 Pro Speed China",
-   "`22101320G`": "POCO X5 Pro 5G Global",
-   "`22101320I`": "POCO X5 Pro 5G India"
+   "`22101320G`": "POCO X5 Pro 5G Global"
   }
  },
  "pearl": {
@@ -2041,8 +2040,7 @@
   "name": "Redmi K50G/POGO F4 GT",
   "models": {
    "`21121210C`": "Redmi K50G China",
-   "`21121210G`": "POCO F4 GT Global",
-   "`21121210I`": "POCO F4 GT India"
+   "`21121210G`": "POCO F4 GT Global"
   }
  },
  "xagain": {
@@ -2079,8 +2077,7 @@
   "name": "Redmi K70/POCO F6 Pro",
   "models": {
    "`23113RKC6C`": "Redmi K70 China",
-   "`23113RKC6G`": "POCO F6 Pro Global",
-   "`23113RKC6I`": "POCO F6 Pro India"
+   "`23113RKC6G`": "POCO F6 Pro Global"
   }
  },
  "manet": {
@@ -2186,7 +2183,8 @@
   "name": "Redmi A3x (`klein`)",
   "models": {
    "`24048RN6CG`": "Redmi A3x Global",
-   "`24048RN6CI`": "Redmi A3x India"
+   "`24048RN6CI`": "Redmi A3x India",
+   "`24044RN32L`": "Redmi A3x Latin America"
   }
  },
  "beryllium": {
@@ -2245,6 +2243,13 @@
   "models": {
    "`22111317PG`": "POCO X5 5G Global",
    "`22111317PI`": "POCO X5 5G India"
+  }
+ },
+ "redwoodin": {
+  "internal_name": "M20",
+  "name": "POCO X5 Pro 5G",
+  "models": {
+   "`22101320I`": "POCO X5 Pro 5G India"
   }
  },
  "shiva": {
