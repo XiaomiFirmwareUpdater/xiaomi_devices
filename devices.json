@@ -246,6 +246,18 @@
   }
  },
  {
+  "redwood": {
+   "name": "POCO X5 Pro 5G",
+   "model": "22101320G"
+  }
+ },
+ {
+  "redwoodin": {
+   "name": "POCO X5 Pro 5G",
+   "model": "22101320I"
+  }
+ },
+ {
   "garnet": {
    "name": "POCO X6 5G",
    "model": "23122PCD1G"
