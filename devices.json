@@ -102,6 +102,18 @@
   }
  },
  {
+  "peridot": {
+   "name": "POCO F6",
+   "model": "24069PC21G"
+  }
+ },
+ {
+  "peridot": {
+   "name": "POCO F6",
+   "model": "24069PC21I"
+  }
+ },
+ {
   "shiva": {
    "name": "POCO M2",
    "model": "M2004J19PI"
@@ -1623,6 +1635,12 @@
   "dizi": {
    "name": "Redmi Pad Pro",
    "model": "2405CRPFDG"
+  }
+ },
+ {
+  "dizi": {
+   "name": "Redmi Pad Pro",
+   "model": "2405CRPFDI"
   }
  },
  {
