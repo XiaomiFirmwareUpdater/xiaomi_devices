@@ -5015,6 +5015,94 @@
     "display_name": "Mi 10 lite 5G",
     "display_name_en": "Mi 10 lite 5G"
   },
+  "moon_dc_global": {
+    "display_name": "Redmi 13",
+    "display_name_en": "Redmi 13"
+  },
+  "moon_eea_global": {
+    "display_name": "POCO M6/Redmi 13",
+    "display_name_en": "POCO M6/Redmi 13"
+  },
+  "moon_global": {
+    "display_name": "POCO M6/Redmi 13",
+    "display_name_en": "POCO M6/Redmi 13"
+  },
+  "moon_gt_tg_global": {
+    "display_name": "Redmi 13",
+    "display_name_en": "Redmi 13"
+  },
+  "moon_id_global": {
+    "display_name": "POCO M6/Redmi 13",
+    "display_name_en": "POCO M6/Redmi 13"
+  },
+  "moon_lm_cr_global": {
+    "display_name": "Redmi 13",
+    "display_name_en": "Redmi 13"
+  },
+  "moon_mx_at_global": {
+    "display_name": "Redmi 13",
+    "display_name_en": "Redmi 13"
+  },
+  "moon_mx_tc_global": {
+    "display_name": "Redmi 13",
+    "display_name_en": "Redmi 13"
+  },
+  "moon_pre_dc_global": {
+    "display_name": "Redmi 13",
+    "display_name_en": "Redmi 13"
+  },
+  "moon_pre_eea_global": {
+    "display_name": "POCO M6/Redmi 13",
+    "display_name_en": "POCO M6/Redmi 13"
+  },
+  "moon_pre_global": {
+    "display_name": "POCO M6/Redmi 13",
+    "display_name_en": "POCO M6/Redmi 13"
+  },
+  "moon_pre_gt_tg_global": {
+    "display_name": "Redmi 13",
+    "display_name_en": "Redmi 13"
+  },
+  "moon_pre_id_global": {
+    "display_name": "POCO M6/Redmi 13",
+    "display_name_en": "POCO M6/Redmi 13"
+  },
+  "moon_pre_lm_cr_global": {
+    "display_name": "Redmi 13",
+    "display_name_en": "Redmi 13"
+  },
+  "moon_pre_mx_at_global": {
+    "display_name": "Redmi 13",
+    "display_name_en": "Redmi 13"
+  },
+  "moon_pre_mx_tc_global": {
+    "display_name": "Redmi 13",
+    "display_name_en": "Redmi 13"
+  },
+  "moon_pre_ru_global": {
+    "display_name": "POCO M6/Redmi 13",
+    "display_name_en": "POCO M6/Redmi 13"
+  },
+  "moon_pre_tr_global": {
+    "display_name": "POCO M6",
+    "display_name_en": "POCO M6"
+  },
+  "moon_pre_tw_global": {
+    "display_name": "POCO M6",
+    "display_name_en": "POCO M6"
+  },
+  "moon_ru_global": {
+    "display_name": "POCO M6/Redmi 13",
+    "display_name_en": "POCO M6/Redmi 13"
+  },
+  "moon_tr_global": {
+    "display_name": "POCO M6/Redmi 13",
+    "display_name_en": "POCO M6/Redmi 13"
+  },
+  "moon_tw_global": {
+    "display_name": "POCO M6",
+    "display_name_en": "POCO M6"
+  },
   "moonstone_eea_global": {
     "display_name": "POCO X5 5G",
     "display_name_en": "POCO X5 5G"
