@@ -198,6 +198,12 @@
   }
  },
  {
+  "breeze": {
+   "name": "POCO M6 Plus 5G",
+   "model": "24066PC95I"
+  }
+ },
+ {
   "emerald": {
    "name": "POCO M6 Pro",
    "model": "2312FPCA6G"
@@ -567,6 +573,12 @@
   "earth": {
    "name": "Redmi 12C",
    "model": "2212ARNC4L"
+  }
+ },
+ {
+  "breeze": {
+   "name": "Redmi 13 5G",
+   "model": "2406ERN9CI"
   }
  },
  {
@@ -1467,6 +1479,12 @@
   "zircon": {
    "name": "Redmi Note 13 Pro+ 5G",
    "model": "24040RA98R"
+  }
+ },
+ {
+  "breeze": {
+   "name": "Redmi Note 13R",
+   "model": "2406ERN9CC"
   }
  },
  {
