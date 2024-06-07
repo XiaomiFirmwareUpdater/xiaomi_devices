@@ -94,6 +94,7 @@ diting_global - F
 diting_jp_global - F
 diting_ru_global - F
 diting_tw_global - F
+dizi_global - F
 duchamp_eea_global - F
 duchamp_global - F
 duchamp_ru_global - F
@@ -268,6 +269,8 @@ opal_eea_global - F
 opal_global - F
 opal_ru_global - F
 opal_tw_global - F
+peridot_global - F
+peridot_tw_global - F
 pipa_eea_global - F
 pipa_global - F
 pipa_in_global - F
@@ -395,6 +398,8 @@ venus_id_global - F
 venus_ru_global - F
 venus_tr_global - F
 venus_tw_global - F
+vermeer_global - F
+vermeer_tw_global - F
 veux_eea_global - F
 veux_eea_global - F
 veux_global - F
