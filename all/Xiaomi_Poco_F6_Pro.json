@@ -43,7 +43,7 @@
    "info": "UFS 4.0"
   },
   "Main Camera": {
-   "Triple": "50 MP, f/1.6, (wide), 1/1.55\", 1.0µm, PDAF, OIS\n8 MP, f/2.2, (ultrawide)\n2 MP, f/2.4, (macro)",
+   "Triple": "50 MP, f/1.6, (wide), 1/1.55\", 1.0µm, multi-directional PDAF, OIS\n8 MP, f/2.2, (ultrawide)\n2 MP, f/2.4, (macro)",
    "Features": "LED flash, HDR, panorama",
    "Video": "8K@24fps, 4K@24/30/60fps, 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS"
   },
@@ -75,7 +75,7 @@
   },
   "Misc": {
    "Colors": "Black, White",
-   "Price": "£ 469.90 / € 499.90"
+   "Price": "$ 499.99 / £ 549.90 / € 579.90"
   },
   "Tests": {
    "Performance": "AnTuTu: 1287854 (v9), 1584439 (v10)\nGeekBench: 4859 (v5), 5310 (v6)",
