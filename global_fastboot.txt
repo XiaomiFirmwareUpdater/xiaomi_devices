@@ -243,6 +243,7 @@ mondrian_tw_global - F
 monet_eea_global - F
 monet_global - F
 monet_tw_global - F
+moon_global - F
 moonstone_eea_global - F
 moonstone_global - F
 moonstone_ru_global - F
