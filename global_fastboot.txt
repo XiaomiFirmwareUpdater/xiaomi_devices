@@ -66,7 +66,6 @@ corot_jp_global - F
 corot_ru_global - F
 corot_tw_global - F
 courbet_eea_global - F
-courbet_global - F
 courbet_ru_global - F
 cupid_eea_global - F
 cupid_global - F
@@ -113,7 +112,6 @@ emerald_ru_global - F
 evergreen_eea_global - F
 evergreen_global - F
 evergreen_ru_global - F
-evergreen_tw_global - F
 fire_eea_global - F
 fire_global - F
 fire_ru_global - F
@@ -133,7 +131,6 @@ fog_eea_global - F
 fog_global - F
 fog_id_global - F
 fog_in_global - F
-fog_ru_global - F
 fog_tw_global - F
 frost_eea_global - F
 frost_global - F
@@ -144,7 +141,6 @@ fuxi_eea_global - F
 fuxi_global - F
 fuxi_ru_global - F
 fuxi_tr_global - F
-fuxi_tw_global - F
 gale_eea_global - F
 gale_global - F
 gale_ru_global - F
@@ -192,7 +188,6 @@ joyeuse_eea_global - F
 joyeuse_global - F
 joyeuse_id_global - F
 joyeuse_ru_global - F
-joyeuse_tw_global - F
 lancelot_eea_global - F
 lancelot_global - F
 lancelot_ru_global - F
@@ -201,7 +196,6 @@ laurel_sprout_eea_global - F
 laurel_sprout_global - F
 laurel_sprout_global - F
 lavender_eea_global - F
-lavender_global - F
 lavender_in_global - F
 lavender_ru_global - F
 light_eea_global - F
@@ -238,7 +232,6 @@ merlin_tw_global - F
 mondrian_eea_global - F
 mondrian_global - F
 mondrian_ru_global - F
-mondrian_tr_global - F
 mondrian_tw_global - F
 monet_eea_global - F
 monet_global - F
@@ -271,6 +264,7 @@ opal_eea_global - F
 opal_global - F
 opal_ru_global - F
 opal_tw_global - F
+peridot_eea_global - F
 peridot_global - F
 peridot_tw_global - F
 pipa_eea_global - F
@@ -279,7 +273,6 @@ pipa_in_global - F
 pipa_ru_global - F
 pipa_tw_global - F
 pissarro_eea_global - F
-pissarro_global - F
 pissarro_in_global - F
 pissarro_ru_global - F
 pissarro_tr_global - F
@@ -298,7 +291,6 @@ redwood_global - F
 redwood_ru_global - F
 redwood_tw_global - F
 renoir_eea_global - F
-renoir_global - F
 renoir_jp_global - F
 renoir_ru_global - F
 renoir_tw_global - F
@@ -308,7 +300,6 @@ rock_id_global - F
 rock_id_global - F
 rock_id_global - F
 rock_ru_global - F
-rock_tw_global - F
 rosemary_eea_global - F
 rosemary_global - F
 rosemary_p_eea_global - F
@@ -334,14 +325,12 @@ sea_eea_global - F
 sea_global - F
 sea_ru_global - F
 sea_tr_global - F
-sea_tw_global - F
 selene_eea_global - F
 selene_global - F
 selene_id_global - F
 selene_ru_global - F
 selene_tr_global - F
 selene_tw_global - F
-sheng_global - F
 sky_eea_global - F
 sky_global - F
 sky_jp_global - F
@@ -400,6 +389,7 @@ venus_id_global - F
 venus_ru_global - F
 venus_tr_global - F
 venus_tw_global - F
+vermeer_eea_global - F
 vermeer_global - F
 vermeer_tw_global - F
 veux_eea_global - F
