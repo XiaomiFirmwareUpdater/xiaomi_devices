@@ -198,6 +198,12 @@
   }
  },
  {
+  "moon": {
+   "name": "POCO M6",
+   "model": "2404APC5FG"
+  }
+ },
+ {
   "breeze": {
    "name": "POCO M6 Plus 5G",
    "model": "24066PC95I"
@@ -285,6 +291,12 @@
   "garnet": {
    "name": "POCO X6 5G",
    "model": "23122PCD1I"
+  }
+ },
+ {
+  "duchamp": {
+   "name": "POCO X6 Pro 5G",
+   "model": "2311DRK48G"
   }
  },
  {
@@ -579,6 +591,12 @@
   "earth": {
    "name": "Redmi 12C",
    "model": "2212ARNC4L"
+  }
+ },
+ {
+  "moon": {
+   "name": "Redmi 13",
+   "model": "24040RN64Y"
   }
  },
  {
@@ -1029,6 +1047,12 @@
   "rembrandt": {
    "name": "Redmi K60E",
    "model": "22122RK93C"
+  }
+ },
+ {
+  "duchamp": {
+   "name": "Redmi K70E",
+   "model": "2311DRK48C"
   }
  },
  {
