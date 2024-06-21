@@ -3,6 +3,9 @@ agate_global - F
 agate_id_global - F
 agate_ru_global - F
 agate_tw_global - F
+air_eea_global - F
+air_global - F
+air_in_global - F
 alioth_eea_global - F
 alioth_global - F
 alioth_in_global - F
@@ -243,7 +246,10 @@ mondrian_tw_global - F
 monet_eea_global - F
 monet_global - F
 monet_tw_global - F
+moon_eea_global - F
 moon_global - F
+moon_id_global - F
+moon_ru_global - F
 moonstone_eea_global - F
 moonstone_global - F
 moonstone_ru_global - F
