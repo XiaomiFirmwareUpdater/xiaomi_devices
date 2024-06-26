@@ -1,6 +1,19 @@
 {
  "items": [
   {
+   "id": 66,
+   "status": 1,
+   "deviceName": "Redmi 13C 5G",
+   "releaseDate": "2024-5",
+   "securityUpdateEol": "2028-4",
+   "updateFrequency": "90 Days",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 13",
+   "futureVersion": "Android 14,Android 15",
+   "createdAt": "2024-06-26T01:31:07.000Z",
+   "updatedAt": "2024-06-26T01:31:16.000Z"
+  },
+  {
    "id": 64,
    "status": 1,
    "deviceName": "Xiaomi 14",
@@ -781,5 +794,5 @@
    "updatedAt": "2024-03-11T15:46:51.000Z"
   }
  ],
- "total": 60
+ "total": 61
 }
