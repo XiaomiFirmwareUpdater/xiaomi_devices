@@ -14,6 +14,19 @@
    "updatedAt": "2024-06-26T01:31:16.000Z"
   },
   {
+   "id": 67,
+   "status": 1,
+   "deviceName": "Redmi Pad Pro",
+   "releaseDate": "2024-5",
+   "securityUpdateEol": "2027-05",
+   "updateFrequency": "90 Days",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 14",
+   "futureVersion": "Android 15,Android16",
+   "createdAt": "2024-06-27T01:00:47.000Z",
+   "updatedAt": "2024-06-27T01:00:50.000Z"
+  },
+  {
    "id": 64,
    "status": 1,
    "deviceName": "Xiaomi 14",
@@ -794,5 +807,5 @@
    "updatedAt": "2024-03-11T15:46:51.000Z"
   }
  ],
- "total": 61
+ "total": 62
 }
