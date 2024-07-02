@@ -118,6 +118,19 @@
    "updatedAt": "2024-01-23T01:02:26.000Z"
   },
   {
+   "id": 68,
+   "status": 1,
+   "deviceName": "Redmi 13",
+   "releaseDate": "2024-06",
+   "securityUpdateEol": "2028-06",
+   "updateFrequency": "90 Days",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 14",
+   "futureVersion": "Android 15,Android16",
+   "createdAt": "2024-07-01T12:54:39.000Z",
+   "updatedAt": "2024-07-01T12:54:42.000Z"
+  },
+  {
    "id": 53,
    "status": 1,
    "deviceName": "Redmi Pad SE",
@@ -807,5 +820,5 @@
    "updatedAt": "2024-03-11T15:46:51.000Z"
   }
  ],
- "total": 62
+ "total": 63
 }
