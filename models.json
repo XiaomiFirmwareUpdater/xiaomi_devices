@@ -532,8 +532,8 @@
   }
  },
  "shennong": {
-  "internal_name": "N2",
-  "name": "Xiaomi 14 Pro",
+  "internal_name": "N2/N2T",
+  "name": "Xiaomi 14 Pro/Xiaomi 14 Pro Ti Satellite",
   "models": {
    "`23116PN5BC`": "Xiaomi 14 Pro China / Xiaomi 14 Pro Ti China",
    "`2311BPN23C`": "Xiaomi 14 Pro Ti Satellite China"
@@ -665,18 +665,18 @@
    "`M1810E5GG`": "Mi MIX 3 5G"
   }
  },
- "cetus": {
-  "internal_name": "J18",
-  "name": "Mi MIX Fold",
-  "models": {
-   "`M2011J18C`": "Mi MIX FOLD China"
-  }
- },
  "odin": {
   "internal_name": "K8",
   "name": "Xiaomi MIX 4",
   "models": {
    "`2106118C`": "Xiaomi MIX 4 China"
+  }
+ },
+ "cetus": {
+  "internal_name": "J18",
+  "name": "Mi MIX FOLD",
+  "models": {
+   "`M2011J18C`": "Mi MIX FOLD China"
   }
  },
  "zizhan": {
@@ -697,7 +697,15 @@
   "internal_name": "N18",
   "name": "Xiaomi MIX Fold 4",
   "models": {
-   "`24072PX77C`": "Xiaomi MIX Fold 4"
+   "`24072PX77C`": "Xiaomi MIX Fold 4 China"
+  }
+ },
+ "ruyi": {
+  "internal_name": "N8",
+  "name": "Xiaomi MIX Flip",
+  "models": {
+   "`2405CPX3DG`": "Xiaomi MIX Flip Global",
+   "`2405CPX3DC`": "Xiaomi MIX Flip China"
   }
  },
  "hydrogen": {
@@ -1102,14 +1110,14 @@
   }
  },
  "lemon": {
-  "internal_name": "J19S",
+  "internal_name": "J19N",
   "name": "Redmi 9T",
   "models": {
    "`M2010J19SY`": "Redmi 9T Global (NFC)"
   }
  },
  "pomelo": {
-  "internal_name": "J19S",
+  "internal_name": "J19L",
   "name": "Redmi 9T",
   "models": {
    "`M2010J19SL`": "Redmi 9T Latin America"
@@ -1136,7 +1144,7 @@
   }
  },
  "light": {
-  "internal_name": "L19/L19P",
+  "internal_name": "L19/L19X/L19P",
   "name": "Redmi 10 5G / Redmi 11 Prime 5G/Redmi Note 11E 5G/Redmi Note 11R/POCO M4 5G",
   "models": {
    "`22041219G`": "Redmi 10 5G Global",
@@ -1894,6 +1902,7 @@
    "`2312DRA50G`": "Redmi Note 13 Pro 5G Global",
    "`2312DRA50I`": "Redmi Note 13 Pro 5G India",
    "`2312DRA50C` `2312CRAD3C`": "Redmi Note 13 Pro 5G China",
+   "`XIG05`": "Redmi Note 13 Pro 5G Japan (KDDI)",
    "`23122PCD1G`": "POCO X6 5G Global",
    "`23122PCD1I`": "POCO X6 5G India"
   }
@@ -2175,6 +2184,7 @@
    "`23129RN51X`": "Redmi A3 Global",
    "`23129RN51H`": "Redmi A3 India",
    "`2312CRNCCL`": "Redmi A3 Latin America",
+   "`2312BPC51X`": "POCO C61 Global",
    "`2312BPC51H`": "POCO C61 India"
   }
  },
@@ -2413,18 +2423,19 @@
   }
  },
  "dizi": {
-  "internal_name": "",
-  "name": "Redmi Pad Pro (`dizi`)/POCO Pad (`dizi`)",
+  "internal_name": "N83/N83P",
+  "name": "Redmi Pad Pro/POCO Pad",
   "models": {
    "`2405CRPFDG`": "Redmi Pad Pro Global",
    "`2405CRPFDC`": "Redmi Pad Pro China",
+   "`2405CRPFDI`": "Redmi Pad Pro India",
    "`2405CRPFDL`": "Redmi Pad Pro Latin America",
    "`2405CPCFBG`": "POCO Pad Global"
   }
  },
  "ruan": {
-  "internal_name": "",
-  "name": "Redmi Pad Pro 5G (`ruan`)",
+  "internal_name": "N83U",
+  "name": "Redmi Pad Pro 5G",
   "models": {
    "`24074RPD2G`": "Redmi Pad Pro 5G Global",
    "`24074RPD2C`": "Redmi Pad Pro 5G China"
