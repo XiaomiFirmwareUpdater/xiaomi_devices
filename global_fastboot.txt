@@ -203,7 +203,6 @@ lancelot_ru_global - F
 lancelot_tr_global - F
 laurel_sprout_eea_global - F
 laurel_sprout_global - F
-laurel_sprout_global - F
 lavender_eea_global - F
 lavender_global - F
 lavender_in_global - F
@@ -283,6 +282,7 @@ peridot_global - F
 peridot_tw_global - F
 pipa_eea_global - F
 pipa_global - F
+pipa_id_global - F
 pipa_in_global - F
 pipa_ru_global - F
 pipa_tw_global - F
@@ -312,7 +312,6 @@ renoir_ru_global - F
 renoir_tw_global - F
 rock_eea_global - F
 rock_global - F
-rock_id_global - F
 rock_id_global - F
 rock_id_global - F
 rock_ru_global - F
@@ -449,6 +448,7 @@ xaga_tw_global - F
 xun_eea_global - F
 xun_global - F
 xun_ru_global - F
+xun_tr_global - F
 xun_tw_global - F
 yunluo_eea_global - F
 yunluo_global - F
