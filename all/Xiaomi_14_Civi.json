@@ -1,0 +1,80 @@
+{
+ "name": "Xiaomi 14 Civi",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-14-civi-.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_14_civi-13056.php",
+ "codenames": [
+  "chenfeng"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+   "4G bands": "1, 3, 5, 8, 28, 40, 41",
+   "5G bands": "1, 3, 5, 8, 28, 40, 41, 78 SA/NSA",
+   "Speed": "HSPA, LTE, 5G"
+  },
+  "Launch": {
+   "Announced": "2024, June 12",
+   "Status": "Available. Released 2024, June 20"
+  },
+  "Body": {
+   "Dimensions": "157.2 x 72.8 x 7.5 mm or 7.8 mm",
+   "Weight": "177.6 g or 179.3 g (6.28 oz)",
+   "Build": "Glass front (Gorilla Glass Victus 2), glass back or silicone polymer back (eco leather), aluminum frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "AMOLED, 68B colors, 120Hz, Dolby Vision, HDR10+, 3000 nits (peak)",
+   "Size": "6.55 inches, 103.5 cm2 (~90.4% screen-to-body ratio)",
+   "Resolution": "1236 x 2750 pixels, 20:9 ratio (~460 ppi density)",
+   "Protection": "Corning Gorilla Glass Victus 2"
+  },
+  "Platform": {
+   "OS": "Android 14, HyperOS",
+   "Chipset": "Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm)",
+   "CPU": "Octa-core (1x3.0 GHz Cortex-X4 & 4x2.8 GHz Cortex-A720 & 3x2.0 GHz Cortex-A520)",
+   "GPU": "Adreno 735"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "256GB 8GB RAM, 512GB 12GB RAM",
+   "info": "UFS 4.0"
+  },
+  "Main Camera": {
+   "Triple": "50 MP, f/1.6, 25mm (wide), 1/1.55\", 1.0µm, PDAF, OIS\n50 MP, f/2.0, 50mm (telephoto), 0.64µm, PDAF, 2x optical zoom\n12 MP, f/2.2, 15mm, 120˚ (ultrawide), 1.12µm",
+   "Features": "Dual-LED flash, HDR, panorama, Leica lenses",
+   "Video": "4K@24/30/60fps, 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS"
+  },
+  "Selfie camera": {
+   "Dual": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8µm, AF\n32 MP, f/2.4, 100˚ (ultrawide), 1/2.8\", 0.8µm",
+   "Features": "HDR",
+   "Video": "4K@30fps, 1080p@30/60fps; gyro-EIS"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "No",
+   "info": "24-bit/192kHz Hi-Res & Hi-Res wireless audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.4, A2DP, LE",
+   "Positioning": "GPS, GLONASS, GALILEO, BDS, NavIC",
+   "NFC": "Yes",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+  },
+  "Battery": {
+   "Type": "Li-Po 4700 mAh, non-removable",
+   "Charging": "67W wired, PD3.0, 100% in 40 minutes (advertised)"
+  },
+  "Misc": {
+   "Colors": "Cruise Blue, Matcha Green, Shadow Black",
+   "Price": "About 480 EUR"
+  }
+ }
+}

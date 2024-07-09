@@ -73,6 +73,12 @@
    "Colors": "Dark Gray, Blue",
    "Models": "2405CPCFBG",
    "Price": "About 280 EUR"
+  },
+  "Tests": {
+   "Display": "Contrast ratio: 1356:1 (nominal)",
+   "Loudspeaker": "-23.9 LUFS (Very good)",
+   "Battery (new)": "Active use score 9:15h",
+   "info": ""
   }
  }
 }

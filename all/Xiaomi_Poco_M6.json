@@ -10,8 +10,8 @@
    "Technology": "GSM / HSPA / LTE / 5G",
    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
    "3G bands": "HSDPA 850 / 900 / 2100",
-   "4G bands": "LTE",
-   "5G bands": "SA/NSA",
+   "4G bands": "1, 3, 5, 8, 28, 40, 41",
+   "5G bands": "1, 3, 5, 8, 28, 40, 78 SA/NSA",
    "Speed": "HSPA, LTE, 5G"
   },
   "Launch": {
@@ -47,7 +47,7 @@
    "Video": "1080p@30fps"
   },
   "Selfie camera": {
-   "Single": "5 MP",
+   "Single": "5 MP, f/2.2, (wide)",
    "Features": "HDR",
    "Video": "1080p@30fps"
   },
@@ -74,7 +74,7 @@
   "Misc": {
    "Colors": "Galactic Black, Orion Blue",
    "Models": "23128PC33I",
-   "Price": "$ 199.99 / ₹ 8,999"
+   "Price": "₹ 8,999"
   }
  }
 }

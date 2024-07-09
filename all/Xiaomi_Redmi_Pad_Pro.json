@@ -73,6 +73,12 @@
   "Misc": {
    "Colors": "Dark Gray, Blue, Green",
    "Price": "About 200 EUR"
+  },
+  "Tests": {
+   "Display": "Contrast ratio: 1454:1 (nominal)",
+   "Loudspeaker": "-24.1 LUFS (Very good)",
+   "Battery (new)": "Active use score 9:36h",
+   "info": ""
   }
  }
 }

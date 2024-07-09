@@ -77,7 +77,7 @@
    "Models": "2207117BPG",
    "SAR": "1.00 W/kg (head)     0.65 W/kg (body)",
    "SAR EU": "0.60 W/kg (head)     0.87 W/kg (body)",
-   "Price": "$ 145.00 / £ 126.95 / € 122.95"
+   "Price": "$ 145.00 / £ 125.51 / € 122.00"
   },
   "Tests": {
    "Performance": "AnTuTu: 360681 (v9)\nGeekBench: 1831 (v5.1)\nGFXBench: 18fps (ES 3.1 onscreen)",
