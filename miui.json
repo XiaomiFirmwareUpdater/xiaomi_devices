@@ -363,6 +363,7 @@
  "kenzo": "HOCN",
  "kenzo_global": "HOMI",
  "klein_global": "GSMI",
+ "klein_in_global": "GSIN",
  "lancelot": "JCCN",
  "lancelot_eea_global": "JCEU",
  "lancelot_global": "JCMI",
