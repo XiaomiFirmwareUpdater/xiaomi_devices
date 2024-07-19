@@ -114,6 +114,12 @@
   }
  },
  {
+  "vermeer": {
+   "name": "POCO F6 Pro",
+   "model": "23113RKC6G"
+  }
+ },
+ {
   "shiva": {
    "name": "POCO M2",
    "model": "M2004J19PI"
@@ -1047,6 +1053,12 @@
   "rembrandt": {
    "name": "Redmi K60E",
    "model": "22122RK93C"
+  }
+ },
+ {
+  "vermeer": {
+   "name": "Redmi K70",
+   "model": "23113RKC6C"
   }
  },
  {
@@ -3321,6 +3333,12 @@
   "houji": {
    "name": "Xiaomi 14",
    "model": "23127PN0CG"
+  }
+ },
+ {
+  "chenfeng": {
+   "name": "Xiaomi 14 Civi",
+   "model": "24053PY09I"
   }
  },
  {
