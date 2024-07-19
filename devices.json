@@ -3355,6 +3355,10 @@
     "display_name": "Redmi Note 8",
     "display_name_en": "Redmi Note 8"
   },
+  "goku": {
+    "display_name": "Xiaomi MIX Fold 4",
+    "display_name_en": "Xiaomi MIX Fold 4"
+  },
   "gold": {
     "display_name": "Redmi Note 13 5G/Redmi Note 13R Pro",
     "display_name_en": "Redmi Note 13 5G/Redmi Note 13R Pro"
@@ -6563,6 +6567,118 @@
     "display_name": "Redmi 5",
     "display_name_en": "Redmi 5"
   },
+  "rothko": {
+    "display_name": "Redmi K70 至尊版",
+    "display_name_en": "Redmi K70 Ultra"
+  },
+  "rothko_cl_en_global": {
+    "display_name": "XM-ROTHKO-CL-EN-GLOBAL",
+    "display_name_en": "XM-ROTHKO-CL-EN-GLOBAL"
+  },
+  "rothko_dc_global": {
+    "display_name": "XM-ROTHKO-DC-GLOBAL",
+    "display_name_en": "XM-ROTHKO-DC-GLOBAL"
+  },
+  "rothko_eea_global": {
+    "display_name": "XM-ROTHKO-EEA-GLOBAL",
+    "display_name_en": "XM-ROTHKO-EEA-GLOBAL"
+  },
+  "rothko_factory_jp_kd_global": {
+    "display_name": "XM-ROTHKO-FACTORY-JP-KD-GLOBAL",
+    "display_name_en": "XM-ROTHKO-FACTORY-JP-KD-GLOBAL"
+  },
+  "rothko_global": {
+    "display_name": "XM-ROTHKO-GLOBAL",
+    "display_name_en": "XM-ROTHKO-GLOBAL"
+  },
+  "rothko_id_global": {
+    "display_name": "XM-ROTHKO-ID-GLOBAL",
+    "display_name_en": "XM-ROTHKO-ID-GLOBAL"
+  },
+  "rothko_jp_global": {
+    "display_name": "XM-ROTHKO-JP-GLOBAL",
+    "display_name_en": "XM-ROTHKO-JP-GLOBAL"
+  },
+  "rothko_jp_sb_global": {
+    "display_name": "XM-ROTHKO-JP-SB-GLOBAL",
+    "display_name_en": "XM-ROTHKO-JP-SB-GLOBAL"
+  },
+  "rothko_lm_cr_global": {
+    "display_name": "XM-ROTHKO-LM-CR-GLOBAL",
+    "display_name_en": "XM-ROTHKO-LM-CR-GLOBAL"
+  },
+  "rothko_mx_at_global": {
+    "display_name": "XM-ROTHKO-MX-AT-GLOBAL",
+    "display_name_en": "XM-ROTHKO-MX-AT-GLOBAL"
+  },
+  "rothko_mx_tc_global": {
+    "display_name": "XM-ROTHKO-MX-TC-GLOBAL",
+    "display_name_en": "XM-ROTHKO-MX-TC-GLOBAL"
+  },
+  "rothko_pre_cl_en_global": {
+    "display_name": "XM-ROTHKO-PRE-CL-EN-GLOBAL",
+    "display_name_en": "XM-ROTHKO-PRE-CL-EN-GLOBAL"
+  },
+  "rothko_pre_dc_global": {
+    "display_name": "XM-ROTHKO-PRE-DC-GLOBAL",
+    "display_name_en": "XM-ROTHKO-PRE-DC-GLOBAL"
+  },
+  "rothko_pre_eea_global": {
+    "display_name": "XM-ROTHKO-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-ROTHKO-PRE-EEA-GLOBAL"
+  },
+  "rothko_pre_global": {
+    "display_name": "XM-ROTHKO-PRE-GLOBAL",
+    "display_name_en": "XM-ROTHKO-PRE-GLOBAL"
+  },
+  "rothko_pre_id_global": {
+    "display_name": "XM-ROTHKO-PRE-ID-GLOBAL",
+    "display_name_en": "XM-ROTHKO-PRE-ID-GLOBAL"
+  },
+  "rothko_pre_jp_global": {
+    "display_name": "XM-ROTHKO-PRE-JP-GLOBAL",
+    "display_name_en": "XM-ROTHKO-PRE-JP-GLOBAL"
+  },
+  "rothko_pre_jp_sb_global": {
+    "display_name": "XM-ROTHKO-PRE-JP-SB-GLOBAL",
+    "display_name_en": "XM-ROTHKO-PRE-JP-SB-GLOBAL"
+  },
+  "rothko_pre_lm_cr_global": {
+    "display_name": "XM-ROTHKO-PRE-LM-CR-GLOBAL",
+    "display_name_en": "XM-ROTHKO-PRE-LM-CR-GLOBAL"
+  },
+  "rothko_pre_mx_at_global": {
+    "display_name": "XM-ROTHKO-PRE-MX-AT-GLOBAL",
+    "display_name_en": "XM-ROTHKO-PRE-MX-AT-GLOBAL"
+  },
+  "rothko_pre_mx_tc_global": {
+    "display_name": "XM-ROTHKO-PRE-MX-TC-GLOBAL",
+    "display_name_en": "XM-ROTHKO-PRE-MX-TC-GLOBAL"
+  },
+  "rothko_pre_ru_global": {
+    "display_name": "XM-ROTHKO-PRE-RU-GLOBAL",
+    "display_name_en": "XM-ROTHKO-PRE-RU-GLOBAL"
+  },
+  "rothko_pre_tr_global": {
+    "display_name": "XM-ROTHKO-PRE-TR-GLOBAL",
+    "display_name_en": "XM-ROTHKO-PRE-TR-GLOBAL"
+  },
+  "rothko_pre_tw_global": {
+    "display_name": "XM-ROTHKO-PRE-TW-GLOBAL",
+    "display_name_en": "XM-ROTHKO-PRE-TW-GLOBAL"
+  },
+  "rothko_ru_global": {
+    "display_name": "XM-ROTHKO-RU-GLOBAL",
+    "display_name_en": "XM-ROTHKO-RU-GLOBAL"
+  },
+  "rothko_tr_global": {
+    "display_name": "XM-ROTHKO-TR-GLOBAL",
+    "display_name_en": "XM-ROTHKO-TR-GLOBAL"
+  },
+  "rothko_tw_global": {
+    "display_name": "XM-ROTHKO-TW-GLOBAL",
+    "display_name_en": "XM-ROTHKO-TW-GLOBAL"
+  },
   "ruan": {
     "display_name": "Redmi Pad Pro 5G",
     "display_name_en": "Redmi Pad Pro 5G"
@@ -6730,6 +6846,50 @@
   "ruby_tw_global": {
     "display_name": "Redmi Note 12 Pro 5G/Redmi Note 12 Pro+ 5G",
     "display_name_en": "Redmi Note 12 Pro 5G/Redmi Note 12 Pro+ 5G"
+  },
+  "ruyi": {
+    "display_name": "XM-RUYI",
+    "display_name_en": "XM-RUYI"
+  },
+  "ruyi_eea_global": {
+    "display_name": "XM-RUYI-EEA-GLOBAL",
+    "display_name_en": "XM-RUYI-EEA-GLOBAL"
+  },
+  "ruyi_global": {
+    "display_name": "XM-RUYI-GLOBAL",
+    "display_name_en": "XM-RUYI-GLOBAL"
+  },
+  "ruyi_pre_eea_global": {
+    "display_name": "XM-RUYI-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-RUYI-PRE-EEA-GLOBAL"
+  },
+  "ruyi_pre_global": {
+    "display_name": "XM-RUYI-PRE-GLOBAL",
+    "display_name_en": "XM-RUYI-PRE-GLOBAL"
+  },
+  "ruyi_pre_ru_global": {
+    "display_name": "XM-RUYI-PRE-RU-GLOBAL",
+    "display_name_en": "XM-RUYI-PRE-RU-GLOBAL"
+  },
+  "ruyi_pre_tr_global": {
+    "display_name": "Xiaomi MIX Flip",
+    "display_name_en": "Xiaomi MIX Flip"
+  },
+  "ruyi_pre_tw_global": {
+    "display_name": "XM-RUYI-PRE-TW-GLOBAL",
+    "display_name_en": "XM-RUYI-PRE-TW-GLOBAL"
+  },
+  "ruyi_ru_global": {
+    "display_name": "XM-RUYI-RU-GLOBAL",
+    "display_name_en": "XM-RUYI-RU-GLOBAL"
+  },
+  "ruyi_tr_global": {
+    "display_name": "Xiaomi MIX Flip",
+    "display_name_en": "Xiaomi MIX Flip"
+  },
+  "ruyi_tw_global": {
+    "display_name": "XM-RUYI-TW-GLOBAL",
+    "display_name_en": "XM-RUYI-TW-GLOBAL"
   },
   "sagit": {
     "display_name": "小米手机6",
