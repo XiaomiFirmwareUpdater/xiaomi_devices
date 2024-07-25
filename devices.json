@@ -2635,6 +2635,10 @@
     "display_name": "XM-FIRE-PRE-GLOBAL",
     "display_name_en": "XM-FIRE-PRE-GLOBAL"
   },
+  "fire_pre_gt_tg_global": {
+    "display_name": "Redmi 12",
+    "display_name_en": "Redmi 12"
+  },
   "fire_pre_id_global": {
     "display_name": "XM-FIRE-PRE-ID-GLOBAL",
     "display_name_en": "XM-FIRE-PRE-ID-GLOBAL"
@@ -2643,6 +2647,14 @@
     "display_name": "XM-FIRE-PRE-IN-GLOBAL",
     "display_name_en": "XM-FIRE-PRE-IN-GLOBAL"
   },
+  "fire_pre_lm_cr_global": {
+    "display_name": "Redmi 12",
+    "display_name_en": "Redmi 12"
+  },
+  "fire_pre_lm_ms_global": {
+    "display_name": "Redmi 12",
+    "display_name_en": "Redmi 12"
+  },
   "fire_pre_miui15_global": {
     "display_name": "Redmi 12",
     "display_name_en": "Redmi 12"
@@ -2650,6 +2662,10 @@
   "fire_pre_mx_at_global": {
     "display_name": "XM-FIRE-MX-AT-GLOBAL",
     "display_name_en": "XM-FIRE-MX-AT-GLOBAL"
+  },
+  "fire_pre_mx_tc_global": {
+    "display_name": "Redmi 12",
+    "display_name_en": "Redmi 12"
   },
   "fire_pre_ru_global": {
     "display_name": "XM-FIRE-PRE-RU-GLOBAL",
@@ -2662,6 +2678,10 @@
   "fire_pre_tw_global": {
     "display_name": "XM-FIRE-PRE-TW-GLOBAL",
     "display_name_en": "XM-FIRE-PRE-TW-GLOBAL"
+  },
+  "fire_pre_za_mt_global": {
+    "display_name": "Redmi 12",
+    "display_name_en": "Redmi 12"
   },
   "fire_pre_za_vc_global": {
     "display_name": "Redmi 12",
