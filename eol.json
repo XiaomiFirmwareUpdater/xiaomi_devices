@@ -387,6 +387,84 @@
      "deviceName": "Xiaomi MIX Fold (CN)",
      "sku": "cetus",
      "projectCode": "J18"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 10S (cn)",
+     "sku": "thyme",
+     "projectCode": "J2S"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 10 Pro (eea)",
+     "sku": "cmi_eea_global",
+     "projectCode": "J1"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 10 Pro (global)",
+     "sku": "cmi_global",
+     "projectCode": "J1"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 10 Pro (cn)",
+     "sku": "cmi",
+     "projectCode": "J1"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 10 (tr)",
+     "sku": "umi_tr_global",
+     "projectCode": "J2"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 10 (id)",
+     "sku": "umi_id_global",
+     "projectCode": "J2"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 10 (eea)",
+     "sku": "umi_eea_global",
+     "projectCode": "J2"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "MI 10 (in)",
+     "sku": "umi_in_global",
+     "projectCode": "J2"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 10 (ru)",
+     "sku": "umi_ru_global",
+     "projectCode": "J2"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 10 (global)",
+     "sku": "umi_global",
+     "projectCode": "J2"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 10 (cn)",
+     "sku": "umi",
+     "projectCode": "J2"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 10 Ultra (cn)",
+     "sku": "cas",
+     "projectCode": "J1S"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 11 Lite 5G (jp)",
+     "sku": "renoir_jp_global",
+     "projectCode": "K9"
     }
    ]
   },
@@ -771,6 +849,36 @@
      "deviceName": "Redmi Note 10 (TR)",
      "sku": "mojito_tr_global",
      "projectCode": "K7A"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 10 5G (tw)",
+     "sku": "camellian_tw_global",
+     "projectCode": "K19/K19P"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 10T (ru)",
+     "sku": "camellian_ru_global",
+     "projectCode": "K19/K19P"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 8 (2021) (eea)",
+     "sku": "biloba_eea_global",
+     "projectCode": "C3J1"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 10 5G (tr)",
+     "sku": "camellian_tr_global",
+     "projectCode": "K19/K19P"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 8 (2021) (ru)",
+     "sku": "biloba_ru_global",
+     "projectCode": "C3J1"
     }
    ]
   },
@@ -859,9 +967,21 @@
      "deviceName": "POCO X3 Pro (IN)",
      "sku": "vayu_in_global",
      "projectCode": "J20S"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO M3 Pro 5G (ru)",
+     "sku": "camellian_ru_global",
+     "projectCode": "K19/K19P"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO M3 Pro 5G (tr)",
+     "sku": "camellian_tr_global",
+     "projectCode": "K19/K19P"
     }
    ]
   }
  ],
- "updateAt": "2024-07-01T19:29:22.000Z"
+ "updateAt": "2024-07-24T22:40:23.000Z"
 }
