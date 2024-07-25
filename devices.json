@@ -1068,6 +1068,12 @@
   }
  },
  {
+  "rothko": {
+   "name": "Redmi K70 Ultra",
+   "model": "2407FRK8EC"
+  }
+ },
+ {
   "duchamp": {
    "name": "Redmi K70E",
    "model": "2311DRK48C"
@@ -3390,6 +3396,18 @@
   }
  },
  {
+  "ruyi": {
+   "name": "Xiaomi MIX Flip",
+   "model": "2405CPX3DC"
+  }
+ },
+ {
+  "ruyi": {
+   "name": "Xiaomi MIX Flip",
+   "model": "2405CPX3DG"
+  }
+ },
+ {
   "cetus": {
    "name": "Xiaomi MIX Fold",
    "model": "M2011J18C"
@@ -3405,6 +3423,12 @@
   "babylon": {
    "name": "Xiaomi MIX Fold 3",
    "model": "2308CPXD0C"
+  }
+ },
+ {
+  "goku": {
+   "name": "Xiaomi MIX Fold 4",
+   "model": "Xiaomi for arm64"
   }
  },
  {
