@@ -1148,6 +1148,12 @@
  {
   "rosemary": {
    "name": "Redmi Note 10S",
+   "model": "M2101K7BL"
+  }
+ },
+ {
+  "rosemary": {
+   "name": "Redmi Note 10S",
    "model": "M2101K7BNY"
   }
  },
