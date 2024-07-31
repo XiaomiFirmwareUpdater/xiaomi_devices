@@ -7679,6 +7679,62 @@
     "display_name": "XM-SOCRATES-PRE-GLOBAL",
     "display_name_en": "XM-SOCRATES-PRE-GLOBAL"
   },
+  "spark_dc_global": {
+    "display_name": "XM-SPARK-DC-GLOBAL",
+    "display_name_en": "XM-SPARK-DC-GLOBAL"
+  },
+  "spark_eea_global": {
+    "display_name": "XM-SPARK-EEA-GLOBAL",
+    "display_name_en": "XM-SPARK-EEA-GLOBAL"
+  },
+  "spark_global": {
+    "display_name": "XM-SPARK-GLOBAL",
+    "display_name_en": "XM-SPARK-GLOBAL"
+  },
+  "spark_in_global": {
+    "display_name": "Redmi Pad SE 4G",
+    "display_name_en": "Redmi Pad SE 4G"
+  },
+  "spark_pre_dc_global": {
+    "display_name": "XM-SPARK-PRE-DC-GLOBAL",
+    "display_name_en": "XM-SPARK-PRE-DC-GLOBAL"
+  },
+  "spark_pre_eea_global": {
+    "display_name": "XM-SPARK-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-SPARK-PRE-EEA-GLOBAL"
+  },
+  "spark_pre_global": {
+    "display_name": "XM-SPARK-PRE-GLOBAL",
+    "display_name_en": "XM-SPARK-PRE-GLOBAL"
+  },
+  "spark_pre_in_global": {
+    "display_name": "Redmi Pad SE 4G",
+    "display_name_en": "Redmi Pad SE 4G"
+  },
+  "spark_pre_ru_global": {
+    "display_name": "XM-SPARK-PRE-RU-GLOBAL",
+    "display_name_en": "XM-SPARK-PRE-RU-GLOBAL"
+  },
+  "spark_pre_tr_global": {
+    "display_name": "XM-SPARK-PRE-TR-GLOBAL",
+    "display_name_en": "XM-SPARK-PRE-TR-GLOBAL"
+  },
+  "spark_pre_tw_global": {
+    "display_name": "XM-SPARK-PRE-TW-GLOBAL",
+    "display_name_en": "XM-SPARK-PRE-TW-GLOBAL"
+  },
+  "spark_ru_global": {
+    "display_name": "XM-SPARK-RU-GLOBAL",
+    "display_name_en": "XM-SPARK-RU-GLOBAL"
+  },
+  "spark_tr_global": {
+    "display_name": "XM-SPARK-TR-GLOBAL",
+    "display_name_en": "XM-SPARK-TR-GLOBAL"
+  },
+  "spark_tw_global": {
+    "display_name": "XM-SPARK-TW-GLOBAL",
+    "display_name_en": "XM-SPARK-TW-GLOBAL"
+  },
   "spes_cl_en_global": {
     "display_name": "Redmi Note 11",
     "display_name_en": "Redmi Note 11"
