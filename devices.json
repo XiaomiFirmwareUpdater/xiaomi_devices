@@ -1451,7 +1451,15 @@
     "display_name": "Xiaomi 13T Pro",
     "display_name_en": "Xiaomi 13T Pro"
   },
+  "corot_eea_gpp_global": {
+    "display_name": "Xiaomi 13T Pro",
+    "display_name_en": "Xiaomi 13T Pro"
+  },
   "corot_global": {
+    "display_name": "Xiaomi 13T Pro",
+    "display_name_en": "Xiaomi 13T Pro"
+  },
+  "corot_gpp_global": {
     "display_name": "Xiaomi 13T Pro",
     "display_name_en": "Xiaomi 13T Pro"
   },
@@ -3631,7 +3639,15 @@
     "display_name": "Xiaomi 14",
     "display_name_en": "Xiaomi 14"
   },
+  "houji_eea_gpp_global": {
+    "display_name": "Xiaomi 14",
+    "display_name_en": "Xiaomi 14"
+  },
   "houji_global": {
+    "display_name": "Xiaomi 14",
+    "display_name_en": "Xiaomi 14"
+  },
+  "houji_gpp_global": {
     "display_name": "Xiaomi 14",
     "display_name_en": "Xiaomi 14"
   },
@@ -3934,6 +3950,10 @@
   "jason_global": {
     "display_name": "MI Note 3",
     "display_name_en": "MI Note 3"
+  },
+  "jaws": {
+    "display_name": "MI Box",
+    "display_name_en": "MI Box"
   },
   "joyeuse_cl_en_global": {
     "display_name": "Redmi Note 9 Pro",
@@ -7678,6 +7698,10 @@
   "socrates_pre_global": {
     "display_name": "XM-SOCRATES-PRE-GLOBAL",
     "display_name_en": "XM-SOCRATES-PRE-GLOBAL"
+  },
+  "soul": {
+    "display_name": "mi stick",
+    "display_name_en": "mi stick"
   },
   "spark_dc_global": {
     "display_name": "XM-SPARK-DC-GLOBAL",
