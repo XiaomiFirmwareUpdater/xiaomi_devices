@@ -915,11 +915,19 @@
     "display_name": "Redmi Note 13R",
     "display_name_en": "Redmi Note 13R"
   },
+  "breeze_dc_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
   "breeze_eea_global": {
     "display_name": "TBD",
     "display_name_en": "TBD"
   },
   "breeze_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "breeze_gt_tg_global": {
     "display_name": "TBD",
     "display_name_en": "TBD"
   },
@@ -931,11 +939,31 @@
     "display_name": "XM-BREEZE-IN-GLOBAL",
     "display_name_en": "XM-BREEZE-IN-GLOBAL"
   },
+  "breeze_lm_cr_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "breeze_mx_at_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "breeze_mx_tc_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "breeze_pre_dc_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
   "breeze_pre_eea_global": {
     "display_name": "TBD",
     "display_name_en": "TBD"
   },
   "breeze_pre_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "breeze_pre_gt_tg_global": {
     "display_name": "TBD",
     "display_name_en": "TBD"
   },
@@ -946,6 +974,18 @@
   "breeze_pre_in_global": {
     "display_name": "XM-BREEZE-PRE-IN-GLOBAL",
     "display_name_en": "XM-BREEZE-PRE-IN-GLOBAL"
+  },
+  "breeze_pre_lm_cr_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "breeze_pre_mx_at_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "breeze_pre_mx_tc_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
   },
   "breeze_pre_ru_global": {
     "display_name": "TBD",
