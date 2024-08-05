@@ -252,6 +252,7 @@ moon_eea_global - F
 moon_global - F
 moon_id_global - F
 moon_ru_global - F
+moon_tr_global - F
 moonstone_eea_global - F
 moonstone_global - F
 moonstone_ru_global - F
@@ -335,6 +336,7 @@ ruby_in_global - F
 ruby_ru_global - F
 ruby_tw_global - F
 ruyi_global - F
+ruyi_tw_global - F
 sapphire_global - F
 sapphiren_eea_global - F
 sapphiren_global - F
