@@ -2189,8 +2189,8 @@
   }
  },
  "klein": {
-  "internal_name": "",
-  "name": "Redmi A3x (`klein`)",
+  "internal_name": "C3Y2",
+  "name": "Redmi A3x",
   "models": {
    "`24048RN6CG`": "Redmi A3x Global",
    "`24048RN6CI`": "Redmi A3x India",
@@ -2441,18 +2441,21 @@
    "`24074RPD2C`": "Redmi Pad Pro 5G China"
   }
  },
+ "": {
+  "internal_name": "N85/K91",
+  "name": "Redmi Pad SE 8.7:/Redmi Pad SE 8.7 4G:/Xiaomi CyberDog:",
+  "models": {
+   "`24075RP89G`": "Redmi Pad SE 8.7 Global",
+   "`24076RP19G`": "Redmi Pad SE 8.7 4G Global",
+   "`24076RP19I`": "Redmi Pad SE 4G India",
+   "`21051191C`": "Xiaomi CyberDog Bio-inspired Quadruped Robot"
+  }
+ },
  "FYJ01QP": {
   "internal_name": "",
   "name": "Xiaomi Mijia Translator (`FYJ01QP`)",
   "models": {
    "`FYJ01QP`": "Xiaomi Mijia Translator"
-  }
- },
- "": {
-  "internal_name": "K91",
-  "name": "Xiaomi CyberDog:",
-  "models": {
-   "`21051191C`": "Xiaomi CyberDog Bio-inspired Quadruped Robot"
   }
  }
 }
