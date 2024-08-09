@@ -3995,6 +3995,14 @@
     "display_name": "MI Box",
     "display_name_en": "MI Box"
   },
+  "jaws_global": {
+    "display_name": "MI Box",
+    "display_name_en": "MI Box"
+  },
+  "jaws_pre_global": {
+    "display_name": "MI Box",
+    "display_name_en": "MI Box"
+  },
   "joyeuse_cl_en_global": {
     "display_name": "Redmi Note 9 Pro",
     "display_name_en": "Redmi Note 9 Pro"
@@ -7740,6 +7748,14 @@
     "display_name_en": "XM-SOCRATES-PRE-GLOBAL"
   },
   "soul": {
+    "display_name": "mi stick",
+    "display_name_en": "mi stick"
+  },
+  "soul_global": {
+    "display_name": "mi stick",
+    "display_name_en": "mi stick"
+  },
+  "soul_pre_global": {
     "display_name": "mi stick",
     "display_name_en": "mi stick"
   },
