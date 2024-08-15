@@ -75,11 +75,11 @@
    "Models": "22041216G",
    "SAR": "1.09 W/kg (head)     0.92 W/kg (body)",
    "SAR EU": "0.60 W/kg (head)     1.00 W/kg (body)",
-   "Price": "$ 299.20 / € 249.99"
+   "Price": "$ 289.99 / € 238.99"
   },
   "Tests": {
    "Performance": "AnTuTu: 747871 (v9)\nGeekBench: 3719 (v5.1)\nGFXBench: 46fps (ES 3.1 onscreen)",
-   "Display": "Contrast ratio: 1190:1",
+   "Display": "1190:1 contrast ratio, 600 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-27.4 LUFS (Good)",
    "Battery (old)": "Endurance rating 112h",

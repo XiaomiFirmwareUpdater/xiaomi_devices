@@ -75,11 +75,11 @@
   },
   "Misc": {
    "Colors": "Black, White",
-   "Price": "$ 499.90 / £ 480.19 / € 498.01"
+   "Price": "$ 487.00 / £ 421.13 / € 450.54"
   },
   "Tests": {
    "Performance": "AnTuTu: 1287854 (v9), 1584439 (v10)\nGeekBench: 4859 (v5), 5310 (v6)",
-   "Display": "Contrast ratio: Infinite (nominal)",
+   "Display": "1203 nits max brightness (measured)",
    "Loudspeaker": "-24.8 LUFS (Very good)",
    "Battery (new)": "Active use score 10:29h",
    "info": ""

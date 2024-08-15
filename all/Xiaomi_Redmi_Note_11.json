@@ -77,11 +77,11 @@
    "Models": "2201117TG, 2201117TI, 2201117TY, 2201117TL",
    "SAR": "0.97 W/kg (head)     0.93 W/kg (body)",
    "SAR EU": "0.60 W/kg (head)     0.99 W/kg (body)",
-   "Price": "$ 124.99 / £ 99.99 / € 128.43 / ₹ 7,999"
+   "Price": "£ 99.99 / € 85.31 / ₹ 7,799"
   },
   "Tests": {
    "Performance": "AnTuTu: 228044 (v8), 244526 (v9)\nGeekBench: 1662 (v5.1)\nGFXBench: 6.8fps (ES 3.1 onscreen)",
-   "Display": "Contrast ratio: Infinite (nominal)",
+   "Display": "736 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-25.8 LUFS (Very good)",
    "Battery (old)": "Endurance rating 126h",

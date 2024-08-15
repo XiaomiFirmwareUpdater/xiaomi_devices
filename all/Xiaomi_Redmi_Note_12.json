@@ -75,11 +75,11 @@
   "Misc": {
    "Colors": "Frosted Green, Matte Black, Mystique Blue",
    "Models": "22111317I, 22111317G",
-   "Price": "$ 162.50 / £ 99.48 / € 120.40 / ₹ 11,699"
+   "Price": "$ 170.00 / £ 119.00 / € 90.00 / ₹ 11,649"
   },
   "Tests": {
    "Performance": "AnTuTu: 360745 (v9)\nGeekBench: 1998\t(v5.1), 2017 (v6)",
-   "Display": "Contrast ratio: Infinite (nominal)",
+   "Display": "706 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-28.0 LUFS (Good)",
    "Battery (new)": "Active use score 10:58h",

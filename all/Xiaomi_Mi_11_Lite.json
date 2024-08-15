@@ -77,11 +77,11 @@
    "Models": "M2101K9AG, M2101K9AI",
    "SAR": "1.07 W/kg (head)     0.82 W/kg (body)",
    "SAR EU": "0.60 W/kg (head)     0.95 W/kg (body)",
-   "Price": "$ 269.50 / £ 253.13 / € 129.00"
+   "Price": "$ 249.50 / £ 234.34 / € 168.97"
   },
   "Tests": {
    "Performance": "AnTuTu: 290172 (v8), 294251 (v9)\nGeekBench: 1796 (v5.1)\nGFXBench: 17fps (ES 3.1 onscreen)",
-   "Display": "Contrast ratio: Infinite (nominal)",
+   "Display": "826 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-24.2 LUFS (Very good)",
    "Battery (old)": "Endurance rating 100h",

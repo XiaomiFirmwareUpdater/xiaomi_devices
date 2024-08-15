@@ -74,11 +74,11 @@
   "Misc": {
    "Colors": "Midnight Black, Lavender Purple, Forest Green",
    "Models": "23117RA68G, 2312FPCA6G",
-   "Price": "$ 234.99 / C$ 417.29 / £ 285.10 / € 215.00"
+   "Price": "$ 204.60 / C$ 406.79 / £ 310.99 / € 216.13"
   },
   "Tests": {
    "Performance": "AnTuTu: 382881 (v9), 428545 (v10)\nGeekBench: 1844 (v5), 1942 (v6)\nGFXBench ES 3.1: 15fps (offscreen 1080p)",
-   "Display": "Contrast ratio: Infinite (nominal)",
+   "Display": "1047 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-26.4 LUFS (Good)",
    "Battery (new)": "Active use score 11:36h",

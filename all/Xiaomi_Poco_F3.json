@@ -79,7 +79,7 @@
    "Models": "M2012K11AG",
    "SAR": "1.06 W/kg (head)     0.72 W/kg (body)",
    "SAR EU": "0.60 W/kg (head)     0.84 W/kg (body)",
-   "Price": "$ 223.20 / € 146.42"
+   "Price": "€ 166.12"
   },
   "Tests": {
    "Performance": "AnTuTu: 631850 (v8), 697216 (v9)\nGeekBench: 3206 (v5.1)\nGFXBench: 48fps (ES 3.1 onscreen)",

@@ -77,7 +77,11 @@
    "Colors": "Astral Black, Horizon Blue, Martian Orange",
    "Models": "MZB0GGWIN",
    "SAR": "0.85 W/kg (head)     0.71 W/kg (body)",
-   "Price": "₹ 15,270"
+   "Price": "₹ 14,440"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 2117 (v10)\nGeekBench: 450726 (v6)\n3DMark Wild life: 1335 (offscreen 1440p)",
+   "info": ""
   }
  }
 }

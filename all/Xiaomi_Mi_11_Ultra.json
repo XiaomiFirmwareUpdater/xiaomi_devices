@@ -84,7 +84,7 @@
   },
   "Tests": {
    "Performance": "AnTuTu: 688720 (v8)\nGeekBench: 3191 (v5.1)\nGFXBench: 33fps (ES 3.1 onscreen)",
-   "Display": "Contrast ratio: Infinite (nominal)",
+   "Display": "943 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-24.3 LUFS (Very good)",
    "Battery (old)": "Endurance rating 95h",

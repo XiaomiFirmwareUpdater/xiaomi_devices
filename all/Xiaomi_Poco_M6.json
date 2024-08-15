@@ -38,7 +38,7 @@
   },
   "Memory": {
    "Card slot": "microSDXC (dedicated slot)",
-   "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 256GB 8GB RAM",
+   "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM, 256GB 8GB RAM",
    "info": "UFS 2.2"
   },
   "Main Camera": {
@@ -75,6 +75,10 @@
    "Colors": "Galactic Black, Orion Blue",
    "Models": "23128PC33I",
    "Price": "₹ 8,999"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 407997 (v10)\nGeekBench: 1954 (v6)\n3DMark Wild life: 1202 (offscreen 1440p)",
+   "info": ""
   }
  }
 }

@@ -77,10 +77,10 @@
    "Colors": "Meteorite Gray, Moonlight White, Celestial Blue",
    "Models": "2107113SG, 2107113SI, 2107113SR",
    "SAR": "0.78 W/kg (head)     0.49 W/kg (body)",
-   "Price": "$ 390.00 / £ 209.99 / € 193.07 / ₹ 21,990"
+   "Price": "£ 206.21 / € 254.00 / ₹ 19,499"
   },
   "Tests": {
-   "Display": "Contrast ratio: Infinite (nominal)",
+   "Display": "837 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-26.3 LUFS (Good)",
    "Battery (old)": "Endurance rating 92h",

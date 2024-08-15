@@ -78,11 +78,11 @@
    "Models": "21091116UG, 21091116UC",
    "SAR": "1.09 W/kg (head)     1.09 W/kg (body)",
    "SAR EU": "0.60 W/kg (head)     0.99 W/kg (body)",
-   "Price": "$ 166.00 / € 185.90"
+   "Price": "$ 164.00 / € 199.00"
   },
   "Tests": {
    "Performance": "AnTuTu: 375528 (v8), 437872 (v9)\nGeekBench: 2225 (v5.1)\nGFXBench: 22fps (ES 3.1 onscreen)",
-   "Display": "Contrast ratio: Infinite (nominal)",
+   "Display": "760 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-25.2 LUFS (Very good)",
    "Battery (old)": "Endurance rating 106h",

@@ -77,11 +77,11 @@
   "Misc": {
    "Colors": "White, Black, Flora Green, Mountain Blue, Red, Blue, Yellow, Green, Gray",
    "Models": "2211133C, 2211133G",
-   "Price": "$ 199.99 / € 608.46"
+   "Price": "€ 519.36"
   },
   "Tests": {
    "Performance": "AnTuTu: 1248260 (v9)\nGeekBench: 5129 (v5.1)\nGFXBench: 109fps (ES 3.1 onscreen)",
-   "Display": "Contrast ratio: Infinite (nominal)",
+   "Display": "1254 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-25.8 LUFS (Very good)",
    "Battery (old)": "Endurance rating 108h",

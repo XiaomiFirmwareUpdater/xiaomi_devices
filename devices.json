@@ -1,5 +1,497 @@
 [
  {
+  "name": "Xiaomi Poco M6 Plus",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m6-plus.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_poco_m6_plus-13119.php",
+  "codenames": [
+   "breeze"
+  ],
+  "specs": {
+   "Network": {
+    "Technology": "GSM / HSPA / LTE / 5G",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 2100",
+    "4G bands": "1, 3, 5, 8, 28, 40, 41",
+    "5G bands": "1, 3, 5, 8, 28, 40, 78 SA/NSA",
+    "Speed": "HSPA, LTE, 5G"
+   },
+   "Launch": {
+    "Announced": "2024, August 01",
+    "Status": "Available. Released 2024, August 05"
+   },
+   "Body": {
+    "Dimensions": "168.6 x 76.3 x 8.3 mm (6.64 x 3.00 x 0.33 in)",
+    "Weight": "205 g (7.23 oz)",
+    "Build": "Glass front, plastic frame, glass back",
+    "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+    "info": "IP53, dust and splash resistant"
+   },
+   "Display": {
+    "Type": "LCD, 120Hz, 550 nits",
+    "Size": "6.79 inches, 109.5 cm2 (~85.1% screen-to-body ratio)",
+    "Resolution": "1080 x 2460 pixels (~396 ppi density)",
+    "Protection": "Corning Gorilla Glass"
+   },
+   "Platform": {
+    "OS": "Android 14, HyperOS, up to 2 major Android upgrades",
+    "Chipset": "Qualcomm SM4450 Snapdragon 4 Gen 2 AE (4 nm)",
+    "CPU": "Octa-core (2x2.3 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+    "GPU": "Adreno 613"
+   },
+   "Memory": {
+    "Card slot": "microSDXC (uses shared SIM slot)",
+    "Internal": "128GB 6GB RAM, 128GB 8GB RAM"
+   },
+   "Main Camera": {
+    "Dual": "108 MP, f/1.8, 28mm (wide), 0.7µm, PDAF\n2 MP (macro)",
+    "Features": "LED flash, HDR",
+    "Video": "1080p@30fps"
+   },
+   "Selfie camera": {
+    "Single": "13 MP, f/2.2, (wide)",
+    "Features": "HDR",
+    "Video": "1080p@30fps"
+   },
+   "Sound": {
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "Yes",
+    "info": "24-bit/192kHz Hi-Res audio"
+   },
+   "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Bluetooth": "5.3, A2DP, LE",
+    "Positioning": "GPS, GLONASS, GALILEO, BDS",
+    "NFC": "No",
+    "Infrared port": "Yes",
+    "Radio": "No",
+    "USB": "USB Type-C"
+   },
+   "Features": {
+    "Sensors": "Fingerprint (side-mounted), accelerometer, compass"
+   },
+   "Battery": {
+    "Type": "5030 mAh, non-removable",
+    "Charging": "33W wired"
+   },
+   "Misc": {
+    "Colors": "Black, Purple, Silver",
+    "Price": "₹ 13,899"
+   }
+  }
+ },
+ {
+  "name": "Xiaomi Redmi Pad SE 4G",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pad-se-4g-1.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_redmi_pad_se_4g-13225.php",
+  "codenames": [
+   "spark"
+  ],
+  "specs": {
+   "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands": "1, 2, 3, 4, 5, 7, 8, 13, 18, 19, 20, 26, 28, 38, 40, 41, 66",
+    "Speed": "HSPA, LTE"
+   },
+   "Launch": {
+    "Announced": "2024, July 29",
+    "Status": "Available. Released 2024, August 08"
+   },
+   "Body": {
+    "Dimensions": "211.6 x 125.5 x 8.8 mm (8.33 x 4.94 x 0.35 in)",
+    "Weight": "370 g (13.05 oz)",
+    "Build": "Glass front (Gorilla Glass 3)",
+    "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+    "info": "IP53, dust and splash resistant"
+   },
+   "Display": {
+    "Type": "IPS LCD, 1B colors, 90Hz, 600 nits (HBM)",
+    "Size": "8.7 inches, 214.9 cm2 (~80.9% screen-to-body ratio)",
+    "Resolution": "800 x 1340 pixels, 5:3 ratio (~179 ppi density)",
+    "Protection": "Corning Gorilla Glass 3"
+   },
+   "Platform": {
+    "OS": "Android 14, HyperOS",
+    "Chipset": "Mediatek Helio G85 (12 nm)",
+    "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+    "GPU": "Mali-G52 MC2"
+   },
+   "Memory": {
+    "Card slot": "microSDXC (dedicated slot)",
+    "Internal": "64GB 4GB RAM, 128GB 4GB RAM"
+   },
+   "Main Camera": {
+    "Single": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm",
+    "Video": "1080p@30fps"
+   },
+   "Selfie camera": {
+    "Single": "5 MP, f/2.2, (wide), 1/5.0\", 1.12µm",
+    "Video": "1080p@30fps"
+   },
+   "Sound": {
+    "Loudspeaker": "Yes, with stereo speakers",
+    "3.5mm jack": "Yes"
+   },
+   "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Bluetooth": "5.3, A2DP, LE",
+    "Positioning": "GPS, GALILEO, GLONASS, BDS",
+    "NFC": "No",
+    "Infrared port": "Yes",
+    "Radio": "Unspecified",
+    "USB": "USB Type-C 2.0"
+   },
+   "Features": {
+    "Sensors": "Accelerometer, proximity (accessories only), compass",
+    "info": "Virtual proximity sensing"
+   },
+   "Battery": {
+    "Type": "6650 mAh, non-removable",
+    "Charging": "10W wired"
+   },
+   "Misc": {
+    "Colors": "Forest Green, Ocean Blue, Urban Grey",
+    "Price": "About 120 EUR"
+   }
+  }
+ },
+ {
+  "name": "Xiaomi Mix Flip",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mix-flip.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_mix_flip-13221.php",
+  "codenames": [
+   "ruyi"
+  ],
+  "specs": {
+   "Network": {
+    "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+    "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "info": "CDMA2000 1x",
+    "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 42, 48, 66",
+    "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 77, 78, 79 SA/NSA",
+    "Speed": "HSPA, LTE, 5G"
+   },
+   "Launch": {
+    "Announced": "2024, July 19",
+    "Status": "Available. Released 2024, July 19"
+   },
+   "Body": {
+    "Dimensions": "Unfolded: 167.5 x 74 x 7.6 mmFolded: 74 x 74 x 16 mm",
+    "Weight": "190 g or 192 g (6.70 oz)",
+    "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+    "info": "Plastic front (unfolded), glass front (folded), glass back, aluminum frame, hinge (stainless steel)"
+   },
+   "Display": {
+    "Type": "Foldable LTPO AMOLED, 1B colors, Dolby Vision, HDR10+, 120Hz, 3000 nits (peak)",
+    "Size": "6.86 inches, 108.5 cm2 (~87.5% screen-to-body ratio)",
+    "Resolution": "1224 x 2912 pixels (~460 ppi density)",
+    "info": "Second external AMOLED, 68B colors, Dolby Vision, HDR10+, 120Hz, 1600 nits (HBM), 3000 nits (peak)\n4 inches, 1392 x 1208 pixels, 460 ppi\nScratch/drop-resistant glass"
+   },
+   "Platform": {
+    "OS": "Android 14, HyperOS",
+    "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+    "CPU": "Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520)",
+    "GPU": "Adreno 750"
+   },
+   "Memory": {
+    "Card slot": "No",
+    "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 16GB RAM",
+    "info": "UFS 4.0"
+   },
+   "Main Camera": {
+    "Dual": "50 MP, f/1.7, 23mm (wide), 1.0µm, PDAF, OIS\n50 MP, f/2.0, 47mm (telephoto), PDAF (9cm - ∞), 2x optical zoom",
+    "Features": "LED flash, panorama, HDR, Leica lenses",
+    "Video": "8K@24fps, 4K@24/30/60fps, 1080p@30/60/120/240/960fps, 720p@1920fps, Dolby Vision HDR"
+   },
+   "Selfie camera": {
+    "Single": "32 MP, f/2.0, 21mm (wide), 0.7µm",
+    "Features": "Dolby Vision HDR",
+    "Video": "4K@30/60fps, 1080p@30/60fps"
+   },
+   "Sound": {
+    "Loudspeaker": "Yes, with stereo speakers",
+    "3.5mm jack": "No",
+    "info": "24-bit/192kHz Hi-Res & Hi-Res Wireless audio"
+   },
+   "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+    "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC",
+    "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+    "NFC": "Yes",
+    "Infrared port": "Yes",
+    "Radio": "No",
+    "USB": "USB Type-C 2.0"
+   },
+   "Features": {
+    "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+   },
+   "Battery": {
+    "Type": "4780 mAh, non-removable",
+    "Charging": "67W wired"
+   },
+   "Misc": {
+    "Colors": "Black, White, Purple",
+    "Models": "2405CPX3DC",
+    "Price": "About 760 EUR"
+   },
+   "Tests": {
+    "Performance": "AnTuTu: 1609570 (v10)\nGeekBench: 6035 (v6)\n3DMark Wild life: 15514 (offscreen 1440p)",
+    "Display": "1314 nits max brightness (measured)",
+    "Loudspeaker": "-27.6 LUFS (Good)",
+    "Battery (new)": "Active use score 11:58h",
+    "info": ""
+   }
+  }
+ },
+ {
+  "name": "Xiaomi Redmi K70 Ultra",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k70-ultra-.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_redmi_k70_ultra-13215.php",
+  "codenames": [
+   "rothko"
+  ],
+  "specs": {
+   "Network": {
+    "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "info": "CDMA2000 1x",
+    "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 2100",
+    "4G bands": "1, 3, 4, 5, 7, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41, 42, 48, 66",
+    "5G bands": "1, 3, 5, 7, 8, 28, 66, 38, 40, 41, 48, 77, 78 SA/NSA",
+    "Speed": "HSPA, LTE, 5G"
+   },
+   "Launch": {
+    "Announced": "2024, July 19",
+    "Status": "Available. Released 2024, July 19"
+   },
+   "Body": {
+    "Dimensions": "160.4 x 75.1 x 8.4 mm (6.31 x 2.96 x 0.33 in)",
+    "Weight": "211 g (7.44 oz)",
+    "Build": "Glass front, aluminum frame",
+    "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+    "info": "IP68 dust/water resistant (up to 2m for 30 min)"
+   },
+   "Display": {
+    "Type": "OLED, 68B colors, 144Hz, Dolby Vision, HDR10+, 1600 nits (HBM), 4000 nits (peak)",
+    "Size": "6.67 inches, 107.4 cm2 (~89.1% screen-to-body ratio)",
+    "Resolution": "1220 x 2712 pixels, 20:9 ratio (~446 ppi density)",
+    "Protection": "Scratch/drop-resistant glass"
+   },
+   "Platform": {
+    "OS": "Android 14, HyperOS",
+    "Chipset": "Mediatek Dimensity 9300+ (4 nm)",
+    "CPU": "Octa-core (1x3.25 GHz Cortex-X4 & 3x2.85 GHz Cortex-X4 & 4x2.0 GHz Cortex-A720)",
+    "GPU": "Immortalis-G720 MC12"
+   },
+   "Memory": {
+    "Card slot": "No",
+    "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM, 1TB 24GB RAM",
+    "info": "UFS 4.0"
+   },
+   "Main Camera": {
+    "Triple": "50 MP, f/1.7, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS\n8 MP, 119˚ (ultrawide), 1/4.0\", 1.12µm\n2 MP, f/2.4, (macro)",
+    "Features": "Dual-LED dual-tone flash, HDR, panorama",
+    "Video": "8K@24/30fps, 4K@24/30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS"
+   },
+   "Selfie camera": {
+    "Single": "20 MP, (wide), 1/2.0\", 0.8µm",
+    "Features": "HDR",
+    "Video": "1080p@30fps"
+   },
+   "Sound": {
+    "Loudspeaker": "Yes, with stereo speakers",
+    "3.5mm jack": "No",
+    "info": "24-bit/192kHz Hi-Res Wireless audio"
+   },
+   "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+    "Bluetooth": "5.4, A2DP, LE, LHDC",
+    "Positioning": "GPS (L1+L5), BDS (B1I+B1C+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L5), GLONASS",
+    "NFC": "Yes",
+    "Infrared port": "Yes",
+    "Radio": "Unspecified",
+    "USB": "USB Type-C"
+   },
+   "Features": {
+    "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum"
+   },
+   "Battery": {
+    "Type": "Li-Po 5500 mAh, non-removable",
+    "Charging": "120W wired, PD3.0, 100% in 24 min (advertised)"
+   },
+   "Misc": {
+    "Colors": "Black, White, Violet, Green Championship Edition, Orange Championship Edition",
+    "Price": "About 330 EUR"
+   }
+  }
+ },
+ {
+  "name": "Xiaomi Mix Fold 4",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mix-fold4.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_mix_fold_4-13222.php",
+  "codenames": [
+   "goku"
+  ],
+  "specs": {
+   "Network": {
+    "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "info": "CDMA2000 1xEV-DO",
+    "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 42, 48, 66",
+    "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 77, 78, 79 SA/NSA",
+    "Speed": "HSPA, LTE (CA), 5G"
+   },
+   "Launch": {
+    "Announced": "2024, July 19",
+    "Status": "Available. Released 2024, July 19"
+   },
+   "Body": {
+    "Dimensions": "Unfolded: 159.4 x 143.3 x 4.6 mm Folded: 159.4 x 73.1 x 9.5 mm",
+    "Weight": "226 g or 228 g (7.97 oz)",
+    "Build": "Glass front (folded), plastic front (unfolded), aluminum frame",
+    "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+    "info": "IPX8 water resistant (up to 1.5m for 30 min)"
+   },
+   "Display": {
+    "Type": "Foldable LTPO AMOLED, 1B colors, 120Hz, HDR10+, Dolby Vision, 1700 nits (HBM), 3000 nits (peak)",
+    "Size": "7.98 inches, 204.1 cm2 (~89.4% screen-to-body ratio)",
+    "Resolution": "2224 x 2488 pixels (~418 ppi density)",
+    "info": "Cover display:\nLTPO AMOLED, 68B colors, 120Hz, HDR10+, Dolby Vision, 1700 nits (HBM), 3000 nits (peak)\n6.56 inches, 1080 x 2520 pixels, 21:9 ratio\nScratch/drop-resistant glass"
+   },
+   "Platform": {
+    "OS": "Android 14, HyperOS",
+    "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+    "CPU": "Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520)",
+    "GPU": "Adreno 750"
+   },
+   "Memory": {
+    "Card slot": "No",
+    "Internal": "256GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+    "info": "UFS 4.0"
+   },
+   "Main Camera": {
+    "Quad": "50 MP, f/1.7, 23mm (wide), 1/1.49\", 1.0µm, Laser AF, PDAF, OIS\n50 MP, f/2.0, 47mm (telephoto), PDAF (9cm - ∞), OIS, 2x optical zoom\n10 MP, f/2.9, 115mm (periscope telephoto), PDAF (30cm - ∞), OIS, 5x optical zoom\n12 MP, f/2.2, 15mm, 120˚ (ultrawide)",
+    "Features": "LED flash, HDR, panorama, Leica lenses",
+    "Video": "8K@24fps, 4K@24/30/60fps, 1080p@30/60/120/240/960fps, 720p@1920fps, Dolby Vision HDR"
+   },
+   "Selfie camera": {
+    "Single": "16 MP, (wide)\nCover camera:\n16 MP, (wide)",
+    "Features": "Dolby Vision HDR",
+    "Video": "1080p@30/60fps"
+   },
+   "Sound": {
+    "Loudspeaker": "Yes, with stereo speakers",
+    "3.5mm jack": "No",
+    "info": "24-bit/192kHz Hi-Res & Hi-Res Wireless audio\nSnapdragon Sound"
+   },
+   "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band (tri-band after future SW update), Wi-Fi Direct",
+    "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC",
+    "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+    "NFC": "Yes",
+    "Infrared port": "Yes",
+    "Radio": "No",
+    "USB": "USB Type-C 3.2, OTG"
+   },
+   "Features": {
+    "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, color spectrum, barometer",
+    "info": "Two-way satellite communication (calls, messages)"
+   },
+   "Battery": {
+    "Type": "5100 mAh, non-removable",
+    "Charging": "67W wired, PD3.0, QC4, 31% in 10 min (advertised)\n50W wireless, 24% in 10 min (advertised)"
+   },
+   "Misc": {
+    "Colors": "Black, White, Blue",
+    "Price": "About 1140 EUR"
+   }
+  }
+ },
+ {
+  "name": "Xiaomi Redmi 13 5G",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-13-5g.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_redmi_13_5g-13157.php",
+  "codenames": [
+   "breeze"
+  ],
+  "specs": {
+   "Network": {
+    "Technology": "GSM / HSPA / LTE / 5G",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 2100",
+    "4G bands": "1, 3, 5, 8, 40, 41",
+    "5G bands": "1, 3, 5, 8, 28, 40, 78 SA/NSA",
+    "Speed": "HSPA, LTE"
+   },
+   "Launch": {
+    "Announced": "2024, July 09",
+    "Status": "Available. Released 2024, July 12"
+   },
+   "Body": {
+    "Dimensions": "168.6 x 76.3 x 8.3 mm (6.64 x 3.00 x 0.33 in)",
+    "Weight": "205 g (7.23 oz)",
+    "Build": "Glass front (Gorilla Glass 3), glass back",
+    "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+    "info": "IP53, dust and splash resistant"
+   },
+   "Display": {
+    "Type": "IPS LCD, 120Hz, 550 nits (HBM)",
+    "Size": "6.79 inches, 109.5 cm2 (~85.1% screen-to-body ratio)",
+    "Resolution": "1080 x 2460 pixels (~396 ppi density)",
+    "Protection": "Corning Gorilla Glass 3"
+   },
+   "Platform": {
+    "OS": "Android 14, HyperOS, up to 2 major Android upgrades",
+    "Chipset": "Qualcomm SM4450 Snapdragon 4 Gen 2 AE (4 nm)",
+    "CPU": "Octa-core (2x2.3 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+    "GPU": "Adreno 613"
+   },
+   "Memory": {
+    "Card slot": "microSDXC (uses shared SIM slot)",
+    "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+    "info": "UFS 2.2"
+   },
+   "Main Camera": {
+    "Dual": "108 MP, f/1.8, (wide), 0.64µm, PDAF\n2 MP, (macro)",
+    "Features": "LED flash, HDR",
+    "Video": "1080p@30fps"
+   },
+   "Selfie camera": {
+    "Single": "13 MP, f/2.5, (wide)",
+    "Features": "HDR",
+    "Video": "1080p@30fps"
+   },
+   "Sound": {
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "Yes"
+   },
+   "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Bluetooth": "5.0, A2DP, LE",
+    "Positioning": "GPS, GLONASS, GALILEO, BDS",
+    "NFC": "Yes (market/region dependent)",
+    "Infrared port": "Yes",
+    "Radio": "FM radio",
+    "USB": "USB Type-C"
+   },
+   "Features": {
+    "Sensors": "Fingerprint (side-mounted), accelerometer, compass",
+    "info": "Virtual proximity sensing"
+   },
+   "Battery": {
+    "Type": "Li-Po 5030 mAh, non-removable",
+    "Charging": "33W wired, 50% in 30 min (advertised)"
+   },
+   "Misc": {
+    "Colors": "Black Diamond, Hawaiian Blue, Orchid Pink",
+    "Price": "₹ 13,999"
+   }
+  }
+ },
+ {
   "name": "Xiaomi Poco M6 4G",
   "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m6-4g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_m6_4g-13131.php",
@@ -75,7 +567,7 @@
    },
    "Misc": {
     "Colors": "Black, Silver, Purple",
-    "Price": "$ 125.00 / £ 159.00 / € 149.90"
+    "Price": "$ 125.00 / £ 119.00 / € 130.99 / ₹ 13,899"
    }
   }
  },
@@ -155,7 +647,14 @@
    },
    "Misc": {
     "Colors": "Cruise Blue, Matcha Green, Shadow Black",
-    "Price": "About 480 EUR"
+    "Price": "₹ 38,649"
+   },
+   "Tests": {
+    "Performance": "AnTuTu: 1530876 (v10)\nGeekBench: 5352 (v6)\n3DMark Wild life: 12587 (offscreen 1440p)",
+    "Display": "1441 nits max brightness (measured)",
+    "Loudspeaker": "-26.6 LUFS (Good)",
+    "Battery (new)": "Active use score 11:36h",
+    "info": ""
    }
   }
  },
@@ -200,7 +699,7 @@
    },
    "Memory": {
     "Card slot": "microSDXC (uses shared SIM slot)",
-    "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+    "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM, 256GB 8GB RAM",
     "info": "eMMC 5.1"
    },
    "Main Camera": {
@@ -236,11 +735,11 @@
    },
    "Misc": {
     "Colors": "Midnight Black, Sandy Gold, Ocean Blue, Pink",
-    "Price": "€ 146.29"
+    "Price": "$ 135.00 / £ 115.68 / € 128.00"
    },
    "Tests": {
     "Performance": "AnTuTu: 258090 (v9), 262438 (v10)\nGeekBench: 1346 (v5), 1342 (v6)\n3DMark Wild life: 725 (offscreen 1440p)",
-    "Display": "Contrast ratio: 1300:1 (nominal)",
+    "Display": "1300:1 contrast ratio, 448 nits max brightness (measured)",
     "Loudspeaker": "-29.9 LUFS (Average)",
     "Battery (new)": "Active use score 10:28h",
     "info": ""
@@ -349,7 +848,7 @@
    },
    "Body": {
     "Dimensions": "168.4 x 76.3 x 8.3 mm (6.63 x 3.00 x 0.33 in)",
-    "Weight": "-",
+    "Weight": "193 g (6.81 oz)",
     "Build": "Glass front (Gorilla Glass 3), glass back, plastic frame",
     "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
    },
@@ -401,7 +900,8 @@
    },
    "Misc": {
     "Colors": "Midnight Black, Moonlight White, Aurora Green",
-    "Price": "$ 119.99"
+    "Models": "24048RN6CG, 24048RN6CI",
+    "Price": "$ 102.50"
    }
   }
  },
@@ -482,11 +982,11 @@
    },
    "Misc": {
     "Colors": "Black, White",
-    "Price": "$ 499.90 / £ 480.19 / € 498.01"
+    "Price": "$ 487.00 / £ 421.13 / € 450.54"
    },
    "Tests": {
     "Performance": "AnTuTu: 1287854 (v9), 1584439 (v10)\nGeekBench: 4859 (v5), 5310 (v6)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "1203 nits max brightness (measured)",
     "Loudspeaker": "-24.8 LUFS (Very good)",
     "Battery (new)": "Active use score 10:29h",
     "info": ""
@@ -572,11 +1072,11 @@
    "Misc": {
     "Colors": "Black, Green, Titanium",
     "Models": "24069PC21G",
-    "Price": "$ 418.05 / £ 359.00 / € 379.00"
+    "Price": "$ 409.99 / £ 316.49 / € 296.61 / ₹ 28,599"
    },
    "Tests": {
     "Performance": "AnTuTu: 1497886 (v10)\nGeekBench: 4883 (v6)\n3DMark Wild life: 11443 (offscreen 1440p)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "1218 nits max brightness (measured)",
     "Loudspeaker": "-25.2 LUFS (Very good)",
     "Battery (new)": "Active use score 10:36h",
     "info": ""
@@ -660,7 +1160,8 @@
     "Price": "About 280 EUR"
    },
    "Tests": {
-    "Display": "Contrast ratio: 1356:1 (nominal)",
+    "Performance": "AnTuTu: 600399 (v10)\nGeekBench: 2909 (v6)\n3DMark Wild life: 2974 (offscreen 1440p)",
+    "Display": "1356:1 contrast ratio, 564 nits max brightness (measured)",
     "Loudspeaker": "-23.9 LUFS (Very good)",
     "Battery (new)": "Active use score 9:15h",
     "info": ""
@@ -825,7 +1326,8 @@
     "Price": "About 200 EUR"
    },
    "Tests": {
-    "Display": "Contrast ratio: 1454:1 (nominal)",
+    "Performance": "AnTuTu: 589889 (v10)\nGeekBench: 2840 (v6)\n3DMark Wild life: 2955 (offscreen 1440p)",
+    "Display": "1454:1 contrast ratio, 654 nits max brightness (measured)",
     "Loudspeaker": "-24.1 LUFS (Very good)",
     "Battery (new)": "Active use score 9:36h",
     "info": ""
@@ -988,7 +1490,7 @@
     "Colors": "Black, Blue, Green",
     "Models": "2312BPC51H",
     "SAR": "0.84 W/kg (head)     0.77 W/kg (body)",
-    "Price": "₹ 6,739"
+    "Price": "₹ 6,899"
    }
   }
  },
@@ -1152,7 +1654,11 @@
     "Colors": "Astral Black, Horizon Blue, Martian Orange",
     "Models": "MZB0GGWIN",
     "SAR": "0.85 W/kg (head)     0.71 W/kg (body)",
-    "Price": "₹ 15,270"
+    "Price": "₹ 14,440"
+   },
+   "Tests": {
+    "Performance": "AnTuTu: 2117 (v10)\nGeekBench: 450726 (v6)\n3DMark Wild life: 1335 (offscreen 1440p)",
+    "info": ""
    }
   }
  },
@@ -1235,11 +1741,11 @@
    "Misc": {
     "Colors": "Black, White, Jade Green, Pink",
     "Models": "23127PN0CC, 23127PN0CG",
-    "Price": "$ 727.20 / £ 802.82 / € 698.03 / ₹ 69,999"
+    "Price": "$ 727.20 / £ 828.44 / € 773.00 / ₹ 53,999"
    },
    "Tests": {
-    "Performance": "AnTuTu: 2003429 (v10)\nGeekBench: 6810 (v6)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Performance": "AnTuTu: 2003429 (v10)\nGeekBench: 6810 (v6)\n3DMark Wild life: 15389 (offscreen 1440p)",
+    "Display": "1175 nits max brightness (measured)",
     "Loudspeaker": "-25.3 LUFS (Very good)",
     "Battery (new)": "Active use score 13:56h",
     "info": ""
@@ -1325,11 +1831,12 @@
    },
    "Misc": {
     "Colors": "Black, Blue, White, Titanium Gray",
-    "Price": "$ 1,120.00 / £ 1,208.70 / € 1,079.00 / ₹ 99,999"
+    "Models": "24031PN0DC",
+    "Price": "$ 1,130.00 / £ 1,265.00 / € 1,056.31 / ₹ 99,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 2014262 (v10)\nGeekBench: 7060 (v6)\n3DMark Wild life: 17244 (offscreen 1440p)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "1281 nits max brightness (measured)",
     "Loudspeaker": "-25.6 LUFS (Very good)",
     "Battery (new)": "Active use score 11:25h",
     "info": ""
@@ -1413,6 +1920,8 @@
     "Price": "About 700 EUR"
    },
    "Tests": {
+    "Performance": "AnTuTu: 1539762 (v10)\nGeekBench: 5268 (v6)\n3DMark Wild life: 11460 (offscreen 1440p)",
+    "Display": "1378:1 contrast ratio, 848 nits max brightness (measured)",
     "Loudspeaker": "-20.5 LUFS (Excellent)",
     "Battery (new)": "Active use score 11:14h",
     "info": ""
@@ -1458,7 +1967,7 @@
    },
    "Memory": {
     "Card slot": "microSDXC (dedicated slot)",
-    "Internal": "64GB 3GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",
+    "Internal": "64GB 2GB RAM, 64GB 3GB RAM, 64GB 4GB RAM, 128GB 3GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",
     "info": "eMMC 5.1"
    },
    "Main Camera": {
@@ -1478,7 +1987,7 @@
     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
     "Bluetooth": "5.4, A2DP, LE",
     "Positioning": "GPS, GLONASS, GALILEO, BDS",
-    "NFC": "No",
+    "NFC": "Yes (market/region dependent)",
     "Radio": "FM radio",
     "USB": "USB Type-C 2.0"
    },
@@ -1493,7 +2002,7 @@
    "Misc": {
     "Colors": "Midnight Black, Forest Green (Olive Green), Star Blue (Lake Blue)",
     "Models": "23129RN51X",
-    "Price": "$ 91.06 / £ 179.00 / € 82.99 / ₹ 6,999"
+    "Price": "$ 89.00 / £ 195.00 / € 81.48 / ₹ 6,999"
    }
   }
  },
@@ -1573,11 +2082,11 @@
    "Misc": {
     "Colors": "Midnight Black, Lavender Purple, Forest Green",
     "Models": "23117RA68G, 2312FPCA6G",
-    "Price": "$ 234.99 / C$ 417.29 / £ 285.10 / € 215.00"
+    "Price": "$ 204.60 / C$ 406.79 / £ 310.99 / € 216.13"
    },
    "Tests": {
     "Performance": "AnTuTu: 382881 (v9), 428545 (v10)\nGeekBench: 1844 (v5), 1942 (v6)\nGFXBench ES 3.1: 15fps (offscreen 1080p)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "1047 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-26.4 LUFS (Good)",
     "Battery (new)": "Active use score 11:36h",
@@ -1626,7 +2135,7 @@
    },
    "Memory": {
     "Card slot": "microSDXC (uses shared SIM slot)",
-    "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+    "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM, 256GB 8GB RAM, 512GB 8GB RAM",
     "info": "UFS 2.2"
    },
    "Main Camera": {
@@ -1661,11 +2170,11 @@
    "Misc": {
     "Colors": "Midnight Black, Mint Green, Ice Blue, Ocean Sunset",
     "Models": "23129RAA4G, 23124RA7EO",
-    "Price": "$ 156.87 / £ 169.99 / € 152.00"
+    "Price": "$ 154.00 / € 149.96"
    },
    "Tests": {
     "Performance": "AnTuTu: 316857 (v9), 383407 (v10)\nGeekBench: 1817 (v5), 1542 (v6)\n3DMark Wild life: 655 (offscreen 1440p)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "1313 nits max brightness (measured)",
     "Loudspeaker": "-25.8 LUFS (Very good)",
     "Battery (new)": "Active use score 11:52h",
     "info": ""
@@ -1752,11 +2261,11 @@
    "Misc": {
     "Colors": "Midnight Black (Fushion Black), Moonlight White (Fushion White), Aurora Purple, Fushion Purple, Camo Green",
     "Models": "23090RA98C, 23090RA98G, 23090RA98I",
-    "Price": "$ 279.00 / £ 349.00 / € 309.00 / ₹ 27,650"
+    "Price": "$ 337.50 / C$ 609.43 / £ 349.00 / € 309.00 / ₹ 27,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 683899 (v9), 779812 (v10)\nGeekBench: 2353 (v5), 2597 (v6)\n3DMark Wild life: 4341 (offscreen 1440p)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "1283 nits max brightness (measured)",
     "Loudspeaker": "-26.3 LUFS (Good)",
     "Battery (new)": "Active use score 10:38h",
     "info": ""
@@ -1844,11 +2353,11 @@
    "Misc": {
     "Colors": "Midnight Black, Aurora Purple (Coral Purple), Ocean Teal, Arctic White, Olive Green, Scarlet Red",
     "Models": "2312DRA50C, 2312CRAD3C, 2312DRA50G, 2312DRA50I",
-    "Price": "$ 287.70 / £ 249.00 / € 276.00 / ₹ 24,999"
+    "Price": "$ 233.23 / £ 264.00 / € 289.00 / ₹ 24,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 523746 (v9), 581979 (v10)\nGeekBench: 2695 (v5), 2751 (v6)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "1331 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-26.0 LUFS (Very good)",
     "Battery (new)": "Active use score 10:16h",
@@ -1937,11 +2446,11 @@
    "Misc": {
     "Colors": "Graphite black (Stealth Black), Arctic White, Ocean Teal, Prism Gold",
     "Models": "2312DRAABG, 2312DRAABI",
-    "Price": "$ 202.50 / £ 147.99 / € 200.97 / ₹ 16,999"
+    "Price": "$ 204.50 / £ 149.00 / € 200.00 / ₹ 16,148"
    },
    "Tests": {
     "Performance": "AnTuTu: 405118 (v9), 455421 (v10)\nGeekBench: 1968 (v5), 1978 (v6)\n3DMark Wild life: 1334 (offscreen 1440p)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "991 nits max brightness (measured)",
     "Loudspeaker": "-24.0 LUFS (Very good)",
     "Battery (new)": "Active use score 9:49h",
     "info": ""
@@ -2027,11 +2536,11 @@
    "Misc": {
     "Colors": "Black, Yellow, Gray",
     "Models": "2311DRK48G, 2311DRK48I",
-    "Price": "$ 271.03 / £ 314.00 / € 288.85 / ₹ 23,999"
+    "Price": "$ 271.03 / £ 247.47 / € 245.02 / ₹ 28,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 1396547 (v10)\nGeekBench: 4696 (v6)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "1148 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-24.3 LUFS (Very good)",
     "Battery (new)": "Active use score 11:46h",
@@ -2050,9 +2559,10 @@
    "Network": {
     "Technology": "GSM / HSPA / LTE / 5G",
     "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
-    "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
-    "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 66",
-    "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6",
+    "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International",
+    "info": "1, 3, 5, 8, 28, 38, 40, 41, 77, 78 SA/NSA - India",
+    "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 66 - International",
+    "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6 - International",
     "Speed": "HSPA, LTE, 5G"
    },
    "Launch": {
@@ -2117,11 +2627,11 @@
    "Misc": {
     "Colors": "Black, White, Blue",
     "Models": "23122PCD1G, 23122PCD1I",
-    "Price": "$ 239.00 / C$ 468.87 / £ 225.00 / € 219.00 / ₹ 15,999"
+    "Price": "$ 231.30 / C$ 479.44 / £ 284.99 / € 208.92 / ₹ 15,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 533112 (v9), 605803 (v10)\nGeekBench: 2945 (v6)\n3DMark Wild Life: 3032 (offscreen 1440p)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "1339 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-26.5 LUFS (Good)",
     "Battery (new)": "Active use score 10:11h",
@@ -2205,11 +2715,11 @@
    },
    "Misc": {
     "Colors": "Black, Blue, Purple",
-    "Price": "$ 176.20 / £ 198.01 / € 191.74"
+    "Price": "$ 123.37 / £ 199.00 / € 175.61"
    },
    "Tests": {
     "Performance": "AnTuTu: 386301 (v9), 428531 (v10)\nGeekBench: 1892 (v5), 1979 (v6)\nGFXBench ES 3.1: 15fps (offscreen 1080p)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "1053 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-25.0 LUFS (Very good)",
     "Battery (new)": "Active use score 11:46h",
@@ -2257,7 +2767,7 @@
    },
    "Memory": {
     "Card slot": "microSDXC (dedicated slot)",
-    "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 256GB 8GB RAM",
+    "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM, 256GB 8GB RAM",
     "info": "UFS 2.2"
    },
    "Main Camera": {
@@ -2294,6 +2804,10 @@
     "Colors": "Galactic Black, Orion Blue",
     "Models": "23128PC33I",
     "Price": "₹ 8,999"
+   },
+   "Tests": {
+    "Performance": "AnTuTu: 407997 (v10)\nGeekBench: 1954 (v6)\n3DMark Wild life: 1202 (offscreen 1440p)",
+    "info": ""
    }
   }
  },
@@ -2452,7 +2966,7 @@
    "Misc": {
     "Colors": "Starlight Black, Startrail Green, Startrail Silver",
     "Models": "23124RN87G, 23124RN87I, 23124RN87C",
-    "Price": "$ 209.99 / € 207.72 / ₹ 10,499"
+    "Price": "$ 209.99 / £ 335.00 / € 147.00 / ₹ 10,499"
    }
   }
  },
@@ -2853,7 +3367,7 @@
    "Misc": {
     "Colors": "Midnight Black, Navy Blue, Glacier White, Clover Green",
     "Models": "23100RN82L, 23106RN0DA, 23108RN04Y, 2311DRN14I",
-    "Price": "$ 115.00 / C$ 242.82 / £ 102.71 / € 102.00 / ₹ 7,699"
+    "Price": "$ 109.00 / £ 105.00 / € 106.98 / ₹ 7,699"
    }
   }
  },
@@ -2934,11 +3448,11 @@
    "Misc": {
     "Colors": "Black, Blue, Purple",
     "Models": "2310FPCA4G",
-    "Price": "$ 105.00 / £ 103.44 / € 110.58 / ₹ 6,999"
+    "Price": "$ 105.00 / £ 117.23 / € 104.07 / ₹ 6,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 242885 (v9), 261613 (v10)\nGeekBench: 1201 (v5), 1292 (v6)",
-    "Display": "Contrast ratio: 1555:1 (nominal)",
+    "Display": "1555:1 contrast ratio, 607 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-31.4 LUFS (Below average)",
     "Battery (new)": "Active use score 11:31h",
@@ -3108,11 +3622,11 @@
    "Misc": {
     "Colors": "Alpine Blue, Meadow Green, Black",
     "Models": "23078PND5G",
-    "Price": "$ 579.00 / £ 479.00 / € 523.91"
+    "Price": "$ 584.35 / £ 542.68 / € 531.90"
    },
    "Tests": {
     "Performance": "AnTuTu: 1214085 (v9), 1470464 (v10)\nGeekBench: 4859 (v5), 4518 (v6)\nGFXBench: 84fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "1094 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-26.7 LUFS (Good)",
     "Battery (new)": "Active use score 11:50h",
@@ -3199,11 +3713,11 @@
    "Misc": {
     "Colors": "Alpine Blue, Meadow Green, Black",
     "Models": "2306EPN60G",
-    "Price": "$ 489.99 / £ 397.70 / € 394.99"
+    "Price": "$ 489.99 / £ 371.52 / € 376.73"
    },
    "Tests": {
     "Performance": "AnTuTu: 825858 (v9), 888714 (v10)\nGeekBench: 3755 (v5), 3841 (v6)\nGFXBench: 43fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "1264 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-25.0 LUFS (Very good)",
     "Battery (new)": "Active use score 12:23h",
@@ -3370,7 +3884,7 @@
    },
    "Tests": {
     "Performance": "AnTuTu: 242885 (v9), 261613 (v10)\nGeekBench: 1201 (v5), 1292 (v6)",
-    "Display": "Contrast ratio: 1595:1",
+    "Display": "1595:1 contrast ratio, 402 nits max brightness (measured)",
     "Loudspeaker": "-23.2 LUFS (Very good)",
     "Battery (new)": "Active use score 13:56h",
     "info": ""
@@ -3504,7 +4018,7 @@
     "info": "UFS 4.0"
    },
    "Main Camera": {
-    "Triple": "50 MP, f/1.8, 23mm (wide), 1/1.49\", 1.0µm, PDAF, OIS\n10 MP, f/2.0, 75mm (telephoto), PDAF, OIS, 3.2x optical zoom\n10 MP, f/2.9, 115mm (telephoto), PDAF, OIS, 5x optical zoom\n12 MP, f/2.2, 15mm, 120˚ (ultrawide)",
+    "Quad": "50 MP, f/1.8, 23mm (wide), 1/1.49\", 1.0µm, PDAF, OIS\n10 MP, f/2.0, 75mm (telephoto), PDAF, OIS, 3.2x optical zoom\n10 MP, f/2.9, 115mm (telephoto), PDAF, OIS, 5x optical zoom\n12 MP, f/2.2, 15mm, 120˚ (ultrawide)",
     "Features": "LED flash, HDR, panorama, Leica lenses",
     "Video": "8K@24fps, 4K@24/30/60fps, 1080p@30/60/120/240/960/1920fps, Dolby Vision HDR"
    },
@@ -3541,7 +4055,7 @@
    },
    "Tests": {
     "Performance": "AnTuTu: 1235547 (v9), 1527952 (v10)\nGeekBench: 4797 (v5.5), 5296 (v6.0)\nGFXBench: 74fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "1277 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-26.0 LUFS (Very good)",
     "Battery (old)": "Endurance rating 117h",
@@ -3705,7 +4219,7 @@
    "Misc": {
     "Colors": "Power Black, Forest Green",
     "Models": "23076PC4BI",
-    "Price": "₹ 9,449"
+    "Price": "₹ 9,999"
    }
   }
  },
@@ -3744,7 +4258,7 @@
     "Protection": "Corning Gorilla Glass"
    },
    "Platform": {
-    "OS": "Android 13, MIUI 14",
+    "OS": "Android 13, upgradable to Android 14, HyperOS",
     "Chipset": "Qualcomm SM4450 Snapdragon 4 Gen 2 (4 nm)",
     "CPU": "Octa-core (2x2.2 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55)",
     "GPU": "Adreno 613"
@@ -3789,7 +4303,7 @@
    "Misc": {
     "Colors": "Jade Black, Pastel Blue, Moonstone Silver",
     "Models": "23076RN4BI, 23076RN8DY",
-    "Price": "€ 133.75 / ₹ 12,499"
+    "Price": "€ 145.99 / ₹ 12,299"
    }
   }
  },
@@ -3990,7 +4504,7 @@
     "Resolution": "1080 x 2460 pixels (~396 ppi density)"
    },
    "Platform": {
-    "OS": "Android 13, MIUI 14",
+    "OS": "Android 13, upgradable to Android 14, HyperOS",
     "Chipset": "Mediatek MT6769H Helio G88 (12 nm)",
     "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
     "GPU": "Mali-G52 MC2"
@@ -4032,11 +4546,11 @@
    "Misc": {
     "Colors": "Midnight Black, Sky Blue, Polar Silver, Moonstone Silver",
     "Models": "23053RN02A, 23053RN02Y, 23053RN02I, 23053RN02L",
-    "Price": "$ 119.00 / C$ 200.52 / £ 98.59 / € 111.51 / ₹ 9,340"
+    "Price": "$ 119.00 / £ 99.99 / € 106.50 / ₹ 9,139"
    },
    "Tests": {
     "Performance": "AnTuTu: 258006 (v9)\nGeekBench: 1303 (v5.1), 1380 (v6)\nGFXBench: 9fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: 1507:1",
+    "Display": "1507:1 contrast ratio, 541 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-29.9 LUFS (Average)",
     "Battery (old)": "Endurance rating 117h",
@@ -4284,11 +4798,11 @@
    "Misc": {
     "Colors": "Black, White",
     "Models": "23013PC75G",
-    "Price": "$ 436.99 / £ 563.99 / € 364.00"
+    "Price": "$ 431.80 / £ 450.05 / € 419.00"
    },
    "Tests": {
     "Performance": "AnTuTu: 1057977 (v9)\nGeekBench: 4001 (v5.1), 4009 (v6)\nGFXBench: 50fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "1059 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-26.2 LUFS (Good)",
     "Battery (old)": "Endurance rating 99h",
@@ -4373,11 +4887,11 @@
    "Misc": {
     "Colors": "Black, Blue, White",
     "Models": "23049PCD8G, 23049PCD8I",
-    "Price": "$ 374.99 / £ 290.25 / € 327.00 / ₹ 30,949"
+    "Price": "$ 330.00 / £ 290.75 / € 263.14 / ₹ 22,599"
    },
    "Tests": {
     "Performance": "AnTuTu: 931174 (v9)\nGeekBench: 3939 (v5.1), 4348 (v6)\nGFXBench: 66fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "963 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-24.3 LUFS (Very good)",
     "Battery (new)": "Active use score 11:52h",
@@ -4465,11 +4979,11 @@
    "Misc": {
     "Colors": "Black, Olive Green, White, Orange, Yellow, Blue",
     "Models": "2304FPN6DC, 2304FPN6DG",
-    "Price": "$ 849.50"
+    "Price": "$ 839.50"
    },
    "Tests": {
     "Performance": "AnTuTu: 1268538 (v9)\nGeekBench: 5049 (v5.1), 5556 (v6)\nGFXBench: 110fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "1207 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-26.0 LUFS (Very good)",
     "Battery (new)": "Active use score 10:09h",
@@ -4634,6 +5148,7 @@
     "Price": "About 400 EUR"
    },
    "Tests": {
+    "Display": "1060:1 contrast ratio, 500 nits max brightness (measured)",
     "Loudspeaker": "-23.7 LUFS (Very good)",
     "Battery (new)": "Active use score 9:39h",
     "info": ""
@@ -4712,7 +5227,7 @@
     "Colors": "Power Black, Royal Blue",
     "Models": "MZB0E6DIN, MZB0DXKIN, 2302EPCC4I, 2305EPCC4G",
     "SAR": "0.97 W/kg (head)     0.87 W/kg (body)",
-    "Price": "₹ 7,000"
+    "Price": "₹ 7,999"
    }
   }
  },
@@ -4788,7 +5303,7 @@
    "Misc": {
     "Colors": "Onyx Black, Ice Blue, Pearl Green",
     "Models": "2303CRA44A, 23030RAC7Y, 2303ERA42L",
-    "Price": "$ 172.50 / £ 174.21 / € 178.66"
+    "Price": "$ 140.00 / £ 171.12 / € 172.29"
    }
   }
  },
@@ -4864,7 +5379,7 @@
    "Misc": {
     "Colors": "Star Blue, Graphite Gray, Polar White, Ice blue",
     "Models": "‎2209116AG, 2209116AG",
-    "Price": "$ 230.00 / € 173.44"
+    "Price": "$ 196.00 / £ 359.00 / € 187.81"
    }
   }
  },
@@ -5096,7 +5611,7 @@
    "Misc": {
     "Colors": "Aqua Blue, Classic Black, Sea Green",
     "Models": "23028RN4DG, 23026RN54G",
-    "Price": "$ 64.50 / £ 56.99 / € 69.99 / ₹ 5,299"
+    "Price": "$ 74.38 / £ 49.99 / € 64.23 / ₹ 5,999"
    }
   }
  },
@@ -5177,11 +5692,11 @@
    "Misc": {
     "Colors": "Onyx Gray, Mint Green, Ice Blue",
     "Models": "23021RAAEG, 23021RAA2Y, 23027RAD4I, 23028RA60L",
-    "Price": "$ 129.50 / £ 112.02 / € 82.88 / ₹ 12,987"
+    "Price": "$ 132.05 / £ 109.00 / € 117.48 / ₹ 11,980"
    },
    "Tests": {
     "Performance": "AnTuTu: 319219 (v9)\nGeekBench: 1797 (v5.1), 1341 (v6)\nGFXBench: 7.5fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "744 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-27.9 LUFS (Good)",
     "Battery (old)": "Endurance rating 117h",
@@ -5268,11 +5783,11 @@
    "Misc": {
     "Colors": "Ceramic White, Ceramic Black, Ceramic Flora Green, Mountain Blue",
     "Models": "2210132G, 2210132C",
-    "Price": "€ 658.50"
+    "Price": "₹ 85,944"
    },
    "Tests": {
     "Performance": "AnTuTu: 1281666 (v9)\nGeekBench: 5087 (v5.1), 5323 (v6)\nGFXBench: 64fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "1253 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-25.6 LUFS (Very good)",
     "Battery (new)": "Active use score 10:55h",
@@ -5360,11 +5875,11 @@
    "Misc": {
     "Colors": "White, Black, Flora Green, Mountain Blue, Red, Blue, Yellow, Green, Gray",
     "Models": "2211133C, 2211133G",
-    "Price": "$ 199.99 / € 608.46"
+    "Price": "€ 519.36"
    },
    "Tests": {
     "Performance": "AnTuTu: 1248260 (v9)\nGeekBench: 5129 (v5.1)\nGFXBench: 109fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "1254 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-25.8 LUFS (Very good)",
     "Battery (old)": "Endurance rating 108h",
@@ -5449,11 +5964,11 @@
    },
    "Misc": {
     "Colors": "Black, Lite Blue, Lite Pink",
-    "Price": "$ 360.00 / € 233.90"
+    "Price": "$ 330.00 / € 248.87"
    },
    "Tests": {
     "Performance": "AnTuTu: 534143 (v9)\nGeekBench: 2936 (v5.1), 2434 (v6)\nGFXBench: 33fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "938 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-28.5 LUFS (Average)",
     "Battery (old)": "Endurance rating 93h",
@@ -5538,7 +6053,7 @@
     "Colors": "Cool Blue, Power Black, Forest Green",
     "Models": "22127PC95I",
     "SAR": "0.87 W/kg (head)     0.77 W/kg (body)",
-    "Price": "₹ 6,934"
+    "Price": "₹ 7,999"
    }
   }
  },
@@ -5621,11 +6136,11 @@
    "Misc": {
     "Colors": "Astral Black, Horizon Blue, Poco Yellow",
     "Models": "22101320G, 22101320I",
-    "Price": "$ 241.19 / £ 199.00 / € 149.00 / ₹ 18,490"
+    "Price": "$ 241.19 / £ 276.85 / € 271.72 / ₹ 14,990"
    },
    "Tests": {
     "Performance": "AnTuTu: 531398 (v9)\nGeekBench: 2930 (v5.1)\nGFXBench: 28fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "912 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-24.9 LUFS (Very good)",
     "Battery (old)": "Endurance rating 113h",
@@ -5712,11 +6227,11 @@
     "Colors": "Jaguar Black, Wildcat Blue, Supernova Green",
     "Models": "22111317PG, 22111317PI",
     "SAR": "0.84 W/kg (head)     0.68 W/kg (body)",
-    "Price": "$ 189.50 / € 147.29"
+    "Price": "$ 149.50 / € 174.27"
    },
    "Tests": {
     "Performance": "AnTuTu: 400895 (v9)\nGeekBench: 2088 (v5.1)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "728 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-27.3 LUFS (Good)",
     "Battery (old)": "Endurance rating 106h",
@@ -5801,11 +6316,11 @@
    "Misc": {
     "Colors": "Frosted Green, Matte Black, Mystique Blue",
     "Models": "22111317I, 22111317G",
-    "Price": "$ 162.50 / £ 99.48 / € 120.40 / ₹ 11,699"
+    "Price": "$ 170.00 / £ 119.00 / € 90.00 / ₹ 11,649"
    },
    "Tests": {
     "Performance": "AnTuTu: 360745 (v9)\nGeekBench: 1998\t(v5.1), 2017 (v6)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "706 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-28.0 LUFS (Good)",
     "Battery (new)": "Active use score 10:58h",
@@ -6287,7 +6802,7 @@
    "Misc": {
     "Colors": "Graphite Gray, Ocean Blue, Mint Green, Lavender Purple",
     "Models": "22120RN86G, 22120RN86I, 22126RN91Y, 2212ARNC4L",
-    "Price": "$ 79.50 / £ 79.00 / € 75.27"
+    "Price": "$ 95.99 / £ 74.00 / € 86.99"
    }
   }
  },
@@ -6452,11 +6967,11 @@
    "Misc": {
     "Colors": "Arctic White, Iceberg Blue, Obsidian Black, Trend edition",
     "Models": "22101316UCP, 22101316UG",
-    "Price": "$ 305.00 / £ 226.56 / € 239.47 / ₹ 23,999"
+    "Price": "$ 275.00 / £ 241.86 / € 233.31 / ₹ 18,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 498710 (v9)\nGeekBench: 2208 (v5.1), 2372 (v6)\nGFXBench: 22fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "990 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-26.7 LUFS (Good)",
     "Battery (new)": "Active use score 10:38h",
@@ -6544,11 +7059,11 @@
    "Misc": {
     "Colors": "Frosted Blue (Sky Blue), Onyx Black (Midnight Black), Polar White, Stardust Purple",
     "Models": "22101316C, 22101316I, 23013RK75C, 22101316G",
-    "Price": "$ 179.99 / £ 177.00 / € 173.51 / ₹ 14,699"
+    "Price": "$ 199.99 / £ 167.00 / € 189.00 / ₹ 15,198"
    },
    "Tests": {
     "Performance": "AnTuTu: 490526 (v9)\nGeekBench: 2209 (v5.1), 2372 (v6)\nGFXBench: 22fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "890 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-26.6 LUFS (Good)",
     "Battery (new)": "Active use score 12:08h",
@@ -6717,11 +7232,11 @@
     "Models": "22081212UG, 22081212G",
     "SAR": "1.08 W/kg (head)     1.07 W/kg (body)",
     "SAR EU": "1.00 W/kg (head)     1.00 W/kg (body)",
-    "Price": "€ 275.99"
+    "Price": "€ 294.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 1032185 (v9)\nGeekBench: 4081 (v5.1)\nGFXBench: 65fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "913 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-24.1 LUFS (Very good)",
     "Battery (old)": "Endurance rating 91h",
@@ -6807,11 +7322,11 @@
     "Models": "22071212AG",
     "SAR": "1.09 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.99 W/kg (head)     0.99 W/kg (body)",
-    "Price": "£ 299.00 / € 226.43"
+    "Price": "£ 299.00 / € 183.71"
    },
    "Tests": {
     "Performance": "AnTuTu: 780204 (v9)\nGeekBench: 3756 (v5.1)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "954 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-25.0 LUFS (Very good)",
     "Battery (old)": "Endurance rating 104h",
@@ -6896,7 +7411,7 @@
    },
    "Tests": {
     "Performance": "AnTuTu: 319077 (v9)\nGeekBench: 1852 (v5.1)\nGFXBench: 13fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: 1529:1 (nominal)",
+    "Display": "1529:1 contrast ratio, 402 nits max brightness (measured)",
     "Loudspeaker": "-23.9 LUFS (Very good)",
     "info": ""
    }
@@ -7056,7 +7571,7 @@
     "Models": "220733SFG",
     "SAR": "1.00 W/kg (head)     1.10 W/kg (body)",
     "SAR EU": "0.91 W/kg (head)     1.00 W/kg (body)",
-    "Price": "£ 92.14 / € 79.00"
+    "Price": "€ 103.46"
    }
   }
  },
@@ -7375,7 +7890,7 @@
     "Models": "220733SI, 220733SG, 220733SL, 220743FI, 220733SH",
     "SAR": "1.10 W/kg (head)     1.03 W/kg (body)",
     "SAR EU": "0.85 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 69.86 / £ 64.99 / € 62.39"
+    "Price": "$ 69.00 / £ 64.99 / € 69.33"
    }
   }
  },
@@ -7458,11 +7973,11 @@
     "Models": "2207117BPG",
     "SAR": "1.00 W/kg (head)     0.65 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.87 W/kg (body)",
-    "Price": "$ 145.00 / £ 125.51 / € 122.00"
+    "Price": "$ 107.00 / £ 140.00 / € 137.89"
    },
    "Tests": {
     "Performance": "AnTuTu: 360681 (v9)\nGeekBench: 1831 (v5.1)\nGFXBench: 18fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "756 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-25.4 LUFS (Very good)",
     "Battery (old)": "Endurance rating 132h",
@@ -7546,11 +8061,11 @@
     "Models": "22071219CG",
     "SAR": "1.04 W/kg (head)     0.83 W/kg (body)",
     "SAR EU": "0.52 W/kg (head)     0.83 W/kg (body)",
-    "Price": "$ 129.00 / £ 144.34 / € 89.88"
+    "Price": "$ 134.87 / £ 144.00 / € 112.38"
    },
    "Tests": {
     "Performance": "AnTuTu: 386311 (v9)\nGeekBench: 1896 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: 1363:1",
+    "Display": "1363:1 contrast ratio, 448 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-27.6 LUFS (Good)",
     "Battery (old)": "Endurance rating 121h",
@@ -7801,7 +8316,7 @@
     "Models": "22041219PG",
     "SAR": "1.09 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 164.00 / € 103.69"
+    "Price": "$ 164.00 / € 129.89"
    },
    "Tests": {
     "Performance": "AnTuTu: 336380 (v9)\nGeekBench: 1730 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
@@ -7975,7 +8490,7 @@
    },
    "Tests": {
     "Performance": "AnTuTu: 1050139 (v9)\nGeekBench: 4368 (v5.1)\nGFXBench: 52fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "1054 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-26.2 LUFS (Good)",
     "Battery (old)": "Endurance rating 82h",
@@ -8136,7 +8651,7 @@
    "Misc": {
     "Colors": "Phantom Blue, Stealth Black, Quick Silver",
     "Models": "22041216I",
-    "Price": "₹ 25,999"
+    "Price": "₹ 15,899"
    }
   }
  },
@@ -8220,11 +8735,11 @@
     "Models": "2203129G",
     "SAR": "1.09 W/kg (head)     0.73 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 248.99 / £ 180.39 / € 180.00"
+    "Price": "$ 224.99 / € 203.45"
    },
    "Tests": {
     "Performance": "AnTuTu: 528905 (v9)\nGeekBench: 2943 (v5.1)\nGFXBench: 29fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "824 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-25.2 LUFS (Very good)",
     "Battery (old)": "Endurance rating 100h",
@@ -8316,7 +8831,7 @@
    },
    "Tests": {
     "Performance": "AnTuTu: 1039412 (v9)\nGeekBench: 4300 (v5.1)\nGFXBench: 51fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "1065 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-25.6 LUFS (Very good)",
     "Battery (old)": "Endurance rating 93h",
@@ -8647,11 +9162,11 @@
    "Misc": {
     "Colors": "Moonlight Silver, Night Black, Nebula Green",
     "Models": "22021211RG, 22021211RI",
-    "Price": "$ 243.20 / £ 309.99 / ₹ 17,998"
+    "Price": "$ 255.76 / £ 309.99 / ₹ 15,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 590961 (v8), 698586 (v9)\nGeekBench: 3190 (v5.1)\nGFXBench: 49fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "1003 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-26.1 LUFS (Good)",
     "Battery (old)": "Endurance rating 101h",
@@ -8736,11 +9251,11 @@
     "Models": "22041216G",
     "SAR": "1.09 W/kg (head)     0.92 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 299.20 / € 249.99"
+    "Price": "$ 289.99 / € 238.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 747871 (v9)\nGeekBench: 3719 (v5.1)\nGFXBench: 46fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: 1190:1",
+    "Display": "1190:1 contrast ratio, 600 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-27.4 LUFS (Good)",
     "Battery (old)": "Endurance rating 112h",
@@ -8822,7 +9337,7 @@
    "Misc": {
     "Colors": "Power Black, Coral Green, Poco Yellow",
     "Models": "220333QPG",
-    "Price": "$ 86.70 / £ 145.86 / € 99.00"
+    "Price": "$ 86.70 / £ 147.55 / € 108.00"
    }
   }
  },
@@ -9229,6 +9744,7 @@
     "Price": "About 190 EUR"
    },
    "Tests": {
+    "Display": "1630:1 contrast ratio, 410 nits max brightness (measured)",
     "Loudspeaker": "-28.8 LUFS (Average)",
     "info": ""
    }
@@ -9315,7 +9831,7 @@
     "Models": "21121210G",
     "SAR": "1.09 W/kg (head)     0.99 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     0.96 W/kg (body)",
-    "Price": "£ 399.99 / € 359.95"
+    "Price": "£ 399.99 / € 332.83"
    },
    "Tests": {
     "Performance": "AnTuTu: 952124 (v9)\nGeekBench: 3637 (v5.1)",
@@ -9559,7 +10075,7 @@
     "Models": "220233L2C, 220233L2G, 220233L2I",
     "SAR": "0.90 W/kg (head)     0.65 W/kg (body)",
     "SAR EU": "0.40 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 75.00 / £ 81.07 / € 86.99"
+    "Price": "$ 75.00 / € 85.00"
    }
   }
  },
@@ -9642,11 +10158,11 @@
     "Models": "22031116BG",
     "SAR": "1.09 W/kg (head)     1.00 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 129.99 / C$ 274.24 / £ 125.82 / € 130.00"
+    "Price": "$ 159.99 / C$ 268.65 / £ 123.50 / € 135.98"
    },
    "Tests": {
     "Performance": "AnTuTu: 360255 (v9)\nGeekBench: 1820 (v5.1)\nGFXBench: 13fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: 1314:1 (nominal)",
+    "Display": "1314:1 contrast ratio, 509 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-26.8 LUFS (Good)",
     "Battery (old)": "Endurance rating 131h",
@@ -9733,7 +10249,7 @@
     "Models": "22041219G, 22041219NY",
     "SAR": "1.09 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 138.73 / € 115.49"
+    "Price": "$ 134.99 / £ 124.48 / € 116.99"
    }
   }
  },
@@ -9817,11 +10333,11 @@
     "Models": "21091116UG, 21091116UC",
     "SAR": "1.09 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 166.00 / € 185.90"
+    "Price": "$ 164.00 / € 199.00"
    },
    "Tests": {
     "Performance": "AnTuTu: 375528 (v8), 437872 (v9)\nGeekBench: 2225 (v5.1)\nGFXBench: 22fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "760 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-25.2 LUFS (Very good)",
     "Battery (old)": "Endurance rating 106h",
@@ -10154,11 +10670,11 @@
     "Models": "2201122C, 2201122G",
     "SAR": "1.09 W/kg (head)     1.05 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 282.98 / £ 280.00 / € 308.15 / ₹ 31,999"
+    "Price": "$ 439.99 / £ 349.00 / € 374.99 / ₹ 30,499"
    },
    "Tests": {
     "Performance": "AnTuTu: 985226 (v9)\nGeekBench: 3682 (v5.1)\nGFXBench: 46fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "1050 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-29.5 LUFS (Average)",
     "Battery (old)": "Endurance rating 74h",
@@ -10247,11 +10763,11 @@
     "Models": "2201123G, 2201123C",
     "SAR": "1.09 W/kg (head)     0.91 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 295.00 / £ 268.64 / € 387.99"
+    "Price": "$ 295.00 / £ 299.00 / € 207.82"
    },
    "Tests": {
     "Performance": "AnTuTu: 985115 (v9)\nGeekBench: 3652 (v5.1)\nGFXBench: 75fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "896 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-25.3 LUFS (Very good)",
     "Battery (old)": "Endurance rating 82h",
@@ -10337,7 +10853,7 @@
     "Colors": "Gray, Blue, Purple",
     "Models": "2112123AC, 2112123AG",
     "SAR EU": "0.59 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 389.99 / € 209.99"
+    "Price": "€ 200.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 598003 (v8), 690298 (v9)\nGeekBench: 3168 (v5.1)\nGFXBench: 47fps (ES 3.1 onscreen)",
@@ -10502,7 +11018,7 @@
     "Models": "220333QAG, 220333QBI, 220333QNY, 220333QL",
     "SAR": "0.96 W/kg (head)     1.02 W/kg (body)",
     "SAR EU": "0.57 W/kg (head)     0.96 W/kg (body)",
-    "Price": "$ 84.99 / £ 94.89 / € 79.95"
+    "Price": "$ 84.99 / € 120.38"
    }
   }
  },
@@ -10829,7 +11345,7 @@
     "Models": "2201116PG",
     "SAR": "1.06 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.96 W/kg (body)",
-    "Price": "$ 204.50 / £ 334.99 / € 169.99 / ₹ 16,490"
+    "Price": "$ 199.99 / £ 334.99 / € 238.88 / ₹ 13,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 335353 (v8), 384646 (v9)\nGeekBench: 2063 (v5.1)\nGFXBench: 17fps (ES 3.1 onscreen)",
@@ -10923,11 +11439,11 @@
     "Models": "MZB0B5VIN, 2201117PI, 2201117PG",
     "SAR": "0.85 W/kg (head)     0.85 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     0.84 W/kg (body)",
-    "Price": "£ 182.67 / € 129.93"
+    "Price": "£ 180.04 / € 128.69"
    },
    "Tests": {
     "Performance": "AnTuTu: 318444 (v9)\nGeekBench: 1836 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "737 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-25.2 LUFS (Very good)",
     "Battery (old)": "Endurance rating 126h",
@@ -11095,7 +11611,7 @@
     "Colors": "Carbon Gray, Pebble White, Sea Blue",
     "Models": "21121119SG, 22011119UY, 21121119VL",
     "SAR": "0.77 W/kg (head)     0.74 W/kg (body)",
-    "Price": "$ 124.00 / £ 89.97 / € 84.67"
+    "Price": "$ 129.92 / £ 89.97 / € 112.98"
    }
   }
  },
@@ -11179,11 +11695,11 @@
     "Models": "21091116I, 2201116SG",
     "SAR": "1.05 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.96 W/kg (body)",
-    "Price": "$ 180.00 / £ 163.04 / € 174.99"
+    "Price": "$ 168.93 / £ 139.44 / € 149.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 288914 (v8), 382902 (v9)\nGeekBench: 2063 (v5.1)\nGFXBench: 17fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "746 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-25.8 LUFS (Very good)",
     "Battery (old)": "Endurance rating 115h",
@@ -11272,11 +11788,11 @@
     "Models": "2201116TG, 2201116TI",
     "SAR": "1.08 W/kg (head)     1.08 W/kg (body)",
     "SAR EU": "0.58 W/kg (head)     0.86 W/kg (body)",
-    "Price": "$ 190.00 / £ 172.09 / € 137.00"
+    "Price": "$ 164.00 / £ 163.09 / € 169.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 261309 (v8), 319093 (v9)\nGeekBench: 1729 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "746 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-24.4 LUFS (Very good)",
     "Battery (old)": "Endurance rating 100h",
@@ -11364,11 +11880,11 @@
     "Models": "2201117SG, 2201117SI, 2201117SY, 2201117SL",
     "SAR": "1.09 W/kg (head)     1.05 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     0.88 W/kg (body)",
-    "Price": "$ 169.99 / £ 132.47 / € 137.46"
+    "Price": "$ 159.99 / £ 143.34 / € 118.72"
    },
    "Tests": {
     "Performance": "AnTuTu: 251201 (v8), 308741 (v9)\nGeekBench: 1873 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "744 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-25.4 LUFS (Very good)",
     "Battery (old)": "Endurance rating 133h",
@@ -11455,11 +11971,11 @@
     "Models": "2201117TG, 2201117TI, 2201117TY, 2201117TL",
     "SAR": "0.97 W/kg (head)     0.93 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 124.99 / £ 99.99 / € 128.43 / ₹ 7,999"
+    "Price": "£ 99.99 / € 85.31 / ₹ 7,799"
    },
    "Tests": {
     "Performance": "AnTuTu: 228044 (v8), 244526 (v9)\nGeekBench: 1662 (v5.1)\nGFXBench: 6.8fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "736 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-25.8 LUFS (Very good)",
     "Battery (old)": "Endurance rating 126h",
@@ -11634,7 +12150,7 @@
     "Colors": "Camo Green, Stealth Black, Purple Mist, Pacific Pearl",
     "Models": "‎MZB0A5EIN",
     "SAR": "0.82 W/kg (head)     0.61 W/kg (body)",
-    "Price": "₹ 16,999"
+    "Price": "₹ 12,999"
    }
   }
  },
@@ -11715,7 +12231,7 @@
    "Misc": {
     "Colors": "Aquamarine Blue, Stardust White, Matte Black",
     "Models": "21091116AI",
-    "Price": "₹ 13,499"
+    "Price": "₹ 12,999"
    }
   }
  },
@@ -11792,7 +12308,7 @@
    "Misc": {
     "Colors": "Carbon Gray, Pebble White, Sea Blue",
     "Models": "21121119SC",
-    "Price": "$ 179.99 / £ 129.00 / € 147.00"
+    "Price": "£ 139.00 / € 146.00"
    }
   }
  },
@@ -11877,11 +12393,11 @@
     "Models": "21091116AG, MZB0BGVIN",
     "SAR": "1.07 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 139.72 / £ 129.99 / € 129.89"
+    "Price": "£ 129.99 / € 129.89"
    },
    "Tests": {
     "Performance": "AnTuTu: 296721 (v8), 353663 (v9)\nGeekBench: 1797 (v5.1)\nGFXBench: 13fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: 1553:1 (nominal)",
+    "Display": "1553:1 contrast ratio, 510 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-24.9 LUFS (Very good)",
     "Battery (old)": "Endurance rating 123h",
@@ -12600,10 +13116,10 @@
     "Colors": "Meteorite Gray, Moonlight White, Celestial Blue",
     "Models": "2107113SG, 2107113SI, 2107113SR",
     "SAR": "0.78 W/kg (head)     0.49 W/kg (body)",
-    "Price": "$ 390.00 / £ 209.99 / € 193.07 / ₹ 21,990"
+    "Price": "£ 206.21 / € 254.00 / ₹ 19,499"
    },
    "Tests": {
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "837 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-26.3 LUFS (Good)",
     "Battery (old)": "Endurance rating 92h",
@@ -12689,11 +13205,11 @@
     "Models": "21081111RG",
     "SAR": "1.09 W/kg (head)     0.83 W/kg (body)",
     "SAR EU": "0.55 W/kg (head)     0.95 W/kg (body)",
-    "Price": "$ 299.99 / £ 236.26 / € 151.00"
+    "Price": "£ 299.00 / € 188.98"
    },
    "Tests": {
     "Performance": "AnTuTu: 590837 (v9)\nGeekBench: 2834 (v5.1)\nGFXBench: 40fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "798 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-27.6 LUFS (Good)",
     "Battery (old)": "Endurance rating 98h",
@@ -12780,7 +13296,7 @@
     "Models": "2109119DG, 2107119DC, 2109119DI",
     "SAR": "1.09 W/kg (head)     1.05 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     0.95 W/kg (body)",
-    "Price": "$ 266.66 / £ 169.99 / € 90.55 / ₹ 13,999"
+    "Price": "$ 266.66 / £ 222.69 / € 378.90 / ₹ 14,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 527663 (v9)\nGeekBench: 2832 (v5.1)\nGFXBench: 28fps (ES 3.1 onscreen)",
@@ -12950,10 +13466,10 @@
    "Misc": {
     "Colors": "Carbon Gray, Pebble White, Sea Blue",
     "Models": "21061119AG, 21061119DG, 21061119AL",
-    "Price": "$ 99.99 / £ 99.98 / € 98.22 / ₹ 10,190"
+    "Price": "£ 94.98 / € 114.99"
    },
    "Tests": {
-    "Display": "Contrast ratio: 1494:1",
+    "Display": "1494:1 contrast ratio, 477 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-26.3 LUFS (Good)",
     "Battery (old)": "Endurance rating 127h",
@@ -13119,7 +13635,7 @@
    },
    "Tests": {
     "Performance": "AnTuTu: 473819 (v8), 555079 (v9)\nGeekBench: 2583 (v5.1)\nGFXBench: 24fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: 1271:1 (nominal)",
+    "Display": "1271:1 contrast ratio, 478 nits max brightness (measured)",
     "Loudspeaker": "-24.4 LUFS (Very good)",
     "info": ""
    }
@@ -13289,11 +13805,11 @@
     "Models": "21061110AG",
     "SAR": "1.09 W/kg (head)     1.05 W/kg (body)",
     "SAR EU": "0.58 W/kg (head)     0.94 W/kg (body)",
-    "Price": "$ 200.00 / € 330.72"
+    "Price": "£ 415.00 / € 296.05"
    },
    "Tests": {
     "Performance": "AnTuTu: 506800 (v8) | 578505 (v9)\nGeekBench: 2310 (v5.1)\nGFXBench: 38fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: 1425:1 (nominal)",
+    "Display": "1425:1 contrast ratio, 537 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-28.5 LUFS (Average)",
     "Battery (old)": "Endurance rating 110h",
@@ -13380,7 +13896,7 @@
     "Colors": "Predator Black, Gunmetal Silver",
     "Models": "MZB09C6IN, M2104K10I",
     "SAR": "0.81 W/kg (head)     0.48 W/kg (body)",
-    "Price": "₹ 25,999"
+    "Price": "₹ 24,990"
    }
   }
  },
@@ -13633,7 +14149,7 @@
    },
    "Tests": {
     "Performance": "AnTuTu: 180195 (v8), 165779 (v9)\nGeekBench: 5259 (v4.4), 1314 (v5.1)\nGFXBench: 8.7fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: 1487:1 (nominal)",
+    "Display": "1487:1 contrast ratio, 620 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-28.6 LUFS (Average)",
     "Battery (old)": "Endurance rating 102h",
@@ -13720,10 +14236,10 @@
     "Models": "M2103K19PG, M2103K19PI, M2103K19PY",
     "SAR": "0.94 W/kg (head)     1.06 W/kg (body)",
     "SAR EU": "0.54 W/kg (head)     0.90 W/kg (body)",
-    "Price": "$ 119.99 / £ 200.00 / € 160.07 / ₹ 10,999"
+    "Price": "$ 201.38 / € 164.99 / ₹ 9,999"
    },
    "Tests": {
-    "Display": "Contrast ratio: 1475:1 (nominal)",
+    "Display": "1475:1 contrast ratio, 536 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-27.9 LUFS (Good)",
     "Battery (old)": "Endurance rating 121h",
@@ -13892,7 +14408,7 @@
     "Colors": "Celestial Silver, Lunar White, Cosmic Black",
     "Models": "M2012K11I",
     "SAR": "0.85 W/kg (head)     0.60 W/kg (body)",
-    "Price": "₹ 18,499"
+    "Price": "₹ 19,499"
    }
   }
  },
@@ -13974,7 +14490,7 @@
     "Colors": "Celestial Silver, Lunar White, Cosmic Black",
     "Models": "M2012K11AI",
     "SAR": "0.86 W/kg (head)     0.69 W/kg (body)",
-    "Price": "₹ 15,999"
+    "Price": "₹ 14,999"
    }
   }
  },
@@ -14227,7 +14743,7 @@
    },
    "Tests": {
     "Performance": "AnTuTu: 688720 (v8)\nGeekBench: 3191 (v5.1)\nGFXBench: 33fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "943 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-24.3 LUFS (Very good)",
     "Battery (old)": "Endurance rating 95h",
@@ -14313,7 +14829,7 @@
    "Misc": {
     "Colors": "Black, Green, Purple",
     "Models": "M2102K1AC",
-    "Price": "£ 369.00"
+    "Price": "£ 359.99"
    }
   }
  },
@@ -14396,11 +14912,11 @@
     "Models": "M2012K11G",
     "SAR": "0.95 W/kg (head)     0.74 W/kg (body)",
     "SAR EU": "0.57 W/kg (head)     0.77 W/kg (body)",
-    "Price": "€ 183.66"
+    "Price": "€ 233.00"
    },
    "Tests": {
     "Performance": "AnTuTu: 690021 (v8)\nGeekBench: 3641 (v5.1)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "939 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-26.0 LUFS (Very good)",
     "Battery (old)": "Endurance rating 96h",
@@ -14490,11 +15006,11 @@
     "Models": "M2101K9G, M2101K9C, M2101K9R",
     "SAR": "1.03 W/kg (head)     1.06 W/kg (body)",
     "SAR EU": "0.56 W/kg (head)     0.89 W/kg (body)",
-    "Price": "$ 249.99 / £ 149.00 / € 109.27"
+    "Price": "$ 249.99 / £ 104.99 / € 163.02"
    },
    "Tests": {
     "Performance": "AnTuTu: 465534 (v8) | 522490 (v9)\nGeekBench: 2909 (v5.1)\nGFXBench: 35fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "846 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-23.6 LUFS (Very good)",
     "Battery (old)": "Endurance rating 106h",
@@ -14581,11 +15097,11 @@
     "Models": "M2101K9AG, M2101K9AI",
     "SAR": "1.07 W/kg (head)     0.82 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.95 W/kg (body)",
-    "Price": "$ 269.50 / £ 253.13 / € 129.00"
+    "Price": "$ 249.50 / £ 234.34 / € 168.97"
    },
    "Tests": {
     "Performance": "AnTuTu: 290172 (v8), 294251 (v9)\nGeekBench: 1796 (v5.1)\nGFXBench: 17fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "826 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-24.2 LUFS (Very good)",
     "Battery (old)": "Endurance rating 100h",
@@ -14674,7 +15190,7 @@
     "Models": "M2102J20SG, M2102J20SI",
     "SAR": "0.99 W/kg (head)     0.67 W/kg (body)",
     "SAR EU": "0.57 W/kg (head)     0.90 W/kg (body)",
-    "Price": "$ 189.99 / £ 265.00 / € 189.57 / ₹ 8,995"
+    "Price": "$ 290.00 / £ 269.99 / € 185.64 / ₹ 8,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 453223 (v8)\nGeekBench: 2574 (v5.1)\nGFXBench: 38fps (ES 3.1 onscreen)",
@@ -14767,7 +15283,7 @@
     "Models": "M2012K11AG",
     "SAR": "1.06 W/kg (head)     0.72 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.84 W/kg (body)",
-    "Price": "$ 223.20 / € 146.42"
+    "Price": "€ 166.12"
    },
    "Tests": {
     "Performance": "AnTuTu: 631850 (v8), 697216 (v9)\nGeekBench: 3206 (v5.1)\nGFXBench: 48fps (ES 3.1 onscreen)",
@@ -14939,11 +15455,11 @@
     "Models": "M2101K6G, M2101K6R",
     "SAR": "1.09 W/kg (head)     1.06 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 144.90 / £ 204.83 / € 128.82 / ₹ 11,499"
+    "Price": "$ 144.90 / £ 165.00 / € 154.30 / ₹ 9,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 295442 (v8)\nGeekBench: 1780 (v5.1)\nGFXBench: 16fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "725 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-25.7 LUFS (Very good)",
     "Battery (old)": "Endurance rating 118h",
@@ -15030,10 +15546,10 @@
     "Models": "M2103K19G, M2103K19C",
     "SAR": "0.94 W/kg (head)     1.06 W/kg (body)",
     "SAR EU": "0.54 W/kg (head)     0.90 W/kg (body)",
-    "Price": "$ 157.40 / £ 109.49 / € 108.81"
+    "Price": "£ 98.49 / € 106.68"
    },
    "Tests": {
-    "Display": "Contrast ratio: 1795:1 (nominal)",
+    "Display": "1795:1 contrast ratio, 492 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-27.0 LUFS (Good)",
     "Battery (old)": "Endurance rating 121h",
@@ -15075,7 +15591,7 @@
     "Protection": "Corning Gorilla Glass 3"
    },
    "Platform": {
-    "OS": "Android 11, MIUI 12.5",
+    "OS": "Android 11, upgradable to Android 13, MIUI 14",
     "Chipset": "Mediatek MT6785V/CD Helio G95 (12 nm)",
     "CPU": "Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
     "GPU": "Mali-G76 MC4"
@@ -15122,7 +15638,7 @@
     "Models": "M2101K7BG, M2101K7BI, M2101K7BNY, M2101K7BL",
     "SAR": "1.07 W/kg (head)     0.81 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.90 W/kg (body)",
-    "Price": "$ 168.27 / £ 158.69 / € 115.76 / ₹ 10,499"
+    "Price": "$ 136.44 / £ 154.99 / € 109.28 / ₹ 7,999"
    }
   }
  },
@@ -15207,11 +15723,11 @@
     "Models": "M2101K7AI, M2101K7AG",
     "SAR": "1.09 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     0.97 W/kg (body)",
-    "Price": "€ 125.50 / ₹ 6,999"
+    "Price": "€ 127.99 / ₹ 9,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 218788 (v8)\nGeekBench: 2860 (v5.1)\nGFXBench: 7.9fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "682 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-26.2 LUFS (Good)",
     "Battery (old)": "Endurance rating 110h",
@@ -15704,11 +16220,11 @@
     "Models": "M2007J22G, J22",
     "SAR": "1.07 W/kg (head)     1.05 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     0.94 W/kg (body)",
-    "Price": "£ 122.02 / € 111.82"
+    "Price": "£ 118.79 / € 129.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 288732 (v8)\nGeekBench: 1775 (v5.1)",
-    "Display": "Contrast ratio: 1226:1 (nominal)",
+    "Display": "1226:1 contrast ratio, 471 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-26.3 LUFS (Good)",
     "Battery (old)": "Endurance rating 118h",
@@ -15796,11 +16312,11 @@
     "Models": "J19S, M2010J19SG, M2010J19SY",
     "SAR": "1.09 W/kg (head)     1.00 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.81 W/kg (body)",
-    "Price": "£ 114.99 / € 102.65"
+    "Price": "£ 114.99 / € 119.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 177917 (v8)\nGeekBench: 1400 (v5.1)\nGFXBench: 5.8fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: 1594:1",
+    "Display": "1594:1 contrast ratio, 437 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-25.6 LUFS (Very good)",
     "Battery (old)": "Endurance rating 150h",
@@ -15971,7 +16487,7 @@
     "Models": "M2011K2C, M2011K2G",
     "SAR": "0.95 W/kg (head)     0.65 W/kg (body)",
     "SAR EU": "0.56 W/kg (head)     0.98 W/kg (body)",
-    "Price": "£ 250.00 / € 199.90"
+    "Price": "£ 219.99 / € 188.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 668722 (v8)\nGeekBench: 3489 (v5.1)\nGFXBench: 33fps (ES 3.1 onscreen)",
@@ -16389,11 +16905,11 @@
     "Models": "M2010J19CG, M2010J19CI",
     "SAR": "1.09 W/kg (head)     1.00 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.81 W/kg (body)",
-    "Price": "$ 152.99 / £ 99.99 / € 117.58 / ₹ 7,998"
+    "Price": "$ 152.99 / £ 99.99 / ₹ 6,499"
    },
    "Tests": {
     "Performance": "AnTuTu: 177904 (v8)\nGeekBench: 1398 (v5.1)\nGFXBench: 5.9fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: 1567:1 (nominal)",
+    "Display": "1567:1 contrast ratio, 439 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-26.5 LUFS (Good)",
     "Battery (old)": "Endurance rating 154h",
@@ -16640,11 +17156,11 @@
     "Models": "M2007J3SG, M2007J3SP, M2007J3SI, M2007J17C",
     "SAR": "0.97 W/kg (head)     0.98 W/kg (body)",
     "SAR EU": "0.57 W/kg (head)     1.00 W/kg (body)",
-    "Price": "£ 175.00 / € 158.83 / ₹ 20,494"
+    "Price": "£ 264.55 / € 185.47 / ₹ 18,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 563961 (v8)\nGeekBench: 3311 (v5.1)\nGFXBench: 46fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: 1185:1",
+    "Display": "1185:1 contrast ratio, 630 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-26.4 LUFS (Good)",
     "Battery (old)": "Endurance rating 118h",
@@ -16731,7 +17247,7 @@
     "Models": "M2007J3SY",
     "SAR": "0.97 W/kg (head)     0.98 W/kg (body)",
     "SAR EU": "0.57 W/kg (head)     1.00 W/kg (body)",
-    "Price": "€ 142.90 / ₹ 16,999"
+    "Price": "€ 269.00 / ₹ 19,890"
    }
   }
  },
@@ -16819,7 +17335,7 @@
    },
    "Tests": {
     "Performance": "AnTuTu: 318882 (v8)\nGeekBench: 2009 (v5.1)\nGFXBench: 16fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: 1368:1",
+    "Display": "1368:1 contrast ratio, 596 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-25.3 LUFS (Very good)",
     "Battery (old)": "Endurance rating 116h",
@@ -17058,7 +17574,7 @@
     "Colors": "Brick Red, Pitch Black, Slate Blue",
     "Models": "MZB9919IN, M2004J19PI",
     "SAR": "0.85 W/kg (head)     0.42 W/kg (body)",
-    "Price": "₹ 6,499"
+    "Price": "₹ 7,499"
    }
   }
  },
@@ -17140,7 +17656,7 @@
     "Colors": "Cobalt Blue, Shadow Gray",
     "Models": "MZB07Z0IN, MZB07Z1IN, MZB07Z2IN, MZB07Z3IN, MZB07Z4IN, MZB9965IN, M2007J20CI",
     "SAR": "0.75 W/kg (head)     0.61 W/kg (body)",
-    "Price": "€ 228.00 / ₹ 7,999"
+    "Price": "₹ 9,999"
    }
   }
  },
@@ -17223,7 +17739,7 @@
     "Models": "M2007J20CG, M2007J20CT",
     "SAR": "0.77 W/kg (head)     0.61 W/kg (body)",
     "SAR EU": "0.56 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 219.99 / € 136.79"
+    "Price": "$ 219.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 283750 (v8)\nGeekBench: 1777 (v5.1)\nGFXBench: 16fps (ES 3.1 onscreen)",
@@ -17562,7 +18078,7 @@
     "Colors": "Space Blue, Mint Green, Matte Black, Sunrise Flare",
     "Models": "M2004J19PI",
     "SAR": "0.85 W/kg (head)     0.42 W/kg (body)",
-    "Price": "₹ 9,999"
+    "Price": "About 110 EUR"
    }
   }
  },
@@ -17721,7 +18237,7 @@
     "Models": "M2006C3LG, M2006C3LI, M2006C3LC, M2004C3L",
     "SAR": "0.90 W/kg (head)     0.65 W/kg (body)",
     "SAR EU": "0.40 W/kg (head)     1.19 W/kg (body)",
-    "Price": "$ 69.00 / £ 72.00 / € 58.99"
+    "Price": "$ 69.00 / £ 80.26 / € 79.00"
    }
   }
  },
@@ -17877,7 +18393,7 @@
     "Models": "M2006C3MG, M2006C3MT",
     "SAR": "0.73 W/kg (head)     0.52 W/kg (body)",
     "SAR EU": "0.35 W/kg (head)     0.78 W/kg (body)",
-    "Price": "$ 64.80 / £ 79.99 / € 70.00"
+    "Price": "$ 64.80 / £ 75.99 / € 87.99"
    }
   }
  },
@@ -17959,11 +18475,11 @@
     "Models": "M2004J19G, M2004J19C",
     "SAR": "0.91 W/kg (head)     1.00 W/kg (body)",
     "SAR EU": "0.71 W/kg (head)     1.06 W/kg (body)",
-    "Price": "$ 138.60 / £ 142.86 / € 116.78 / ₹ 6,799"
+    "Price": "$ 138.60 / £ 109.90 / ₹ 6,799"
    },
    "Tests": {
     "Performance": "AnTuTu: 201829 (v8)\nGeekBench: 1325 (v5.1)",
-    "Display": "Contrast ratio: 1624:1 (nominal)",
+    "Display": "1624:1 contrast ratio, 328 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-26.9 LUFS (Good)",
     "Battery (old)": "Endurance rating 131h",
@@ -18374,11 +18890,11 @@
     "Models": "M2004J11G",
     "SAR": "1.09 W/kg (head)     0.51 W/kg (body)",
     "SAR EU": "0.79 W/kg (head)     1.03 W/kg (body)",
-    "Price": "£ 413.53 / € 216.57"
+    "Price": "€ 149.95"
    },
    "Tests": {
     "Performance": "AnTuTu: 538221 (v8)\nGeekBench: 3332 (v5.1)\nGFXBench: 40fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "854 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-25.6 LUFS (Very good)",
     "Battery (old)": "Endurance rating 120h",
@@ -18543,7 +19059,7 @@
     "Models": "M2003J6B2G",
     "SAR": "0.87 W/kg (head)     0.71 W/kg (body)",
     "SAR EU": "0.66 W/kg (head)     1.02 W/kg (body)",
-    "Price": "£ 140.00 / € 123.78"
+    "Price": "£ 126.94 / € 136.00"
    },
    "Tests": {
     "Performance": "AnTuTu: 279625 (v8)\nGeekBench: 1785 (v5.1)\nGFXBench: 15fps (ES 3.1 onscreen)",
@@ -18633,11 +19149,11 @@
     "Models": "M2003J15SC, M2003J15SG, M2003J15SS",
     "SAR": "0.84 W/kg (head)     0.90 W/kg (body)",
     "SAR EU": "0.80 W/kg (head)     1.14 W/kg (body)",
-    "Price": "$ 88.20 / £ 129.99 / € 134.99 / ₹ 7,499"
+    "Price": "$ 88.20 / £ 129.99 / € 118.30 / ₹ 7,899"
    },
    "Tests": {
     "Performance": "AnTuTu: 200414 (v8)\nGeekBench: 1292 (v5.1)",
-    "Display": "Contrast ratio: 1242:1 (nominal)",
+    "Display": "1242:1 contrast ratio, 370 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-30.1 LUFS (Below average)",
     "Battery (old)": "Endurance rating 125h",
@@ -18723,11 +19239,11 @@
     "Models": "M2002F4LG, M1910F4G",
     "SAR": "1.17 W/kg (head)     0.86 W/kg (body)",
     "SAR EU": "1.01 W/kg (head)     1.39 W/kg (body)",
-    "Price": "£ 239.99 / € 155.80"
+    "Price": "£ 239.99 / € 279.90"
    },
    "Tests": {
     "Performance": "AnTuTu: 253271 (v8)\nGeekBench: 1694 (v5.1)\nGFXBench: 15fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "596 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-29.2 LUFS (Average)",
     "Battery (old)": "Endurance rating 117h",
@@ -18899,7 +19415,7 @@
    },
    "Tests": {
     "Performance": "AnTuTu: 318117 (v8)\nGeekBench: 1927 (v5.1)\nGFXBench: 17fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "610 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-28.6 LUFS (Average)",
     "Battery (old)": "Endurance rating 103h",
@@ -19148,11 +19664,11 @@
     "Models": "M2003J6A1G",
     "SAR": "0.96 W/kg (head)     0.40 W/kg (body)",
     "SAR EU": "0.72 W/kg (head)     0.98 W/kg (body)",
-    "Price": "$ 99.50 / £ 130.00 / € 104.21"
+    "Price": "£ 130.00 / € 96.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 254000 (v8)\nGeekBench: 1785 (v5.1)\nGFXBench: 15fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: 1389:1 (nominal)",
+    "Display": "1389:1 contrast ratio, 575 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-27.8 LUFS (Good)",
     "Battery (old)": "Endurance rating 127h",
@@ -19413,7 +19929,7 @@
    },
    "Tests": {
     "Performance": "AnTuTu: 595246 (v8)\nGeekBench: 3331 (v5.1)\nGFXBench: 42fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "858 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-25.2 LUFS (Very good)",
     "Battery (old)": "Endurance rating 101h",
@@ -19502,11 +20018,11 @@
     "Models": "M2001J2G, M2001J2I, Mi 10",
     "SAR": "1.09 W/kg (head)     1.02 W/kg (body)",
     "SAR EU": "0.69 W/kg (head)     0.99 W/kg (body)",
-    "Price": "£ 261.95 / € 144.99"
+    "Price": "£ 265.70 / € 286.80"
    },
    "Tests": {
     "Performance": "AnTuTu: 578056 (v8)\nGeekBench: 3322 (v5.1)\nGFXBench: 42fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "854 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-26.9 LUFS (Good)",
     "Battery (old)": "Endurance rating 109h",
@@ -19750,7 +20266,7 @@
     "Colors": "Atlantis Blue, Matrix Purple, Phoenix Red",
     "Models": "MZB9011IN, MZB9012IN, MZB9013IN, MZB8741IN, MZB8742IN, MZB8743IN, MZB8744IN, MZB8745IN, MZB8746IN",
     "SAR": "1.08 W/kg (head)     0.62 W/kg (body)",
-    "Price": "₹ 8,899"
+    "Price": "₹ 8,790"
    }
   }
  },
@@ -19835,7 +20351,7 @@
    },
    "Tests": {
     "Performance": "AnTuTu: 218200 (v7), 272229 (v8)\nGeekBench: 7008 (v4.4), 1692 (v5.1)\nGFXBench: 15fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: 1378:1 (nominal)",
+    "Display": "1378:1 contrast ratio, 714 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Audio quality": "Noise -94.0dB / Crosstalk -93.0dB",
     "Battery (old)": "Endurance rating 101h",
@@ -20005,7 +20521,7 @@
    },
    "Tests": {
     "Performance": "AnTuTu: 141077 (v7), 167395 (v8)\nGeekBench: 5620 (v4.4)\nGFXBench: 5.9fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: 1360:1 (nominal)",
+    "Display": "1360:1 contrast ratio, 450 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "Voice 78dB / Noise 74dB / Ring 79dB",
     "Audio quality": "Noise -93.9dB / Crosstalk -93.7dB",
@@ -20843,7 +21359,7 @@
    },
    "Tests": {
     "Performance": "AnTuTu: 175478 (v7), 215277 (v8)\nGeekBench: 5989 (v4.4), 1518 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "597 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-30.2 LUFS (Below average)",
     "Audio quality": "Noise -90.3dB / Crosstalk -93.1dB",
@@ -20934,7 +21450,7 @@
    },
    "Tests": {
     "Performance": "AnTuTu: 224759 (v7), 279355 (v8)\nGeekBench: 6999 (v4.4), 1622 (v5.1)\nGFXBench: 14fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: 1326:1 (nominal)",
+    "Display": "1326:1 contrast ratio, 640 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "Voice 64dB / Noise 71dB / Ring 82dB",
     "Audio quality": "Noise -93.6dB / Crosstalk -91.9dB",
@@ -21024,7 +21540,7 @@
    },
    "Tests": {
     "Performance": "Basemark OS II 2.0: 2345Basemark X: 17948",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "363 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "Voice 74dB / Noise 74dB / Ring 81dB",
     "Audio quality": "Noise -93.7dB / Crosstalk -93.0dB",
@@ -21441,7 +21957,7 @@
     "Models": "M1903F11G",
     "SAR": "1.03 W/kg (head)     0.72 W/kg (body)",
     "SAR EU": "1.30 W/kg (head)     1.51 W/kg (body)",
-    "Price": "€ 99.70"
+    "Price": "€ 121.77"
    },
    "Tests": {
     "Performance": "AnTuTu: 368846 (v7), 437823 (v8)\nGeekBench: 10684 (v4.4), 2732 (v5.1)\nGFXBench: 36fps (ES 3.1 onscreen)",
@@ -21534,7 +22050,7 @@
    },
    "Tests": {
     "Performance": "AnTuTu: 211915 (v7), 257146 (v8)\nGeekBench: 6863 (v4.4), 1703 (v5.1)\nGFXBench: 13fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "646 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "-25.3 LUFS (Very good)",
     "Audio quality": "Noise -93.5dB / Crosstalk -93.8dB",
@@ -21705,7 +22221,7 @@
    },
    "Tests": {
     "Performance": "AnTuTu: 368846 (v7), 437823 (v8)\nGeekBench: 10684 (v4.4), 2732 (v5.1)\nGFXBench: 36fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "643 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "Voice 71dB / Noise 75dB / Ring 84dB",
     "Audio quality": "Noise -93.9dB / Crosstalk -94.2dB",
@@ -22295,7 +22811,7 @@
    },
    "Tests": {
     "Performance": "AnTuTu: 180057 (v7)\nGeekBench: 6017 (v4.4)\nGFXBench: 14fps (ES 3.1 onscreen)",
-    "Display": "Contrast ratio: Infinite (nominal)",
+    "Display": "637 nits max brightness (measured)",
     "Camera": "Photo / Video",
     "Loudspeaker": "Voice 86dB / Noise 79dB / Ring 87dB",
     "Audio quality": "Noise -93.5dB / Crosstalk -93.5dB",

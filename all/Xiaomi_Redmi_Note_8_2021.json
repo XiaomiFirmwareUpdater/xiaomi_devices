@@ -79,7 +79,7 @@
   },
   "Tests": {
    "Performance": "AnTuTu: 180195 (v8), 165779 (v9)\nGeekBench: 5259 (v4.4), 1314 (v5.1)\nGFXBench: 8.7fps (ES 3.1 onscreen)",
-   "Display": "Contrast ratio: 1487:1 (nominal)",
+   "Display": "1487:1 contrast ratio, 620 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-28.6 LUFS (Average)",
    "Battery (old)": "Endurance rating 102h",

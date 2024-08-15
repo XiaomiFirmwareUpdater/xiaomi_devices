@@ -76,11 +76,11 @@
    "Models": "M2010J19CG, M2010J19CI",
    "SAR": "1.09 W/kg (head)     1.00 W/kg (body)",
    "SAR EU": "0.60 W/kg (head)     0.81 W/kg (body)",
-   "Price": "$ 152.99 / £ 99.99 / € 117.58 / ₹ 7,998"
+   "Price": "$ 152.99 / £ 99.99 / ₹ 6,499"
   },
   "Tests": {
    "Performance": "AnTuTu: 177904 (v8)\nGeekBench: 1398 (v5.1)\nGFXBench: 5.9fps (ES 3.1 onscreen)",
-   "Display": "Contrast ratio: 1567:1 (nominal)",
+   "Display": "1567:1 contrast ratio, 439 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-26.5 LUFS (Good)",
    "Battery (old)": "Endurance rating 154h",

@@ -77,11 +77,11 @@
   "Misc": {
    "Colors": "Arctic White, Iceberg Blue, Obsidian Black, Trend edition",
    "Models": "22101316UCP, 22101316UG",
-   "Price": "$ 305.00 / £ 226.56 / € 239.47 / ₹ 23,999"
+   "Price": "$ 275.00 / £ 241.86 / € 233.31 / ₹ 18,999"
   },
   "Tests": {
    "Performance": "AnTuTu: 498710 (v9)\nGeekBench: 2208 (v5.1), 2372 (v6)\nGFXBench: 22fps (ES 3.1 onscreen)",
-   "Display": "Contrast ratio: Infinite (nominal)",
+   "Display": "990 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-26.7 LUFS (Good)",
    "Battery (new)": "Active use score 10:38h",

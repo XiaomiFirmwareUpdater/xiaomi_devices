@@ -77,11 +77,11 @@
   "Misc": {
    "Colors": "Astral Black, Horizon Blue, Poco Yellow",
    "Models": "22101320G, 22101320I",
-   "Price": "$ 241.19 / £ 199.00 / € 149.00 / ₹ 18,490"
+   "Price": "$ 241.19 / £ 276.85 / € 271.72 / ₹ 14,990"
   },
   "Tests": {
    "Performance": "AnTuTu: 531398 (v9)\nGeekBench: 2930 (v5.1)\nGFXBench: 28fps (ES 3.1 onscreen)",
-   "Display": "Contrast ratio: Infinite (nominal)",
+   "Display": "912 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-24.9 LUFS (Very good)",
    "Battery (old)": "Endurance rating 113h",

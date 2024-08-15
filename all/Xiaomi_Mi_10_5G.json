@@ -79,11 +79,11 @@
    "Models": "M2001J2G, M2001J2I, Mi 10",
    "SAR": "1.09 W/kg (head)     1.02 W/kg (body)",
    "SAR EU": "0.69 W/kg (head)     0.99 W/kg (body)",
-   "Price": "£ 261.95 / € 144.99"
+   "Price": "£ 265.70 / € 286.80"
   },
   "Tests": {
    "Performance": "AnTuTu: 578056 (v8)\nGeekBench: 3322 (v5.1)\nGFXBench: 42fps (ES 3.1 onscreen)",
-   "Display": "Contrast ratio: Infinite (nominal)",
+   "Display": "854 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-26.9 LUFS (Good)",
    "Battery (old)": "Endurance rating 109h",

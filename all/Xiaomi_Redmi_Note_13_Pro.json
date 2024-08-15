@@ -79,11 +79,11 @@
   "Misc": {
    "Colors": "Midnight Black, Aurora Purple (Coral Purple), Ocean Teal, Arctic White, Olive Green, Scarlet Red",
    "Models": "2312DRA50C, 2312CRAD3C, 2312DRA50G, 2312DRA50I",
-   "Price": "$ 287.70 / £ 249.00 / € 276.00 / ₹ 24,999"
+   "Price": "$ 233.23 / £ 264.00 / € 289.00 / ₹ 24,999"
   },
   "Tests": {
    "Performance": "AnTuTu: 523746 (v9), 581979 (v10)\nGeekBench: 2695 (v5), 2751 (v6)",
-   "Display": "Contrast ratio: Infinite (nominal)",
+   "Display": "1331 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-26.0 LUFS (Very good)",
    "Battery (new)": "Active use score 10:16h",

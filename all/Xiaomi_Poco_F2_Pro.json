@@ -77,11 +77,11 @@
    "Models": "M2004J11G",
    "SAR": "1.09 W/kg (head)     0.51 W/kg (body)",
    "SAR EU": "0.79 W/kg (head)     1.03 W/kg (body)",
-   "Price": "£ 413.53 / € 216.57"
+   "Price": "€ 149.95"
   },
   "Tests": {
    "Performance": "AnTuTu: 538221 (v8)\nGeekBench: 3332 (v5.1)\nGFXBench: 40fps (ES 3.1 onscreen)",
-   "Display": "Contrast ratio: Infinite (nominal)",
+   "Display": "854 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-25.6 LUFS (Very good)",
    "Battery (old)": "Endurance rating 120h",

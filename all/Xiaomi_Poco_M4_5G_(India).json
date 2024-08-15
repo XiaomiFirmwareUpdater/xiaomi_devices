@@ -80,6 +80,7 @@
    "Price": "About 190 EUR"
   },
   "Tests": {
+   "Display": "1630:1 contrast ratio, 410 nits max brightness (measured)",
    "Loudspeaker": "-28.8 LUFS (Average)",
    "info": ""
   }

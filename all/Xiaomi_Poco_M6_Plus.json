@@ -1,0 +1,80 @@
+{
+ "name": "Xiaomi Poco M6 Plus",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m6-plus.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_poco_m6_plus-13119.php",
+ "codenames": [
+  "breeze"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 850 / 900 / 2100",
+   "4G bands": "1, 3, 5, 8, 28, 40, 41",
+   "5G bands": "1, 3, 5, 8, 28, 40, 78 SA/NSA",
+   "Speed": "HSPA, LTE, 5G"
+  },
+  "Launch": {
+   "Announced": "2024, August 01",
+   "Status": "Available. Released 2024, August 05"
+  },
+  "Body": {
+   "Dimensions": "168.6 x 76.3 x 8.3 mm (6.64 x 3.00 x 0.33 in)",
+   "Weight": "205 g (7.23 oz)",
+   "Build": "Glass front, plastic frame, glass back",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "IP53, dust and splash resistant"
+  },
+  "Display": {
+   "Type": "LCD, 120Hz, 550 nits",
+   "Size": "6.79 inches, 109.5 cm2 (~85.1% screen-to-body ratio)",
+   "Resolution": "1080 x 2460 pixels (~396 ppi density)",
+   "Protection": "Corning Gorilla Glass"
+  },
+  "Platform": {
+   "OS": "Android 14, HyperOS, up to 2 major Android upgrades",
+   "Chipset": "Qualcomm SM4450 Snapdragon 4 Gen 2 AE (4 nm)",
+   "CPU": "Octa-core (2x2.3 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+   "GPU": "Adreno 613"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (uses shared SIM slot)",
+   "Internal": "128GB 6GB RAM, 128GB 8GB RAM"
+  },
+  "Main Camera": {
+   "Dual": "108 MP, f/1.8, 28mm (wide), 0.7µm, PDAF\n2 MP (macro)",
+   "Features": "LED flash, HDR",
+   "Video": "1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "13 MP, f/2.2, (wide)",
+   "Features": "HDR",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes",
+   "info": "24-bit/192kHz Hi-Res audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.3, A2DP, LE",
+   "Positioning": "GPS, GLONASS, GALILEO, BDS",
+   "NFC": "No",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, compass"
+  },
+  "Battery": {
+   "Type": "5030 mAh, non-removable",
+   "Charging": "33W wired"
+  },
+  "Misc": {
+   "Colors": "Black, Purple, Silver",
+   "Price": "₹ 13,899"
+  }
+ }
+}

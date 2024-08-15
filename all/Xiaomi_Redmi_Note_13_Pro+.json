@@ -78,11 +78,11 @@
   "Misc": {
    "Colors": "Midnight Black (Fushion Black), Moonlight White (Fushion White), Aurora Purple, Fushion Purple, Camo Green",
    "Models": "23090RA98C, 23090RA98G, 23090RA98I",
-   "Price": "$ 279.00 / £ 349.00 / € 309.00 / ₹ 27,650"
+   "Price": "$ 337.50 / C$ 609.43 / £ 349.00 / € 309.00 / ₹ 27,999"
   },
   "Tests": {
    "Performance": "AnTuTu: 683899 (v9), 779812 (v10)\nGeekBench: 2353 (v5), 2597 (v6)\n3DMark Wild life: 4341 (offscreen 1440p)",
-   "Display": "Contrast ratio: Infinite (nominal)",
+   "Display": "1283 nits max brightness (measured)",
    "Loudspeaker": "-26.3 LUFS (Good)",
    "Battery (new)": "Active use score 10:38h",
    "info": ""

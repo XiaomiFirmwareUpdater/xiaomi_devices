@@ -79,7 +79,7 @@
   },
   "Tests": {
    "Performance": "AnTuTu: 141077 (v7), 167395 (v8)\nGeekBench: 5620 (v4.4)\nGFXBench: 5.9fps (ES 3.1 onscreen)",
-   "Display": "Contrast ratio: 1360:1 (nominal)",
+   "Display": "1360:1 contrast ratio, 450 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "Voice 78dB / Noise 74dB / Ring 79dB",
    "Audio quality": "Noise -93.9dB / Crosstalk -93.7dB",

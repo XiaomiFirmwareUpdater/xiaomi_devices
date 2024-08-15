@@ -77,11 +77,11 @@
    "Colors": "Jaguar Black, Wildcat Blue, Supernova Green",
    "Models": "22111317PG, 22111317PI",
    "SAR": "0.84 W/kg (head)     0.68 W/kg (body)",
-   "Price": "$ 189.50 / € 147.29"
+   "Price": "$ 149.50 / € 174.27"
   },
   "Tests": {
    "Performance": "AnTuTu: 400895 (v9)\nGeekBench: 2088 (v5.1)",
-   "Display": "Contrast ratio: Infinite (nominal)",
+   "Display": "728 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-27.3 LUFS (Good)",
    "Battery (old)": "Endurance rating 106h",

@@ -76,11 +76,11 @@
   "Misc": {
    "Colors": "Black, White",
    "Models": "23013PC75G",
-   "Price": "$ 436.99 / £ 563.99 / € 364.00"
+   "Price": "$ 431.80 / £ 450.05 / € 419.00"
   },
   "Tests": {
    "Performance": "AnTuTu: 1057977 (v9)\nGeekBench: 4001 (v5.1), 4009 (v6)\nGFXBench: 50fps (ES 3.1 onscreen)",
-   "Display": "Contrast ratio: Infinite (nominal)",
+   "Display": "1059 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-26.2 LUFS (Good)",
    "Battery (old)": "Endurance rating 99h",

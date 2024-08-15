@@ -77,11 +77,11 @@
    "Models": "22081212UG, 22081212G",
    "SAR": "1.08 W/kg (head)     1.07 W/kg (body)",
    "SAR EU": "1.00 W/kg (head)     1.00 W/kg (body)",
-   "Price": "€ 275.99"
+   "Price": "€ 294.99"
   },
   "Tests": {
    "Performance": "AnTuTu: 1032185 (v9)\nGeekBench: 4081 (v5.1)\nGFXBench: 65fps (ES 3.1 onscreen)",
-   "Display": "Contrast ratio: Infinite (nominal)",
+   "Display": "913 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-24.1 LUFS (Very good)",
    "Battery (old)": "Endurance rating 91h",

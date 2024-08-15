@@ -76,11 +76,11 @@
   "Misc": {
    "Colors": "Alpine Blue, Meadow Green, Black",
    "Models": "2306EPN60G",
-   "Price": "$ 489.99 / £ 397.70 / € 394.99"
+   "Price": "$ 489.99 / £ 371.52 / € 376.73"
   },
   "Tests": {
    "Performance": "AnTuTu: 825858 (v9), 888714 (v10)\nGeekBench: 3755 (v5), 3841 (v6)\nGFXBench: 43fps (ES 3.1 onscreen)",
-   "Display": "Contrast ratio: Infinite (nominal)",
+   "Display": "1264 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-25.0 LUFS (Very good)",
    "Battery (new)": "Active use score 12:23h",

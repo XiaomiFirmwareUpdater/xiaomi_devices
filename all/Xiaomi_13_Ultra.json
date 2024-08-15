@@ -77,11 +77,11 @@
   "Misc": {
    "Colors": "Black, Olive Green, White, Orange, Yellow, Blue",
    "Models": "2304FPN6DC, 2304FPN6DG",
-   "Price": "$ 849.50"
+   "Price": "$ 839.50"
   },
   "Tests": {
    "Performance": "AnTuTu: 1268538 (v9)\nGeekBench: 5049 (v5.1), 5556 (v6)\nGFXBench: 110fps (ES 3.1 onscreen)",
-   "Display": "Contrast ratio: Infinite (nominal)",
+   "Display": "1207 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-26.0 LUFS (Very good)",
    "Battery (new)": "Active use score 10:09h",

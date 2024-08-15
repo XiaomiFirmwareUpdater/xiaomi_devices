@@ -77,11 +77,11 @@
   "Misc": {
    "Colors": "Black, Yellow, Gray",
    "Models": "2311DRK48G, 2311DRK48I",
-   "Price": "$ 271.03 / £ 314.00 / € 288.85 / ₹ 23,999"
+   "Price": "$ 271.03 / £ 247.47 / € 245.02 / ₹ 28,999"
   },
   "Tests": {
    "Performance": "AnTuTu: 1396547 (v10)\nGeekBench: 4696 (v6)",
-   "Display": "Contrast ratio: Infinite (nominal)",
+   "Display": "1148 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-24.3 LUFS (Very good)",
    "Battery (new)": "Active use score 11:46h",

@@ -1,0 +1,83 @@
+{
+ "name": "Xiaomi Mix Fold 4",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mix-fold4.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_mix_fold_4-13222.php",
+ "codenames": [
+  "goku"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "CDMA2000 1xEV-DO",
+   "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 42, 48, 66",
+   "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 77, 78, 79 SA/NSA",
+   "Speed": "HSPA, LTE (CA), 5G"
+  },
+  "Launch": {
+   "Announced": "2024, July 19",
+   "Status": "Available. Released 2024, July 19"
+  },
+  "Body": {
+   "Dimensions": "Unfolded: 159.4 x 143.3 x 4.6 mm Folded: 159.4 x 73.1 x 9.5 mm",
+   "Weight": "226 g or 228 g (7.97 oz)",
+   "Build": "Glass front (folded), plastic front (unfolded), aluminum frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "IPX8 water resistant (up to 1.5m for 30 min)"
+  },
+  "Display": {
+   "Type": "Foldable LTPO AMOLED, 1B colors, 120Hz, HDR10+, Dolby Vision, 1700 nits (HBM), 3000 nits (peak)",
+   "Size": "7.98 inches, 204.1 cm2 (~89.4% screen-to-body ratio)",
+   "Resolution": "2224 x 2488 pixels (~418 ppi density)",
+   "info": "Cover display:\nLTPO AMOLED, 68B colors, 120Hz, HDR10+, Dolby Vision, 1700 nits (HBM), 3000 nits (peak)\n6.56 inches, 1080 x 2520 pixels, 21:9 ratio\nScratch/drop-resistant glass"
+  },
+  "Platform": {
+   "OS": "Android 14, HyperOS",
+   "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+   "CPU": "Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520)",
+   "GPU": "Adreno 750"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "256GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+   "info": "UFS 4.0"
+  },
+  "Main Camera": {
+   "Quad": "50 MP, f/1.7, 23mm (wide), 1/1.49\", 1.0µm, Laser AF, PDAF, OIS\n50 MP, f/2.0, 47mm (telephoto), PDAF (9cm - ∞), OIS, 2x optical zoom\n10 MP, f/2.9, 115mm (periscope telephoto), PDAF (30cm - ∞), OIS, 5x optical zoom\n12 MP, f/2.2, 15mm, 120˚ (ultrawide)",
+   "Features": "LED flash, HDR, panorama, Leica lenses",
+   "Video": "8K@24fps, 4K@24/30/60fps, 1080p@30/60/120/240/960fps, 720p@1920fps, Dolby Vision HDR"
+  },
+  "Selfie camera": {
+   "Single": "16 MP, (wide)\nCover camera:\n16 MP, (wide)",
+   "Features": "Dolby Vision HDR",
+   "Video": "1080p@30/60fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "No",
+   "info": "24-bit/192kHz Hi-Res & Hi-Res Wireless audio\nSnapdragon Sound"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band (tri-band after future SW update), Wi-Fi Direct",
+   "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC",
+   "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+   "NFC": "Yes",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, color spectrum, barometer",
+   "info": "Two-way satellite communication (calls, messages)"
+  },
+  "Battery": {
+   "Type": "5100 mAh, non-removable",
+   "Charging": "67W wired, PD3.0, QC4, 31% in 10 min (advertised)\n50W wireless, 24% in 10 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "Black, White, Blue",
+   "Price": "About 1140 EUR"
+  }
+ }
+}

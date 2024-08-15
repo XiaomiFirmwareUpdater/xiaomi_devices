@@ -76,6 +76,7 @@
    "Price": "About 400 EUR"
   },
   "Tests": {
+   "Display": "1060:1 contrast ratio, 500 nits max brightness (measured)",
    "Loudspeaker": "-23.7 LUFS (Very good)",
    "Battery (new)": "Active use score 9:39h",
    "info": ""

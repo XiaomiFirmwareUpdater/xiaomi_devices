@@ -75,7 +75,8 @@
    "Price": "About 280 EUR"
   },
   "Tests": {
-   "Display": "Contrast ratio: 1356:1 (nominal)",
+   "Performance": "AnTuTu: 600399 (v10)\nGeekBench: 2909 (v6)\n3DMark Wild life: 2974 (offscreen 1440p)",
+   "Display": "1356:1 contrast ratio, 564 nits max brightness (measured)",
    "Loudspeaker": "-23.9 LUFS (Very good)",
    "Battery (new)": "Active use score 9:15h",
    "info": ""

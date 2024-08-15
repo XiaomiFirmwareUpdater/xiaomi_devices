@@ -1,0 +1,82 @@
+{
+ "name": "Xiaomi Redmi K70 Ultra",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k70-ultra-.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_k70_ultra-13215.php",
+ "codenames": [
+  "rothko"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "CDMA2000 1x",
+   "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 2100",
+   "4G bands": "1, 3, 4, 5, 7, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41, 42, 48, 66",
+   "5G bands": "1, 3, 5, 7, 8, 28, 66, 38, 40, 41, 48, 77, 78 SA/NSA",
+   "Speed": "HSPA, LTE, 5G"
+  },
+  "Launch": {
+   "Announced": "2024, July 19",
+   "Status": "Available. Released 2024, July 19"
+  },
+  "Body": {
+   "Dimensions": "160.4 x 75.1 x 8.4 mm (6.31 x 2.96 x 0.33 in)",
+   "Weight": "211 g (7.44 oz)",
+   "Build": "Glass front, aluminum frame",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "IP68 dust/water resistant (up to 2m for 30 min)"
+  },
+  "Display": {
+   "Type": "OLED, 68B colors, 144Hz, Dolby Vision, HDR10+, 1600 nits (HBM), 4000 nits (peak)",
+   "Size": "6.67 inches, 107.4 cm2 (~89.1% screen-to-body ratio)",
+   "Resolution": "1220 x 2712 pixels, 20:9 ratio (~446 ppi density)",
+   "Protection": "Scratch/drop-resistant glass"
+  },
+  "Platform": {
+   "OS": "Android 14, HyperOS",
+   "Chipset": "Mediatek Dimensity 9300+ (4 nm)",
+   "CPU": "Octa-core (1x3.25 GHz Cortex-X4 & 3x2.85 GHz Cortex-X4 & 4x2.0 GHz Cortex-A720)",
+   "GPU": "Immortalis-G720 MC12"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM, 1TB 24GB RAM",
+   "info": "UFS 4.0"
+  },
+  "Main Camera": {
+   "Triple": "50 MP, f/1.7, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS\n8 MP, 119˚ (ultrawide), 1/4.0\", 1.12µm\n2 MP, f/2.4, (macro)",
+   "Features": "Dual-LED dual-tone flash, HDR, panorama",
+   "Video": "8K@24/30fps, 4K@24/30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS"
+  },
+  "Selfie camera": {
+   "Single": "20 MP, (wide), 1/2.0\", 0.8µm",
+   "Features": "HDR",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "No",
+   "info": "24-bit/192kHz Hi-Res Wireless audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.4, A2DP, LE, LHDC",
+   "Positioning": "GPS (L1+L5), BDS (B1I+B1C+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L5), GLONASS",
+   "NFC": "Yes",
+   "Infrared port": "Yes",
+   "Radio": "Unspecified",
+   "USB": "USB Type-C"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum"
+  },
+  "Battery": {
+   "Type": "Li-Po 5500 mAh, non-removable",
+   "Charging": "120W wired, PD3.0, 100% in 24 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "Black, White, Violet, Green Championship Edition, Orange Championship Edition",
+   "Price": "About 330 EUR"
+  }
+ }
+}

@@ -32,7 +32,7 @@
    "Protection": "Corning Gorilla Glass 3"
   },
   "Platform": {
-   "OS": "Android 11, MIUI 12.5",
+   "OS": "Android 11, upgradable to Android 13, MIUI 14",
    "Chipset": "Mediatek MT6785V/CD Helio G95 (12 nm)",
    "CPU": "Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
    "GPU": "Mali-G76 MC4"
@@ -79,7 +79,7 @@
    "Models": "M2101K7BG, M2101K7BI, M2101K7BNY, M2101K7BL",
    "SAR": "1.07 W/kg (head)     0.81 W/kg (body)",
    "SAR EU": "0.60 W/kg (head)     0.90 W/kg (body)",
-   "Price": "$ 168.27 / £ 158.69 / € 115.76 / ₹ 10,499"
+   "Price": "$ 136.44 / £ 154.99 / € 109.28 / ₹ 7,999"
   }
  }
 }

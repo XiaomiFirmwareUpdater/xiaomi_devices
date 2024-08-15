@@ -76,11 +76,11 @@
    "Models": "M2003J6A1G",
    "SAR": "0.96 W/kg (head)     0.40 W/kg (body)",
    "SAR EU": "0.72 W/kg (head)     0.98 W/kg (body)",
-   "Price": "$ 99.50 / £ 130.00 / € 104.21"
+   "Price": "£ 130.00 / € 96.99"
   },
   "Tests": {
    "Performance": "AnTuTu: 254000 (v8)\nGeekBench: 1785 (v5.1)\nGFXBench: 15fps (ES 3.1 onscreen)",
-   "Display": "Contrast ratio: 1389:1 (nominal)",
+   "Display": "1389:1 contrast ratio, 575 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-27.8 LUFS (Good)",
    "Battery (old)": "Endurance rating 127h",

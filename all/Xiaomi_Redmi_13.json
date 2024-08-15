@@ -39,7 +39,7 @@
   },
   "Memory": {
    "Card slot": "microSDXC (uses shared SIM slot)",
-   "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+   "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM, 256GB 8GB RAM",
    "info": "eMMC 5.1"
   },
   "Main Camera": {
@@ -75,11 +75,11 @@
   },
   "Misc": {
    "Colors": "Midnight Black, Sandy Gold, Ocean Blue, Pink",
-   "Price": "€ 146.29"
+   "Price": "$ 135.00 / £ 115.68 / € 128.00"
   },
   "Tests": {
    "Performance": "AnTuTu: 258090 (v9), 262438 (v10)\nGeekBench: 1346 (v5), 1342 (v6)\n3DMark Wild life: 725 (offscreen 1440p)",
-   "Display": "Contrast ratio: 1300:1 (nominal)",
+   "Display": "1300:1 contrast ratio, 448 nits max brightness (measured)",
    "Loudspeaker": "-29.9 LUFS (Average)",
    "Battery (new)": "Active use score 10:28h",
    "info": ""

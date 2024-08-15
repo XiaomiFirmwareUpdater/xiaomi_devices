@@ -79,7 +79,7 @@
   },
   "Tests": {
    "Performance": "Basemark OS II 2.0: 2345Basemark X: 17948",
-   "Display": "Contrast ratio: Infinite (nominal)",
+   "Display": "363 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "Voice 74dB / Noise 74dB / Ring 81dB",
    "Audio quality": "Noise -93.7dB / Crosstalk -93.0dB",

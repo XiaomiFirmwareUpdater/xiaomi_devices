@@ -74,7 +74,14 @@
   },
   "Misc": {
    "Colors": "Cruise Blue, Matcha Green, Shadow Black",
-   "Price": "About 480 EUR"
+   "Price": "₹ 38,649"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 1530876 (v10)\nGeekBench: 5352 (v6)\n3DMark Wild life: 12587 (offscreen 1440p)",
+   "Display": "1441 nits max brightness (measured)",
+   "Loudspeaker": "-26.6 LUFS (Good)",
+   "Battery (new)": "Active use score 11:36h",
+   "info": ""
   }
  }
 }

@@ -37,7 +37,7 @@
   },
   "Memory": {
    "Card slot": "microSDXC (dedicated slot)",
-   "Internal": "64GB 3GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",
+   "Internal": "64GB 2GB RAM, 64GB 3GB RAM, 64GB 4GB RAM, 128GB 3GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",
    "info": "eMMC 5.1"
   },
   "Main Camera": {
@@ -57,7 +57,7 @@
    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
    "Bluetooth": "5.4, A2DP, LE",
    "Positioning": "GPS, GLONASS, GALILEO, BDS",
-   "NFC": "No",
+   "NFC": "Yes (market/region dependent)",
    "Radio": "FM radio",
    "USB": "USB Type-C 2.0"
   },
@@ -72,7 +72,7 @@
   "Misc": {
    "Colors": "Midnight Black, Forest Green (Olive Green), Star Blue (Lake Blue)",
    "Models": "23129RN51X",
-   "Price": "$ 91.06 / £ 179.00 / € 82.99 / ₹ 6,999"
+   "Price": "$ 89.00 / £ 195.00 / € 81.48 / ₹ 6,999"
   }
  }
 }

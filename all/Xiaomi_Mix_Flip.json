@@ -1,0 +1,89 @@
+{
+ "name": "Xiaomi Mix Flip",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mix-flip.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_mix_flip-13221.php",
+ "codenames": [
+  "ruyi"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+   "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "info": "CDMA2000 1x",
+   "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 42, 48, 66",
+   "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 77, 78, 79 SA/NSA",
+   "Speed": "HSPA, LTE, 5G"
+  },
+  "Launch": {
+   "Announced": "2024, July 19",
+   "Status": "Available. Released 2024, July 19"
+  },
+  "Body": {
+   "Dimensions": "Unfolded: 167.5 x 74 x 7.6 mmFolded: 74 x 74 x 16 mm",
+   "Weight": "190 g or 192 g (6.70 oz)",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "Plastic front (unfolded), glass front (folded), glass back, aluminum frame, hinge (stainless steel)"
+  },
+  "Display": {
+   "Type": "Foldable LTPO AMOLED, 1B colors, Dolby Vision, HDR10+, 120Hz, 3000 nits (peak)",
+   "Size": "6.86 inches, 108.5 cm2 (~87.5% screen-to-body ratio)",
+   "Resolution": "1224 x 2912 pixels (~460 ppi density)",
+   "info": "Second external AMOLED, 68B colors, Dolby Vision, HDR10+, 120Hz, 1600 nits (HBM), 3000 nits (peak)\n4 inches, 1392 x 1208 pixels, 460 ppi\nScratch/drop-resistant glass"
+  },
+  "Platform": {
+   "OS": "Android 14, HyperOS",
+   "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+   "CPU": "Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520)",
+   "GPU": "Adreno 750"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 16GB RAM",
+   "info": "UFS 4.0"
+  },
+  "Main Camera": {
+   "Dual": "50 MP, f/1.7, 23mm (wide), 1.0µm, PDAF, OIS\n50 MP, f/2.0, 47mm (telephoto), PDAF (9cm - ∞), 2x optical zoom",
+   "Features": "LED flash, panorama, HDR, Leica lenses",
+   "Video": "8K@24fps, 4K@24/30/60fps, 1080p@30/60/120/240/960fps, 720p@1920fps, Dolby Vision HDR"
+  },
+  "Selfie camera": {
+   "Single": "32 MP, f/2.0, 21mm (wide), 0.7µm",
+   "Features": "Dolby Vision HDR",
+   "Video": "4K@30/60fps, 1080p@30/60fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "No",
+   "info": "24-bit/192kHz Hi-Res & Hi-Res Wireless audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC",
+   "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+   "NFC": "Yes",
+   "Infrared port": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+  },
+  "Battery": {
+   "Type": "4780 mAh, non-removable",
+   "Charging": "67W wired"
+  },
+  "Misc": {
+   "Colors": "Black, White, Purple",
+   "Models": "2405CPX3DC",
+   "Price": "About 760 EUR"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 1609570 (v10)\nGeekBench: 6035 (v6)\n3DMark Wild life: 15514 (offscreen 1440p)",
+   "Display": "1314 nits max brightness (measured)",
+   "Loudspeaker": "-27.6 LUFS (Good)",
+   "Battery (new)": "Active use score 11:58h",
+   "info": ""
+  }
+ }
+}

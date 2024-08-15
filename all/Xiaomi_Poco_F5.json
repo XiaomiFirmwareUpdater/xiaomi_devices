@@ -75,11 +75,11 @@
   "Misc": {
    "Colors": "Black, Blue, White",
    "Models": "23049PCD8G, 23049PCD8I",
-   "Price": "$ 374.99 / £ 290.25 / € 327.00 / ₹ 30,949"
+   "Price": "$ 330.00 / £ 290.75 / € 263.14 / ₹ 22,599"
   },
   "Tests": {
    "Performance": "AnTuTu: 931174 (v9)\nGeekBench: 3939 (v5.1), 4348 (v6)\nGFXBench: 66fps (ES 3.1 onscreen)",
-   "Display": "Contrast ratio: Infinite (nominal)",
+   "Display": "963 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-24.3 LUFS (Very good)",
    "Battery (new)": "Active use score 11:52h",

@@ -79,11 +79,11 @@
    "Models": "21091116AG, MZB0BGVIN",
    "SAR": "1.07 W/kg (head)     1.09 W/kg (body)",
    "SAR EU": "0.59 W/kg (head)     1.00 W/kg (body)",
-   "Price": "$ 139.72 / £ 129.99 / € 129.89"
+   "Price": "£ 129.99 / € 129.89"
   },
   "Tests": {
    "Performance": "AnTuTu: 296721 (v8), 353663 (v9)\nGeekBench: 1797 (v5.1)\nGFXBench: 13fps (ES 3.1 onscreen)",
-   "Display": "Contrast ratio: 1553:1 (nominal)",
+   "Display": "1553:1 contrast ratio, 510 nits max brightness (measured)",
    "Camera": "Photo / Video",
    "Loudspeaker": "-24.9 LUFS (Very good)",
    "Battery (old)": "Endurance rating 123h",
