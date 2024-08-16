@@ -2751,6 +2751,54 @@
     "display_name": "Redmi 12",
     "display_name_en": "Redmi 12"
   },
+  "flare_eea_global": {
+    "display_name": "XM-FLARE-EEA-GLOBAL",
+    "display_name_en": "XM-FLARE-EEA-GLOBAL"
+  },
+  "flare_global": {
+    "display_name": "Redmi Pad SE 8.7",
+    "display_name_en": "Redmi Pad SE 8.7"
+  },
+  "flare_id_global": {
+    "display_name": "XM-FLARE-ID-GLOBAL",
+    "display_name_en": "XM-FLARE-ID-GLOBAL"
+  },
+  "flare_pre_eea_global": {
+    "display_name": "XM-FLARE-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-FLARE-PRE-EEA-GLOBAL"
+  },
+  "flare_pre_global": {
+    "display_name": "Redmi Pad SE 8.7",
+    "display_name_en": "Redmi Pad SE 8.7"
+  },
+  "flare_pre_id_global": {
+    "display_name": "XM-FLARE-PRE-ID-GLOBAL",
+    "display_name_en": "XM-FLARE-PRE-ID-GLOBAL"
+  },
+  "flare_pre_ru_global": {
+    "display_name": "XM-FLARE-PRE-RU-GLOBAL",
+    "display_name_en": "XM-FLARE-PRE-RU-GLOBAL"
+  },
+  "flare_pre_tr_global": {
+    "display_name": "XM-FLARE-PRE-TR-GLOBAL",
+    "display_name_en": "XM-FLARE-PRE-TR-GLOBAL"
+  },
+  "flare_pre_tw_global": {
+    "display_name": "Redmi Pad SE 8.7",
+    "display_name_en": "Redmi Pad SE 8.7"
+  },
+  "flare_ru_global": {
+    "display_name": "XM-FLARE-RU-GLOBAL",
+    "display_name_en": "XM-FLARE-RU-GLOBAL"
+  },
+  "flare_tr_global": {
+    "display_name": "XM-FLARE-TR-GLOBAL",
+    "display_name_en": "XM-FLARE-TR-GLOBAL"
+  },
+  "flare_tw_global": {
+    "display_name": "Redmi Pad SE 8.7",
+    "display_name_en": "Redmi Pad SE 8.7"
+  },
   "fleur_cl_en_global": {
     "display_name": "Redmi Note 11S",
     "display_name_en": "Redmi Note 11S"
@@ -7760,32 +7808,32 @@
     "display_name_en": "mi stick"
   },
   "spark_dc_global": {
-    "display_name": "XM-SPARK-DC-GLOBAL",
-    "display_name_en": "XM-SPARK-DC-GLOBAL"
+    "display_name": "Redmi Pad SE 8.7 4G",
+    "display_name_en": "Redmi Pad SE 8.7 4G"
   },
   "spark_eea_global": {
     "display_name": "XM-SPARK-EEA-GLOBAL",
     "display_name_en": "XM-SPARK-EEA-GLOBAL"
   },
   "spark_global": {
-    "display_name": "XM-SPARK-GLOBAL",
-    "display_name_en": "XM-SPARK-GLOBAL"
+    "display_name": "Redmi Pad SE 8.7 4G",
+    "display_name_en": "Redmi Pad SE 8.7 4G"
   },
   "spark_in_global": {
     "display_name": "Redmi Pad SE 4G",
     "display_name_en": "Redmi Pad SE 4G"
   },
   "spark_pre_dc_global": {
-    "display_name": "XM-SPARK-PRE-DC-GLOBAL",
-    "display_name_en": "XM-SPARK-PRE-DC-GLOBAL"
+    "display_name": "Redmi Pad SE 8.7 4G",
+    "display_name_en": "Redmi Pad SE 8.7 4G"
   },
   "spark_pre_eea_global": {
     "display_name": "XM-SPARK-PRE-EEA-GLOBAL",
     "display_name_en": "XM-SPARK-PRE-EEA-GLOBAL"
   },
   "spark_pre_global": {
-    "display_name": "XM-SPARK-PRE-GLOBAL",
-    "display_name_en": "XM-SPARK-PRE-GLOBAL"
+    "display_name": "Redmi Pad SE 8.7 4G",
+    "display_name_en": "Redmi Pad SE 8.7 4G"
   },
   "spark_pre_in_global": {
     "display_name": "Redmi Pad SE 4G",
@@ -7800,8 +7848,8 @@
     "display_name_en": "XM-SPARK-PRE-TR-GLOBAL"
   },
   "spark_pre_tw_global": {
-    "display_name": "XM-SPARK-PRE-TW-GLOBAL",
-    "display_name_en": "XM-SPARK-PRE-TW-GLOBAL"
+    "display_name": "Redmi Pad SE 8.7 4G",
+    "display_name_en": "Redmi Pad SE 8.7 4G"
   },
   "spark_ru_global": {
     "display_name": "XM-SPARK-RU-GLOBAL",
@@ -7812,8 +7860,8 @@
     "display_name_en": "XM-SPARK-TR-GLOBAL"
   },
   "spark_tw_global": {
-    "display_name": "XM-SPARK-TW-GLOBAL",
-    "display_name_en": "XM-SPARK-TW-GLOBAL"
+    "display_name": "Redmi Pad SE 8.7 4G",
+    "display_name_en": "Redmi Pad SE 8.7 4G"
   },
   "spes_cl_en_global": {
     "display_name": "Redmi Note 11",
