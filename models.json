@@ -2426,27 +2426,28 @@
   "internal_name": "N83/N83P",
   "name": "Redmi Pad Pro/POCO Pad",
   "models": {
-   "`2405CRPFDG`": "Redmi Pad Pro Global",
-   "`2405CRPFDC`": "Redmi Pad Pro China",
-   "`2405CRPFDI`": "Redmi Pad Pro India",
-   "`2405CRPFDL`": "Redmi Pad Pro Latin America",
-   "`2405CPCFBG`": "POCO Pad Global"
+   "`2405CRPFDG`": "Redmi Pad Pro Wi-Fi Global",
+   "`2405CRPFDC`": "Redmi Pad Pro Wi-Fi China",
+   "`2405CRPFDI`": "Redmi Pad Pro Wi-Fi India",
+   "`2405CRPFDL`": "Redmi Pad Pro Wi-Fi Latin America",
+   "`2405CPCFBG`": "POCO Pad Wi-Fi Global"
   }
  },
  "ruan": {
   "internal_name": "N83U",
-  "name": "Redmi Pad Pro 5G",
+  "name": "Redmi Pad Pro 5G/POCO Pad 5G",
   "models": {
    "`24074RPD2G`": "Redmi Pad Pro 5G Global",
-   "`24074RPD2C`": "Redmi Pad Pro 5G China"
+   "`24074RPD2C`": "Redmi Pad Pro 5G China",
+   "`24074RPD2I`": "Redmi Pad Pro 5G India",
+   "`24074PCD2I`": "POCO Pad 5G India"
   }
  },
- "": {
-  "internal_name": "N85/K91",
-  "name": "Redmi Pad SE 8.7:/Xiaomi CyberDog:",
+ "flare": {
+  "internal_name": "N85",
+  "name": "Redmi Pad SE 8.7",
   "models": {
-   "`24075RP89G`": "Redmi Pad SE 8.7 Global",
-   "`21051191C`": "Xiaomi CyberDog Bio-inspired Quadruped Robot"
+   "`24075RP89G`": "Redmi Pad SE 8.7 Wi-Fi Global"
   }
  },
  "spark": {
@@ -2462,6 +2463,13 @@
   "name": "Xiaomi Mijia Translator (`FYJ01QP`)",
   "models": {
    "`FYJ01QP`": "Xiaomi Mijia Translator"
+  }
+ },
+ "": {
+  "internal_name": "K91",
+  "name": "Xiaomi CyberDog:",
+  "models": {
+   "`21051191C`": "Xiaomi CyberDog Bio-inspired Quadruped Robot"
   }
  }
 }
