@@ -3452,6 +3452,12 @@
  {
   "goku": {
    "name": "Xiaomi MIX Fold 4",
+   "model": "24072PX77C"
+  }
+ },
+ {
+  "goku": {
+   "name": "Xiaomi MIX Fold 4",
    "model": "Xiaomi for arm64"
   }
  },
