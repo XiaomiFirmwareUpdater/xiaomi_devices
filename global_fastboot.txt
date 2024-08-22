@@ -331,6 +331,10 @@ rosemary_p_tw_global - F
 rosemary_ru_global - F
 rosemary_tr_global - F
 rosemary_tw_global - F
+ruan_eea_global - F
+ruan_global - F
+ruan_in_global - F
+ruan_ru_global - F
 ruby_eea_global - F
 ruby_global - F
 ruby_id_global - F
