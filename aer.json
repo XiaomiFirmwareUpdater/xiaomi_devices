@@ -14,6 +14,32 @@
    "updatedAt": "2024-08-15T01:16:56.000Z"
   },
   {
+   "id": 70,
+   "status": 1,
+   "deviceName": "Redmi Pad SE 8.7",
+   "releaseDate": "2024-8",
+   "securityUpdateEol": "2027-8",
+   "updateFrequency": "90 Days",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 14",
+   "futureVersion": "Android 15,Android16",
+   "createdAt": "2024-08-26T03:32:19.000Z",
+   "updatedAt": "2024-08-26T03:33:23.000Z"
+  },
+  {
+   "id": 71,
+   "status": 1,
+   "deviceName": "Redmi Pad SE 8.7 4G",
+   "releaseDate": "2024-8",
+   "securityUpdateEol": "2027-8",
+   "updateFrequency": "90 Days",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 14",
+   "futureVersion": "Android 15,Android16",
+   "createdAt": "2024-08-26T03:33:10.000Z",
+   "updatedAt": "2024-08-26T03:33:23.000Z"
+  },
+  {
    "id": 66,
    "status": 1,
    "deviceName": "Redmi 13C 5G",
@@ -833,5 +859,5 @@
    "updatedAt": "2024-03-11T15:46:51.000Z"
   }
  ],
- "total": 64
+ "total": 66
 }
