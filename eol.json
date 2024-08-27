@@ -465,6 +465,36 @@
      "deviceName": "Mi 11 Lite 5G (jp)",
      "sku": "renoir_jp_global",
      "projectCode": "K9"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "XM-ELISH-DEMO (cn)",
+     "sku": "elish_demo",
+     "projectCode": "K81A"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "MIX 4 (cn)",
+     "sku": "odin",
+     "projectCode": "K8"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi Pad 5 Pro 5G (cn)",
+     "sku": "enuma",
+     "projectCode": "K81"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi Pad 5 Pro (cn)",
+     "sku": "elish",
+     "projectCode": "K81A"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "XM-ENUMA-DEMO (cn)",
+     "sku": "enuma_demo",
+     "projectCode": "K81"
     }
    ]
   },
@@ -979,9 +1009,27 @@
      "deviceName": "POCO M3 Pro 5G (tr)",
      "sku": "camellian_tr_global",
      "projectCode": "K19/K19P"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO F3 GT (in)",
+     "sku": "ares_in_global",
+     "projectCode": "K10"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO F3",
+     "sku": "alioth_id_global",
+     "projectCode": "K11A"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "Redmi K40 (cn)",
+     "sku": "alioth",
+     "projectCode": "K11A"
     }
    ]
   }
  ],
- "updateAt": "2024-07-24T22:40:23.000Z"
+ "updateAt": "2024-08-27T03:34:22.000Z"
 }
