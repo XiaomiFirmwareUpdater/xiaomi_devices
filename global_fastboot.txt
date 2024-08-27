@@ -122,6 +122,8 @@ evergreen_tw_global - F
 fire_eea_global - F
 fire_global - F
 fire_ru_global - F
+flare_global - F
+flare_tw_global - F
 fleur_eea_global - F
 fleur_eea_global - F
 fleur_global - F
@@ -367,6 +369,9 @@ sky_eea_global - F
 sky_global - F
 sky_jp_global - F
 sky_tw_global - F
+spark_global - F
+spark_in_global - F
+spark_tw_global - F
 spes_global - F
 spesn_eea_global - F
 spesn_global - F
