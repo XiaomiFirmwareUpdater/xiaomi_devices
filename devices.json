@@ -4179,6 +4179,106 @@
     "display_name": "Redmi A3x",
     "display_name_en": "Redmi A3x"
   },
+  "lake": {
+    "display_name": "Redmi 14C",
+    "display_name_en": "Redmi 14C"
+  },
+  "lake_dc_global": {
+    "display_name": "Redmi 14C",
+    "display_name_en": "Redmi 14C"
+  },
+  "lake_eea_global": {
+    "display_name": "POCO C75",
+    "display_name_en": "Redmi 14C/POCO C75"
+  },
+  "lake_global": {
+    "display_name": "POCO C75",
+    "display_name_en": "Redmi 14C/POCO C75/Redmi A3 Pro"
+  },
+  "lake_gt_tg_global": {
+    "display_name": "Redmi 14C",
+    "display_name_en": "Redmi 14C"
+  },
+  "lake_id_global": {
+    "display_name": "POCO C75",
+    "display_name_en": "Redmi 14C/POCO C75"
+  },
+  "lake_in_global": {
+    "display_name": "XM-LAKE-IN-GLOBAL",
+    "display_name_en": "XM-LAKE-IN-GLOBAL"
+  },
+  "lake_lm_cr_global": {
+    "display_name": "Redmi 14C",
+    "display_name_en": "Redmi 14C"
+  },
+  "lake_mx_at_global": {
+    "display_name": "Redmi 14C",
+    "display_name_en": "Redmi 14C"
+  },
+  "lake_mx_tc_global": {
+    "display_name": "Redmi 14C",
+    "display_name_en": "Redmi 14C"
+  },
+  "lake_pre_dc_global": {
+    "display_name": "Redmi 14C",
+    "display_name_en": "Redmi 14C"
+  },
+  "lake_pre_eea_global": {
+    "display_name": "Redmi 14C/POCO C75",
+    "display_name_en": "Redmi 14C/POCO C75"
+  },
+  "lake_pre_global": {
+    "display_name": "Redmi 14C/POCO C75/Redmi A3 Pro",
+    "display_name_en": "Redmi 14C/POCO C75/Redmi A3 Pro"
+  },
+  "lake_pre_gt_tg_global": {
+    "display_name": "Redmi 14C",
+    "display_name_en": "Redmi 14C"
+  },
+  "lake_pre_id_global": {
+    "display_name": "POCO C75/Redmi 14C",
+    "display_name_en": "POCO C75/Redmi 14C"
+  },
+  "lake_pre_in_global": {
+    "display_name": "XM-LAKE-PRE-IN-GLOBAL",
+    "display_name_en": "XM-LAKE-PRE-IN-GLOBAL"
+  },
+  "lake_pre_lm_cr_global": {
+    "display_name": "Redmi 14C",
+    "display_name_en": "Redmi 14C"
+  },
+  "lake_pre_mx_at_global": {
+    "display_name": "Redmi 14C",
+    "display_name_en": "Redmi 14C"
+  },
+  "lake_pre_mx_tc_global": {
+    "display_name": "Redmi 14C",
+    "display_name_en": "Redmi 14C"
+  },
+  "lake_pre_ru_global": {
+    "display_name": "POCO C75/Redmi 14C",
+    "display_name_en": "POCO C75/Redmi 14C"
+  },
+  "lake_pre_tr_global": {
+    "display_name": "Redmi 14C/POCO C75",
+    "display_name_en": "Redmi 14C/POCO C75"
+  },
+  "lake_pre_tw_global": {
+    "display_name": "POCO C75/Redmi 14C",
+    "display_name_en": "POCO C75/Redmi 14C"
+  },
+  "lake_ru_global": {
+    "display_name": "POCO C75",
+    "display_name_en": "Redmi 14C/POCO C75"
+  },
+  "lake_tr_global": {
+    "display_name": "POCO C75",
+    "display_name_en": "POCO C75/Redmi 14C"
+  },
+  "lake_tw_global": {
+    "display_name": "POCO C75",
+    "display_name_en": "Redmi 14C/POCO C75"
+  },
   "lancelot": {
     "display_name": "Redmi 9",
     "display_name_en": "Redmi 9"
