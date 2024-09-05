@@ -1269,8 +1269,8 @@
   "internal_name": "N19/N19P",
   "name": "Redmi 13 5G/Redmi Note 13R/POCO M6 Plus 5G",
   "models": {
-   "`2406ERN9CC`": "Redmi Note 13R China",
    "`2406ERN9CI`": "Redmi 13 5G India",
+   "`2406ERN9CC`": "Redmi Note 13R China",
    "`24066PC95I`": "POCO M6 Plus 5G India"
   }
  },
@@ -1306,6 +1306,15 @@
    "`23124RN87I`": "Redmi 13C 5G India",
    "`23124RN87C`": "Redmi 13C 5G China / Redmi 13R 5G China",
    "`23128PC33I`": "POCO M6 5G India"
+  }
+ },
+ "lake": {
+  "internal_name": "C3N",
+  "name": "Redmi 14C",
+  "models": {
+   "`2409BRN2CA`": "Redmi 14C Global",
+   "`2409BRN2CI`": "Redmi 14C India",
+   "`2409BRN2CL`": "Redmi 14C Latin America"
   }
  },
  "lcsh92_wet_gb9": {
@@ -2197,6 +2206,13 @@
    "`24044RN32L`": "Redmi A3x Latin America"
   }
  },
+ "pond": {
+  "internal_name": "C3N",
+  "name": "Redmi A3 Pro",
+  "models": {
+   "`2409BRN2CG`": "Redmi A3 Pro Global"
+  }
+ },
  "beryllium": {
   "internal_name": "E10",
   "name": "POCO F1",
@@ -2451,7 +2467,7 @@
   }
  },
  "spark": {
-  "internal_name": "N85",
+  "internal_name": "N85X",
   "name": "Redmi Pad SE 8.7 4G",
   "models": {
    "`24076RP19G`": "Redmi Pad SE 8.7 4G Global",
