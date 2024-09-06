@@ -1308,13 +1308,21 @@
    "`23128PC33I`": "POCO M6 5G India"
   }
  },
+ "pond": {
+  "internal_name": "C3N",
+  "name": "Redmi 14C/Redmi A3 Pro",
+  "models": {
+   "`2409BRN2CA`": "Redmi 14C Global",
+   "`2409BRN2CI`": "Redmi 14C India",
+   "`2409BRN2CL`": "Redmi 14C Latin America",
+   "`2409BRN2CG`": "Redmi A3 Pro Global"
+  }
+ },
  "lake": {
   "internal_name": "C3N",
   "name": "Redmi 14C",
   "models": {
-   "`2409BRN2CA`": "Redmi 14C Global",
-   "`2409BRN2CI`": "Redmi 14C India",
-   "`2409BRN2CL`": "Redmi 14C Latin America"
+   "`2409BRN2CY`": "Redmi 14C Global (NFC)"
   }
  },
  "lcsh92_wet_gb9": {
@@ -2204,13 +2212,6 @@
    "`24048RN6CG`": "Redmi A3x Global",
    "`24048RN6CI`": "Redmi A3x India",
    "`24044RN32L`": "Redmi A3x Latin America"
-  }
- },
- "pond": {
-  "internal_name": "C3N",
-  "name": "Redmi A3 Pro",
-  "models": {
-   "`2409BRN2CG`": "Redmi A3 Pro Global"
   }
  },
  "beryllium": {
