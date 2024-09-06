@@ -648,6 +648,24 @@
   }
  },
  {
+  "lake": {
+   "name": "Redmi 14C",
+   "model": "2409BRN2CY"
+  }
+ },
+ {
+  "pond": {
+   "name": "Redmi 14C",
+   "model": "2409BRN2CA"
+  }
+ },
+ {
+  "pond": {
+   "name": "Redmi 14C",
+   "model": "2409BRN2CL"
+  }
+ },
+ {
   "cereus": {
    "name": "Redmi 6",
    "model": "Redmi 6"
