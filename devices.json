@@ -2796,6 +2796,12 @@
   }
  },
  {
+  "ladybird": {
+   "name": "MiTV",
+   "model": "MiTV-MOEU0"
+  }
+ },
+ {
   "machuca": {
    "name": "MiTV",
    "model": "MiTV-MSSP3"
@@ -2823,6 +2829,12 @@
   "rango": {
    "name": "MiTV",
    "model": "MiTV-AXFR1"
+  }
+ },
+ {
+  "river": {
+   "name": "MiTV",
+   "model": "MiTV-MZTU0"
   }
  },
  {
