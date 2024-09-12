@@ -203,6 +203,7 @@ joyeuse_tw_global - F
 klein_global - F
 klein_in_global - F
 klein_ru_global - F
+lake_global - F
 lancelot_eea_global - F
 lancelot_global - F
 lancelot_ru_global - F
