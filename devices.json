@@ -2751,6 +2751,114 @@
     "display_name": "Redmi 12",
     "display_name_en": "Redmi 12"
   },
+  "flame": {
+    "display_name": "Redmi 14R 5G",
+    "display_name_en": "Redmi 14R 5G"
+  },
+  "flame_dc_global": {
+    "display_name": "XM-FLAME-DC-GLOBAL",
+    "display_name_en": "XM-FLAME-DC-GLOBAL"
+  },
+  "flame_eea_global": {
+    "display_name": "XM-FLAME-EEA-GLOBAL",
+    "display_name_en": "XM-FLAME-EEA-GLOBAL"
+  },
+  "flame_global": {
+    "display_name": "XM-FLAME-GLOBAL",
+    "display_name_en": "XM-FLAME-GLOBAL"
+  },
+  "flame_gt_tg_global": {
+    "display_name": "XM-FLAME-GT-TG-GLOBAL",
+    "display_name_en": "XM-FLAME-GT-TG-GLOBAL"
+  },
+  "flame_id_global": {
+    "display_name": "XM-FLAME-ID-GLOBAL",
+    "display_name_en": "XM-FLAME-ID-GLOBAL"
+  },
+  "flame_in_global": {
+    "display_name": "POCO M7 5G/Redmi 14C 5G",
+    "display_name_en": "POCO M7 5G/Redmi 14C 5G"
+  },
+  "flame_jp_global": {
+    "display_name": "XM-FLAME-JP-GLOBAL",
+    "display_name_en": "XM-FLAME-JP-GLOBAL"
+  },
+  "flame_lm_cr_global": {
+    "display_name": "XM-FLAME-LM-CR-GLOBAL",
+    "display_name_en": "XM-FLAME-LM-CR-GLOBAL"
+  },
+  "flame_mx_at_global": {
+    "display_name": "XM-FLAME-MX-AT-GLOBAL",
+    "display_name_en": "XM-FLAME-MX-AT-GLOBAL"
+  },
+  "flame_mx_tc_global": {
+    "display_name": "XM-FLAME-MX-TC-GLOBAL",
+    "display_name_en": "XM-FLAME-MX-TC-GLOBAL"
+  },
+  "flame_pre_dc_global": {
+    "display_name": "XM-FLAME-PRE-DC-GLOBAL",
+    "display_name_en": "XM-FLAME-PRE-DC-GLOBAL"
+  },
+  "flame_pre_eea_global": {
+    "display_name": "XM-FLAME-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-FLAME-PRE-EEA-GLOBAL"
+  },
+  "flame_pre_global": {
+    "display_name": "XM-FLAME-PRE-GLOBAL",
+    "display_name_en": "XM-FLAME-PRE-GLOBAL"
+  },
+  "flame_pre_gt_tg_global": {
+    "display_name": "XM-FLAME-PRE-GT-TG-GLOBAL",
+    "display_name_en": "XM-FLAME-PRE-GT-TG-GLOBAL"
+  },
+  "flame_pre_id_global": {
+    "display_name": "XM-FLAME-PRE-ID-GLOBAL",
+    "display_name_en": "XM-FLAME-PRE-ID-GLOBAL"
+  },
+  "flame_pre_in_global": {
+    "display_name": "POCO M7 5G/Redmi 14C 5G",
+    "display_name_en": "POCO M7 5G/Redmi 14C 5G"
+  },
+  "flame_pre_jp_global": {
+    "display_name": "XM-FLAME-PRE-JP-GLOBAL",
+    "display_name_en": "XM-FLAME-PRE-JP-GLOBAL"
+  },
+  "flame_pre_lm_cr_global": {
+    "display_name": "XM-FLAME-PRE-LM-CR-GLOBAL",
+    "display_name_en": "XM-FLAME-PRE-LM-CR-GLOBAL"
+  },
+  "flame_pre_mx_at_global": {
+    "display_name": "XM-FLAME-PRE-MX-AT-GLOBAL",
+    "display_name_en": "XM-FLAME-PRE-MX-AT-GLOBAL"
+  },
+  "flame_pre_mx_tc_global": {
+    "display_name": "XM-FLAME-PRE-MX-TC-GLOBAL",
+    "display_name_en": "XM-FLAME-PRE-MX-TC-GLOBAL"
+  },
+  "flame_pre_ru_global": {
+    "display_name": "XM-FLAME-PRE-RU-GLOBAL",
+    "display_name_en": "XM-FLAME-PRE-RU-GLOBAL"
+  },
+  "flame_pre_tr_global": {
+    "display_name": "XM-FLAME-PRE-TR-GLOBAL",
+    "display_name_en": "XM-FLAME-PRE-TR-GLOBAL"
+  },
+  "flame_pre_tw_global": {
+    "display_name": "XM-FLAME-PRE-TW-GLOBAL",
+    "display_name_en": "XM-FLAME-PRE-TW-GLOBAL"
+  },
+  "flame_ru_global": {
+    "display_name": "XM-FLAME-RU-GLOBAL",
+    "display_name_en": "XM-FLAME-RU-GLOBAL"
+  },
+  "flame_tr_global": {
+    "display_name": "XM-FLAME-TR-GLOBAL",
+    "display_name_en": "XM-FLAME-TR-GLOBAL"
+  },
+  "flame_tw_global": {
+    "display_name": "XM-FLAME-TW-GLOBAL",
+    "display_name_en": "XM-FLAME-TW-GLOBAL"
+  },
   "flare_eea_global": {
     "display_name": "Redmi Pad SE 8.7",
     "display_name_en": "Redmi Pad SE 8.7"
