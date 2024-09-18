@@ -1,14 +1,20 @@
 [
  {
+  "id": "1900600",
+  "name": "POCO M6/Redmi 13",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/61ce388d256e22aa53126d28c3f557f7",
+  "item_identify": ""
+ },
+ {
   "id": "1900598",
   "name": "Xiaomi Pad 6",
-  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/55f9a55762f518037cb93ac7908f7936",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/d842adc2b0b8843b94f50cfa7fecd8ac",
   "item_identify": ""
  },
  {
   "id": "1900597",
   "name": "Redmi Pad SE",
-  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/06cf915594d7712d10c9ca8f267d375b",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/cf9e8314918f6a721781e4951ada248d",
   "item_identify": ""
  },
  {
@@ -26,7 +32,7 @@
  {
   "id": "1900596",
   "name": "Redmi A3X",
-  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/3618ed01ca9a37aa123aed41444c1f6e",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/a6059402a0fae9a4acc961cc9e88248d",
   "item_identify": ""
  },
  {
