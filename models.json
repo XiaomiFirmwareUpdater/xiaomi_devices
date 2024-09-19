@@ -1325,6 +1325,13 @@
    "`2409BRN2CY`": "Redmi 14C Global (NFC)"
   }
  },
+ "flame": {
+  "internal_name": "",
+  "name": "Redmi 14R 5G (`flame`)",
+  "models": {
+   "`2411DRN47C`": "Redmi 14R 5G China"
+  }
+ },
  "lcsh92_wet_gb9": {
   "internal_name": "H3W",
   "name": "Redmi Note",
