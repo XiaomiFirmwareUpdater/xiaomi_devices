@@ -275,6 +275,118 @@
     "display_name": "POCO F3",
     "display_name_en": "POCO F3"
   },
+  "amethyst": {
+    "display_name": "Redmi Note 14 Pro+",
+    "display_name_en": "Redmi Note 14 Pro+"
+  },
+  "amethyst_dc_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_eea_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_factory_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_gt_tg_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_id_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_in_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_jp_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_lm_cr_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_mx_at_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_mx_tc_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_pre_dc_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_pre_eea_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_pre_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_pre_gt_tg_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_pre_id_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_pre_in_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_pre_jp_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_pre_lm_cr_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_pre_mx_at_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_pre_mx_tc_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_pre_ru_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_pre_tr_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_pre_tw_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_ru_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_tr_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
+  "amethyst_tw_global": {
+    "display_name": "Redmi Note 14 Pro+ 5G",
+    "display_name_en": "Redmi Note 14 Pro+ 5G"
+  },
   "andromeda_eea_global": {
     "display_name": "Mi MIX 3 5G",
     "display_name_en": "Mi MIX 3 5G"
@@ -706,6 +818,106 @@
   "begoniain_in_global": {
     "display_name": "Redmi Note 8 pro",
     "display_name_en": "Redmi Note 8 pro"
+  },
+  "beryl": {
+    "display_name": "Redmi Note 14 5G",
+    "display_name_en": "Redmi Note 14 5G"
+  },
+  "beryl_dc_global": {
+    "display_name": "XM-BERYL-DC-GLOBAL",
+    "display_name_en": "XM-BERYL-DC-GLOBAL"
+  },
+  "beryl_eea_global": {
+    "display_name": "XM-BERYL-EEA-GLOBAL",
+    "display_name_en": "XM-BERYL-EEA-GLOBAL"
+  },
+  "beryl_global": {
+    "display_name": "XM-BERYL-GLOBAL",
+    "display_name_en": "XM-BERYL-GLOBAL"
+  },
+  "beryl_gt_tg_global": {
+    "display_name": "XM-BERYL-GT-TG-GLOBAL",
+    "display_name_en": "XM-BERYL-GT-TG-GLOBAL"
+  },
+  "beryl_id_global": {
+    "display_name": "XM-BERYL-ID-GLOBAL",
+    "display_name_en": "XM-BERYL-ID-GLOBAL"
+  },
+  "beryl_in_global": {
+    "display_name": "XM-BERYL-IN-GLOBAL",
+    "display_name_en": "XM-BERYL-IN-GLOBAL"
+  },
+  "beryl_lm_cr_global": {
+    "display_name": "XM-BERYL-LM-CR-GLOBAL",
+    "display_name_en": "XM-BERYL-LM-CR-GLOBAL"
+  },
+  "beryl_mx_at_global": {
+    "display_name": "XM-BERYL-MX-AT-GLOBAL",
+    "display_name_en": "XM-BERYL-MX-AT-GLOBAL"
+  },
+  "beryl_mx_tc_global": {
+    "display_name": "XM-BERYL-MX-TC-GLOBAL",
+    "display_name_en": "XM-BERYL-MX-TC-GLOBAL"
+  },
+  "beryl_pre_dc_global": {
+    "display_name": "XM-BERYL-PRE-DC-GLOBAL",
+    "display_name_en": "XM-BERYL-PRE-DC-GLOBAL"
+  },
+  "beryl_pre_eea_global": {
+    "display_name": "XM-BERYL-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-BERYL-PRE-EEA-GLOBAL"
+  },
+  "beryl_pre_global": {
+    "display_name": "XM-BERYL-PRE-GLOBAL",
+    "display_name_en": "XM-BERYL-PRE-GLOBAL"
+  },
+  "beryl_pre_gt_tg_global": {
+    "display_name": "XM-BERYL-PRE-GT-TG-GLOBAL",
+    "display_name_en": "XM-BERYL-PRE-GT-TG-GLOBAL"
+  },
+  "beryl_pre_id_global": {
+    "display_name": "XM-BERYL-PRE-ID-GLOBAL",
+    "display_name_en": "XM-BERYL-PRE-ID-GLOBAL"
+  },
+  "beryl_pre_in_global": {
+    "display_name": "XM-BERYL-PRE-IN-GLOBAL",
+    "display_name_en": "XM-BERYL-PRE-IN-GLOBAL"
+  },
+  "beryl_pre_lm_cr_global": {
+    "display_name": "XM-BERYL-PRE-LM-CR-GLOBAL",
+    "display_name_en": "XM-BERYL-PRE-LM-CR-GLOBAL"
+  },
+  "beryl_pre_mx_at_global": {
+    "display_name": "XM-BERYL-PRE-MX-AT-GLOBAL",
+    "display_name_en": "XM-BERYL-PRE-MX-AT-GLOBAL"
+  },
+  "beryl_pre_mx_tc_global": {
+    "display_name": "XM-BERYL-PRE-MX-TC-GLOBAL",
+    "display_name_en": "XM-BERYL-PRE-MX-TC-GLOBAL"
+  },
+  "beryl_pre_ru_global": {
+    "display_name": "XM-BERYL-PRE-RU-GLOBAL",
+    "display_name_en": "XM-BERYL-PRE-RU-GLOBAL"
+  },
+  "beryl_pre_tr_global": {
+    "display_name": "XM-BERYL-PRE-TR-GLOBAL",
+    "display_name_en": "XM-BERYL-PRE-TR-GLOBAL"
+  },
+  "beryl_pre_tw_global": {
+    "display_name": "XM-BERYL-PRE-TW-GLOBAL",
+    "display_name_en": "XM-BERYL-PRE-TW-GLOBAL"
+  },
+  "beryl_ru_global": {
+    "display_name": "XM-BERYL-RU-GLOBAL",
+    "display_name_en": "XM-BERYL-RU-GLOBAL"
+  },
+  "beryl_tr_global": {
+    "display_name": "XM-BERYL-TR-GLOBAL",
+    "display_name_en": "XM-BERYL-TR-GLOBAL"
+  },
+  "beryl_tw_global": {
+    "display_name": "XM-BERYL-TW-GLOBAL",
+    "display_name_en": "XM-BERYL-TW-GLOBAL"
   },
   "beryllium_global": {
     "display_name": "POCO F1",
@@ -1982,6 +2194,98 @@
   "davinciin_in_global": {
     "display_name": "Redmi K20",
     "display_name_en": "Redmi K20"
+  },
+  "degas_cl_en_global": {
+    "display_name": "Xiaomi 14T",
+    "display_name_en": "Xiaomi 14T"
+  },
+  "degas_dc_global": {
+    "display_name": "Xiaomi 14T",
+    "display_name_en": "Xiaomi 14T"
+  },
+  "degas_eea_global": {
+    "display_name": "Xiaomi 14T",
+    "display_name_en": "Xiaomi 14T"
+  },
+  "degas_global": {
+    "display_name": "Xiaomi 14T",
+    "display_name_en": "Xiaomi 14T"
+  },
+  "degas_id_global": {
+    "display_name": "Xiaomi 14T",
+    "display_name_en": "Xiaomi 14T"
+  },
+  "degas_jp_kd_global": {
+    "display_name": "XM-DEGAS-JP-KD-GLOBAL/NA",
+    "display_name_en": "XM-DEGAS-JP-KD-GLOBAL/NA"
+  },
+  "degas_lm_cr_global": {
+    "display_name": "Xiaomi 14T",
+    "display_name_en": "Xiaomi 14T"
+  },
+  "degas_mx_at_global": {
+    "display_name": "Xiaomi 14T",
+    "display_name_en": "Xiaomi 14T"
+  },
+  "degas_mx_tc_global": {
+    "display_name": "Xiaomi 14T",
+    "display_name_en": "Xiaomi 14T"
+  },
+  "degas_pre_cl_en_global": {
+    "display_name": "Xiaomi 14T",
+    "display_name_en": "Xiaomi 14T"
+  },
+  "degas_pre_dc_global": {
+    "display_name": "Xiaomi 14T",
+    "display_name_en": "Xiaomi 14T"
+  },
+  "degas_pre_eea_global": {
+    "display_name": "Xiaomi 14T",
+    "display_name_en": "Xiaomi 14T"
+  },
+  "degas_pre_global": {
+    "display_name": "Xiaomi 14T",
+    "display_name_en": "Xiaomi 14T"
+  },
+  "degas_pre_id_global": {
+    "display_name": "Xiaomi 14T",
+    "display_name_en": "Xiaomi 14T"
+  },
+  "degas_pre_lm_cr_global": {
+    "display_name": "Xiaomi 14T",
+    "display_name_en": "Xiaomi 14T"
+  },
+  "degas_pre_mx_at_global": {
+    "display_name": "Xiaomi 14T",
+    "display_name_en": "Xiaomi 14T"
+  },
+  "degas_pre_mx_tc_global": {
+    "display_name": "Xiaomi 14T",
+    "display_name_en": "Xiaomi 14T"
+  },
+  "degas_pre_ru_global": {
+    "display_name": "Xiaomi 14T",
+    "display_name_en": "Xiaomi 14T"
+  },
+  "degas_pre_tr_global": {
+    "display_name": "Xiaomi 14T",
+    "display_name_en": "Xiaomi 14T"
+  },
+  "degas_pre_tw_global": {
+    "display_name": "Xiaomi 14T",
+    "display_name_en": "Xiaomi 14T"
+  },
+  "degas_ru_global": {
+    "display_name": "Xiaomi 14T",
+    "display_name_en": "Xiaomi 14T"
+  },
+  "degas_tr_global": {
+    "display_name": "Xiaomi 14T",
+    "display_name_en": "Xiaomi 14T"
+  },
+  "degas_tw_global": {
+    "display_name": "Xiaomi 14T",
+    "display_name_en": "Xiaomi 14T"
   },
   "dior": {
     "display_name": "HM NOTE 1LTETD",
@@ -4979,6 +5283,106 @@
     "display_name": "LTE26007-GLOBAL",
     "display_name_en": "LTE26007-GLOBAL"
   },
+  "malachite": {
+    "display_name": "Redmi Note 14 Pro",
+    "display_name_en": "Redmi Note 14 Pro"
+  },
+  "malachite_dc_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "malachite_eea_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "malachite_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "malachite_gt_tg_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "malachite_id_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "malachite_in_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "malachite_lm_cr_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "malachite_mx_at_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "malachite_mx_tc_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "malachite_pre_dc_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "malachite_pre_eea_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "malachite_pre_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "malachite_pre_gt_tg_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "malachite_pre_id_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "malachite_pre_in_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "malachite_pre_lm_cr_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "malachite_pre_mx_at_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "malachite_pre_mx_tc_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "malachite_pre_ru_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "malachite_pre_tr_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "malachite_pre_tw_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "malachite_ru_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "malachite_tr_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "malachite_tw_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
   "manet": {
     "display_name": "Redmi K70 Pro",
     "display_name_en": "Redmi K70 Pro"
@@ -6916,112 +7320,112 @@
     "display_name_en": "Redmi K70 Ultra"
   },
   "rothko_cl_en_global": {
-    "display_name": "XM-ROTHKO-CL-EN-GLOBAL",
-    "display_name_en": "XM-ROTHKO-CL-EN-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_dc_global": {
-    "display_name": "XM-ROTHKO-DC-GLOBAL",
-    "display_name_en": "XM-ROTHKO-DC-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_eea_global": {
-    "display_name": "XM-ROTHKO-EEA-GLOBAL",
-    "display_name_en": "XM-ROTHKO-EEA-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_factory_jp_kd_global": {
-    "display_name": "XM-ROTHKO-FACTORY-JP-KD-GLOBAL",
-    "display_name_en": "XM-ROTHKO-FACTORY-JP-KD-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_global": {
-    "display_name": "XM-ROTHKO-GLOBAL",
-    "display_name_en": "XM-ROTHKO-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_id_global": {
-    "display_name": "XM-ROTHKO-ID-GLOBAL",
-    "display_name_en": "XM-ROTHKO-ID-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_jp_global": {
-    "display_name": "XM-ROTHKO-JP-GLOBAL",
-    "display_name_en": "XM-ROTHKO-JP-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_jp_sb_global": {
-    "display_name": "XM-ROTHKO-JP-SB-GLOBAL",
-    "display_name_en": "XM-ROTHKO-JP-SB-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_lm_cr_global": {
-    "display_name": "XM-ROTHKO-LM-CR-GLOBAL",
-    "display_name_en": "XM-ROTHKO-LM-CR-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_mx_at_global": {
-    "display_name": "XM-ROTHKO-MX-AT-GLOBAL",
-    "display_name_en": "XM-ROTHKO-MX-AT-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_mx_tc_global": {
-    "display_name": "XM-ROTHKO-MX-TC-GLOBAL",
-    "display_name_en": "XM-ROTHKO-MX-TC-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_pre_cl_en_global": {
-    "display_name": "XM-ROTHKO-PRE-CL-EN-GLOBAL",
-    "display_name_en": "XM-ROTHKO-PRE-CL-EN-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_pre_dc_global": {
-    "display_name": "XM-ROTHKO-PRE-DC-GLOBAL",
-    "display_name_en": "XM-ROTHKO-PRE-DC-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_pre_eea_global": {
-    "display_name": "XM-ROTHKO-PRE-EEA-GLOBAL",
-    "display_name_en": "XM-ROTHKO-PRE-EEA-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_pre_global": {
-    "display_name": "XM-ROTHKO-PRE-GLOBAL",
-    "display_name_en": "XM-ROTHKO-PRE-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_pre_id_global": {
-    "display_name": "XM-ROTHKO-PRE-ID-GLOBAL",
-    "display_name_en": "XM-ROTHKO-PRE-ID-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_pre_jp_global": {
-    "display_name": "XM-ROTHKO-PRE-JP-GLOBAL",
-    "display_name_en": "XM-ROTHKO-PRE-JP-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_pre_jp_sb_global": {
-    "display_name": "XM-ROTHKO-PRE-JP-SB-GLOBAL",
-    "display_name_en": "XM-ROTHKO-PRE-JP-SB-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_pre_lm_cr_global": {
-    "display_name": "XM-ROTHKO-PRE-LM-CR-GLOBAL",
-    "display_name_en": "XM-ROTHKO-PRE-LM-CR-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_pre_mx_at_global": {
-    "display_name": "XM-ROTHKO-PRE-MX-AT-GLOBAL",
-    "display_name_en": "XM-ROTHKO-PRE-MX-AT-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_pre_mx_tc_global": {
-    "display_name": "XM-ROTHKO-PRE-MX-TC-GLOBAL",
-    "display_name_en": "XM-ROTHKO-PRE-MX-TC-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_pre_ru_global": {
-    "display_name": "XM-ROTHKO-PRE-RU-GLOBAL",
-    "display_name_en": "XM-ROTHKO-PRE-RU-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_pre_tr_global": {
-    "display_name": "XM-ROTHKO-PRE-TR-GLOBAL",
-    "display_name_en": "XM-ROTHKO-PRE-TR-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_pre_tw_global": {
-    "display_name": "XM-ROTHKO-PRE-TW-GLOBAL",
-    "display_name_en": "XM-ROTHKO-PRE-TW-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_ru_global": {
-    "display_name": "XM-ROTHKO-RU-GLOBAL",
-    "display_name_en": "XM-ROTHKO-RU-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_tr_global": {
-    "display_name": "XM-ROTHKO-TR-GLOBAL",
-    "display_name_en": "XM-ROTHKO-TR-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_tw_global": {
-    "display_name": "XM-ROTHKO-TW-GLOBAL",
-    "display_name_en": "XM-ROTHKO-TW-GLOBAL"
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
   },
   "ruan": {
     "display_name": "Redmi Pad Pro 5G",
