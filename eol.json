@@ -495,6 +495,12 @@
      "deviceName": "XM-ENUMA-DEMO (cn)",
      "sku": "enuma_demo",
      "projectCode": "K81"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi Civi (cn)",
+     "sku": "mona",
+     "projectCode": "K9B"
     }
    ]
   },
@@ -1027,9 +1033,15 @@
      "deviceName": "Redmi K40 (cn)",
      "sku": "alioth",
      "projectCode": "K11A"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO C31 (in)",
+     "sku": "angelicain_in_rf_global",
+     "projectCode": "C3M-IN"
     }
    ]
   }
  ],
- "updateAt": "2024-08-27T03:34:22.000Z"
+ "updateAt": "2024-09-26T07:14:37.000Z"
 }
