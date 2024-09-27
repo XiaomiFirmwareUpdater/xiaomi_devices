@@ -91,6 +91,8 @@ dandelion_eea_global - F
 dandelion_global - F
 dandelion_id_global - F
 dandelion_ru_global - F
+degas_global - F
+degas_tw_global - F
 dipper_global - F
 dipper_ru_global - F
 diting_eea_global - F
@@ -204,6 +206,7 @@ klein_global - F
 klein_in_global - F
 klein_ru_global - F
 lake_global - F
+lake_tw_global - F
 lancelot_eea_global - F
 lancelot_global - F
 lancelot_ru_global - F
@@ -334,6 +337,10 @@ rosemary_p_tw_global - F
 rosemary_ru_global - F
 rosemary_tr_global - F
 rosemary_tw_global - F
+rothko_eea_global - F
+rothko_global - F
+rothko_id_global - F
+rothko_tw_global - F
 ruan_eea_global - F
 ruan_global - F
 ruan_in_global - F

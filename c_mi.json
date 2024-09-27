@@ -1,5 +1,29 @@
 [
  {
+  "id": "1900604",
+  "name": "POCO X6 PRO 5G ",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/327adbc4a3b12fb74ab2b972fac26886",
+  "item_identify": ""
+ },
+ {
+  "id": "1900603",
+  "name": "POCO M6 Pro/Redmi Note 13 Pro ",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/8204c0665e35245da8d30901847b6106",
+  "item_identify": ""
+ },
+ {
+  "id": "1900602",
+  "name": "POCO F6 Pro",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/3fb9b531fae778de4c09503016b76bf1",
+  "item_identify": ""
+ },
+ {
+  "id": "1900601",
+  "name": "POCO F6 ",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/acb6a45b9157083a37c3e6d2a1dd76a5",
+  "item_identify": ""
+ },
+ {
   "id": "1900600",
   "name": "POCO M6/Redmi 13",
   "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/1b7a431d64d5133dc3b82ddcf73fa989",
@@ -30,15 +54,15 @@
   "item_identify": ""
  },
  {
-  "id": "1900596",
-  "name": "Redmi A3X",
-  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/de6d73e5d612325737b9ee22040a0a7c",
-  "item_identify": ""
- },
- {
   "id": "1900593",
   "name": "Redmi A3",
   "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/f3effe14578e91a38616d81ba274ac56",
+  "item_identify": ""
+ },
+ {
+  "id": "1900596",
+  "name": "Redmi A3X",
+  "pic_url": "https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityglobal.bkt/de6d73e5d612325737b9ee22040a0a7c",
   "item_identify": ""
  },
  {
