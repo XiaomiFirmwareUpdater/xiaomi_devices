@@ -1572,6 +1572,12 @@
   }
  },
  {
+  "amethyst": {
+   "name": "Redmi Note 14 Pro+",
+   "model": "24115RA8EC"
+  }
+ },
+ {
   "lavender": {
    "name": "Redmi Note 7",
    "model": "Redmi Note 7"
@@ -3429,6 +3435,18 @@
   "aurora": {
    "name": "Xiaomi 14 Ultra",
    "model": "Xiaomi for arm64"
+  }
+ },
+ {
+  "degas": {
+   "name": "Xiaomi 14T",
+   "model": "2406APNFAG"
+  }
+ },
+ {
+  "rothko": {
+   "name": "Xiaomi 14T Pro",
+   "model": "2407FPN8EG"
   }
  },
  {
