@@ -91,6 +91,8 @@ dandelion_eea_global - F
 dandelion_global - F
 dandelion_id_global - F
 dandelion_ru_global - F
+degas_dc_global - F
+degas_eea_global - F
 degas_global - F
 degas_tw_global - F
 dipper_global - F
@@ -337,6 +339,7 @@ rosemary_p_tw_global - F
 rosemary_ru_global - F
 rosemary_tr_global - F
 rosemary_tw_global - F
+rothko_dc_global - F
 rothko_eea_global - F
 rothko_global - F
 rothko_id_global - F
@@ -351,6 +354,7 @@ ruby_id_global - F
 ruby_in_global - F
 ruby_ru_global - F
 ruby_tw_global - F
+ruyi_eea_global - F
 ruyi_global - F
 ruyi_tw_global - F
 sapphire_global - F
