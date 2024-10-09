@@ -1,6 +1,32 @@
 {
  "items": [
   {
+   "id": 73,
+   "status": 1,
+   "deviceName": "Xiaomi 14T",
+   "releaseDate": "2024-9",
+   "securityUpdateEol": "2029-9",
+   "updateFrequency": "4+5",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 14",
+   "futureVersion": "Android 15,Android16,Android 17,Android 18",
+   "createdAt": "2024-10-09T01:51:54.000Z",
+   "updatedAt": "2024-10-09T01:53:39.000Z"
+  },
+  {
+   "id": 74,
+   "status": 1,
+   "deviceName": "Xiaomi 14T Pro",
+   "releaseDate": "2024-9",
+   "securityUpdateEol": "2029-9",
+   "updateFrequency": "4+5",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 14",
+   "futureVersion": "Android 15,Android16,Android 17,Android 18",
+   "createdAt": "2024-10-09T01:53:14.000Z",
+   "updatedAt": "2024-10-09T01:53:39.000Z"
+  },
+  {
    "id": 69,
    "status": 1,
    "deviceName": "Redmi Pad Pro 5G",
@@ -872,5 +898,5 @@
    "updatedAt": "2024-03-11T15:46:51.000Z"
   }
  ],
- "total": 67
+ "total": 69
 }
