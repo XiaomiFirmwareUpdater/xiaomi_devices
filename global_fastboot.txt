@@ -356,6 +356,7 @@ ruby_ru_global - F
 ruby_tw_global - F
 ruyi_eea_global - F
 ruyi_global - F
+ruyi_ru_global - F
 ruyi_tw_global - F
 sapphire_global - F
 sapphiren_eea_global - F
