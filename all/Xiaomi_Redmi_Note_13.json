@@ -35,7 +35,7 @@
    "info": "*1B colors (market/region dependent)"
   },
   "Platform": {
-   "OS": "Android 13, upgradable to Android 14, HyperOS",
+   "OS": "Android 13, up to 3 major Android upgrades, HyperOS",
    "Chipset": "Mediatek Dimensity 6080 (6 nm)",
    "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
    "GPU": "Mali-G57 MC2"
@@ -79,7 +79,7 @@
   "Misc": {
    "Colors": "Graphite black (Stealth Black), Arctic White, Ocean Teal, Prism Gold",
    "Models": "2312DRAABG, 2312DRAABI",
-   "Price": "$ 204.50 / £ 149.00 / € 200.00 / ₹ 16,148"
+   "Price": "$ 112.58 / £ 135.00 / € 198.97 / ₹ 14,274"
   },
   "Tests": {
    "Performance": "AnTuTu: 405118 (v9), 455421 (v10)\nGeekBench: 1968 (v5), 1978 (v6)\n3DMark Wild life: 1334 (offscreen 1440p)",

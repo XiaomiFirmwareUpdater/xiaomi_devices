@@ -1,7 +1,738 @@
 [
  {
+  "name": "Xiaomi Redmi A3 Pro",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a3.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_redmi_a3_pro-13432.php",
+  "codenames": [
+   "pond"
+  ],
+  "specs": {
+   "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 2100",
+    "4G bands": "LTE",
+    "Speed": "HSPA, LTE"
+   },
+   "Launch": {
+    "Announced": "2024, October",
+    "Status": "Available. Released 2024, October"
+   },
+   "Body": {
+    "Dimensions": "171.9 x 77.8 x 8.2 mm (6.77 x 3.06 x 0.32 in)",
+    "Weight": "-",
+    "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+   },
+   "Display": {
+    "Type": "IPS LCD, 90Hz",
+    "Size": "6.88 inches, 112.4 cm2 (~84.0% screen-to-body ratio)",
+    "Resolution": "720 x 1640 pixels (~260 ppi density)"
+   },
+   "Platform": {
+    "OS": "Android 14, HyperOS",
+    "Chipset": "Mediatek Helio G81 Ultra",
+    "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+    "GPU": "Mali-G52 MC2"
+   },
+   "Memory": {
+    "Card slot": "microSDXC (dedicated slot)",
+    "Internal": "128GB 4GB RAM",
+    "info": "eMMC 5.1"
+   },
+   "Main Camera": {
+    "Single": "50 MP, f/1.8, (wide)\nAuxiliary lens",
+    "Features": "LED flash, HDR",
+    "Video": "1080p@30fps"
+   },
+   "Selfie camera": {
+    "Single": "Yes",
+    "Video": "1080p@30fps"
+   },
+   "Sound": {
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "Yes"
+   },
+   "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Bluetooth": "5.4, A2DP, LE",
+    "Positioning": "GPS, GLONASS, GALILEO, BDS",
+    "NFC": "Yes (market/region dependent)",
+    "Radio": "Unspecified",
+    "USB": "USB Type-C 2.0"
+   },
+   "Features": {
+    "Sensors": "Fingerprint (side-mounted), accelerometer, compass",
+    "info": "Virtual proximity sensing"
+   },
+   "Battery": {
+    "Type": "5160 mAh, non-removable",
+    "Charging": "10W wired"
+   },
+   "Misc": {
+    "Colors": "Blue; other colors",
+    "Price": "About 100 EUR"
+   }
+  }
+ },
+ {
+  "name": "Xiaomi 14T Pro",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-14t-pro.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_14t_pro-13328.php",
+  "codenames": [
+   "rothko"
+  ],
+  "specs": {
+   "Network": {
+    "Technology": "GSM / HSPA / LTE / 5G",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 42, 48, 66",
+    "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 48, 66, 75, 77, 78 SA/NSA",
+    "Speed": "HSPA, LTE, 5G"
+   },
+   "Launch": {
+    "Announced": "2024, September 26",
+    "Status": "Available. Released 2024, September 26"
+   },
+   "Body": {
+    "Dimensions": "160.4 x 75.1 x 8.4 mm (6.31 x 2.96 x 0.33 in)",
+    "Weight": "209 g (7.37 oz)",
+    "Build": "Glass front, aluminum frame",
+    "SIM": "Nano-SIM, eSIM or eSIM, eSIM or Dual SIM (Nano-SIM, dual stand-by)",
+    "info": "IP68 dust/water resistant (up to 2m for 30 min)\n6M13 aluminium alloy, 281 N/mm frame rigidity, 260 N/mm device rigidity (advertised values)"
+   },
+   "Display": {
+    "Type": "AMOLED, 68B colors, 144Hz, Dolby Vision, HDR10+, 1600 nits (HBM), 4000 nits (peak)",
+    "Size": "6.67 inches, 107.4 cm2 (~89.1% screen-to-body ratio)",
+    "Resolution": "1220 x 2712 pixels, 20:9 ratio (~446 ppi density)",
+    "Protection": "Scratch/drop-resistant glass"
+   },
+   "Platform": {
+    "OS": "Android 14, HyperOS",
+    "Chipset": "Mediatek Dimensity 9300+ (4 nm)",
+    "CPU": "Octa-core (1x3.4 GHz Cortex-X4 & 3x2.85 GHz Cortex-X4 & 4x2.0 GHz Cortex-A720)",
+    "GPU": "Immortalis-G720 MC12"
+   },
+   "Memory": {
+    "Card slot": "No",
+    "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 12GB RAM",
+    "info": "UFS 4.0"
+   },
+   "Main Camera": {
+    "Triple": "50 MP, f/1.6, 23mm (wide), 1/1.31\", 1.2µm, PDAF, OIS\n50 MP, f/2.0, 60mm (telephoto), 1/2.88\", 0.61µm, PDAF, 2.6x optical zoom\n12 MP, f/2.2, 15mm (ultrawide), 1/3.06\", 1.12µm",
+    "Features": "Leica lens, Ultra HDR, LED flash, HDR, panorama",
+    "Video": "8K@24/30fps, 4K@24/30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, 10-bit Rec. 2020, HDR10+"
+   },
+   "Selfie camera": {
+    "Single": "32 MP, f/2.0, 25mm (wide)",
+    "Features": "HDR",
+    "Video": "4K@30fps, 1080p@30/60fps, HDR10+"
+   },
+   "Sound": {
+    "Loudspeaker": "Yes, with stereo speakers",
+    "3.5mm jack": "No",
+    "info": "24-bit/192kHz Hi-Res & Hi-Res Wireless audio"
+   },
+   "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct",
+    "Bluetooth": "5.4, A2DP, LE, LHDC",
+    "Positioning": "GPS (L1+L5), BDS (B1I+B1C+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L5), GLONASS",
+    "NFC": "Yes (market/region dependent)",
+    "Infrared port": "Yes",
+    "Radio": "Unspecified",
+    "USB": "USB Type-C 2.0, OTG"
+   },
+   "Features": {
+    "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "info": "Circle to Search"
+   },
+   "Battery": {
+    "Type": "Li-Po 5000 mAh, non-removable",
+    "Charging": "120W wired, PD3.0, QC4, 100% in 19 min (advertised)\n50W wireless, 100% in 45 min (advertised)"
+   },
+   "Misc": {
+    "Colors": "Titan Gray, Titan Blue, Titan Black",
+    "Price": "$ 749.99 / £ 699.00 / € 697.00"
+   },
+   "Tests": {
+    "Performance": "AnTuTu: 2015655 (v10)\nGeekBench: 7081 (v6)\n3DMark Wild life: 14352 (offscreen 1440p)",
+    "Display": "Maximum brightness: 1228nits (measured)",
+    "Loudspeaker": "-26.0 LUFS (Very good)",
+    "Battery (new)": "Active use score 12:32h",
+    "info": ""
+   }
+  }
+ },
+ {
+  "name": "Xiaomi 14T",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-14t.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_14t-13329.php",
+  "codenames": [
+   "degas"
+  ],
+  "specs": {
+   "Network": {
+    "Technology": "GSM / HSPA / LTE / 5G",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 42, 48, 66",
+    "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 77, 78 SA/NSA",
+    "Speed": "HSPA, LTE, 5G"
+   },
+   "Launch": {
+    "Announced": "2024, September 26",
+    "Status": "Available. Released 2024, September 26"
+   },
+   "Body": {
+    "Dimensions": "160.5 x 75.1 x 7.8 mm or 8.0 mm",
+    "Weight": "193 g or 195 g (6.81 oz)",
+    "SIM": "Nano-SIM, eSIM or eSIM, eSIM or Dual SIM (Nano-SIM, dual stand-by)",
+    "info": "IP68 dust/water resistant (up to 2m for 30 min)"
+   },
+   "Display": {
+    "Type": "AMOLED, 68B colors, 144Hz, Dolby Vision, HDR10+, 1600 nits (HBM), 4000 nits (peak)",
+    "Size": "6.67 inches, 107.4 cm2 (~89.1% screen-to-body ratio)",
+    "Resolution": "1220 x 2712 pixels, 20:9 ratio (~446 ppi density)"
+   },
+   "Platform": {
+    "OS": "Android 14, HyperOS",
+    "Chipset": "Mediatek Dimensity 8300 Ultra (4 nm)",
+    "CPU": "Octa-core (1x3.35 GHz Cortex-A715 & 3x3.20 GHz Cortex-A715 & 4x2.20 GHz Cortex-A510)",
+    "GPU": "Mali G615-MC6"
+   },
+   "Memory": {
+    "Card slot": "No",
+    "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM",
+    "info": "UFS 4.0"
+   },
+   "Main Camera": {
+    "Triple": "50 MP, f/1.7, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS\n50 MP, f/1.9, 50mm (telephoto), PDAF, 2x optical zoom\n12 MP, f/2.2, 15mm (ultrawide), 1/3.06\", 1.12µm",
+    "Features": "Leica lens, Ultra HDR, LED flash, HDR, panorama",
+    "Video": "4K@24/30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, 10-bit Rec. 2020, HDR10+"
+   },
+   "Selfie camera": {
+    "Single": "32 MP, f/2.0, 25mm (wide)",
+    "Features": "HDR",
+    "Video": "4K@30fps, 1080p@30/60fps, HDR10+"
+   },
+   "Sound": {
+    "Loudspeaker": "Yes, with stereo speakers",
+    "3.5mm jack": "No",
+    "info": "24-bit/192kHz Hi-Res & Hi-Res Wireless audio"
+   },
+   "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+    "Bluetooth": "5.4, A2DP, LE, LHDC",
+    "Positioning": "GPS (L1+L5), BDS (B1I+B1C+B2a), GALILEO (E1+E5a), NavIC (L5), GLONASS",
+    "NFC": "Yes (market/region dependent)",
+    "Infrared port": "Yes",
+    "Radio": "Unspecified",
+    "USB": "USB Type-C 2.0, OTG"
+   },
+   "Features": {
+    "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "info": "Circle to Search"
+   },
+   "Battery": {
+    "Type": "Li-Po 5000 mAh, non-removable",
+    "Charging": "67W wired, PD3.0, 100% in 45 min (advertised)"
+   },
+   "Misc": {
+    "Colors": "Titan Gray, Titan Blue, Titan Black, Lemon Green",
+    "Price": "$ 600.00 / £ 560.17 / € 523.79"
+   },
+   "Tests": {
+    "Performance": "AnTuTu: 1253994 (v10)\nGeekBench: 3989 (v6)\n3DMark Wild life: 10791 (offscreen 1440p)",
+    "Display": "1355 nits max brightness (measured)",
+    "Loudspeaker": "-25.0 LUFS (Very good)",
+    "Battery (new)": "Active use score 11:32h",
+    "info": ""
+   }
+  }
+ },
+ {
+  "name": "Xiaomi Redmi Note 14 Pro+",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-pro-plus-5g.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_redmi_note_14_pro+-13364.php",
+  "codenames": [
+   "amethyst"
+  ],
+  "specs": {
+   "Network": {
+    "Technology": "GSM / HSPA / LTE / 5G",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 800 / 850 / 900 / 2100 - China",
+    "4G bands": "1, 3, 5, 8, 19, 28, 34, 38, 39, 40, 41, 42, 48 - China",
+    "5G bands": "1, 3, 5, 8, 28, 38, 40, 41, 48, 77, 78 SA/NSA - China",
+    "Speed": "HSPA, LTE, 5G"
+   },
+   "Launch": {
+    "Announced": "2024, September 26",
+    "Status": "Available. Released 2024, September 26"
+   },
+   "Body": {
+    "Dimensions": "162.5 x 74.7 x 8.7 mm (6.40 x 2.94 x 0.34 in)",
+    "Weight": "210.8 g (7.44 oz)",
+    "SIM": "Nano-SIM, eSIM or Dual SIM (Nano-SIM, dual stand-by)",
+    "info": "IP68/IP69K dust/water resistant (up to 2m for 24 hours)"
+   },
+   "Display": {
+    "Type": "AMOLED, 68B colors, 120Hz, HDR10+, Dolby Vision, 3000 nits (peak)",
+    "Size": "6.67 inches, 107.4 cm2 (~88.5% screen-to-body ratio)",
+    "Resolution": "1220 x 2712 pixels, 20:9 ratio (~446 ppi density)",
+    "Protection": "Corning Gorilla Glass Victus 2",
+    "info": "Always-on display"
+   },
+   "Platform": {
+    "OS": "Android 14, up to 3 major Android upgrades, HyperOS",
+    "Chipset": "Qualcomm SM7635 Snapdragon 7s Gen 3 (4 nm)",
+    "CPU": "Octa-core (1x2.5 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520)",
+    "GPU": "Adreno 710 (940 MHz)"
+   },
+   "Memory": {
+    "Card slot": "No",
+    "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM",
+    "info": "UFS 2.2 or UFS 3.1"
+   },
+   "Main Camera": {
+    "Triple": "50 MP, f/1.6, (wide), 1/1.55\", 1.0µm, PDAF, OIS\n50 MP, f/2.0, 60mm (telephoto), PDAF (50cm - ∞), 2.5x optical zoom\n8 MP, f/2.2, 120˚ (ultrawide), 1/4.0\", 1.12µm",
+    "Features": "LED flash, HDR, panorama",
+    "Video": "4K@24/30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+   },
+   "Selfie camera": {
+    "Single": "20 MP, (wide)",
+    "Features": "HDR, panorama",
+    "Video": "1080p@30/60fps"
+   },
+   "Sound": {
+    "Loudspeaker": "Yes, with stereo speakers",
+    "3.5mm jack": "Unspecified",
+    "info": "24-bit/192kHz Hi-Res & Hi-Res wireless audio"
+   },
+   "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+    "Bluetooth": "5.4, A2DP, LE, LHDC",
+    "Positioning": "GPS, GALILEO, GLONASS, QZSS, BDS (B1I+B1c)",
+    "NFC": "Yes (market/region dependent)",
+    "Infrared port": "Yes",
+    "Radio": "Unspecified",
+    "USB": "USB Type-C 2.0, OTG"
+   },
+   "Features": {
+    "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity (ultrasonic)"
+   },
+   "Battery": {
+    "Type": "Si/C 6200 mAh, non-removable",
+    "Charging": "90W wired, PD"
+   },
+   "Misc": {
+    "Colors": "Black, White, Green",
+    "Price": "About 240 EUR"
+   }
+  }
+ },
+ {
+  "name": "Xiaomi Redmi Note 14 Pro",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-pro-5g.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_redmi_note_14_pro-13355.php",
+  "codenames": [
+   "malachite"
+  ],
+  "specs": {
+   "Network": {
+    "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "info": "CDMA2000 1x",
+    "3G bands": "HSDPA 800 / 850 / 900 / 2100 - China",
+    "4G bands": "1, 3, 5, 8, 19, 34, 38, 39, 40, 41 - China",
+    "5G bands": "1, 3, 5, 8, 28, 38, 41, 77, 78 SA/NSA - China",
+    "Speed": "HSPA, LTE, 5G"
+   },
+   "Launch": {
+    "Announced": "2024, September 26",
+    "Status": "Available. Released 2024, September 26"
+   },
+   "Body": {
+    "Dimensions": "162.3 x 74.4 x 8.2 mm or 8.5 mm",
+    "Weight": "190 g (6.70 oz)",
+    "SIM": "Nano-SIM, eSIM or Dual SIM (Nano-SIM, dual stand-by)",
+    "info": "IP68/IP69K dust/water resistant (up to 2m for 24 hours)"
+   },
+   "Display": {
+    "Type": "AMOLED, 68B colors, 120Hz, HDR10+, Dolby Vision, 3000 nits (peak)",
+    "Size": "6.67 inches, 107.4 cm2 (~88.9% screen-to-body ratio)",
+    "Resolution": "1220 x 2712 pixels, 20:9 ratio (~446 ppi density)",
+    "Protection": "Corning Gorilla Glass Victus 2",
+    "info": "Always-on display"
+   },
+   "Platform": {
+    "OS": "Android 14, up to 3 major Android upgrades, HyperOS",
+    "Chipset": "Mediatek Dimensity 7300 Ultra (4 nm)",
+    "CPU": "Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+    "GPU": "Mali-G615 MC2"
+   },
+   "Memory": {
+    "Card slot": "No",
+    "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+    "info": "UFS 2.2"
+   },
+   "Main Camera": {
+    "Triple": "50 MP, f/1.5, (wide), 1/1.96\", 0.8µm, PDAF, OIS\n8 MP, f/2.2, 120˚ (ultrawide), 1/4.0\", 1.12µm\n2 MP, f/2.4, (macro)",
+    "Features": "LED flash, HDR, panorama",
+    "Video": "4K@24/30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+   },
+   "Selfie camera": {
+    "Single": "20 MP, f/2.2, (wide), 1/4.0\"",
+    "Features": "HDR, panorama",
+    "Video": "1080p@30/60fps"
+   },
+   "Sound": {
+    "Loudspeaker": "Yes, with stereo speakers",
+    "3.5mm jack": "Unspecified",
+    "info": "24-bit/192kHz Hi-Res audio"
+   },
+   "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+    "Bluetooth": "5.4, A2DP, LE, LHDC",
+    "Positioning": "GPS, GLONASS, BDS, GALILEO, QZSS",
+    "NFC": "Yes (market/region dependent)",
+    "Infrared port": "Yes",
+    "Radio": "Unspecified",
+    "USB": "USB Type-C 2.0, OTG"
+   },
+   "Features": {
+    "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity (ultrasonic)"
+   },
+   "Battery": {
+    "Type": "5500 mAh, non-removable",
+    "Charging": "45W wired, PD3.0"
+   },
+   "Misc": {
+    "Colors": "Black, White, Purple, Green",
+    "Price": "About 180 EUR"
+   }
+  }
+ },
+ {
+  "name": "Xiaomi Redmi Note 14",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-5g.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_redmi_note_14-13366.php",
+  "codenames": [
+   "beryl"
+  ],
+  "specs": {
+   "Network": {
+    "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "info": "CDMA2000 1x",
+    "3G bands": "HSDPA 850 / 900 / 2100 - China",
+    "4G bands": "1, 3, 5, 8, 34, 38, 39, 40, 41 - China",
+    "5G bands": "1, 5, 8, 28, 41, 78 SA/NSA - China",
+    "Speed": "HSPA, LTE, 5G"
+   },
+   "Launch": {
+    "Announced": "2024, September 26",
+    "Status": "Available. Released 2024, September 26"
+   },
+   "Body": {
+    "Dimensions": "162.4 x 75.7 x 8 mm (6.39 x 2.98 x 0.31 in)",
+    "Weight": "190 g (6.70 oz)",
+    "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+    "info": "IP64, dust and water resistant"
+   },
+   "Display": {
+    "Type": "OLED, 120Hz, HDR10+, 2100 nits (peak)",
+    "Size": "6.67 inches, 107.4 cm2 (~87.4% screen-to-body ratio)",
+    "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+    "Protection": "Corning Gorilla Glass 5",
+    "info": "Always-on display"
+   },
+   "Platform": {
+    "OS": "Android 14, HyperOS",
+    "Chipset": "Mediatek Dimensity 7025 Ultra (6 nm)",
+    "CPU": "Octa-core (2x2.5 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+    "GPU": "IMG BXM-8-256"
+   },
+   "Memory": {
+    "Card slot": "Unspecified",
+    "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",
+    "info": "UFS 2.2"
+   },
+   "Main Camera": {
+    "Dual": "50 MP, f/1.5, (wide), 1/1.96\", 0.8µm, PDAF, OIS\n2 MP, f/2.4, (macro)",
+    "Features": "LED flash, HDR, panorama",
+    "Video": "1080p@30fps"
+   },
+   "Selfie camera": {
+    "Single": "16 MP",
+    "Video": "1080p@30fps"
+   },
+   "Sound": {
+    "Loudspeaker": "Yes, with stereo speakers",
+    "3.5mm jack": "Yes",
+    "info": "24-bit/192kHz Hi-Res audio"
+   },
+   "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+    "Bluetooth": "5.3, A2DP, LE",
+    "Positioning": "GPS, GLONASS, BDS, GALILEO",
+    "NFC": "Unspecified",
+    "Infrared port": "Yes",
+    "Radio": "Unspecified",
+    "USB": "USB Type-C 2.0"
+   },
+   "Features": {
+    "Sensors": "Fingerprint (side-mounted), accelerometer, compass",
+    "info": "Virtual proximity sensing"
+   },
+   "Battery": {
+    "Type": "5110 mAh, non-removable",
+    "Charging": "45W wired"
+   },
+   "Misc": {
+    "Colors": "Black, White, Green",
+    "Price": "About 140 EUR"
+   }
+  }
+ },
+ {
+  "name": "Xiaomi Redmi 14R",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-14r.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_redmi_14r-13338.php",
+  "codenames": [
+   "flame"
+  ],
+  "specs": {
+   "Network": {
+    "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "info": "CDMA2000 1x",
+    "3G bands": "HSDPA 850 / 900 / 2100",
+    "4G bands": "1, 3, 5, 8, 34, 38, 39, 40, 41",
+    "5G bands": "1, 5, 8, 28, 41, 78 SA/NSA/Sub6",
+    "Speed": "HSPA, LTE, 5G"
+   },
+   "Launch": {
+    "Announced": "2024, September 14",
+    "Status": "Available. Released 2024, September"
+   },
+   "Body": {
+    "Dimensions": "171.9 x 77.8 x 8.2 mm (6.77 x 3.06 x 0.32 in)",
+    "Weight": "205.4 / 208.5 / 212.4 g (7.23 oz)",
+    "Build": "Glass front, plastic frame, glass back or silicone polymer (eco leather) back",
+    "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+   },
+   "Display": {
+    "Type": "IPS LCD, 120Hz, 450 nits (typ), 600 nits (HBM)",
+    "Size": "6.88 inches, 112.4 cm2 (~84.0% screen-to-body ratio)",
+    "Resolution": "720 x 1640 pixels (~260 ppi density)"
+   },
+   "Platform": {
+    "OS": "Android 14, HyperOS",
+    "Chipset": "Qualcomm SM4450 Snapdragon 4 Gen 2 (4 nm)",
+    "CPU": "Octa-core (2x2.2 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55)",
+    "GPU": "Adreno 613"
+   },
+   "Memory": {
+    "Card slot": "microSDXC (dedicated slot)",
+    "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+    "info": "UFS 2.2"
+   },
+   "Main Camera": {
+    "Dual": "13 MP, (wide), AF\n2 MP\nAuxiliary lens",
+    "Features": "LED flash, HDR",
+    "Video": "1080p@30fps"
+   },
+   "Selfie camera": {
+    "Single": "5 MP",
+    "Video": "1080p@30fps"
+   },
+   "Sound": {
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "Yes"
+   },
+   "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Bluetooth": "5.0, A2DP, LE",
+    "Positioning": "GPS, GLONASS, GALILEO, BDS",
+    "NFC": "No",
+    "Radio": "No",
+    "USB": "USB Type-C 2.0"
+   },
+   "Features": {
+    "Sensors": "Fingerprint (side-mounted), accelerometer, compass",
+    "info": "Virtual proximity sensing"
+   },
+   "Battery": {
+    "Type": "5160 mAh, non-removable",
+    "Charging": "18W wired, PD"
+   },
+   "Misc": {
+    "Colors": "Midnight Black, Sage Green, Starry Blue, Purple",
+    "Price": "About 140 EUR"
+   }
+  }
+ },
+ {
+  "name": "Xiaomi Redmi 14C",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-14c.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_redmi_14c-13291.php",
+  "codenames": [
+   "pond",
+   "lake"
+  ],
+  "specs": {
+   "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 2100",
+    "4G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41",
+    "Speed": "HSPA, LTE"
+   },
+   "Launch": {
+    "Announced": "2024, August 30",
+    "Status": "Available. Released 2024, August 30"
+   },
+   "Body": {
+    "Dimensions": "171.9 x 77.8 x 8.2 mm (6.77 x 3.06 x 0.32 in)",
+    "Weight": "204 / 207 / 211 g (7.20 oz)",
+    "Build": "Glass front, plastic frame, glass back or silicone polymer (eco leather) back",
+    "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+   },
+   "Display": {
+    "Type": "IPS LCD, 120Hz, 450 nits (typ), 600 nits (HBM)",
+    "Size": "6.88 inches, 112.4 cm2 (~84.0% screen-to-body ratio)",
+    "Resolution": "720 x 1640 pixels (~260 ppi density)"
+   },
+   "Platform": {
+    "OS": "Android 14, HyperOS",
+    "Chipset": "Mediatek Helio G81 Ultra",
+    "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+    "GPU": "Mali-G52 MC2"
+   },
+   "Memory": {
+    "Card slot": "microSDXC (dedicated slot)",
+    "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 4GB RAM, 256GB 8GB RAM",
+    "info": "eMMC 5.1"
+   },
+   "Main Camera": {
+    "Dual": "50 MP, f/1.8, 28mm (wide), PDAF\n2 MP, f/2.4, (depth)\n0.08 MP (auxiliary lens)",
+    "Features": "LED flash, HDR",
+    "Video": "1080p@30fps"
+   },
+   "Selfie camera": {
+    "Single": "13 MP, f/2.0",
+    "Features": "HDR",
+    "Video": "1080p@30fps"
+   },
+   "Sound": {
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "Yes"
+   },
+   "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Bluetooth": "5.4, A2DP, LE",
+    "Positioning": "GPS, GLONASS, GALILEO, BDS",
+    "NFC": "Yes (market/region dependent)",
+    "Radio": "FM radio",
+    "USB": "USB Type-C 2.0"
+   },
+   "Features": {
+    "Sensors": "Fingerprint (side-mounted), accelerometer, compass",
+    "info": "Virtual proximity sensing"
+   },
+   "Battery": {
+    "Type": "5160 mAh, non-removable",
+    "Charging": "18W wired, PD"
+   },
+   "Misc": {
+    "Colors": "Midnight Black, Sage Green, Dreamy Purple, Starry Blue",
+    "Models": "2411DRN47C",
+    "Price": "$ 126.97 / £ 126.99 / € 117.11"
+   }
+  }
+ },
+ {
+  "name": "Xiaomi Poco Pad 5G",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-pad-5g.jpg",
+  "url": "https://www.gsmarena.com/xiaomi_poco_pad_5g-13279.php",
+  "codenames": [
+   "ruan"
+  ],
+  "specs": {
+   "Network": {
+    "Technology": "GSM / HSPA / LTE / 5G",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "4G bands": "LTE",
+    "5G bands": "SA/NSA",
+    "Speed": "HSPA, LTE, 5G"
+   },
+   "Launch": {
+    "Announced": "2024, August 23",
+    "Status": "Available. Released 2024, August 27"
+   },
+   "Body": {
+    "Dimensions": "280 x 181.9 x 7.5 mm (11.02 x 7.16 x 0.30 in)",
+    "Weight": "568 g (1.25 lb)",
+    "Build": "Glass front (Gorilla Glass 3), aluminum frame, aluminum back",
+    "SIM": "Nano-SIM",
+    "info": "Stylus support (magnetic)\nSplash resistant"
+   },
+   "Display": {
+    "Type": "IPS LCD, 68B colors, 120Hz, Dolby Vision, 600 nits (HBM)",
+    "Size": "12.1 inches, 424.5 cm2 (~83.4% screen-to-body ratio)",
+    "Resolution": "1600 x 2560 pixels, 16:10 ratio (~249 ppi density)",
+    "Protection": "Corning Gorilla Glass 3"
+   },
+   "Platform": {
+    "OS": "Android 14, HyperOS",
+    "Chipset": "Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm)",
+    "CPU": "Octa-core (4x2.40 GHz Cortex-A78 & 4x1.95 GHz Cortex-A55)",
+    "GPU": "Adreno 710"
+   },
+   "Memory": {
+    "Card slot": "microSDXC (dedicated slot)",
+    "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+    "info": "UFS 2.2"
+   },
+   "Main Camera": {
+    "Single": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm",
+    "Features": "LED flash",
+    "Video": "1080p@30fps"
+   },
+   "Selfie camera": {
+    "Single": "8 MP, f/2.3, (wide), 1/4.0\", 1.12µm",
+    "Video": "1080p@30fps"
+   },
+   "Sound": {
+    "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+    "3.5mm jack": "Yes"
+   },
+   "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/a/6, dual-band, Wi-Fi Direct",
+    "Bluetooth": "5.2, A2DP, LE, aptX HD, aptX Adaptive",
+    "Positioning": "GPS",
+    "NFC": "No",
+    "Radio": "No",
+    "USB": "USB Type-C 2.0"
+   },
+   "Features": {
+    "Sensors": "Accelerometer, gyro, proximity (accessories only), compass"
+   },
+   "Battery": {
+    "Type": "10000 mAh, non-removable",
+    "Charging": "33W wired, PD3.0, QC3+"
+   },
+   "Misc": {
+    "Colors": "Dark Gray, Blue",
+    "Price": "About 220 EUR"
+   }
+  }
+ },
+ {
   "name": "Xiaomi Poco M6 Plus",
-  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m6-plus.jpg",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m6-plus-5g.jpg",
   "url": "https://www.gsmarena.com/xiaomi_poco_m6_plus-13119.php",
   "codenames": [
    "breeze"
@@ -27,29 +758,30 @@
     "info": "IP53, dust and splash resistant"
    },
    "Display": {
-    "Type": "LCD, 120Hz, 550 nits",
+    "Type": "IPS LCD, 120Hz, 550 nits (peak)",
     "Size": "6.79 inches, 109.5 cm2 (~85.1% screen-to-body ratio)",
     "Resolution": "1080 x 2460 pixels (~396 ppi density)",
-    "Protection": "Corning Gorilla Glass"
+    "Protection": "Corning Gorilla Glass 3"
    },
    "Platform": {
-    "OS": "Android 14, HyperOS, up to 2 major Android upgrades",
+    "OS": "Android 14, up to 2 major Android upgrades, HyperOS",
     "Chipset": "Qualcomm SM4450 Snapdragon 4 Gen 2 AE (4 nm)",
     "CPU": "Octa-core (2x2.3 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
     "GPU": "Adreno 613"
    },
    "Memory": {
     "Card slot": "microSDXC (uses shared SIM slot)",
-    "Internal": "128GB 6GB RAM, 128GB 8GB RAM"
+    "Internal": "128GB 6GB RAM, 128GB 8GB RAM",
+    "info": "UFS 2.2"
    },
    "Main Camera": {
-    "Dual": "108 MP, f/1.8, 28mm (wide), 0.7µm, PDAF\n2 MP (macro)",
-    "Features": "LED flash, HDR",
+    "Dual": "108 MP, f/1.8, 28mm (wide), 0.64µm, PDAF\n2 MP (macro)",
+    "Features": "LED flash, HDR, panorama",
     "Video": "1080p@30fps"
    },
    "Selfie camera": {
-    "Single": "13 MP, f/2.2, (wide)",
-    "Features": "HDR",
+    "Single": "13 MP, f/2.5, (wide)",
+    "Features": "HDR, panorama",
     "Video": "1080p@30fps"
    },
    "Sound": {
@@ -59,7 +791,7 @@
    },
    "Comms": {
     "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
-    "Bluetooth": "5.3, A2DP, LE",
+    "Bluetooth": "5.0, A2DP, LE",
     "Positioning": "GPS, GLONASS, GALILEO, BDS",
     "NFC": "No",
     "Infrared port": "Yes",
@@ -67,7 +799,7 @@
     "USB": "USB Type-C"
    },
    "Features": {
-    "Sensors": "Fingerprint (side-mounted), accelerometer, compass"
+    "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
    },
    "Battery": {
     "Type": "5030 mAh, non-removable",
@@ -75,84 +807,7 @@
    },
    "Misc": {
     "Colors": "Black, Purple, Silver",
-    "Price": "₹ 13,899"
-   }
-  }
- },
- {
-  "name": "Xiaomi Redmi Pad SE 4G",
-  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pad-se-4g-1.jpg",
-  "url": "https://www.gsmarena.com/xiaomi_redmi_pad_se_4g-13225.php",
-  "codenames": [
-   "spark"
-  ],
-  "specs": {
-   "Network": {
-    "Technology": "GSM / HSPA / LTE",
-    "2G bands": "GSM 850 / 900 / 1800 / 1900",
-    "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
-    "4G bands": "1, 2, 3, 4, 5, 7, 8, 13, 18, 19, 20, 26, 28, 38, 40, 41, 66",
-    "Speed": "HSPA, LTE"
-   },
-   "Launch": {
-    "Announced": "2024, July 29",
-    "Status": "Available. Released 2024, August 08"
-   },
-   "Body": {
-    "Dimensions": "211.6 x 125.5 x 8.8 mm (8.33 x 4.94 x 0.35 in)",
-    "Weight": "370 g (13.05 oz)",
-    "Build": "Glass front (Gorilla Glass 3)",
-    "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
-    "info": "IP53, dust and splash resistant"
-   },
-   "Display": {
-    "Type": "IPS LCD, 1B colors, 90Hz, 600 nits (HBM)",
-    "Size": "8.7 inches, 214.9 cm2 (~80.9% screen-to-body ratio)",
-    "Resolution": "800 x 1340 pixels, 5:3 ratio (~179 ppi density)",
-    "Protection": "Corning Gorilla Glass 3"
-   },
-   "Platform": {
-    "OS": "Android 14, HyperOS",
-    "Chipset": "Mediatek Helio G85 (12 nm)",
-    "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
-    "GPU": "Mali-G52 MC2"
-   },
-   "Memory": {
-    "Card slot": "microSDXC (dedicated slot)",
-    "Internal": "64GB 4GB RAM, 128GB 4GB RAM"
-   },
-   "Main Camera": {
-    "Single": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm",
-    "Video": "1080p@30fps"
-   },
-   "Selfie camera": {
-    "Single": "5 MP, f/2.2, (wide), 1/5.0\", 1.12µm",
-    "Video": "1080p@30fps"
-   },
-   "Sound": {
-    "Loudspeaker": "Yes, with stereo speakers",
-    "3.5mm jack": "Yes"
-   },
-   "Comms": {
-    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
-    "Bluetooth": "5.3, A2DP, LE",
-    "Positioning": "GPS, GALILEO, GLONASS, BDS",
-    "NFC": "No",
-    "Infrared port": "Yes",
-    "Radio": "Unspecified",
-    "USB": "USB Type-C 2.0"
-   },
-   "Features": {
-    "Sensors": "Accelerometer, proximity (accessories only), compass",
-    "info": "Virtual proximity sensing"
-   },
-   "Battery": {
-    "Type": "6650 mAh, non-removable",
-    "Charging": "10W wired"
-   },
-   "Misc": {
-    "Colors": "Forest Green, Ocean Blue, Urban Grey",
-    "Price": "About 120 EUR"
+    "Price": "₹ 11,199"
    }
   }
  },
@@ -187,7 +842,7 @@
     "Type": "Foldable LTPO AMOLED, 1B colors, Dolby Vision, HDR10+, 120Hz, 3000 nits (peak)",
     "Size": "6.86 inches, 108.5 cm2 (~87.5% screen-to-body ratio)",
     "Resolution": "1224 x 2912 pixels (~460 ppi density)",
-    "info": "Second external AMOLED, 68B colors, Dolby Vision, HDR10+, 120Hz, 1600 nits (HBM), 3000 nits (peak)\n4 inches, 1392 x 1208 pixels, 460 ppi\nScratch/drop-resistant glass"
+    "info": "Second external AMOLED, 68B colors, Dolby Vision, HDR10+, 120Hz, 1600 nits (HBM), 3000 nits (peak)\n4 inches, 1392 x 1208 pixels, 460 ppi\nXiaomi Shield Glass"
    },
    "Platform": {
     "OS": "Android 14, HyperOS",
@@ -201,7 +856,7 @@
     "info": "UFS 4.0"
    },
    "Main Camera": {
-    "Dual": "50 MP, f/1.7, 23mm (wide), 1.0µm, PDAF, OIS\n50 MP, f/2.0, 47mm (telephoto), PDAF (9cm - ∞), 2x optical zoom",
+    "Dual": "50 MP, f/1.7, 23mm (wide), 1/1.55\", 1.0µm, PDAF, OIS\n50 MP, f/2.0, 47mm (telephoto), PDAF (9cm - ∞), 2x optical zoom",
     "Features": "LED flash, panorama, HDR, Leica lenses",
     "Video": "8K@24fps, 4K@24/30/60fps, 1080p@30/60/120/240/960fps, 720p@1920fps, Dolby Vision HDR"
    },
@@ -234,7 +889,7 @@
    "Misc": {
     "Colors": "Black, White, Purple",
     "Models": "2405CPX3DC",
-    "Price": "About 760 EUR"
+    "Price": "$ 1,299.00 / £ 1,099.00 / € 1,171.45"
    },
    "Tests": {
     "Performance": "AnTuTu: 1609570 (v10)\nGeekBench: 6035 (v6)\n3DMark Wild life: 15514 (offscreen 1440p)",
@@ -373,8 +1028,8 @@
     "info": "UFS 4.0"
    },
    "Main Camera": {
-    "Quad": "50 MP, f/1.7, 23mm (wide), 1/1.49\", 1.0µm, Laser AF, PDAF, OIS\n50 MP, f/2.0, 47mm (telephoto), PDAF (9cm - ∞), OIS, 2x optical zoom\n10 MP, f/2.9, 115mm (periscope telephoto), PDAF (30cm - ∞), OIS, 5x optical zoom\n12 MP, f/2.2, 15mm, 120˚ (ultrawide)",
-    "Features": "LED flash, HDR, panorama, Leica lenses",
+    "Quad": "50 MP, f/1.7, 23mm (wide), 1/1.49\", 1.0µm, PDAF, OIS\n50 MP, f/2.0, 47mm (telephoto), PDAF (9cm - ∞), OIS, 2x optical zoom\n10 MP, f/2.9, 115mm (periscope telephoto), PDAF (30cm - ∞), OIS, 5x optical zoom\n12 MP, f/2.2, 15mm, 120˚ (ultrawide)",
+    "Features": "Laser AF, LED flash, HDR, panorama, Leica lenses",
     "Video": "8K@24fps, 4K@24/30/60fps, 1080p@30/60/120/240/960fps, 720p@1920fps, Dolby Vision HDR"
    },
    "Selfie camera": {
@@ -424,7 +1079,7 @@
     "3G bands": "HSDPA 850 / 900 / 2100",
     "4G bands": "1, 3, 5, 8, 40, 41",
     "5G bands": "1, 3, 5, 8, 28, 40, 78 SA/NSA",
-    "Speed": "HSPA, LTE"
+    "Speed": "HSPA, LTE, 5G"
    },
    "Launch": {
     "Announced": "2024, July 09",
@@ -433,7 +1088,7 @@
    "Body": {
     "Dimensions": "168.6 x 76.3 x 8.3 mm (6.64 x 3.00 x 0.33 in)",
     "Weight": "205 g (7.23 oz)",
-    "Build": "Glass front (Gorilla Glass 3), glass back",
+    "Build": "Glass front (Gorilla Glass 3), glass back, plastic frame",
     "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
     "info": "IP53, dust and splash resistant"
    },
@@ -487,7 +1142,7 @@
    },
    "Misc": {
     "Colors": "Black Diamond, Hawaiian Blue, Orchid Pink",
-    "Price": "₹ 13,999"
+    "Price": "₹ 13,499"
    }
   }
  },
@@ -567,7 +1222,7 @@
    },
    "Misc": {
     "Colors": "Black, Silver, Purple",
-    "Price": "$ 125.00 / £ 119.00 / € 130.99 / ₹ 13,899"
+    "Price": "$ 156.25 / £ 119.00 / € 124.99 / ₹ 12,499"
    }
   }
  },
@@ -647,7 +1302,7 @@
    },
    "Misc": {
     "Colors": "Cruise Blue, Matcha Green, Shadow Black",
-    "Price": "₹ 38,649"
+    "Price": "₹ 38,398"
    },
    "Tests": {
     "Performance": "AnTuTu: 1530876 (v10)\nGeekBench: 5352 (v6)\n3DMark Wild life: 12587 (offscreen 1440p)",
@@ -735,7 +1390,7 @@
    },
    "Misc": {
     "Colors": "Midnight Black, Sandy Gold, Ocean Blue, Pink",
-    "Price": "$ 135.00 / £ 115.68 / € 128.00"
+    "Price": "$ 158.50 / £ 126.49 / € 121.05"
    },
    "Tests": {
     "Performance": "AnTuTu: 258090 (v9), 262438 (v10)\nGeekBench: 1346 (v5), 1342 (v6)\n3DMark Wild life: 725 (offscreen 1440p)",
@@ -829,7 +1484,7 @@
  },
  {
   "name": "Xiaomi Redmi A3x",
-  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-a3x.jpg",
+  "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-a3x-new.jpg",
   "url": "https://www.gsmarena.com/xiaomi_redmi_a3x-13053.php",
   "codenames": [
    "klein"
@@ -859,13 +1514,13 @@
     "Protection": "Corning Gorilla Glass 3"
    },
    "Platform": {
-    "OS": "Android 14, MIUI",
+    "OS": "Android 14, up to 2 major Android upgrades, MIUI",
     "Chipset": "Unisoc T603 (22 nm)",
     "CPU": "Octa-core 1.8 GHz"
    },
    "Memory": {
     "Card slot": "microSDXC (dedicated slot)",
-    "Internal": "64GB 3GB RAM, 128GB 4GB RAM",
+    "Internal": "64GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM",
     "info": "eMMC 5.1"
    },
    "Main Camera": {
@@ -899,9 +1554,9 @@
     "Charging": "10W wired"
    },
    "Misc": {
-    "Colors": "Midnight Black, Moonlight White, Aurora Green",
+    "Colors": "Midnight Black, Moonlight White (Starry White), Aurora Green (Ocean Green), Olive Green",
     "Models": "24048RN6CG, 24048RN6CI",
-    "Price": "$ 102.50"
+    "Price": "$ 89.00 / ₹ 6,420"
    }
   }
  },
@@ -939,7 +1594,7 @@
     "Protection": "Corning Gorilla Glass 5"
    },
    "Platform": {
-    "OS": "Android 14, HyperOS",
+    "OS": "Android 14, up to 3 major Android upgrades, HyperOS",
     "Chipset": "Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)",
     "CPU": "Octa-core (1x3.2 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)",
     "GPU": "Adreno 740"
@@ -982,7 +1637,7 @@
    },
    "Misc": {
     "Colors": "Black, White",
-    "Price": "$ 487.00 / £ 421.13 / € 450.54"
+    "Price": "$ 469.99 / £ 357.95 / € 415.00"
    },
    "Tests": {
     "Performance": "AnTuTu: 1287854 (v9), 1584439 (v10)\nGeekBench: 4859 (v5), 5310 (v6)",
@@ -1027,7 +1682,7 @@
     "Protection": "Corning Gorilla Glass Victus"
    },
    "Platform": {
-    "OS": "Android 14, HyperOS",
+    "OS": "Android 14, up to 3 major Android upgrades, HyperOS",
     "Chipset": "Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm)",
     "CPU": "Octa-core (1x3.0 GHz Cortex-X4 & 4x2.8 GHz Cortex-A720 & 3x2.0 GHz Cortex-A520)",
     "GPU": "Adreno 735"
@@ -1072,7 +1727,7 @@
    "Misc": {
     "Colors": "Black, Green, Titanium",
     "Models": "24069PC21G",
-    "Price": "$ 409.99 / £ 316.49 / € 296.61 / ₹ 28,599"
+    "Price": "$ 349.99 / £ 275.00 / € 319.11 / ₹ 24,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 1497886 (v10)\nGeekBench: 4883 (v6)\n3DMark Wild life: 11443 (offscreen 1440p)",
@@ -1490,7 +2145,7 @@
     "Colors": "Black, Blue, Green",
     "Models": "2312BPC51H",
     "SAR": "0.84 W/kg (head)     0.77 W/kg (body)",
-    "Price": "₹ 6,899"
+    "Price": "₹ 5,999"
    }
   }
  },
@@ -1571,6 +2226,7 @@
    },
    "Misc": {
     "Colors": "Black, Pink, Blue, Green",
+    "Models": "24053PY09C",
     "Price": "About 380 EUR"
    }
   }
@@ -1654,10 +2310,10 @@
     "Colors": "Astral Black, Horizon Blue, Martian Orange",
     "Models": "MZB0GGWIN",
     "SAR": "0.85 W/kg (head)     0.71 W/kg (body)",
-    "Price": "₹ 14,440"
+    "Price": "₹ 12,999"
    },
    "Tests": {
-    "Performance": "AnTuTu: 2117 (v10)\nGeekBench: 450726 (v6)\n3DMark Wild life: 1335 (offscreen 1440p)",
+    "Performance": "AnTuTu: 450726 (v10)\nGeekBench: 2117 (v6)\n3DMark Wild life: 1335 (offscreen 1440p)",
     "info": ""
    }
   }
@@ -1697,7 +2353,7 @@
     "Protection": "Corning Gorilla Glass Victus"
    },
    "Platform": {
-    "OS": "Android 14, HyperOS",
+    "OS": "Android 14, up to 4 major Android upgrades, HyperOS",
     "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
     "CPU": "Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520)",
     "GPU": "Adreno 750"
@@ -1708,8 +2364,8 @@
     "info": "UFS 4.0"
    },
    "Main Camera": {
-    "Triple": "50 MP, f/1.6, 23mm (wide), 1/1.31\", 1.2µm, dual pixel PDAF, Laser AF, OIS\n50 MP, f/2.0, 75mm (telephoto), PDAF (10cm - ∞), OIS, 3.2x optical zoom\n50 MP, f/2.2, 14mm, 115˚ (ultrawide)",
-    "Features": "Leica lens, Dual-LED dual-tone flash, HDR, panorama",
+    "Triple": "50 MP, f/1.6, 23mm (wide), 1/1.31\", 1.2µm, dual pixel PDAF, OIS\n50 MP, f/2.0, 75mm (telephoto), PDAF (10cm - ∞), OIS, 3.2x optical zoom\n50 MP, f/2.2, 14mm, 115˚ (ultrawide)",
+    "Features": "Laser AF, Leica lens, Dual-LED dual-tone flash, HDR, panorama",
     "Video": "8K@24fps (HDR), 4K@24/30/60fps (HDR10+, 10-bit Dolby Vision HDR, 10-bit LOG), 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS"
    },
    "Selfie camera": {
@@ -1741,7 +2397,7 @@
    "Misc": {
     "Colors": "Black, White, Jade Green, Pink",
     "Models": "23127PN0CC, 23127PN0CG",
-    "Price": "$ 727.20 / £ 828.44 / € 773.00 / ₹ 53,999"
+    "Price": "$ 191.86 / £ 749.99 / € 702.74 / ₹ 42,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 2003429 (v10)\nGeekBench: 6810 (v6)\n3DMark Wild life: 15389 (offscreen 1440p)",
@@ -1787,7 +2443,7 @@
     "Protection": "Xiaomi Shield Glass / Xiaomi Longjing Glass"
    },
    "Platform": {
-    "OS": "Android 14, HyperOS",
+    "OS": "Android 14, up to 4 major Android upgrades, HyperOS",
     "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
     "CPU": "Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520)",
     "GPU": "Adreno 750"
@@ -1798,8 +2454,8 @@
     "info": "UFS 4.0"
    },
    "Main Camera": {
-    "Quad": "50 MP, f/1.6-f/4.0, 23mm (wide), 1.0\"-type, 1.6µm, multi-directional PDAF, Laser AF, OIS\n50 MP, f/1.8, 75mm (telephoto), 1/2.51\", 0.7µm, dual pixel PDAF (10cm - ∞), OIS, 3.2x optical zoom\n50 MP, f/2.5, 120mm (periscope telephoto), 1/2.51\", 0.7µm, dual pixel PDAF (30cm - ∞), OIS, 5x optical zoom\n50 MP, f/1.8, 12mm, 122˚ (ultrawide), 1/2.51\", 0.7µm, dual pixel PDAF\nTOF 3D, (depth)",
-    "Features": "Leica lenses, Dual-LED flash, HDR, panorama, 67mm filter ring holder (optional)",
+    "Quad": "50 MP, f/1.6-f/4.0, 23mm (wide), 1.0\"-type, 1.6µm, multi-directional PDAF, OIS\n50 MP, f/1.8, 75mm (telephoto), 1/2.51\", 0.7µm, dual pixel PDAF (10cm - ∞), OIS, 3.2x optical zoom\n50 MP, f/2.5, 120mm (periscope telephoto), 1/2.51\", 0.7µm, dual pixel PDAF (30cm - ∞), OIS, 5x optical zoom\n50 MP, f/1.8, 12mm, 122˚ (ultrawide), 1/2.51\", 0.7µm, dual pixel PDAF\nTOF 3D, (depth)",
+    "Features": "Laser AF, Leica lenses, Dual-LED flash, HDR, panorama, 67mm filter ring holder (optional)",
     "Video": "8K@24/30fps, 4K@24/30/60/120fps, 1080p@30/60/120/240/480/960/1920fps, gyro-EIS, Dolby Vision HDR 10-bit rec. (4K@60fps, 1080p)"
    },
    "Selfie camera": {
@@ -1831,8 +2487,8 @@
    },
    "Misc": {
     "Colors": "Black, Blue, White, Titanium Gray",
-    "Models": "24031PN0DC",
-    "Price": "$ 1,130.00 / £ 1,265.00 / € 1,056.31 / ₹ 99,999"
+    "Models": "24031PN0DC, 24030PN60G",
+    "Price": "$ 1,085.00 / £ 1,071.29 / € 1,095.00"
    },
    "Tests": {
     "Performance": "AnTuTu: 2014262 (v10)\nGeekBench: 7060 (v6)\n3DMark Wild life: 17244 (offscreen 1440p)",
@@ -1876,7 +2532,7 @@
     "Protection": "Corning Gorilla Glass 5"
    },
    "Platform": {
-    "OS": "Android 14, HyperOS",
+    "OS": "Android 14, up to 3 major Android upgrades, HyperOS",
     "Chipset": "Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)",
     "CPU": "Octa-core (1x3.2 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)",
     "GPU": "Adreno 740"
@@ -2002,7 +2658,7 @@
    "Misc": {
     "Colors": "Midnight Black, Forest Green (Olive Green), Star Blue (Lake Blue)",
     "Models": "23129RN51X",
-    "Price": "$ 89.00 / £ 195.00 / € 81.48 / ₹ 6,999"
+    "Price": "$ 85.00 / £ 88.75 / € 75.55 / ₹ 7,499"
    }
   }
  },
@@ -2039,14 +2695,14 @@
     "Protection": "Corning Gorilla Glass 5"
    },
    "Platform": {
-    "OS": "Android 13, MIUI 14",
+    "OS": "Android 13, up to 3 major Android upgrades, HyperOS",
     "Chipset": "Mediatek Helio G99 Ultra",
     "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
     "GPU": "Mali-G57 MC2"
    },
    "Memory": {
     "Card slot": "microSDXC",
-    "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 512GB 8GB RAM, 512GB 12GB RAM",
+    "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 8GB RAM, 512GB 12GB RAM",
     "info": "UFS 2.2"
    },
    "Main Camera": {
@@ -2082,7 +2738,7 @@
    "Misc": {
     "Colors": "Midnight Black, Lavender Purple, Forest Green",
     "Models": "23117RA68G, 2312FPCA6G",
-    "Price": "$ 204.60 / C$ 406.79 / £ 310.99 / € 216.13"
+    "Price": "$ 200.00 / C$ 417.03 / £ 246.00 / € 194.00"
    },
    "Tests": {
     "Performance": "AnTuTu: 382881 (v9), 428545 (v10)\nGeekBench: 1844 (v5), 1942 (v6)\nGFXBench ES 3.1: 15fps (offscreen 1080p)",
@@ -2128,7 +2784,7 @@
     "Protection": "Corning Gorilla Glass 3"
    },
    "Platform": {
-    "OS": "Android 13, MIUI 14",
+    "OS": "Android 13, up to 3 major Android upgrades, HyperOS",
     "Chipset": "Qualcomm SM6225 Snapdragon 685 (6 nm)",
     "CPU": "Octa-core (4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53)",
     "GPU": "Adreno 610"
@@ -2170,7 +2826,7 @@
    "Misc": {
     "Colors": "Midnight Black, Mint Green, Ice Blue, Ocean Sunset",
     "Models": "23129RAA4G, 23124RA7EO",
-    "Price": "$ 154.00 / € 149.96"
+    "Price": "$ 132.69 / £ 137.00 / € 137.40"
    },
    "Tests": {
     "Performance": "AnTuTu: 316857 (v9), 383407 (v10)\nGeekBench: 1817 (v5), 1542 (v6)\n3DMark Wild life: 655 (offscreen 1440p)",
@@ -2217,7 +2873,7 @@
     "info": "Always-on display"
    },
    "Platform": {
-    "OS": "Android 13, upgradable to Android 14, HyperOS",
+    "OS": "Android 13, up to 3 major Android upgrades, HyperOS",
     "Chipset": "Mediatek Dimensity 7200 Ultra (4 nm)",
     "CPU": "Octa-core (2x2.8 GHz Cortex-A715 & 6x2.0 GHz Cortex-A510)",
     "GPU": "Mali-G610 MC4"
@@ -2261,7 +2917,7 @@
    "Misc": {
     "Colors": "Midnight Black (Fushion Black), Moonlight White (Fushion White), Aurora Purple, Fushion Purple, Camo Green",
     "Models": "23090RA98C, 23090RA98G, 23090RA98I",
-    "Price": "$ 337.50 / C$ 609.43 / £ 349.00 / € 309.00 / ₹ 27,999"
+    "Price": "$ 327.00 / C$ 592.21 / £ 349.00 / € 294.99 / ₹ 23,824"
    },
    "Tests": {
     "Performance": "AnTuTu: 683899 (v9), 779812 (v10)\nGeekBench: 2353 (v5), 2597 (v6)\n3DMark Wild life: 4341 (offscreen 1440p)",
@@ -2308,7 +2964,7 @@
     "info": "Always-on display"
    },
    "Platform": {
-    "OS": "Android 13, upgradable to Android 14, HyperOS",
+    "OS": "Android 13, up to 3 major Android upgrades, HyperOS",
     "Chipset": "Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm)",
     "CPU": "Octa-core (4x2.40 GHz Cortex-A78 & 4x1.95 GHz Cortex-A55)",
     "GPU": "Adreno 710"
@@ -2353,7 +3009,7 @@
    "Misc": {
     "Colors": "Midnight Black, Aurora Purple (Coral Purple), Ocean Teal, Arctic White, Olive Green, Scarlet Red",
     "Models": "2312DRA50C, 2312CRAD3C, 2312DRA50G, 2312DRA50I",
-    "Price": "$ 233.23 / £ 264.00 / € 289.00 / ₹ 24,999"
+    "Price": "$ 222.90 / £ 253.99 / € 256.99 / ₹ 21,740"
    },
    "Tests": {
     "Performance": "AnTuTu: 523746 (v9), 581979 (v10)\nGeekBench: 2695 (v5), 2751 (v6)",
@@ -2402,7 +3058,7 @@
     "info": "*1B colors (market/region dependent)"
    },
    "Platform": {
-    "OS": "Android 13, upgradable to Android 14, HyperOS",
+    "OS": "Android 13, up to 3 major Android upgrades, HyperOS",
     "Chipset": "Mediatek Dimensity 6080 (6 nm)",
     "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
     "GPU": "Mali-G57 MC2"
@@ -2446,7 +3102,7 @@
    "Misc": {
     "Colors": "Graphite black (Stealth Black), Arctic White, Ocean Teal, Prism Gold",
     "Models": "2312DRAABG, 2312DRAABI",
-    "Price": "$ 204.50 / £ 149.00 / € 200.00 / ₹ 16,148"
+    "Price": "$ 112.58 / £ 135.00 / € 198.97 / ₹ 14,274"
    },
    "Tests": {
     "Performance": "AnTuTu: 405118 (v9), 455421 (v10)\nGeekBench: 1968 (v5), 1978 (v6)\n3DMark Wild life: 1334 (offscreen 1440p)",
@@ -2491,7 +3147,7 @@
     "Protection": "Corning Gorilla Glass 5"
    },
    "Platform": {
-    "OS": "Android 14, HyperOS",
+    "OS": "Android 14, up to 3 major Android upgrades, HyperOS",
     "Chipset": "Mediatek Dimensity 8300 Ultra (4 nm)",
     "CPU": "Octa-core (1x3.35 GHz Cortex-A715 & 3x3.20 GHz Cortex-A715 & 4x2.20 GHz Cortex-A510)",
     "GPU": "Mali G615-MC6"
@@ -2536,7 +3192,7 @@
    "Misc": {
     "Colors": "Black, Yellow, Gray",
     "Models": "2311DRK48G, 2311DRK48I",
-    "Price": "$ 271.03 / £ 247.47 / € 245.02 / ₹ 28,999"
+    "Price": "$ 283.50 / £ 279.00 / € 256.00 / ₹ 23,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 1396547 (v10)\nGeekBench: 4696 (v6)",
@@ -2583,7 +3239,7 @@
     "Protection": "Corning Gorilla Glass Victus"
    },
    "Platform": {
-    "OS": "Android 13, MIUI 14, planned upgrade to Android 14, HyperOS",
+    "OS": "Android 13, up to 3 major Android upgrades, HyperOS",
     "Chipset": "Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm)",
     "CPU": "Octa-core (4x2.40 GHz Cortex-A78 & 4x1.95 GHz Cortex-A55)",
     "GPU": "Adreno 710"
@@ -2627,7 +3283,7 @@
    "Misc": {
     "Colors": "Black, White, Blue",
     "Models": "23122PCD1G, 23122PCD1I",
-    "Price": "$ 231.30 / C$ 479.44 / £ 284.99 / € 208.92 / ₹ 15,999"
+    "Price": "$ 228.00 / C$ 520.39 / £ 284.99 / € 216.57 / ₹ 14,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 533112 (v9), 605803 (v10)\nGeekBench: 2945 (v6)\n3DMark Wild Life: 3032 (offscreen 1440p)",
@@ -2715,7 +3371,7 @@
    },
    "Misc": {
     "Colors": "Black, Blue, Purple",
-    "Price": "$ 123.37 / £ 199.00 / € 175.61"
+    "Price": "$ 176.25 / £ 179.00 / € 168.09"
    },
    "Tests": {
     "Performance": "AnTuTu: 386301 (v9), 428531 (v10)\nGeekBench: 1892 (v5), 1979 (v6)\nGFXBench ES 3.1: 15fps (offscreen 1080p)",
@@ -2803,7 +3459,7 @@
    "Misc": {
     "Colors": "Galactic Black, Orion Blue",
     "Models": "23128PC33I",
-    "Price": "₹ 8,999"
+    "Price": "₹ 7,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 407997 (v10)\nGeekBench: 1954 (v6)\n3DMark Wild life: 1202 (offscreen 1440p)",
@@ -2966,7 +3622,7 @@
    "Misc": {
     "Colors": "Starlight Black, Startrail Green, Startrail Silver",
     "Models": "23124RN87G, 23124RN87I, 23124RN87C",
-    "Price": "$ 209.99 / £ 335.00 / € 147.00 / ₹ 10,499"
+    "Price": "$ 209.99 / £ 122.94 / € 139.00 / ₹ 8,749"
    }
   }
  },
@@ -3367,7 +4023,7 @@
    "Misc": {
     "Colors": "Midnight Black, Navy Blue, Glacier White, Clover Green",
     "Models": "23100RN82L, 23106RN0DA, 23108RN04Y, 2311DRN14I",
-    "Price": "$ 109.00 / £ 105.00 / € 106.98 / ₹ 7,699"
+    "Price": "$ 119.50 / C$ 271.53 / £ 107.00 / € 105.00 / ₹ 7,999"
    }
   }
  },
@@ -3448,7 +4104,7 @@
    "Misc": {
     "Colors": "Black, Blue, Purple",
     "Models": "2310FPCA4G",
-    "Price": "$ 105.00 / £ 117.23 / € 104.07 / ₹ 6,999"
+    "Price": "$ 105.00 / £ 99.91 / € 111.00 / ₹ 6,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 242885 (v9), 261613 (v10)\nGeekBench: 1201 (v5), 1292 (v6)",
@@ -3506,8 +4162,8 @@
     "info": "UFS 4.0"
    },
    "Main Camera": {
-    "Triple": "50 MP, f/1.4-f/4.0, 23mm (wide), 1/1.31\", 1.2µm, dual pixel PDAF, Laser AF, OIS\n50 MP, f/2.0, 75mm (telephoto), PDAF (10cm - ∞), OIS, 3.2x optical zoom\n50 MP, f/2.2, 14mm, 115˚ (ultrawide), AF",
-    "Features": "Leica lens, Dual-LED dual-tone flash, HDR, panorama",
+    "Triple": "50 MP, f/1.4-f/4.0, 23mm (wide), 1/1.31\", 1.2µm, dual pixel PDAF, OIS\n50 MP, f/2.0, 75mm (telephoto), PDAF (10cm - ∞), OIS, 3.2x optical zoom\n50 MP, f/2.2, 14mm, 115˚ (ultrawide), AF",
+    "Features": "Laser AF, Leica lens, Dual-LED dual-tone flash, HDR, panorama",
     "Video": "8K@24fps (HDR), 4K@24/30/60fps (HDR10+, 10-bit Dolby Vision HDR, 10-bit LOG), 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS"
    },
    "Selfie camera": {
@@ -3578,7 +4234,7 @@
     "Protection": "Corning Gorilla Glass 5"
    },
    "Platform": {
-    "OS": "Android 13, upgradable to Android 14, HyperOS",
+    "OS": "Android 13, up to 4 major Android upgrades, HyperOS",
     "Chipset": "Mediatek Dimensity 9200+ (4 nm)",
     "CPU": "Octa-core (1x3.35 GHz Cortex-X3 & 3x3.0 GHz Cortex-A715 & 4x2.0 GHz Cortex-A510)",
     "GPU": "Immortalis-G715 MC11"
@@ -3604,7 +4260,7 @@
     "info": "24-bit/192kHz Hi-Res audio"
    },
    "Comms": {
-    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual/tri-band (market/region dependent), Wi-Fi Direct",
     "Bluetooth": "5.4, A2DP, LE",
     "Positioning": "GPS (L1+L5), GLONASS (G1), GALILEO (E1+E5a), NavIC (L5), BDS",
     "NFC": "Yes",
@@ -3622,7 +4278,7 @@
    "Misc": {
     "Colors": "Alpine Blue, Meadow Green, Black",
     "Models": "23078PND5G",
-    "Price": "$ 584.35 / £ 542.68 / € 531.90"
+    "Price": "$ 450.00 / £ 410.00 / € 524.32"
    },
    "Tests": {
     "Performance": "AnTuTu: 1214085 (v9), 1470464 (v10)\nGeekBench: 4859 (v5), 4518 (v6)\nGFXBench: 84fps (ES 3.1 onscreen)",
@@ -3669,7 +4325,7 @@
     "Protection": "Corning Gorilla Glass 5"
    },
    "Platform": {
-    "OS": "Android 13, upgradable to Android 14, HyperOS",
+    "OS": "Android 13, up to 4 major Android upgrades, HyperOS",
     "Chipset": "Mediatek Dimensity 8200 Ultra (4 nm)",
     "CPU": "Octa-core (1x3.1 GHz Cortex-A78 & 3x3.0 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
     "GPU": "Mali-G610 MC6"
@@ -3713,7 +4369,7 @@
    "Misc": {
     "Colors": "Alpine Blue, Meadow Green, Black",
     "Models": "2306EPN60G",
-    "Price": "$ 489.99 / £ 371.52 / € 376.73"
+    "Price": "$ 480.00 / £ 374.24 / € 346.89"
    },
    "Tests": {
     "Performance": "AnTuTu: 825858 (v9), 888714 (v10)\nGeekBench: 3755 (v5), 3841 (v6)\nGFXBench: 43fps (ES 3.1 onscreen)",
@@ -4303,7 +4959,7 @@
    "Misc": {
     "Colors": "Jade Black, Pastel Blue, Moonstone Silver",
     "Models": "23076RN4BI, 23076RN8DY",
-    "Price": "€ 145.99 / ₹ 12,299"
+    "Price": "€ 200.00 / ₹ 11,999"
    }
   }
  },
@@ -4545,8 +5201,8 @@
    },
    "Misc": {
     "Colors": "Midnight Black, Sky Blue, Polar Silver, Moonstone Silver",
-    "Models": "23053RN02A, 23053RN02Y, 23053RN02I, 23053RN02L",
-    "Price": "$ 119.00 / £ 99.99 / € 106.50 / ₹ 9,139"
+    "Models": "23053RN02A, 23053RN02Y, 23053RN02I, 23053RN02L, 23077RABDC",
+    "Price": "$ 119.00 / C$ 216.90 / £ 97.99 / € 100.11 / ₹ 8,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 258006 (v9)\nGeekBench: 1303 (v5.1), 1380 (v6)\nGFXBench: 9fps (ES 3.1 onscreen)",
@@ -4798,7 +5454,7 @@
    "Misc": {
     "Colors": "Black, White",
     "Models": "23013PC75G",
-    "Price": "$ 431.80 / £ 450.05 / € 419.00"
+    "Price": "$ 429.99 / £ 385.00 / € 399.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 1057977 (v9)\nGeekBench: 4001 (v5.1), 4009 (v6)\nGFXBench: 50fps (ES 3.1 onscreen)",
@@ -4887,7 +5543,7 @@
    "Misc": {
     "Colors": "Black, Blue, White",
     "Models": "23049PCD8G, 23049PCD8I",
-    "Price": "$ 330.00 / £ 290.75 / € 263.14 / ₹ 22,599"
+    "Price": "$ 350.90 / £ 355.88 / € 290.85 / ₹ 18,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 931174 (v9)\nGeekBench: 3939 (v5.1), 4348 (v6)\nGFXBench: 66fps (ES 3.1 onscreen)",
@@ -4946,8 +5602,8 @@
     "info": "UFS 4.0"
    },
    "Main Camera": {
-    "Quad": "50 MP, f/1.9 or f/4.0, 23mm (wide), 1.0\"-type, 1.6µm, multi-directional PDAF, Laser AF, OIS\n50 MP, f/1.8, 75mm (telephoto), 1/2.51\", 0.7µm, dual pixel PDAF, OIS, 3.2x optical zoom\n50 MP, f/3.0, 120mm (periscope telephoto), 1/2.51\", 0.7µm, dual pixel PDAF, OIS, 5x optical zoom\n50 MP, f/1.8, 12mm, 122˚ (ultrawide), 1/2.51\", 0.7µm, dual pixel PDAF\nTOF 3D, (depth)",
-    "Features": "Leica lenses, Dual-LED flash, HDR, panorama, 67mm filter ring holder (optional)",
+    "Quad": "50 MP, f/1.9 or f/4.0, 23mm (wide), 1.0\"-type, 1.6µm, multi-directional PDAF, OIS\n50 MP, f/1.8, 75mm (telephoto), 1/2.51\", 0.7µm, dual pixel PDAF, OIS, 3.2x optical zoom\n50 MP, f/3.0, 120mm (periscope telephoto), 1/2.51\", 0.7µm, dual pixel PDAF, OIS, 5x optical zoom\n50 MP, f/1.8, 12mm, 122˚ (ultrawide), 1/2.51\", 0.7µm, dual pixel PDAF\nTOF 3D, (depth)",
+    "Features": "Laser AF, Leica lenses, Dual-LED flash, HDR, panorama, 67mm filter ring holder (optional)",
     "Video": "8K@24fps, 4K@24/30/60fps, 1080p@30/60/120/240/480/960/1920fps, gyro-EIS, Dolby Vision HDR 10-bit rec. (4K@60fps, 1080p)"
    },
    "Selfie camera": {
@@ -4979,7 +5635,7 @@
    "Misc": {
     "Colors": "Black, Olive Green, White, Orange, Yellow, Blue",
     "Models": "2304FPN6DC, 2304FPN6DG",
-    "Price": "$ 839.50"
+    "Price": "$ 1,178.00"
    },
    "Tests": {
     "Performance": "AnTuTu: 1268538 (v9)\nGeekBench: 5049 (v5.1), 5556 (v6)\nGFXBench: 110fps (ES 3.1 onscreen)",
@@ -5227,7 +5883,7 @@
     "Colors": "Power Black, Royal Blue",
     "Models": "MZB0E6DIN, MZB0DXKIN, 2302EPCC4I, 2305EPCC4G",
     "SAR": "0.97 W/kg (head)     0.87 W/kg (body)",
-    "Price": "₹ 7,999"
+    "Price": "₹ 6,999"
    }
   }
  },
@@ -5303,7 +5959,7 @@
    "Misc": {
     "Colors": "Onyx Black, Ice Blue, Pearl Green",
     "Models": "2303CRA44A, 23030RAC7Y, 2303ERA42L",
-    "Price": "$ 140.00 / £ 171.12 / € 172.29"
+    "Price": "$ 128.82 / £ 142.25 / € 149.67"
    }
   }
  },
@@ -5379,7 +6035,7 @@
    "Misc": {
     "Colors": "Star Blue, Graphite Gray, Polar White, Ice blue",
     "Models": "‎2209116AG, 2209116AG",
-    "Price": "$ 196.00 / £ 359.00 / € 187.81"
+    "Price": "$ 144.99 / € 173.99"
    }
   }
  },
@@ -5535,7 +6191,7 @@
    "Misc": {
     "Colors": "Aqua Blue, Classic Black, Sea Green",
     "Models": "23028RNCAG, 23028RN4DI, 23028RNCAI",
-    "Price": "$ 84.99 / € 94.85"
+    "Price": "$ 74.99 / £ 45.00"
    }
   }
  },
@@ -5611,7 +6267,7 @@
    "Misc": {
     "Colors": "Aqua Blue, Classic Black, Sea Green",
     "Models": "23028RN4DG, 23026RN54G",
-    "Price": "$ 74.38 / £ 49.99 / € 64.23 / ₹ 5,999"
+    "Price": "$ 62.87 / £ 73.51 / € 78.50 / ₹ 5,669"
    }
   }
  },
@@ -5692,7 +6348,7 @@
    "Misc": {
     "Colors": "Onyx Gray, Mint Green, Ice Blue",
     "Models": "23021RAAEG, 23021RAA2Y, 23027RAD4I, 23028RA60L",
-    "Price": "$ 132.05 / £ 109.00 / € 117.48 / ₹ 11,980"
+    "Price": "$ 153.02 / £ 101.67 / € 139.83 / ₹ 9,490"
    },
    "Tests": {
     "Performance": "AnTuTu: 319219 (v9)\nGeekBench: 1797 (v5.1), 1341 (v6)\nGFXBench: 7.5fps (ES 3.1 onscreen)",
@@ -5750,8 +6406,8 @@
     "info": "UFS 3.1 - 128GB\nUFS 4.0 - 256/512GB"
    },
    "Main Camera": {
-    "Triple": "50.3 MP, f/1.9, 23mm (wide), 1.0\"-type, 1.6µm, dual pixel PDAF, Laser AF, OIS\n50 MP, f/2.0, 75mm (telephoto), PDAF (10cm - ∞), 3.2x optical zoom\n50 MP, f/2.2, 14mm, 115˚ (ultrawide), AF",
-    "Features": "Leica lens, Dual-LED dual-tone flash, HDR, panorama",
+    "Triple": "50.3 MP, f/1.9, 23mm (wide), 1.0\"-type, 1.6µm, dual pixel PDAF, OIS\n50 MP, f/2.0, 75mm (telephoto), PDAF (10cm - ∞), 3.2x optical zoom\n50 MP, f/2.2, 14mm, 115˚ (ultrawide), AF",
+    "Features": "Laser AF, Leica lens, Dual-LED dual-tone flash, HDR, panorama",
     "Video": "8K@24fps (HDR), 4K@24/30/60fps (HDR10+, 10-bit Dolby Vision HDR, 10-bit LOG), 1080p@30/120/240/960fps, 1080p@1920fps, gyro-EIS"
    },
    "Selfie camera": {
@@ -5783,7 +6439,7 @@
    "Misc": {
     "Colors": "Ceramic White, Ceramic Black, Ceramic Flora Green, Mountain Blue",
     "Models": "2210132G, 2210132C",
-    "Price": "₹ 85,944"
+    "Price": "£ 477.78"
    },
    "Tests": {
     "Performance": "AnTuTu: 1281666 (v9)\nGeekBench: 5087 (v5.1), 5323 (v6)\nGFXBench: 64fps (ES 3.1 onscreen)",
@@ -5875,7 +6531,7 @@
    "Misc": {
     "Colors": "White, Black, Flora Green, Mountain Blue, Red, Blue, Yellow, Green, Gray",
     "Models": "2211133C, 2211133G",
-    "Price": "€ 519.36"
+    "Price": "€ 627.64"
    },
    "Tests": {
     "Performance": "AnTuTu: 1248260 (v9)\nGeekBench: 5129 (v5.1)\nGFXBench: 109fps (ES 3.1 onscreen)",
@@ -5964,7 +6620,7 @@
    },
    "Misc": {
     "Colors": "Black, Lite Blue, Lite Pink",
-    "Price": "$ 330.00 / € 248.87"
+    "Price": "$ 320.00 / £ 341.68 / € 273.41"
    },
    "Tests": {
     "Performance": "AnTuTu: 534143 (v9)\nGeekBench: 2936 (v5.1), 2434 (v6)\nGFXBench: 33fps (ES 3.1 onscreen)",
@@ -6053,7 +6709,7 @@
     "Colors": "Cool Blue, Power Black, Forest Green",
     "Models": "22127PC95I",
     "SAR": "0.87 W/kg (head)     0.77 W/kg (body)",
-    "Price": "₹ 7,999"
+    "Price": "₹ 6,499"
    }
   }
  },
@@ -6136,7 +6792,7 @@
    "Misc": {
     "Colors": "Astral Black, Horizon Blue, Poco Yellow",
     "Models": "22101320G, 22101320I",
-    "Price": "$ 241.19 / £ 276.85 / € 271.72 / ₹ 14,990"
+    "Price": "$ 249.29 / £ 268.91 / € 229.00 / ₹ 17,599"
    },
    "Tests": {
     "Performance": "AnTuTu: 531398 (v9)\nGeekBench: 2930 (v5.1)\nGFXBench: 28fps (ES 3.1 onscreen)",
@@ -6227,7 +6883,7 @@
     "Colors": "Jaguar Black, Wildcat Blue, Supernova Green",
     "Models": "22111317PG, 22111317PI",
     "SAR": "0.84 W/kg (head)     0.68 W/kg (body)",
-    "Price": "$ 149.50 / € 174.27"
+    "Price": "$ 213.50 / € 222.85"
    },
    "Tests": {
     "Performance": "AnTuTu: 400895 (v9)\nGeekBench: 2088 (v5.1)",
@@ -6316,7 +6972,7 @@
    "Misc": {
     "Colors": "Frosted Green, Matte Black, Mystique Blue",
     "Models": "22111317I, 22111317G",
-    "Price": "$ 170.00 / £ 119.00 / € 90.00 / ₹ 11,649"
+    "Price": "$ 159.99 / £ 156.99 / € 99.99 / ₹ 10,998"
    },
    "Tests": {
     "Performance": "AnTuTu: 360745 (v9)\nGeekBench: 1998\t(v5.1), 2017 (v6)",
@@ -6802,7 +7458,7 @@
    "Misc": {
     "Colors": "Graphite Gray, Ocean Blue, Mint Green, Lavender Purple",
     "Models": "22120RN86G, 22120RN86I, 22126RN91Y, 2212ARNC4L",
-    "Price": "$ 95.99 / £ 74.00 / € 86.99"
+    "Price": "$ 95.99 / £ 57.00 / € 87.99"
    }
   }
  },
@@ -6923,7 +7579,7 @@
     "Protection": "Corning Gorilla Glass 5"
    },
    "Platform": {
-    "OS": "Android 12, MIUI 13",
+    "OS": "Android 12, upgradable to Android 14, HyperOS",
     "Chipset": "Mediatek Dimensity 1080 (6 nm)",
     "CPU": "Octa-core (2x2.6 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
     "GPU": "Mali-G68 MC4"
@@ -6967,7 +7623,7 @@
    "Misc": {
     "Colors": "Arctic White, Iceberg Blue, Obsidian Black, Trend edition",
     "Models": "22101316UCP, 22101316UG",
-    "Price": "$ 275.00 / £ 241.86 / € 233.31 / ₹ 18,999"
+    "Price": "$ 225.00 / £ 222.86 / € 237.48 / ₹ 18,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 498710 (v9)\nGeekBench: 2208 (v5.1), 2372 (v6)\nGFXBench: 22fps (ES 3.1 onscreen)",
@@ -7059,7 +7715,7 @@
    "Misc": {
     "Colors": "Frosted Blue (Sky Blue), Onyx Black (Midnight Black), Polar White, Stardust Purple",
     "Models": "22101316C, 22101316I, 23013RK75C, 22101316G",
-    "Price": "$ 199.99 / £ 167.00 / € 189.00 / ₹ 15,198"
+    "Price": "$ 162.99 / £ 192.70 / € 178.74 / ₹ 15,499"
    },
    "Tests": {
     "Performance": "AnTuTu: 490526 (v9)\nGeekBench: 2209 (v5.1), 2372 (v6)\nGFXBench: 22fps (ES 3.1 onscreen)",
@@ -7112,7 +7768,7 @@
    },
    "Memory": {
     "Card slot": "No",
-    "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+    "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",
     "info": "UFS 2.2"
    },
    "Main Camera": {
@@ -7232,7 +7888,7 @@
     "Models": "22081212UG, 22081212G",
     "SAR": "1.08 W/kg (head)     1.07 W/kg (body)",
     "SAR EU": "1.00 W/kg (head)     1.00 W/kg (body)",
-    "Price": "€ 294.99"
+    "Price": "€ 335.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 1032185 (v9)\nGeekBench: 4081 (v5.1)\nGFXBench: 65fps (ES 3.1 onscreen)",
@@ -7322,7 +7978,7 @@
     "Models": "22071212AG",
     "SAR": "1.09 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.99 W/kg (head)     0.99 W/kg (body)",
-    "Price": "£ 299.00 / € 183.71"
+    "Price": "£ 290.00 / € 183.44"
    },
    "Tests": {
     "Performance": "AnTuTu: 780204 (v9)\nGeekBench: 3756 (v5.1)",
@@ -7571,7 +8227,7 @@
     "Models": "220733SFG",
     "SAR": "1.00 W/kg (head)     1.10 W/kg (body)",
     "SAR EU": "0.91 W/kg (head)     1.00 W/kg (body)",
-    "Price": "€ 103.46"
+    "Price": "£ 76.67 / € 82.99 / ₹ 6,990"
    }
   }
  },
@@ -7890,7 +8546,7 @@
     "Models": "220733SI, 220733SG, 220733SL, 220743FI, 220733SH",
     "SAR": "1.10 W/kg (head)     1.03 W/kg (body)",
     "SAR EU": "0.85 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 69.00 / £ 64.99 / € 69.33"
+    "Price": "$ 69.00 / £ 64.99 / € 74.09"
    }
   }
  },
@@ -7973,7 +8629,7 @@
     "Models": "2207117BPG",
     "SAR": "1.00 W/kg (head)     0.65 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.87 W/kg (body)",
-    "Price": "$ 107.00 / £ 140.00 / € 137.89"
+    "Price": "$ 108.53 / £ 125.00 / € 129.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 360681 (v9)\nGeekBench: 1831 (v5.1)\nGFXBench: 18fps (ES 3.1 onscreen)",
@@ -8017,7 +8673,7 @@
     "Protection": "Corning Gorilla Glass 3"
    },
    "Platform": {
-    "OS": "Android 12, MIUI 13",
+    "OS": "Android 12, upgradable to Android 14, HyperOS",
     "Chipset": "Mediatek Helio G99 (6 nm)",
     "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
     "GPU": "Mali-G57 MC2"
@@ -8061,7 +8717,7 @@
     "Models": "22071219CG",
     "SAR": "1.04 W/kg (head)     0.83 W/kg (body)",
     "SAR EU": "0.52 W/kg (head)     0.83 W/kg (body)",
-    "Price": "$ 134.87 / £ 144.00 / € 112.38"
+    "Price": "$ 164.99 / £ 141.35 / € 107.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 386311 (v9)\nGeekBench: 1896 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
@@ -8316,7 +8972,7 @@
     "Models": "22041219PG",
     "SAR": "1.09 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 164.00 / € 129.89"
+    "Price": "$ 160.00 / € 182.40"
    },
    "Tests": {
     "Performance": "AnTuTu: 336380 (v9)\nGeekBench: 1730 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
@@ -8651,7 +9307,7 @@
    "Misc": {
     "Colors": "Phantom Blue, Stealth Black, Quick Silver",
     "Models": "22041216I",
-    "Price": "₹ 15,899"
+    "Price": "₹ 18,999"
    }
   }
  },
@@ -8688,7 +9344,7 @@
     "Protection": "Corning Gorilla Glass 5"
    },
    "Platform": {
-    "OS": "Android 12, MIUI 13",
+    "OS": "Android 12, up to Android 14, HyperOS",
     "Chipset": "Qualcomm SM7325 Snapdragon 778G 5G (6 nm)",
     "CPU": "Octa-core (1x2.4 GHz Cortex-A78 & 3x2.2 GHz Cortex-A78 & 4x1.9 GHz Cortex-A55)",
     "GPU": "Adreno 642L"
@@ -8735,7 +9391,7 @@
     "Models": "2203129G",
     "SAR": "1.09 W/kg (head)     0.73 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 224.99 / € 203.45"
+    "Price": "$ 199.99 / £ 154.30 / € 179.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 528905 (v9)\nGeekBench: 2943 (v5.1)\nGFXBench: 29fps (ES 3.1 onscreen)",
@@ -8793,8 +9449,8 @@
     "info": "UFS 3.1"
    },
    "Main Camera": {
-    "Triple": "50 MP, f/1.9, 23mm (wide), 1.0\"-type, 1.6µm, dual pixel PDAF, Laser AF, OIS\n48 MP, f/4.1, 120mm (periscope telephoto), 1/2.0\", 0.8µm, PDAF, OIS, 5x optical zoom\n48 MP, f/2.2, 13mm, 128˚ (ultrawide), 1/2.0\", 0.8µm, dual pixel PDAF\nTOF 3D, (depth)",
-    "Features": "Leica lenses, Dual-LED flash, HDR, panorama",
+    "Triple": "50 MP, f/1.9, 23mm (wide), 1.0\"-type, 1.6µm, dual pixel PDAF, OIS\n48 MP, f/4.1, 120mm (periscope telephoto), 1/2.0\", 0.8µm, PDAF, OIS, 5x optical zoom\n48 MP, f/2.2, 13mm, 128˚ (ultrawide), 1/2.0\", 0.8µm, dual pixel PDAF\nTOF 3D, (depth)",
+    "Features": "Laser AF, Leica lenses, Dual-LED flash, HDR, panorama",
     "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240fps, 720p@3840fps, gyro-EIS, Dolby Vision HDR 10-bit rec. (4K, 1080p)"
    },
    "Selfie camera": {
@@ -9162,7 +9818,7 @@
    "Misc": {
     "Colors": "Moonlight Silver, Night Black, Nebula Green",
     "Models": "22021211RG, 22021211RI",
-    "Price": "$ 255.76 / £ 309.99 / ₹ 15,999"
+    "Price": "$ 249.29 / £ 235.97 / ₹ 16,499"
    },
    "Tests": {
     "Performance": "AnTuTu: 590961 (v8), 698586 (v9)\nGeekBench: 3190 (v5.1)\nGFXBench: 49fps (ES 3.1 onscreen)",
@@ -9251,7 +9907,7 @@
     "Models": "22041216G",
     "SAR": "1.09 W/kg (head)     0.92 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 289.99 / € 238.99"
+    "Price": "$ 199.99 / € 180.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 747871 (v9)\nGeekBench: 3719 (v5.1)\nGFXBench: 46fps (ES 3.1 onscreen)",
@@ -9337,7 +9993,7 @@
    "Misc": {
     "Colors": "Power Black, Coral Green, Poco Yellow",
     "Models": "220333QPG",
-    "Price": "$ 86.70 / £ 147.55 / € 108.00"
+    "Price": "$ 86.70 / £ 144.38 / € 108.00"
    }
   }
  },
@@ -9831,7 +10487,7 @@
     "Models": "21121210G",
     "SAR": "1.09 W/kg (head)     0.99 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     0.96 W/kg (body)",
-    "Price": "£ 399.99 / € 332.83"
+    "Price": "£ 399.99 / € 290.39"
    },
    "Tests": {
     "Performance": "AnTuTu: 952124 (v9)\nGeekBench: 3637 (v5.1)",
@@ -10158,7 +10814,7 @@
     "Models": "22031116BG",
     "SAR": "1.09 W/kg (head)     1.00 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 159.99 / C$ 268.65 / £ 123.50 / € 135.98"
+    "Price": "$ 224.99 / £ 122.56 / € 146.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 360255 (v9)\nGeekBench: 1820 (v5.1)\nGFXBench: 13fps (ES 3.1 onscreen)",
@@ -10249,7 +10905,7 @@
     "Models": "22041219G, 22041219NY",
     "SAR": "1.09 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 134.99 / £ 124.48 / € 116.99"
+    "Price": "$ 138.73 / £ 121.58 / € 119.99"
    }
   }
  },
@@ -10333,7 +10989,7 @@
     "Models": "21091116UG, 21091116UC",
     "SAR": "1.09 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 164.00 / € 199.00"
+    "Price": "$ 161.00 / € 210.00"
    },
    "Tests": {
     "Performance": "AnTuTu: 375528 (v8), 437872 (v9)\nGeekBench: 2225 (v5.1)\nGFXBench: 22fps (ES 3.1 onscreen)",
@@ -10670,7 +11326,7 @@
     "Models": "2201122C, 2201122G",
     "SAR": "1.09 W/kg (head)     1.05 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 439.99 / £ 349.00 / € 374.99 / ₹ 30,499"
+    "Price": "$ 406.35 / £ 350.00 / € 300.99 / ₹ 29,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 985226 (v9)\nGeekBench: 3682 (v5.1)\nGFXBench: 46fps (ES 3.1 onscreen)",
@@ -10763,7 +11419,7 @@
     "Models": "2201123G, 2201123C",
     "SAR": "1.09 W/kg (head)     0.91 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     1.00 W/kg (body)",
-    "Price": "$ 295.00 / £ 299.00 / € 207.82"
+    "Price": "$ 320.00 / £ 254.24 / € 179.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 985115 (v9)\nGeekBench: 3652 (v5.1)\nGFXBench: 75fps (ES 3.1 onscreen)",
@@ -10853,7 +11509,7 @@
     "Colors": "Gray, Blue, Purple",
     "Models": "2112123AC, 2112123AG",
     "SAR EU": "0.59 W/kg (head)     1.00 W/kg (body)",
-    "Price": "€ 200.99"
+    "Price": "€ 189.96"
    },
    "Tests": {
     "Performance": "AnTuTu: 598003 (v8), 690298 (v9)\nGeekBench: 3168 (v5.1)\nGFXBench: 47fps (ES 3.1 onscreen)",
@@ -11018,7 +11674,7 @@
     "Models": "220333QAG, 220333QBI, 220333QNY, 220333QL",
     "SAR": "0.96 W/kg (head)     1.02 W/kg (body)",
     "SAR EU": "0.57 W/kg (head)     0.96 W/kg (body)",
-    "Price": "$ 84.99 / € 120.38"
+    "Price": "$ 97.99 / € 102.05"
    }
   }
  },
@@ -11345,7 +12001,7 @@
     "Models": "2201116PG",
     "SAR": "1.06 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.96 W/kg (body)",
-    "Price": "$ 199.99 / £ 334.99 / € 238.88 / ₹ 13,999"
+    "Price": "$ 179.99 / £ 334.99 / € 226.97 / ₹ 15,990"
    },
    "Tests": {
     "Performance": "AnTuTu: 335353 (v8), 384646 (v9)\nGeekBench: 2063 (v5.1)\nGFXBench: 17fps (ES 3.1 onscreen)",
@@ -11439,7 +12095,7 @@
     "Models": "MZB0B5VIN, 2201117PI, 2201117PG",
     "SAR": "0.85 W/kg (head)     0.85 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     0.84 W/kg (body)",
-    "Price": "£ 180.04 / € 128.69"
+    "Price": "£ 175.27 / € 137.02"
    },
    "Tests": {
     "Performance": "AnTuTu: 318444 (v9)\nGeekBench: 1836 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
@@ -11611,7 +12267,7 @@
     "Colors": "Carbon Gray, Pebble White, Sea Blue",
     "Models": "21121119SG, 22011119UY, 21121119VL",
     "SAR": "0.77 W/kg (head)     0.74 W/kg (body)",
-    "Price": "$ 129.92 / £ 89.97 / € 112.98"
+    "Price": "$ 139.99 / £ 85.89 / € 112.99"
    }
   }
  },
@@ -11695,7 +12351,7 @@
     "Models": "21091116I, 2201116SG",
     "SAR": "1.05 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.96 W/kg (body)",
-    "Price": "$ 168.93 / £ 139.44 / € 149.99"
+    "Price": "$ 189.99 / £ 141.10 / € 136.52"
    },
    "Tests": {
     "Performance": "AnTuTu: 288914 (v8), 382902 (v9)\nGeekBench: 2063 (v5.1)\nGFXBench: 17fps (ES 3.1 onscreen)",
@@ -11788,7 +12444,7 @@
     "Models": "2201116TG, 2201116TI",
     "SAR": "1.08 W/kg (head)     1.08 W/kg (body)",
     "SAR EU": "0.58 W/kg (head)     0.86 W/kg (body)",
-    "Price": "$ 164.00 / £ 163.09 / € 169.99"
+    "Price": "$ 161.27 / £ 132.62 / € 149.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 261309 (v8), 319093 (v9)\nGeekBench: 1729 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
@@ -11880,7 +12536,7 @@
     "Models": "2201117SG, 2201117SI, 2201117SY, 2201117SL",
     "SAR": "1.09 W/kg (head)     1.05 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     0.88 W/kg (body)",
-    "Price": "$ 159.99 / £ 143.34 / € 118.72"
+    "Price": "$ 139.99 / £ 117.94 / € 132.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 251201 (v8), 308741 (v9)\nGeekBench: 1873 (v5.1)\nGFXBench: 12fps (ES 3.1 onscreen)",
@@ -11971,7 +12627,7 @@
     "Models": "2201117TG, 2201117TI, 2201117TY, 2201117TL",
     "SAR": "0.97 W/kg (head)     0.93 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.99 W/kg (body)",
-    "Price": "£ 99.99 / € 85.31 / ₹ 7,799"
+    "Price": "£ 113.35 / € 126.99 / ₹ 7,499"
    },
    "Tests": {
     "Performance": "AnTuTu: 228044 (v8), 244526 (v9)\nGeekBench: 1662 (v5.1)\nGFXBench: 6.8fps (ES 3.1 onscreen)",
@@ -12150,7 +12806,7 @@
     "Colors": "Camo Green, Stealth Black, Purple Mist, Pacific Pearl",
     "Models": "‎MZB0A5EIN",
     "SAR": "0.82 W/kg (head)     0.61 W/kg (body)",
-    "Price": "₹ 12,999"
+    "Price": "₹ 13,999"
    }
   }
  },
@@ -12231,7 +12887,7 @@
    "Misc": {
     "Colors": "Aquamarine Blue, Stardust White, Matte Black",
     "Models": "21091116AI",
-    "Price": "₹ 12,999"
+    "Price": "₹ 12,499"
    }
   }
  },
@@ -12308,7 +12964,7 @@
    "Misc": {
     "Colors": "Carbon Gray, Pebble White, Sea Blue",
     "Models": "21121119SC",
-    "Price": "£ 139.00 / € 146.00"
+    "Price": "About 210 EUR"
    }
   }
  },
@@ -12393,7 +13049,7 @@
     "Models": "21091116AG, MZB0BGVIN",
     "SAR": "1.07 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     1.00 W/kg (body)",
-    "Price": "£ 129.99 / € 129.89"
+    "Price": "£ 149.22 / € 136.32"
    },
    "Tests": {
     "Performance": "AnTuTu: 296721 (v8), 353663 (v9)\nGeekBench: 1797 (v5.1)\nGFXBench: 13fps (ES 3.1 onscreen)",
@@ -13116,7 +13772,7 @@
     "Colors": "Meteorite Gray, Moonlight White, Celestial Blue",
     "Models": "2107113SG, 2107113SI, 2107113SR",
     "SAR": "0.78 W/kg (head)     0.49 W/kg (body)",
-    "Price": "£ 206.21 / € 254.00 / ₹ 19,499"
+    "Price": "$ 499.50 / £ 189.99 / € 149.43 / ₹ 16,999"
    },
    "Tests": {
     "Display": "837 nits max brightness (measured)",
@@ -13205,7 +13861,7 @@
     "Models": "21081111RG",
     "SAR": "1.09 W/kg (head)     0.83 W/kg (body)",
     "SAR EU": "0.55 W/kg (head)     0.95 W/kg (body)",
-    "Price": "£ 299.00 / € 188.98"
+    "Price": "£ 148.59 / € 180.00"
    },
    "Tests": {
     "Performance": "AnTuTu: 590837 (v9)\nGeekBench: 2834 (v5.1)\nGFXBench: 40fps (ES 3.1 onscreen)",
@@ -13231,7 +13887,7 @@
     "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
     "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 42, 66",
     "5G bands": "1, 3, 5, 7, 8, 20, 26, 38, 41, 66, 77, 78 SA/NSA",
-    "Speed": "HSPA, LTE"
+    "Speed": "HSPA, LTE, 5G"
    },
    "Launch": {
     "Announced": "2021, September 15",
@@ -13296,7 +13952,7 @@
     "Models": "2109119DG, 2107119DC, 2109119DI",
     "SAR": "1.09 W/kg (head)     1.05 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     0.95 W/kg (body)",
-    "Price": "$ 266.66 / £ 222.69 / € 378.90 / ₹ 14,999"
+    "Price": "£ 134.99 / € 119.43 / ₹ 14,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 527663 (v9)\nGeekBench: 2832 (v5.1)\nGFXBench: 28fps (ES 3.1 onscreen)",
@@ -13422,7 +14078,7 @@
     "Protection": "Corning Gorilla Glass 3"
    },
    "Platform": {
-    "OS": "Android 11, MIUI 12.5",
+    "OS": "Android 11, upgradable to Android 14, HyperOS",
     "Chipset": "Mediatek MT6769H Helio G88 (12 nm)",
     "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
     "GPU": "Mali-G52 MC2"
@@ -13466,7 +14122,7 @@
    "Misc": {
     "Colors": "Carbon Gray, Pebble White, Sea Blue",
     "Models": "21061119AG, 21061119DG, 21061119AL",
-    "Price": "£ 94.98 / € 114.99"
+    "Price": "$ 127.99 / £ 89.99 / € 79.43"
    },
    "Tests": {
     "Display": "1494:1 contrast ratio, 477 nits max brightness (measured)",
@@ -13687,8 +14343,8 @@
     "info": "UFS 3.1"
    },
    "Main Camera": {
-    "Triple": "108 MP, f/1.9, 24mm (wide), 1/1.33\", 0.8µm, PDAF, Laser AF, OIS\n8 MP, f/4.1, 120mm (periscope telephoto), PDAF, OIS, 5x optical zoom\n13 MP, f/2.2, 12mm, 123˚ (ultrawide), 1/3.06\", 1.12µm",
-    "Features": "Dual-LED flash, HDR, panorama",
+    "Triple": "108 MP, f/1.9, 24mm (wide), 1/1.33\", 0.8µm, PDAF, OIS\n8 MP, f/4.1, 120mm (periscope telephoto), PDAF, OIS, 5x optical zoom\n13 MP, f/2.2, 12mm, 123˚ (ultrawide), 1/3.06\", 1.12µm",
+    "Features": "Laser AF, Dual-LED flash, HDR, panorama",
     "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/480fps; gyro-EIS, HDR10+"
    },
    "Selfie camera": {
@@ -13805,7 +14461,7 @@
     "Models": "21061110AG",
     "SAR": "1.09 W/kg (head)     1.05 W/kg (body)",
     "SAR EU": "0.58 W/kg (head)     0.94 W/kg (body)",
-    "Price": "£ 415.00 / € 296.05"
+    "Price": "About 200 EUR"
    },
    "Tests": {
     "Performance": "AnTuTu: 506800 (v8) | 578505 (v9)\nGeekBench: 2310 (v5.1)\nGFXBench: 38fps (ES 3.1 onscreen)",
@@ -13896,7 +14552,7 @@
     "Colors": "Predator Black, Gunmetal Silver",
     "Models": "MZB09C6IN, M2104K10I",
     "SAR": "0.81 W/kg (head)     0.48 W/kg (body)",
-    "Price": "₹ 24,990"
+    "Price": "About 300 EUR"
    }
   }
  },
@@ -14236,7 +14892,7 @@
     "Models": "M2103K19PG, M2103K19PI, M2103K19PY",
     "SAR": "0.94 W/kg (head)     1.06 W/kg (body)",
     "SAR EU": "0.54 W/kg (head)     0.90 W/kg (body)",
-    "Price": "$ 201.38 / € 164.99 / ₹ 9,999"
+    "Price": "$ 201.38 / £ 140.65 / € 159.99"
    },
    "Tests": {
     "Display": "1475:1 contrast ratio, 536 nits max brightness (measured)",
@@ -14408,7 +15064,7 @@
     "Colors": "Celestial Silver, Lunar White, Cosmic Black",
     "Models": "M2012K11I",
     "SAR": "0.85 W/kg (head)     0.60 W/kg (body)",
-    "Price": "₹ 19,499"
+    "Price": "About 440 EUR"
    }
   }
  },
@@ -14703,8 +15359,8 @@
     "info": "UFS 3.1"
    },
    "Main Camera": {
-    "Triple": "50 MP, f/2.0, 24mm (wide), 1/1.12\", 1.4µm, dual pixel PDAF, Laser AF, OIS\n48 MP, f/4.1, 120mm (periscope telephoto), 1/2.0\", 0.8µm, PDAF, OIS, 5x optical zoom\n48 MP, f/2.2, 12mm, 128˚ (ultrawide), 1/2.0\", 0.8µm, PDAF",
-    "Features": "Dual-LED flash, HDR, panorama, 1.1” AMOLED selfie display",
+    "Triple": "50 MP, f/2.0, 24mm (wide), 1/1.12\", 1.4µm, dual pixel PDAF, OIS\n48 MP, f/4.1, 120mm (periscope telephoto), 1/2.0\", 0.8µm, PDAF, OIS, 5x optical zoom\n48 MP, f/2.2, 12mm, 128˚ (ultrawide), 1/2.0\", 0.8µm, PDAF",
+    "Features": "Laser AF, Dual-LED flash, HDR, panorama, 1.1” AMOLED selfie display",
     "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240/960/1920fps, gyro-EIS, HDR10+ rec."
    },
    "Selfie camera": {
@@ -14829,7 +15485,7 @@
    "Misc": {
     "Colors": "Black, Green, Purple",
     "Models": "M2102K1AC",
-    "Price": "£ 359.99"
+    "Price": "About 370 EUR"
    }
   }
  },
@@ -14912,7 +15568,7 @@
     "Models": "M2012K11G",
     "SAR": "0.95 W/kg (head)     0.74 W/kg (body)",
     "SAR EU": "0.57 W/kg (head)     0.77 W/kg (body)",
-    "Price": "€ 233.00"
+    "Price": "About 230 EUR"
    },
    "Tests": {
     "Performance": "AnTuTu: 690021 (v8)\nGeekBench: 3641 (v5.1)",
@@ -14939,7 +15595,7 @@
     "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
     "4G bands": "1, 2, 3, 4, 5, 6, 7, 8, 12, 13, 17, 20, 28, 32, 38, 40, 41, 66 - International",
     "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA - International",
-    "Speed": "HSPA, LTE"
+    "Speed": "HSPA, LTE, 5G"
    },
    "Launch": {
     "Announced": "2021, March 29",
@@ -15006,7 +15662,7 @@
     "Models": "M2101K9G, M2101K9C, M2101K9R",
     "SAR": "1.03 W/kg (head)     1.06 W/kg (body)",
     "SAR EU": "0.56 W/kg (head)     0.89 W/kg (body)",
-    "Price": "$ 249.99 / £ 104.99 / € 163.02"
+    "Price": "$ 249.99 / £ 134.99 / € 99.42"
    },
    "Tests": {
     "Performance": "AnTuTu: 465534 (v8) | 522490 (v9)\nGeekBench: 2909 (v5.1)\nGFXBench: 35fps (ES 3.1 onscreen)",
@@ -15097,7 +15753,7 @@
     "Models": "M2101K9AG, M2101K9AI",
     "SAR": "1.07 W/kg (head)     0.82 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.95 W/kg (body)",
-    "Price": "$ 249.50 / £ 234.34 / € 168.97"
+    "Price": "$ 299.99 / € 144.84 / ₹ 12,950"
    },
    "Tests": {
     "Performance": "AnTuTu: 290172 (v8), 294251 (v9)\nGeekBench: 1796 (v5.1)\nGFXBench: 17fps (ES 3.1 onscreen)",
@@ -15190,7 +15846,7 @@
     "Models": "M2102J20SG, M2102J20SI",
     "SAR": "0.99 W/kg (head)     0.67 W/kg (body)",
     "SAR EU": "0.57 W/kg (head)     0.90 W/kg (body)",
-    "Price": "$ 290.00 / £ 269.99 / € 185.64 / ₹ 8,999"
+    "Price": "$ 239.99 / ₹ 8,950"
    },
    "Tests": {
     "Performance": "AnTuTu: 453223 (v8)\nGeekBench: 2574 (v5.1)\nGFXBench: 38fps (ES 3.1 onscreen)",
@@ -15236,7 +15892,7 @@
     "Protection": "Corning Gorilla Glass 5"
    },
    "Platform": {
-    "OS": "Android 11, MIUI 12.5.6 for POCO",
+    "OS": "Android 11, upgradable to Android 13, HyperOS",
     "Chipset": "Qualcomm SM8250-AC Snapdragon 870 5G (7 nm)",
     "CPU": "Octa-core (1x3.2 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.80 GHz Kryo 585)",
     "GPU": "Adreno 650"
@@ -15283,7 +15939,7 @@
     "Models": "M2012K11AG",
     "SAR": "1.06 W/kg (head)     0.72 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.84 W/kg (body)",
-    "Price": "€ 166.12"
+    "Price": "€ 189.57"
    },
    "Tests": {
     "Performance": "AnTuTu: 631850 (v8), 697216 (v9)\nGeekBench: 3206 (v5.1)\nGFXBench: 48fps (ES 3.1 onscreen)",
@@ -15455,7 +16111,7 @@
     "Models": "M2101K6G, M2101K6R",
     "SAR": "1.09 W/kg (head)     1.06 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 144.90 / £ 165.00 / € 154.30 / ₹ 9,999"
+    "Price": "$ 139.50 / £ 160.00 / € 187.75 / ₹ 10,799"
    },
    "Tests": {
     "Performance": "AnTuTu: 295442 (v8)\nGeekBench: 1780 (v5.1)\nGFXBench: 16fps (ES 3.1 onscreen)",
@@ -15546,7 +16202,7 @@
     "Models": "M2103K19G, M2103K19C",
     "SAR": "0.94 W/kg (head)     1.06 W/kg (body)",
     "SAR EU": "0.54 W/kg (head)     0.90 W/kg (body)",
-    "Price": "£ 98.49 / € 106.68"
+    "Price": "£ 105.00 / € 91.70"
    },
    "Tests": {
     "Display": "1795:1 contrast ratio, 492 nits max brightness (measured)",
@@ -15638,7 +16294,7 @@
     "Models": "M2101K7BG, M2101K7BI, M2101K7BNY, M2101K7BL",
     "SAR": "1.07 W/kg (head)     0.81 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.90 W/kg (body)",
-    "Price": "$ 136.44 / £ 154.99 / € 109.28 / ₹ 7,999"
+    "Price": "$ 136.97 / £ 134.99 / € 149.99 / ₹ 9,499"
    }
   }
  },
@@ -15723,7 +16379,7 @@
     "Models": "M2101K7AI, M2101K7AG",
     "SAR": "1.09 W/kg (head)     1.09 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     0.97 W/kg (body)",
-    "Price": "€ 127.99 / ₹ 9,999"
+    "Price": "€ 91.99 / ₹ 7,969"
    },
    "Tests": {
     "Performance": "AnTuTu: 218788 (v8)\nGeekBench: 2860 (v5.1)\nGFXBench: 7.9fps (ES 3.1 onscreen)",
@@ -16220,7 +16876,7 @@
     "Models": "M2007J22G, J22",
     "SAR": "1.07 W/kg (head)     1.05 W/kg (body)",
     "SAR EU": "0.59 W/kg (head)     0.94 W/kg (body)",
-    "Price": "£ 118.79 / € 129.99"
+    "Price": "About 130 EUR"
    },
    "Tests": {
     "Performance": "AnTuTu: 288732 (v8)\nGeekBench: 1775 (v5.1)",
@@ -16312,7 +16968,7 @@
     "Models": "J19S, M2010J19SG, M2010J19SY",
     "SAR": "1.09 W/kg (head)     1.00 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.81 W/kg (body)",
-    "Price": "£ 114.99 / € 119.99"
+    "Price": "£ 89.99 / € 120.83"
    },
    "Tests": {
     "Performance": "AnTuTu: 177917 (v8)\nGeekBench: 1400 (v5.1)\nGFXBench: 5.8fps (ES 3.1 onscreen)",
@@ -16487,7 +17143,7 @@
     "Models": "M2011K2C, M2011K2G",
     "SAR": "0.95 W/kg (head)     0.65 W/kg (body)",
     "SAR EU": "0.56 W/kg (head)     0.98 W/kg (body)",
-    "Price": "£ 219.99 / € 188.99"
+    "Price": "£ 250.00 / € 199.90"
    },
    "Tests": {
     "Performance": "AnTuTu: 668722 (v8)\nGeekBench: 3489 (v5.1)\nGFXBench: 33fps (ES 3.1 onscreen)",
@@ -16905,7 +17561,7 @@
     "Models": "M2010J19CG, M2010J19CI",
     "SAR": "1.09 W/kg (head)     1.00 W/kg (body)",
     "SAR EU": "0.60 W/kg (head)     0.81 W/kg (body)",
-    "Price": "$ 152.99 / £ 99.99 / ₹ 6,499"
+    "Price": "$ 152.99 / £ 99.99 / ₹ 7,999"
    },
    "Tests": {
     "Performance": "AnTuTu: 177904 (v8)\nGeekBench: 1398 (v5.1)\nGFXBench: 5.9fps (ES 3.1 onscreen)",
@@ -17156,7 +17812,7 @@
     "Models": "M2007J3SG, M2007J3SP, M2007J3SI, M2007J17C",
     "SAR": "0.97 W/kg (head)     0.98 W/kg (body)",
     "SAR EU": "0.57 W/kg (head)     1.00 W/kg (body)",
-    "Price": "£ 264.55 / € 185.47 / ₹ 18,999"
+    "Price": "£ 217.35 / € 129.40 / ₹ 18,989"
    },
    "Tests": {
     "Performance": "AnTuTu: 563961 (v8)\nGeekBench: 3311 (v5.1)\nGFXBench: 46fps (ES 3.1 onscreen)",
@@ -17247,7 +17903,7 @@
     "Models": "M2007J3SY",
     "SAR": "0.97 W/kg (head)     0.98 W/kg (body)",
     "SAR EU": "0.57 W/kg (head)     1.00 W/kg (body)",
-    "Price": "€ 269.00 / ₹ 19,890"
+    "Price": "€ 249.00 / ₹ 14,999"
    }
   }
  },
@@ -17574,7 +18230,7 @@
     "Colors": "Brick Red, Pitch Black, Slate Blue",
     "Models": "MZB9919IN, M2004J19PI",
     "SAR": "0.85 W/kg (head)     0.42 W/kg (body)",
-    "Price": "₹ 7,499"
+    "Price": "About 130 EUR"
    }
   }
  },
@@ -17656,7 +18312,7 @@
     "Colors": "Cobalt Blue, Shadow Gray",
     "Models": "MZB07Z0IN, MZB07Z1IN, MZB07Z2IN, MZB07Z3IN, MZB07Z4IN, MZB9965IN, M2007J20CI",
     "SAR": "0.75 W/kg (head)     0.61 W/kg (body)",
-    "Price": "₹ 9,999"
+    "Price": "About 230 EUR"
    }
   }
  },
@@ -17739,7 +18395,7 @@
     "Models": "M2007J20CG, M2007J20CT",
     "SAR": "0.77 W/kg (head)     0.61 W/kg (body)",
     "SAR EU": "0.56 W/kg (head)     0.99 W/kg (body)",
-    "Price": "$ 219.99"
+    "Price": "About 180 EUR"
    },
    "Tests": {
     "Performance": "AnTuTu: 283750 (v8)\nGeekBench: 1777 (v5.1)\nGFXBench: 16fps (ES 3.1 onscreen)",
@@ -17874,8 +18530,8 @@
     "info": "UFS 3.1"
    },
    "Main Camera": {
-    "Quad": "48 MP, f/1.9, 25mm (wide), 1/1.32\", 1.2µm, PDAF, Laser AF, OIS\n48 MP, f/4.1, 120mm (periscope telephoto), 1/2.0\", 0.8µm, PDAF, OIS, 5x optical zoom\n12 MP, f/2.0, 50mm (telephoto), 1/2.55\", 1.4µm, dual pixel PDAF, 2x optical zoom\n20 MP, f/2.2, 128˚, 12mm (ultrawide), 1/2.8\", 1.0µm, PDAF",
-    "Features": "Dual-LED flash, HDR, panorama",
+    "Quad": "48 MP, f/1.9, 25mm (wide), 1/1.32\", 1.2µm, PDAF, OIS\n48 MP, f/4.1, 120mm (periscope telephoto), 1/2.0\", 0.8µm, PDAF, OIS, 5x optical zoom\n12 MP, f/2.0, 50mm (telephoto), 1/2.55\", 1.4µm, dual pixel PDAF, 2x optical zoom\n20 MP, f/2.2, 128˚, 12mm (ultrawide), 1/2.8\", 1.0µm, PDAF",
+    "Features": "Laser AF, Dual-LED flash, HDR, panorama",
     "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10 rec."
    },
    "Selfie camera": {
@@ -18193,7 +18849,7 @@
     "Resolution": "720 x 1600 pixels, 20:9 ratio (~269 ppi density)"
    },
    "Platform": {
-    "OS": "Android 10, MIUI 12",
+    "OS": "Android 10, up to Android 11, MIUI 12",
     "Chipset": "Mediatek MT6762G Helio G25 (12 nm)",
     "CPU": "Octa-core (4x2.0 GHz Cortex-A53 & 4x1.5 GHz Cortex-A53)",
     "GPU": "PowerVR GE8320"
@@ -18237,7 +18893,7 @@
     "Models": "M2006C3LG, M2006C3LI, M2006C3LC, M2004C3L",
     "SAR": "0.90 W/kg (head)     0.65 W/kg (body)",
     "SAR EU": "0.40 W/kg (head)     1.19 W/kg (body)",
-    "Price": "$ 69.00 / £ 80.26 / € 79.00"
+    "Price": "$ 54.24 / £ 50.00 / € 74.96 / ₹ 7,999"
    }
   }
  },
@@ -18393,7 +19049,7 @@
     "Models": "M2006C3MG, M2006C3MT",
     "SAR": "0.73 W/kg (head)     0.52 W/kg (body)",
     "SAR EU": "0.35 W/kg (head)     0.78 W/kg (body)",
-    "Price": "$ 64.80 / £ 75.99 / € 87.99"
+    "Price": "$ 64.80 / £ 79.02 / € 84.29"
    }
   }
  },
@@ -18475,7 +19131,7 @@
     "Models": "M2004J19G, M2004J19C",
     "SAR": "0.91 W/kg (head)     1.00 W/kg (body)",
     "SAR EU": "0.71 W/kg (head)     1.06 W/kg (body)",
-    "Price": "$ 138.60 / £ 109.90 / ₹ 6,799"
+    "Price": "$ 131.40 / £ 103.14 / € 107.99"
    },
    "Tests": {
     "Performance": "AnTuTu: 201829 (v8)\nGeekBench: 1325 (v5.1)",
@@ -18851,7 +19507,7 @@
    },
    "Memory": {
     "Card slot": "No",
-    "Internal": "128GB 6GB RAM, 256GB 8GB RAM",
+    "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM",
     "info": "UFS 3.1\n6GB RAM (LPDDR4X)\n8GB RAM (LPDDR5)"
    },
    "Main Camera": {
@@ -18890,7 +19546,7 @@
     "Models": "M2004J11G",
     "SAR": "1.09 W/kg (head)     0.51 W/kg (body)",
     "SAR EU": "0.79 W/kg (head)     1.03 W/kg (body)",
-    "Price": "€ 149.95"
+    "Price": "About 150 EUR"
    },
    "Tests": {
     "Performance": "AnTuTu: 538221 (v8)\nGeekBench: 3332 (v5.1)\nGFXBench: 40fps (ES 3.1 onscreen)",
@@ -19059,7 +19715,7 @@
     "Models": "M2003J6B2G",
     "SAR": "0.87 W/kg (head)     0.71 W/kg (body)",
     "SAR EU": "0.66 W/kg (head)     1.02 W/kg (body)",
-    "Price": "£ 126.94 / € 136.00"
+    "Price": "£ 140.00 / € 122.56"
    },
    "Tests": {
     "Performance": "AnTuTu: 279625 (v8)\nGeekBench: 1785 (v5.1)\nGFXBench: 15fps (ES 3.1 onscreen)",
@@ -19149,7 +19805,7 @@
     "Models": "M2003J15SC, M2003J15SG, M2003J15SS",
     "SAR": "0.84 W/kg (head)     0.90 W/kg (body)",
     "SAR EU": "0.80 W/kg (head)     1.14 W/kg (body)",
-    "Price": "$ 88.20 / £ 129.99 / € 118.30 / ₹ 7,899"
+    "Price": "$ 85.50 / £ 129.99 / € 106.31 / ₹ 7,299"
    },
    "Tests": {
     "Performance": "AnTuTu: 200414 (v8)\nGeekBench: 1292 (v5.1)",
@@ -19204,8 +19860,8 @@
     "info": "UFS 2.1"
    },
    "Main Camera": {
-    "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.72\", 0.8µm, PDAF, Laser AF\n8 MP, f/2.2, (ultrawide), 1/4.0\", 1.12µm\n2 MP, f/2.4, (macro)\n5 MP, f/2.4, (depth)",
-    "Features": "Quad-LED flash, HDR, panorama",
+    "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.72\", 0.8µm, PDAF\n8 MP, f/2.2, (ultrawide), 1/4.0\", 1.12µm\n2 MP, f/2.4, (macro)\n5 MP, f/2.4, (depth)",
+    "Features": "Laser AF, Quad-LED flash, HDR, panorama",
     "Video": "4K@30fps, 1080p@30/60/120fps, 720p@960fps"
    },
    "Selfie camera": {
@@ -19239,7 +19895,7 @@
     "Models": "M2002F4LG, M1910F4G",
     "SAR": "1.17 W/kg (head)     0.86 W/kg (body)",
     "SAR EU": "1.01 W/kg (head)     1.39 W/kg (body)",
-    "Price": "£ 239.99 / € 279.90"
+    "Price": "About 110 EUR"
    },
    "Tests": {
     "Performance": "AnTuTu: 253271 (v8)\nGeekBench: 1694 (v5.1)\nGFXBench: 15fps (ES 3.1 onscreen)",
@@ -19664,7 +20320,7 @@
     "Models": "M2003J6A1G",
     "SAR": "0.96 W/kg (head)     0.40 W/kg (body)",
     "SAR EU": "0.72 W/kg (head)     0.98 W/kg (body)",
-    "Price": "£ 130.00 / € 96.99"
+    "Price": "About 110 EUR"
    },
    "Tests": {
     "Performance": "AnTuTu: 254000 (v8)\nGeekBench: 1785 (v5.1)\nGFXBench: 15fps (ES 3.1 onscreen)",
@@ -19889,8 +20545,8 @@
     "info": "UFS 3.0"
    },
    "Main Camera": {
-    "Quad": "108 MP, f/1.7, (wide), 1/1.33\", 0.8µm, PDAF, Laser AF, OIS\n12 MP, f/2.0, 50mm (telephoto), 1/2.55\", 1.4µm, dual pixel PDAF, 2x optical zoom\n8 MP, f/2.0, (telephoto), 1.0µm, PDAF, OIS, 3.7x optical zoom, 5x hybrid zoom\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0µm",
-    "Features": "Triple-LED dual-tone flash, HDR, panorama",
+    "Quad": "108 MP, f/1.7, (wide), 1/1.33\", 0.8µm, PDAF, OIS\n12 MP, f/2.0, 50mm (telephoto), 1/2.55\", 1.4µm, dual pixel PDAF, 2x optical zoom\n8 MP, f/2.0, (telephoto), 1.0µm, PDAF, OIS, 3.7x optical zoom, 5x hybrid zoom\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0µm",
+    "Features": "Laser AF, Triple-LED dual-tone flash, HDR, panorama",
     "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60/120/240/960fps; gyro-EIS"
    },
    "Selfie camera": {
@@ -20018,7 +20674,7 @@
     "Models": "M2001J2G, M2001J2I, Mi 10",
     "SAR": "1.09 W/kg (head)     1.02 W/kg (body)",
     "SAR EU": "0.69 W/kg (head)     0.99 W/kg (body)",
-    "Price": "£ 265.70 / € 286.80"
+    "Price": "About 290 EUR"
    },
    "Tests": {
     "Performance": "AnTuTu: 578056 (v8)\nGeekBench: 3322 (v5.1)\nGFXBench: 42fps (ES 3.1 onscreen)",
@@ -20266,7 +20922,7 @@
     "Colors": "Atlantis Blue, Matrix Purple, Phoenix Red",
     "Models": "MZB9011IN, MZB9012IN, MZB9013IN, MZB8741IN, MZB8742IN, MZB8743IN, MZB8744IN, MZB8745IN, MZB8746IN",
     "SAR": "1.08 W/kg (head)     0.62 W/kg (body)",
-    "Price": "₹ 8,790"
+    "Price": "About 200 EUR"
    }
   }
  },
@@ -20574,8 +21230,8 @@
     "info": "UFS 2.0"
    },
    "Main Camera": {
-    "Five": "108 MP (8P lens), f/1.7, 25mm (wide), 1/1.33\", 0.8µm, PDAF, Laser AF, OIS\n12 MP, f/2.0, 50mm (telephoto), 1/2.55\", 1.4µm, dual pixel PDAF, 2x optical zoom\n8MP, f/2.0, (telephoto), 1.0µm, PDAF, OIS, 3.7x optical zoom, 5x hybrid zoom\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0µm\n2 MP, f/2.4, (macro)",
-    "Features": "Quad-LED dual-tone flash, HDR",
+    "Five": "108 MP (8P lens), f/1.7, 25mm (wide), 1/1.33\", 0.8µm, PDAF, OIS\n12 MP, f/2.0, 50mm (telephoto), 1/2.55\", 1.4µm, dual pixel PDAF, 2x optical zoom\n8MP, f/2.0, (telephoto), 1.0µm, PDAF, OIS, 3.7x optical zoom, 5x hybrid zoom\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0µm\n2 MP, f/2.4, (macro)",
+    "Features": "Laser AF, Quad-LED dual-tone flash, HDR",
     "Video": "4K@30fps, 1080p@30/60/120/240fps, 720p@960fps"
    },
    "Selfie camera": {
@@ -20657,8 +21313,8 @@
     "info": "UFS 2.0"
    },
    "Main Camera": {
-    "Five": "108 MP (7P lens), f/1.7, 25mm (wide), 1/1.33\", 0.8µm, PDAF, Laser AF, OIS\n12 MP, f/2.0, 50mm (telephoto), 1/2.55\", 1.4µm, dual pixel PDAF, 2x optical zoom\n8 MP, f/2.0, (telephoto), 1.0µm, PDAF, OIS, 3.7x optical zoom, 5x hybrid zoom\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0µm\n2 MP, f/2.4, (macro)",
-    "Features": "Quad-LED dual-tone flash, HDR",
+    "Five": "108 MP (7P lens), f/1.7, 25mm (wide), 1/1.33\", 0.8µm, PDAF, OIS\n12 MP, f/2.0, 50mm (telephoto), 1/2.55\", 1.4µm, dual pixel PDAF, 2x optical zoom\n8 MP, f/2.0, (telephoto), 1.0µm, PDAF, OIS, 3.7x optical zoom, 5x hybrid zoom\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0µm\n2 MP, f/2.4, (macro)",
+    "Features": "Laser AF, Quad-LED dual-tone flash, HDR",
     "Video": "4K@30fps, 1080p@30/60/120/240fps, 720p@960fps"
    },
    "Selfie camera": {
@@ -20750,8 +21406,8 @@
     "info": "UFS 2.1"
    },
    "Main Camera": {
-    "Five": "108 MP (8P lens - 256GB GB model), f/1.7, 25mm (wide), 1/1.33\", 0.8µm, PDAF, Laser AF, OIS\n12 MP, f/2.0, 50mm (telephoto), 1/2.55\", 1.4µm, dual pixel PDAF, 2x optical zoom\n5 MP (upscaled to 8MP), f/2.0, (telephoto), 1.0µm, PDAF, OIS, 5x optical zoom\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0µm\n2 MP, f/2.4, (macro)",
-    "Features": "Quad-LED dual-tone flash, HDR",
+    "Five": "108 MP (8P lens - 256GB GB model), f/1.7, 25mm (wide), 1/1.33\", 0.8µm, PDAF, OIS\n12 MP, f/2.0, 50mm (telephoto), 1/2.55\", 1.4µm, dual pixel PDAF, 2x optical zoom\n5 MP (upscaled to 8MP), f/2.0, (telephoto), 1.0µm, PDAF, OIS, 5x optical zoom\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0µm\n2 MP, f/2.4, (macro)",
+    "Features": "Laser AF, Quad-LED dual-tone flash, HDR",
     "Video": "4K@30fps, 1080p@30/60/120/240fps, 720p@960fps"
    },
    "Selfie camera": {
@@ -21005,8 +21661,8 @@
     "info": "UFS 3.0"
    },
    "Main Camera": {
-    "Triple": "108 MP, f/1.7, (wide), 1/1.33\", 0.8µm, PDAF, Laser AF\n12 MP, f/2.0, 54mm (telephoto), 1/2.55\", 1.4µm, dual pixel PDAF, 2x optical zoom\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0µm",
-    "Features": "Dual-LED flash, HDR, panorama",
+    "Triple": "108 MP, f/1.7, (wide), 1/1.33\", 0.8µm, PDAF\n12 MP, f/2.0, 54mm (telephoto), 1/2.55\", 1.4µm, dual pixel PDAF, 2x optical zoom\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0µm",
+    "Features": "Laser AF, Dual-LED flash, HDR, panorama",
     "Video": "6K@30fps, 4K@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
    },
    "Selfie camera": {
@@ -21085,8 +21741,8 @@
     "info": "UFS 3.0"
    },
    "Main Camera": {
-    "Triple": "48 MP, f/1.8, 27mm (wide), 1/2.0\", 0.8µm, PDAF, Laser AF\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0µm, PDAF, 2x optical zoom\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0µm, AF",
-    "Features": "Dual-LED flash, HDR, panorama",
+    "Triple": "48 MP, f/1.8, 27mm (wide), 1/2.0\", 0.8µm, PDAF\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0µm, PDAF, 2x optical zoom\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0µm, AF",
+    "Features": "Laser AF, Dual-LED flash, HDR, panorama",
     "Video": "4K@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
    },
    "Selfie camera": {
@@ -21164,8 +21820,8 @@
     "info": "UFS 2.1"
    },
    "Main Camera": {
-    "Triple": "48 MP, f/1.8, 27mm (wide), 1/2.0\", 0.8µm, PDAF, Laser AF\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0µm, PDAF, 2x optical zoom\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0µm, PDAF",
-    "Features": "Dual-LED flash, HDR, panorama",
+    "Triple": "48 MP, f/1.8, 27mm (wide), 1/2.0\", 0.8µm, PDAF\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0µm, PDAF, 2x optical zoom\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0µm, PDAF",
+    "Features": "Laser AF, Dual-LED flash, HDR, panorama",
     "Video": "4K@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
    },
    "Selfie camera": {
@@ -21243,8 +21899,8 @@
     "info": "UFS 2.1"
    },
    "Main Camera": {
-    "Triple": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF, Laser AF\n8 MP, f/2.4, 53mm (telephoto), 1/4.0\", 1.12µm, PDAF, 2x optical zoom\n13 MP, f/2.4, 12mm (ultrawide), 1/3.1\", 1.12µm",
-    "Features": "Dual-LED flash, HDR, panorama",
+    "Triple": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF\n8 MP, f/2.4, 53mm (telephoto), 1/4.0\", 1.12µm, PDAF, 2x optical zoom\n13 MP, f/2.4, 12mm (ultrawide), 1/3.1\", 1.12µm",
+    "Features": "Laser AF, Dual-LED flash, HDR, panorama",
     "Video": "4K@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
    },
    "Selfie camera": {
@@ -21923,8 +22579,8 @@
     "info": "UFS 2.1"
    },
    "Main Camera": {
-    "Triple": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF, Laser AF\n8 MP, f/2.4, 53mm (telephoto), 1/4.0\", 1.12µm, PDAF, 2x optical zoom\n13 MP, f/2.4, 12mm (ultrawide), 1/3.1\", 1.12µm",
-    "Features": "Dual-LED flash, HDR, panorama",
+    "Triple": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF\n8 MP, f/2.4, 53mm (telephoto), 1/4.0\", 1.12µm, PDAF, 2x optical zoom\n13 MP, f/2.4, 12mm (ultrawide), 1/3.1\", 1.12µm",
+    "Features": "Laser AF, Dual-LED flash, HDR, panorama",
     "Video": "4K@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
    },
    "Selfie camera": {
@@ -21957,7 +22613,7 @@
     "Models": "M1903F11G",
     "SAR": "1.03 W/kg (head)     0.72 W/kg (body)",
     "SAR EU": "1.30 W/kg (head)     1.51 W/kg (body)",
-    "Price": "€ 121.77"
+    "Price": "About 150 EUR"
    },
    "Tests": {
     "Performance": "AnTuTu: 368846 (v7), 437823 (v8)\nGeekBench: 10684 (v4.4), 2732 (v5.1)\nGFXBench: 36fps (ES 3.1 onscreen)",
@@ -22184,8 +22840,8 @@
     "info": "UFS 2.1"
    },
    "Main Camera": {
-    "Triple": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF, Laser AF\n8 MP, f/2.4, 53mm (telephoto), 1/4.0\", 1.12µm, PDAF, 2x optical zoom\n13 MP, f/2.4, 12mm (ultrawide), 1/3.1\", 1.12µm",
-    "Features": "Dual-LED flash, HDR, panorama",
+    "Triple": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF\n8 MP, f/2.4, 53mm (telephoto), 1/4.0\", 1.12µm, PDAF, 2x optical zoom\n13 MP, f/2.4, 12mm (ultrawide), 1/3.1\", 1.12µm",
+    "Features": "Laser AF, Dual-LED flash, HDR, panorama",
     "Video": "4K@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
    },
    "Selfie camera": {
@@ -22693,8 +23349,8 @@
     "info": "UFS 2.1"
    },
    "Main Camera": {
-    "Triple": "48 MP, f/1.5 (12GB RAM model) or f/1.8 (8GB RAM model), (wide), 1/2.0\", 0.8µm, PDAF, Laser AF\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0µm, PDAF, 2x optical zoom\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0µm, AF",
-    "Features": "Dual-LED flash, HDR, panorama",
+    "Triple": "48 MP, f/1.5 (12GB RAM model) or f/1.8 (8GB RAM model), (wide), 1/2.0\", 0.8µm, PDAF\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0µm, PDAF, 2x optical zoom\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0µm, AF",
+    "Features": "Laser AF, Dual-LED flash, HDR, panorama",
     "Video": "4K@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
    },
    "Selfie camera": {
@@ -22864,8 +23520,8 @@
     "info": "UFS 2.1"
    },
    "Main Camera": {
-    "Triple": "48 MP, f/1.8, 27mm (wide), 1/2.0\", 0.8µm, PDAF, Laser AF\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0µm, PDAF, 2x optical zoom\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0µm, PDAF",
-    "Features": "Dual-LED flash, HDR, panorama",
+    "Triple": "48 MP, f/1.8, 27mm (wide), 1/2.0\", 0.8µm, PDAF\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0µm, PDAF, 2x optical zoom\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0µm, PDAF",
+    "Features": "Laser AF, Dual-LED flash, HDR, panorama",
     "Video": "4K@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
    },
    "Selfie camera": {
@@ -23645,7 +24301,7 @@
    },
    "Selfie camera": {
     "Single": "20 MP, f/2.2, (wide), 1/3\", 0.9µm",
-    "Features": "LED flash, Auto-HDR",
+    "Features": "LED flash, HDR",
     "Video": "1080p@30fps"
    },
    "Sound": {

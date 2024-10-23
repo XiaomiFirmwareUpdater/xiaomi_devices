@@ -30,7 +30,7 @@
    "Protection": "Corning Gorilla Glass 3"
   },
   "Platform": {
-   "OS": "Android 11, MIUI 12.5",
+   "OS": "Android 11, upgradable to Android 14, HyperOS",
    "Chipset": "Mediatek MT6769H Helio G88 (12 nm)",
    "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
    "GPU": "Mali-G52 MC2"
@@ -74,7 +74,7 @@
   "Misc": {
    "Colors": "Carbon Gray, Pebble White, Sea Blue",
    "Models": "21061119AG, 21061119DG, 21061119AL",
-   "Price": "£ 94.98 / € 114.99"
+   "Price": "$ 127.99 / £ 89.99 / € 79.43"
   },
   "Tests": {
    "Display": "1494:1 contrast ratio, 477 nits max brightness (measured)",

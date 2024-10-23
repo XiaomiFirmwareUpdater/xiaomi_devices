@@ -34,7 +34,7 @@
    "info": "Always-on display"
   },
   "Platform": {
-   "OS": "Android 13, upgradable to Android 14, HyperOS",
+   "OS": "Android 13, up to 3 major Android upgrades, HyperOS",
    "Chipset": "Mediatek Dimensity 7200 Ultra (4 nm)",
    "CPU": "Octa-core (2x2.8 GHz Cortex-A715 & 6x2.0 GHz Cortex-A510)",
    "GPU": "Mali-G610 MC4"
@@ -78,7 +78,7 @@
   "Misc": {
    "Colors": "Midnight Black (Fushion Black), Moonlight White (Fushion White), Aurora Purple, Fushion Purple, Camo Green",
    "Models": "23090RA98C, 23090RA98G, 23090RA98I",
-   "Price": "$ 337.50 / C$ 609.43 / £ 349.00 / € 309.00 / ₹ 27,999"
+   "Price": "$ 327.00 / C$ 592.21 / £ 349.00 / € 294.99 / ₹ 23,824"
   },
   "Tests": {
    "Performance": "AnTuTu: 683899 (v9), 779812 (v10)\nGeekBench: 2353 (v5), 2597 (v6)\n3DMark Wild life: 4341 (offscreen 1440p)",

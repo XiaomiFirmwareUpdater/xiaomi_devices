@@ -44,8 +44,8 @@
    "info": "UFS 3.1"
   },
   "Main Camera": {
-   "Triple": "50 MP, f/1.9, 23mm (wide), 1.0\"-type, 1.6µm, dual pixel PDAF, Laser AF, OIS\n48 MP, f/4.1, 120mm (periscope telephoto), 1/2.0\", 0.8µm, PDAF, OIS, 5x optical zoom\n48 MP, f/2.2, 13mm, 128˚ (ultrawide), 1/2.0\", 0.8µm, dual pixel PDAF\nTOF 3D, (depth)",
-   "Features": "Leica lenses, Dual-LED flash, HDR, panorama",
+   "Triple": "50 MP, f/1.9, 23mm (wide), 1.0\"-type, 1.6µm, dual pixel PDAF, OIS\n48 MP, f/4.1, 120mm (periscope telephoto), 1/2.0\", 0.8µm, PDAF, OIS, 5x optical zoom\n48 MP, f/2.2, 13mm, 128˚ (ultrawide), 1/2.0\", 0.8µm, dual pixel PDAF\nTOF 3D, (depth)",
+   "Features": "Laser AF, Leica lenses, Dual-LED flash, HDR, panorama",
    "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240fps, 720p@3840fps, gyro-EIS, Dolby Vision HDR 10-bit rec. (4K, 1080p)"
   },
   "Selfie camera": {

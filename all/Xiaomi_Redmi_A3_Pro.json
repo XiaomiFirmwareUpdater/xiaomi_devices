@@ -1,0 +1,75 @@
+{
+ "name": "Xiaomi Redmi A3 Pro",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a3.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_redmi_a3_pro-13432.php",
+ "codenames": [
+  "pond"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA / LTE",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 850 / 900 / 2100",
+   "4G bands": "LTE",
+   "Speed": "HSPA, LTE"
+  },
+  "Launch": {
+   "Announced": "2024, October",
+   "Status": "Available. Released 2024, October"
+  },
+  "Body": {
+   "Dimensions": "171.9 x 77.8 x 8.2 mm (6.77 x 3.06 x 0.32 in)",
+   "Weight": "-",
+   "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+   "Type": "IPS LCD, 90Hz",
+   "Size": "6.88 inches, 112.4 cm2 (~84.0% screen-to-body ratio)",
+   "Resolution": "720 x 1640 pixels (~260 ppi density)"
+  },
+  "Platform": {
+   "OS": "Android 14, HyperOS",
+   "Chipset": "Mediatek Helio G81 Ultra",
+   "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+   "GPU": "Mali-G52 MC2"
+  },
+  "Memory": {
+   "Card slot": "microSDXC (dedicated slot)",
+   "Internal": "128GB 4GB RAM",
+   "info": "eMMC 5.1"
+  },
+  "Main Camera": {
+   "Single": "50 MP, f/1.8, (wide)\nAuxiliary lens",
+   "Features": "LED flash, HDR",
+   "Video": "1080p@30fps"
+  },
+  "Selfie camera": {
+   "Single": "Yes",
+   "Video": "1080p@30fps"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes",
+   "3.5mm jack": "Yes"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.4, A2DP, LE",
+   "Positioning": "GPS, GLONASS, GALILEO, BDS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "Unspecified",
+   "USB": "USB Type-C 2.0"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (side-mounted), accelerometer, compass",
+   "info": "Virtual proximity sensing"
+  },
+  "Battery": {
+   "Type": "5160 mAh, non-removable",
+   "Charging": "10W wired"
+  },
+  "Misc": {
+   "Colors": "Blue; other colors",
+   "Price": "About 100 EUR"
+  }
+ }
+}

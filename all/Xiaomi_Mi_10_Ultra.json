@@ -43,8 +43,8 @@
    "info": "UFS 3.1"
   },
   "Main Camera": {
-   "Quad": "48 MP, f/1.9, 25mm (wide), 1/1.32\", 1.2µm, PDAF, Laser AF, OIS\n48 MP, f/4.1, 120mm (periscope telephoto), 1/2.0\", 0.8µm, PDAF, OIS, 5x optical zoom\n12 MP, f/2.0, 50mm (telephoto), 1/2.55\", 1.4µm, dual pixel PDAF, 2x optical zoom\n20 MP, f/2.2, 128˚, 12mm (ultrawide), 1/2.8\", 1.0µm, PDAF",
-   "Features": "Dual-LED flash, HDR, panorama",
+   "Quad": "48 MP, f/1.9, 25mm (wide), 1/1.32\", 1.2µm, PDAF, OIS\n48 MP, f/4.1, 120mm (periscope telephoto), 1/2.0\", 0.8µm, PDAF, OIS, 5x optical zoom\n12 MP, f/2.0, 50mm (telephoto), 1/2.55\", 1.4µm, dual pixel PDAF, 2x optical zoom\n20 MP, f/2.2, 128˚, 12mm (ultrawide), 1/2.8\", 1.0µm, PDAF",
+   "Features": "Laser AF, Dual-LED flash, HDR, panorama",
    "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10 rec."
   },
   "Selfie camera": {

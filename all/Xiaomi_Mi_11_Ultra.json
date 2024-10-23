@@ -44,8 +44,8 @@
    "info": "UFS 3.1"
   },
   "Main Camera": {
-   "Triple": "50 MP, f/2.0, 24mm (wide), 1/1.12\", 1.4µm, dual pixel PDAF, Laser AF, OIS\n48 MP, f/4.1, 120mm (periscope telephoto), 1/2.0\", 0.8µm, PDAF, OIS, 5x optical zoom\n48 MP, f/2.2, 12mm, 128˚ (ultrawide), 1/2.0\", 0.8µm, PDAF",
-   "Features": "Dual-LED flash, HDR, panorama, 1.1” AMOLED selfie display",
+   "Triple": "50 MP, f/2.0, 24mm (wide), 1/1.12\", 1.4µm, dual pixel PDAF, OIS\n48 MP, f/4.1, 120mm (periscope telephoto), 1/2.0\", 0.8µm, PDAF, OIS, 5x optical zoom\n48 MP, f/2.2, 12mm, 128˚ (ultrawide), 1/2.0\", 0.8µm, PDAF",
+   "Features": "Laser AF, Dual-LED flash, HDR, panorama, 1.1” AMOLED selfie display",
    "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240/960/1920fps, gyro-EIS, HDR10+ rec."
   },
   "Selfie camera": {

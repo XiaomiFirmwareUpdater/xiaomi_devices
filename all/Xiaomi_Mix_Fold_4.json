@@ -44,8 +44,8 @@
    "info": "UFS 4.0"
   },
   "Main Camera": {
-   "Quad": "50 MP, f/1.7, 23mm (wide), 1/1.49\", 1.0µm, Laser AF, PDAF, OIS\n50 MP, f/2.0, 47mm (telephoto), PDAF (9cm - ∞), OIS, 2x optical zoom\n10 MP, f/2.9, 115mm (periscope telephoto), PDAF (30cm - ∞), OIS, 5x optical zoom\n12 MP, f/2.2, 15mm, 120˚ (ultrawide)",
-   "Features": "LED flash, HDR, panorama, Leica lenses",
+   "Quad": "50 MP, f/1.7, 23mm (wide), 1/1.49\", 1.0µm, PDAF, OIS\n50 MP, f/2.0, 47mm (telephoto), PDAF (9cm - ∞), OIS, 2x optical zoom\n10 MP, f/2.9, 115mm (periscope telephoto), PDAF (30cm - ∞), OIS, 5x optical zoom\n12 MP, f/2.2, 15mm, 120˚ (ultrawide)",
+   "Features": "Laser AF, LED flash, HDR, panorama, Leica lenses",
    "Video": "8K@24fps, 4K@24/30/60fps, 1080p@30/60/120/240/960fps, 720p@1920fps, Dolby Vision HDR"
   },
   "Selfie camera": {

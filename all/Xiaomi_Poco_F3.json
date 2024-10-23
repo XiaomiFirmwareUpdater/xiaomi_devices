@@ -32,7 +32,7 @@
    "Protection": "Corning Gorilla Glass 5"
   },
   "Platform": {
-   "OS": "Android 11, MIUI 12.5.6 for POCO",
+   "OS": "Android 11, upgradable to Android 13, HyperOS",
    "Chipset": "Qualcomm SM8250-AC Snapdragon 870 5G (7 nm)",
    "CPU": "Octa-core (1x3.2 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.80 GHz Kryo 585)",
    "GPU": "Adreno 650"
@@ -79,7 +79,7 @@
    "Models": "M2012K11AG",
    "SAR": "1.06 W/kg (head)     0.72 W/kg (body)",
    "SAR EU": "0.60 W/kg (head)     0.84 W/kg (body)",
-   "Price": "€ 166.12"
+   "Price": "€ 189.57"
   },
   "Tests": {
    "Performance": "AnTuTu: 631850 (v8), 697216 (v9)\nGeekBench: 3206 (v5.1)\nGFXBench: 48fps (ES 3.1 onscreen)",

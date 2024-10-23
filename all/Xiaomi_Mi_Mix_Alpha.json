@@ -42,8 +42,8 @@
    "info": "UFS 3.0"
   },
   "Main Camera": {
-   "Triple": "108 MP, f/1.7, (wide), 1/1.33\", 0.8µm, PDAF, Laser AF\n12 MP, f/2.0, 54mm (telephoto), 1/2.55\", 1.4µm, dual pixel PDAF, 2x optical zoom\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0µm",
-   "Features": "Dual-LED flash, HDR, panorama",
+   "Triple": "108 MP, f/1.7, (wide), 1/1.33\", 0.8µm, PDAF\n12 MP, f/2.0, 54mm (telephoto), 1/2.55\", 1.4µm, dual pixel PDAF, 2x optical zoom\n20 MP, f/2.2, 13mm (ultrawide), 1/2.8\", 1.0µm",
+   "Features": "Laser AF, Dual-LED flash, HDR, panorama",
    "Video": "6K@30fps, 4K@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
   },
   "Selfie camera": {

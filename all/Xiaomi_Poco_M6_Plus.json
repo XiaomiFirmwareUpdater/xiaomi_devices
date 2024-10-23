@@ -1,6 +1,6 @@
 {
  "name": "Xiaomi Poco M6 Plus",
- "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m6-plus.jpg",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m6-plus-5g.jpg",
  "url": "https://www.gsmarena.com/xiaomi_poco_m6_plus-13119.php",
  "codenames": [
   "breeze"
@@ -26,29 +26,30 @@
    "info": "IP53, dust and splash resistant"
   },
   "Display": {
-   "Type": "LCD, 120Hz, 550 nits",
+   "Type": "IPS LCD, 120Hz, 550 nits (peak)",
    "Size": "6.79 inches, 109.5 cm2 (~85.1% screen-to-body ratio)",
    "Resolution": "1080 x 2460 pixels (~396 ppi density)",
-   "Protection": "Corning Gorilla Glass"
+   "Protection": "Corning Gorilla Glass 3"
   },
   "Platform": {
-   "OS": "Android 14, HyperOS, up to 2 major Android upgrades",
+   "OS": "Android 14, up to 2 major Android upgrades, HyperOS",
    "Chipset": "Qualcomm SM4450 Snapdragon 4 Gen 2 AE (4 nm)",
    "CPU": "Octa-core (2x2.3 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
    "GPU": "Adreno 613"
   },
   "Memory": {
    "Card slot": "microSDXC (uses shared SIM slot)",
-   "Internal": "128GB 6GB RAM, 128GB 8GB RAM"
+   "Internal": "128GB 6GB RAM, 128GB 8GB RAM",
+   "info": "UFS 2.2"
   },
   "Main Camera": {
-   "Dual": "108 MP, f/1.8, 28mm (wide), 0.7µm, PDAF\n2 MP (macro)",
-   "Features": "LED flash, HDR",
+   "Dual": "108 MP, f/1.8, 28mm (wide), 0.64µm, PDAF\n2 MP (macro)",
+   "Features": "LED flash, HDR, panorama",
    "Video": "1080p@30fps"
   },
   "Selfie camera": {
-   "Single": "13 MP, f/2.2, (wide)",
-   "Features": "HDR",
+   "Single": "13 MP, f/2.5, (wide)",
+   "Features": "HDR, panorama",
    "Video": "1080p@30fps"
   },
   "Sound": {
@@ -58,7 +59,7 @@
   },
   "Comms": {
    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
-   "Bluetooth": "5.3, A2DP, LE",
+   "Bluetooth": "5.0, A2DP, LE",
    "Positioning": "GPS, GLONASS, GALILEO, BDS",
    "NFC": "No",
    "Infrared port": "Yes",
@@ -66,7 +67,7 @@
    "USB": "USB Type-C"
   },
   "Features": {
-   "Sensors": "Fingerprint (side-mounted), accelerometer, compass"
+   "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
   },
   "Battery": {
    "Type": "5030 mAh, non-removable",
@@ -74,7 +75,7 @@
   },
   "Misc": {
    "Colors": "Black, Purple, Silver",
-   "Price": "₹ 13,899"
+   "Price": "₹ 11,199"
   }
  }
 }

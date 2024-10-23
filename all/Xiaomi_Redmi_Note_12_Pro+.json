@@ -33,7 +33,7 @@
    "Protection": "Corning Gorilla Glass 5"
   },
   "Platform": {
-   "OS": "Android 12, MIUI 13",
+   "OS": "Android 12, upgradable to Android 14, HyperOS",
    "Chipset": "Mediatek Dimensity 1080 (6 nm)",
    "CPU": "Octa-core (2x2.6 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
    "GPU": "Mali-G68 MC4"
@@ -77,7 +77,7 @@
   "Misc": {
    "Colors": "Arctic White, Iceberg Blue, Obsidian Black, Trend edition",
    "Models": "22101316UCP, 22101316UG",
-   "Price": "$ 275.00 / £ 241.86 / € 233.31 / ₹ 18,999"
+   "Price": "$ 225.00 / £ 222.86 / € 237.48 / ₹ 18,999"
   },
   "Tests": {
    "Performance": "AnTuTu: 498710 (v9)\nGeekBench: 2208 (v5.1), 2372 (v6)\nGFXBench: 22fps (ES 3.1 onscreen)",

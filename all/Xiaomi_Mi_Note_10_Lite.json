@@ -41,8 +41,8 @@
    "info": "UFS 2.1"
   },
   "Main Camera": {
-   "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.72\", 0.8µm, PDAF, Laser AF\n8 MP, f/2.2, (ultrawide), 1/4.0\", 1.12µm\n2 MP, f/2.4, (macro)\n5 MP, f/2.4, (depth)",
-   "Features": "Quad-LED flash, HDR, panorama",
+   "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.72\", 0.8µm, PDAF\n8 MP, f/2.2, (ultrawide), 1/4.0\", 1.12µm\n2 MP, f/2.4, (macro)\n5 MP, f/2.4, (depth)",
+   "Features": "Laser AF, Quad-LED flash, HDR, panorama",
    "Video": "4K@30fps, 1080p@30/60/120fps, 720p@960fps"
   },
   "Selfie camera": {
@@ -76,7 +76,7 @@
    "Models": "M2002F4LG, M1910F4G",
    "SAR": "1.17 W/kg (head)     0.86 W/kg (body)",
    "SAR EU": "1.01 W/kg (head)     1.39 W/kg (body)",
-   "Price": "£ 239.99 / € 279.90"
+   "Price": "About 110 EUR"
   },
   "Tests": {
    "Performance": "AnTuTu: 253271 (v8)\nGeekBench: 1694 (v5.1)\nGFXBench: 15fps (ES 3.1 onscreen)",

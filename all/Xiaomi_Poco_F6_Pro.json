@@ -32,7 +32,7 @@
    "Protection": "Corning Gorilla Glass 5"
   },
   "Platform": {
-   "OS": "Android 14, HyperOS",
+   "OS": "Android 14, up to 3 major Android upgrades, HyperOS",
    "Chipset": "Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)",
    "CPU": "Octa-core (1x3.2 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)",
    "GPU": "Adreno 740"
@@ -75,7 +75,7 @@
   },
   "Misc": {
    "Colors": "Black, White",
-   "Price": "$ 487.00 / £ 421.13 / € 450.54"
+   "Price": "$ 469.99 / £ 357.95 / € 415.00"
   },
   "Tests": {
    "Performance": "AnTuTu: 1287854 (v9), 1584439 (v10)\nGeekBench: 4859 (v5), 5310 (v6)",

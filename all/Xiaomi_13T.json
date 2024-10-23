@@ -32,7 +32,7 @@
    "Protection": "Corning Gorilla Glass 5"
   },
   "Platform": {
-   "OS": "Android 13, upgradable to Android 14, HyperOS",
+   "OS": "Android 13, up to 4 major Android upgrades, HyperOS",
    "Chipset": "Mediatek Dimensity 8200 Ultra (4 nm)",
    "CPU": "Octa-core (1x3.1 GHz Cortex-A78 & 3x3.0 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
    "GPU": "Mali-G610 MC6"
@@ -76,7 +76,7 @@
   "Misc": {
    "Colors": "Alpine Blue, Meadow Green, Black",
    "Models": "2306EPN60G",
-   "Price": "$ 489.99 / £ 371.52 / € 376.73"
+   "Price": "$ 480.00 / £ 374.24 / € 346.89"
   },
   "Tests": {
    "Performance": "AnTuTu: 825858 (v9), 888714 (v10)\nGeekBench: 3755 (v5), 3841 (v6)\nGFXBench: 43fps (ES 3.1 onscreen)",

@@ -29,7 +29,7 @@
    "Resolution": "720 x 1600 pixels, 20:9 ratio (~269 ppi density)"
   },
   "Platform": {
-   "OS": "Android 10, MIUI 12",
+   "OS": "Android 10, up to Android 11, MIUI 12",
    "Chipset": "Mediatek MT6762G Helio G25 (12 nm)",
    "CPU": "Octa-core (4x2.0 GHz Cortex-A53 & 4x1.5 GHz Cortex-A53)",
    "GPU": "PowerVR GE8320"
@@ -73,7 +73,7 @@
    "Models": "M2006C3LG, M2006C3LI, M2006C3LC, M2004C3L",
    "SAR": "0.90 W/kg (head)     0.65 W/kg (body)",
    "SAR EU": "0.40 W/kg (head)     1.19 W/kg (body)",
-   "Price": "$ 69.00 / £ 80.26 / € 79.00"
+   "Price": "$ 54.24 / £ 50.00 / € 74.96 / ₹ 7,999"
   }
  }
 }

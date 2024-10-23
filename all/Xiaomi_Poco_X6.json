@@ -33,7 +33,7 @@
    "Protection": "Corning Gorilla Glass Victus"
   },
   "Platform": {
-   "OS": "Android 13, MIUI 14, planned upgrade to Android 14, HyperOS",
+   "OS": "Android 13, up to 3 major Android upgrades, HyperOS",
    "Chipset": "Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm)",
    "CPU": "Octa-core (4x2.40 GHz Cortex-A78 & 4x1.95 GHz Cortex-A55)",
    "GPU": "Adreno 710"
@@ -77,7 +77,7 @@
   "Misc": {
    "Colors": "Black, White, Blue",
    "Models": "23122PCD1G, 23122PCD1I",
-   "Price": "$ 231.30 / C$ 479.44 / £ 284.99 / € 208.92 / ₹ 15,999"
+   "Price": "$ 228.00 / C$ 520.39 / £ 284.99 / € 216.57 / ₹ 14,999"
   },
   "Tests": {
    "Performance": "AnTuTu: 533112 (v9), 605803 (v10)\nGeekBench: 2945 (v6)\n3DMark Wild Life: 3032 (offscreen 1440p)",

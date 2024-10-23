@@ -1,6 +1,6 @@
 {
  "name": "Xiaomi Redmi A3x",
- "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-a3x.jpg",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-a3x-new.jpg",
  "url": "https://www.gsmarena.com/xiaomi_redmi_a3x-13053.php",
  "codenames": [
   "klein"
@@ -30,13 +30,13 @@
    "Protection": "Corning Gorilla Glass 3"
   },
   "Platform": {
-   "OS": "Android 14, MIUI",
+   "OS": "Android 14, up to 2 major Android upgrades, MIUI",
    "Chipset": "Unisoc T603 (22 nm)",
    "CPU": "Octa-core 1.8 GHz"
   },
   "Memory": {
    "Card slot": "microSDXC (dedicated slot)",
-   "Internal": "64GB 3GB RAM, 128GB 4GB RAM",
+   "Internal": "64GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM",
    "info": "eMMC 5.1"
   },
   "Main Camera": {
@@ -70,9 +70,9 @@
    "Charging": "10W wired"
   },
   "Misc": {
-   "Colors": "Midnight Black, Moonlight White, Aurora Green",
+   "Colors": "Midnight Black, Moonlight White (Starry White), Aurora Green (Ocean Green), Olive Green",
    "Models": "24048RN6CG, 24048RN6CI",
-   "Price": "$ 102.50"
+   "Price": "$ 89.00 / ₹ 6,420"
   }
  }
 }

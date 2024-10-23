@@ -32,7 +32,7 @@
    "Protection": "Corning Gorilla Glass 3"
   },
   "Platform": {
-   "OS": "Android 13, MIUI 14",
+   "OS": "Android 13, up to 3 major Android upgrades, HyperOS",
    "Chipset": "Qualcomm SM6225 Snapdragon 685 (6 nm)",
    "CPU": "Octa-core (4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53)",
    "GPU": "Adreno 610"
@@ -74,7 +74,7 @@
   "Misc": {
    "Colors": "Midnight Black, Mint Green, Ice Blue, Ocean Sunset",
    "Models": "23129RAA4G, 23124RA7EO",
-   "Price": "$ 154.00 / € 149.96"
+   "Price": "$ 132.69 / £ 137.00 / € 137.40"
   },
   "Tests": {
    "Performance": "AnTuTu: 316857 (v9), 383407 (v10)\nGeekBench: 1817 (v5), 1542 (v6)\n3DMark Wild life: 655 (offscreen 1440p)",

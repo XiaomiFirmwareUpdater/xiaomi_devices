@@ -38,7 +38,7 @@
   },
   "Memory": {
    "Card slot": "No",
-   "Internal": "128GB 6GB RAM, 256GB 8GB RAM",
+   "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM",
    "info": "UFS 3.1\n6GB RAM (LPDDR4X)\n8GB RAM (LPDDR5)"
   },
   "Main Camera": {
@@ -77,7 +77,7 @@
    "Models": "M2004J11G",
    "SAR": "1.09 W/kg (head)     0.51 W/kg (body)",
    "SAR EU": "0.79 W/kg (head)     1.03 W/kg (body)",
-   "Price": "€ 149.95"
+   "Price": "About 150 EUR"
   },
   "Tests": {
    "Performance": "AnTuTu: 538221 (v8)\nGeekBench: 3332 (v5.1)\nGFXBench: 40fps (ES 3.1 onscreen)",

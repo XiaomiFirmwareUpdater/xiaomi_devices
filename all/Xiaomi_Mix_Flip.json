@@ -29,7 +29,7 @@
    "Type": "Foldable LTPO AMOLED, 1B colors, Dolby Vision, HDR10+, 120Hz, 3000 nits (peak)",
    "Size": "6.86 inches, 108.5 cm2 (~87.5% screen-to-body ratio)",
    "Resolution": "1224 x 2912 pixels (~460 ppi density)",
-   "info": "Second external AMOLED, 68B colors, Dolby Vision, HDR10+, 120Hz, 1600 nits (HBM), 3000 nits (peak)\n4 inches, 1392 x 1208 pixels, 460 ppi\nScratch/drop-resistant glass"
+   "info": "Second external AMOLED, 68B colors, Dolby Vision, HDR10+, 120Hz, 1600 nits (HBM), 3000 nits (peak)\n4 inches, 1392 x 1208 pixels, 460 ppi\nXiaomi Shield Glass"
   },
   "Platform": {
    "OS": "Android 14, HyperOS",
@@ -43,7 +43,7 @@
    "info": "UFS 4.0"
   },
   "Main Camera": {
-   "Dual": "50 MP, f/1.7, 23mm (wide), 1.0µm, PDAF, OIS\n50 MP, f/2.0, 47mm (telephoto), PDAF (9cm - ∞), 2x optical zoom",
+   "Dual": "50 MP, f/1.7, 23mm (wide), 1/1.55\", 1.0µm, PDAF, OIS\n50 MP, f/2.0, 47mm (telephoto), PDAF (9cm - ∞), 2x optical zoom",
    "Features": "LED flash, panorama, HDR, Leica lenses",
    "Video": "8K@24fps, 4K@24/30/60fps, 1080p@30/60/120/240/960fps, 720p@1920fps, Dolby Vision HDR"
   },
@@ -76,7 +76,7 @@
   "Misc": {
    "Colors": "Black, White, Purple",
    "Models": "2405CPX3DC",
-   "Price": "About 760 EUR"
+   "Price": "$ 1,299.00 / £ 1,099.00 / € 1,171.45"
   },
   "Tests": {
    "Performance": "AnTuTu: 1609570 (v10)\nGeekBench: 6035 (v6)\n3DMark Wild life: 15514 (offscreen 1440p)",

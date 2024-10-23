@@ -1,0 +1,89 @@
+{
+ "name": "Xiaomi 14T Pro",
+ "picture": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-14t-pro.jpg",
+ "url": "https://www.gsmarena.com/xiaomi_14t_pro-13328.php",
+ "codenames": [
+  "rothko"
+ ],
+ "specs": {
+  "Network": {
+   "Technology": "GSM / HSPA / LTE / 5G",
+   "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+   "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+   "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 42, 48, 66",
+   "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 48, 66, 75, 77, 78 SA/NSA",
+   "Speed": "HSPA, LTE, 5G"
+  },
+  "Launch": {
+   "Announced": "2024, September 26",
+   "Status": "Available. Released 2024, September 26"
+  },
+  "Body": {
+   "Dimensions": "160.4 x 75.1 x 8.4 mm (6.31 x 2.96 x 0.33 in)",
+   "Weight": "209 g (7.37 oz)",
+   "Build": "Glass front, aluminum frame",
+   "SIM": "Nano-SIM, eSIM or eSIM, eSIM or Dual SIM (Nano-SIM, dual stand-by)",
+   "info": "IP68 dust/water resistant (up to 2m for 30 min)\n6M13 aluminium alloy, 281 N/mm frame rigidity, 260 N/mm device rigidity (advertised values)"
+  },
+  "Display": {
+   "Type": "AMOLED, 68B colors, 144Hz, Dolby Vision, HDR10+, 1600 nits (HBM), 4000 nits (peak)",
+   "Size": "6.67 inches, 107.4 cm2 (~89.1% screen-to-body ratio)",
+   "Resolution": "1220 x 2712 pixels, 20:9 ratio (~446 ppi density)",
+   "Protection": "Scratch/drop-resistant glass"
+  },
+  "Platform": {
+   "OS": "Android 14, HyperOS",
+   "Chipset": "Mediatek Dimensity 9300+ (4 nm)",
+   "CPU": "Octa-core (1x3.4 GHz Cortex-X4 & 3x2.85 GHz Cortex-X4 & 4x2.0 GHz Cortex-A720)",
+   "GPU": "Immortalis-G720 MC12"
+  },
+  "Memory": {
+   "Card slot": "No",
+   "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 12GB RAM",
+   "info": "UFS 4.0"
+  },
+  "Main Camera": {
+   "Triple": "50 MP, f/1.6, 23mm (wide), 1/1.31\", 1.2µm, PDAF, OIS\n50 MP, f/2.0, 60mm (telephoto), 1/2.88\", 0.61µm, PDAF, 2.6x optical zoom\n12 MP, f/2.2, 15mm (ultrawide), 1/3.06\", 1.12µm",
+   "Features": "Leica lens, Ultra HDR, LED flash, HDR, panorama",
+   "Video": "8K@24/30fps, 4K@24/30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, 10-bit Rec. 2020, HDR10+"
+  },
+  "Selfie camera": {
+   "Single": "32 MP, f/2.0, 25mm (wide)",
+   "Features": "HDR",
+   "Video": "4K@30fps, 1080p@30/60fps, HDR10+"
+  },
+  "Sound": {
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm jack": "No",
+   "info": "24-bit/192kHz Hi-Res & Hi-Res Wireless audio"
+  },
+  "Comms": {
+   "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.4, A2DP, LE, LHDC",
+   "Positioning": "GPS (L1+L5), BDS (B1I+B1C+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L5), GLONASS",
+   "NFC": "Yes (market/region dependent)",
+   "Infrared port": "Yes",
+   "Radio": "Unspecified",
+   "USB": "USB Type-C 2.0, OTG"
+  },
+  "Features": {
+   "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+   "info": "Circle to Search"
+  },
+  "Battery": {
+   "Type": "Li-Po 5000 mAh, non-removable",
+   "Charging": "120W wired, PD3.0, QC4, 100% in 19 min (advertised)\n50W wireless, 100% in 45 min (advertised)"
+  },
+  "Misc": {
+   "Colors": "Titan Gray, Titan Blue, Titan Black",
+   "Price": "$ 749.99 / £ 699.00 / € 697.00"
+  },
+  "Tests": {
+   "Performance": "AnTuTu: 2015655 (v10)\nGeekBench: 7081 (v6)\n3DMark Wild life: 14352 (offscreen 1440p)",
+   "Display": "Maximum brightness: 1228nits (measured)",
+   "Loudspeaker": "-26.0 LUFS (Very good)",
+   "Battery (new)": "Active use score 12:32h",
+   "info": ""
+  }
+ }
+}

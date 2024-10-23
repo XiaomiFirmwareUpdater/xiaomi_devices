@@ -31,7 +31,7 @@
    "Protection": "Corning Gorilla Glass 5"
   },
   "Platform": {
-   "OS": "Android 14, HyperOS",
+   "OS": "Android 14, up to 3 major Android upgrades, HyperOS",
    "Chipset": "Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)",
    "CPU": "Octa-core (1x3.2 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)",
    "GPU": "Adreno 740"
