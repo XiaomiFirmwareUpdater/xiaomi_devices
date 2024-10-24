@@ -573,6 +573,22 @@
    "`2407FRK8EC`": "Redmi K70 Ultra China"
   }
  },
+ "dada": {
+  "internal_name": "O3",
+  "name": "Xiaomi 15",
+  "models": {
+   "`24129PN74G`": "Xiaomi 15 Global",
+   "`24129PN74I`": "Xiaomi 15 India",
+   "`24129PN74C`": "Xiaomi 15 China"
+  }
+ },
+ "haotian": {
+  "internal_name": "O2",
+  "name": "Xiaomi 15 Pro",
+  "models": {
+   "`2410DPN6CC`": "Xiaomi 15 Pro China"
+  }
+ },
  "virgo": {
   "internal_name": "X5",
   "name": "Mi Note",
@@ -1315,6 +1331,7 @@
    "`2409BRN2CA`": "Redmi 14C Global",
    "`2409BRN2CI`": "Redmi 14C India",
    "`2409BRN2CL`": "Redmi 14C Latin America",
+   "`2409BRN2CC`": "Redmi 14C China",
    "`2409BRN2CG`": "Redmi A3 Pro Global"
   }
  },
@@ -1326,10 +1343,11 @@
   }
  },
  "flame": {
-  "internal_name": "",
-  "name": "Redmi 14R 5G (`flame`)",
+  "internal_name": "C3F/C3FP",
+  "name": "Redmi 14R 5G/POCO M7 5G",
   "models": {
-   "`2411DRN47C`": "Redmi 14R 5G China"
+   "`2411DRN47C`": "Redmi 14R 5G China",
+   "`24108PCE2I`": "POCO M7 5G India"
   }
  },
  "lcsh92_wet_gb9": {
@@ -1784,10 +1802,9 @@
  },
  "xagapro": {
   "internal_name": "L16U",
-  "name": "Redmi Note 11T Pro+/POCO X4 GT Pro",
+  "name": "Redmi Note 11T Pro+",
   "models": {
-   "`22041216UC`": "Redmi Note 11T Pro+ 5G China",
-   "`22041216UG`": "POCO X4 GT Pro Global"
+   "`22041216UC`": "Redmi Note 11T Pro+ 5G China"
   }
  },
  "tapas": {
@@ -1948,6 +1965,13 @@
    "`24094RAD4G`": "Redmi Note 14 5G Global",
    "`24094RAD4I`": "Redmi Note 14 5G India",
    "`24094RAD4C`": "Redmi Note 14 5G China"
+  }
+ },
+ "obsidian": {
+  "internal_name": "O6",
+  "name": "Redmi Note 14 Pro",
+  "models": {
+   "`24116RACCG`": "Redmi Note 14 Pro Global"
   }
  },
  "malachite": {
@@ -2456,6 +2480,22 @@
    "`24018RPACC`": "Xiaomi Pad 6S Pro 12.4 China"
   }
  },
+ "uke": {
+  "internal_name": "O82",
+  "name": "Xiaomi Pad 7",
+  "models": {
+   "`2410CRP4CG`": "Xiaomi Pad 7 Global",
+   "`2410CRP4CC`": "Xiaomi Pad 7 China"
+  }
+ },
+ "muyu": {
+  "internal_name": "O81",
+  "name": "Xiaomi Pad 7 Pro",
+  "models": {
+   "`24091RPADG`": "Xiaomi Pad 7 Pro Global",
+   "`24091RPADC`": "Xiaomi Pad 7 Pro China"
+  }
+ },
  "yunluo": {
   "internal_name": "L83",
   "name": "Redmi Pad",
@@ -2466,10 +2506,10 @@
  },
  "xun": {
   "internal_name": "M84",
-  "name": "Redmi Pad SE",
+  "name": "Redmi Pad SE/Redmi Pad M7",
   "models": {
    "`23073RPBFG`": "Redmi Pad SE Global",
-   "`23073RPBFC`": "Redmi Pad SE China",
+   "`23073RPBFC`": "Redmi Pad M7 China",
    "`23073RPBFL`": "Redmi Pad SE Latin America"
   }
  },
