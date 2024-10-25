@@ -3163,6 +3163,10 @@
     "display_name": "XM-FLAME-TW-GLOBAL",
     "display_name_en": "XM-FLAME-TW-GLOBAL"
   },
+  "flare": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
   "flare_eea_global": {
     "display_name": "Redmi Pad SE 8.7",
     "display_name_en": "Redmi Pad SE 8.7"
