@@ -501,48 +501,6 @@
      "deviceName": "Xiaomi Civi (cn)",
      "sku": "mona",
      "projectCode": "K9B"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Redmi Note 11 Pro (cn)",
-     "sku": "pissarro",
-     "projectCode": "K16/K16U"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Redmi Note 11 Pro+ (cn)",
-     "sku": "pissarro",
-     "projectCode": "K16/K16U"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Xiaomi Pad 5 (tw)",
-     "sku": "nabu_tw_global",
-     "projectCode": "K82"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Xiaomi Pad 5 (tr)",
-     "sku": "nabu_tr_global",
-     "projectCode": "K82"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Xiaomi Pad 5 (ru)",
-     "sku": "nabu_ru_global",
-     "projectCode": "K82"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Xiaomi Pad 5 (eea)",
-     "sku": "nabu_eea_global",
-     "projectCode": "K82"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Xiaomi Pad 5 (global)",
-     "sku": "nabu_global",
-     "projectCode": "K82"
     }
    ]
   },
@@ -957,30 +915,6 @@
      "deviceName": "Redmi Note 8 (2021) (ru)",
      "sku": "biloba_ru_global",
      "projectCode": "C3J1"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi 10 2022 (mx)",
-     "sku": "selene_mx_at_global",
-     "projectCode": "K19S/K19U/K19V/K19T/K19A/K19B/K19L/K19D"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi Note 10 JE (jp)",
-     "sku": "iris_jp_kd_global",
-     "projectCode": "K19J"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi 10 2022 (mx)",
-     "sku": "selene_mx_tc_global",
-     "projectCode": "K19S/K19U/K19V/K19T/K19A/K19B/K19L/K19D"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi 10 2022 (tw)",
-     "sku": "selene_tw_global",
-     "projectCode": "K19S/K19U/K19V/K19T/K19A/K19B/K19L/K19D"
     }
    ]
   },
@@ -1105,15 +1039,9 @@
      "deviceName": "POCO C31 (in)",
      "sku": "angelicain_in_rf_global",
      "projectCode": "C3M-IN"
-    },
-    {
-     "brand": "POCO",
-     "deviceName": "POCO X3 GT (id)",
-     "sku": "chopin_id_global",
-     "projectCode": "K10A"
     }
    ]
   }
  ],
- "updateAt": "2024-10-24T03:02:06.000Z"
+ "updateAt": "2024-10-24T21:34:49.000Z"
 }
