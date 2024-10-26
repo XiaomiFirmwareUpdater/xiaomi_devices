@@ -1207,7 +1207,7 @@
  "polaris_global": "Mi MIX 2S Global",
  "polaris_ru_global": "Mi MIX 2S Russia",
  "pomelo": "Redmi 9T",
- "pond": "Redmi 14C/Redmi A3 Pro",
+ "pond": "Redmi 14C/Redmi A3 Pro/POCO C75",
  "prada": "Redmi 4 China",
  "prada_global": "Redmi 4 Global",
  "psyche": "Xiaomi 12X China",
@@ -1842,5 +1842,6 @@
  "ziyi_ru_global": "Xiaomi Civi 2 / 13 Lite Russia",
  "ziyi_tr_global": "Xiaomi 13 Lite Turkey",
  "ziyi_tw_global": "Xiaomi Civi 2 / 13 Lite Taiwan",
- "zizhan": "Xiaomi MIX Fold 2 China"
+ "zizhan": "Xiaomi MIX Fold 2 China",
+ "zorn": "Redmi K80 (`zorn`)"
 }
