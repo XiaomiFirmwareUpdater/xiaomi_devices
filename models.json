@@ -1325,21 +1325,23 @@
   }
  },
  "pond": {
-  "internal_name": "C3N",
-  "name": "Redmi 14C/Redmi A3 Pro",
+  "internal_name": "C3N/C3NP",
+  "name": "Redmi 14C/Redmi A3 Pro/POCO C75",
   "models": {
    "`2409BRN2CA`": "Redmi 14C Global",
    "`2409BRN2CI`": "Redmi 14C India",
    "`2409BRN2CL`": "Redmi 14C Latin America",
    "`2409BRN2CC`": "Redmi 14C China",
-   "`2409BRN2CG`": "Redmi A3 Pro Global"
+   "`2409BRN2CG`": "Redmi A3 Pro Global",
+   "`2410FPCC5I`": "POCO C75 India"
   }
  },
  "lake": {
-  "internal_name": "C3N",
-  "name": "Redmi 14C",
+  "internal_name": "C3N/C3NP",
+  "name": "Redmi 14C/POCO C75",
   "models": {
-   "`2409BRN2CY`": "Redmi 14C Global (NFC)"
+   "`2409BRN2CY`": "Redmi 14C Global (NFC)",
+   "`2410FPCC5G`": "POCO C75 Global"
   }
  },
  "flame": {
@@ -2178,6 +2180,13 @@
    "`2311DRK48C`": "Redmi K70E China",
    "`2311DRK48G`": "POCO X6 Pro 5G Global",
    "`2311DRK48I`": "POCO X6 Pro 5G India"
+  }
+ },
+ "zorn": {
+  "internal_name": "",
+  "name": "Redmi K80 (`zorn`)",
+  "models": {
+   "`24117RK2CC`": "Redmi K80 China"
   }
  },
  "omega": {
