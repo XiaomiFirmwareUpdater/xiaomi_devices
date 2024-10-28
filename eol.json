@@ -216,128 +216,14 @@
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "Mi 10 Pro (Global)",
-     "sku": "cmi_global",
-     "projectCode": "J1"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10 Pro (EEA)",
-     "sku": "cmi_eea_global",
-     "projectCode": "J1"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10 (TR)",
-     "sku": "umi_tr_global",
-     "projectCode": "J2"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10 (ID)",
-     "sku": "umi_id_global",
-     "projectCode": "J2"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10 (EEA)",
-     "sku": "umi_eea_global",
-     "projectCode": "J2"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10 (IN)",
-     "sku": "umi_in_global",
-     "projectCode": "J2"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10 (RU)",
-     "sku": "umi_ru_global",
-     "projectCode": "J2"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10 (Global)",
-     "sku": "umi_global",
-     "projectCode": "J2"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10 (CN)",
-     "sku": "umi",
-     "projectCode": "J2"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10 Ultra (CN)",
-     "sku": "cas",
-     "projectCode": "J1S"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10T Pro (Global)",
+     "deviceName": "Mi 10T Pro",
      "sku": "apollo_global",
      "projectCode": "J3S"
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "Mi 10T (Global)",
+     "deviceName": "Mi 10T",
      "sku": "apollo_global",
-     "projectCode": "J3S"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10T Pro (EEA)",
-     "sku": "apollo_eea_global",
-     "projectCode": "J3S"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10T (EEA)",
-     "sku": "apollo_eea_global",
-     "projectCode": "J3S"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10T Pro (IN)",
-     "sku": "apollo_in_global",
-     "projectCode": "J3S"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10T (IN)",
-     "sku": "apollo_in_global",
-     "projectCode": "J3S"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10T Pro (LM)",
-     "sku": "apollo_lm_cr_global",
-     "projectCode": "J3S"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10T Pro (MX)",
-     "sku": "apollo_mx_tc_global",
-     "projectCode": "J3S"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10T (MX)",
-     "sku": "apollo_mx_tc_global",
-     "projectCode": "J3S"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10T Pro (RU)",
-     "sku": "apollo_ru_global",
-     "projectCode": "J3S"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10T (RU)",
-     "sku": "apollo_ru_global",
      "projectCode": "J3S"
     },
     {
@@ -390,115 +276,55 @@
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "Mi 10S (cn)",
+     "deviceName": "Mi 10S (CN)",
      "sku": "thyme",
      "projectCode": "J2S"
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "Mi 10 Pro (eea)",
-     "sku": "cmi_eea_global",
-     "projectCode": "J1"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10 Pro (global)",
-     "sku": "cmi_global",
-     "projectCode": "J1"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10 Pro (cn)",
+     "deviceName": "Mi 10 Pro",
      "sku": "cmi",
      "projectCode": "J1"
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "Mi 10 (tr)",
-     "sku": "umi_tr_global",
-     "projectCode": "J2"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10 (id)",
-     "sku": "umi_id_global",
-     "projectCode": "J2"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10 (eea)",
-     "sku": "umi_eea_global",
-     "projectCode": "J2"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "MI 10 (in)",
-     "sku": "umi_in_global",
-     "projectCode": "J2"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10 (ru)",
-     "sku": "umi_ru_global",
-     "projectCode": "J2"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10 (global)",
-     "sku": "umi_global",
-     "projectCode": "J2"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Mi 10 (cn)",
+     "deviceName": "Mi 10 ",
      "sku": "umi",
      "projectCode": "J2"
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "Mi 10 Ultra (cn)",
+     "deviceName": "Mi 10 Ultra",
      "sku": "cas",
      "projectCode": "J1S"
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "Mi 11 Lite 5G (jp)",
+     "deviceName": "Mi 11 Lite 5G (JP)",
      "sku": "renoir_jp_global",
      "projectCode": "K9"
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "XM-ELISH-DEMO (cn)",
-     "sku": "elish_demo",
-     "projectCode": "K81A"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "MIX 4 (cn)",
+     "deviceName": "MIX 4 (CN)",
      "sku": "odin",
      "projectCode": "K8"
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "Xiaomi Pad 5 Pro 5G (cn)",
+     "deviceName": "Xiaomi Pad 5 Pro 5G (CN)",
      "sku": "enuma",
      "projectCode": "K81"
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "Xiaomi Pad 5 Pro (cn)",
+     "deviceName": "Xiaomi Pad 5 Pro (CN)",
      "sku": "elish",
      "projectCode": "K81A"
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "XM-ENUMA-DEMO (cn)",
-     "sku": "enuma_demo",
-     "projectCode": "K81"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Xiaomi Civi (cn)",
+     "deviceName": "Xiaomi Civi (CN)",
      "sku": "mona",
      "projectCode": "K9B"
     }
@@ -888,33 +714,45 @@
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi Note 10 5G (tw)",
+     "deviceName": "Redmi Note 10 5G (TW)",
      "sku": "camellian_tw_global",
      "projectCode": "K19/K19P"
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi Note 10T (ru)",
+     "deviceName": "Redmi Note 10T (RU)",
      "sku": "camellian_ru_global",
      "projectCode": "K19/K19P"
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi Note 8 (2021) (eea)",
+     "deviceName": "Redmi Note 8 (2021) (EEA)",
      "sku": "biloba_eea_global",
      "projectCode": "C3J1"
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi Note 10 5G (tr)",
+     "deviceName": "Redmi Note 10 5G (TR)",
      "sku": "camellian_tr_global",
      "projectCode": "K19/K19P"
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi Note 8 (2021) (ru)",
+     "deviceName": "Redmi Note 8 (2021) (RU)",
      "sku": "biloba_ru_global",
      "projectCode": "C3J1"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi K40 (CN)",
+     "sku": "alioth",
+     "projectCode": "K11A"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 10 JE (JP)",
+     "sku": "iris_jp_kd_global",
+     "projectCode": "K19J"
     }
    ]
   },
@@ -1006,19 +844,19 @@
     },
     {
      "brand": "POCO",
-     "deviceName": "POCO M3 Pro 5G (ru)",
+     "deviceName": "POCO M3 Pro 5G (RU)",
      "sku": "camellian_ru_global",
      "projectCode": "K19/K19P"
     },
     {
      "brand": "POCO",
-     "deviceName": "POCO M3 Pro 5G (tr)",
+     "deviceName": "POCO M3 Pro 5G (TR)",
      "sku": "camellian_tr_global",
      "projectCode": "K19/K19P"
     },
     {
      "brand": "POCO",
-     "deviceName": "POCO F3 GT (in)",
+     "deviceName": "POCO F3 GT (IN)",
      "sku": "ares_in_global",
      "projectCode": "K10"
     },
@@ -1030,18 +868,18 @@
     },
     {
      "brand": "POCO",
-     "deviceName": "Redmi K40 (cn)",
-     "sku": "alioth",
-     "projectCode": "K11A"
+     "deviceName": "POCO C31 (IN)",
+     "sku": "angelicain_in_rf_global",
+     "projectCode": "C3M-IN"
     },
     {
      "brand": "POCO",
-     "deviceName": "POCO C31 (in)",
-     "sku": "angelicain_in_rf_global",
-     "projectCode": "C3M-IN"
+     "deviceName": "POCO X3 GT (ID)",
+     "sku": "chopin_id_global",
+     "projectCode": "K10A"
     }
    ]
   }
  ],
- "updateAt": "2024-10-24T21:34:49.000Z"
+ "updateAt": "2024-10-27T23:58:24.000Z"
 }
