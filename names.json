@@ -1,5 +1,5 @@
 {
- "FYJ01QP": "Xiaomi Mijia Translator (`FYJ01QP`)",
+ "Babel": "Xiaomi Mijia Translator (`Babel`)",
  "HM2013022": "Redmi 1 China",
  "HM2013023": "Redmi 1 W Global",
  "HM2013023_sg_global": "Redmi 1 W Singapore",
@@ -309,6 +309,7 @@
  "chopin_id_global": "POCO X3 GT Indonesia",
  "chopin_in_global": "POCO X3 GT India",
  "chopin_tr_global": "POCO X3 GT Turkey",
+ "citrine": "Redmi Note 14 5G/POCO M7 Pro 5G",
  "citrus": "POCO M3",
  "citrus_eea_global": "POCO M3 EEA",
  "citrus_global": "POCO M3 Global",
@@ -1843,5 +1844,5 @@
  "ziyi_tr_global": "Xiaomi 13 Lite Turkey",
  "ziyi_tw_global": "Xiaomi Civi 2 / 13 Lite Taiwan",
  "zizhan": "Xiaomi MIX Fold 2 China",
- "zorn": "Redmi K80 (`zorn`)"
+ "zorn": "Redmi K80"
 }
