@@ -2043,6 +2043,98 @@
     "display_name": "XM-CUTTLEFISH-QCOM-PRE-GLOBAL",
     "display_name_en": "XM-CUTTLEFISH-QCOM-PRE-GLOBAL"
   },
+  "dada": {
+    "display_name": "Xiaomi 15",
+    "display_name_en": "Xiaomi 15"
+  },
+  "dada_dc_global": {
+    "display_name": "XM-DADA-DC-GLOBAL",
+    "display_name_en": "XM-DADA-DC-GLOBAL"
+  },
+  "dada_eea_global": {
+    "display_name": "XM-DADA-EEA-GLOBAL",
+    "display_name_en": "XM-DADA-EEA-GLOBAL"
+  },
+  "dada_global": {
+    "display_name": "XM-DADA-GLOBAL",
+    "display_name_en": "XM-DADA-GLOBAL"
+  },
+  "dada_id_global": {
+    "display_name": "XM-DADA-ID-GLOBAL",
+    "display_name_en": "XM-DADA-ID-GLOBAL"
+  },
+  "dada_in_global": {
+    "display_name": "XM-DADA-IN-GLOBAL",
+    "display_name_en": "XM-DADA-IN-GLOBAL"
+  },
+  "dada_lm_cr_global": {
+    "display_name": "XM-DADA-LM-CR-GLOBAL",
+    "display_name_en": "XM-DADA-LM-CR-GLOBAL"
+  },
+  "dada_mx_at_global": {
+    "display_name": "XM-DADA-MX-AT-GLOBAL",
+    "display_name_en": "XM-DADA-MX-AT-GLOBAL"
+  },
+  "dada_mx_tc_global": {
+    "display_name": "XM-DADA-MX-TC-GLOBAL",
+    "display_name_en": "XM-DADA-MX-TC-GLOBAL"
+  },
+  "dada_pre_dc_global": {
+    "display_name": "XM-DADA-PRE-DC-GLOBAL",
+    "display_name_en": "XM-DADA-PRE-DC-GLOBAL"
+  },
+  "dada_pre_eea_global": {
+    "display_name": "XM-DADA-EEA-GLOBAL",
+    "display_name_en": "XM-DADA-EEA-GLOBAL"
+  },
+  "dada_pre_global": {
+    "display_name": "XM-DADA-PRE-GLOBAL",
+    "display_name_en": "XM-DADA-PRE-GLOBAL"
+  },
+  "dada_pre_id_global": {
+    "display_name": "XM-DADA-PRE-ID-GLOBAL",
+    "display_name_en": "XM-DADA-PRE-ID-GLOBAL"
+  },
+  "dada_pre_in_global": {
+    "display_name": "XM-DADA-PRE-IN-GLOBAL",
+    "display_name_en": "XM-DADA-PRE-IN-GLOBAL"
+  },
+  "dada_pre_lm_cr_global": {
+    "display_name": "XM-DADA-PRE-LM-CR-GLOBAL",
+    "display_name_en": "XM-DADA-PRE-LM-CR-GLOBAL"
+  },
+  "dada_pre_mx_at_global": {
+    "display_name": "XM-DADA-PRE-MX-AT-GLOBAL",
+    "display_name_en": "XM-DADA-PRE-MX-AT-GLOBAL"
+  },
+  "dada_pre_mx_tc_global": {
+    "display_name": "XM-DADA-PRE-MX-TC-GLOBAL",
+    "display_name_en": "XM-DADA-PRE-MX-TC-GLOBAL"
+  },
+  "dada_pre_ru_global": {
+    "display_name": "XM-DADA-RU-GLOBAL",
+    "display_name_en": "XM-DADA-RU-GLOBAL"
+  },
+  "dada_pre_tr_global": {
+    "display_name": "XM-DADA-TR-GLOBAL",
+    "display_name_en": "XM-DADA-TR-GLOBAL"
+  },
+  "dada_pre_tw_global": {
+    "display_name": "XM-DADA-PRE-TW-GLOBAL",
+    "display_name_en": "XM-DADA-PRE-TW-GLOBAL"
+  },
+  "dada_ru_global": {
+    "display_name": "XM-DADA-RU-GLOBAL",
+    "display_name_en": "XM-DADA-RU-GLOBAL"
+  },
+  "dada_tr_global": {
+    "display_name": "XM-DADA-TR-GLOBAL",
+    "display_name_en": "XM-DADA-TR-GLOBAL"
+  },
+  "dada_tw_global": {
+    "display_name": "XM-DADA-TW-GLOBAL",
+    "display_name_en": "XM-DADA-TW-GLOBAL"
+  },
   "dagu": {
     "display_name": "小米平板5 Pro 12.4",
     "display_name_en": "Xiaomi Pad 5 Pro 12.4"
@@ -4030,6 +4122,10 @@
   "gucci_global": {
     "display_name": "HM NOTE 1S CT",
     "display_name_en": "HM NOTE 1S CT"
+  },
+  "haotian": {
+    "display_name": "Xiaomi 15 Pro",
+    "display_name_en": "Xiaomi 15 Pro"
   },
   "haydn": {
     "display_name": "Redmi K40 Pro/Redmi K40 Pro +",
@@ -6038,6 +6134,58 @@
   "munch_tw_global": {
     "display_name": "POCO F4",
     "display_name_en": "POCO F4"
+  },
+  "muyu": {
+    "display_name": "Xiaomi Pad 7 Pro",
+    "display_name_en": "Xiaomi Pad 7 Pro"
+  },
+  "muyu_eea_global": {
+    "display_name": "XM-MUYU-EEA-GLOBAL",
+    "display_name_en": "XM-MUYU-EEA-GLOBAL"
+  },
+  "muyu_global": {
+    "display_name": "XM-MUYU-GLOBAL",
+    "display_name_en": "XM-MUYU-GLOBAL"
+  },
+  "muyu_id_global": {
+    "display_name": "XM-MUYU-ID-GLOBAL",
+    "display_name_en": "XM-MUYU-ID-GLOBAL"
+  },
+  "muyu_pre_eea_global": {
+    "display_name": "XM-MUYU-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-MUYU-PRE-EEA-GLOBAL"
+  },
+  "muyu_pre_global": {
+    "display_name": "XM-MUYU-PRE-GLOBAL",
+    "display_name_en": "XM-MUYU-PRE-GLOBAL"
+  },
+  "muyu_pre_id_global": {
+    "display_name": "XM-MUYU-PRE-ID-GLOBAL",
+    "display_name_en": "XM-MUYU-PRE-ID-GLOBAL"
+  },
+  "muyu_pre_ru_global": {
+    "display_name": "XM-MUYU-PRE-RU-GLOBAL",
+    "display_name_en": "XM-MUYU-PRE-RU-GLOBAL"
+  },
+  "muyu_pre_tr_global": {
+    "display_name": "XM-MUYU-PRE-TR-GLOBAL",
+    "display_name_en": "XM-MUYU-PRE-TR-GLOBAL"
+  },
+  "muyu_pre_tw_global": {
+    "display_name": "XM-MUYU-PRE-TW-GLOBAL",
+    "display_name_en": "XM-MUYU-PRE-TW-GLOBAL"
+  },
+  "muyu_ru_global": {
+    "display_name": "XM-MUYU-RU-GLOBAL",
+    "display_name_en": "XM-MUYU-RU-GLOBAL"
+  },
+  "muyu_tr_global": {
+    "display_name": "XM-MUYU-TR-GLOBAL",
+    "display_name_en": "XM-MUYU-TR-GLOBAL"
+  },
+  "muyu_tw_global": {
+    "display_name": "XM-MUYU-TW-GLOBAL",
+    "display_name_en": "XM-MUYU-TW-GLOBAL"
   },
   "nabu": {
     "display_name": "小米平板 5",
@@ -9270,6 +9418,66 @@
   "ugglite_global": {
     "display_name": "Redmi Note 5A",
     "display_name_en": "Redmi Note 5A"
+  },
+  "uke": {
+    "display_name": "Xiaomi Pad 7",
+    "display_name_en": "Xiaomi Pad 7"
+  },
+  "uke_eea_global": {
+    "display_name": "XM-UKE-EEA-GLOBAL",
+    "display_name_en": "XM-UKE-EEA-GLOBAL"
+  },
+  "uke_global": {
+    "display_name": "XM-UKE-GLOBAL",
+    "display_name_en": "XM-UKE-GLOBAL"
+  },
+  "uke_id_global": {
+    "display_name": "XM-UKE-ID-GLOBAL",
+    "display_name_en": "XM-UKE-ID-GLOBAL"
+  },
+  "uke_in_global": {
+    "display_name": "XM-UKE-IN-GLOBAL",
+    "display_name_en": "XM-UKE-IN-GLOBAL"
+  },
+  "uke_pre_eea_global": {
+    "display_name": "XM-UKE-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-UKE-PRE-EEA-GLOBAL"
+  },
+  "uke_pre_global": {
+    "display_name": "XM-UKE-PRE-GLOBAL",
+    "display_name_en": "XM-UKE-PRE-GLOBAL"
+  },
+  "uke_pre_id_global": {
+    "display_name": "XM-UKE-PRE-ID-GLOBAL",
+    "display_name_en": "XM-UKE-PRE-ID-GLOBAL"
+  },
+  "uke_pre_in_global": {
+    "display_name": "XM-UKE-PRE-IN-GLOBAL",
+    "display_name_en": "XM-UKE-PRE-IN-GLOBAL"
+  },
+  "uke_pre_ru_global": {
+    "display_name": "XM-UKE-PRE-RU-GLOBAL",
+    "display_name_en": "XM-UKE-PRE-RU-GLOBAL"
+  },
+  "uke_pre_tr_global": {
+    "display_name": "XM-UKE-PRE-TR-GLOBAL",
+    "display_name_en": "XM-UKE-PRE-TR-GLOBAL"
+  },
+  "uke_pre_tw_global": {
+    "display_name": "XM-UKE-PRE-TW-GLOBAL",
+    "display_name_en": "XM-UKE-PRE-TW-GLOBAL"
+  },
+  "uke_ru_global": {
+    "display_name": "XM-UKE-RU-GLOBAL",
+    "display_name_en": "XM-UKE-RU-GLOBAL"
+  },
+  "uke_tr_global": {
+    "display_name": "XM-UKE-TR-GLOBAL",
+    "display_name_en": "XM-UKE-TR-GLOBAL"
+  },
+  "uke_tw_global": {
+    "display_name": "XM-UKE-TW-GLOBAL",
+    "display_name_en": "XM-UKE-TW-GLOBAL"
   },
   "umi": {
     "display_name": "小米10",
