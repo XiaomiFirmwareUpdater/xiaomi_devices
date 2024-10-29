@@ -560,7 +560,7 @@
   "name": "Xiaomi 14T",
   "models": {
    "`2406APNFAG`": "Xiaomi 14T Global",
-   "`XIG06`": "Xiaomi 14T Japan (KDDI)"
+   "`XIG07`": "Xiaomi 14T Japan (KDDI)"
   }
  },
  "rothko": {
@@ -569,6 +569,7 @@
   "models": {
    "`2407FPN8EG`": "Xiaomi 14T Pro Global",
    "`2407FPN8ER`": "Xiaomi 14T Pro Japan (SIM Free)",
+   "`XIG06`": "Xiaomi 14T Pro Japan (KDDI)",
    "`A402XM`": "Xiaomi 14T Pro Japan (SoftBank)",
    "`2407FRK8EC`": "Redmi K70 Ultra China"
   }
@@ -1843,7 +1844,7 @@
   }
  },
  "sea": {
-  "internal_name": "K7SR",
+  "internal_name": "K7SRN",
   "name": "Redmi Note 12S",
   "models": {
    "`23030RAC7Y`": "Redmi Note 12S Global (NFC)"
@@ -1894,8 +1895,7 @@
   "name": "Redmi Note 12 Turbo/POCO F5",
   "models": {
    "`23049RAD8C`": "Redmi Note 12 Turbo China",
-   "`23049PCD8G`": "POCO F5 Global",
-   "`23049PCD8I`": "POCO F5 India"
+   "`23049PCD8G`": "POCO F5 Global"
   }
  },
  "sapphire": {
@@ -1960,11 +1960,18 @@
    "`24040RA98R`": "Redmi Note 13 Pro+ 5G Japan"
   }
  },
+ "citrine": {
+  "internal_name": "O17/O17P",
+  "name": "Redmi Note 14 5G/POCO M7 Pro 5G",
+  "models": {
+   "`24094RAD4G`": "Redmi Note 14 5G Global",
+   "`2409FPCC4G`": "POCO M7 Pro 5G Global"
+  }
+ },
  "beryl": {
   "internal_name": "O17",
   "name": "Redmi Note 14 5G",
   "models": {
-   "`24094RAD4G`": "Redmi Note 14 5G Global",
    "`24094RAD4I`": "Redmi Note 14 5G India",
    "`24094RAD4C`": "Redmi Note 14 5G China"
   }
@@ -2183,8 +2190,8 @@
   }
  },
  "zorn": {
-  "internal_name": "",
-  "name": "Redmi K80 (`zorn`)",
+  "internal_name": "O11",
+  "name": "Redmi K80",
   "models": {
    "`24117RK2CC`": "Redmi K80 China"
   }
@@ -2293,6 +2300,13 @@
   "name": "POCO F3 GT",
   "models": {
    "`M2104K10I`": "POCO F3 GT India"
+  }
+ },
+ "marblein": {
+  "internal_name": "M16T",
+  "name": "POCO F5",
+  "models": {
+   "`23049PCD8I`": "POCO F5 India"
   }
  },
  "phoenixin": {
@@ -2558,9 +2572,9 @@
    "`24076RP19I`": "Redmi Pad SE 4G India"
   }
  },
- "FYJ01QP": {
+ "Babel": {
   "internal_name": "",
-  "name": "Xiaomi Mijia Translator (`FYJ01QP`)",
+  "name": "Xiaomi Mijia Translator (`Babel`)",
   "models": {
    "`FYJ01QP`": "Xiaomi Mijia Translator"
   }
