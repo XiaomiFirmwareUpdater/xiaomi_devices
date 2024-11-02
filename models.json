@@ -207,10 +207,10 @@
  },
  "raphael": {
   "internal_name": "F11",
-  "name": "Mi 9T Pro/Redmi K20 Pro/Redmi K20 Pro Premium Edition",
+  "name": "Mi 9T Pro/Redmi K20 Pro",
   "models": {
    "`M1903F11G`": "Mi 9T Pro Global",
-   "`M1903F11A`": "Redmi K20 Pro Premium Edition China",
+   "`M1903F11A`": "Redmi K20 Pro China / Redmi K20 Pro Premium Edition China",
    "`M1903F11C`": "Redmi K20 Pro Chinese Carrier Version"
   }
  },
@@ -331,7 +331,7 @@
  },
  "lisa": {
   "internal_name": "K9D",
-  "name": "Xiaomi 11 Lite 5G NE / Mi 11 LE",
+  "name": "Xiaomi 11 Lite 5G NE/Mi 11 LE",
   "models": {
    "`2109119DG`": "Xiaomi 11 Lite 5G NE Global",
    "`2109119DI`": "Xiaomi 11 Lite NE 5G India",
@@ -340,7 +340,7 @@
  },
  "haydn": {
   "internal_name": "K11",
-  "name": "Mi 11i/Redmi K40 Pro / Redmi K40 Pro+",
+  "name": "Mi 11i/Redmi K40 Pro/Redmi K40 Pro+",
   "models": {
    "`M2012K11G`": "Mi 11i Global",
    "`M2012K11C`": "Redmi K40 Pro China / Redmi K40 Pro+ China"
@@ -377,7 +377,7 @@
   }
  },
  "pissarro": {
-  "internal_name": "K16/K16U/K16/K16U",
+  "internal_name": "K16/K16U",
   "name": "Xiaomi 11i/Xiaomi 11i HyperCharge/Redmi Note 11 Pro/Redmi Note 11 Pro+",
   "models": {
    "`21091116I`": "Xiaomi 11i India",
@@ -533,7 +533,7 @@
  },
  "aurora": {
   "internal_name": "N1",
-  "name": "Xiaomi 14 Ultra/Xiaomi 14 Ultra",
+  "name": "Xiaomi 14 Ultra",
   "models": {
    "`24030PN60G`": "Xiaomi 14 Ultra Global",
    "`24031PN0DC`": "Xiaomi 14 Ultra China"
@@ -940,7 +940,7 @@
  },
  "santoni": {
   "internal_name": "A13",
-  "name": "Redmi 4X / Redmi 4",
+  "name": "Redmi 4X/Redmi 4",
   "models": {
    "`MAG138`": "Redmi 4X Global",
    "`MAI132`": "Redmi 4 India",
@@ -1052,14 +1052,14 @@
  },
  "olivewood": {
   "internal_name": "C3K3",
-  "name": "Redmi 8A Dual / Redmi 8A Pro",
+  "name": "Redmi 8A Dual/Redmi 8A Pro",
   "models": {
    "`M2001C3K3I`": "Redmi 8A Dual India / Redmi 8A Pro Global"
   }
  },
  "lancelot": {
   "internal_name": "J19/J19A",
-  "name": "Redmi 9 / Redmi 9 Prime/Redmi 9",
+  "name": "Redmi 9/Redmi 9 Prime/Redmi 9",
   "models": {
    "`M2004J19G`": "Redmi 9 Global",
    "`M2004J19I`": "Redmi 9 Prime India",
@@ -1069,7 +1069,7 @@
  },
  "dandelion": {
   "internal_name": "C3L/C3L2",
-  "name": "Redmi 9A / Redmi 9AT / Redmi 9i/Redmi 10A",
+  "name": "Redmi 9A/Redmi 9AT/Redmi 9i/Redmi 10A",
   "models": {
    "`M2006C3LG`": "Redmi 9A Global",
    "`M2006C3LVG`": "Redmi 9AT Global",
@@ -1083,7 +1083,7 @@
  },
  "angelica": {
   "internal_name": "C3M/C3MI",
-  "name": "Redmi 9C/Redmi 9 / Redmi 9 Activ",
+  "name": "Redmi 9C/Redmi 9/Redmi 9 Activ",
   "models": {
    "`M2006C3MG`": "Redmi 9C Global",
    "`M2006C3MT`": "Redmi 9C Thailand",
@@ -1098,8 +1098,8 @@
   }
  },
  "lime": {
-  "internal_name": "J19S/J19N/J19L/J19S",
-  "name": "Redmi 9T / Redmi 9 Power/Redmi 9T/Redmi 9T/Redmi Note 9 4G",
+  "internal_name": "J19S/J19N/J19L",
+  "name": "Redmi 9T/Redmi 9 Power/Redmi 9T/Redmi Note 9 4G",
   "models": {
    "`M2010J19SG`": "Redmi 9T Global",
    "`M2010J19SI`": "Redmi 9 Power India",
@@ -1111,8 +1111,8 @@
   }
  },
  "selene": {
-  "internal_name": "K19A/K19B/K19D/K19S/K19V/K19T/K19U/K19S",
-  "name": "Redmi 10/Redmi 10 Prime/Redmi 10/Redmi 10 2022/Redmi 10 2022/Redmi 10 Prime 2022/Redmi 10 2022/Redmi Note 11 4G",
+  "internal_name": "K19A/K19B/K19D/K19S/K19V/K19T/K19U",
+  "name": "Redmi 10/Redmi 10 Prime/Redmi 10 2022/Redmi 10 Prime 2022/Redmi Note 11 4G",
   "models": {
    "`21061119AG`": "Redmi 10 Global",
    "`21061119AL`": "Redmi 10 Latin America",
@@ -1126,8 +1126,8 @@
   }
  },
  "light": {
-  "internal_name": "L19/L19N/L19/L19X/L19P/L19P",
-  "name": "Redmi 10 5G / Redmi 11 Prime 5G/Redmi 10 5G/Redmi Note 11E 5G/Redmi Note 11R/POCO M4 5G/POCO M4 5G",
+  "internal_name": "L19/L19N/L19X/L19P",
+  "name": "Redmi 10 5G/Redmi 11 Prime 5G/Redmi 10 5G/Redmi Note 11E 5G/Redmi Note 11R/POCO M4 5G",
   "models": {
    "`22041219G`": "Redmi 10 5G Global",
    "`22041219I`": "Redmi 11 Prime 5G India",
@@ -1140,7 +1140,7 @@
  },
  "fog": {
   "internal_name": "C3QA/C3QB/C3QN/C3QL",
-  "name": "Redmi 10C/Redmi 10/Redmi 10C/Redmi 10C",
+  "name": "Redmi 10C/Redmi 10",
   "models": {
    "`220333QAG`": "Redmi 10C Global",
    "`220333QBI`": "Redmi 10 India / Redmi 10 Power India",
@@ -1149,8 +1149,8 @@
   }
  },
  "rock": {
-  "internal_name": "L19A/L19C/L19C",
-  "name": "Redmi 11 Prime/POCO M5/POCO M5",
+  "internal_name": "L19A/L19C",
+  "name": "Redmi 11 Prime/POCO M5",
   "models": {
    "`22071219AI`": "Redmi 11 Prime India",
    "`22071219CG`": "POCO M5 Global",
@@ -1159,7 +1159,7 @@
  },
  "fire": {
   "internal_name": "M19A/M19L/M19E",
-  "name": "Redmi 12/Redmi 12/Redmi 12",
+  "name": "Redmi 12",
   "models": {
    "`23053RN02A`": "Redmi 12 Global",
    "`23053RN02I`": "Redmi 12 India",
@@ -1168,8 +1168,8 @@
   }
  },
  "sky": {
-  "internal_name": "M19/M19J/M19/M19/M19/M19P",
-  "name": "Redmi 12 5G/Redmi 12 5G/Redmi 12 5G/Redmi 12R/Redmi Note 12R/POCO M6 Pro 5G",
+  "internal_name": "M19/M19J/M19P",
+  "name": "Redmi 12 5G/Redmi Note 12R/Redmi 12R/POCO M6 Pro 5G",
   "models": {
    "`23076RN8DY`": "Redmi 12 5G Global (NFC)",
    "`23077RABDC`": "Redmi 12 5G China",
@@ -1177,13 +1177,13 @@
    "`XIG03`": "Redmi 12 5G Japan (KDDI)",
    "`A401XM`": "Redmi 12 5G Japan (SoftBank)",
    "`23076RN4BI`": "Redmi 12 5G India",
-   "`23076RA4BC`": "Redmi Note 12R China",
+   "`23076RA4BC`": "Redmi Note 12R China / Redmi 12R China",
    "`23076PC4BI`": "POCO M6 Pro 5G India"
   }
  },
  "earth": {
   "internal_name": "C3T/C3TL/C3TN/C3TP",
-  "name": "Redmi 12C/Redmi 12C/Redmi 12C/POCO C55",
+  "name": "Redmi 12C/POCO C55",
   "models": {
    "`22120RN86G`": "Redmi 12C Global",
    "`22120RN86H` `22120RN86I`": "Redmi 12C India",
@@ -1195,8 +1195,8 @@
   }
  },
  "moon": {
-  "internal_name": "N19A/N19L/N19E/N19C/N19C",
-  "name": "Redmi 13/Redmi 13/Redmi 13/POCO M6/POCO M6",
+  "internal_name": "N19A/N19L/N19E/N19C",
+  "name": "Redmi 13/POCO M6",
   "models": {
    "`2404ARN45A`": "Redmi 13 Global",
    "`2404ARN45I`": "Redmi 13 India",
@@ -1216,8 +1216,8 @@
   }
  },
  "gale": {
-  "internal_name": "C3U/C3UL/C3UN/C3UP/C3UP",
-  "name": "Redmi 13C/Redmi 13C/Redmi 13C/POCO C65/POCO C65",
+  "internal_name": "C3U/C3UL/C3UN/C3UP",
+  "name": "Redmi 13C/POCO C65",
   "models": {
    "`23106RN0DA`": "Redmi 13C Global",
    "`2311DRN14I`": "Redmi 13C India",
@@ -1229,7 +1229,7 @@
  },
  "air": {
   "internal_name": "C3V/C3VP",
-  "name": "Redmi 13C 5G/Redmi 13C 5G / Redmi 13R 5G/POCO M6 5G",
+  "name": "Redmi 13C 5G/Redmi 13C 5G/Redmi 13R 5G/POCO M6 5G",
   "models": {
    "`23124RN87G`": "Redmi 13C 5G Global",
    "`23124RN87I`": "Redmi 13C 5G India",
@@ -1238,8 +1238,8 @@
   }
  },
  "lake": {
-  "internal_name": "C3N/C3NP/C3NP",
-  "name": "Redmi 14C/Redmi 14C/Redmi A3 Pro/POCO C75/POCO C75",
+  "internal_name": "C3N/C3NP",
+  "name": "Redmi 14C/Redmi A3 Pro/POCO C75",
   "models": {
    "`2409BRN2CA`": "Redmi 14C Global",
    "`2409BRN2CI`": "Redmi 14C India",
@@ -1287,7 +1287,7 @@
  },
  "gucci": {
   "internal_name": "H3X",
-  "name": "Redmi Note 1S / Redmi Note Prime",
+  "name": "Redmi Note 1S/Redmi Note Prime",
   "models": {
    "`2014912`": "Redmi Note 1S China Unicom / Redmi Note Prime India",
    "`2014915` `2014911`": "Redmi Note 1S China Mobile",
@@ -1339,7 +1339,7 @@
  },
  "mido": {
   "internal_name": "C6",
-  "name": "Redmi Note 4 / Redmi Note 4X",
+  "name": "Redmi Note 4/Redmi Note 4X",
   "models": {
    "`2016100` `2016102`": "Redmi Note 4 (Qualcomm) Global",
    "`2016101`": "Redmi Note 4X (Qualcomm) China",
@@ -1348,7 +1348,7 @@
  },
  "whyred": {
   "internal_name": "E7S",
-  "name": "Redmi Note 5 / Redmi Note 5 Pro",
+  "name": "Redmi Note 5/Redmi Note 5 Pro",
   "models": {
    "`M1803E7SG` `M1803E7SH`": "Redmi Note 5 Global",
    "`MEI7S`": "Redmi Note 5 Pro India",
@@ -1359,7 +1359,7 @@
  },
  "ugglite": {
   "internal_name": "D6",
-  "name": "Redmi Note 5A / Redmi Y1 Lite",
+  "name": "Redmi Note 5A/Redmi Y1 Lite",
   "models": {
    "`MDG6`": "Redmi Note 5A Global",
    "`MDI6`": "Redmi Y1 Lite India",
@@ -1369,7 +1369,7 @@
  },
  "ugg": {
   "internal_name": "D6S",
-  "name": "Redmi Note 5A / Redmi Y1",
+  "name": "Redmi Note 5A/Redmi Y1",
   "models": {
    "`MDG6S`": "Redmi Note 5A Prime Global",
    "`MDI6S`": "Redmi Y1 India",
@@ -1387,7 +1387,7 @@
  },
  "lavender": {
   "internal_name": "F7A",
-  "name": "Redmi Note 7 / Redmi Note 7S",
+  "name": "Redmi Note 7/Redmi Note 7S",
   "models": {
    "`M1901F7G` `M1901F7H`": "Redmi Note 7 Global",
    "`M1901F7I`": "Redmi Note 7 India / Redmi Note 7S India",
@@ -1446,7 +1446,7 @@
  },
  "merlin": {
   "internal_name": "J15S",
-  "name": "Redmi Note 9/Redmi Note 9/Redmi 10X 4G",
+  "name": "Redmi Note 9/Redmi 10X 4G",
   "models": {
    "`M2003J15SS`": "Redmi Note 9 Global",
    "`M2003J15SI`": "Redmi Note 9 India",
@@ -1471,7 +1471,7 @@
  },
  "curtana": {
   "internal_name": "J6A1",
-  "name": "Redmi Note 9 Pro / Redmi Note 9S/Redmi Note 10 Lite",
+  "name": "Redmi Note 9 Pro/Redmi Note 9S/Redmi Note 10 Lite",
   "models": {
    "`M2003J6A1G`": "Redmi Note 9S Global",
    "`M2003J6A1R`": "Redmi Note 9S Japan / Redmi Note 9S Korea",
@@ -1502,8 +1502,8 @@
   }
  },
  "rosemary": {
-  "internal_name": "K7B/K7BN/K7BL/K7B/K7BP",
-  "name": "Redmi Note 10S/Redmi Note 10S/Redmi Note 10S/Redmi Note 11 SE/POCO M5s",
+  "internal_name": "K7B/K7BN/K7BL/K7BP",
+  "name": "Redmi Note 10S/Redmi Note 11 SE/POCO M5s",
   "models": {
    "`M2101K7BG`": "Redmi Note 10S Global",
    "`M2101K7BI`": "Redmi Note 10S India",
@@ -1515,7 +1515,7 @@
  },
  "camellian": {
   "internal_name": "K19/K19P",
-  "name": "Redmi Note 10 5G / Redmi Note 10T/POCO M3 Pro 5G",
+  "name": "Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro 5G",
   "models": {
    "`M2103K19G`": "Redmi Note 10 5G Global",
    "`M2103K19Y`": "Redmi Note 10T Global",
@@ -1524,7 +1524,7 @@
  },
  "camellia": {
   "internal_name": "K19/K19P",
-  "name": "Redmi Note 10 5G / Redmi Note 10T / Redmi Note 11SE/POCO M3 Pro 5G",
+  "name": "Redmi Note 10 5G/Redmi Note 10T/Redmi Note 11SE/POCO M3 Pro 5G",
   "models": {
    "`M2103K19I`": "Redmi Note 10T 5G India",
    "`M2103K19C`": "Redmi Note 10 5G China / Redmi Note 11SE 5G China",
@@ -1558,7 +1558,7 @@
  },
  "sweetin": {
   "internal_name": "K6",
-  "name": "Redmi Note 10 Pro / Redmi Note 10 Pro Max",
+  "name": "Redmi Note 10 Pro/Redmi Note 10 Pro Max",
   "models": {
    "`M2101K6P`": "Redmi Note 10 Pro India",
    "`M2101K6I`": "Redmi Note 10 Pro Max India"
@@ -1574,7 +1574,7 @@
  },
  "spes": {
   "internal_name": "K7T/K7TL",
-  "name": "Redmi Note 11/Redmi Note 11",
+  "name": "Redmi Note 11",
   "models": {
    "`2201117TG`": "Redmi Note 11 Global",
    "`2201117TI`": "Redmi Note 11 India",
@@ -1590,7 +1590,7 @@
  },
  "evergo": {
   "internal_name": "K16A",
-  "name": "Redmi Note 11 5G / Redmi Note 11T/POCO M4 Pro 5G",
+  "name": "Redmi Note 11 5G/Redmi Note 11T/POCO M4 Pro 5G",
   "models": {
    "`21091116AI`": "Redmi Note 11T 5G India",
    "`21091116AC`": "Redmi Note 11 5G China",
@@ -1598,8 +1598,8 @@
   }
  },
  "fleur": {
-  "internal_name": "K7S/K7SL/K7S/K7P/K7P",
-  "name": "Redmi Note 11S/Redmi Note 11S/Redmi Note 11S/POCO M4 Pro/POCO M4 Pro",
+  "internal_name": "K7S/K7SL/K7P",
+  "name": "Redmi Note 11S/POCO M4 Pro",
   "models": {
    "`2201117SG`": "Redmi Note 11S Global",
    "`2201117SI`": "Redmi Note 11S India",
@@ -1631,8 +1631,8 @@
   }
  },
  "veux": {
-  "internal_name": "K6S/K6P/K6P",
-  "name": "Redmi Note 11 Pro 5G / Redmi Note 11E Pro/Redmi Note 11 Pro+ 5G/POCO X4 Pro 5G/POCO X4 Pro 5G",
+  "internal_name": "K6S/K6P",
+  "name": "Redmi Note 11 Pro 5G/Redmi Note 11E Pro/Redmi Note 11 Pro+ 5G/POCO X4 Pro 5G",
   "models": {
    "`2201116SG`": "Redmi Note 11 Pro 5G Global",
    "`2201116SR`": "Redmi Note 11 Pro 5G Japan",
@@ -1643,7 +1643,7 @@
   }
  },
  "xaga": {
-  "internal_name": "L16/L16U/L16/L16",
+  "internal_name": "L16/L16U",
   "name": "Redmi Note 11T Pro/Redmi Note 11T Pro+/Redmi K50i/POCO X4 GT",
   "models": {
    "`22041216C`": "Redmi Note 11T Pro 5G China",
@@ -1654,7 +1654,7 @@
  },
  "tapas": {
   "internal_name": "M7/M7L",
-  "name": "Redmi Note 12/Redmi Note 12",
+  "name": "Redmi Note 12",
   "models": {
    "`23021RAAEG`": "Redmi Note 12 Global",
    "`23027RAD4I`": "Redmi Note 12 India",
@@ -1670,7 +1670,7 @@
  },
  "sunstone": {
   "internal_name": "M17",
-  "name": "Redmi Note 12 5G / Redmi Note 12R Pro",
+  "name": "Redmi Note 12 5G/Redmi Note 12R Pro",
   "models": {
    "`22111317G`": "Redmi Note 12 5G Global",
    "`22111317I`": "Redmi Note 12 5G India",
@@ -1679,7 +1679,7 @@
  },
  "sea": {
   "internal_name": "K7SR/K7SRL/K7SRN",
-  "name": "Redmi Note 12S/Redmi Note 12S/Redmi Note 12S",
+  "name": "Redmi Note 12S",
   "models": {
    "`2303CRA44A`": "Redmi Note 12S Global",
    "`2303ERA42L`": "Redmi Note 12S Latin America",
@@ -1687,7 +1687,7 @@
   }
  },
  "ruby": {
-  "internal_name": "M16/M16U/M16U",
+  "internal_name": "M16/M16U",
   "name": "Redmi Note 12 Pro 5G/Redmi Note 12 Pro+ 5G/Redmi Note 12 Discovery Edition",
   "models": {
    "`22101316G`": "Redmi Note 12 Pro 5G Global",
@@ -1701,7 +1701,7 @@
  },
  "redwood": {
   "internal_name": "M20",
-  "name": "Redmi Note 12 Pro Speed/POCO X5 Pro 5G/POCO X5 Pro 5G",
+  "name": "Redmi Note 12 Pro Speed/POCO X5 Pro 5G",
   "models": {
    "`22101320C`": "Redmi Note 12 Pro Speed China",
    "`22101320G`": "POCO X5 Pro 5G Global",
@@ -1717,7 +1717,7 @@
  },
  "marble": {
   "internal_name": "M16T",
-  "name": "Redmi Note 12 Turbo/POCO F5/POCO F5",
+  "name": "Redmi Note 12 Turbo/POCO F5",
   "models": {
    "`23049RAD8C`": "Redmi Note 12 Turbo China",
    "`23049PCD8G`": "POCO F5 Global",
@@ -1726,7 +1726,7 @@
  },
  "sapphire": {
   "internal_name": "N7/N7L",
-  "name": "Redmi Note 13/Redmi Note 13",
+  "name": "Redmi Note 13",
   "models": {
    "`23129RAA4G`": "Redmi Note 13 Global",
    "`23129RA5FL`": "Redmi Note 13 Latin America"
@@ -1741,7 +1741,7 @@
  },
  "gold": {
   "internal_name": "N17",
-  "name": "Redmi Note 13 5G/Redmi Note 13 5G/Redmi Note 13R Pro/POCO X6 Neo",
+  "name": "Redmi Note 13 5G/Redmi Note 13R Pro/POCO X6 Neo",
   "models": {
    "`2312DRAABG`": "Redmi Note 13 5G Global",
    "`2312DRAABI`": "Redmi Note 13 5G India",
@@ -1782,7 +1782,7 @@
  },
  "beryl": {
   "internal_name": "O17/O17P",
-  "name": "Redmi Note 14 5G/Redmi Note 14 5G/POCO M7 Pro 5G",
+  "name": "Redmi Note 14 5G/POCO M7 Pro 5G",
   "models": {
    "`24094RAD4G`": "Redmi Note 14 5G Global",
    "`24094RAD4I`": "Redmi Note 14 5G India",
@@ -2001,7 +2001,7 @@
  },
  "ysl": {
   "internal_name": "E6",
-  "name": "Redmi S2 / Redmi Y2",
+  "name": "Redmi S2/Redmi Y2",
   "models": {
    "`M1803E6G` `M1803E6H`": "Redmi S2 Global",
    "`M1803E6I`": "Redmi Y2 India",
@@ -2028,7 +2028,7 @@
  },
  "ice": {
   "internal_name": "C3S/C3SL/C3SF/C3SP",
-  "name": "Redmi A1/Redmi A1/Redmi A1+/POCO C50",
+  "name": "Redmi A1/Redmi A1+/POCO C50",
   "models": {
    "`220733SG`": "Redmi A1 Global",
    "`220733SH` `220733SI`": "Redmi A1 India",
@@ -2040,7 +2040,7 @@
  },
  "water": {
   "internal_name": "C3S2/CSL2/CSF2/CSP2",
-  "name": "Redmi A2/Redmi A2/Redmi A2+/POCO C51",
+  "name": "Redmi A2/Redmi A2+/POCO C51",
   "models": {
    "`23028RN4DG`": "Redmi A2 Global",
    "`23028RN4DH` `23028RN4DI`": "Redmi A2 India",
@@ -2053,7 +2053,7 @@
  },
  "blue": {
   "internal_name": "C3Y/C3YL/C3YP",
-  "name": "Redmi A3/Redmi A3/POCO C61",
+  "name": "Redmi A3/POCO C61",
   "models": {
    "`23129RN51X`": "Redmi A3 Global",
    "`23129RN51H`": "Redmi A3 India",
@@ -2096,7 +2096,7 @@
  },
  "vayu": {
   "internal_name": "J20S",
-  "name": "POCO X3 Pro/POCO X3 Pro",
+  "name": "POCO X3 Pro",
   "models": {
    "`M2102J20SG`": "POCO X3 Pro Global",
    "`M2102J20SI`": "POCO X3 Pro India"
@@ -2275,7 +2275,7 @@
   "name": "Redmi Pad SE/Redmi Pad M7",
   "models": {
    "`23073RPBFG`": "Redmi Pad SE Global",
-   "`23073RPBFC`": "Redmi Pad M7 China",
+   "`23073RPBFC`": "Redmi Pad SE China / Redmi Pad M7 China",
    "`23073RPBFL`": "Redmi Pad SE Latin America"
   }
  },
