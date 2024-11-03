@@ -34,22 +34,35 @@ def main():
         except IndexError:
             name = details[0].split(':')[0].strip()
         models = details[1].replace('\n\n', '\n').strip().splitlines()
-        info.update({"internal_name": internal})
-        info.update({"name": name})
         models_ = {}
         for i in models:
             model = i.split(':')[0].strip()
             model_name = i.split(':')[1].strip()
-            models_.update({model: model_name})
+            models_[model] = model_name
+
+        info.update({"internal_name": internal})
+        info.update({"name": name})
         info.update({"models": models_})
-        try:
-            if DEVICES[codename]:
-                DEVICES[codename]['internal_name'] = f"{DEVICES[codename]['internal_name']}/{internal}" \
-                    if DEVICES[codename]['internal_name'] != internal else internal
-                DEVICES[codename]['name'] = f"{DEVICES[codename]['name']}/{name}"
-                DEVICES[codename]['models'] = {**DEVICES[codename]['models'], **models_}
-        except KeyError:
-            DEVICES.update({codename: info})
+
+        if codename in DEVICES:
+            existing_internal_names = DEVICES[codename]['internal_name'].split('/')
+            existing_names = DEVICES[codename]['name'].split('/')
+
+            if internal not in existing_internal_names:
+                existing_internal_names.append(internal)
+            if name not in existing_names:
+                existing_names.append(name)
+
+            DEVICES[codename]['internal_name'] = '/'.join(existing_internal_names)
+            DEVICES[codename]['name'] = '/'.join(existing_names)
+            DEVICES[codename]['models'] = {**DEVICES[codename]['models'], **models_}
+        else:
+            DEVICES[codename] = info
+
+    # Clean up spaces in names
+    for device in DEVICES.values():
+        device['name'] = '/'.join(part.strip() for part in device['name'].split('/'))
+
     with open('models.json', 'w') as output:
         json.dump(DEVICES, output, indent=1)
 
