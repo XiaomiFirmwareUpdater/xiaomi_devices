@@ -5411,6 +5411,10 @@
     "display_name": "NA",
     "display_name_en": "NA"
   },
+  "malachite_jp_global": {
+    "display_name": "O16",
+    "display_name_en": "O16"
+  },
   "malachite_lm_cr_global": {
     "display_name": "NA",
     "display_name_en": "NA"
@@ -5446,6 +5450,10 @@
   "malachite_pre_in_global": {
     "display_name": "NA",
     "display_name_en": "NA"
+  },
+  "malachite_pre_jp_global": {
+    "display_name": "O16",
+    "display_name_en": "O16"
   },
   "malachite_pre_lm_cr_global": {
     "display_name": "NA",
