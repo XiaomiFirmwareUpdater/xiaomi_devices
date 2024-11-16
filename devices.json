@@ -54,6 +54,12 @@
   }
  },
  {
+  "lake": {
+   "name": "POCO C75",
+   "model": "2410FPCC5G"
+  }
+ },
+ {
   "lmi": {
    "name": "POCO F2 Pro",
    "model": "POCO F2 Pro"
@@ -1569,6 +1575,12 @@
   "breeze": {
    "name": "Redmi Note 13R",
    "model": "2406ERN9CC"
+  }
+ },
+ {
+  "beryl": {
+   "name": "Redmi Note 14 5G",
+   "model": "24094RAD4C"
   }
  },
  {
