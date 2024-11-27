@@ -5711,6 +5711,58 @@
     "display_name": "Redmi Note 4X",
     "display_name_en": "Redmi Note 4X"
   },
+  "miro": {
+    "display_name": "REDMI K80 Pro/REDMI K80 Pro ALSC",
+    "display_name_en": "REDMI K80 Pro/REDMI K80 Pro ALSC"
+  },
+  "miro_eea_global": {
+    "display_name": "XM-MIRO-EEA-GLOBAL",
+    "display_name_en": "XM-MIRO-EEA-GLOBAL"
+  },
+  "miro_global": {
+    "display_name": "XM-MIRO-GLOBAL",
+    "display_name_en": "XM-MIRO-GLOBAL"
+  },
+  "miro_id_global": {
+    "display_name": "XM-MIRO-ID-GLOBAL",
+    "display_name_en": "XM-MIRO-ID-GLOBAL"
+  },
+  "miro_pre_eea_global": {
+    "display_name": "XM-MIRO-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-MIRO-PRE-EEA-GLOBAL"
+  },
+  "miro_pre_global": {
+    "display_name": "XM-MIRO-PRE-GLOBAL",
+    "display_name_en": "XM-MIRO-PRE-GLOBAL"
+  },
+  "miro_pre_id_global": {
+    "display_name": "XM-MIRO-PRE-ID-GLOBAL",
+    "display_name_en": "XM-MIRO-PRE-ID-GLOBAL"
+  },
+  "miro_pre_ru_global": {
+    "display_name": "XM-MIRO-PRE-RU-GLOBAL",
+    "display_name_en": "XM-MIRO-PRE-RU-GLOBAL"
+  },
+  "miro_pre_tr_global": {
+    "display_name": "XM-MIRO-PRE-TR-GLOBAL",
+    "display_name_en": "XM-MIRO-PRE-TR-GLOBAL"
+  },
+  "miro_pre_tw_global": {
+    "display_name": "XM-MIRO-PRE-TW-GLOBAL",
+    "display_name_en": "XM-MIRO-PRE-TW-GLOBAL"
+  },
+  "miro_ru_global": {
+    "display_name": "XM-MIRO-RU-GLOBAL",
+    "display_name_en": "XM-MIRO-RU-GLOBAL"
+  },
+  "miro_tr_global": {
+    "display_name": "XM-MIRO-TR-GLOBAL",
+    "display_name_en": "XM-MIRO-TR-GLOBAL"
+  },
+  "miro_tw_global": {
+    "display_name": "XM-MIRO-TW-GLOBAL",
+    "display_name_en": "XM-MIRO-TW-GLOBAL"
+  },
   "mocha": {
     "display_name": "小米平板 1",
     "display_name_en": "MI PAD"
@@ -10143,6 +10195,22 @@
     "display_name": "Redmi Note 11 Pro",
     "display_name_en": "Redmi Note 11 Pro"
   },
+  "warm_global": {
+    "display_name": "Redmi A4 5G",
+    "display_name_en": "Redmi A4 5G"
+  },
+  "warm_in_global": {
+    "display_name": "POCO C75 5G/Redmi A4 5G",
+    "display_name_en": "POCO C75 5G/Redmi A4 5G"
+  },
+  "warm_pre_global": {
+    "display_name": "Redmi A4 5G",
+    "display_name_en": "Redmi A4 5G"
+  },
+  "warm_pre_in_global": {
+    "display_name": "Redmi A4 5G/POCO C75 5G",
+    "display_name_en": "Redmi A4 5G/POCO C75 5G"
+  },
   "water_cl_en_global": {
     "display_name": "Redmi A2",
     "display_name_en": "Redmi A2"
@@ -10850,5 +10918,57 @@
   "zizhan": {
     "display_name": "Xiaomi MIX Fold 2",
     "display_name_en": "Xiaomi MIX Fold 2"
+  },
+  "zorn": {
+    "display_name": "REDMI K80",
+    "display_name_en": "REDMI K80"
+  },
+  "zorn_eea_global": {
+    "display_name": "zorn",
+    "display_name_en": "zorn"
+  },
+  "zorn_global": {
+    "display_name": "zorn",
+    "display_name_en": "zorn"
+  },
+  "zorn_id_global": {
+    "display_name": "zorn",
+    "display_name_en": "zorn"
+  },
+  "zorn_pre_eea_global": {
+    "display_name": "zorn",
+    "display_name_en": "zorn"
+  },
+  "zorn_pre_global": {
+    "display_name": "zorn",
+    "display_name_en": "zorn"
+  },
+  "zorn_pre_id_global": {
+    "display_name": "zorn",
+    "display_name_en": "zorn"
+  },
+  "zorn_pre_ru_global": {
+    "display_name": "zorn",
+    "display_name_en": "zorn"
+  },
+  "zorn_pre_tr_global": {
+    "display_name": "zorn",
+    "display_name_en": "zorn"
+  },
+  "zorn_pre_tw_global": {
+    "display_name": "zorn",
+    "display_name_en": "zorn"
+  },
+  "zorn_ru_global": {
+    "display_name": "zorn",
+    "display_name_en": "zorn"
+  },
+  "zorn_tr_global": {
+    "display_name": "zorn",
+    "display_name_en": "zorn"
+  },
+  "zorn_tw_global": {
+    "display_name": "zorn",
+    "display_name_en": "zorn"
   }
 }
