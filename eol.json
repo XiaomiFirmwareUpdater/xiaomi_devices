@@ -753,6 +753,12 @@
      "deviceName": "Redmi Note 10 JE (JP)",
      "sku": "iris_jp_kd_global",
      "projectCode": "K19J"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 10 Lite (in)",
+     "sku": "curtana_in_rf_global",
+     "projectCode": "J6A1"
     }
    ]
   },
@@ -881,5 +887,5 @@
    ]
   }
  ],
- "updateAt": "2024-10-27T23:58:24.000Z"
+ "updateAt": "2024-11-27T02:56:02.000Z"
 }
