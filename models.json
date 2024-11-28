@@ -1168,7 +1168,7 @@
   }
  },
  "sky": {
-  "internal_name": "M19/M19J/M19P",
+  "internal_name": "M19N/M19P/M19J/M19",
   "name": "Redmi 12 5G/Redmi Note 12R/Redmi 12R/POCO M6 Pro 5G",
   "models": {
    "`23076RN8DY`": "Redmi 12 5G Global (NFC)",
@@ -1195,7 +1195,7 @@
   }
  },
  "moon": {
-  "internal_name": "N19A/N19L/N19E/N19C",
+  "internal_name": "N19A/N19L/N19E/N19AP",
   "name": "Redmi 13/POCO M6",
   "models": {
    "`2404ARN45A`": "Redmi 13 Global",
@@ -1243,7 +1243,7 @@
   "models": {
    "`2409BRN2CA`": "Redmi 14C Global",
    "`2409BRN2CI`": "Redmi 14C India",
-   "`2409BRN2CL`": "Redmi 14C Latin America / Japan",
+   "`2409BRN2CL`": "Redmi 14C Latin America / Japan / Korea",
    "`2409BRN2CC`": "Redmi 14C China",
    "`2409BRN2CY`": "Redmi 14C Global (NFC)",
    "`2409BRN2CG`": "Redmi A3 Pro Global",
@@ -1502,7 +1502,7 @@
   }
  },
  "rosemary": {
-  "internal_name": "K7B/K7BN/K7BL/K7BP",
+  "internal_name": "K7B/K7BN/K7BL/K7BR/K7BP",
   "name": "Redmi Note 10S/Redmi Note 11 SE/POCO M5s",
   "models": {
    "`M2101K7BG`": "Redmi Note 10S Global",
@@ -1653,7 +1653,7 @@
   }
  },
  "tapas": {
-  "internal_name": "M7/M7L",
+  "internal_name": "M7/M7U/M7L",
   "name": "Redmi Note 12",
   "models": {
    "`23021RAAEG`": "Redmi Note 12 Global",
@@ -1740,7 +1740,7 @@
   }
  },
  "gold": {
-  "internal_name": "N17",
+  "internal_name": "N17/N17A",
   "name": "Redmi Note 13 5G/Redmi Note 13R Pro/POCO X6 Neo",
   "models": {
    "`2312DRAABG`": "Redmi Note 13 5G Global",
@@ -1798,12 +1798,14 @@
   }
  },
  "malachite": {
-  "internal_name": "O16",
-  "name": "Redmi Note 14 Pro",
+  "internal_name": "O16/O16P",
+  "name": "Redmi Note 14 Pro/POCO X7",
   "models": {
    "`24090RA29G`": "Redmi Note 14 Pro 5G Global",
    "`24090RA29I`": "Redmi Note 14 Pro 5G India",
-   "`24090RA29C`": "Redmi Note 14 Pro 5G China"
+   "`24090RA29C`": "Redmi Note 14 Pro 5G China",
+   "`24095PCADG`": "POCO X7 Global",
+   "`24095PCADI`": "POCO X7 India"
   }
  },
  "amethyst": {
@@ -1986,9 +1988,17 @@
  },
  "zorn": {
   "internal_name": "O11",
-  "name": "Redmi K80",
+  "name": "REDMI K80",
   "models": {
-   "`24117RK2CC`": "Redmi K80 China"
+   "`24117RK2CC`": "REDMI K80 China"
+  }
+ },
+ "miro": {
+  "internal_name": "O11U",
+  "name": "REDMI K80 Pro",
+  "models": {
+   "`24122RKC7C`": "REDMI K80 Pro China",
+   "`24127RK2CC`": "REDMI K80 Pro Automobili Lamborghini Squadra Corse China"
   }
  },
  "omega": {
@@ -2071,6 +2081,14 @@
    "`24044RN32L`": "Redmi A3x Latin America"
   }
  },
+ "warm": {
+  "internal_name": "C3F2",
+  "name": "Redmi A4 5G/POCO C75 5G",
+  "models": {
+   "`24116RNC1I`": "Redmi A4 5G India",
+   "`24116PCC1I`": "POCO C75 5G India"
+  }
+ },
  "beryllium": {
   "internal_name": "E10",
   "name": "POCO F1",
@@ -2108,6 +2126,14 @@
   "models": {
    "`22111317PG`": "POCO X5 5G Global",
    "`22111317PI`": "POCO X5 5G India"
+  }
+ },
+ "rodin": {
+  "internal_name": "O10",
+  "name": "POCO X7 Pro",
+  "models": {
+   "`2412DPC0AG`": "POCO X7 Pro Global",
+   "`2412DPC0AI`": "POCO X7 Pro India"
   }
  },
  "shiva": {
@@ -2286,7 +2312,7 @@
    "`2405CRPFDG`": "Redmi Pad Pro Wi-Fi Global",
    "`2405CRPFDC`": "Redmi Pad Pro Wi-Fi China",
    "`2405CRPFDI`": "Redmi Pad Pro Wi-Fi India",
-   "`2405CRPFDL`": "Redmi Pad Pro Wi-Fi Latin America",
+   "`2405CRPFDL`": "Redmi Pad Pro Wi-Fi Latin America / Korea",
    "`2405CPCFBG`": "POCO Pad Wi-Fi Global"
   }
  },
