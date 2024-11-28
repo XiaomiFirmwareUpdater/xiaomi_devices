@@ -476,6 +476,7 @@
  "mido": "CFCN",
  "mido_global": "CFMI",
  "mione_plus": "",
+ "miro": "OMCN",
  "mocha": "XFCN",
  "mocha_global": "XFMI",
  "mojito_eea_global": "KGEU",
@@ -886,6 +887,7 @@
  "viva_ru_global": "GDRU",
  "viva_tr_global": "GDTR",
  "viva_tw_global": "GDTW",
+ "warm_in_global": "GVIN",
  "water_eea_global": "GOEU",
  "water_global": "GOMI",
  "water_id_global": "GOID",
@@ -956,5 +958,6 @@
  "ziyi_ru_global": "LLRU",
  "ziyi_tr_global": "LLTR",
  "ziyi_tw_global": "LLTW",
- "zizhan": "LRCN"
+ "zizhan": "LRCN",
+ "zorn": "OKCN"
 }
