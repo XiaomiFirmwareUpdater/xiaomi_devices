@@ -234,6 +234,12 @@
   }
  },
  {
+  "beryl": {
+   "name": "POCO M7 Pro 5G",
+   "model": "2409FPCC4I"
+  }
+ },
+ {
   "phoenixin": {
    "name": "POCO X2",
    "model": "POCO X2"
@@ -936,6 +942,12 @@
   }
  },
  {
+  "warm": {
+   "name": "Redmi A4 5G",
+   "model": "24116RNC1I"
+  }
+ },
+ {
   "davinci": {
    "name": "Redmi K20",
    "model": "Mi 9T"
@@ -1587,6 +1599,12 @@
   "beryl": {
    "name": "Redmi Note 14 5G",
    "model": "24094RAD4C"
+  }
+ },
+ {
+  "beryl": {
+   "name": "Redmi Note 14 5G",
+   "model": "24094RAD4I"
   }
  },
  {
@@ -3462,6 +3480,12 @@
   }
  },
  {
+  "XIG07": {
+   "name": "Xiaomi 14T",
+   "model": "XIG07"
+  }
+ },
+ {
   "degas": {
    "name": "Xiaomi 14T",
    "model": "2406APNFAG"
@@ -3471,6 +3495,18 @@
   "rothko": {
    "name": "Xiaomi 14T Pro",
    "model": "2407FPN8EG"
+  }
+ },
+ {
+  "dada": {
+   "name": "Xiaomi 15",
+   "model": "24129PN74C"
+  }
+ },
+ {
+  "haotian": {
+   "name": "Xiaomi 15 Pro",
+   "model": "2410DPN6CC"
   }
  },
  {
