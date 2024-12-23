@@ -1840,6 +1840,15 @@
    "`24069PC21I`": "POCO F6 India"
   }
  },
+ "rodin": {
+  "internal_name": "O10S/O10",
+  "name": "REDMI Turbo 4/POCO X7 Pro",
+  "models": {
+   "`24129RT7CC`": "REDMI Turbo 4 China",
+   "`2412DPC0AG`": "POCO X7 Pro Global",
+   "`2412DPC0AI`": "POCO X7 Pro India"
+  }
+ },
  "davinciin": {
   "internal_name": "F10",
   "name": "Redmi K20",
@@ -2126,14 +2135,6 @@
   "models": {
    "`22111317PG`": "POCO X5 5G Global",
    "`22111317PI`": "POCO X5 5G India"
-  }
- },
- "rodin": {
-  "internal_name": "O10",
-  "name": "POCO X7 Pro",
-  "models": {
-   "`2412DPC0AG`": "POCO X7 Pro Global",
-   "`2412DPC0AI`": "POCO X7 Pro India"
   }
  },
  "shiva": {
