@@ -1253,9 +1253,12 @@
  },
  "flame": {
   "internal_name": "C3F/C3FP",
-  "name": "Redmi 14R 5G/POCO M7 5G",
+  "name": "Redmi 14C 5G/Redmi 14C 5G/Redmi 14R 5G/POCO M7 5G",
   "models": {
+   "`2411DRN47G`": "Redmi 14C 5G Global",
+   "`2411DRN47R`": "Redmi 14C 5G Japan",
    "`2411DRN47C`": "Redmi 14R 5G China",
+   "`2411DRN47I`": "Redmi 14C 5G India",
    "`24108PCE2I`": "POCO M7 5G India"
   }
  },
