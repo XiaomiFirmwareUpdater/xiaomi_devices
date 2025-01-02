@@ -7367,6 +7367,66 @@
     "display_name": "POCO M5",
     "display_name_en": "POCO M5"
   },
+  "rodin": {
+    "display_name": "REDMI Turbo 4",
+    "display_name_en": "REDMI Turbo 4"
+  },
+  "rodin_eea_global": {
+    "display_name": "XM-RODIN-EEA-GLOBAL",
+    "display_name_en": "XM-RODIN-EEA-GLOBAL"
+  },
+  "rodin_global": {
+    "display_name": "XM-RODIN-GLOBAL",
+    "display_name_en": "XM-RODIN-GLOBAL"
+  },
+  "rodin_id_global": {
+    "display_name": "XM-RODIN-ID-GLOBAL",
+    "display_name_en": "XM-RODIN-ID-GLOBAL"
+  },
+  "rodin_in_global": {
+    "display_name": "XM-RODIN-IN-GLOBAL",
+    "display_name_en": "XM-RODIN-IN-GLOBAL"
+  },
+  "rodin_pre_eea_global": {
+    "display_name": "XM-RODIN-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-RODIN-PRE-EEA-GLOBAL"
+  },
+  "rodin_pre_global": {
+    "display_name": "XM-RODIN-PRE-GLOBAL",
+    "display_name_en": "XM-RODIN-PRE-GLOBAL"
+  },
+  "rodin_pre_id_global": {
+    "display_name": "XM-RODIN-PRE-ID-GLOBAL",
+    "display_name_en": "XM-RODIN-PRE-ID-GLOBAL"
+  },
+  "rodin_pre_in_global": {
+    "display_name": "XM-RODIN-PRE-IN-GLOBAL",
+    "display_name_en": "XM-RODIN-PRE-IN-GLOBAL"
+  },
+  "rodin_pre_ru_global": {
+    "display_name": "XM-RODIN-PRE-RU-GLOBAL",
+    "display_name_en": "XM-RODIN-PRE-RU-GLOBAL"
+  },
+  "rodin_pre_tr_global": {
+    "display_name": "XM-RODIN-PRE-TR-GLOBAL",
+    "display_name_en": "XM-RODIN-PRE-TR-GLOBAL"
+  },
+  "rodin_pre_tw_global": {
+    "display_name": "XM-RODIN-PRE-TW-GLOBAL",
+    "display_name_en": "XM-RODIN-PRE-TW-GLOBAL"
+  },
+  "rodin_ru_global": {
+    "display_name": "XM-RODIN-RU-GLOBAL",
+    "display_name_en": "XM-RODIN-RU-GLOBAL"
+  },
+  "rodin_tr_global": {
+    "display_name": "XM-RODIN-TR-GLOBAL",
+    "display_name_en": "XM-RODIN-TR-GLOBAL"
+  },
+  "rodin_tw_global": {
+    "display_name": "XM-RODIN-TW-GLOBAL",
+    "display_name_en": "XM-RODIN-TW-GLOBAL"
+  },
   "rolex": {
     "display_name": "红米手机4A",
     "display_name_en": "Redmi 4A"
