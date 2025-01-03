@@ -366,6 +366,12 @@
   }
  },
  {
+  "rodin": {
+   "name": "REDMI Turbo 4",
+   "model": "24129RT7CC"
+  }
+ },
+ {
   "pine": {
    "name": "Redmi  7A",
    "model": "Redmi 7A"
@@ -1629,6 +1635,12 @@
   "amethyst": {
    "name": "Redmi Note 14 Pro+",
    "model": "24115RA8EC"
+  }
+ },
+ {
+  "amethyst": {
+   "name": "Redmi Note 14 Pro+ 5G",
+   "model": "24115RA8EI"
   }
  },
  {
