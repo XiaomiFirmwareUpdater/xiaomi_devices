@@ -66,6 +66,12 @@
   }
  },
  {
+  "warm": {
+   "name": "POCO C75 5G",
+   "model": "24116PCC1I"
+  }
+ },
+ {
   "lmi": {
    "name": "POCO F2 Pro",
    "model": "POCO F2 Pro"
