@@ -6447,6 +6447,78 @@
     "display_name": "Xiaomi 13 Pro",
     "display_name_en": "Xiaomi 13 Pro"
   },
+  "obsidian_dc_global": {
+    "display_name": "Redmi Note 14 Pro",
+    "display_name_en": "Redmi Note 14 Pro"
+  },
+  "obsidian_eea_global": {
+    "display_name": "Redmi Note 14 Pro",
+    "display_name_en": "Redmi Note 14 Pro"
+  },
+  "obsidian_global": {
+    "display_name": "Redmi Note 14 Pro",
+    "display_name_en": "Redmi Note 14 Pro"
+  },
+  "obsidian_gt_tg_global": {
+    "display_name": "Redmi Note 14 Pro",
+    "display_name_en": "Redmi Note 14 Pro"
+  },
+  "obsidian_lm_cr_global": {
+    "display_name": "Redmi Note 14 Pro",
+    "display_name_en": "Redmi Note 14 Pro"
+  },
+  "obsidian_mx_at_global": {
+    "display_name": "Redmi Note 14 Pro",
+    "display_name_en": "Redmi Note 14 Pro"
+  },
+  "obsidian_mx_tc_global": {
+    "display_name": "Redmi Note 14 Pro",
+    "display_name_en": "Redmi Note 14 Pro"
+  },
+  "obsidian_pre_dc_global": {
+    "display_name": "Redmi Note 14 Pro",
+    "display_name_en": "Redmi Note 14 Pro"
+  },
+  "obsidian_pre_eea_global": {
+    "display_name": "Redmi Note 14 Pro",
+    "display_name_en": "Redmi Note 14 Pro"
+  },
+  "obsidian_pre_global": {
+    "display_name": "Redmi Note 14 Pro",
+    "display_name_en": "Redmi Note 14 Pro"
+  },
+  "obsidian_pre_gt_tg_global": {
+    "display_name": "Redmi Note 14 Pro",
+    "display_name_en": "Redmi Note 14 Pro"
+  },
+  "obsidian_pre_lm_cr_global": {
+    "display_name": "Redmi Note 14 Pro",
+    "display_name_en": "Redmi Note 14 Pro"
+  },
+  "obsidian_pre_mx_at_global": {
+    "display_name": "Redmi Note 14 Pro",
+    "display_name_en": "Redmi Note 14 Pro"
+  },
+  "obsidian_pre_mx_tc_global": {
+    "display_name": "Redmi Note 14 Pro",
+    "display_name_en": "Redmi Note 14 Pro"
+  },
+  "obsidian_pre_ru_global": {
+    "display_name": "Redmi Note 14 Pro",
+    "display_name_en": "Redmi Note 14 Pro"
+  },
+  "obsidian_pre_tr_global": {
+    "display_name": "XM-OBSIDIAN-PRE-TR-GLOBAL",
+    "display_name_en": "XM-OBSIDIAN-PRE-TR-GLOBAL"
+  },
+  "obsidian_ru_global": {
+    "display_name": "Redmi Note 14 Pro",
+    "display_name_en": "Redmi Note 14 Pro"
+  },
+  "obsidian_tr_global": {
+    "display_name": "XM-OBSIDIAN-TR-GLOBAL",
+    "display_name_en": "XM-OBSIDIAN-TR-GLOBAL"
+  },
   "odin": {
     "display_name": "MIX 4",
     "display_name_en": "MIX 4"
@@ -9174,6 +9246,94 @@
   "sweetin_pre_in_global": {
     "display_name": "Redmi Note 10 Pro Max/Redmi Note 10 Pro",
     "display_name_en": "Redmi Note 10 Pro Max/Redmi Note 10 Pro"
+  },
+  "tanzanite_dc_global": {
+    "display_name": "Redmi Note 14",
+    "display_name_en": "Redmi Note 14"
+  },
+  "tanzanite_eea_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "tanzanite_global": {
+    "display_name": "Redmi Note 14",
+    "display_name_en": "Redmi Note 14"
+  },
+  "tanzanite_gt_tg_global": {
+    "display_name": "Redmi Note 14",
+    "display_name_en": "Redmi Note 14"
+  },
+  "tanzanite_id_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "tanzanite_lm_cr_global": {
+    "display_name": "Redmi Note 14",
+    "display_name_en": "Redmi Note 14"
+  },
+  "tanzanite_mx_at_global": {
+    "display_name": "Redmi Note 14",
+    "display_name_en": "Redmi Note 14"
+  },
+  "tanzanite_mx_tc_global": {
+    "display_name": "Redmi Note 14",
+    "display_name_en": "Redmi Note 14"
+  },
+  "tanzanite_pre_dc_global": {
+    "display_name": "Redmi Note 14",
+    "display_name_en": "Redmi Note 14"
+  },
+  "tanzanite_pre_eea_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "tanzanite_pre_global": {
+    "display_name": "Redmi Note 14",
+    "display_name_en": "Redmi Note 14"
+  },
+  "tanzanite_pre_gt_tg_global": {
+    "display_name": "Redmi Note 14",
+    "display_name_en": "Redmi Note 14"
+  },
+  "tanzanite_pre_id_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "tanzanite_pre_lm_cr_global": {
+    "display_name": "Redmi Note 14",
+    "display_name_en": "Redmi Note 14"
+  },
+  "tanzanite_pre_mx_at_global": {
+    "display_name": "Redmi Note 14",
+    "display_name_en": "Redmi Note 14"
+  },
+  "tanzanite_pre_mx_tc_global": {
+    "display_name": "Redmi Note 14",
+    "display_name_en": "Redmi Note 14"
+  },
+  "tanzanite_pre_ru_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "tanzanite_pre_tr_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "tanzanite_pre_tw_global": {
+    "display_name": "Redmi Note 14",
+    "display_name_en": "Redmi Note 14"
+  },
+  "tanzanite_ru_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "tanzanite_tr_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "tanzanite_tw_global": {
+    "display_name": "Redmi Note 14",
+    "display_name_en": "Redmi Note 14"
   },
   "taoyao_cl_en_global": {
     "display_name": "Xiaomi 12 Lite",
