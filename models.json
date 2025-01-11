@@ -1783,6 +1783,15 @@
    "`24040RA98R`": "Redmi Note 13 Pro+ 5G Japan"
   }
  },
+ "tanzanite": {
+  "internal_name": "O7",
+  "name": "Redmi Note 14",
+  "models": {
+   "`24117RN76G` `24117RN76E`": "Redmi Note 14 Global",
+   "`24117RN76L`": "Redmi Note 14 Latin America",
+   "`24117RN76O`": "Redmi Note 14 Global (NFC)"
+  }
+ },
  "beryl": {
   "internal_name": "O17/O17P",
   "name": "Redmi Note 14 5G/POCO M7 Pro 5G",
