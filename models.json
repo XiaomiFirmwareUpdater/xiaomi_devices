@@ -343,7 +343,7 @@
   "name": "Mi 11i/Redmi K40 Pro/Redmi K40 Pro+",
   "models": {
    "`M2012K11G`": "Mi 11i Global",
-   "`M2012K11C`": "Redmi K40 Pro China / Redmi K40 Pro+ China"
+   "`M2012K11C`": "Redmi K40 Pro+ China"
   }
  },
  "aliothin": {
@@ -1811,7 +1811,7 @@
  },
  "malachite": {
   "internal_name": "O16/O16P",
-  "name": "Redmi Note 14 Pro/POCO X7",
+  "name": "Redmi Note 14 Pro 5G/POCO X7",
   "models": {
    "`24090RA29G`": "Redmi Note 14 Pro 5G Global",
    "`24090RA29I`": "Redmi Note 14 Pro 5G India",
@@ -1822,7 +1822,7 @@
  },
  "amethyst": {
   "internal_name": "O16U",
-  "name": "Redmi Note 14 Pro+",
+  "name": "Redmi Note 14 Pro+ 5G",
   "models": {
    "`24115RA8EG`": "Redmi Note 14 Pro+ 5G Global",
    "`24115RA8EI`": "Redmi Note 14 Pro+ 5G India",
