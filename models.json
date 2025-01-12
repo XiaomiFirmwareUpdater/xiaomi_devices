@@ -343,7 +343,7 @@
   "name": "Mi 11i/Redmi K40 Pro/Redmi K40 Pro+",
   "models": {
    "`M2012K11G`": "Mi 11i Global",
-   "`M2012K11C`": "Redmi K40 Pro+ China"
+   "`M2012K11C`": "Redmi K40 Pro China / Redmi K40 Pro+ China"
   }
  },
  "aliothin": {
@@ -1059,7 +1059,7 @@
  },
  "lancelot": {
   "internal_name": "J19/J19A",
-  "name": "Redmi 9/Redmi 9 Prime/Redmi 9",
+  "name": "Redmi 9/Redmi 9 Prime",
   "models": {
    "`M2004J19G`": "Redmi 9 Global",
    "`M2004J19I`": "Redmi 9 Prime India",
@@ -1099,7 +1099,7 @@
  },
  "lime": {
   "internal_name": "J19S/J19N/J19L",
-  "name": "Redmi 9T/Redmi 9 Power/Redmi 9T/Redmi Note 9 4G",
+  "name": "Redmi 9T/Redmi 9 Power/Redmi Note 9 4G",
   "models": {
    "`M2010J19SG`": "Redmi 9T Global",
    "`M2010J19SI`": "Redmi 9 Power India",
@@ -1127,7 +1127,7 @@
  },
  "light": {
   "internal_name": "L19/L19N/L19X/L19P",
-  "name": "Redmi 10 5G/Redmi 11 Prime 5G/Redmi 10 5G/Redmi Note 11E 5G/Redmi Note 11R/POCO M4 5G",
+  "name": "Redmi 10 5G/Redmi 11 Prime 5G/Redmi Note 11E 5G/Redmi Note 11R/POCO M4 5G",
   "models": {
    "`22041219G`": "Redmi 10 5G Global",
    "`22041219I`": "Redmi 11 Prime 5G India",
