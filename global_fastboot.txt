@@ -13,6 +13,10 @@ alioth_in_global - F
 alioth_ru_global - F
 alioth_tr_global - F
 alioth_tw_global - F
+amethyst_eea_global - F
+amethyst_global - F
+amethyst_id_global - F
+amethyst_tw_global - F
 angelica_eea_global - F
 angelica_global - F
 angelica_tr_global - F
@@ -31,6 +35,8 @@ aristotle_tw_global - F
 aurora_eea_global - F
 aurora_global - F
 aurora_tw_global - F
+beryl_global - F
+beryl_tw_global - F
 blue_eea_global - F
 blue_global - F
 blue_id_global - F
@@ -207,6 +213,8 @@ joyeuse_tw_global - F
 klein_global - F
 klein_in_global - F
 klein_ru_global - F
+lake_eea_global - F
+lake_global - F
 lake_global - F
 lake_tw_global - F
 lancelot_eea_global - F
@@ -239,6 +247,8 @@ lmi_eea_global - F
 lmi_global - F
 lmi_ru_global - F
 lmi_tr_global - F
+malachite_global - F
+malachite_tw_global - F
 marble_eea_global - F
 marble_global - F
 marble_ru_global - F
@@ -261,6 +271,7 @@ moon_global - F
 moon_id_global - F
 moon_ru_global - F
 moon_tr_global - F
+moon_tw_global - F
 moonstone_eea_global - F
 moonstone_global - F
 moonstone_ru_global - F
@@ -356,6 +367,7 @@ ruyi_eea_global - F
 ruyi_global - F
 ruyi_ru_global - F
 ruyi_tw_global - F
+sapphire_dc_global - F
 sapphire_global - F
 sapphiren_eea_global - F
 sapphiren_global - F
@@ -407,6 +419,9 @@ sweet_k6a_tr_global - F
 sweet_ru_global - F
 sweet_tr_global - F
 sweet_tw_global - F
+tanzanite_dc_global - F
+tanzanite_global - F
+tanzanite_tw_global - F
 taoyao_eea_global - F
 taoyao_global - F
 taoyao_id_global - F
