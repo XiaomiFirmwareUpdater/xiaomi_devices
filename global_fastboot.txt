@@ -13,6 +13,7 @@ alioth_in_global - F
 alioth_ru_global - F
 alioth_tr_global - F
 alioth_tw_global - F
+amethyst_dc_global - F
 amethyst_eea_global - F
 amethyst_global - F
 amethyst_id_global - F
@@ -35,6 +36,7 @@ aristotle_tw_global - F
 aurora_eea_global - F
 aurora_global - F
 aurora_tw_global - F
+beryl_dc_global - F
 beryl_global - F
 beryl_tw_global - F
 blue_eea_global - F
