@@ -298,6 +298,9 @@ nuwa_in_global - F
 nuwa_ru_global - F
 nuwa_tr_global - F
 nuwa_tw_global - F
+obsidian_eea_global - F
+obsidian_global - F
+obsidian_tr_global - F
 opal_eea_global - F
 opal_global - F
 opal_ru_global - F
@@ -397,6 +400,7 @@ sky_eea_global - F
 sky_global - F
 sky_jp_global - F
 sky_tw_global - F
+spark_eea_global - F
 spark_global - F
 spark_in_global - F
 spark_tw_global - F
