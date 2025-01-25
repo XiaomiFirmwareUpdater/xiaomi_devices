@@ -342,6 +342,18 @@
   }
  },
  {
+  "rodin": {
+   "name": "POCO X7 Pro",
+   "model": "2412DPC0AG"
+  }
+ },
+ {
+  "rodin": {
+   "name": "POCO X7 Pro",
+   "model": "2412DPC0AI"
+  }
+ },
+ {
   "lmi": {
    "name": "K30 PRO",
    "model": "Lmi"
