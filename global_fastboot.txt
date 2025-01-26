@@ -37,6 +37,7 @@ aurora_eea_global - F
 aurora_global - F
 aurora_tw_global - F
 beryl_dc_global - F
+beryl_eea_global - F
 beryl_global - F
 beryl_tw_global - F
 blue_eea_global - F
