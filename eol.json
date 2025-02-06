@@ -327,6 +327,30 @@
      "deviceName": "Xiaomi Civi (CN)",
      "sku": "mona",
      "projectCode": "K9B"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12X (eea)",
+     "sku": "psyche_eea_global",
+     "projectCode": "L3A"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12X (ru)",
+     "sku": "psyche_ru_global",
+     "projectCode": "L3A"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12X (global)",
+     "sku": "psyche_global",
+     "projectCode": "L3A"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12X (tw)",
+     "sku": "psyche_tw_global",
+     "projectCode": "L3A"
     }
    ]
   },
@@ -756,9 +780,21 @@
     },
     {
      "brand": "Redmi",
+     "deviceName": "Redmi Note 10S (global)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
      "deviceName": "Redmi Note 10 Lite (in)",
      "sku": "curtana_in_rf_global",
      "projectCode": "J6A1"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 11T 5G (in)",
+     "sku": "evergo_in_global",
+     "projectCode": "K16A-IN/K16A-CN/K16P"
     }
    ]
   },
@@ -883,9 +919,15 @@
      "deviceName": "POCO X3 GT (ID)",
      "sku": "chopin_id_global",
      "projectCode": "K10A"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO M4 Pro 5G (in)",
+     "sku": "evergo_in_global",
+     "projectCode": "K16A-IN/K16A-CN/K16P"
     }
    ]
   }
  ],
- "updateAt": "2024-11-27T02:56:02.000Z"
+ "updateAt": "2025-02-06T01:18:36.000Z"
 }
