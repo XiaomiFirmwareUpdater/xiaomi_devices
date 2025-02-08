@@ -10439,6 +10439,14 @@
     "display_name": "Redmi A4 5G/POCO C75 5G",
     "display_name_en": "Redmi A4 5G/POCO C75 5G"
   },
+  "watchmen_global": {
+    "display_name": "MITV",
+    "display_name_en": "MITV"
+  },
+  "watchmen_pre_global": {
+    "display_name": "MITV",
+    "display_name_en": "MITV"
+  },
   "water_cl_en_global": {
     "display_name": "Redmi A2",
     "display_name_en": "Redmi A2"
