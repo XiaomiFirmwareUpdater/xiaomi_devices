@@ -9,7 +9,6 @@ air_in_global - F
 air_tw_global - F
 alioth_eea_global - F
 alioth_global - F
-alioth_in_global - F
 alioth_ru_global - F
 alioth_tr_global - F
 alioth_tw_global - F
@@ -179,6 +178,7 @@ garnet_tw_global - F
 gauguin_eea_global - F
 gauguin_global - F
 gauguin_tw_global - F
+gold_dc_global - F
 gold_eea_global - F
 gold_global - F
 gold_id_global - F
