@@ -1787,7 +1787,8 @@
   "internal_name": "O7",
   "name": "Redmi Note 14",
   "models": {
-   "`24117RN76G` `24117RN76E`": "Redmi Note 14 Global",
+   "`24117RN76G`": "Redmi Note 14 Global",
+   "`24117RN76E`": "Redmi Note 14 Europe",
    "`24117RN76L`": "Redmi Note 14 Latin America",
    "`24117RN76O`": "Redmi Note 14 Global (NFC)"
   }
