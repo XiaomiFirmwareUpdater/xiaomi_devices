@@ -342,6 +342,18 @@
   }
  },
  {
+  "malachite": {
+   "name": "POCO X7",
+   "model": "24095PCADG"
+  }
+ },
+ {
+  "malachite": {
+   "name": "POCO X7",
+   "model": "24095PCADI"
+  }
+ },
+ {
   "rodin": {
    "name": "POCO X7 Pro",
    "model": "2412DPC0AG"
@@ -351,6 +363,12 @@
   "rodin": {
    "name": "POCO X7 Pro",
    "model": "2412DPC0AI"
+  }
+ },
+ {
+  "citrine": {
+   "name": "Poco M7 Pro 5G",
+   "model": "2409FPCC4G"
   }
  },
  {
@@ -1680,6 +1698,12 @@
   }
  },
  {
+  "citrine": {
+   "name": "Redmi Note 14 5G",
+   "model": "24094RAD4G"
+  }
+ },
+ {
   "malachite": {
    "name": "Redmi Note 14 Pro",
    "model": "24090RA29C"
@@ -1694,6 +1718,12 @@
  {
   "malachite": {
    "name": "Redmi Note 14 Pro 5G",
+   "model": "24090RA29G"
+  }
+ },
+ {
+  "malachite": {
+   "name": "Redmi Note 14 Pro 5G",
    "model": "24090RA29I"
   }
  },
@@ -1701,6 +1731,12 @@
   "amethyst": {
    "name": "Redmi Note 14 Pro+",
    "model": "24115RA8EC"
+  }
+ },
+ {
+  "amethyst": {
+   "name": "Redmi Note 14 Pro+ 5G",
+   "model": "24115RA8EG"
   }
  },
  {
@@ -3723,6 +3759,12 @@
   "uke": {
    "name": "Xiaomi Pad 7",
    "model": "2410CRP4CC"
+  }
+ },
+ {
+  "uke": {
+   "name": "Xiaomi Pad 7",
+   "model": "2410CRP4CI"
   }
  },
  {
