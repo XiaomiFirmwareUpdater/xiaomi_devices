@@ -221,6 +221,8 @@ klein_ru_global - F
 lake_eea_global - F
 lake_global - F
 lake_global - F
+lake_ru_global - F
+lake_ru_global - F
 lake_tw_global - F
 lake_tw_global - F
 lancelot_eea_global - F
