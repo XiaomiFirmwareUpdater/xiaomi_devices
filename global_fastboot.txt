@@ -352,6 +352,7 @@ rock_ru_global - F
 rock_tw_global - F
 rodin_eea_global - F
 rodin_global - F
+rodin_ru_global - F
 rodin_tw_global - F
 rosemary_eea_global - F
 rosemary_global - F
@@ -438,6 +439,7 @@ sweet_tw_global - F
 tanzanite_dc_global - F
 tanzanite_eea_global - F
 tanzanite_global - F
+tanzanite_ru_global - F
 tanzanite_tw_global - F
 taoyao_eea_global - F
 taoyao_global - F
