@@ -340,24 +340,20 @@
  },
  "haydn": {
   "internal_name": "K11",
-  "name": "Mi 11i/Redmi K40 Pro/Redmi K40 Pro+",
+  "name": "Mi 11i/Mi 11X Pro/Redmi K40 Pro/Redmi K40 Pro+",
   "models": {
    "`M2012K11G`": "Mi 11i Global",
+   "`M2012K11I`": "Mi 11X Pro India",
    "`M2012K11C`": "Redmi K40 Pro China / Redmi K40 Pro+ China"
   }
  },
- "aliothin": {
+ "alioth": {
   "internal_name": "K11A",
-  "name": "Mi 11X",
+  "name": "Mi 11X/Redmi K40/POCO F3",
   "models": {
-   "`M2012K11AI`": "Mi 11X India"
-  }
- },
- "haydnin": {
-  "internal_name": "K11",
-  "name": "Mi 11X Pro",
-  "models": {
-   "`M2012K11I`": "Mi 11X Pro India"
+   "`M2012K11AI`": "Mi 11X India",
+   "`M2012K11AC`": "Redmi K40 China",
+   "`M2012K11AG`": "POCO F3 Global"
   }
  },
  "agate": {
@@ -580,6 +576,16 @@
   "name": "Xiaomi 15 Pro",
   "models": {
    "`2410DPN6CC`": "Xiaomi 15 Pro China"
+  }
+ },
+ "xuanyuan": {
+  "internal_name": "O1",
+  "name": "Xiaomi 15 Ultra",
+  "models": {
+   "`25010PN30G`": "Xiaomi 15 Ultra Global",
+   "`25010PN30I`": "Xiaomi 15 Ultra India",
+   "`25019PNF3C`": "Xiaomi 15 Ultra China (Tiantong satellite)",
+   "`25010PN30C`": "Xiaomi 15 Ultra China (Tiantong & Beidou satellites)"
   }
  },
  "virgo": {
@@ -1913,14 +1919,6 @@
   "name": "Redmi K30 Ultra",
   "models": {
    "`M2006J10C`": "Redmi K30 Ultra China"
-  }
- },
- "alioth": {
-  "internal_name": "K11A",
-  "name": "Redmi K40/POCO F3",
-  "models": {
-   "`M2012K11AC`": "Redmi K40 China",
-   "`M2012K11AG`": "POCO F3 Global"
   }
  },
  "ares": {
