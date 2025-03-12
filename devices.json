@@ -1752,6 +1752,12 @@
   }
  },
  {
+  "emerald": {
+   "name": "Redmi Note 14S",
+   "model": "2502FRA65G"
+  }
+ },
+ {
   "lavender": {
    "name": "Redmi Note 7",
    "model": "Redmi Note 7"
@@ -3627,6 +3633,18 @@
   "rothko": {
    "name": "Xiaomi 14T Pro",
    "model": "2407FPN8EG"
+  }
+ },
+ {
+  "rothko": {
+   "name": "Xiaomi 14T Pro",
+   "model": "2407FPN8ER"
+  }
+ },
+ {
+  "rothko": {
+   "name": "Xiaomi 14T Pro",
+   "model": "A402XM"
   }
  },
  {
