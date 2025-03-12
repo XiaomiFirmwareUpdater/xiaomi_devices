@@ -1202,9 +1202,9 @@
  },
  "moon": {
   "internal_name": "N19A/N19L/N19E/N19AP",
-  "name": "Redmi 13/POCO M6",
+  "name": "Redmi 13/Redmi 13X/POCO M6",
   "models": {
-   "`2404ARN45A`": "Redmi 13 Global",
+   "`2404ARN45A`": "Redmi 13 Global / Redmi 13X Global",
    "`2404ARN45I`": "Redmi 13 India",
    "`24049RN28L`": "Redmi 13 Latin America",
    "`24040RN64Y`": "Redmi 13 Global (NFC)",
@@ -1222,7 +1222,7 @@
   }
  },
  "gale": {
-  "internal_name": "C3U/C3UL/C3UN/C3UP",
+  "internal_name": "C3UA/C3U/C3UL/C3UN/C3UP",
   "name": "Redmi 13C/POCO C65",
   "models": {
    "`23106RN0DA`": "Redmi 13C Global",
@@ -1760,10 +1760,11 @@
   }
  },
  "emerald": {
-  "internal_name": "N6/N6P",
-  "name": "Redmi Note 13 Pro/POCO M6 Pro",
+  "internal_name": "N6/N6R/N6P",
+  "name": "Redmi Note 13 Pro/Redmi Note 14S/POCO M6 Pro",
   "models": {
    "`23117RA68G`": "Redmi Note 13 Pro Global",
+   "`2502FRA65G`": "Redmi Note 14S Global",
    "`2312FPCA6G`": "POCO M6 Pro Global"
   }
  },
