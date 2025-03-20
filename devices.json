@@ -2059,6 +2059,10 @@
     "display_name": "XM-DADA-DC-GLOBAL",
     "display_name_en": "XM-DADA-DC-GLOBAL"
   },
+  "dada_dpp_global": {
+    "display_name": "XM-DADA-DPP-GLOBAL",
+    "display_name_en": "XM-DADA-DPP-GLOBAL"
+  },
   "dada_eea_global": {
     "display_name": "XM-DADA-EEA-GLOBAL",
     "display_name_en": "XM-DADA-EEA-GLOBAL"
@@ -2090,6 +2094,10 @@
   "dada_pre_dc_global": {
     "display_name": "XM-DADA-PRE-DC-GLOBAL",
     "display_name_en": "XM-DADA-PRE-DC-GLOBAL"
+  },
+  "dada_pre_dpp_global": {
+    "display_name": "XM-DADA-PRE-DPP-GLOBAL",
+    "display_name_en": "XM-DADA-PRE-DPP-GLOBAL"
   },
   "dada_pre_eea_global": {
     "display_name": "XM-DADA-EEA-GLOBAL",
@@ -7715,6 +7723,10 @@
     "display_name": "Xiaomi 14T Pro",
     "display_name_en": "Xiaomi 14T Pro"
   },
+  "rothko_dpp_global": {
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
+  },
   "rothko_eea_global": {
     "display_name": "Xiaomi 14T Pro",
     "display_name_en": "Xiaomi 14T Pro"
@@ -7756,6 +7768,10 @@
     "display_name_en": "Xiaomi 14T Pro"
   },
   "rothko_pre_dc_global": {
+    "display_name": "Xiaomi 14T Pro",
+    "display_name_en": "Xiaomi 14T Pro"
+  },
+  "rothko_pre_dpp_global": {
     "display_name": "Xiaomi 14T Pro",
     "display_name_en": "Xiaomi 14T Pro"
   },
