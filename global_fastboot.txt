@@ -17,6 +17,7 @@ amethyst_dc_global - F
 amethyst_eea_global - F
 amethyst_global - F
 amethyst_id_global - F
+amethyst_ru_global - F
 amethyst_tw_global - F
 angelica_eea_global - F
 angelica_global - F
@@ -138,6 +139,7 @@ evergreen_tw_global - F
 fire_eea_global - F
 fire_global - F
 fire_ru_global - F
+flare_eea_global - F
 flare_global - F
 flare_tw_global - F
 fleur_eea_global - F
@@ -221,6 +223,7 @@ joyeuse_tw_global - F
 klein_global - F
 klein_in_global - F
 klein_ru_global - F
+lake_eea_global - F
 lake_eea_global - F
 lake_global - F
 lake_global - F
@@ -313,6 +316,7 @@ nuwa_tr_global - F
 nuwa_tw_global - F
 obsidian_eea_global - F
 obsidian_global - F
+obsidian_ru_global - F
 obsidian_tr_global - F
 opal_eea_global - F
 opal_global - F
@@ -463,6 +467,7 @@ topaz_eea_global - F
 topaz_global - F
 topaz_id_global - F
 topaz_ru_global - F
+uke_eea_global - F
 uke_global - F
 uke_tw_global - F
 umi_eea_global - F
