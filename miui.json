@@ -1029,5 +1029,11 @@
  "ziyi_tr_global": "LLTR",
  "ziyi_tw_global": "LLTW",
  "zizhan": "LRCN",
- "zorn": "OKCN"
+ "zorn": "OKCN",
+ "zorn_eea_global": "OKEU",
+ "zorn_global": "OKMI",
+ "zorn_id_global": "OKID",
+ "zorn_ru_global": "OKRU",
+ "zorn_tr_global": "OKTR",
+ "zorn_tw_global": "OKTW"
 }
