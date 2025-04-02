@@ -8539,6 +8539,166 @@
     "display_name": "HM-K19S-ZA-VC-GLOBAL",
     "display_name_en": "HM-K19S-ZA-VC-GLOBAL"
   },
+  "serenity_cl_en_global": {
+    "display_name": "Redmi A5/POCO C71",
+    "display_name_en": "Redmi A5/POCO C71"
+  },
+  "serenity_dc_global": {
+    "display_name": "Redmi A5/POCO C71",
+    "display_name_en": "Redmi A5/POCO C71"
+  },
+  "serenity_eea_by_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "serenity_eea_global": {
+    "display_name": "XM-SERENITY-EEA-GLOBAL/TBD",
+    "display_name_en": "XM-SERENITY-EEA-GLOBAL/TBD"
+  },
+  "serenity_eea_hg_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "serenity_eea_or_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "serenity_eea_sf_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "serenity_eea_tf_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "serenity_eea_vf_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "serenity_global": {
+    "display_name": "Redmi A5/POCO C71",
+    "display_name_en": "Redmi A5/POCO C71"
+  },
+  "serenity_gt_tg_global": {
+    "display_name": "Redmi A5/POCO C71",
+    "display_name_en": "Redmi A5/POCO C71"
+  },
+  "serenity_id_global": {
+    "display_name": "XM-SERENITY-ID-GLOBAL",
+    "display_name_en": "XM-SERENITY-ID-GLOBAL"
+  },
+  "serenity_in_global": {
+    "display_name": "XM-SERENITY-IN-GLOBAL",
+    "display_name_en": "XM-SERENITY-IN-GLOBAL"
+  },
+  "serenity_lm_cr_global": {
+    "display_name": "Redmi A5/POCO C71",
+    "display_name_en": "Redmi A5/POCO C71"
+  },
+  "serenity_lm_ms_global": {
+    "display_name": "Redmi A5/POCO C71",
+    "display_name_en": "Redmi A5/POCO C71"
+  },
+  "serenity_mx_at_global": {
+    "display_name": "Redmi A5/POCO C71",
+    "display_name_en": "Redmi A5/POCO C71"
+  },
+  "serenity_mx_tc_global": {
+    "display_name": "Redmi A5/POCO C71",
+    "display_name_en": "Redmi A5/POCO C71"
+  },
+  "serenity_pre_cl_en_global": {
+    "display_name": "Redmi A5/POCO C71",
+    "display_name_en": "Redmi A5/POCO C71"
+  },
+  "serenity_pre_dc_global": {
+    "display_name": "Redmi A5/POCO C71",
+    "display_name_en": "Redmi A5/POCO C71"
+  },
+  "serenity_pre_eea_by_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "serenity_pre_eea_global": {
+    "display_name": "XM-SERENITY-PRE-EEA-GLOBAL/TBD",
+    "display_name_en": "XM-SERENITY-PRE-EEA-GLOBAL/TBD"
+  },
+  "serenity_pre_eea_hg_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "serenity_pre_eea_or_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "serenity_pre_eea_sf_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "serenity_pre_eea_tf_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "serenity_pre_eea_vf_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "serenity_pre_global": {
+    "display_name": "Redmi A5/POCO C71",
+    "display_name_en": "Redmi A5/POCO C71"
+  },
+  "serenity_pre_gt_tg_global": {
+    "display_name": "Redmi A5/POCO C71",
+    "display_name_en": "Redmi A5/POCO C71"
+  },
+  "serenity_pre_id_global": {
+    "display_name": "XM-SERENITY-PRE-ID-GLOBAL",
+    "display_name_en": "XM-SERENITY-PRE-ID-GLOBAL"
+  },
+  "serenity_pre_in_global": {
+    "display_name": "XM-SERENITY-PRE-IN-GLOBAL",
+    "display_name_en": "XM-SERENITY-PRE-IN-GLOBAL"
+  },
+  "serenity_pre_lm_cr_global": {
+    "display_name": "Redmi A5/POCO C71",
+    "display_name_en": "Redmi A5/POCO C71"
+  },
+  "serenity_pre_lm_ms_global": {
+    "display_name": "Redmi A5/POCO C71",
+    "display_name_en": "Redmi A5/POCO C71"
+  },
+  "serenity_pre_mx_at_global": {
+    "display_name": "Redmi A5/POCO C71",
+    "display_name_en": "Redmi A5/POCO C71"
+  },
+  "serenity_pre_mx_tc_global": {
+    "display_name": "Redmi A5/POCO C71",
+    "display_name_en": "Redmi A5/POCO C71"
+  },
+  "serenity_pre_ru_global": {
+    "display_name": "XM-SERENITY-PRE-RU-GLOBAL/TBD",
+    "display_name_en": "XM-SERENITY-PRE-RU-GLOBAL/TBD"
+  },
+  "serenity_pre_za_mt_global": {
+    "display_name": "Redmi A5/POCO C71",
+    "display_name_en": "Redmi A5/POCO C71"
+  },
+  "serenity_pre_za_vc_global": {
+    "display_name": "Redmi A5/POCO C71",
+    "display_name_en": "Redmi A5/POCO C71"
+  },
+  "serenity_ru_global": {
+    "display_name": "XM-SERENITY-RU-GLOBAL/TBD",
+    "display_name_en": "XM-SERENITY-RU-GLOBAL/TBD"
+  },
+  "serenity_za_mt_global": {
+    "display_name": "Redmi A5/POCO C71",
+    "display_name_en": "Redmi A5/POCO C71"
+  },
+  "serenity_za_vc_global": {
+    "display_name": "Redmi A5/POCO C71",
+    "display_name_en": "Redmi A5/POCO C71"
+  },
   "sheng": {
     "display_name": "Xiaomi Pad 6S Pro 12.4",
     "display_name_en": "Xiaomi Pad 6S Pro 12.4"
