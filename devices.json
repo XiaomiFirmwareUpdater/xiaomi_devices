@@ -60,6 +60,12 @@
   }
  },
  {
+  "serenity": {
+   "name": "POCO C71",
+   "model": "25028PC03G"
+  }
+ },
+ {
   "lake": {
    "name": "POCO C75",
    "model": "2410FPCC5G"
@@ -1011,6 +1017,24 @@
   "warm": {
    "name": "Redmi A4 5G",
    "model": "24116RNC1I"
+  }
+ },
+ {
+  "serenity": {
+   "name": "Redmi A5",
+   "model": "25028RN03A"
+  }
+ },
+ {
+  "serenity": {
+   "name": "Redmi A5",
+   "model": "25028RN03L"
+  }
+ },
+ {
+  "serenity": {
+   "name": "Redmi A5",
+   "model": "25028RN03Y"
   }
  },
  {
@@ -3687,6 +3711,12 @@
   "xuanyuan": {
    "name": "Xiaomi 15 Ultra",
    "model": "25010PN30G"
+  }
+ },
+ {
+  "xuanyuan": {
+   "name": "Xiaomi 15 Ultra",
+   "model": "25010PN30I"
   }
  },
  {
