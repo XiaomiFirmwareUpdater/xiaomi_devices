@@ -66,6 +66,12 @@
   }
  },
  {
+  "serenity": {
+   "name": "POCO C71",
+   "model": "25028PC03I"
+  }
+ },
+ {
   "lake": {
    "name": "POCO C75",
    "model": "2410FPCC5G"
@@ -1023,6 +1029,12 @@
   "serenity": {
    "name": "Redmi A5",
    "model": "25028RN03A"
+  }
+ },
+ {
+  "serenity": {
+   "name": "Redmi A5",
+   "model": "25028RN03I"
   }
  },
  {
