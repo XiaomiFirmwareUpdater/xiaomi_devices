@@ -726,6 +726,18 @@
   }
  },
  {
+  "tides": {
+   "name": "Redmi 13x",
+   "model": "24049RN28L"
+  }
+ },
+ {
+  "tides": {
+   "name": "Redmi 13x",
+   "model": "2404ARN45A"
+  }
+ },
+ {
   "lake": {
    "name": "Redmi 14C",
    "model": "2409BRN2CY"
