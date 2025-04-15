@@ -8679,6 +8679,10 @@
     "display_name": "XM-SERENITY-PRE-RU-GLOBAL/TBD",
     "display_name_en": "XM-SERENITY-PRE-RU-GLOBAL/TBD"
   },
+  "serenity_pre_wt_global": {
+    "display_name": "Redmi A5/POCO C71",
+    "display_name_en": "Redmi A5/POCO C71"
+  },
   "serenity_pre_za_mt_global": {
     "display_name": "Redmi A5/POCO C71",
     "display_name_en": "Redmi A5/POCO C71"
@@ -8690,6 +8694,10 @@
   "serenity_ru_global": {
     "display_name": "XM-SERENITY-RU-GLOBAL/TBD",
     "display_name_en": "XM-SERENITY-RU-GLOBAL/TBD"
+  },
+  "serenity_wt_global": {
+    "display_name": "Redmi A5/POCO C71",
+    "display_name_en": "Redmi A5/POCO C71"
   },
   "serenity_za_mt_global": {
     "display_name": "Redmi A5/POCO C71",
