@@ -275,6 +275,7 @@ merlin_global - F
 merlin_ru_global - F
 merlin_tw_global - F
 miro_global - F
+miro_ru_global - F
 miro_tw_global - F
 mondrian_eea_global - F
 mondrian_global - F
@@ -553,4 +554,5 @@ ziyi_global - F
 ziyi_ru_global - F
 ziyi_tw_global - F
 zorn_global - F
+zorn_ru_global - F
 zorn_tw_global - F
