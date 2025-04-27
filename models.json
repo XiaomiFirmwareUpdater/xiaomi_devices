@@ -1209,11 +1209,11 @@
  },
  "moon": {
   "internal_name": "N19A/N19L/N19E/N19AP",
-  "name": "Redmi 13/REDMI 13X/POCO M6",
+  "name": "Redmi 13/REDMI 13X/Redmi 13/REDMI 13x/POCO M6",
   "models": {
    "`2404ARN45A`": "Redmi 13 Global / REDMI 13x Global",
    "`2404ARN45I`": "Redmi 13 India",
-   "`24049RN28L`": "Redmi 13 Latin America",
+   "`24049RN28L`": "Redmi 13 Latin America / REDMI 13x Latin America",
    "`24040RN64Y`": "Redmi 13 Global (NFC)",
    "`2404APC5FG`": "POCO M6 Global",
    "`2404APC5FI`": "POCO M6 India"
@@ -1876,6 +1876,15 @@
    "`2412DPC0AI`": "POCO X7 Pro India"
   }
  },
+ "onyx": {
+  "internal_name": "O10U",
+  "name": "REDMI Turbo 4 Pro/POCO F7",
+  "models": {
+   "`25053RT47C`": "REDMI Turbo 4 Pro China",
+   "`25053PC47G`": "POCO F7 Global",
+   "`25053PC47I`": "POCO F7 India"
+  }
+ },
  "davinciin": {
   "internal_name": "F10",
   "name": "Redmi K20",
@@ -2136,14 +2145,6 @@
   "name": "POCO F1",
   "models": {
    "`M1805E10A`": "POCO F1"
-  }
- },
- "onyx": {
-  "internal_name": "O10U",
-  "name": "POCO F7",
-  "models": {
-   "`25053PC47G`": "POCO F7 Global",
-   "`25053PC47I`": "POCO F7 India"
   }
  },
  "phoenixin": {
