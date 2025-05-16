@@ -426,6 +426,12 @@
   }
  },
  {
+  "onyx": {
+   "name": "REDMI Turbo 4 Pro",
+   "model": "25053RT47C"
+  }
+ },
+ {
   "pine": {
    "name": "Redmi  7A",
    "model": "Redmi 7A"
@@ -3903,6 +3909,24 @@
   "muyu": {
    "name": "Xiaomi Pad 7 Pro",
    "model": "24091RPADG"
+  }
+ },
+ {
+  "tianshan": {
+   "name": "Xiaomi Smart Projector L1",
+   "model": "C025RGN"
+  }
+ },
+ {
+  "tianshan": {
+   "name": "Xiaomi Smart Projector L1 Pro",
+   "model": "C045RGN"
+  }
+ },
+ {
+  "twilight": {
+   "name": "Xiaomi TV Box S",
+   "model": "MiTV-AFMU0"
   }
  },
  {
