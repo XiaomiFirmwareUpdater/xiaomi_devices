@@ -2399,6 +2399,10 @@
     "display_name": "Xiaomi 14T",
     "display_name_en": "Xiaomi 14T"
   },
+  "dijun": {
+    "display_name": "Xiaomi 15S Pro",
+    "display_name_en": "Xiaomi 15S Pro"
+  },
   "dior": {
     "display_name": "HM NOTE 1LTETD",
     "display_name_en": "HM NOTE 1LTETD"
@@ -4615,6 +4619,10 @@
     "display_name": "MI Box",
     "display_name_en": "MI Box"
   },
+  "jinghu": {
+    "display_name": "Xiaomi Pad 7 Ultra",
+    "display_name_en": "Xiaomi Pad 7 Ultra"
+  },
   "joyeuse_cl_en_global": {
     "display_name": "Redmi Note 9 Pro",
     "display_name_en": "Redmi Note 9 Pro"
@@ -5434,6 +5442,10 @@
   "lte26007_global": {
     "display_name": "LTE26007-GLOBAL",
     "display_name_en": "LTE26007-GLOBAL"
+  },
+  "luming": {
+    "display_name": "Xiaomi Civi 5 Pro",
+    "display_name_en": "Xiaomi Civi 5 Pro"
   },
   "malachite": {
     "display_name": "Redmi Note 14 Pro",
