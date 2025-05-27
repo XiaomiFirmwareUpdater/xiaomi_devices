@@ -3768,6 +3768,12 @@
   }
  },
  {
+  "dijun": {
+   "name": "Xiaomi 15S Pro",
+   "model": "25042PN24C"
+  }
+ },
+ {
   "mona": {
    "name": "Xiaomi Civi",
    "model": "2109119BC"
@@ -3915,6 +3921,12 @@
   "muyu": {
    "name": "Xiaomi Pad 7 Pro",
    "model": "24091RPADG"
+  }
+ },
+ {
+  "jinghu": {
+   "name": "Xiaomi Pad 7 Ultra",
+   "model": "25032RP42C"
   }
  },
  {
