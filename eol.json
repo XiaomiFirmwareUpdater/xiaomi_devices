@@ -330,27 +330,57 @@
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "Xiaomi 12X (eea)",
-     "sku": "psyche_eea_global",
-     "projectCode": "L3A"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Xiaomi 12X (ru)",
-     "sku": "psyche_ru_global",
-     "projectCode": "L3A"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Xiaomi 12X (global)",
+     "deviceName": "Xiaomi 12X",
      "sku": "psyche_global",
      "projectCode": "L3A"
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "Xiaomi 12X (tw)",
-     "sku": "psyche_tw_global",
-     "projectCode": "L3A"
+     "deviceName": "Xiaomi Civi 1S (CN)",
+     "sku": "zijin",
+     "projectCode": "K9E"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 11X Pro (IN)",
+     "sku": "haydn_in_global",
+     "projectCode": "K11"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 11i (Global)",
+     "sku": "haydn_global",
+     "projectCode": "K11"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 11i (EEA)",
+     "sku": "haydn_eea_global",
+     "projectCode": "K11"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 11 Ultra (Global)",
+     "sku": "star_global",
+     "projectCode": "K1/K1A"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 11 Ultra (IN)",
+     "sku": "star_in_global",
+     "projectCode": "K1/K1A"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 11 Ultra (EEA)",
+     "sku": "star_eea_global",
+     "projectCode": "K1/K1A"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Mi 11 Ultra (ID)",
+     "sku": "star_id_global",
+     "projectCode": "K1/K1A"
     }
    ]
   },
@@ -780,21 +810,75 @@
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi Note 10S (global)",
+     "deviceName": "Redmi Note 10S (Global)",
      "sku": "",
      "projectCode": ""
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi Note 10 Lite (in)",
+     "deviceName": "Redmi Note 10 Lite (IN)",
      "sku": "curtana_in_rf_global",
      "projectCode": "J6A1"
     },
     {
      "brand": "Redmi",
-     "deviceName": "Redmi Note 11T 5G (in)",
+     "deviceName": "Redmi Note 11T 5G (IN)",
      "sku": "evergo_in_global",
      "projectCode": "K16A-IN/K16A-CN/K16P"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 10 2022 (TR)",
+     "sku": "selene_tr_global",
+     "projectCode": "K19S/K19U/K19V/K19T/K19A/K19B/K19L/K19D"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi K40 Pro (CN)",
+     "sku": "haydn",
+     "projectCode": "K11"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi K40 Pro + (CN)",
+     "sku": "haydn",
+     "projectCode": "K11"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi K50 (CN)",
+     "sku": "rubens",
+     "projectCode": "L11A"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi K50 Pro (CN)",
+     "sku": "matisse",
+     "projectCode": "L11"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 11 Pro (EEA)",
+     "sku": "viva_eea_global",
+     "projectCode": "K6T"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 11 Pro (ID)",
+     "sku": "viva_id_global",
+     "projectCode": "K6T"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 11 Pro (TW)",
+     "sku": "viva_tw_global",
+     "projectCode": "K6T"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 11 Pro (RU)",
+     "sku": "viva_ru_global",
+     "projectCode": "K6T"
     }
    ]
   },
@@ -922,12 +1006,24 @@
     },
     {
      "brand": "POCO",
-     "deviceName": "POCO M4 Pro 5G (in)",
+     "deviceName": "POCO M4 Pro 5G (IN)",
      "sku": "evergo_in_global",
      "projectCode": "K16A-IN/K16A-CN/K16P"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO M4 Pro 5G (TR)",
+     "sku": "evergreen_tr_global",
+     "projectCode": "K16A"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO F4 GT (Global)",
+     "sku": "ingres_global",
+     "projectCode": "L10"
     }
    ]
   }
  ],
- "updateAt": "2025-02-25T00:35:11.000Z"
+ "updateAt": "2025-05-27T04:18:21.000Z"
 }
