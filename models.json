@@ -331,7 +331,7 @@
  },
  "lisa": {
   "internal_name": "K9D",
-  "name": "Xiaomi 11 Lite 5G NE/Mi 11 LE",
+  "name": "Xiaomi 11 Lite 5G NE/Xiaomi 11 Lite NE 5G/Mi 11 LE",
   "models": {
    "`2109119DG`": "Xiaomi 11 Lite 5G NE Global",
    "`2109119DI`": "Xiaomi 11 Lite NE 5G India",
@@ -1216,7 +1216,7 @@
  },
  "moon": {
   "internal_name": "N19A/N19L/N19E/N19AP",
-  "name": "Redmi 13/Redmi 13X/Redmi 13/Redmi 13x/POCO M6",
+  "name": "Redmi 13/Redmi 13x/Redmi 13/Redmi 13x/POCO M6",
   "models": {
    "`2404ARN45A`": "Redmi 13 Global / Redmi 13x Global",
    "`2404ARN45I`": "Redmi 13 India",
@@ -1978,7 +1978,7 @@
  },
  "ingres": {
   "internal_name": "L10",
-  "name": "Redmi K50G/POGO F4 GT",
+  "name": "Redmi K50G/POCO F4 GT",
   "models": {
    "`21121210C`": "Redmi K50G China",
    "`21121210G`": "POCO F4 GT Global"
