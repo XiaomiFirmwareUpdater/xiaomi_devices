@@ -8648,8 +8648,8 @@
     "display_name_en": "TBD"
   },
   "serenity_global": {
-    "display_name": "POCO C71\t/Redmi A5/POCO C71",
-    "display_name_en": "POCO C71\t/Redmi A5/POCO C71"
+    "display_name": "POCO C71/Redmi A5/POCO C71",
+    "display_name_en": "POCO C71/Redmi A5/POCO C71"
   },
   "serenity_gt_tg_global": {
     "display_name": "Redmi A5/POCO C71",
@@ -8716,8 +8716,8 @@
     "display_name_en": "TBD"
   },
   "serenity_pre_global": {
-    "display_name": "Redmi A5/POCO C71/POCO C71\t",
-    "display_name_en": "Redmi A5/POCO C71/POCO C71\t"
+    "display_name": "Redmi A5/POCO C71/POCO C71",
+    "display_name_en": "Redmi A5/POCO C71/POCO C71"
   },
   "serenity_pre_gt_tg_global": {
     "display_name": "Redmi A5/POCO C71",
