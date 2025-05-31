@@ -150,6 +150,12 @@
   }
  },
  {
+  "zorn": {
+   "name": "POCO F7 Pro",
+   "model": "24117RK2CG"
+  }
+ },
+ {
   "miro": {
    "name": "POCO F7 Ultra",
    "model": "24122RKC7G"
@@ -423,6 +429,18 @@
   "marblein": {
    "name": "POCO F5",
    "model": "23049PCD8I"
+  }
+ },
+ {
+  "zorn": {
+   "name": "REDMI K80",
+   "model": "24117RK2CC"
+  }
+ },
+ {
+  "miro": {
+   "name": "REDMI K80 Pro",
+   "model": "24122RKC7C"
   }
  },
  {
@@ -3159,6 +3177,12 @@
   "beryllium": {
    "name": "POCO F1",
    "model": "POCOPHONE F1"
+  }
+ },
+ {
+  "zorn": {
+   "name": "POCO F7 Pro",
+   "model": "24117RK2CG"
   }
  },
  {
