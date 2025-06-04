@@ -4751,6 +4751,58 @@
     "display_name": "Redmi A3x",
     "display_name_en": "Redmi A3x"
   },
+  "koto": {
+    "display_name": "XM-KOTO",
+    "display_name_en": "XM-KOTO"
+  },
+  "koto_dc_global": {
+    "display_name": "XM-KOTO-DC-GLOBAL",
+    "display_name_en": "XM-KOTO-DC-GLOBAL"
+  },
+  "koto_eea_global": {
+    "display_name": "XM-KOTO-EEA-GLOBAL",
+    "display_name_en": "XM-KOTO-EEA-GLOBAL"
+  },
+  "koto_global": {
+    "display_name": "XM-KOTO-GLOBAL",
+    "display_name_en": "XM-KOTO-GLOBAL"
+  },
+  "koto_in_global": {
+    "display_name": "XM-KOTO-IN-GLOBAL",
+    "display_name_en": "XM-KOTO-IN-GLOBAL"
+  },
+  "koto_pre_dc_global": {
+    "display_name": "XM-KOTO-PRE-DC-GLOBAL",
+    "display_name_en": "XM-KOTO-PRE-DC-GLOBAL"
+  },
+  "koto_pre_eea_global": {
+    "display_name": "XM-KOTO-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-KOTO-PRE-EEA-GLOBAL"
+  },
+  "koto_pre_global": {
+    "display_name": "XM-KOTO-PRE-GLOBAL",
+    "display_name_en": "XM-KOTO-PRE-GLOBAL"
+  },
+  "koto_pre_in_global": {
+    "display_name": "XM-KOTO-PRE-IN-GLOBAL",
+    "display_name_en": "XM-KOTO-PRE-IN-GLOBAL"
+  },
+  "koto_pre_ru_global": {
+    "display_name": "XM-KOTO-PRE-RU-GLOBAL",
+    "display_name_en": "XM-KOTO-PRE-RU-GLOBAL"
+  },
+  "koto_pre_tw_global": {
+    "display_name": "XM-KOTO-PRE-TW-GLOBAL",
+    "display_name_en": "XM-KOTO-PRE-TW-GLOBAL"
+  },
+  "koto_ru_global": {
+    "display_name": "XM-KOTO-RU-GLOBAL",
+    "display_name_en": "XM-KOTO-RU-GLOBAL"
+  },
+  "koto_tw_global": {
+    "display_name": "XM-KOTO-TW-GLOBAL",
+    "display_name_en": "XM-KOTO-TW-GLOBAL"
+  },
   "lake": {
     "display_name": "Redmi 14C",
     "display_name_en": "Redmi 14C"
@@ -9542,6 +9594,66 @@
   "sweetin_pre_in_global": {
     "display_name": "Redmi Note 10 Pro Max/Redmi Note 10 Pro",
     "display_name_en": "Redmi Note 10 Pro Max/Redmi Note 10 Pro"
+  },
+  "taiko": {
+    "display_name": "XM-TAIKO",
+    "display_name_en": "XM-TAIKO"
+  },
+  "taiko_eea_global": {
+    "display_name": "XM-TAIKO-EEA-GLOBAL",
+    "display_name_en": "XM-TAIKO-EEA-GLOBAL"
+  },
+  "taiko_global": {
+    "display_name": "XM-TAIKO-GLOBAL",
+    "display_name_en": "XM-TAIKO-GLOBAL"
+  },
+  "taiko_id_global": {
+    "display_name": "XM-TAIKO-ID-GLOBAL",
+    "display_name_en": "XM-TAIKO-ID-GLOBAL"
+  },
+  "taiko_in_global": {
+    "display_name": "XM-TAIKO-IN-GLOBAL",
+    "display_name_en": "XM-TAIKO-IN-GLOBAL"
+  },
+  "taiko_pre_eea_global": {
+    "display_name": "XM-TAIKO-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-TAIKO-PRE-EEA-GLOBAL"
+  },
+  "taiko_pre_global": {
+    "display_name": "XM-TAIKO-PRE-GLOBAL",
+    "display_name_en": "XM-TAIKO-PRE-GLOBAL"
+  },
+  "taiko_pre_id_global": {
+    "display_name": "XM-TAIKO-PRE-ID-GLOBAL",
+    "display_name_en": "XM-TAIKO-PRE-ID-GLOBAL"
+  },
+  "taiko_pre_in_global": {
+    "display_name": "XM-TAIKO-PRE-IN-GLOBAL",
+    "display_name_en": "XM-TAIKO-PRE-IN-GLOBAL"
+  },
+  "taiko_pre_ru_global": {
+    "display_name": "XM-TAIKO-PRE-RU-GLOBAL",
+    "display_name_en": "XM-TAIKO-PRE-RU-GLOBAL"
+  },
+  "taiko_pre_tr_global": {
+    "display_name": "XM-TAIKO-PRE-TR-GLOBAL",
+    "display_name_en": "XM-TAIKO-PRE-TR-GLOBAL"
+  },
+  "taiko_pre_tw_global": {
+    "display_name": "XM-TAIKO-PRE-TW-GLOBAL",
+    "display_name_en": "XM-TAIKO-PRE-TW-GLOBAL"
+  },
+  "taiko_ru_global": {
+    "display_name": "XM-TAIKO-RU-GLOBAL",
+    "display_name_en": "XM-TAIKO-RU-GLOBAL"
+  },
+  "taiko_tr_global": {
+    "display_name": "XM-TAIKO-TR-GLOBAL",
+    "display_name_en": "XM-TAIKO-TR-GLOBAL"
+  },
+  "taiko_tw_global": {
+    "display_name": "XM-TAIKO-TW-GLOBAL",
+    "display_name_en": "XM-TAIKO-TW-GLOBAL"
   },
   "tanzanite_dc_global": {
     "display_name": "Redmi Note 14",
