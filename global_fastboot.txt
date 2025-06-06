@@ -223,6 +223,8 @@ joyeuse_tw_global - F
 klein_global - F
 klein_in_global - F
 klein_ru_global - F
+koto_global - F
+koto_tw_global - F
 lake_eea_global - F
 lake_eea_global - F
 lake_global - F
@@ -454,6 +456,8 @@ sweet_k6a_tr_global - F
 sweet_ru_global - F
 sweet_tr_global - F
 sweet_tw_global - F
+taiko_global - F
+taiko_tw_global - F
 tanzanite_dc_global - F
 tanzanite_eea_global - F
 tanzanite_global - F
