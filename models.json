@@ -2345,6 +2345,13 @@
    "`25032RP42C`": "Xiaomi Pad 7 Ultra"
   }
  },
+ "violin": {
+  "internal_name": "O81A",
+  "name": "Xiaomi Pad 7S Pro 12.5",
+  "models": {
+   "`25053RP5CC`": "Xiaomi Pad 7S Pro 12.5 China"
+  }
+ },
  "yunluo": {
   "internal_name": "L83",
   "name": "Redmi Pad",
@@ -2396,6 +2403,26 @@
   "models": {
    "`24076RP19G`": "Redmi Pad SE 8.7 4G Global",
    "`24076RP19I`": "Redmi Pad SE 4G India"
+  }
+ },
+ "taiko": {
+  "internal_name": "O84",
+  "name": "Redmi Pad 2",
+  "models": {
+   "`25040RP0AG`": "Redmi Pad 2 Global",
+   "`25040RP0AI`": "Redmi Pad 2 India",
+   "`25040RP0AE`": "Redmi Pad 2 Europe",
+   "`25040RP0AL`": "Redmi Pad 2 Latin America",
+   "`25040RP0AC`": "REDMI Pad 2 China"
+  }
+ },
+ "koto": {
+  "internal_name": "O84X",
+  "name": "Redmi Pad 2 4G",
+  "models": {
+   "`2505DRP06G`": "Redmi Pad 2 4G Global",
+   "`2505DRP06I`": "Redmi Pad 2 4G India",
+   "`2505DRP06C`": "REDMI Pad 2 4G China"
   }
  },
  "Babel": {
