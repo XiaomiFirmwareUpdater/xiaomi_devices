@@ -131,6 +131,9 @@ earth_tr_global - F
 earth_tw_global - F
 emerald_eea_global - F
 emerald_global - F
+emerald_r_eea_global - F
+emerald_r_global - F
+emerald_r_tr_global - F
 emerald_ru_global - F
 evergreen_eea_global - F
 evergreen_global - F
@@ -307,6 +310,7 @@ munch_tr_global - F
 munch_tw_global - F
 muyu_eea_global - F
 muyu_global - F
+muyu_ru_global - F
 muyu_tw_global - F
 nabu_eea_global - F
 nabu_global - F
