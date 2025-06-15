@@ -595,6 +595,21 @@
    "`25042PN24C`": "Xiaomi 15S Pro China"
   }
  },
+ "goya": {
+  "internal_name": "O12A",
+  "name": "Xiaomi 15T",
+  "models": {
+   "`25069PTEBG`": "Xiaomi 15T Global"
+  }
+ },
+ "klimt": {
+  "internal_name": "O12U",
+  "name": "Xiaomi 15T Pro",
+  "models": {
+   "`2506BPN68G`": "Xiaomi 15T Pro Global",
+   "`2506BPN68R`": "Xiaomi 15T Pro Japan (SIM Free)"
+  }
+ },
  "virgo": {
   "internal_name": "X5",
   "name": "Mi Note",
@@ -730,6 +745,14 @@
   "models": {
    "`2405CPX3DG`": "Xiaomi MIX Flip Global",
    "`2405CPX3DC`": "Xiaomi MIX Flip China"
+  }
+ },
+ "bixi": {
+  "internal_name": "O8",
+  "name": "Xiaomi MIX Flip 2",
+  "models": {
+   "`2505APX7BG`": "Xiaomi MIX Flip 2 Global",
+   "`2505APX7BC`": "Xiaomi MIX Flip 2 China"
   }
  },
  "hydrogen": {
@@ -2429,6 +2452,7 @@
   "models": {
    "`2505DRP06G`": "Redmi Pad 2 4G Global",
    "`2505DRP06I`": "Redmi Pad 2 4G India",
+   "`2505DRP06E`": "Redmi Pad 2 4G Europe",
    "`2505DRP06C`": "REDMI Pad 2 4G China"
   }
  },
