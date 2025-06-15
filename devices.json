@@ -2000,6 +2000,12 @@
  {
   "taiko": {
    "name": "Redmi Pad 2",
+   "model": "25040RP0AE"
+  }
+ },
+ {
+  "taiko": {
+   "name": "Redmi Pad 2",
    "model": "25040RP0AG"
   }
  },
@@ -2007,6 +2013,12 @@
   "taiko": {
    "name": "Redmi Pad 2",
    "model": "25040RP0AL"
+  }
+ },
+ {
+  "koto": {
+   "name": "Redmi Pad 2 4G",
+   "model": "2505DRP06E"
   }
  },
  {
