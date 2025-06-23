@@ -2159,6 +2159,10 @@
     "display_name": "Mi A2 Lite",
     "display_name_en": "Mi A2 Lite"
   },
+  "dali": {
+    "display_name": "REDMI K80 Ultra",
+    "display_name_en": "REDMI K80 Ultra"
+  },
   "dandelion": {
     "display_name": "Redmi 9A",
     "display_name_en": "Redmi 9A"
@@ -8819,6 +8823,10 @@
     "display_name": "XM-SERENITY-RU-GLOBAL/TBD",
     "display_name_en": "XM-SERENITY-RU-GLOBAL/TBD"
   },
+  "serenity_test_pre_global": {
+    "display_name": "C3Z",
+    "display_name_en": "C3Z"
+  },
   "serenity_wt_global": {
     "display_name": "Redmi A5/POCO C71",
     "display_name_en": "Redmi A5/POCO C71"
@@ -10094,6 +10102,50 @@
   "tulip_ru_global": {
     "display_name": "Redmi Note 6 Pro",
     "display_name_en": "Redmi Note 6 Pro"
+  },
+  "turner": {
+    "display_name": "REDMI K Pad",
+    "display_name_en": "REDMI K Pad"
+  },
+  "turner_global": {
+    "display_name": "XM-TURNER-GLOBAL",
+    "display_name_en": "XM-TURNER-GLOBAL"
+  },
+  "turner_id_global": {
+    "display_name": "XM-TURNER-ID-GLOBAL",
+    "display_name_en": "XM-TURNER-ID-GLOBAL"
+  },
+  "turner_pre_global": {
+    "display_name": "XM-TURNER-PRE-GLOBAL",
+    "display_name_en": "XM-TURNER-PRE-GLOBAL"
+  },
+  "turner_pre_id_global": {
+    "display_name": "XM-TURNER-PRE-ID-GLOBAL",
+    "display_name_en": "XM-TURNER-PRE-ID-GLOBAL"
+  },
+  "turner_pre_ru_global": {
+    "display_name": "XM-TURNER-PRE-RU-GLOBAL",
+    "display_name_en": "XM-TURNER-PRE-RU-GLOBAL"
+  },
+  "turner_pre_tr_global": {
+    "display_name": "XM-TURNER-PRE-TR-GLOBAL",
+    "display_name_en": "XM-TURNER-PRE-TR-GLOBAL"
+  },
+  "turner_pre_tw_global": {
+    "display_name": "XM-TURNER-PRE-TW-GLOBAL",
+    "display_name_en": "XM-TURNER-PRE-TW-GLOBAL"
+  },
+  "turner_ru_global": {
+    "display_name": "XM-TURNER-RU-GLOBAL",
+    "display_name_en": "XM-TURNER-RU-GLOBAL"
+  },
+  "turner_tr_global": {
+    "display_name": "XM-TURNER-TR-GLOBAL",
+    "display_name_en": "XM-TURNER-TR-GLOBAL"
+  },
+  "turner_tw_global": {
+    "display_name": "XM-TURNER-TW-GLOBAL",
+    "display_name_en": "XM-TURNER-TW-GLOBAL"
   },
   "ugg": {
     "display_name": "红米Note5A 高配版",
