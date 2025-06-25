@@ -2012,6 +2012,12 @@
  {
   "taiko": {
    "name": "Redmi Pad 2",
+   "model": "25040RP0AI"
+  }
+ },
+ {
+  "taiko": {
+   "name": "Redmi Pad 2",
    "model": "25040RP0AL"
   }
  },
@@ -2025,6 +2031,12 @@
   "koto": {
    "name": "Redmi Pad 2 4G",
    "model": "2505DRP06G"
+  }
+ },
+ {
+  "koto": {
+   "name": "Redmi Pad 2 Wi-Fi + Cellular",
+   "model": "2505DRP06I"
   }
  },
  {
@@ -3993,6 +4005,12 @@
   "tianshan": {
    "name": "Xiaomi Smart Projector L1 Pro",
    "model": "C045RGN"
+  }
+ },
+ {
+  "arctictale": {
+   "name": "Xiaomi TV",
+   "model": "MiTV-AXFU0"
   }
  },
  {
