@@ -955,6 +955,14 @@
     "display_name": "Redmi Note 8 (2021)",
     "display_name_en": "Redmi Note 8 (2021)"
   },
+  "blenny_global": {
+    "display_name": "XM-BLENNY-GLOBAL",
+    "display_name_en": "XM-BLENNY-GLOBAL"
+  },
+  "blenny_pre_global": {
+    "display_name": "XM-BLENNY-PRE-GLOBAL",
+    "display_name_en": "XM-BLENNY-PRE-GLOBAL"
+  },
   "blue_cl_en_global": {
     "display_name": "Redmi A3",
     "display_name_en": "Redmi A3"
@@ -4146,6 +4154,14 @@
   "gram_pre_miui14_in_global": {
     "display_name": "HM-J6C-PRE-MIUI14-IN-GLOBAL",
     "display_name_en": "HM-J6C-PRE-MIUI14-IN-GLOBAL"
+  },
+  "grass": {
+    "display_name": "XM-GRASS",
+    "display_name_en": "XM-GRASS"
+  },
+  "grasslte": {
+    "display_name": "XM-GRASSLTE",
+    "display_name_en": "XM-GRASSLTE"
   },
   "grayman": {
     "display_name": "Xiaomi TV S Mini LED",
