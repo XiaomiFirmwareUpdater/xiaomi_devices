@@ -3832,8 +3832,8 @@
     "display_name_en": "Redmi Note 13 Pro 5G/POCO X6 5G"
   },
   "garnet_jp_kd_global": {
-    "display_name": "Redmi Note 13 Pro 5G",
-    "display_name_en": "Redmi Note 13 Pro 5G"
+    "display_name": "Redmi Note 13 Pro 5G/XM-GARNET-JP-KD-GLOBAL",
+    "display_name_en": "Redmi Note 13 Pro 5G/XM-GARNET-JP-KD-GLOBAL"
   },
   "garnet_lm_cr_global": {
     "display_name": "Redmi Note 13 Pro 5G",
@@ -4780,8 +4780,8 @@
     "display_name_en": "XM-KONGHOU"
   },
   "koto": {
-    "display_name": "REDMI Pad 2 4G",
-    "display_name_en": "REDMI Pad 2 4G"
+    "display_name": "XM-KOTO",
+    "display_name_en": "XM-KOTO"
   },
   "koto_dc_global": {
     "display_name": "Redmi Pad 2 4G",
