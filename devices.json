@@ -150,18 +150,6 @@
   }
  },
  {
-  "zorn": {
-   "name": "POCO F7 Pro",
-   "model": "24117RK2CG"
-  }
- },
- {
-  "miro": {
-   "name": "POCO F7 Ultra",
-   "model": "24122RKC7G"
-  }
- },
- {
   "shiva": {
    "name": "POCO M2",
    "model": "M2004J19PI"
@@ -282,6 +270,12 @@
   }
  },
  {
+  "dizi": {
+   "name": "POCO Pad",
+   "model": "2405CPCFBG"
+  }
+ },
+ {
   "phoenixin": {
    "name": "POCO X2",
    "model": "POCO X2"
@@ -387,6 +381,30 @@
   "rodin": {
    "name": "POCO X7 Pro",
    "model": "2412DPC0AI"
+  }
+ },
+ {
+  "onyx": {
+   "name": "Poco F7",
+   "model": "25053PC47G"
+  }
+ },
+ {
+  "onyx": {
+   "name": "Poco F7",
+   "model": "25053PC47I"
+  }
+ },
+ {
+  "zorn": {
+   "name": "Poco F7 Pro",
+   "model": "24117RK2CG"
+  }
+ },
+ {
+  "miro": {
+   "name": "Poco F7 Ultra",
+   "model": "24122RKC7G"
   }
  },
  {
@@ -711,6 +729,18 @@
   "moon": {
    "name": "Redmi 13",
    "model": "24040RN64Y"
+  }
+ },
+ {
+  "tides": {
+   "name": "Redmi 13",
+   "model": "24049RN28L"
+  }
+ },
+ {
+  "tides": {
+   "name": "Redmi 13",
+   "model": "2404ARN45A"
   }
  },
  {
@@ -2064,6 +2094,12 @@
   }
  },
  {
+  "ruan": {
+   "name": "Redmi Pad Pro 5G",
+   "model": "24074RPD2G"
+  }
+ },
+ {
   "xun": {
    "name": "Redmi Pad SE",
    "model": "23073RPBFC"
@@ -3219,12 +3255,6 @@
   "beryllium": {
    "name": "POCO F1",
    "model": "POCOPHONE F1"
-  }
- },
- {
-  "zorn": {
-   "name": "POCO F7 Pro",
-   "model": "24117RK2CG"
   }
  },
  {
