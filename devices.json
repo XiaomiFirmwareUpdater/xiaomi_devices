@@ -462,6 +462,12 @@
   }
  },
  {
+  "dali": {
+   "name": "REDMI K80 Ultra",
+   "model": "25060RK16C"
+  }
+ },
+ {
   "rodin": {
    "name": "REDMI Turbo 4",
    "model": "24129RT7CC"
