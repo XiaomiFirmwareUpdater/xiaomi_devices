@@ -107,6 +107,7 @@ dandelion_ru_global - F
 degas_dc_global - F
 degas_eea_global - F
 degas_global - F
+degas_ru_global - F
 degas_tw_global - F
 dipper_global - F
 dipper_ru_global - F
