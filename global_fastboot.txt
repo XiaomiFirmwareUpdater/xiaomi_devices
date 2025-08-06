@@ -491,10 +491,7 @@ topaz_id_global - F
 topaz_ru_global - F
 uke_eea_global - F
 uke_global - F
-uke_id_global - F
-uke_in_global - F
 uke_ru_global - F
-uke_tr_global - F
 uke_tw_global - F
 umi_eea_global - F
 umi_global - F
