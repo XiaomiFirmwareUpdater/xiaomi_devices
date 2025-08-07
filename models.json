@@ -1305,6 +1305,16 @@
    "`24108PCE2I`": "POCO M7 5G India"
   }
  },
+ "spring": {
+  "internal_name": "O19",
+  "name": "Redmi 15 5G/POCO M7 Plus 5G",
+  "models": {
+   "`25057RN09G`": "Redmi 15 5G Global",
+   "`25057RN09E`": "Redmi 15 5G Europe",
+   "`25057RN09I`": "Redmi 15 5G India",
+   "`25057PC09I`": "POCO M7 Plus 5G India"
+  }
+ },
  "lcsh92_wet_gb9": {
   "internal_name": "H3W",
   "name": "Redmi Note",
@@ -1839,10 +1849,10 @@
  },
  "beryl": {
   "internal_name": "O17/O17P",
-  "name": "Redmi Note 14 5G/POCO M7 Pro 5G",
+  "name": "Redmi Note 14 5G/Redmi Note 14 5G/Redmi Note 14 SE 5G/POCO M7 Pro 5G",
   "models": {
    "`24094RAD4G`": "Redmi Note 14 5G Global",
-   "`24094RAD4I`": "Redmi Note 14 5G India",
+   "`24094RAD4I`": "Redmi Note 14 5G India / Redmi Note 14 SE 5G India",
    "`24094RAD4C`": "Redmi Note 14 5G China",
    "`2409FPCC4G`": "POCO M7 Pro 5G Global"
   }
