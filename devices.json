@@ -9323,6 +9323,106 @@
     "display_name": "Redmi Note 11",
     "display_name_en": "Redmi Note 11"
   },
+  "spring": {
+    "display_name": "XM-SPRING",
+    "display_name_en": "XM-SPRING"
+  },
+  "spring_dc_global": {
+    "display_name": "Redmi 15 5G",
+    "display_name_en": "Redmi 15 5G"
+  },
+  "spring_eea_global": {
+    "display_name": "Redmi 15 5G",
+    "display_name_en": "Redmi 15 5G"
+  },
+  "spring_eea_hg_global": {
+    "display_name": "Redmi 15 5G",
+    "display_name_en": "Redmi 15 5G"
+  },
+  "spring_global": {
+    "display_name": "Redmi 15 5G",
+    "display_name_en": "Redmi 15 5G"
+  },
+  "spring_gt_tg_global": {
+    "display_name": "Redmi 15 5G",
+    "display_name_en": "Redmi 15 5G"
+  },
+  "spring_in_global": {
+    "display_name": "XM-SPRING-IN-GLOBAL",
+    "display_name_en": "XM-SPRING-IN-GLOBAL"
+  },
+  "spring_jp_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "spring_jp_sb_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "spring_lm_cr_global": {
+    "display_name": "Redmi 15 5G",
+    "display_name_en": "Redmi 15 5G"
+  },
+  "spring_pre_dc_global": {
+    "display_name": "Redmi 15 5G",
+    "display_name_en": "Redmi 15 5G"
+  },
+  "spring_pre_eea_global": {
+    "display_name": "Redmi 15 5G",
+    "display_name_en": "Redmi 15 5G"
+  },
+  "spring_pre_eea_hg_global": {
+    "display_name": "Redmi 15 5G",
+    "display_name_en": "Redmi 15 5G"
+  },
+  "spring_pre_global": {
+    "display_name": "Redmi 15 5G",
+    "display_name_en": "Redmi 15 5G"
+  },
+  "spring_pre_gt_tg_global": {
+    "display_name": "Redmi 15 5G",
+    "display_name_en": "Redmi 15 5G"
+  },
+  "spring_pre_in_global": {
+    "display_name": "XM-SPRING-PRE-IN-GLOBAL",
+    "display_name_en": "XM-SPRING-PRE-IN-GLOBAL"
+  },
+  "spring_pre_jp_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "spring_pre_jp_sb_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "spring_pre_lm_cr_global": {
+    "display_name": "Redmi 15 5G",
+    "display_name_en": "Redmi 15 5G"
+  },
+  "spring_pre_ru_global": {
+    "display_name": "XM-SPRING-PRE-RU-GLOBAL",
+    "display_name_en": "XM-SPRING-PRE-RU-GLOBAL"
+  },
+  "spring_pre_tr_global": {
+    "display_name": "XM-SPRING-PRE-TR-GLOBAL",
+    "display_name_en": "XM-SPRING-PRE-TR-GLOBAL"
+  },
+  "spring_pre_tw_global": {
+    "display_name": "Redmi 15 5G",
+    "display_name_en": "Redmi 15 5G"
+  },
+  "spring_ru_global": {
+    "display_name": "XM-SPRING-RU-GLOBAL",
+    "display_name_en": "XM-SPRING-RU-GLOBAL"
+  },
+  "spring_tr_global": {
+    "display_name": "XM-SPRING-TR-GLOBAL",
+    "display_name_en": "XM-SPRING-TR-GLOBAL"
+  },
+  "spring_tw_global": {
+    "display_name": "Redmi 15 5G",
+    "display_name_en": "Redmi 15 5G"
+  },
   "star": {
     "display_name": "Mi 11 Ultra/Mi 11 Pro",
     "display_name_en": "Mi 11 Ultra/Mi 11 Pro"
