@@ -118,6 +118,32 @@
    "updatedAt": "2025-03-27T08:18:45.000Z"
   },
   {
+   "id": 88,
+   "status": 1,
+   "deviceName": "Redmi Pad 2",
+   "releaseDate": "2025-06",
+   "securityUpdateEol": "2032-8",
+   "updateFrequency": "Every 90 days",
+   "updateFrequencyTl": "Every 90 days",
+   "shippedVersion": "Android 15",
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19,Android 20",
+   "createdAt": "2025-08-11T06:28:07.000Z",
+   "updatedAt": "2025-08-11T06:29:48.000Z"
+  },
+  {
+   "id": 89,
+   "status": 1,
+   "deviceName": "Redmi Pad 2 4G",
+   "releaseDate": "2025-06",
+   "securityUpdateEol": "2032-7",
+   "updateFrequency": "Every 90 days",
+   "updateFrequencyTl": "Every 90 days",
+   "shippedVersion": "Android 15",
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19,Android 20",
+   "createdAt": "2025-08-11T06:29:20.000Z",
+   "updatedAt": "2025-08-11T06:29:48.000Z"
+  },
+  {
    "id": 73,
    "status": 1,
    "deviceName": "Xiaomi 14T",
@@ -1015,5 +1041,5 @@
    "updatedAt": "2024-03-11T15:46:51.000Z"
   }
  ],
- "total": 78
+ "total": 80
 }
