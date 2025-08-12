@@ -834,6 +834,12 @@
   }
  },
  {
+  "spring": {
+   "name": "Redmi 15 5G",
+   "model": "25057RN09G"
+  }
+ },
+ {
   "cereus": {
    "name": "Redmi 6",
    "model": "Redmi 6"
