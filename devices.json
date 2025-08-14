@@ -1859,6 +1859,94 @@
     "display_name": "Mi 11 Lite",
     "display_name_en": "Mi 11 Lite"
   },
+  "creek_dc_global": {
+    "display_name": "Redmi 15",
+    "display_name_en": "Redmi 15"
+  },
+  "creek_eea_global": {
+    "display_name": "Redmi 15/POCO M7",
+    "display_name_en": "Redmi 15/POCO M7"
+  },
+  "creek_global": {
+    "display_name": "Redmi 15/POCO M7",
+    "display_name_en": "Redmi 15/POCO M7"
+  },
+  "creek_gt_tg_global": {
+    "display_name": "Redmi 15",
+    "display_name_en": "Redmi 15"
+  },
+  "creek_id_global": {
+    "display_name": "Redmi 15/POCO M7",
+    "display_name_en": "Redmi 15/POCO M7"
+  },
+  "creek_lm_cr_global": {
+    "display_name": "Redmi 15",
+    "display_name_en": "Redmi 15"
+  },
+  "creek_mx_at_global": {
+    "display_name": "Redmi 15",
+    "display_name_en": "Redmi 15"
+  },
+  "creek_mx_tc_global": {
+    "display_name": "Redmi 15",
+    "display_name_en": "Redmi 15"
+  },
+  "creek_pre_dc_global": {
+    "display_name": "Redmi 15",
+    "display_name_en": "Redmi 15"
+  },
+  "creek_pre_eea_global": {
+    "display_name": "POCO M7/Redmi 15",
+    "display_name_en": "POCO M7/Redmi 15"
+  },
+  "creek_pre_global": {
+    "display_name": "Redmi 15/POCO M7",
+    "display_name_en": "Redmi 15/POCO M7"
+  },
+  "creek_pre_gt_tg_global": {
+    "display_name": "Redmi 15",
+    "display_name_en": "Redmi 15"
+  },
+  "creek_pre_id_global": {
+    "display_name": "Redmi 15/POCO M7",
+    "display_name_en": "Redmi 15/POCO M7"
+  },
+  "creek_pre_lm_cr_global": {
+    "display_name": "Redmi 15",
+    "display_name_en": "Redmi 15"
+  },
+  "creek_pre_mx_at_global": {
+    "display_name": "Redmi 15",
+    "display_name_en": "Redmi 15"
+  },
+  "creek_pre_mx_tc_global": {
+    "display_name": "Redmi 15",
+    "display_name_en": "Redmi 15"
+  },
+  "creek_pre_ru_global": {
+    "display_name": "POCO M7/Redmi 15",
+    "display_name_en": "POCO M7/Redmi 15"
+  },
+  "creek_pre_tr_global": {
+    "display_name": "POCO M7/Redmi 15",
+    "display_name_en": "POCO M7/Redmi 15"
+  },
+  "creek_pre_tw_global": {
+    "display_name": "POCO M7/Redmi 15",
+    "display_name_en": "POCO M7/Redmi 15"
+  },
+  "creek_ru_global": {
+    "display_name": "Redmi 15/POCO M7",
+    "display_name_en": "Redmi 15/POCO M7"
+  },
+  "creek_tr_global": {
+    "display_name": "Redmi 15/POCO M7",
+    "display_name_en": "Redmi 15/POCO M7"
+  },
+  "creek_tw_global": {
+    "display_name": "Redmi 15/POCO M7",
+    "display_name_en": "Redmi 15/POCO M7"
+  },
   "crux": {
     "display_name": "小米9 Pro",
     "display_name_en": "Mi9 Pro 5G"
@@ -10304,60 +10392,60 @@
     "display_name_en": "Xiaomi Pad 7"
   },
   "uke_eea_global": {
-    "display_name": "XM-UKE-EEA-GLOBAL/POCO Pad X1",
-    "display_name_en": "XM-UKE-EEA-GLOBAL/POCO Pad X1"
+    "display_name": "Xiaomi Pad 7/-",
+    "display_name_en": "Xiaomi Pad 7/-"
   },
   "uke_global": {
-    "display_name": "XM-UKE-GLOBAL/POCO Pad X1",
-    "display_name_en": "XM-UKE-GLOBAL/POCO Pad X1"
+    "display_name": "Xiaomi Pad 7/XM-UKE-GLOBAL",
+    "display_name_en": "Xiaomi Pad 7/XM-UKE-GLOBAL"
   },
   "uke_id_global": {
-    "display_name": "XM-UKE-ID-GLOBAL/POCO Pad X1",
-    "display_name_en": "XM-UKE-ID-GLOBAL/POCO Pad X1"
+    "display_name": "Xiaomi Pad 7/XM-UKE-GLOBAL",
+    "display_name_en": "Xiaomi Pad 7/XM-UKE-GLOBAL"
   },
   "uke_in_global": {
-    "display_name": "XM-UKE-IN-GLOBAL",
-    "display_name_en": "XM-UKE-IN-GLOBAL"
+    "display_name": "Xiaomi Pad 7",
+    "display_name_en": "Xiaomi Pad 7"
   },
   "uke_pre_eea_global": {
-    "display_name": "XM-UKE-EEA-GLOBAL/POCO Pad X1",
-    "display_name_en": "XM-UKE-EEA-GLOBAL/POCO Pad X1"
+    "display_name": "Xiaomi Pad 7",
+    "display_name_en": "Xiaomi Pad 7"
   },
   "uke_pre_global": {
-    "display_name": "XM-UKE-GLOBAL/POCO Pad X1",
-    "display_name_en": "XM-UKE-GLOBAL/POCO Pad X1"
+    "display_name": "Xiaomi Pad 7",
+    "display_name_en": "Xiaomi Pad 7"
   },
   "uke_pre_id_global": {
-    "display_name": "XM-UKE-ID-GLOBAL/POCO Pad X1",
-    "display_name_en": "XM-UKE-ID-GLOBAL/POCO Pad X1"
+    "display_name": "Xiaomi Pad 7",
+    "display_name_en": "Xiaomi Pad 7"
   },
   "uke_pre_in_global": {
-    "display_name": "XM-UKE-PRE-IN-GLOBAL",
-    "display_name_en": "XM-UKE-PRE-IN-GLOBAL"
+    "display_name": "Xiaomi Pad 7",
+    "display_name_en": "Xiaomi Pad 7"
   },
   "uke_pre_ru_global": {
-    "display_name": "XM-UKE-RU-GLOBAL/POCO Pad X1",
-    "display_name_en": "XM-UKE-RU-GLOBAL/POCO Pad X1"
+    "display_name": "Xiaomi Pad 7",
+    "display_name_en": "Xiaomi Pad 7"
   },
   "uke_pre_tr_global": {
-    "display_name": "XM-UKE-TR-GLOBAL/POCO Pad X1",
-    "display_name_en": "XM-UKE-TR-GLOBAL/POCO Pad X1"
+    "display_name": "Xiaomi Pad 7",
+    "display_name_en": "Xiaomi Pad 7"
   },
   "uke_pre_tw_global": {
-    "display_name": "XM-UKE-TW-GLOBAL/POCO Pad X1",
-    "display_name_en": "XM-UKE-TW-GLOBAL/POCO Pad X1"
+    "display_name": "Xiaomi Pad 7",
+    "display_name_en": "Xiaomi Pad 7"
   },
   "uke_ru_global": {
-    "display_name": "XM-UKE-RU-GLOBAL/POCO Pad X1",
-    "display_name_en": "XM-UKE-RU-GLOBAL/POCO Pad X1"
+    "display_name": "Xiaomi Pad 7/-",
+    "display_name_en": "Xiaomi Pad 7/-"
   },
   "uke_tr_global": {
-    "display_name": "XM-UKE-TR-GLOBAL/POCO Pad X1",
-    "display_name_en": "XM-UKE-TR-GLOBAL/POCO Pad X1"
+    "display_name": "Xiaomi Pad 7/-",
+    "display_name_en": "Xiaomi Pad 7/-"
   },
   "uke_tw_global": {
-    "display_name": "XM-UKE-TW-GLOBAL/POCO Pad X1",
-    "display_name_en": "XM-UKE-TW-GLOBAL/POCO Pad X1"
+    "display_name": "Xiaomi Pad 7/XM-UKE-GLOBAL",
+    "display_name_en": "Xiaomi Pad 7/XM-UKE-GLOBAL"
   },
   "umi": {
     "display_name": "小米10",
