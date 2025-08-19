@@ -357,6 +357,7 @@ plato_eea_global - F
 plato_global - F
 plato_id_global - F
 plato_ru_global - F
+plato_tr_global - F
 plato_tw_global - F
 psyche_eea_global - F
 psyche_global - F
