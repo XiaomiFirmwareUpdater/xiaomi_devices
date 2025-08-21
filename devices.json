@@ -3563,6 +3563,106 @@
     "display_name": "POCO M4 Pro/Redmi Note 11S",
     "display_name_en": "POCO M4 Pro/Redmi Note 11S"
   },
+  "flourite": {
+    "display_name": "REDMI Note 15 Pro+",
+    "display_name_en": "REDMI Note 15 Pro+"
+  },
+  "flourite_dc_global": {
+    "display_name": "XM-FLOURITE-DC-GLOBAL",
+    "display_name_en": "XM-FLOURITE-DC-GLOBAL"
+  },
+  "flourite_eea_global": {
+    "display_name": "XM-FLOURITE-EEA-GLOBAL",
+    "display_name_en": "XM-FLOURITE-EEA-GLOBAL"
+  },
+  "flourite_global": {
+    "display_name": "XM-FLOURITE-GLOBAL",
+    "display_name_en": "XM-FLOURITE-GLOBAL"
+  },
+  "flourite_gt_tg_global": {
+    "display_name": "XM-FLOURITE-GT-TG-GLOBAL",
+    "display_name_en": "XM-FLOURITE-GT-TG-GLOBAL"
+  },
+  "flourite_id_global": {
+    "display_name": "XM-FLOURITE-ID-GLOBAL",
+    "display_name_en": "XM-FLOURITE-ID-GLOBAL"
+  },
+  "flourite_in_global": {
+    "display_name": "XM-FLOURITE-IN-GLOBAL",
+    "display_name_en": "XM-FLOURITE-IN-GLOBAL"
+  },
+  "flourite_lm_cr_global": {
+    "display_name": "XM-FLOURITE-LM-CR-GLOBAL",
+    "display_name_en": "XM-FLOURITE-LM-CR-GLOBAL"
+  },
+  "flourite_mx_at_global": {
+    "display_name": "XM-FLOURITE-MX-AT-GLOBAL",
+    "display_name_en": "XM-FLOURITE-MX-AT-GLOBAL"
+  },
+  "flourite_mx_tc_global": {
+    "display_name": "XM-FLOURITE-MX-TC-GLOBAL",
+    "display_name_en": "XM-FLOURITE-MX-TC-GLOBAL"
+  },
+  "flourite_pre_dc_global": {
+    "display_name": "XM-FLOURITE-PRE-DC-GLOBAL",
+    "display_name_en": "XM-FLOURITE-PRE-DC-GLOBAL"
+  },
+  "flourite_pre_eea_global": {
+    "display_name": "XM-FLOURITE-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-FLOURITE-PRE-EEA-GLOBAL"
+  },
+  "flourite_pre_global": {
+    "display_name": "XM-FLOURITE-PRE-GLOBAL",
+    "display_name_en": "XM-FLOURITE-PRE-GLOBAL"
+  },
+  "flourite_pre_gt_tg_global": {
+    "display_name": "XM-FLOURITE-PRE-GT-TG-GLOBAL",
+    "display_name_en": "XM-FLOURITE-PRE-GT-TG-GLOBAL"
+  },
+  "flourite_pre_id_global": {
+    "display_name": "XM-FLOURITE-PRE-ID-GLOBAL",
+    "display_name_en": "XM-FLOURITE-PRE-ID-GLOBAL"
+  },
+  "flourite_pre_in_global": {
+    "display_name": "XM-FLOURITE-PRE-IN-GLOBAL",
+    "display_name_en": "XM-FLOURITE-PRE-IN-GLOBAL"
+  },
+  "flourite_pre_lm_cr_global": {
+    "display_name": "XM-FLOURITE-PRE-LM-CR-GLOBAL",
+    "display_name_en": "XM-FLOURITE-PRE-LM-CR-GLOBAL"
+  },
+  "flourite_pre_mx_at_global": {
+    "display_name": "XM-FLOURITE-PRE-MX-AT-GLOBAL",
+    "display_name_en": "XM-FLOURITE-PRE-MX-AT-GLOBAL"
+  },
+  "flourite_pre_mx_tc_global": {
+    "display_name": "XM-FLOURITE-PRE-MX-TC-GLOBAL",
+    "display_name_en": "XM-FLOURITE-PRE-MX-TC-GLOBAL"
+  },
+  "flourite_pre_ru_global": {
+    "display_name": "XM-FLOURITE-PRE-RU-GLOBAL",
+    "display_name_en": "XM-FLOURITE-PRE-RU-GLOBAL"
+  },
+  "flourite_pre_tr_global": {
+    "display_name": "XM-FLOURITE-PRE-TR-GLOBAL",
+    "display_name_en": "XM-FLOURITE-PRE-TR-GLOBAL"
+  },
+  "flourite_pre_tw_global": {
+    "display_name": "XM-FLOURITE-PRE-TW-GLOBAL",
+    "display_name_en": "XM-FLOURITE-PRE-TW-GLOBAL"
+  },
+  "flourite_ru_global": {
+    "display_name": "XM-FLOURITE-RU-GLOBAL",
+    "display_name_en": "XM-FLOURITE-RU-GLOBAL"
+  },
+  "flourite_tr_global": {
+    "display_name": "XM-FLOURITE-TR-GLOBAL",
+    "display_name_en": "XM-FLOURITE-TR-GLOBAL"
+  },
+  "flourite_tw_global": {
+    "display_name": "XM-FLOURITE-TW-GLOBAL",
+    "display_name_en": "XM-FLOURITE-TW-GLOBAL"
+  },
   "fog_cl_en_global": {
     "display_name": "Redmi 10C",
     "display_name_en": "Redmi 10C"
@@ -4923,6 +5023,106 @@
     "display_name": "Redmi Pad 2 4G",
     "display_name_en": "Redmi Pad 2 4G"
   },
+  "kunzite": {
+    "display_name": "REDMI Note 15",
+    "display_name_en": "REDMI Note 15"
+  },
+  "kunzite_dc_global": {
+    "display_name": "XM-KUNZITE-DC-GLOBAL",
+    "display_name_en": "XM-KUNZITE-DC-GLOBAL"
+  },
+  "kunzite_eea_global": {
+    "display_name": "XM-KUNZITE-EEA-GLOBAL",
+    "display_name_en": "XM-KUNZITE-EEA-GLOBAL"
+  },
+  "kunzite_global": {
+    "display_name": "XM-KUNZITE-GLOBAL",
+    "display_name_en": "XM-KUNZITE-GLOBAL"
+  },
+  "kunzite_gt_tg_global": {
+    "display_name": "XM-KUNZITE-GT-TG-GLOBAL",
+    "display_name_en": "XM-KUNZITE-GT-TG-GLOBAL"
+  },
+  "kunzite_id_global": {
+    "display_name": "XM-KUNZITE-ID-GLOBAL",
+    "display_name_en": "XM-KUNZITE-ID-GLOBAL"
+  },
+  "kunzite_in_global": {
+    "display_name": "XM-KUNZITE-IN-GLOBAL",
+    "display_name_en": "XM-KUNZITE-IN-GLOBAL"
+  },
+  "kunzite_lm_cr_global": {
+    "display_name": "XM-KUNZITE-LM-CR-GLOBAL",
+    "display_name_en": "XM-KUNZITE-LM-CR-GLOBAL"
+  },
+  "kunzite_mx_at_global": {
+    "display_name": "XM-KUNZITE-MX-AT-GLOBAL",
+    "display_name_en": "XM-KUNZITE-MX-AT-GLOBAL"
+  },
+  "kunzite_mx_tc_global": {
+    "display_name": "XM-KUNZITE-MX-TC-GLOBAL",
+    "display_name_en": "XM-KUNZITE-MX-TC-GLOBAL"
+  },
+  "kunzite_pre_dc_global": {
+    "display_name": "XM-KUNZITE-PRE-DC-GLOBAL",
+    "display_name_en": "XM-KUNZITE-PRE-DC-GLOBAL"
+  },
+  "kunzite_pre_eea_global": {
+    "display_name": "XM-KUNZITE-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-KUNZITE-PRE-EEA-GLOBAL"
+  },
+  "kunzite_pre_global": {
+    "display_name": "XM-KUNZITE-PRE-GLOBAL",
+    "display_name_en": "XM-KUNZITE-PRE-GLOBAL"
+  },
+  "kunzite_pre_gt_tg_global": {
+    "display_name": "XM-KUNZITE-PRE-GT-TG-GLOBAL",
+    "display_name_en": "XM-KUNZITE-PRE-GT-TG-GLOBAL"
+  },
+  "kunzite_pre_id_global": {
+    "display_name": "XM-KUNZITE-PRE-ID-GLOBAL",
+    "display_name_en": "XM-KUNZITE-PRE-ID-GLOBAL"
+  },
+  "kunzite_pre_in_global": {
+    "display_name": "XM-KUNZITE-PRE-IN-GLOBAL",
+    "display_name_en": "XM-KUNZITE-PRE-IN-GLOBAL"
+  },
+  "kunzite_pre_lm_cr_global": {
+    "display_name": "XM-KUNZITE-PRE-LM-CR-GLOBAL",
+    "display_name_en": "XM-KUNZITE-PRE-LM-CR-GLOBAL"
+  },
+  "kunzite_pre_mx_at_global": {
+    "display_name": "XM-KUNZITE-PRE-MX-AT-GLOBAL",
+    "display_name_en": "XM-KUNZITE-PRE-MX-AT-GLOBAL"
+  },
+  "kunzite_pre_mx_tc_global": {
+    "display_name": "XM-KUNZITE-PRE-MX-TC-GLOBAL",
+    "display_name_en": "XM-KUNZITE-PRE-MX-TC-GLOBAL"
+  },
+  "kunzite_pre_ru_global": {
+    "display_name": "XM-KUNZITE-PRE-RU-GLOBAL",
+    "display_name_en": "XM-KUNZITE-PRE-RU-GLOBAL"
+  },
+  "kunzite_pre_tr_global": {
+    "display_name": "XM-KUNZITE-PRE-TR-GLOBAL",
+    "display_name_en": "XM-KUNZITE-PRE-TR-GLOBAL"
+  },
+  "kunzite_pre_tw_global": {
+    "display_name": "XM-KUNZITE-PRE-TW-GLOBAL",
+    "display_name_en": "XM-KUNZITE-PRE-TW-GLOBAL"
+  },
+  "kunzite_ru_global": {
+    "display_name": "XM-KUNZITE-RU-GLOBAL",
+    "display_name_en": "XM-KUNZITE-RU-GLOBAL"
+  },
+  "kunzite_tr_global": {
+    "display_name": "XM-KUNZITE-TR-GLOBAL",
+    "display_name_en": "XM-KUNZITE-TR-GLOBAL"
+  },
+  "kunzite_tw_global": {
+    "display_name": "XM-KUNZITE-TW-GLOBAL",
+    "display_name_en": "XM-KUNZITE-TW-GLOBAL"
+  },
   "lake": {
     "display_name": "Redmi 14C",
     "display_name_en": "Redmi 14C"
@@ -5130,6 +5330,122 @@
   "land_global": {
     "display_name": "Redmi 3S",
     "display_name_en": "Redmi 3S"
+  },
+  "lapis": {
+    "display_name": "REDMI Note 15 Pro",
+    "display_name_en": "REDMI Note 15 Pro"
+  },
+  "lapis_dc_global": {
+    "display_name": "XM-LAPIS-DC-GLOBAL",
+    "display_name_en": "XM-LAPIS-DC-GLOBAL"
+  },
+  "lapis_eea_global": {
+    "display_name": "XM-LAPIS-EEA-GLOBAL",
+    "display_name_en": "XM-LAPIS-EEA-GLOBAL"
+  },
+  "lapis_global": {
+    "display_name": "XM-LAPIS-GLOBAL",
+    "display_name_en": "XM-LAPIS-GLOBAL"
+  },
+  "lapis_gt_tg_global": {
+    "display_name": "XM-LAPIS-GT-TG-GLOBAL",
+    "display_name_en": "XM-LAPIS-GT-TG-GLOBAL"
+  },
+  "lapis_id_global": {
+    "display_name": "XM-LAPIS-ID-GLOBAL",
+    "display_name_en": "XM-LAPIS-ID-GLOBAL"
+  },
+  "lapis_in_global": {
+    "display_name": "XM-LAPIS-IN-GLOBAL",
+    "display_name_en": "XM-LAPIS-IN-GLOBAL"
+  },
+  "lapis_jp_global": {
+    "display_name": "XM-LAPIS-JP-GLOBAL",
+    "display_name_en": "XM-LAPIS-JP-GLOBAL"
+  },
+  "lapis_jp_sb_global": {
+    "display_name": "XM-LAPIS-JP-SB-GLOBAL",
+    "display_name_en": "XM-LAPIS-JP-SB-GLOBAL"
+  },
+  "lapis_lm_cr_global": {
+    "display_name": "XM-LAPIS-LM-CR-GLOBAL",
+    "display_name_en": "XM-LAPIS-LM-CR-GLOBAL"
+  },
+  "lapis_mx_at_global": {
+    "display_name": "XM-LAPIS-MX-AT-GLOBAL",
+    "display_name_en": "XM-LAPIS-MX-AT-GLOBAL"
+  },
+  "lapis_mx_tc_global": {
+    "display_name": "XM-LAPIS-MX-TC-GLOBAL",
+    "display_name_en": "XM-LAPIS-MX-TC-GLOBAL"
+  },
+  "lapis_pre_dc_global": {
+    "display_name": "XM-LAPIS-PRE-DC-GLOBAL",
+    "display_name_en": "XM-LAPIS-PRE-DC-GLOBAL"
+  },
+  "lapis_pre_eea_global": {
+    "display_name": "XM-LAPIS-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-LAPIS-PRE-EEA-GLOBAL"
+  },
+  "lapis_pre_global": {
+    "display_name": "XM-LAPIS-PRE-GLOBAL",
+    "display_name_en": "XM-LAPIS-PRE-GLOBAL"
+  },
+  "lapis_pre_gt_tg_global": {
+    "display_name": "XM-LAPIS-PRE-GT-TG-GLOBAL",
+    "display_name_en": "XM-LAPIS-PRE-GT-TG-GLOBAL"
+  },
+  "lapis_pre_id_global": {
+    "display_name": "XM-LAPIS-PRE-ID-GLOBAL",
+    "display_name_en": "XM-LAPIS-PRE-ID-GLOBAL"
+  },
+  "lapis_pre_in_global": {
+    "display_name": "XM-LAPIS-PRE-IN-GLOBAL",
+    "display_name_en": "XM-LAPIS-PRE-IN-GLOBAL"
+  },
+  "lapis_pre_jp_global": {
+    "display_name": "XM-LAPIS-PRE-JP-GLOBAL",
+    "display_name_en": "XM-LAPIS-PRE-JP-GLOBAL"
+  },
+  "lapis_pre_jp_sb_global": {
+    "display_name": "XM-LAPIS-PRE-JP-SB-GLOBAL",
+    "display_name_en": "XM-LAPIS-PRE-JP-SB-GLOBAL"
+  },
+  "lapis_pre_lm_cr_global": {
+    "display_name": "XM-LAPIS-PRE-LM-CR-GLOBAL",
+    "display_name_en": "XM-LAPIS-PRE-LM-CR-GLOBAL"
+  },
+  "lapis_pre_mx_at_global": {
+    "display_name": "XM-LAPIS-PRE-MX-AT-GLOBAL",
+    "display_name_en": "XM-LAPIS-PRE-MX-AT-GLOBAL"
+  },
+  "lapis_pre_mx_tc_global": {
+    "display_name": "XM-LAPIS-PRE-MX-TC-GLOBAL",
+    "display_name_en": "XM-LAPIS-PRE-MX-TC-GLOBAL"
+  },
+  "lapis_pre_ru_global": {
+    "display_name": "XM-LAPIS-PRE-RU-GLOBAL",
+    "display_name_en": "XM-LAPIS-PRE-RU-GLOBAL"
+  },
+  "lapis_pre_tr_global": {
+    "display_name": "XM-LAPIS-PRE-TR-GLOBAL",
+    "display_name_en": "XM-LAPIS-PRE-TR-GLOBAL"
+  },
+  "lapis_pre_tw_global": {
+    "display_name": "XM-LAPIS-PRE-TW-GLOBAL",
+    "display_name_en": "XM-LAPIS-PRE-TW-GLOBAL"
+  },
+  "lapis_ru_global": {
+    "display_name": "XM-LAPIS-RU-GLOBAL",
+    "display_name_en": "XM-LAPIS-RU-GLOBAL"
+  },
+  "lapis_tr_global": {
+    "display_name": "XM-LAPIS-TR-GLOBAL",
+    "display_name_en": "XM-LAPIS-TR-GLOBAL"
+  },
+  "lapis_tw_global": {
+    "display_name": "XM-LAPIS-TW-GLOBAL",
+    "display_name_en": "XM-LAPIS-TW-GLOBAL"
   },
   "latte": {
     "display_name": "小米平板 2",
