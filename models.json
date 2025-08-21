@@ -1245,8 +1245,7 @@
    "`2404ARN45I`": "Redmi 13 India",
    "`24049RN28L`": "Redmi 13 Latin America / Redmi 13x Latin America",
    "`24040RN64Y`": "Redmi 13 Global (NFC)",
-   "`2404APC5FG`": "POCO M6 Global",
-   "`2404APC5FI`": "POCO M6 India"
+   "`2404APC5FG`": "POCO M6 Global"
   }
  },
  "breeze": {
@@ -1884,6 +1883,36 @@
    "`24115RA8EC`": "Redmi Note 14 Pro+ 5G China"
   }
  },
+ "kunzite": {
+  "internal_name": "P17",
+  "name": "Redmi Note 15 5G",
+  "models": {
+   "`25098RA98G`": "Redmi Note 15 5G Global",
+   "`25098RA98E`": "Redmi Note 15 5G Europe",
+   "`25098RA98I`": "Redmi Note 15 5G India",
+   "`25098RA98C`": "REDMI Note 15 5G China"
+  }
+ },
+ "lapis": {
+  "internal_name": "P16",
+  "name": "Redmi Note 15 Pro",
+  "models": {
+   "`25080RABDG`": "Redmi Note 15 Pro 5G Global",
+   "`25080RABDI`": "Redmi Note 15 Pro 5G India",
+   "`25080RABDR`": "Redmi Note 15 Pro 5G Japan",
+   "`25080RABDC`": "REDMI Note 15 Pro 5G China"
+  }
+ },
+ "flourite": {
+  "internal_name": "P16U/P16US",
+  "name": "Redmi Note 15 Pro+/REDMI Note 15 Pro+",
+  "models": {
+   "`2510ERA8BG`": "Redmi Note 15 Pro+ 5G Global",
+   "`2510ERA8BI`": "Redmi Note 15 Pro+ 5G India",
+   "`2510ERA8BC`": "REDMI Note 15 Pro+ 5G China",
+   "`25104RADAC`": "REDMI Note 15 Pro+ 5G Satellite China"
+  }
+ },
  "atom": {
   "internal_name": "J7A",
   "name": "Redmi 10X 5G",
@@ -2254,6 +2283,14 @@
   "name": "POCO M4 Pro 5G",
   "models": {
    "`21091116AG`": "POCO M4 Pro 5G Global"
+  }
+ },
+ "creek": {
+  "internal_name": "O19AP",
+  "name": "POCO M7",
+  "models": {
+   "`25062PC34G`": "POCO M7 Global",
+   "`25062PC34E`": "POCO M7 Europe"
   }
  },
  "angelicain": {
