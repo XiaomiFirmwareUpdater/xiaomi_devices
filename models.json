@@ -1304,13 +1304,26 @@
    "`24108PCE2I`": "POCO M7 5G India"
   }
  },
+ "creek": {
+  "internal_name": "O19A/O19AP",
+  "name": "Redmi 15/POCO M7",
+  "models": {
+   "`25062RN2DA`": "Redmi 15 Global",
+   "`25062RN2DY`": "Redmi 15 Global (NFC)",
+   "`25062RN2DE`": "Redmi 15 Europe",
+   "`25062RN2DL`": "Redmi 15 Latin America",
+   "`25062PC34G`": "POCO M7 Global",
+   "`25062PC34E`": "POCO M7 Europe"
+  }
+ },
  "spring": {
   "internal_name": "O19",
-  "name": "Redmi 15 5G/POCO M7 Plus 5G",
+  "name": "Redmi 15 5G/REDMI Note 15R/POCO M7 Plus 5G",
   "models": {
    "`25057RN09G`": "Redmi 15 5G Global",
    "`25057RN09E`": "Redmi 15 5G Europe",
    "`25057RN09I`": "Redmi 15 5G India",
+   "`25057RA09C`": "REDMI Note 15R China",
    "`25057PC09I`": "POCO M7 Plus 5G India"
   }
  },
@@ -2283,14 +2296,6 @@
   "name": "POCO M4 Pro 5G",
   "models": {
    "`21091116AG`": "POCO M4 Pro 5G Global"
-  }
- },
- "creek": {
-  "internal_name": "O19AP",
-  "name": "POCO M7",
-  "models": {
-   "`25062PC34G`": "POCO M7 Global",
-   "`25062PC34E`": "POCO M7 Europe"
   }
  },
  "angelicain": {
