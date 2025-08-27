@@ -260,6 +260,12 @@
  {
   "creek": {
    "name": "POCO M7",
+   "model": "25062PC34E"
+  }
+ },
+ {
+  "creek": {
+   "name": "POCO M7",
    "model": "25062PC34G"
   }
  },
@@ -267,6 +273,12 @@
   "flame": {
    "name": "POCO M7 5G",
    "model": "24108PCE2I"
+  }
+ },
+ {
+  "spring": {
+   "name": "POCO M7 Plus 5G",
+   "model": "25057PC09I"
   }
  },
  {
@@ -471,6 +483,12 @@
   "dali": {
    "name": "REDMI K80 Ultra",
    "model": "25060RK16C"
+  }
+ },
+ {
+  "taiko": {
+   "name": "REDMI Pad 2",
+   "model": "25040RP0AC"
   }
  },
  {
