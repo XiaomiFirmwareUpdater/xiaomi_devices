@@ -2507,6 +2507,102 @@
     "display_name": "Xiaomi 14T",
     "display_name_en": "Xiaomi 14T"
   },
+  "dew_dc_global": {
+    "display_name": "REDMI 15C",
+    "display_name_en": "REDMI 15C"
+  },
+  "dew_eea_global": {
+    "display_name": "REDMI 15C/POCO C85",
+    "display_name_en": "REDMI 15C/POCO C85"
+  },
+  "dew_global": {
+    "display_name": "REDMI 15C/POCO C85",
+    "display_name_en": "REDMI 15C/POCO C85"
+  },
+  "dew_gt_tg_global": {
+    "display_name": "REDMI 15C",
+    "display_name_en": "REDMI 15C"
+  },
+  "dew_id_global": {
+    "display_name": "REDMI 15C/POCO C85",
+    "display_name_en": "REDMI 15C/POCO C85"
+  },
+  "dew_lm_cr_global": {
+    "display_name": "REDMI 15C",
+    "display_name_en": "REDMI 15C"
+  },
+  "dew_mx_at_global": {
+    "display_name": "REDMI 15C",
+    "display_name_en": "REDMI 15C"
+  },
+  "dew_mx_tc_global": {
+    "display_name": "REDMI 15C",
+    "display_name_en": "REDMI 15C"
+  },
+  "dew_pre_dc_global": {
+    "display_name": "REDMI 15C",
+    "display_name_en": "REDMI 15C"
+  },
+  "dew_pre_eea_global": {
+    "display_name": "REDMI 15C/POCO C85",
+    "display_name_en": "REDMI 15C/POCO C85"
+  },
+  "dew_pre_global": {
+    "display_name": "REDMI 15C/POCO C85",
+    "display_name_en": "REDMI 15C/POCO C85"
+  },
+  "dew_pre_gt_tg_global": {
+    "display_name": "REDMI 15C",
+    "display_name_en": "REDMI 15C"
+  },
+  "dew_pre_id_global": {
+    "display_name": "REDMI 15C/POCO C85",
+    "display_name_en": "REDMI 15C/POCO C85"
+  },
+  "dew_pre_lm_cr_global": {
+    "display_name": "REDMI 15C",
+    "display_name_en": "REDMI 15C"
+  },
+  "dew_pre_mx_at_global": {
+    "display_name": "REDMI 15C",
+    "display_name_en": "REDMI 15C"
+  },
+  "dew_pre_mx_tc_global": {
+    "display_name": "REDMI 15C",
+    "display_name_en": "REDMI 15C"
+  },
+  "dew_pre_ru_global": {
+    "display_name": "POCO C85/REDMI 15C",
+    "display_name_en": "POCO C85/REDMI 15C"
+  },
+  "dew_pre_tr_global": {
+    "display_name": "POCO C85/ REDMI 15C",
+    "display_name_en": "POCO C85/ REDMI 15C"
+  },
+  "dew_pre_tw_global": {
+    "display_name": "POCO C85/REDMI 15C",
+    "display_name_en": "POCO C85/REDMI 15C"
+  },
+  "dew_pre_wt_global": {
+    "display_name": "REDMI 15C",
+    "display_name_en": "REDMI 15C"
+  },
+  "dew_ru_global": {
+    "display_name": "POCO C85/REDMI 15C",
+    "display_name_en": "POCO C85/REDMI 15C"
+  },
+  "dew_tr_global": {
+    "display_name": "POCO C85/ REDMI 15C",
+    "display_name_en": "POCO C85/ REDMI 15C"
+  },
+  "dew_tw_global": {
+    "display_name": "POCO C85/REDMI 15C",
+    "display_name_en": "POCO C85/REDMI 15C"
+  },
+  "dew_wt_global": {
+    "display_name": "REDMI 15C",
+    "display_name_en": "REDMI 15C"
+  },
   "dijun": {
     "display_name": "Xiaomi 15S Pro",
     "display_name_en": "Xiaomi 15S Pro"
