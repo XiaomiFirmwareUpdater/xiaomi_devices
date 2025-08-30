@@ -84,6 +84,18 @@
   }
  },
  {
+  "dew": {
+   "name": "POCO C85",
+   "model": "25078PC3EE"
+  }
+ },
+ {
+  "dew": {
+   "name": "POCO C85",
+   "model": "25078PC3EG"
+  }
+ },
+ {
   "lmi": {
    "name": "POCO F2 Pro",
    "model": "POCO F2 Pro"
@@ -468,6 +480,24 @@
   }
  },
  {
+  "dew": {
+   "name": "REDMI 15C",
+   "model": "25078RA3EE"
+  }
+ },
+ {
+  "dew": {
+   "name": "REDMI 15C",
+   "model": "25078RA3EL"
+  }
+ },
+ {
+  "dew": {
+   "name": "REDMI 15C",
+   "model": "25078RA3EY"
+  }
+ },
+ {
   "zorn": {
    "name": "REDMI K80",
    "model": "24117RK2CC"
@@ -483,6 +513,30 @@
   "dali": {
    "name": "REDMI K80 Ultra",
    "model": "25060RK16C"
+  }
+ },
+ {
+  "kunzite": {
+   "name": "REDMI Note 15",
+   "model": "25098RA98C"
+  }
+ },
+ {
+  "lapis": {
+   "name": "REDMI Note 15 Pro",
+   "model": "25080RABDC"
+  }
+ },
+ {
+  "flourite": {
+   "name": "REDMI Note 15 Pro+",
+   "model": "2510ERA8BC"
+  }
+ },
+ {
+  "spring": {
+   "name": "REDMI Note 15R",
+   "model": "25057RA09C"
   }
  },
  {
@@ -849,6 +903,12 @@
   "flame": {
    "name": "Redmi 14C 5G",
    "model": "2411DRN47I"
+  }
+ },
+ {
+  "creek": {
+   "name": "Redmi 15",
+   "model": "25062RN2DL"
   }
  },
  {
