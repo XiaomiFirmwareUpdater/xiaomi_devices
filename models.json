@@ -1327,6 +1327,18 @@
    "`25057PC09I`": "POCO M7 Plus 5G India"
   }
  },
+ "dew": {
+  "internal_name": "P15A",
+  "name": "Redmi 15C/POCO C85",
+  "models": {
+   "`25078RA3EA`": "Redmi 15C Global",
+   "`25078RA3EY`": "Redmi 15C Global (NFC)",
+   "`25078RA3EE`": "Redmi 15C Europe",
+   "`25078RA3EL`": "Redmi 15C Latin America",
+   "`25078PC3EG`": "POCO C85 Global",
+   "`25078PC3EE`": "POCO C85 Europe"
+  }
+ },
  "lcsh92_wet_gb9": {
   "internal_name": "H3W",
   "name": "Redmi Note",
