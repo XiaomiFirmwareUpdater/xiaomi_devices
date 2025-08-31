@@ -2540,5 +2540,12 @@
   "models": {
    "`21051191C`": "Xiaomi CyberDog Bio-inspired Quadruped Robot"
   }
+ },
+ "konghou": {
+  "internal_name": "P802",
+  "name": "Xiaomi YU7 Back Row Mobile Control Screen",
+  "models": {
+   "`2503CVPC6C`": "Xiaomi YU7 Back Row Mobile Control Screen"
+  }
  }
 }
