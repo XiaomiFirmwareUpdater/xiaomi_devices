@@ -870,6 +870,12 @@
   }
  },
  {
+  "moon": {
+   "name": "Redmi 13x",
+   "model": "24040RN64Y"
+  }
+ },
+ {
   "tides": {
    "name": "Redmi 13x",
    "model": "24049RN28L"
