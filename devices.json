@@ -5083,6 +5083,10 @@
     "display_name": "Redmi Pad 2 4G",
     "display_name_en": "Redmi Pad 2 4G"
   },
+  "koto_id_global": {
+    "display_name": "Redmi Pad 2 4G",
+    "display_name_en": "Redmi Pad 2 4G"
+  },
   "koto_in_global": {
     "display_name": "Redmi Pad 2 WiFi Cellular ",
     "display_name_en": "Redmi Pad 2 WiFi Cellular "
@@ -5096,6 +5100,10 @@
     "display_name_en": "Redmi Pad 2 4G"
   },
   "koto_pre_global": {
+    "display_name": "Redmi Pad 2 4G",
+    "display_name_en": "Redmi Pad 2 4G"
+  },
+  "koto_pre_id_global": {
     "display_name": "Redmi Pad 2 4G",
     "display_name_en": "Redmi Pad 2 4G"
   },
@@ -10688,88 +10696,88 @@
     "display_name_en": "Redmi Note 12"
   },
   "tornado": {
-    "display_name": "REDMI 15C 5G/REDMI 15R 5G",
-    "display_name_en": "REDMI 15C 5G/REDMI 15R 5G"
+    "display_name": "REDMI 15R 5G",
+    "display_name_en": "REDMI 15R 5G"
   },
   "tornado_cl_en_global": {
-    "display_name": "XM-TORNADO-CL-EN-GLOBAL",
-    "display_name_en": "XM-TORNADO-CL-EN-GLOBAL"
+    "display_name": "Redmi 15C 5G",
+    "display_name_en": "Redmi 15C 5G"
   },
   "tornado_dc_global": {
-    "display_name": "XM-TORNADO-DC-GLOBAL",
-    "display_name_en": "XM-TORNADO-DC-GLOBAL"
+    "display_name": "Redmi 15C 5G",
+    "display_name_en": "Redmi 15C 5G"
   },
   "tornado_eea_global": {
-    "display_name": "REDMI 15C 5G",
-    "display_name_en": "REDMI 15C 5G"
+    "display_name": "Redmi 15C 5G",
+    "display_name_en": "Redmi 15C 5G"
   },
   "tornado_global": {
-    "display_name": "XM-TORNADO-GLOBAL",
-    "display_name_en": "XM-TORNADO-GLOBAL"
+    "display_name": "Redmi 15C 5G",
+    "display_name_en": "Redmi 15C 5G"
   },
   "tornado_gt_tg_global": {
-    "display_name": "XM-TORNADO-GT-TG-GLOBAL",
-    "display_name_en": "XM-TORNADO-GT-TG-GLOBAL"
+    "display_name": "Redmi 15C 5G",
+    "display_name_en": "Redmi 15C 5G"
   },
   "tornado_id_global": {
-    "display_name": "XM-TORNADO-ID-GLOBAL",
-    "display_name_en": "XM-TORNADO-ID-GLOBAL"
+    "display_name": "Redmi 15C 5G",
+    "display_name_en": "Redmi 15C 5G"
   },
   "tornado_in_global": {
-    "display_name": "XM-TORNADO-IN-GLOBAL",
-    "display_name_en": "XM-TORNADO-IN-GLOBAL"
+    "display_name": "POCO C85 5G/REDMI 15C 5G",
+    "display_name_en": "POCO C85 5G/REDMI 15C 5G"
   },
   "tornado_lm_cr_global": {
-    "display_name": "XM-TORNADO-LM-CR-GLOBAL",
-    "display_name_en": "XM-TORNADO-LM-CR-GLOBAL"
+    "display_name": "Redmi 15C 5G",
+    "display_name_en": "Redmi 15C 5G"
   },
   "tornado_mx_tc_global": {
-    "display_name": "XM-TORNADO-MX-TC-GLOBAL",
-    "display_name_en": "XM-TORNADO-MX-TC-GLOBAL"
+    "display_name": "Redmi 15C 5G",
+    "display_name_en": "Redmi 15C 5G"
   },
   "tornado_pre_cl_en_global": {
-    "display_name": "XM-TORNADO-PRE-CL-EN-GLOBAL",
-    "display_name_en": "XM-TORNADO-PRE-CL-EN-GLOBAL"
+    "display_name": "Redmi 15C 5G",
+    "display_name_en": "Redmi 15C 5G"
   },
   "tornado_pre_dc_global": {
-    "display_name": "XM-TORNADO-PRE-DC-GLOBAL",
-    "display_name_en": "XM-TORNADO-PRE-DC-GLOBAL"
+    "display_name": "Redmi 15C 5G",
+    "display_name_en": "Redmi 15C 5G"
   },
   "tornado_pre_eea_global": {
-    "display_name": "REDMI 15C 5G",
-    "display_name_en": "REDMI 15C 5G"
+    "display_name": "Redmi 15C 5G",
+    "display_name_en": "Redmi 15C 5G"
   },
   "tornado_pre_global": {
-    "display_name": "XM-TORNADO-PRE-GLOBAL",
-    "display_name_en": "XM-TORNADO-PRE-GLOBAL"
+    "display_name": "Redmi 15C 5G",
+    "display_name_en": "Redmi 15C 5G"
   },
   "tornado_pre_gt_tg_global": {
-    "display_name": "XM-TORNADO-PRE-GT-TG-GLOBAL",
-    "display_name_en": "XM-TORNADO-PRE-GT-TG-GLOBAL"
+    "display_name": "Redmi 15C 5G",
+    "display_name_en": "Redmi 15C 5G"
   },
   "tornado_pre_id_global": {
-    "display_name": "XM-TORNADO-PRE-ID-GLOBAL",
-    "display_name_en": "XM-TORNADO-PRE-ID-GLOBAL"
+    "display_name": "Redmi 15C 5G",
+    "display_name_en": "Redmi 15C 5G"
   },
   "tornado_pre_in_global": {
-    "display_name": "XM-TORNADO-PRE-IN-GLOBAL",
-    "display_name_en": "XM-TORNADO-PRE-IN-GLOBAL"
+    "display_name": "POCO C85 5G/REDMI 15C 5G",
+    "display_name_en": "POCO C85 5G/REDMI 15C 5G"
   },
   "tornado_pre_lm_cr_global": {
-    "display_name": "XM-TORNADO-PRE-LM-CR-GLOBAL",
-    "display_name_en": "XM-TORNADO-PRE-LM-CR-GLOBAL"
+    "display_name": "Redmi 15C 5G",
+    "display_name_en": "Redmi 15C 5G"
   },
   "tornado_pre_mx_tc_global": {
-    "display_name": "XM-TORNADO-PRE-MX-TC-GLOBAL",
-    "display_name_en": "XM-TORNADO-PRE-MX-TC-GLOBAL"
+    "display_name": "Redmi 15C 5G",
+    "display_name_en": "Redmi 15C 5G"
   },
   "tornado_pre_tr_global": {
-    "display_name": "XM-TORNADO-PRE-TR-GLOBAL",
-    "display_name_en": "XM-TORNADO-PRE-TR-GLOBAL"
+    "display_name": "Redmi 15C 5G",
+    "display_name_en": "Redmi 15C 5G"
   },
   "tornado_tr_global": {
-    "display_name": "XM-TORNADO-TR-GLOBAL",
-    "display_name_en": "XM-TORNADO-TR-GLOBAL"
+    "display_name": "Redmi 15C 5G",
+    "display_name_en": "Redmi 15C 5G"
   },
   "tucana": {
     "display_name": "小米 CC9 Pro",
