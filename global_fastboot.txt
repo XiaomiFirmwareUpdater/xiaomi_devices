@@ -279,6 +279,7 @@ lmi_tr_global - F
 malachite_dc_global - F
 malachite_eea_global - F
 malachite_global - F
+malachite_ru_global - F
 malachite_tw_global - F
 marble_eea_global - F
 marble_global - F
