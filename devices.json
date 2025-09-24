@@ -3759,6 +3759,66 @@
     "display_name": "XM-FLOURITE-TW-GLOBAL",
     "display_name_en": "XM-FLOURITE-TW-GLOBAL"
   },
+  "flute": {
+    "display_name": "XM-FLUTE",
+    "display_name_en": "XM-FLUTE"
+  },
+  "flute_eea_global": {
+    "display_name": "Redmi Pad 2 Pro/POCO Pad M1",
+    "display_name_en": "Redmi Pad 2 Pro/POCO Pad M1"
+  },
+  "flute_global": {
+    "display_name": "XM-FLUTE-GLOBAL",
+    "display_name_en": "XM-FLUTE-GLOBAL"
+  },
+  "flute_id_global": {
+    "display_name": "XM-FLUTE-ID-GLOBAL",
+    "display_name_en": "XM-FLUTE-ID-GLOBAL"
+  },
+  "flute_in_global": {
+    "display_name": "XM-FLUTE-IN-GLOBAL",
+    "display_name_en": "XM-FLUTE-IN-GLOBAL"
+  },
+  "flute_pre_eea_global": {
+    "display_name": "POCO Pad M1/Redmi Pad 2 Pro",
+    "display_name_en": "POCO Pad M1/Redmi Pad 2 Pro"
+  },
+  "flute_pre_global": {
+    "display_name": "XM-FLUTE-PRE-GLOBAL",
+    "display_name_en": "XM-FLUTE-PRE-GLOBAL"
+  },
+  "flute_pre_id_global": {
+    "display_name": "XM-FLUTE-ID-GLOBAL",
+    "display_name_en": "XM-FLUTE-ID-GLOBAL"
+  },
+  "flute_pre_in_global": {
+    "display_name": "XM-FLUTE-PRE-IN-GLOBAL",
+    "display_name_en": "XM-FLUTE-PRE-IN-GLOBAL"
+  },
+  "flute_pre_ru_global": {
+    "display_name": "XM-FLUTE-PRE-RU-GLOBAL",
+    "display_name_en": "XM-FLUTE-PRE-RU-GLOBAL"
+  },
+  "flute_pre_tr_global": {
+    "display_name": "XM-FLUTE-PRE-TR-GLOBAL",
+    "display_name_en": "XM-FLUTE-PRE-TR-GLOBAL"
+  },
+  "flute_pre_tw_global": {
+    "display_name": "XM-FLUTE-PRE-TW-GLOBAL",
+    "display_name_en": "XM-FLUTE-PRE-TW-GLOBAL"
+  },
+  "flute_ru_global": {
+    "display_name": "XM-FLUTE-RU-GLOBAL",
+    "display_name_en": "XM-FLUTE-RU-GLOBAL"
+  },
+  "flute_tr_global": {
+    "display_name": "XM-FLUTE-TR-GLOBAL",
+    "display_name_en": "XM-FLUTE-TR-GLOBAL"
+  },
+  "flute_tw_global": {
+    "display_name": "XM-FLUTE-TW-GLOBAL",
+    "display_name_en": "XM-FLUTE-TW-GLOBAL"
+  },
   "fog_cl_en_global": {
     "display_name": "Redmi 10C",
     "display_name_en": "Redmi 10C"
@@ -4431,6 +4491,86 @@
     "display_name": "Redmi Note 13 5G",
     "display_name_en": "Redmi Note 13 5G"
   },
+  "goya_dc_global": {
+    "display_name": "Xiaomi 15T",
+    "display_name_en": "Xiaomi 15T"
+  },
+  "goya_eea_global": {
+    "display_name": "Xiaomi 15T",
+    "display_name_en": "Xiaomi 15T"
+  },
+  "goya_global": {
+    "display_name": "Xiaomi 15T",
+    "display_name_en": "Xiaomi 15T"
+  },
+  "goya_id_global": {
+    "display_name": "Xiaomi 15T",
+    "display_name_en": "Xiaomi 15T"
+  },
+  "goya_lm_cr_global": {
+    "display_name": "Xiaomi 15T",
+    "display_name_en": "Xiaomi 15T"
+  },
+  "goya_mx_at_global": {
+    "display_name": "Xiaomi 15T",
+    "display_name_en": "Xiaomi 15T"
+  },
+  "goya_mx_tc_global": {
+    "display_name": "Xiaomi 15T",
+    "display_name_en": "Xiaomi 15T"
+  },
+  "goya_pre_dc_global": {
+    "display_name": "Xiaomi 15T",
+    "display_name_en": "Xiaomi 15T"
+  },
+  "goya_pre_eea_global": {
+    "display_name": "Xiaomi 15T",
+    "display_name_en": "Xiaomi 15T"
+  },
+  "goya_pre_global": {
+    "display_name": "Xiaomi 15T",
+    "display_name_en": "Xiaomi 15T"
+  },
+  "goya_pre_id_global": {
+    "display_name": "Xiaomi 15T",
+    "display_name_en": "Xiaomi 15T"
+  },
+  "goya_pre_lm_cr_global": {
+    "display_name": "Xiaomi 15T",
+    "display_name_en": "Xiaomi 15T"
+  },
+  "goya_pre_mx_at_global": {
+    "display_name": "Xiaomi 15T",
+    "display_name_en": "Xiaomi 15T"
+  },
+  "goya_pre_mx_tc_global": {
+    "display_name": "Xiaomi 15T",
+    "display_name_en": "Xiaomi 15T"
+  },
+  "goya_pre_ru_global": {
+    "display_name": "Xiaomi 15T",
+    "display_name_en": "Xiaomi 15T"
+  },
+  "goya_pre_tr_global": {
+    "display_name": "Xiaomi 15T",
+    "display_name_en": "Xiaomi 15T"
+  },
+  "goya_pre_tw_global": {
+    "display_name": "Xiaomi 15T",
+    "display_name_en": "Xiaomi 15T"
+  },
+  "goya_ru_global": {
+    "display_name": "Xiaomi 15T",
+    "display_name_en": "Xiaomi 15T"
+  },
+  "goya_tr_global": {
+    "display_name": "Xiaomi 15T",
+    "display_name_en": "Xiaomi 15T"
+  },
+  "goya_tw_global": {
+    "display_name": "Xiaomi 15T",
+    "display_name_en": "Xiaomi 15T"
+  },
   "gram_in_global": {
     "display_name": "POCO M2 Pro",
     "display_name_en": "POCO M2 Pro"
@@ -5062,6 +5202,94 @@
   "klein_ru_global": {
     "display_name": "Redmi A3x",
     "display_name_en": "Redmi A3x"
+  },
+  "klimt_dc_global": {
+    "display_name": "Xiaomi 15T Pro",
+    "display_name_en": "Xiaomi 15T Pro"
+  },
+  "klimt_eea_global": {
+    "display_name": "Xiaomi 15T Pro",
+    "display_name_en": "Xiaomi 15T Pro"
+  },
+  "klimt_global": {
+    "display_name": "Xiaomi 15T Pro",
+    "display_name_en": "Xiaomi 15T Pro"
+  },
+  "klimt_id_global": {
+    "display_name": "Xiaomi 15T Pro",
+    "display_name_en": "Xiaomi 15T Pro"
+  },
+  "klimt_jp_global": {
+    "display_name": "Xiaomi 15T Pro",
+    "display_name_en": "Xiaomi 15T Pro"
+  },
+  "klimt_lm_cr_global": {
+    "display_name": "Xiaomi 15T Pro",
+    "display_name_en": "Xiaomi 15T Pro"
+  },
+  "klimt_mx_at_global": {
+    "display_name": "Xiaomi 15T Pro",
+    "display_name_en": "Xiaomi 15T Pro"
+  },
+  "klimt_mx_tc_global": {
+    "display_name": "Xiaomi 15T Pro",
+    "display_name_en": "Xiaomi 15T Pro"
+  },
+  "klimt_pre_dc_global": {
+    "display_name": "Xiaomi 15T Pro",
+    "display_name_en": "Xiaomi 15T Pro"
+  },
+  "klimt_pre_eea_global": {
+    "display_name": "Xiaomi 15T Pro",
+    "display_name_en": "Xiaomi 15T Pro"
+  },
+  "klimt_pre_global": {
+    "display_name": "Xiaomi 15T Pro",
+    "display_name_en": "Xiaomi 15T Pro"
+  },
+  "klimt_pre_id_global": {
+    "display_name": "Xiaomi 15T Pro",
+    "display_name_en": "Xiaomi 15T Pro"
+  },
+  "klimt_pre_jp_global": {
+    "display_name": "Xiaomi 15T Pro",
+    "display_name_en": "Xiaomi 15T Pro"
+  },
+  "klimt_pre_lm_cr_global": {
+    "display_name": "Xiaomi 15T Pro",
+    "display_name_en": "Xiaomi 15T Pro"
+  },
+  "klimt_pre_mx_at_global": {
+    "display_name": "Xiaomi 15T Pro",
+    "display_name_en": "Xiaomi 15T Pro"
+  },
+  "klimt_pre_mx_tc_global": {
+    "display_name": "Xiaomi 15T Pro",
+    "display_name_en": "Xiaomi 15T Pro"
+  },
+  "klimt_pre_ru_global": {
+    "display_name": "Xiaomi 15T Pro",
+    "display_name_en": "Xiaomi 15T Pro"
+  },
+  "klimt_pre_tr_global": {
+    "display_name": "Xiaomi 15T Pro",
+    "display_name_en": "Xiaomi 15T Pro"
+  },
+  "klimt_pre_tw_global": {
+    "display_name": "Xiaomi 15T Pro",
+    "display_name_en": "Xiaomi 15T Pro"
+  },
+  "klimt_ru_global": {
+    "display_name": "Xiaomi 15T Pro",
+    "display_name_en": "Xiaomi 15T Pro"
+  },
+  "klimt_tr_global": {
+    "display_name": "Xiaomi 15T Pro",
+    "display_name_en": "Xiaomi 15T Pro"
+  },
+  "klimt_tw_global": {
+    "display_name": "Xiaomi 15T Pro",
+    "display_name_en": "Xiaomi 15T Pro"
   },
   "konghou": {
     "display_name": "XM-KONGHOU",
@@ -7426,6 +7654,62 @@
   "opal_tw_global": {
     "display_name": "Redmi Note 11S 5G",
     "display_name_en": "Redmi Note 11S 5G"
+  },
+  "organ": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "organ_dc_global": {
+    "display_name": "XM-ORGAN-DC-GLOBAL",
+    "display_name_en": "XM-ORGAN-DC-GLOBAL"
+  },
+  "organ_eea_global": {
+    "display_name": "XM-ORGAN-EEA-GLOBAL",
+    "display_name_en": "XM-ORGAN-EEA-GLOBAL"
+  },
+  "organ_global": {
+    "display_name": "XM-ORGAN-GLOBAL",
+    "display_name_en": "XM-ORGAN-GLOBAL"
+  },
+  "organ_id_global": {
+    "display_name": "XM-ORGAN-ID-GLOBAL",
+    "display_name_en": "XM-ORGAN-ID-GLOBAL"
+  },
+  "organ_in_global": {
+    "display_name": "Redmi Pad 2 Pro 5G",
+    "display_name_en": "Redmi Pad 2 Pro 5G"
+  },
+  "organ_pre_eea_global": {
+    "display_name": "XM-ORGAN-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-ORGAN-PRE-EEA-GLOBAL"
+  },
+  "organ_pre_global": {
+    "display_name": "XM-ORGAN-PRE-GLOBAL",
+    "display_name_en": "XM-ORGAN-PRE-GLOBAL"
+  },
+  "organ_pre_id_global": {
+    "display_name": "XM-ORGAN-ID-GLOBAL",
+    "display_name_en": "XM-ORGAN-ID-GLOBAL"
+  },
+  "organ_pre_in_global": {
+    "display_name": "Redmi Pad 2 Pro 5G",
+    "display_name_en": "Redmi Pad 2 Pro 5G"
+  },
+  "organ_pre_ru_global": {
+    "display_name": "XM-ORGAN-PRE-RU-GLOBAL",
+    "display_name_en": "XM-ORGAN-PRE-RU-GLOBAL"
+  },
+  "organ_pre_tw_global": {
+    "display_name": "XM-ORGAN-PRE-TW-GLOBAL",
+    "display_name_en": "XM-ORGAN-PRE-TW-GLOBAL"
+  },
+  "organ_ru_global": {
+    "display_name": "XM-ORGAN-RU-GLOBAL",
+    "display_name_en": "XM-ORGAN-RU-GLOBAL"
+  },
+  "organ_tw_global": {
+    "display_name": "XM-ORGAN-TW-GLOBAL",
+    "display_name_en": "XM-ORGAN-TW-GLOBAL"
   },
   "oxygen": {
     "display_name": "小米Max 2",
@@ -10888,44 +11172,44 @@
     "display_name_en": "REDMI K Pad"
   },
   "turner_global": {
-    "display_name": "XM-TURNER-GLOBAL",
-    "display_name_en": "XM-TURNER-GLOBAL"
+    "display_name": "Xiaomi Pad Mini",
+    "display_name_en": "Xiaomi Pad Mini"
   },
   "turner_id_global": {
-    "display_name": "XM-TURNER-ID-GLOBAL",
-    "display_name_en": "XM-TURNER-ID-GLOBAL"
+    "display_name": "Xiaomi Pad Mini",
+    "display_name_en": "Xiaomi Pad Mini"
   },
   "turner_pre_global": {
-    "display_name": "XM-TURNER-PRE-GLOBAL",
-    "display_name_en": "XM-TURNER-PRE-GLOBAL"
+    "display_name": "Xiaomi Pad Mini",
+    "display_name_en": "Xiaomi Pad Mini"
   },
   "turner_pre_id_global": {
-    "display_name": "XM-TURNER-PRE-ID-GLOBAL",
-    "display_name_en": "XM-TURNER-PRE-ID-GLOBAL"
+    "display_name": "Xiaomi Pad Mini",
+    "display_name_en": "Xiaomi Pad Mini"
   },
   "turner_pre_ru_global": {
-    "display_name": "XM-TURNER-PRE-RU-GLOBAL",
-    "display_name_en": "XM-TURNER-PRE-RU-GLOBAL"
+    "display_name": "Xiaomi Pad Mini",
+    "display_name_en": "Xiaomi Pad Mini"
   },
   "turner_pre_tr_global": {
-    "display_name": "XM-TURNER-PRE-TR-GLOBAL",
-    "display_name_en": "XM-TURNER-PRE-TR-GLOBAL"
+    "display_name": "Xiaomi Pad Mini",
+    "display_name_en": "Xiaomi Pad Mini"
   },
   "turner_pre_tw_global": {
-    "display_name": "XM-TURNER-PRE-TW-GLOBAL",
-    "display_name_en": "XM-TURNER-PRE-TW-GLOBAL"
+    "display_name": "Xiaomi Pad Mini",
+    "display_name_en": "Xiaomi Pad Mini"
   },
   "turner_ru_global": {
-    "display_name": "XM-TURNER-RU-GLOBAL",
-    "display_name_en": "XM-TURNER-RU-GLOBAL"
+    "display_name": "Xiaomi Pad Mini",
+    "display_name_en": "Xiaomi Pad Mini"
   },
   "turner_tr_global": {
-    "display_name": "XM-TURNER-TR-GLOBAL",
-    "display_name_en": "XM-TURNER-TR-GLOBAL"
+    "display_name": "Xiaomi Pad Mini",
+    "display_name_en": "Xiaomi Pad Mini"
   },
   "turner_tw_global": {
-    "display_name": "XM-TURNER-TW-GLOBAL",
-    "display_name_en": "XM-TURNER-TW-GLOBAL"
+    "display_name": "Xiaomi Pad Mini",
+    "display_name_en": "Xiaomi Pad Mini"
   },
   "ugg": {
     "display_name": "红米Note5A 高配版",
