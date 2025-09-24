@@ -936,6 +936,12 @@
   }
  },
  {
+  "tornado": {
+   "name": "Redmi 15C 5G",
+   "model": "2508CRN2BE"
+  }
+ },
+ {
   "cereus": {
    "name": "Redmi 6",
    "model": "Redmi 6"
