@@ -306,6 +306,12 @@
   }
  },
  {
+  "flute": {
+   "name": "POCO Pad M1",
+   "model": "2509ARPBDG"
+  }
+ },
+ {
   "phoenixin": {
    "name": "POCO X2",
    "model": "POCO X2"
@@ -495,6 +501,12 @@
   "dew": {
    "name": "REDMI 15C",
    "model": "25078RA3EY"
+  }
+ },
+ {
+  "turner": {
+   "name": "REDMI K Pad",
+   "model": "25079RPDCC"
   }
  },
  {
@@ -2181,6 +2193,12 @@
   "koto": {
    "name": "Redmi Pad 2 4G",
    "model": "2505DRP06G"
+  }
+ },
+ {
+  "flute": {
+   "name": "Redmi Pad 2 Pro",
+   "model": "25099RP13G"
   }
  },
  {
@@ -3990,6 +4008,18 @@
   }
  },
  {
+  "goya": {
+   "name": "Xiaomi 15T",
+   "model": "25069PTEBG"
+  }
+ },
+ {
+  "klimt": {
+   "name": "Xiaomi 15T Pro",
+   "model": "2506BPN68G"
+  }
+ },
+ {
   "mona": {
    "name": "Xiaomi Civi",
    "model": "2109119BC"
@@ -4149,6 +4179,18 @@
   "jinghu": {
    "name": "Xiaomi Pad 7 Ultra",
    "model": "25032RP42C"
+  }
+ },
+ {
+  "violin": {
+   "name": "Xiaomi Pad 7S Pro 12.5",
+   "model": "25053RP5CC"
+  }
+ },
+ {
+  "turner": {
+   "name": "Xiaomi Pad Mini",
+   "model": "25079RPDCG"
   }
  },
  {
