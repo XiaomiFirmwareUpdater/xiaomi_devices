@@ -7719,6 +7719,10 @@
     "display_name": "MI MAX 2",
     "display_name_en": "MI MAX 2"
   },
+  "pandora": {
+    "display_name": "Xiaomi 17 Pro",
+    "display_name_en": "Xiaomi 17 Pro"
+  },
   "pearl": {
     "display_name": "Redmi Note 12T Pro",
     "display_name_en": "Redmi Note 12T Pro"
@@ -8167,6 +8171,10 @@
     "display_name": "MI MIX 2S",
     "display_name_en": "MI MIX 2S"
   },
+  "popsicle": {
+    "display_name": "Xiaomi 17 Pro Max",
+    "display_name_en": "Xiaomi 17 Pro Max"
+  },
   "prada": {
     "display_name": "红米手机4",
     "display_name_en": "Redmi 4"
@@ -8210,6 +8218,98 @@
   "psyche_tw_global": {
     "display_name": "Xiaomi 12X",
     "display_name_en": "Xiaomi 12X"
+  },
+  "pudding": {
+    "display_name": "Xiaomi 17",
+    "display_name_en": "Xiaomi 17"
+  },
+  "pudding_dc_global": {
+    "display_name": "XM-PUDDING-DC-GLOBAL",
+    "display_name_en": "XM-PUDDING-DC-GLOBAL"
+  },
+  "pudding_eea_global": {
+    "display_name": "XM-PUDDING-EEA-GLOBAL",
+    "display_name_en": "XM-PUDDING-EEA-GLOBAL"
+  },
+  "pudding_global": {
+    "display_name": "XM-PUDDING-GLOBAL",
+    "display_name_en": "XM-PUDDING-GLOBAL"
+  },
+  "pudding_id_global": {
+    "display_name": "XM-PUDDING-ID-GLOBAL",
+    "display_name_en": "XM-PUDDING-ID-GLOBAL"
+  },
+  "pudding_in_global": {
+    "display_name": "XM-PUDDING-IN-GLOBAL",
+    "display_name_en": "XM-PUDDING-IN-GLOBAL"
+  },
+  "pudding_lm_cr_global": {
+    "display_name": "XM-PUDDING-LM-CR-GLOBAL",
+    "display_name_en": "XM-PUDDING-LM-CR-GLOBAL"
+  },
+  "pudding_mx_at_global": {
+    "display_name": "XM-PUDDING-MX-AT-GLOBAL",
+    "display_name_en": "XM-PUDDING-MX-AT-GLOBAL"
+  },
+  "pudding_mx_tc_global": {
+    "display_name": "XM-PUDDING-MX-TC-GLOBAL",
+    "display_name_en": "XM-PUDDING-MX-TC-GLOBAL"
+  },
+  "pudding_pre_dc_global": {
+    "display_name": "XM-PUDDING-PRE-DC-GLOBAL",
+    "display_name_en": "XM-PUDDING-PRE-DC-GLOBAL"
+  },
+  "pudding_pre_eea_global": {
+    "display_name": "XM-PUDDING-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-PUDDING-PRE-EEA-GLOBAL"
+  },
+  "pudding_pre_global": {
+    "display_name": "XM-PUDDING-PRE-GLOBAL",
+    "display_name_en": "XM-PUDDING-PRE-GLOBAL"
+  },
+  "pudding_pre_id_global": {
+    "display_name": "XM-PUDDING-PRE-ID-GLOBAL",
+    "display_name_en": "XM-PUDDING-PRE-ID-GLOBAL"
+  },
+  "pudding_pre_in_global": {
+    "display_name": "XM-PUDDING-PRE-IN-GLOBAL",
+    "display_name_en": "XM-PUDDING-PRE-IN-GLOBAL"
+  },
+  "pudding_pre_lm_cr_global": {
+    "display_name": "XM-PUDDING-PRE-LM-CR-GLOBAL",
+    "display_name_en": "XM-PUDDING-PRE-LM-CR-GLOBAL"
+  },
+  "pudding_pre_mx_at_global": {
+    "display_name": "XM-PUDDING-PRE-MX-AT-GLOBAL",
+    "display_name_en": "XM-PUDDING-PRE-MX-AT-GLOBAL"
+  },
+  "pudding_pre_mx_tc_global": {
+    "display_name": "XM-PUDDING-PRE-MX-TC-GLOBAL",
+    "display_name_en": "XM-PUDDING-PRE-MX-TC-GLOBAL"
+  },
+  "pudding_pre_ru_global": {
+    "display_name": "XM-PUDDING-PRE-RU-GLOBAL",
+    "display_name_en": "XM-PUDDING-PRE-RU-GLOBAL"
+  },
+  "pudding_pre_tr_global": {
+    "display_name": "XM-PUDDING-PRE-TR-GLOBAL",
+    "display_name_en": "XM-PUDDING-PRE-TR-GLOBAL"
+  },
+  "pudding_pre_tw_global": {
+    "display_name": "XM-PUDDING-PRE-TW-GLOBAL",
+    "display_name_en": "XM-PUDDING-PRE-TW-GLOBAL"
+  },
+  "pudding_ru_global": {
+    "display_name": "XM-PUDDING-RU-GLOBAL",
+    "display_name_en": "XM-PUDDING-RU-GLOBAL"
+  },
+  "pudding_tr_global": {
+    "display_name": "XM-PUDDING-TR-GLOBAL",
+    "display_name_en": "XM-PUDDING-TR-GLOBAL"
+  },
+  "pudding_tw_global": {
+    "display_name": "XM-PUDDING-TW-GLOBAL",
+    "display_name_en": "XM-PUDDING-TW-GLOBAL"
   },
   "pyxis": {
     "display_name": "小米CC9",
