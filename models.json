@@ -610,6 +610,29 @@
    "`2506BPN68R`": "Xiaomi 15T Pro Japan (SIM Free)"
   }
  },
+ "pudding": {
+  "internal_name": "P3",
+  "name": "Xiaomi 17",
+  "models": {
+   "`25113PN0EG`": "Xiaomi 17 Global",
+   "`25113PN0EC`": "Xiaomi 17 China",
+   "`25113PN0EI`": "Xiaomi 17 India"
+  }
+ },
+ "pandora": {
+  "internal_name": "Q200",
+  "name": "Xiaomi 17 Pro",
+  "models": {
+   "`25098PN5AC`": "Xiaomi 17 Pro China"
+  }
+ },
+ "popsicle": {
+  "internal_name": "P2",
+  "name": "Xiaomi 17 Pro Max",
+  "models": {
+   "`2509FPN0BC`": "Xiaomi 17 Pro Max China"
+  }
+ },
  "virgo": {
   "internal_name": "X5",
   "name": "Mi Note",
@@ -751,7 +774,6 @@
   "internal_name": "O8",
   "name": "Xiaomi MIX Flip 2",
   "models": {
-   "`2505APX7BG`": "Xiaomi MIX Flip 2 Global",
    "`2505APX7BC`": "Xiaomi MIX Flip 2 China"
   }
  },
@@ -1239,12 +1261,12 @@
  },
  "moon": {
   "internal_name": "N19A/N19L/N19E/N19AP",
-  "name": "Redmi 13/Redmi 13x/Redmi 13/Redmi 13x/POCO M6",
+  "name": "Redmi 13/REDMI 13x/Redmi 13/REDMI 13x/Redmi 13/REDMI 13x/POCO M6",
   "models": {
-   "`2404ARN45A`": "Redmi 13 Global / Redmi 13x Global",
+   "`2404ARN45A`": "Redmi 13 Global / REDMI 13x Global",
    "`2404ARN45I`": "Redmi 13 India",
-   "`24049RN28L`": "Redmi 13 Latin America / Redmi 13x Latin America",
-   "`24040RN64Y`": "Redmi 13 Global (NFC)",
+   "`24049RN28L`": "Redmi 13 Latin America / REDMI 13x Latin America",
+   "`24040RN64Y`": "Redmi 13 Global (NFC) / REDMI 13x Global (NFC)",
    "`2404APC5FG`": "POCO M6 Global"
   }
  },
@@ -1306,37 +1328,50 @@
  },
  "creek": {
   "internal_name": "O19A/O19AP",
-  "name": "Redmi 15/POCO M7",
+  "name": "REDMI 15/POCO M7",
   "models": {
-   "`25062RN2DA`": "Redmi 15 Global",
-   "`25062RN2DY`": "Redmi 15 Global (NFC)",
-   "`25062RN2DE`": "Redmi 15 Europe",
-   "`25062RN2DL`": "Redmi 15 Latin America",
+   "`25062RN2DA`": "REDMI 15 Global",
+   "`25062RN2DY`": "REDMI 15 Global (NFC)",
+   "`25062RN2DE`": "REDMI 15 Europe",
+   "`25062RN2DL`": "REDMI 15 Latin America",
    "`25062PC34G`": "POCO M7 Global",
    "`25062PC34E`": "POCO M7 Europe"
   }
  },
  "spring": {
   "internal_name": "O19",
-  "name": "Redmi 15 5G/REDMI Note 15R/POCO M7 Plus 5G",
+  "name": "REDMI 15 5G/REDMI Note 15R/POCO M7 Plus 5G",
   "models": {
-   "`25057RN09G`": "Redmi 15 5G Global",
-   "`25057RN09E`": "Redmi 15 5G Europe",
-   "`25057RN09I`": "Redmi 15 5G India",
+   "`25057RN09G`": "REDMI 15 5G Global",
+   "`25057RN09E`": "REDMI 15 5G Europe",
+   "`25057RN09I`": "REDMI 15 5G India",
    "`25057RA09C`": "REDMI Note 15R China",
    "`25057PC09I`": "POCO M7 Plus 5G India"
   }
  },
  "dew": {
   "internal_name": "P15A",
-  "name": "Redmi 15C/POCO C85",
+  "name": "REDMI 15C/POCO C85",
   "models": {
-   "`25078RA3EA`": "Redmi 15C Global",
-   "`25078RA3EY`": "Redmi 15C Global (NFC)",
-   "`25078RA3EE`": "Redmi 15C Europe",
-   "`25078RA3EL`": "Redmi 15C Latin America",
+   "`25078RA3EA`": "REDMI 15C Global",
+   "`25078RA3EY`": "REDMI 15C Global (NFC)",
+   "`25078RA3EE`": "REDMI 15C Europe",
+   "`25078RA3EL`": "REDMI 15C Latin America",
    "`25078PC3EG`": "POCO C85 Global",
    "`25078PC3EE`": "POCO C85 Europe"
+  }
+ },
+ "tornado": {
+  "internal_name": "P15/P15X",
+  "name": "REDMI 15C 5G/REDMI 15R 5G/POCO M8 5G",
+  "models": {
+   "`2508CRN2BG`": "REDMI 15C 5G Global",
+   "`2508CRN2BE`": "REDMI 15C 5G Europe",
+   "`2508CRN2BI`": "REDMI 15C 5G India",
+   "`2508CRN2BC`": "REDMI 15C 5G China",
+   "`2508CRN2BR`": "REDMI 15C 5G Japan",
+   "`25082RNC1C`": "REDMI 15R 5G China",
+   "`2508CPC2BI`": "POCO M8 5G India"
   }
  },
  "lcsh92_wet_gb9": {
@@ -1910,30 +1945,30 @@
  },
  "kunzite": {
   "internal_name": "P17",
-  "name": "Redmi Note 15 5G",
+  "name": "REDMI Note 15 5G",
   "models": {
-   "`25098RA98G`": "Redmi Note 15 5G Global",
-   "`25098RA98E`": "Redmi Note 15 5G Europe",
-   "`25098RA98I`": "Redmi Note 15 5G India",
+   "`25098RA98G`": "REDMI Note 15 5G Global",
+   "`25098RA98E`": "REDMI Note 15 5G Europe",
+   "`25098RA98I`": "REDMI Note 15 5G India",
    "`25098RA98C`": "REDMI Note 15 5G China"
   }
  },
  "lapis": {
   "internal_name": "P16",
-  "name": "Redmi Note 15 Pro",
+  "name": "REDMI Note 15 Pro",
   "models": {
-   "`25080RABDG`": "Redmi Note 15 Pro 5G Global",
-   "`25080RABDI`": "Redmi Note 15 Pro 5G India",
-   "`25080RABDR`": "Redmi Note 15 Pro 5G Japan",
+   "`25080RABDG`": "REDMI Note 15 Pro 5G Global",
+   "`25080RABDI`": "REDMI Note 15 Pro 5G India",
+   "`25080RABDR`": "REDMI Note 15 Pro 5G Japan",
    "`25080RABDC`": "REDMI Note 15 Pro 5G China"
   }
  },
  "flourite": {
   "internal_name": "P16U/P16US",
-  "name": "Redmi Note 15 Pro+/REDMI Note 15 Pro+",
+  "name": "REDMI Note 15 Pro+",
   "models": {
-   "`2510ERA8BG`": "Redmi Note 15 Pro+ 5G Global",
-   "`2510ERA8BI`": "Redmi Note 15 Pro+ 5G India",
+   "`2510ERA8BG`": "REDMI Note 15 Pro+ 5G Global",
+   "`2510ERA8BI`": "REDMI Note 15 Pro+ 5G India",
    "`2510ERA8BC`": "REDMI Note 15 Pro+ 5G China",
    "`25104RADAC`": "REDMI Note 15 Pro+ 5G Satellite China"
   }
@@ -2231,11 +2266,11 @@
  },
  "serenity": {
   "internal_name": "C3Z",
-  "name": "Redmi A5/POCO C71",
+  "name": "REDMI A5/POCO C71",
   "models": {
-   "`25028RN03G` `25028RN03A` `25028RN03Y`": "Redmi A5 Global",
-   "`25028RN03I`": "Redmi A5 India",
-   "`25028RN03L`": "Redmi A5 Latin America",
+   "`25028RN03G` `25028RN03A` `25028RN03Y`": "REDMI A5 Global",
+   "`25028RN03I`": "REDMI A5 India",
+   "`25028RN03L`": "REDMI A5 Latin America",
    "`25028PC03G` `25028PC03Y`": "POCO C71 Global",
    "`25028PC03I`": "POCO C71 India",
    "`25028PC03L`": "POCO C71 Latin America"
@@ -2417,11 +2452,12 @@
   }
  },
  "uke": {
-  "internal_name": "O82",
-  "name": "Xiaomi Pad 7",
+  "internal_name": "O82/O82P",
+  "name": "Xiaomi Pad 7/POCO Pad X1",
   "models": {
    "`2410CRP4CG`": "Xiaomi Pad 7 Global",
-   "`2410CRP4CC`": "Xiaomi Pad 7 China"
+   "`2410CRP4CC`": "Xiaomi Pad 7 China",
+   "`25099RP08G`": "POCO Pad X1 Global"
   }
  },
  "muyu": {
@@ -2444,6 +2480,31 @@
   "name": "Xiaomi Pad 7S Pro 12.5",
   "models": {
    "`25053RP5CC`": "Xiaomi Pad 7S Pro 12.5 China"
+  }
+ },
+ "turner": {
+  "internal_name": "O88",
+  "name": "Xiaomi Pad Mini/REDMI K Pad",
+  "models": {
+   "`25079RPDCG`": "Xiaomi Pad Mini Global",
+   "`25079RPDCC`": "REDMI K Pad China"
+  }
+ },
+ "yupei": {
+  "internal_name": "P82",
+  "name": "Xiaomi Pad 8",
+  "models": {
+   "`25097RP43G`": "Xiaomi Pad 8 Global",
+   "`25097RP43C`": "Xiaomi Pad 8 China",
+   "`25097RP43I`": "Xiaomi Pad 8 India"
+  }
+ },
+ "piano": {
+  "internal_name": "P81",
+  "name": "Xiaomi Pad 8 Pro",
+  "models": {
+   "`25091RP04G`": "Xiaomi Pad 8 Pro Global",
+   "`25091RP04C`": "Xiaomi Pad 8 Pro China"
   }
  },
  "yunluo": {
@@ -2501,30 +2562,41 @@
  },
  "taiko": {
   "internal_name": "O84",
-  "name": "Redmi Pad 2",
+  "name": "REDMI Pad 2",
   "models": {
-   "`25040RP0AG`": "Redmi Pad 2 Global",
-   "`25040RP0AI`": "Redmi Pad 2 India",
-   "`25040RP0AE`": "Redmi Pad 2 Europe",
-   "`25040RP0AL`": "Redmi Pad 2 Latin America",
+   "`25040RP0AG`": "REDMI Pad 2 Global",
+   "`25040RP0AI`": "REDMI Pad 2 India",
+   "`25040RP0AE`": "REDMI Pad 2 Europe",
+   "`25040RP0AL`": "REDMI Pad 2 Latin America",
    "`25040RP0AC`": "REDMI Pad 2 China"
   }
  },
  "koto": {
   "internal_name": "O84X",
-  "name": "Redmi Pad 2 4G",
+  "name": "REDMI Pad 2 4G",
   "models": {
-   "`2505DRP06G`": "Redmi Pad 2 4G Global",
-   "`2505DRP06I`": "Redmi Pad 2 4G India",
-   "`2505DRP06E`": "Redmi Pad 2 4G Europe",
-   "`2505DRP06C`": "REDMI Pad 2 4G China"
+   "`2505DRP06G`": "REDMI Pad 2 4G Global",
+   "`2505DRP06I`": "REDMI Pad 2 4G India",
+   "`2505DRP06E`": "REDMI Pad 2 4G Europe"
   }
  },
- "turner": {
-  "internal_name": "O88",
-  "name": "REDMI K Pad",
+ "flute": {
+  "internal_name": "P83/P83P",
+  "name": "REDMI Pad 2 Pro/POCO Pad M1",
   "models": {
-   "`25079RPDCC`": "REDMI K Pad China"
+   "`25099RP13G`": "REDMI Pad 2 Pro Global",
+   "`25099RP13I`": "REDMI Pad 2 Pro India",
+   "`25099RP13C`": "REDMI Pad 2 Pro China",
+   "`2509ARPBDG`": "POCO Pad M1 Global"
+  }
+ },
+ "organ": {
+  "internal_name": "P83X",
+  "name": "REDMI Pad 2 Pro 5G",
+  "models": {
+   "`2509BRP2DG`": "REDMI Pad 2 Pro 5G Global",
+   "`2509BRP2DI`": "REDMI Pad 2 Pro 5G India",
+   "`2509BRP2DC`": "REDMI Pad 2 Pro 5G China"
   }
  },
  "Babel": {
