@@ -164,6 +164,8 @@ fleur_ru_global - F
 fleur_tr_global - F
 fleur_tw_global - F
 fleur_tw_global - F
+flute_global - F
+flute_tw_global - F
 fog_eea_global - F
 fog_global - F
 fog_id_global - F
@@ -201,6 +203,10 @@ gold_id_global - F
 gold_in_global - F
 gold_tr_global - F
 gold_tw_global - F
+goya_dc_global - F
+goya_eea_global - F
+goya_global - F
+goya_tw_global - F
 haydn_eea_global - F
 haydn_global - F
 haydn_in_global - F
@@ -233,6 +239,10 @@ joyeuse_tw_global - F
 klein_global - F
 klein_in_global - F
 klein_ru_global - F
+klimt_dc_global - F
+klimt_eea_global - F
+klimt_global - F
+klimt_tw_global - F
 koto_dc_global - F
 koto_eea_global - F
 koto_global - F
