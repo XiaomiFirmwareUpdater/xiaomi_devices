@@ -528,6 +528,12 @@
   }
  },
  {
+  "annibale": {
+   "name": "REDMI K90",
+   "model": "2510DRK44C"
+  }
+ },
+ {
   "kunzite": {
    "name": "REDMI Note 15",
    "model": "25098RA98C"
@@ -4032,6 +4038,30 @@
   }
  },
  {
+  "klimt": {
+   "name": "Xiaomi 15T Pro",
+   "model": "2506BPN68R"
+  }
+ },
+ {
+  "pudding": {
+   "name": "Xiaomi 17",
+   "model": "25113PN0EC"
+  }
+ },
+ {
+  "pandora": {
+   "name": "Xiaomi 17 Pro",
+   "model": "25098PN5AC"
+  }
+ },
+ {
+  "popsicle": {
+   "name": "Xiaomi 17 Pro Max",
+   "model": "2509FPN0BC"
+  }
+ },
+ {
   "mona": {
    "name": "Xiaomi Civi",
    "model": "2109119BC"
@@ -4197,6 +4227,18 @@
   "violin": {
    "name": "Xiaomi Pad 7S Pro 12.5",
    "model": "25053RP5CC"
+  }
+ },
+ {
+  "yupei": {
+   "name": "Xiaomi Pad 8",
+   "model": "25097RP43C"
+  }
+ },
+ {
+  "piano": {
+   "name": "Xiaomi Pad 8 Pro",
+   "model": "25091RP04C"
   }
  },
  {
