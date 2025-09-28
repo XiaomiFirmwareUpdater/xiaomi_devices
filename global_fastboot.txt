@@ -509,6 +509,8 @@ topaz_eea_global - F
 topaz_global - F
 topaz_id_global - F
 topaz_ru_global - F
+turner_global - F
+turner_tw_global - F
 uke_eea_global - F
 uke_global - F
 uke_ru_global - F
