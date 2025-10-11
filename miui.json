@@ -666,6 +666,7 @@
  "opal_ru_global": "GLRU",
  "opal_tw_global": "GLTW",
  "organ_eea_global": "PXEU",
+ "organ_global": "PXMI",
  "oxygen": "DDCN",
  "oxygen_global": "DDMI",
  "pandora": "BLCN",
