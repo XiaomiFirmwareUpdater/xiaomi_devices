@@ -5007,6 +5007,38 @@
     "display_name": "Redmi Note 10 JE",
     "display_name_en": "Redmi Note 10 JE"
   },
+  "irobot_eea_ff_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
+  "irobot_eea_nf_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
+  "irobot_pre_eea_ff_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
+  "irobot_pre_eea_nf_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
+  "irobot_pre_sa_ff_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
+  "irobot_pre_us_ff_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
+  "irobot_sa_ff_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
+  "irobot_us_ff_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
   "ishtar": {
     "display_name": "Xiaomi 13 Ultra",
     "display_name_en": "Xiaomi 13 Ultra"
@@ -11550,6 +11582,54 @@
   "vela": {
     "display_name": "小米CC9美图版",
     "display_name_en": "MI CC 9 Meitu Edition"
+  },
+  "venom_eea_ff_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
+  "venom_eea_nf_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
+  "venom_pre_eea_ff_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
+  "venom_pre_eea_nf_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
+  "venom_pre_sa_ff_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
+  "venom_pre_sa_nf_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
+  "venom_pre_us_ff_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
+  "venom_pre_us_nf_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
+  "venom_sa_ff_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
+  "venom_sa_nf_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
+  "venom_us_ff_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
+  "venom_us_nf_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
   },
   "venus": {
     "display_name": "Mi 11",
