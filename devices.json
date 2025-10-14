@@ -10323,9 +10323,13 @@
     "display_name": "Redmi 15 5G",
     "display_name_en": "Redmi 15 5G"
   },
+  "spring_id_global": {
+    "display_name": "Redmi 15 5G",
+    "display_name_en": "Redmi 15 5G"
+  },
   "spring_in_global": {
-    "display_name": "XM-SPRING-IN-GLOBAL",
-    "display_name_en": "XM-SPRING-IN-GLOBAL"
+    "display_name": "POCO M7 Plus 5G/Redmi 15 5G",
+    "display_name_en": "POCO M7 Plus 5G/Redmi 15 5G"
   },
   "spring_jp_global": {
     "display_name": "TBD",
@@ -10359,9 +10363,13 @@
     "display_name": "Redmi 15 5G",
     "display_name_en": "Redmi 15 5G"
   },
+  "spring_pre_id_global": {
+    "display_name": "Redmi 15 5G",
+    "display_name_en": "Redmi 15 5G"
+  },
   "spring_pre_in_global": {
-    "display_name": "XM-SPRING-PRE-IN-GLOBAL",
-    "display_name_en": "XM-SPRING-PRE-IN-GLOBAL"
+    "display_name": "Redmi 15 5G/POCO M7 Plus 5G",
+    "display_name_en": "Redmi 15 5G/POCO M7 Plus 5G"
   },
   "spring_pre_jp_global": {
     "display_name": "TBD",
@@ -10380,8 +10388,8 @@
     "display_name_en": "XM-SPRING-PRE-RU-GLOBAL"
   },
   "spring_pre_tr_global": {
-    "display_name": "XM-SPRING-PRE-TR-GLOBAL",
-    "display_name_en": "XM-SPRING-PRE-TR-GLOBAL"
+    "display_name": "Redmi 15 5G",
+    "display_name_en": "Redmi 15 5G"
   },
   "spring_pre_tw_global": {
     "display_name": "Redmi 15 5G",
@@ -10392,8 +10400,8 @@
     "display_name_en": "XM-SPRING-RU-GLOBAL"
   },
   "spring_tr_global": {
-    "display_name": "XM-SPRING-TR-GLOBAL",
-    "display_name_en": "XM-SPRING-TR-GLOBAL"
+    "display_name": "Redmi 15 5G",
+    "display_name_en": "Redmi 15 5G"
   },
   "spring_tw_global": {
     "display_name": "Redmi 15 5G",
