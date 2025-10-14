@@ -355,6 +355,9 @@ opal_eea_global - F
 opal_global - F
 opal_ru_global - F
 opal_tw_global - F
+organ_eea_global - F
+organ_global - F
+organ_tw_global - F
 peridot_eea_global - F
 peridot_global - F
 peridot_tw_global - F
@@ -509,6 +512,8 @@ topaz_eea_global - F
 topaz_global - F
 topaz_id_global - F
 topaz_ru_global - F
+tornado_eea_global - F
+tornado_global - F
 turner_global - F
 turner_tw_global - F
 uke_eea_global - F
