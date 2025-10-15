@@ -118,6 +118,97 @@
    "updatedAt": "2025-03-27T08:18:45.000Z"
   },
   {
+   "id": 91,
+   "status": 1,
+   "deviceName": "Xiaomi 15T",
+   "releaseDate": "2025-09",
+   "securityUpdateEol": "2031-09",
+   "updateFrequency": "Every 90 days",
+   "updateFrequencyTl": "Every 90 days",
+   "shippedVersion": "Android 15",
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19",
+   "createdAt": "2025-10-15T07:15:47.000Z",
+   "updatedAt": "2025-10-15T07:25:20.000Z"
+  },
+  {
+   "id": 92,
+   "status": 1,
+   "deviceName": "Xiaomi 15T Pro",
+   "releaseDate": "2025-09",
+   "securityUpdateEol": "2031-09",
+   "updateFrequency": "Every 90 days",
+   "updateFrequencyTl": "Every 90 days",
+   "shippedVersion": "Android 15",
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19,Android 20",
+   "createdAt": "2025-10-15T07:16:52.000Z",
+   "updatedAt": "2025-10-15T07:25:20.000Z"
+  },
+  {
+   "id": 93,
+   "status": 1,
+   "deviceName": "Redmi 15C 5G",
+   "releaseDate": "2025-09",
+   "securityUpdateEol": "2031-09",
+   "updateFrequency": "Every 90 days",
+   "updateFrequencyTl": "Every 90 days",
+   "shippedVersion": "Android 15",
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19",
+   "createdAt": "2025-10-15T07:17:42.000Z",
+   "updatedAt": "2025-10-15T07:25:20.000Z"
+  },
+  {
+   "id": 94,
+   "status": 1,
+   "deviceName": "Redmi 15C",
+   "releaseDate": "2025-09",
+   "securityUpdateEol": "2031-10",
+   "updateFrequency": "Every 90 days",
+   "updateFrequencyTl": "Every 90 days",
+   "shippedVersion": "Android 15",
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19",
+   "createdAt": "2025-10-15T07:18:30.000Z",
+   "updatedAt": "2025-10-15T07:25:20.000Z"
+  },
+  {
+   "id": 95,
+   "status": 1,
+   "deviceName": "Redmi 15",
+   "releaseDate": "2025-09",
+   "securityUpdateEol": "2031-10",
+   "updateFrequency": "Every 90 days",
+   "updateFrequencyTl": "Every 90 days",
+   "shippedVersion": "Android 15",
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19",
+   "createdAt": "2025-10-15T07:22:52.000Z",
+   "updatedAt": "2025-10-15T07:25:20.000Z"
+  },
+  {
+   "id": 96,
+   "status": 1,
+   "deviceName": "Redmi Pad 2 Pro",
+   "releaseDate": "2025-09",
+   "securityUpdateEol": "2032-10",
+   "updateFrequency": "Every 90 days",
+   "updateFrequencyTl": "Every 90 days",
+   "shippedVersion": "Android 15",
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19,Android 20",
+   "createdAt": "2025-10-15T07:23:42.000Z",
+   "updatedAt": "2025-10-15T07:25:20.000Z"
+  },
+  {
+   "id": 97,
+   "status": 1,
+   "deviceName": "Xiaomi Pad Mini",
+   "releaseDate": "2025-09",
+   "securityUpdateEol": "2028-09",
+   "updateFrequency": "Every 90 days",
+   "updateFrequencyTl": "Every 90 days",
+   "shippedVersion": "Android 15",
+   "futureVersion": "Android 16,Android 17",
+   "createdAt": "2025-10-15T07:24:23.000Z",
+   "updatedAt": "2025-10-15T07:25:20.000Z"
+  },
+  {
    "id": 90,
    "status": 1,
    "deviceName": "Redmi 15 5G",
@@ -1054,5 +1145,5 @@
    "updatedAt": "2024-03-11T15:46:51.000Z"
   }
  ],
- "total": 81
+ "total": 88
 }
