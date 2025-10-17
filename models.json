@@ -2161,7 +2161,7 @@
   }
  },
  "miro": {
-  "internal_name": "O11U",
+  "internal_name": "O11U/O11US",
   "name": "REDMI K80 Pro/POCO F7 Ultra",
   "models": {
    "`24122RKC7C`": "REDMI K80 Pro China",
@@ -2174,6 +2174,20 @@
   "name": "REDMI K80 Ultra",
   "models": {
    "`25060RK16C`": "REDMI K80 Ultra China"
+  }
+ },
+ "annibale": {
+  "internal_name": "P11",
+  "name": "REDMI K90",
+  "models": {
+   "`2510DRK44C`": "REDMI K90 China"
+  }
+ },
+ "myron": {
+  "internal_name": "P11U",
+  "name": "REDMI K90 Pro Max",
+  "models": {
+   "`25102RKBEC`": "REDMI K90 Pro Max China"
   }
  },
  "omega": {
