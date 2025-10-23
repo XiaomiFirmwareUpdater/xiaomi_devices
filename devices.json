@@ -455,6 +455,58 @@
     "display_name": "Redmi 9C NFC",
     "display_name_en": "Redmi 9C NFC"
   },
+  "annibale": {
+    "display_name": "REDMI K90",
+    "display_name_en": "REDMI K90"
+  },
+  "annibale_eea_global": {
+    "display_name": "XM-ANNIBALE-EEA-GLOBAL",
+    "display_name_en": "XM-ANNIBALE-EEA-GLOBAL"
+  },
+  "annibale_global": {
+    "display_name": "XM-ANNIBALE-GLOBAL",
+    "display_name_en": "XM-ANNIBALE-GLOBAL"
+  },
+  "annibale_id_global": {
+    "display_name": "XM-ANNIBALE-ID-GLOBAL",
+    "display_name_en": "XM-ANNIBALE-ID-GLOBAL"
+  },
+  "annibale_pre_eea_global": {
+    "display_name": "XM-ANNIBALE-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-ANNIBALE-PRE-EEA-GLOBAL"
+  },
+  "annibale_pre_global": {
+    "display_name": "XM-ANNIBALE-PRE-GLOBAL",
+    "display_name_en": "XM-ANNIBALE-PRE-GLOBAL"
+  },
+  "annibale_pre_id_global": {
+    "display_name": "XM-ANNIBALE-PRE-ID-GLOBAL",
+    "display_name_en": "XM-ANNIBALE-PRE-ID-GLOBAL"
+  },
+  "annibale_pre_ru_global": {
+    "display_name": "XM-ANNIBALE-PRE-RU-GLOBAL",
+    "display_name_en": "XM-ANNIBALE-PRE-RU-GLOBAL"
+  },
+  "annibale_pre_tr_global": {
+    "display_name": "XM-ANNIBALE-PRE-TR-GLOBAL",
+    "display_name_en": "XM-ANNIBALE-PRE-TR-GLOBAL"
+  },
+  "annibale_pre_tw_global": {
+    "display_name": "XM-ANNIBALE-PRE-TW-GLOBAL",
+    "display_name_en": "XM-ANNIBALE-PRE-TW-GLOBAL"
+  },
+  "annibale_ru_global": {
+    "display_name": "XM-ANNIBALE-RU-GLOBAL",
+    "display_name_en": "XM-ANNIBALE-RU-GLOBAL"
+  },
+  "annibale_tr_global": {
+    "display_name": "XM-ANNIBALE-TR-GLOBAL",
+    "display_name_en": "XM-ANNIBALE-TR-GLOBAL"
+  },
+  "annibale_tw_global": {
+    "display_name": "XM-ANNIBALE-TW-GLOBAL",
+    "display_name_en": "XM-ANNIBALE-TW-GLOBAL"
+  },
   "apollo": {
     "display_name": "Redmi K30S 至尊纪念版",
     "display_name_en": "Redmi K30S Ultra"
@@ -7162,6 +7214,58 @@
   "muyu_tw_global": {
     "display_name": "Xiaomi Pad 7 Pro",
     "display_name_en": "Xiaomi Pad 7 Pro"
+  },
+  "myron": {
+    "display_name": "REDMI K90 Pro Max/REDMI K90 Pro Max ALSC",
+    "display_name_en": "REDMI K90 Pro Max/REDMI K90 Pro Max ALSC"
+  },
+  "myron_eea_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "myron_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "myron_id_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "myron_pre_eea_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "myron_pre_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "myron_pre_id_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "myron_pre_ru_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "myron_pre_tr_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "myron_pre_tw_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "myron_ru_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "myron_tr_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
+  },
+  "myron_tw_global": {
+    "display_name": "NA",
+    "display_name_en": "NA"
   },
   "nabu": {
     "display_name": "小米平板 5",
