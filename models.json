@@ -1875,13 +1875,14 @@
   }
  },
  "garnet": {
-  "internal_name": "N16/N16P",
+  "internal_name": "N16/N16S/N16P",
   "name": "Redmi Note 13 Pro 5G/POCO X6 5G",
   "models": {
    "`2312DRA50G`": "Redmi Note 13 Pro 5G Global",
    "`2312DRA50I`": "Redmi Note 13 Pro 5G India",
-   "`2312DRA50C` `2312CRAD3C`": "Redmi Note 13 Pro 5G China",
+   "`2312DRA50C`": "Redmi Note 13 Pro 5G China (LPDDR4x + UFS 2.2)",
    "`XIG05`": "Redmi Note 13 Pro 5G Japan (KDDI)",
+   "`2312CRAD3C`": "Redmi Note 13 Pro 5G China (LPDDR5 + UFS 3.1)",
    "`23122PCD1G`": "POCO X6 5G Global",
    "`23122PCD1I`": "POCO X6 5G India"
   }
@@ -2184,10 +2185,11 @@
   }
  },
  "myron": {
-  "internal_name": "P11U",
+  "internal_name": "P11U/P11UIP",
   "name": "REDMI K90 Pro Max",
   "models": {
-   "`25102RKBEC`": "REDMI K90 Pro Max China"
+   "`25102RKBEC`": "REDMI K90 Pro Max China",
+   "`25102RK69C`": "REDMI K90 Pro Max Automobili Lamborghini Squadra Corse China"
   }
  },
  "omega": {
