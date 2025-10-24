@@ -2179,17 +2179,19 @@
  },
  "annibale": {
   "internal_name": "P11",
-  "name": "REDMI K90",
+  "name": "REDMI K90/POCO F8 Pro",
   "models": {
-   "`2510DRK44C`": "REDMI K90 China"
+   "`2510DRK44C`": "REDMI K90 China",
+   "`2510DPC44G`": "POCO F8 Pro Global"
   }
  },
  "myron": {
   "internal_name": "P11U/P11UIP",
-  "name": "REDMI K90 Pro Max",
+  "name": "REDMI K90 Pro Max/POCO F8 Ultra",
   "models": {
    "`25102RKBEC`": "REDMI K90 Pro Max China",
-   "`25102RK69C`": "REDMI K90 Pro Max Automobili Lamborghini Squadra Corse China"
+   "`25102RK69C`": "REDMI K90 Pro Max Automobili Lamborghini Squadra Corse China",
+   "`25102PCBEG`": "POCO F8 Ultra Global"
   }
  },
  "omega": {
