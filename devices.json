@@ -9824,8 +9824,8 @@
     "display_name_en": "TBD"
   },
   "serenity_global": {
-    "display_name": "POCO C71/Redmi A5/POCO C71",
-    "display_name_en": "POCO C71/Redmi A5/POCO C71"
+    "display_name": "POCO C71/Redmi A5/POCO C71/TBD",
+    "display_name_en": "POCO C71/Redmi A5/POCO C71/TBD"
   },
   "serenity_gt_tg_global": {
     "display_name": "Redmi A5/POCO C71",
@@ -9836,8 +9836,8 @@
     "display_name_en": "XM-SERENITY-ID-GLOBAL/TBD"
   },
   "serenity_in_global": {
-    "display_name": "XM-SERENITY-IN-GLOBAL",
-    "display_name_en": "XM-SERENITY-IN-GLOBAL"
+    "display_name": "XM-SERENITY-IN-GLOBAL/TBD",
+    "display_name_en": "XM-SERENITY-IN-GLOBAL/TBD"
   },
   "serenity_lm_cr_global": {
     "display_name": "Redmi A5/POCO C71",
@@ -9892,8 +9892,8 @@
     "display_name_en": "TBD"
   },
   "serenity_pre_global": {
-    "display_name": "Redmi A5/POCO C71/POCO C71",
-    "display_name_en": "Redmi A5/POCO C71/POCO C71"
+    "display_name": "POCO C71/Redmi A5/POCO C71/TBD",
+    "display_name_en": "POCO C71/Redmi A5/POCO C71/TBD"
   },
   "serenity_pre_gt_tg_global": {
     "display_name": "Redmi A5/POCO C71",
@@ -9904,8 +9904,8 @@
     "display_name_en": "XM-SERENITY-ID-GLOBAL/TBD"
   },
   "serenity_pre_in_global": {
-    "display_name": "XM-SERENITY-PRE-IN-GLOBAL",
-    "display_name_en": "XM-SERENITY-PRE-IN-GLOBAL"
+    "display_name": "XM-SERENITY-IN-GLOBAL/TBD",
+    "display_name_en": "XM-SERENITY-IN-GLOBAL/TBD"
   },
   "serenity_pre_lm_cr_global": {
     "display_name": "Redmi A5/POCO C71",
@@ -9924,8 +9924,8 @@
     "display_name_en": "Redmi A5/POCO C71"
   },
   "serenity_pre_ru_global": {
-    "display_name": "XM-SERENITY-PRE-RU-GLOBAL/TBD",
-    "display_name_en": "XM-SERENITY-PRE-RU-GLOBAL/TBD"
+    "display_name": "XM-SERENITY-RU-GLOBAL/TBD/na",
+    "display_name_en": "XM-SERENITY-RU-GLOBAL/TBD/na"
   },
   "serenity_pre_wt_global": {
     "display_name": "Redmi A5/POCO C71",
@@ -9940,8 +9940,8 @@
     "display_name_en": "Redmi A5/POCO C71"
   },
   "serenity_ru_global": {
-    "display_name": "XM-SERENITY-RU-GLOBAL/TBD",
-    "display_name_en": "XM-SERENITY-RU-GLOBAL/TBD"
+    "display_name": "XM-SERENITY-RU-GLOBAL/TBD/na",
+    "display_name_en": "XM-SERENITY-RU-GLOBAL/TBD/na"
   },
   "serenity_test_pre_global": {
     "display_name": "C3Z",
