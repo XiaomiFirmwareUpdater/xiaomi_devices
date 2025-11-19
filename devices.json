@@ -1795,6 +1795,10 @@
     "display_name": "Xiaomi 13T Pro",
     "display_name_en": "Xiaomi 13T Pro"
   },
+  "corot_main_pre_global": {
+    "display_name": "Redmi",
+    "display_name_en": "Redmi"
+  },
   "corot_pre_dpp_global": {
     "display_name": "Xiaomi 13T Pro",
     "display_name_en": "Xiaomi 13T Pro"
@@ -2238,6 +2242,10 @@
   "dada_lm_cr_global": {
     "display_name": "Xiaomi 15",
     "display_name_en": "Xiaomi 15"
+  },
+  "dada_main_pre_global": {
+    "display_name": "DadaMain",
+    "display_name_en": "DadaMain"
   },
   "dada_mx_at_global": {
     "display_name": "Xiaomi 15",
@@ -8998,6 +9006,10 @@
   "rothko_lm_cr_global": {
     "display_name": "Xiaomi 14T Pro",
     "display_name_en": "Xiaomi 14T Pro"
+  },
+  "rothko_main_pre_global": {
+    "display_name": "RothkoMain",
+    "display_name_en": "RothkoMain"
   },
   "rothko_mx_at_global": {
     "display_name": "Xiaomi 14T Pro",
