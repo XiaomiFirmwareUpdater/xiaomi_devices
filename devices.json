@@ -488,6 +488,12 @@
  {
   "dew": {
    "name": "REDMI 15C",
+   "model": "25078RA3EA"
+  }
+ },
+ {
+  "dew": {
+   "name": "REDMI 15C",
    "model": "25078RA3EE"
   }
  },
@@ -540,6 +546,18 @@
   }
  },
  {
+  "myron": {
+   "name": "REDMI K90 Pro Max",
+   "model": "25102RK69C"
+  }
+ },
+ {
+  "myron": {
+   "name": "REDMI K90 Pro Max",
+   "model": "25102RKBEC"
+  }
+ },
+ {
   "kunzite": {
    "name": "REDMI Note 15",
    "model": "25098RA98C"
@@ -549,6 +567,12 @@
   "lapis": {
    "name": "REDMI Note 15 Pro",
    "model": "25080RABDC"
+  }
+ },
+ {
+  "flourite": {
+   "name": "REDMI Note 15 Pro+",
+   "model": "25104RADAC"
   }
  },
  {
@@ -1980,12 +2004,6 @@
   }
  },
  {
-  "malachite": {
-   "name": "Redmi Note 14 Pro",
-   "model": "24090RA29G"
-  }
- },
- {
   "obsidian": {
    "name": "Redmi Note 14 Pro",
    "model": "24116RACCG"
@@ -2223,6 +2241,24 @@
   "flute": {
    "name": "Redmi Pad 2 Pro",
    "model": "25099RP13G"
+  }
+ },
+ {
+  "flute": {
+   "name": "Redmi Pad 2 Pro",
+   "model": "25099RP13I"
+  }
+ },
+ {
+  "organ": {
+   "name": "Redmi Pad 2 Pro 5G",
+   "model": "2509BRP2DG"
+  }
+ },
+ {
+  "organ": {
+   "name": "Redmi Pad 2 Pro 5G",
+   "model": "2509BRP2DI"
   }
  },
  {
@@ -4281,6 +4317,12 @@
   "jaws": {
    "name": "Xiaomi TV Box S (2nd Gen)",
    "model": "MiTV-AFKR0"
+  }
+ },
+ {
+  "twilight": {
+   "name": "Xiaomi TV Stick 4K (2nd Gen)",
+   "model": "MiTV-AFMU1"
   }
  },
  {
