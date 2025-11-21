@@ -669,6 +669,7 @@
  "opal_tw_global": "GLTW",
  "organ_eea_global": "PXEU",
  "organ_global": "PXMI",
+ "organ_in_global": "PXIN",
  "organ_ru_global": "PXRU",
  "organ_tw_global": "PXTW",
  "oxygen": "DDCN",
