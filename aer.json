@@ -174,13 +174,13 @@
    "status": 1,
    "deviceName": "Redmi 15",
    "releaseDate": "2025-09",
-   "securityUpdateEol": "2031-10",
+   "securityUpdateEol": "2029-10",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 15",
-   "futureVersion": "Android 16,Android 17,Android 18,Android 19",
+   "futureVersion": "Android 16,Android 17",
    "createdAt": "2025-10-15T07:22:52.000Z",
-   "updatedAt": "2025-10-15T07:25:20.000Z"
+   "updatedAt": "2025-11-24T03:33:47.000Z"
   },
   {
    "id": 96,
@@ -226,13 +226,13 @@
    "status": 1,
    "deviceName": "Redmi 15 5G",
    "releaseDate": "2025-08",
-   "securityUpdateEol": "2031-08",
+   "securityUpdateEol": "2029-08",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 15",
-   "futureVersion": "Android 16,Android 17,Android 18,Android 19",
+   "futureVersion": "Android 16,Android 17",
    "createdAt": "2025-09-09T07:42:29.000Z",
-   "updatedAt": "2025-09-09T07:43:11.000Z"
+   "updatedAt": "2025-11-24T03:34:58.000Z"
   },
   {
    "id": 88,
