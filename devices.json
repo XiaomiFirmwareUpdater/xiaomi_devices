@@ -5079,6 +5079,10 @@
     "display_name": "Xiaomi TV",
     "display_name_en": "Xiaomi TV"
   },
+  "irobot_eea_nnf_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
   "irobot_pre_eea_ff_global": {
     "display_name": "Xiaomi TV",
     "display_name_en": "Xiaomi TV"
@@ -5087,7 +5091,15 @@
     "display_name": "Xiaomi TV",
     "display_name_en": "Xiaomi TV"
   },
+  "irobot_pre_eea_nnf_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
   "irobot_pre_sa_ff_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
+  "irobot_pre_sa_nf_global": {
     "display_name": "Xiaomi TV",
     "display_name_en": "Xiaomi TV"
   },
@@ -5095,11 +5107,23 @@
     "display_name": "Xiaomi TV",
     "display_name_en": "Xiaomi TV"
   },
+  "irobot_pre_us_nf_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
   "irobot_sa_ff_global": {
     "display_name": "Xiaomi TV",
     "display_name_en": "Xiaomi TV"
   },
+  "irobot_sa_nf_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
   "irobot_us_ff_global": {
+    "display_name": "Xiaomi TV",
+    "display_name_en": "Xiaomi TV"
+  },
+  "irobot_us_nf_global": {
     "display_name": "Xiaomi TV",
     "display_name_en": "Xiaomi TV"
   },
