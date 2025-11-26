@@ -96,6 +96,12 @@
   }
  },
  {
+  "tornado": {
+   "name": "POCO C85 5G",
+   "model": "2508CPC2BI"
+  }
+ },
+ {
   "lmi": {
    "name": "POCO F2 Pro",
    "model": "POCO F2 Pro"
@@ -159,6 +165,18 @@
   "vermeer": {
    "name": "POCO F6 Pro",
    "model": "23113RKC6G"
+  }
+ },
+ {
+  "annibale": {
+   "name": "POCO F8 Pro",
+   "model": "2510DPC44G"
+  }
+ },
+ {
+  "myron": {
+   "name": "POCO F8 Ultra",
+   "model": "25102PCBEG"
   }
  },
  {
