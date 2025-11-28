@@ -10559,6 +10559,10 @@
     "display_name": "Redmi 15 5G",
     "display_name_en": "Redmi 15 5G"
   },
+  "springcm": {
+    "display_name": "Redmi Note 15R",
+    "display_name_en": "Redmi Note 15R"
+  },
   "star": {
     "display_name": "Mi 11 Ultra/Mi 11 Pro",
     "display_name_en": "Mi 11 Ultra/Mi 11 Pro"
@@ -11406,6 +11410,10 @@
   "tornado_tr_global": {
     "display_name": "Redmi 15C 5G",
     "display_name_en": "Redmi 15C 5G"
+  },
+  "tornadocm": {
+    "display_name": "REDMI 15R 5G",
+    "display_name_en": "REDMI 15R 5G"
   },
   "tucana": {
     "display_name": "小米 CC9 Pro",
