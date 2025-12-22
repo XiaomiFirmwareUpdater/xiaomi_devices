@@ -11423,6 +11423,10 @@
     "display_name": "REDMI 15R 5G",
     "display_name_en": "REDMI 15R 5G"
   },
+  "transform": {
+    "display_name": "Xiaomi 智能家庭屏 11",
+    "display_name_en": "Xiaomi Smart Home Screen 11"
+  },
   "tucana": {
     "display_name": "小米 CC9 Pro",
     "display_name_en": "MI CC9 Pro"
