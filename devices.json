@@ -1014,6 +1014,18 @@
   }
  },
  {
+  "spring": {
+   "name": "Redmi 15 5G",
+   "model": "25057RN09R"
+  }
+ },
+ {
+  "spring": {
+   "name": "Redmi 15 5G",
+   "model": "A501XM"
+  }
+ },
+ {
   "tornado": {
    "name": "Redmi 15C 5G",
    "model": "2508CRN2BE"
