@@ -7375,6 +7375,90 @@
     "display_name": "MI 5s Plus",
     "display_name_en": "MI 5s Plus"
   },
+  "nezha": {
+    "display_name": "Xiaomi 17 Ultra/Xiaomi 17 Ultra by Leica",
+    "display_name_en": "Xiaomi 17 Ultra/Xiaomi 17 Ultra by Leica"
+  },
+  "nezha_dc_global": {
+    "display_name": "XM-NEZHA-DC-GLOBAL",
+    "display_name_en": "XM-NEZHA-DC-GLOBAL"
+  },
+  "nezha_eea_global": {
+    "display_name": "XM-NEZHA-EEA-GLOBAL",
+    "display_name_en": "XM-NEZHA-EEA-GLOBAL"
+  },
+  "nezha_global": {
+    "display_name": "XM-NEZHA-GLOBAL",
+    "display_name_en": "XM-NEZHA-GLOBAL"
+  },
+  "nezha_id_global": {
+    "display_name": "XM-NEZHA-ID-GLOBAL",
+    "display_name_en": "XM-NEZHA-ID-GLOBAL"
+  },
+  "nezha_in_global": {
+    "display_name": "XM-NEZHA-IN-GLOBAL",
+    "display_name_en": "XM-NEZHA-IN-GLOBAL"
+  },
+  "nezha_lm_cr_global": {
+    "display_name": "XM-NEZHA-LM-CR-GLOBAL",
+    "display_name_en": "XM-NEZHA-LM-CR-GLOBAL"
+  },
+  "nezha_mx_tc_global": {
+    "display_name": "XM-NEZHA-MX-TC-GLOBAL",
+    "display_name_en": "XM-NEZHA-MX-TC-GLOBAL"
+  },
+  "nezha_pre_dc_global": {
+    "display_name": "XM-NEZHA-PRE-DC-GLOBAL",
+    "display_name_en": "XM-NEZHA-PRE-DC-GLOBAL"
+  },
+  "nezha_pre_eea_global": {
+    "display_name": "XM-NEZHA-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-NEZHA-PRE-EEA-GLOBAL"
+  },
+  "nezha_pre_global": {
+    "display_name": "XM-NEZHA-PRE-GLOBAL",
+    "display_name_en": "XM-NEZHA-PRE-GLOBAL"
+  },
+  "nezha_pre_id_global": {
+    "display_name": "XM-NEZHA-PRE-ID-GLOBAL",
+    "display_name_en": "XM-NEZHA-PRE-ID-GLOBAL"
+  },
+  "nezha_pre_in_global": {
+    "display_name": "XM-NEZHA-PRE-IN-GLOBAL",
+    "display_name_en": "XM-NEZHA-PRE-IN-GLOBAL"
+  },
+  "nezha_pre_lm_cr_global": {
+    "display_name": "XM-NEZHA-PRE-LM-CR-GLOBAL",
+    "display_name_en": "XM-NEZHA-PRE-LM-CR-GLOBAL"
+  },
+  "nezha_pre_mx_tc_global": {
+    "display_name": "XM-NEZHA-PRE-MX-TC-GLOBAL",
+    "display_name_en": "XM-NEZHA-PRE-MX-TC-GLOBAL"
+  },
+  "nezha_pre_ru_global": {
+    "display_name": "XM-NEZHA-PRE-RU-GLOBAL",
+    "display_name_en": "XM-NEZHA-PRE-RU-GLOBAL"
+  },
+  "nezha_pre_tr_global": {
+    "display_name": "XM-NEZHA-PRE-TR-GLOBAL",
+    "display_name_en": "XM-NEZHA-PRE-TR-GLOBAL"
+  },
+  "nezha_pre_tw_global": {
+    "display_name": "XM-NEZHA-PRE-TW-GLOBAL",
+    "display_name_en": "XM-NEZHA-PRE-TW-GLOBAL"
+  },
+  "nezha_ru_global": {
+    "display_name": "XM-NEZHA-RU-GLOBAL",
+    "display_name_en": "XM-NEZHA-RU-GLOBAL"
+  },
+  "nezha_tr_global": {
+    "display_name": "XM-NEZHA-TR-GLOBAL",
+    "display_name_en": "XM-NEZHA-TR-GLOBAL"
+  },
+  "nezha_tw_global": {
+    "display_name": "XM-NEZHA-TW-GLOBAL",
+    "display_name_en": "XM-NEZHA-TW-GLOBAL"
+  },
   "nikel": {
     "display_name": "Redmi Note 4",
     "display_name_en": "Redmi Note 4"
