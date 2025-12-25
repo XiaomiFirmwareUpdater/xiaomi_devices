@@ -633,6 +633,17 @@
    "`2509FPN0BC`": "Xiaomi 17 Pro Max China"
   }
  },
+ "nezha": {
+  "internal_name": "P1/P1S",
+  "name": "Xiaomi 17 Ultra/Leitzphone powered by Xiaomi/Xiaomi 17 Ultra by Leica",
+  "models": {
+   "`2512BPNDAG`": "Xiaomi 17 Ultra Global",
+   "`2512BPNDAC`": "Xiaomi 17 Ultra China",
+   "`2512BPNDAI`": "Xiaomi 17 Ultra India",
+   "`25128PNA1G`": "Leitzphone powered by Xiaomi (Global)",
+   "`25128PNA1C`": "Xiaomi 17 Ultra by Leica (China)"
+  }
+ },
  "virgo": {
   "internal_name": "X5",
   "name": "Mi Note",
@@ -1345,6 +1356,8 @@
    "`25057RN09G`": "REDMI 15 5G Global",
    "`25057RN09E`": "REDMI 15 5G Europe",
    "`25057RN09I`": "REDMI 15 5G India",
+   "`25057RN09R`": "REDMI 15 5G Japan (SIM Free)",
+   "`A501XM`": "REDMI 15 5G Japan (SoftBank)",
    "`25057RA09C`": "REDMI Note 15R China",
    "`25057PC09I`": "POCO M7 Plus 5G India"
   }
@@ -1944,19 +1957,36 @@
    "`24115RA8EC`": "Redmi Note 14 Pro+ 5G China"
   }
  },
+ "spinel": {
+  "internal_name": "P7",
+  "name": "REDMI Note 15",
+  "models": {
+   "`2510DRA23G`": "REDMI Note 15 Global",
+   "`2510DRA23E`": "REDMI Note 15 Europe",
+   "`2510DRA23L`": "REDMI Note 15 Latin America"
+  }
+ },
  "kunzite": {
   "internal_name": "P17",
-  "name": "REDMI Note 15 5G",
+  "name": "REDMI Note 15 5G/POCO M8 5G",
   "models": {
    "`25098RA98G`": "REDMI Note 15 5G Global",
    "`25098RA98E`": "REDMI Note 15 5G Europe",
    "`25098RA98I`": "REDMI Note 15 5G India",
-   "`25098RA98C`": "REDMI Note 15 5G China"
+   "`25098RA98C`": "REDMI Note 15 5G China",
+   "`25118PC98G`": "POCO M8 5G Global"
+  }
+ },
+ "charoite": {
+  "internal_name": "P6",
+  "name": "REDMI Note 15 Pro",
+  "models": {
+   "`25100RA69G`": "REDMI Note 15 Pro Global"
   }
  },
  "lapis": {
   "internal_name": "P16",
-  "name": "REDMI Note 15 Pro",
+  "name": "REDMI Note 15 Pro 5G",
   "models": {
    "`25080RABDG`": "REDMI Note 15 Pro 5G Global",
    "`25080RABDI`": "REDMI Note 15 Pro 5G India",
@@ -1966,12 +1996,13 @@
  },
  "flourite": {
   "internal_name": "P16U/P16US",
-  "name": "REDMI Note 15 Pro+",
+  "name": "REDMI Note 15 Pro+ 5G/POCO M8 Pro 5G",
   "models": {
    "`2510ERA8BG`": "REDMI Note 15 Pro+ 5G Global",
    "`2510ERA8BI`": "REDMI Note 15 Pro+ 5G India",
    "`2510ERA8BC`": "REDMI Note 15 Pro+ 5G China",
-   "`25104RADAC`": "REDMI Note 15 Pro+ 5G Satellite China"
+   "`25104RADAC`": "REDMI Note 15 Pro+ 5G Satellite China",
+   "`2510EPC8BG`": "POCO M8 Pro 5G Global"
   }
  },
  "atom": {
