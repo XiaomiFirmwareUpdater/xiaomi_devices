@@ -251,6 +251,9 @@ klein_ru_global - F
 klimt_dc_global - F
 klimt_eea_global - F
 klimt_global - F
+klimt_id_global - F
+klimt_ru_global - F
+klimt_tr_global - F
 klimt_tw_global - F
 koto_dc_global - F
 koto_eea_global - F
