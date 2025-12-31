@@ -1376,7 +1376,7 @@
  },
  "tornado": {
   "internal_name": "P15/P15X",
-  "name": "REDMI 15C 5G/REDMI 15R 5G/POCO M8 5G",
+  "name": "REDMI 15C 5G/REDMI 15R 5G/POCO C85 5G",
   "models": {
    "`2508CRN2BG`": "REDMI 15C 5G Global",
    "`2508CRN2BE`": "REDMI 15C 5G Europe",
@@ -1384,7 +1384,7 @@
    "`2508CRN2BC`": "REDMI 15C 5G China",
    "`2508CRN2BR`": "REDMI 15C 5G Japan",
    "`25082RNC1C`": "REDMI 15R 5G China",
-   "`2508CPC2BI`": "POCO M8 5G India"
+   "`2508CPC2BI`": "POCO C85 5G India"
   }
  },
  "lcsh92_wet_gb9": {
@@ -1974,7 +1974,8 @@
    "`25098RA98E`": "REDMI Note 15 5G Europe",
    "`25098RA98I`": "REDMI Note 15 5G India",
    "`25098RA98C`": "REDMI Note 15 5G China",
-   "`25118PC98G`": "POCO M8 5G Global"
+   "`25118PC98G`": "POCO M8 5G Global",
+   "`25118PC98I`": "POCO M8 5G India"
   }
  },
  "charoite": {
