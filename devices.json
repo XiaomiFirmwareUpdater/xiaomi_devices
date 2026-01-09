@@ -619,6 +619,14 @@
     "display_name": "AQUILA-GLOBAL",
     "display_name_en": "AQUILA-GLOBAL"
   },
+  "arctictale_global": {
+    "display_name": "XM-ARCTICTALE-GLOBAL",
+    "display_name_en": "XM-ARCTICTALE-GLOBAL"
+  },
+  "arctictale_pre_global": {
+    "display_name": "XM-ARCTICTALE-PRE-GLOBAL",
+    "display_name_en": "XM-ARCTICTALE-PRE-GLOBAL"
+  },
   "ares": {
     "display_name": "Redmi K40 游戏增强版",
     "display_name_en": "Redmi K40 Gaming"
@@ -4087,6 +4095,14 @@
     "display_name": "POCO C40",
     "display_name_en": "POCO C40"
   },
+  "furiosa_global": {
+    "display_name": "XM-FURIOSA-GLOBAL",
+    "display_name_en": "XM-FURIOSA-GLOBAL"
+  },
+  "furiosa_pre_global": {
+    "display_name": "XM-FURIOSA-PRE-GLOBAL",
+    "display_name_en": "XM-FURIOSA-PRE-GLOBAL"
+  },
   "fuxi": {
     "display_name": "Xiaomi 13",
     "display_name_en": "Xiaomi 13"
@@ -5572,12 +5588,12 @@
     "display_name_en": "XM-KUNZITE-DC-GLOBAL"
   },
   "kunzite_eea_global": {
-    "display_name": "XM-KUNZITE-EEA-GLOBAL",
-    "display_name_en": "XM-KUNZITE-EEA-GLOBAL"
+    "display_name": "POCO M8 5G",
+    "display_name_en": "POCO M8 5G"
   },
   "kunzite_global": {
-    "display_name": "XM-KUNZITE-GLOBAL",
-    "display_name_en": "XM-KUNZITE-GLOBAL"
+    "display_name": "POCO M8 5G",
+    "display_name_en": "POCO M8 5G"
   },
   "kunzite_gt_tg_global": {
     "display_name": "XM-KUNZITE-GT-TG-GLOBAL",
@@ -5588,8 +5604,8 @@
     "display_name_en": "XM-KUNZITE-ID-GLOBAL"
   },
   "kunzite_in_global": {
-    "display_name": "XM-KUNZITE-IN-GLOBAL",
-    "display_name_en": "XM-KUNZITE-IN-GLOBAL"
+    "display_name": "REDMI Note 15 5G",
+    "display_name_en": "REDMI Note 15 5G"
   },
   "kunzite_lm_cr_global": {
     "display_name": "XM-KUNZITE-LM-CR-GLOBAL",
@@ -5608,12 +5624,12 @@
     "display_name_en": "XM-KUNZITE-PRE-DC-GLOBAL"
   },
   "kunzite_pre_eea_global": {
-    "display_name": "XM-KUNZITE-PRE-EEA-GLOBAL",
-    "display_name_en": "XM-KUNZITE-PRE-EEA-GLOBAL"
+    "display_name": "POCO M8 5G",
+    "display_name_en": "POCO M8 5G"
   },
   "kunzite_pre_global": {
-    "display_name": "XM-KUNZITE-PRE-GLOBAL",
-    "display_name_en": "XM-KUNZITE-PRE-GLOBAL"
+    "display_name": "POCO M8 5G",
+    "display_name_en": "POCO M8 5G"
   },
   "kunzite_pre_gt_tg_global": {
     "display_name": "XM-KUNZITE-PRE-GT-TG-GLOBAL",
@@ -5624,8 +5640,8 @@
     "display_name_en": "XM-KUNZITE-PRE-ID-GLOBAL"
   },
   "kunzite_pre_in_global": {
-    "display_name": "XM-KUNZITE-PRE-IN-GLOBAL",
-    "display_name_en": "XM-KUNZITE-PRE-IN-GLOBAL"
+    "display_name": "REDMI Note 15 5G",
+    "display_name_en": "REDMI Note 15 5G"
   },
   "kunzite_pre_lm_cr_global": {
     "display_name": "XM-KUNZITE-PRE-LM-CR-GLOBAL",
@@ -5648,8 +5664,8 @@
     "display_name_en": "XM-KUNZITE-PRE-TR-GLOBAL"
   },
   "kunzite_pre_tw_global": {
-    "display_name": "XM-KUNZITE-PRE-TW-GLOBAL",
-    "display_name_en": "XM-KUNZITE-PRE-TW-GLOBAL"
+    "display_name": "POCO M8 5G",
+    "display_name_en": "POCO M8 5G"
   },
   "kunzite_ru_global": {
     "display_name": "XM-KUNZITE-RU-GLOBAL",
@@ -5660,8 +5676,16 @@
     "display_name_en": "XM-KUNZITE-TR-GLOBAL"
   },
   "kunzite_tw_global": {
-    "display_name": "XM-KUNZITE-TW-GLOBAL",
-    "display_name_en": "XM-KUNZITE-TW-GLOBAL"
+    "display_name": "POCO M8 5G",
+    "display_name_en": "POCO M8 5G"
+  },
+  "ladybird_global": {
+    "display_name": "XM-LADYBIRD-GLOBAL",
+    "display_name_en": "XM-LADYBIRD-GLOBAL"
+  },
+  "ladybird_pre_global": {
+    "display_name": "XM-LADYBIRD-PRE-GLOBAL",
+    "display_name_en": "XM-LADYBIRD-PRE-GLOBAL"
   },
   "lake": {
     "display_name": "Redmi 14C",
@@ -5762,6 +5786,14 @@
   "lake_tw_global": {
     "display_name": "POCO C75",
     "display_name_en": "Redmi 14C/POCO C75"
+  },
+  "lalaland_global": {
+    "display_name": "XM-LALALAND-GLOBAL",
+    "display_name_en": "XM-LALALAND-GLOBAL"
+  },
+  "lalaland_pre_global": {
+    "display_name": "XM-LALALAND-PRE-GLOBAL",
+    "display_name_en": "XM-LALALAND-PRE-GLOBAL"
   },
   "lancelot": {
     "display_name": "Redmi 9",
@@ -8874,6 +8906,14 @@
   "riva_ita_vodafone_global": {
     "display_name": "Redmi 5A",
     "display_name_en": "Redmi 5A"
+  },
+  "river_global": {
+    "display_name": "A",
+    "display_name_en": "A"
+  },
+  "river_pre_global": {
+    "display_name": "A",
+    "display_name_en": "A"
   },
   "rock_eea_global": {
     "display_name": "POCO M5",
