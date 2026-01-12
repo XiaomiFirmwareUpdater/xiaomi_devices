@@ -66,6 +66,11 @@ cannong_eea_global - F
 cannong_global - F
 cannong_ru_global - F
 cannong_tw_global - F
+charoite_dc_global - F
+charoite_eea_global - F
+charoite_global - F
+charoite_ru_global - F
+charoite_tr_global - F
 chopin_global - F
 chopin_id_global - F
 chopin_tr_global - F
