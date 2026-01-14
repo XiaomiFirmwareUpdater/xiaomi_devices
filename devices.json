@@ -588,6 +588,30 @@
   }
  },
  {
+  "spinel": {
+   "name": "REDMI Note 15",
+   "model": "2510DRA23E"
+  }
+ },
+ {
+  "spinel": {
+   "name": "REDMI Note 15",
+   "model": "2510DRA23G"
+  }
+ },
+ {
+  "spinel": {
+   "name": "REDMI Note 15",
+   "model": "2510DRA23L"
+  }
+ },
+ {
+  "charoite": {
+   "name": "REDMI Note 15 Pro",
+   "model": "25100RA69G"
+  }
+ },
+ {
   "lapis": {
    "name": "REDMI Note 15 Pro",
    "model": "25080RABDC"
