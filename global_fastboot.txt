@@ -177,6 +177,12 @@ fleur_ru_global - F
 fleur_tr_global - F
 fleur_tw_global - F
 fleur_tw_global - F
+flourite_dc_global - F
+flourite_eea_global - F
+flourite_global - F
+flourite_ru_global - F
+flourite_tr_global - F
+flourite_tw_global - F
 flute_eea_global - F
 flute_global - F
 flute_tw_global - F
