@@ -318,6 +318,12 @@
   }
  },
  {
+  "kunzite": {
+   "name": "POCO M8 5G",
+   "model": "25118PC98G"
+  }
+ },
+ {
   "flourite": {
    "name": "POCO M8 Pro 5G",
    "model": "2510EPC8BG"
@@ -606,6 +612,24 @@
   }
  },
  {
+  "kunzite": {
+   "name": "REDMI Note 15 5G",
+   "model": "25098RA98G"
+  }
+ },
+ {
+  "kunzite": {
+   "name": "REDMI Note 15 5G",
+   "model": "25098RA98I"
+  }
+ },
+ {
+  "kunzite": {
+   "name": "REDMI Note 15 5G",
+   "model": "25098RA98T"
+  }
+ },
+ {
   "charoite": {
    "name": "REDMI Note 15 Pro",
    "model": "25100RA69G"
@@ -618,6 +642,24 @@
   }
  },
  {
+  "lapis": {
+   "name": "REDMI Note 15 Pro 5G",
+   "model": "25080RABDG"
+  }
+ },
+ {
+  "lapis": {
+   "name": "REDMI Note 15 Pro 5G",
+   "model": "25080RABDI"
+  }
+ },
+ {
+  "lapis": {
+   "name": "REDMI Note 15 Pro 5G",
+   "model": "25080RABDR"
+  }
+ },
+ {
   "flourite": {
    "name": "REDMI Note 15 Pro+",
    "model": "25104RADAC"
@@ -627,6 +669,18 @@
   "flourite": {
    "name": "REDMI Note 15 Pro+",
    "model": "2510ERA8BC"
+  }
+ },
+ {
+  "flourite": {
+   "name": "REDMI Note 15 Pro+5G",
+   "model": "2510ERA8BG"
+  }
+ },
+ {
+  "flourite": {
+   "name": "REDMI Note 15 Pro+5G",
+   "model": "2510ERA8BI"
   }
  },
  {
