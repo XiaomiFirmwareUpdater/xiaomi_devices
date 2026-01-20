@@ -5584,100 +5584,100 @@
     "display_name_en": "REDMI Note 15"
   },
   "kunzite_dc_global": {
-    "display_name": "XM-KUNZITE-DC-GLOBAL",
-    "display_name_en": "XM-KUNZITE-DC-GLOBAL"
+    "display_name": "REDMI Note 15 5G",
+    "display_name_en": "REDMI Note 15 5G"
   },
   "kunzite_eea_global": {
-    "display_name": "POCO M8 5G",
-    "display_name_en": "POCO M8 5G"
+    "display_name": "POCO M8 5G/REDMI Note 15 5G",
+    "display_name_en": "POCO M8 5G/REDMI Note 15 5G"
   },
   "kunzite_global": {
-    "display_name": "POCO M8 5G",
-    "display_name_en": "POCO M8 5G"
+    "display_name": "POCO M8 5G/REDMI Note 15 5G",
+    "display_name_en": "POCO M8 5G/REDMI Note 15 5G"
   },
   "kunzite_gt_tg_global": {
-    "display_name": "XM-KUNZITE-GT-TG-GLOBAL",
-    "display_name_en": "XM-KUNZITE-GT-TG-GLOBAL"
+    "display_name": "REDMI Note 15 5G",
+    "display_name_en": "REDMI Note 15 5G"
   },
   "kunzite_id_global": {
     "display_name": "XM-KUNZITE-ID-GLOBAL",
     "display_name_en": "XM-KUNZITE-ID-GLOBAL"
   },
   "kunzite_in_global": {
+    "display_name": "POCO M8 5G/REDMI Note 15 5G",
+    "display_name_en": "POCO M8 5G/REDMI Note 15 5G"
+  },
+  "kunzite_lm_cr_global": {
     "display_name": "REDMI Note 15 5G",
     "display_name_en": "REDMI Note 15 5G"
   },
-  "kunzite_lm_cr_global": {
-    "display_name": "XM-KUNZITE-LM-CR-GLOBAL",
-    "display_name_en": "XM-KUNZITE-LM-CR-GLOBAL"
-  },
   "kunzite_mx_at_global": {
-    "display_name": "XM-KUNZITE-MX-AT-GLOBAL",
-    "display_name_en": "XM-KUNZITE-MX-AT-GLOBAL"
+    "display_name": "REDMI Note 15 5G",
+    "display_name_en": "REDMI Note 15 5G"
   },
   "kunzite_mx_tc_global": {
-    "display_name": "XM-KUNZITE-MX-TC-GLOBAL",
-    "display_name_en": "XM-KUNZITE-MX-TC-GLOBAL"
+    "display_name": "REDMI Note 15 5G",
+    "display_name_en": "REDMI Note 15 5G"
   },
   "kunzite_pre_dc_global": {
-    "display_name": "XM-KUNZITE-PRE-DC-GLOBAL",
-    "display_name_en": "XM-KUNZITE-PRE-DC-GLOBAL"
+    "display_name": "REDMI Note 15 5G",
+    "display_name_en": "REDMI Note 15 5G"
   },
   "kunzite_pre_eea_global": {
-    "display_name": "POCO M8 5G",
-    "display_name_en": "POCO M8 5G"
+    "display_name": "REDMI Note 15 5G/POCO M8 5G",
+    "display_name_en": "REDMI Note 15 5G/POCO M8 5G"
   },
   "kunzite_pre_global": {
-    "display_name": "POCO M8 5G",
-    "display_name_en": "POCO M8 5G"
+    "display_name": "POCO M8 5G/REDMI Note 15 5G",
+    "display_name_en": "POCO M8 5G/REDMI Note 15 5G"
   },
   "kunzite_pre_gt_tg_global": {
-    "display_name": "XM-KUNZITE-PRE-GT-TG-GLOBAL",
-    "display_name_en": "XM-KUNZITE-PRE-GT-TG-GLOBAL"
+    "display_name": "REDMI Note 15 5G",
+    "display_name_en": "REDMI Note 15 5G"
   },
   "kunzite_pre_id_global": {
     "display_name": "XM-KUNZITE-PRE-ID-GLOBAL",
     "display_name_en": "XM-KUNZITE-PRE-ID-GLOBAL"
   },
   "kunzite_pre_in_global": {
+    "display_name": "POCO M8 5G/REDMI Note 15 5G",
+    "display_name_en": "POCO M8 5G/REDMI Note 15 5G"
+  },
+  "kunzite_pre_lm_cr_global": {
     "display_name": "REDMI Note 15 5G",
     "display_name_en": "REDMI Note 15 5G"
   },
-  "kunzite_pre_lm_cr_global": {
-    "display_name": "XM-KUNZITE-PRE-LM-CR-GLOBAL",
-    "display_name_en": "XM-KUNZITE-PRE-LM-CR-GLOBAL"
-  },
   "kunzite_pre_mx_at_global": {
-    "display_name": "XM-KUNZITE-PRE-MX-AT-GLOBAL",
-    "display_name_en": "XM-KUNZITE-PRE-MX-AT-GLOBAL"
+    "display_name": "REDMI Note 15 5G",
+    "display_name_en": "REDMI Note 15 5G"
   },
   "kunzite_pre_mx_tc_global": {
-    "display_name": "XM-KUNZITE-PRE-MX-TC-GLOBAL",
-    "display_name_en": "XM-KUNZITE-PRE-MX-TC-GLOBAL"
+    "display_name": "REDMI Note 15 5G",
+    "display_name_en": "REDMI Note 15 5G"
   },
   "kunzite_pre_ru_global": {
-    "display_name": "XM-KUNZITE-PRE-RU-GLOBAL",
-    "display_name_en": "XM-KUNZITE-PRE-RU-GLOBAL"
+    "display_name": "POCO M8 5G",
+    "display_name_en": "POCO M8 5G"
   },
   "kunzite_pre_tr_global": {
     "display_name": "XM-KUNZITE-PRE-TR-GLOBAL",
     "display_name_en": "XM-KUNZITE-PRE-TR-GLOBAL"
   },
   "kunzite_pre_tw_global": {
-    "display_name": "POCO M8 5G",
-    "display_name_en": "POCO M8 5G"
+    "display_name": "POCO M8 5G/REDMI Note 15 5G",
+    "display_name_en": "POCO M8 5G/REDMI Note 15 5G"
   },
   "kunzite_ru_global": {
-    "display_name": "XM-KUNZITE-RU-GLOBAL",
-    "display_name_en": "XM-KUNZITE-RU-GLOBAL"
+    "display_name": "POCO M8 5G",
+    "display_name_en": "POCO M8 5G"
   },
   "kunzite_tr_global": {
     "display_name": "XM-KUNZITE-TR-GLOBAL",
     "display_name_en": "XM-KUNZITE-TR-GLOBAL"
   },
   "kunzite_tw_global": {
-    "display_name": "POCO M8 5G",
-    "display_name_en": "POCO M8 5G"
+    "display_name": "POCO M8 5G/REDMI Note 15 5G",
+    "display_name_en": "POCO M8 5G/REDMI Note 15 5G"
   },
   "ladybird_global": {
     "display_name": "XM-LADYBIRD-GLOBAL",
