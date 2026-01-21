@@ -1,6 +1,19 @@
 {
  "items": [
   {
+   "id": 99,
+   "status": 1,
+   "deviceName": "REDMI Note 15 Pro 5G",
+   "releaseDate": "2026-01",
+   "securityUpdateEol": "2032-01",
+   "updateFrequency": "90天",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 15",
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19",
+   "createdAt": "2026-01-21T07:57:17.000Z",
+   "updatedAt": "2026-01-21T08:10:07.000Z"
+  },
+  {
    "id": 86,
    "status": 1,
    "deviceName": "Xiaomi Pad 7 Pro",
@@ -1158,5 +1171,5 @@
    "updatedAt": "2024-03-11T15:46:51.000Z"
   }
  ],
- "total": 89
+ "total": 90
 }
