@@ -14,6 +14,58 @@
    "updatedAt": "2026-01-21T08:10:07.000Z"
   },
   {
+   "id": 100,
+   "status": 1,
+   "deviceName": "REDMI Note 15 Pro",
+   "releaseDate": "2026-01",
+   "securityUpdateEol": "2032-01",
+   "updateFrequency": "90天",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 15",
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19",
+   "createdAt": "2026-01-22T02:33:23.000Z",
+   "updatedAt": "2026-01-22T02:34:19.000Z"
+  },
+  {
+   "id": 101,
+   "status": 1,
+   "deviceName": "REDMI Note 15 Pro+ 5G",
+   "releaseDate": "2026-01",
+   "securityUpdateEol": "2032-01",
+   "updateFrequency": "90天",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 15",
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19",
+   "createdAt": "2026-01-22T02:59:33.000Z",
+   "updatedAt": "2026-01-22T03:00:01.000Z"
+  },
+  {
+   "id": 102,
+   "status": 1,
+   "deviceName": "REDMI Note 15 5G",
+   "releaseDate": "2026-01",
+   "securityUpdateEol": "2032-01",
+   "updateFrequency": "90天",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 15",
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19",
+   "createdAt": "2026-01-22T03:05:06.000Z",
+   "updatedAt": "2026-01-22T03:06:29.000Z"
+  },
+  {
+   "id": 103,
+   "status": 1,
+   "deviceName": "REDMI Note 15",
+   "releaseDate": "2026-01",
+   "securityUpdateEol": "2032-01",
+   "updateFrequency": "90天",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 15",
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19",
+   "createdAt": "2026-01-22T03:06:21.000Z",
+   "updatedAt": "2026-01-22T03:06:29.000Z"
+  },
+  {
    "id": 86,
    "status": 1,
    "deviceName": "Xiaomi Pad 7 Pro",
@@ -1171,5 +1223,5 @@
    "updatedAt": "2024-03-11T15:46:51.000Z"
   }
  ],
- "total": 90
+ "total": 94
 }
