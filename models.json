@@ -1974,6 +1974,7 @@
    "`25098RA98E`": "REDMI Note 15 5G Europe",
    "`25098RA98I`": "REDMI Note 15 5G India",
    "`25098RA98C`": "REDMI Note 15 5G China",
+   "`25098RA98T`": "REDMI Note 15 5G Saudi Arabia",
    "`25118PC98G`": "POCO M8 5G Global",
    "`25118PC98I`": "POCO M8 5G India"
   }
@@ -1992,7 +1993,8 @@
    "`25080RABDG`": "REDMI Note 15 Pro 5G Global",
    "`25080RABDI`": "REDMI Note 15 Pro 5G India",
    "`25080RABDR`": "REDMI Note 15 Pro 5G Japan",
-   "`25080RABDC`": "REDMI Note 15 Pro 5G China"
+   "`25080RABDC`": "REDMI Note 15 Pro 5G China",
+   "`25080RABDT`": "REDMI Note 15 Pro 5G Saudi Arabia"
   }
  },
  "flourite": {
@@ -2002,6 +2004,7 @@
    "`2510ERA8BG`": "REDMI Note 15 Pro+ 5G Global",
    "`2510ERA8BI`": "REDMI Note 15 Pro+ 5G India",
    "`2510ERA8BC`": "REDMI Note 15 Pro+ 5G China",
+   "`2510ERA8BT`": "REDMI Note 15 Pro+ 5G Saudi Arabia",
    "`25104RADAC`": "REDMI Note 15 Pro+ 5G Satellite China",
    "`2510EPC8BG`": "POCO M8 Pro 5G Global"
   }
@@ -2045,6 +2048,20 @@
    "`25053RT47C`": "REDMI Turbo 4 Pro China",
    "`25053PC47G`": "POCO F7 Global",
    "`25053PC47I`": "POCO F7 India"
+  }
+ },
+ "klee": {
+  "internal_name": "P10",
+  "name": "REDMI Turbo 5",
+  "models": {
+   "`2511FRT34C`": "REDMI Turbo 5 China"
+  }
+ },
+ "dash": {
+  "internal_name": "P10U",
+  "name": "REDMI Turbo 5 Max",
+  "models": {
+   "`2602BRT18C`": "REDMI Turbo 5 Max China"
   }
  },
  "davinciin": {
