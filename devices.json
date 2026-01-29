@@ -2531,6 +2531,66 @@
     "display_name": "MI BOX",
     "display_name_en": "MI BOX"
   },
+  "dash": {
+    "display_name": "REDMI Turbo 5 Max",
+    "display_name_en": "REDMI Turbo 5 Max"
+  },
+  "dash_eea_global": {
+    "display_name": "XM-DASH-EEA-GLOBAL",
+    "display_name_en": "XM-DASH-EEA-GLOBAL"
+  },
+  "dash_global": {
+    "display_name": "XM-DASH-GLOBAL",
+    "display_name_en": "XM-DASH-GLOBAL"
+  },
+  "dash_id_global": {
+    "display_name": "XM-DASH-ID-GLOBAL",
+    "display_name_en": "XM-DASH-ID-GLOBAL"
+  },
+  "dash_in_global": {
+    "display_name": "XM-DASH-IN-GLOBAL",
+    "display_name_en": "XM-DASH-IN-GLOBAL"
+  },
+  "dash_pre_eea_global": {
+    "display_name": "XM-DASH-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-DASH-PRE-EEA-GLOBAL"
+  },
+  "dash_pre_global": {
+    "display_name": "XM-DASH-PRE-GLOBAL",
+    "display_name_en": "XM-DASH-PRE-GLOBAL"
+  },
+  "dash_pre_id_global": {
+    "display_name": "XM-DASH-PRE-ID-GLOBAL",
+    "display_name_en": "XM-DASH-PRE-ID-GLOBAL"
+  },
+  "dash_pre_in_global": {
+    "display_name": "XM-DASH-PRE-IN-GLOBAL",
+    "display_name_en": "XM-DASH-PRE-IN-GLOBAL"
+  },
+  "dash_pre_ru_global": {
+    "display_name": "XM-DASH-PRE-RU-GLOBAL",
+    "display_name_en": "XM-DASH-PRE-RU-GLOBAL"
+  },
+  "dash_pre_tr_global": {
+    "display_name": "XM-DASH-PRE-TR-GLOBAL",
+    "display_name_en": "XM-DASH-PRE-TR-GLOBAL"
+  },
+  "dash_pre_tw_global": {
+    "display_name": "XM-DASH-PRE-TW-GLOBAL",
+    "display_name_en": "XM-DASH-PRE-TW-GLOBAL"
+  },
+  "dash_ru_global": {
+    "display_name": "XM-DASH-RU-GLOBAL",
+    "display_name_en": "XM-DASH-RU-GLOBAL"
+  },
+  "dash_tr_global": {
+    "display_name": "XM-DASH-TR-GLOBAL",
+    "display_name_en": "XM-DASH-TR-GLOBAL"
+  },
+  "dash_tw_global": {
+    "display_name": "XM-DASH-TW-GLOBAL",
+    "display_name_en": "XM-DASH-TW-GLOBAL"
+  },
   "daumier": {
     "display_name": "Xiaomi 12 Pro 天玑版",
     "display_name_en": "Xiaomi 12 Pro Dimensity"
@@ -3908,8 +3968,8 @@
     "display_name_en": "REDMI Note 15 Pro+ 5G/POCO M8 Pro 5G"
   },
   "flute": {
-    "display_name": "XM-FLUTE",
-    "display_name_en": "XM-FLUTE"
+    "display_name": "REDMI Pad 2 Pro",
+    "display_name_en": "REDMI Pad 2 Pro"
   },
   "flute_eea_global": {
     "display_name": "Redmi Pad 2 Pro/POCO Pad M1",
@@ -5398,6 +5458,66 @@
   "kenzo_global": {
     "display_name": "Redmi Note 3",
     "display_name_en": "Redmi Note 3"
+  },
+  "klee": {
+    "display_name": "REDMI Turbo 5",
+    "display_name_en": "REDMI Turbo 5"
+  },
+  "klee_eea_global": {
+    "display_name": "XM-KLEE-EEA-GLOBAL",
+    "display_name_en": "XM-KLEE-EEA-GLOBAL"
+  },
+  "klee_global": {
+    "display_name": "XM-KLEE-GLOBAL",
+    "display_name_en": "XM-KLEE-GLOBAL"
+  },
+  "klee_id_global": {
+    "display_name": "XM-KLEE-ID-GLOBAL",
+    "display_name_en": "XM-KLEE-ID-GLOBAL"
+  },
+  "klee_in_global": {
+    "display_name": "XM-KLEE-IN-GLOBAL",
+    "display_name_en": "XM-KLEE-IN-GLOBAL"
+  },
+  "klee_pre_eea_global": {
+    "display_name": "XM-KLEE-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-KLEE-PRE-EEA-GLOBAL"
+  },
+  "klee_pre_global": {
+    "display_name": "XM-KLEE-PRE-GLOBAL",
+    "display_name_en": "XM-KLEE-PRE-GLOBAL"
+  },
+  "klee_pre_id_global": {
+    "display_name": "XM-KLEE-PRE-ID-GLOBAL",
+    "display_name_en": "XM-KLEE-PRE-ID-GLOBAL"
+  },
+  "klee_pre_in_global": {
+    "display_name": "XM-KLEE-PRE-IN-GLOBAL",
+    "display_name_en": "XM-KLEE-PRE-IN-GLOBAL"
+  },
+  "klee_pre_ru_global": {
+    "display_name": "XM-KLEE-PRE-RU-GLOBAL",
+    "display_name_en": "XM-KLEE-PRE-RU-GLOBAL"
+  },
+  "klee_pre_tr_global": {
+    "display_name": "XM-KLEE-PRE-TR-GLOBAL",
+    "display_name_en": "XM-KLEE-PRE-TR-GLOBAL"
+  },
+  "klee_pre_tw_global": {
+    "display_name": "XM-KLEE-PRE-TW-GLOBAL",
+    "display_name_en": "XM-KLEE-PRE-TW-GLOBAL"
+  },
+  "klee_ru_global": {
+    "display_name": "XM-KLEE-RU-GLOBAL",
+    "display_name_en": "XM-KLEE-RU-GLOBAL"
+  },
+  "klee_tr_global": {
+    "display_name": "XM-KLEE-TR-GLOBAL",
+    "display_name_en": "XM-KLEE-TR-GLOBAL"
+  },
+  "klee_tw_global": {
+    "display_name": "XM-KLEE-TW-GLOBAL",
+    "display_name_en": "XM-KLEE-TW-GLOBAL"
   },
   "klein_global": {
     "display_name": "Redmi A3x",
