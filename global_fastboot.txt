@@ -139,6 +139,8 @@ dizi_global - F
 dizi_tw_global - F
 duchamp_eea_global - F
 duchamp_global - F
+duchamp_id_global - F
+duchamp_in_global - F
 duchamp_ru_global - F
 duchamp_tw_global - F
 earth_eea_global - F
