@@ -2723,6 +2723,10 @@
     "display_name": "REDMI 15C/POCO C85",
     "display_name_en": "REDMI 15C/POCO C85"
   },
+  "dew_eea_ut_global": {
+    "display_name": "REDMI 15C",
+    "display_name_en": "REDMI 15C"
+  },
   "dew_global": {
     "display_name": "REDMI 15C/POCO C85",
     "display_name_en": "REDMI 15C/POCO C85"
@@ -2734,6 +2738,10 @@
   "dew_id_global": {
     "display_name": "REDMI 15C/POCO C85",
     "display_name_en": "REDMI 15C/POCO C85"
+  },
+  "dew_id_ut_global": {
+    "display_name": "REDMI 15C",
+    "display_name_en": "REDMI 15C"
   },
   "dew_lm_cr_global": {
     "display_name": "REDMI 15C",
@@ -2799,6 +2807,10 @@
     "display_name": "POCO C85/REDMI 15C",
     "display_name_en": "POCO C85/REDMI 15C"
   },
+  "dew_ru_ut_global": {
+    "display_name": "REDMI 15C",
+    "display_name_en": "REDMI 15C"
+  },
   "dew_tr_global": {
     "display_name": "POCO C85/ REDMI 15C",
     "display_name_en": "POCO C85/ REDMI 15C"
@@ -2806,6 +2818,10 @@
   "dew_tw_global": {
     "display_name": "POCO C85/REDMI 15C",
     "display_name_en": "POCO C85/REDMI 15C"
+  },
+  "dew_ut_global": {
+    "display_name": "REDMI 15C/POCO C85",
+    "display_name_en": "REDMI 15C/POCO C85"
   },
   "dew_wt_global": {
     "display_name": "REDMI 15C",
