@@ -2052,16 +2052,20 @@
  },
  "klee": {
   "internal_name": "P10",
-  "name": "REDMI Turbo 5",
+  "name": "REDMI Turbo 5/POCO X8 Pro",
   "models": {
-   "`2511FRT34C`": "REDMI Turbo 5 China"
+   "`2511FRT34C`": "REDMI Turbo 5 China",
+   "`2511FPC34G`": "POCO X8 Pro Global",
+   "`2511FPC34I`": "POCO X8 Pro India"
   }
  },
  "dash": {
   "internal_name": "P10U",
-  "name": "REDMI Turbo 5 Max",
+  "name": "REDMI Turbo 5 Max/POCO X8 Pro Max",
   "models": {
-   "`2602BRT18C`": "REDMI Turbo 5 Max China"
+   "`2602BRT18C`": "REDMI Turbo 5 Max China",
+   "`2602BPC18G`": "POCO X8 Pro Max Global",
+   "`2602BPC18I`": "POCO X8 Pro Max India"
   }
  },
  "davinciin": {
