@@ -720,6 +720,12 @@
   }
  },
  {
+  "dash": {
+   "name": "REDMI Turbo 5 Max",
+   "model": "2602BRT18C"
+  }
+ },
+ {
   "pine": {
    "name": "Redmi  7A",
    "model": "Redmi 7A"
