@@ -3438,6 +3438,12 @@
   }
  },
  {
+  "furiosa": {
+   "name": "MiTV",
+   "model": "MiTV-AXFU1"
+  }
+ },
+ {
   "hermano": {
    "name": "MiTV",
    "model": "MiTV-MOSR0"
@@ -3519,6 +3525,12 @@
   "river": {
    "name": "MiTV",
    "model": "MiTV-MZTU0"
+  }
+ },
+ {
+  "stepup": {
+   "name": "MiTV",
+   "model": "MiTV-MZTU1"
   }
  },
  {
