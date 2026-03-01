@@ -635,12 +635,12 @@
  },
  "nezha": {
   "internal_name": "P1/P1S",
-  "name": "Xiaomi 17 Ultra/Leitzphone powered by Xiaomi/Xiaomi 17 Ultra by Leica",
+  "name": "Xiaomi 17 Ultra/Leica Leitzphone powered by Xiaomi/Xiaomi 17 Ultra by Leica",
   "models": {
    "`2512BPNDAG`": "Xiaomi 17 Ultra Global",
    "`2512BPNDAC`": "Xiaomi 17 Ultra China",
    "`2512BPNDAI`": "Xiaomi 17 Ultra India",
-   "`25128PNA1G`": "Leitzphone powered by Xiaomi (Global)",
+   "`25128PNA1G`": "Leica Leitzphone powered by Xiaomi (Global)",
    "`25128PNA1C`": "Xiaomi 17 Ultra by Leica (China)"
   }
  },
@@ -2345,6 +2345,14 @@
    "`25028PC03G` `25028PC03Y`": "POCO C71 Global",
    "`25028PC03I`": "POCO C71 India",
    "`25028PC03L`": "POCO C71 Latin America"
+  }
+ },
+ "arctic": {
+  "internal_name": "P25A",
+  "name": "REDMI A7 Pro",
+  "models": {
+   "`25128RN17A` `25128RN17Y`": "REDMI A7 Pro Global",
+   "`25128RN17L`": "REDMI A7 Pro Latin America"
   }
  },
  "beryllium": {
