@@ -4236,6 +4236,12 @@
   }
  },
  {
+  "pudding": {
+   "name": "Xiaomi 17",
+   "model": "25113PN0EG"
+  }
+ },
+ {
   "pandora": {
    "name": "Xiaomi 17 Pro",
    "model": "25098PN5AC"
@@ -4251,6 +4257,18 @@
   "nezha": {
    "name": "Xiaomi 17 Ultra",
    "model": "2512BPNDAC"
+  }
+ },
+ {
+  "nezha": {
+   "name": "Xiaomi 17 Ultra",
+   "model": "2512BPNDAG"
+  }
+ },
+ {
+  "nezha": {
+   "name": "Xiaomi 17 Ultra",
+   "model": "2512BPNDAI"
   }
  },
  {
