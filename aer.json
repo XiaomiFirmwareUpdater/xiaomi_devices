@@ -1,6 +1,45 @@
 {
  "items": [
   {
+   "id": 104,
+   "status": 1,
+   "deviceName": "Xiaomi 17",
+   "releaseDate": "2026-02",
+   "securityUpdateEol": "2032-02",
+   "updateFrequency": "90天",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 16",
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20,Android 21",
+   "createdAt": "2026-03-04T06:46:10.000Z",
+   "updatedAt": "2026-03-09T07:26:53.000Z"
+  },
+  {
+   "id": 105,
+   "status": 1,
+   "deviceName": "Leica Leitzphone powered by Xiaomi",
+   "releaseDate": "2026-02",
+   "securityUpdateEol": "2032-02",
+   "updateFrequency": "90天",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 16",
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20,Android 21",
+   "createdAt": "2026-03-04T06:48:28.000Z",
+   "updatedAt": "2026-03-09T07:26:53.000Z"
+  },
+  {
+   "id": 106,
+   "status": 1,
+   "deviceName": "Xiaomi 17 Ultra",
+   "releaseDate": "2026-02",
+   "securityUpdateEol": "2032-02",
+   "updateFrequency": "90天",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 16",
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20,Android 21",
+   "createdAt": "2026-03-04T06:49:27.000Z",
+   "updatedAt": "2026-03-09T07:26:53.000Z"
+  },
+  {
    "id": 99,
    "status": 1,
    "deviceName": "REDMI Note 15 Pro 5G",
@@ -1223,5 +1262,5 @@
    "updatedAt": "2024-03-11T15:46:51.000Z"
   }
  ],
- "total": 94
+ "total": 97
 }
