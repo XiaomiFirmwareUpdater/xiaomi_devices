@@ -411,6 +411,12 @@ organ_tw_global - F
 peridot_eea_global - F
 peridot_global - F
 peridot_tw_global - F
+piano_eea_global - F
+piano_global - F
+piano_id_global - F
+piano_ru_global - F
+piano_tr_global - F
+piano_tw_global - F
 pipa_eea_global - F
 pipa_global - F
 pipa_id_global - F
@@ -650,6 +656,13 @@ yunluo_eea_global - F
 yunluo_global - F
 yunluo_ru_global - F
 yunluo_tw_global - F
+yupei_eea_global - F
+yupei_global - F
+yupei_id_global - F
+yupei_in_global - F
+yupei_ru_global - F
+yupei_tr_global - F
+yupei_tw_global - F
 zeus_eea_global - F
 zeus_global - F
 zeus_id_global - F
