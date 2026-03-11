@@ -10627,6 +10627,26 @@
     "display_name": "XM-SOCRATES-PRE-GLOBAL",
     "display_name_en": "XM-SOCRATES-PRE-GLOBAL"
   },
+  "somalia": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "somalia_global": {
+    "display_name": "XM-SOMALIA-GLOBAL",
+    "display_name_en": "XM-SOMALIA-GLOBAL"
+  },
+  "somalia_in_global": {
+    "display_name": "POCO C85x 5G ",
+    "display_name_en": "POCO C85x 5G "
+  },
+  "somalia_pre_global": {
+    "display_name": "XM-SOMALIA-PRE-GLOBAL",
+    "display_name_en": "XM-SOMALIA-PRE-GLOBAL"
+  },
+  "somalia_pre_in_global": {
+    "display_name": "POCO C85x 5G ",
+    "display_name_en": "POCO C85x 5G "
+  },
   "soul": {
     "display_name": "mi stick",
     "display_name_en": "mi stick"
