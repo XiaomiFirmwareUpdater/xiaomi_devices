@@ -619,6 +619,86 @@
     "display_name": "AQUILA-GLOBAL",
     "display_name_en": "AQUILA-GLOBAL"
   },
+  "arctic_dc_global": {
+    "display_name": "REDMI A7 Pro",
+    "display_name_en": "REDMI A7 Pro"
+  },
+  "arctic_eea_global": {
+    "display_name": "POCO C81 Pro",
+    "display_name_en": "POCO C81 Pro"
+  },
+  "arctic_global": {
+    "display_name": "POCO C81 Pro/REDMI A7 Pro",
+    "display_name_en": "POCO C81 Pro/REDMI A7 Pro"
+  },
+  "arctic_id_global": {
+    "display_name": "REDMI A7 Pro/POCO C81 Pro",
+    "display_name_en": "REDMI A7 Pro/POCO C81 Pro"
+  },
+  "arctic_in_global": {
+    "display_name": "REDMI A7 Pro/POCO C81",
+    "display_name_en": "REDMI A7 Pro/POCO C81"
+  },
+  "arctic_lm_cr_global": {
+    "display_name": "REDMI A7 Pro",
+    "display_name_en": "REDMI A7 Pro"
+  },
+  "arctic_mx_tc_global": {
+    "display_name": "REDMI A7 Pro",
+    "display_name_en": "REDMI A7 Pro"
+  },
+  "arctic_pre_dc_global": {
+    "display_name": "REDMI A7 Pro",
+    "display_name_en": "REDMI A7 Pro"
+  },
+  "arctic_pre_eea_global": {
+    "display_name": "POCO C81 Pro",
+    "display_name_en": "POCO C81 Pro"
+  },
+  "arctic_pre_global": {
+    "display_name": "POCO C81 Pro/REDMI A7 Pro",
+    "display_name_en": "POCO C81 Pro/REDMI A7 Pro"
+  },
+  "arctic_pre_id_global": {
+    "display_name": "REDMI A7 Pro",
+    "display_name_en": "REDMI A7 Pro"
+  },
+  "arctic_pre_in_global": {
+    "display_name": "REDMI A7 Pro",
+    "display_name_en": "REDMI A7 Pro"
+  },
+  "arctic_pre_lm_cr_global": {
+    "display_name": "REDMI A7 Pro",
+    "display_name_en": "REDMI A7 Pro"
+  },
+  "arctic_pre_mx_tc_global": {
+    "display_name": "REDMI A7 Pro",
+    "display_name_en": "REDMI A7 Pro"
+  },
+  "arctic_pre_ru_global": {
+    "display_name": "REDMI A7 Pro",
+    "display_name_en": "REDMI A7 Pro"
+  },
+  "arctic_pre_tr_global": {
+    "display_name": "POCO C81 Pro/REDMI A7 Pro",
+    "display_name_en": "POCO C81 Pro/REDMI A7 Pro"
+  },
+  "arctic_pre_wt_global": {
+    "display_name": "REDMI A7 Pro",
+    "display_name_en": "REDMI A7 Pro"
+  },
+  "arctic_ru_global": {
+    "display_name": "REDMI A7 Pro/POCO C81 Pro",
+    "display_name_en": "REDMI A7 Pro/POCO C81 Pro"
+  },
+  "arctic_tr_global": {
+    "display_name": "POCO C81 Pro/REDMI A7 Pro",
+    "display_name_en": "POCO C81 Pro/REDMI A7 Pro"
+  },
+  "arctic_wt_global": {
+    "display_name": "REDMI A7 Pro",
+    "display_name_en": "REDMI A7 Pro"
+  },
   "arctictale_global": {
     "display_name": "XM-ARCTICTALE-GLOBAL",
     "display_name_en": "XM-ARCTICTALE-GLOBAL"
