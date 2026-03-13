@@ -2440,6 +2440,13 @@
    "`220333QPI`": "POCO C40 India"
   }
  },
+ "somalia": {
+  "internal_name": "P25",
+  "name": "POCO C85x 5G",
+  "models": {
+   "`26020PC1AI`": "POCO C85x 5G India"
+  }
+ },
  "mocha": {
   "internal_name": "X6",
   "name": "Mi Pad",
