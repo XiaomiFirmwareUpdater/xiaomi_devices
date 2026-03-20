@@ -297,6 +297,7 @@ lancelot_global - F
 lancelot_ru_global - F
 lancelot_tr_global - F
 lapis_dc_global - F
+lapis_eea_global - F
 lapis_global - F
 lapis_tw_global - F
 laurel_sprout_eea_global - F
