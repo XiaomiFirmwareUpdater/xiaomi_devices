@@ -462,6 +462,18 @@
   }
  },
  {
+  "klee": {
+   "name": "POCO X8 Pro",
+   "model": "2511FPC34G"
+  }
+ },
+ {
+  "klee": {
+   "name": "POCO X8 Pro",
+   "model": "2511FPC34I"
+  }
+ },
+ {
   "onyx": {
    "name": "Poco F7",
    "model": "25053PC47G"
