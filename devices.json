@@ -564,6 +564,18 @@
   }
  },
  {
+  "tornado": {
+   "name": "REDMI 15C 5G",
+   "model": "2508CRN2BI"
+  }
+ },
+ {
+  "arctic": {
+   "name": "REDMI A7 Pro",
+   "model": "25128RN17A"
+  }
+ },
+ {
   "turner": {
    "name": "REDMI K Pad",
    "model": "25079RPDCC"
@@ -1143,12 +1155,6 @@
   "tornado": {
    "name": "Redmi 15C 5G",
    "model": "2508CRN2BE"
-  }
- },
- {
-  "tornado": {
-   "name": "Redmi 15C 5G",
-   "model": "2508CRN2BI"
   }
  },
  {
