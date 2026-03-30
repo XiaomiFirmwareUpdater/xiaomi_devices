@@ -432,39 +432,9 @@
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "Redmi Note 11 Pro+ 5G (ru)",
-     "sku": "pissarro_ru_global",
-     "projectCode": "K16/K16U"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Redmi Note 11 Pro+ 5G (tw)",
-     "sku": "pissarro_tw_global",
-     "projectCode": "K16/K16U"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Redmi Note 11 Pro+ 5G (tr)",
-     "sku": "pissarro_tr_global",
-     "projectCode": "K16/K16U"
-    },
-    {
-     "brand": "Xiaomi",
      "deviceName": "Xiaomi Pad 5 (in)",
      "sku": "nabu_in_global",
      "projectCode": "K82"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Redmi Note 11 Pro (cn)",
-     "sku": "pissarro",
-     "projectCode": "K16/K16U"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Redmi Note 11 Pro+ (cn)",
-     "sku": "pissarro",
-     "projectCode": "K16/K16U"
     },
     {
      "brand": "Xiaomi",
@@ -612,9 +582,21 @@
     },
     {
      "brand": "Xiaomi",
+     "deviceName": "XM-SWEET-SOTER-GLOBAL (global)",
+     "sku": "sweet_soter_global",
+     "projectCode": "K6"
+    },
+    {
+     "brand": "Xiaomi",
      "deviceName": "XM-COURBET-SOTER-GLOBAL (global)",
      "sku": "courbet_soter_global",
      "projectCode": "K9A"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "XM-MATISSE-SOTER (cn)",
+     "sku": "matisse_soter",
+     "projectCode": "L11"
     },
     {
      "brand": "Xiaomi",
@@ -643,12 +625,6 @@
     {
      "brand": "Xiaomi",
      "deviceName": "Mi 11 Pro (cn)",
-     "sku": "",
-     "projectCode": ""
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "Redmi Note 11 Pro+ 5G (global)",
      "sku": "",
      "projectCode": ""
     }
@@ -1152,6 +1128,12 @@
     },
     {
      "brand": "Redmi",
+     "deviceName": "Redmi Note 11S (eea)",
+     "sku": "fleur_eea_by_global",
+     "projectCode": "K7S/K7P/K7SL/K7SN"
+    },
+    {
+     "brand": "Redmi",
      "deviceName": "Redmi Note 10T (jp)",
      "sku": "lilac_jp_global",
      "projectCode": "K19K"
@@ -1173,6 +1155,24 @@
      "deviceName": "Redmi Note 11 Pro (tr)",
      "sku": "viva_tr_global",
      "projectCode": "K6T"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 11 Pro+ 5G (ru)",
+     "sku": "pissarro_ru_global",
+     "projectCode": "K16/K16U"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 11 Pro+ 5G (tw)",
+     "sku": "pissarro_tw_global",
+     "projectCode": "K16/K16U"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 11 Pro+ 5G (tr)",
+     "sku": "pissarro_tr_global",
+     "projectCode": "K16/K16U"
     },
     {
      "brand": "Redmi",
@@ -1200,15 +1200,15 @@
     },
     {
      "brand": "Redmi",
-     "deviceName": "POCO X4 GT (tw)",
-     "sku": "xaga_tw_global",
-     "projectCode": "L16/L16U"
+     "deviceName": "Redmi Note 11 Pro (cn)",
+     "sku": "pissarro",
+     "projectCode": "K16/K16U"
     },
     {
      "brand": "Redmi",
-     "deviceName": "POCO X4 GT (eea)",
-     "sku": "xaga_eea_global",
-     "projectCode": "L16/L16U"
+     "deviceName": "Redmi Note 11 Pro+ (cn)",
+     "sku": "pissarro",
+     "projectCode": "K16/K16U"
     },
     {
      "brand": "Redmi",
@@ -1254,26 +1254,8 @@
     },
     {
      "brand": "Redmi",
-     "deviceName": "POCO X4 GT (ru)",
-     "sku": "xaga_ru_global",
-     "projectCode": "L16/L16U"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "POCO X4 GT (global)",
-     "sku": "xaga_global",
-     "projectCode": "L16/L16U"
-    },
-    {
-     "brand": "Redmi",
      "deviceName": "Redmi K50i (in)",
      "sku": "xaga_in_global",
-     "projectCode": "L16/L16U"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "POCO X4 GT (tr)",
-     "sku": "xaga_tr_global",
      "projectCode": "L16/L16U"
     },
     {
@@ -1290,9 +1272,39 @@
     },
     {
      "brand": "Redmi",
+     "deviceName": "Redmi 11 Prime (in)",
+     "sku": "rock_in_global",
+     "projectCode": "L19A/L19C"
+    },
+    {
+     "brand": "Redmi",
      "deviceName": "Redmi Pad (cn)",
      "sku": "yunluo",
      "projectCode": "L83"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi A1+ (ru)",
+     "sku": "ice_ru_global",
+     "projectCode": "C3S/C3SL/C3SF/C3SP"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi A1 (in)",
+     "sku": "ice_in_global",
+     "projectCode": "C3S/C3SL/C3SF/C3SP"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi A1+ (in)",
+     "sku": "ice_in_global",
+     "projectCode": "C3S/C3SL/C3SF/C3SP"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi A1 (eea)",
+     "sku": "ice_eea_global",
+     "projectCode": "C3S/C3SL/C3SF/C3SP"
     },
     {
      "brand": "Redmi",
@@ -1302,15 +1314,51 @@
     },
     {
      "brand": "Redmi",
-     "deviceName": "XM-SWEET-SOTER-GLOBAL (global)",
-     "sku": "sweet_soter_global",
-     "projectCode": "K6"
+     "deviceName": "Redmi A1 (global)",
+     "sku": "ice_global",
+     "projectCode": "C3S/C3SL/C3SF/C3SP"
     },
     {
      "brand": "Redmi",
-     "deviceName": "XM-MATISSE-SOTER (cn)",
-     "sku": "matisse_soter",
-     "projectCode": "L11"
+     "deviceName": "Redmi A1+ (global)",
+     "sku": "ice_global",
+     "projectCode": "C3S/C3SL/C3SF/C3SP"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi A1 (id)",
+     "sku": "ice_id_global",
+     "projectCode": "C3S/C3SL/C3SF/C3SP"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi A1+ (tw)",
+     "sku": "ice_tw_global",
+     "projectCode": "C3S/C3SL/C3SF/C3SP"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi A1 (tw)",
+     "sku": "ice_tw_global",
+     "projectCode": "C3S/C3SL/C3SF/C3SP"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi K50G (cn)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 11S (global)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 11S (ru)",
+     "sku": "",
+     "projectCode": ""
     },
     {
      "brand": "Redmi",
@@ -1332,6 +1380,12 @@
     },
     {
      "brand": "Redmi",
+     "deviceName": "Redmi K40S (cn)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
      "deviceName": "Redmi 10A (cn)",
      "sku": "",
      "projectCode": ""
@@ -1344,7 +1398,85 @@
     },
     {
      "brand": "Redmi",
+     "deviceName": "Redmi Note 11 Pro+ 5G (global)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
      "deviceName": "Redmi Note 11 5G (CN)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi A2 (tw)",
+     "sku": "water_tw_global",
+     "projectCode": "C3S2/CSL2/CSF2/CSP2"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi A2+ (ru)",
+     "sku": "water_ru_global",
+     "projectCode": "C3S2/CSL2/CSF2/CSP2"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi A2+ (in)",
+     "sku": "water_in_global",
+     "projectCode": "C3S2/CSL2/CSF2/CSP2"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi A2 (in)",
+     "sku": "water_in_global",
+     "projectCode": "C3S2/CSL2/CSF2/CSP2"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi A2 (id)",
+     "sku": "water_id_global",
+     "projectCode": "C3S2/CSL2/CSF2/CSP2"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi A2 (eea)",
+     "sku": "water_eea_global",
+     "projectCode": "C3S2/CSL2/CSF2/CSP2"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi A2+ (global)",
+     "sku": "water_global",
+     "projectCode": "C3S2/CSL2/CSF2/CSP2"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi A2 (global)",
+     "sku": "water_global",
+     "projectCode": "C3S2/CSL2/CSF2/CSP2"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 12 5G/Redmi Note 12R Pro (cn)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 12 Pro Speed (cn)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi K60",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi K60E",
      "sku": "",
      "projectCode": ""
     }
@@ -1492,12 +1624,6 @@
     },
     {
      "brand": "POCO",
-     "deviceName": "Redmi Note 11S (eea)",
-     "sku": "fleur_eea_by_global",
-     "projectCode": "K7S/K7P/K7SL/K7SN"
-    },
-    {
-     "brand": "POCO",
      "deviceName": "POCO F4 GT (eea)",
      "sku": "ingres_eea_global",
      "projectCode": "L10"
@@ -1525,6 +1651,18 @@
      "deviceName": "POCO F4 GT (tr)",
      "sku": "ingres_tr_global",
      "projectCode": "L10"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO X4 GT (tw)",
+     "sku": "xaga_tw_global",
+     "projectCode": "L16/L16U"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO X4 GT (eea)",
+     "sku": "xaga_eea_global",
+     "projectCode": "L16/L16U"
     },
     {
      "brand": "POCO",
@@ -1564,6 +1702,18 @@
     },
     {
      "brand": "POCO",
+     "deviceName": "POCO X4 GT (ru)",
+     "sku": "xaga_ru_global",
+     "projectCode": "L16/L16U"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO X4 GT (global)",
+     "sku": "xaga_global",
+     "projectCode": "L16/L16U"
+    },
+    {
+     "brand": "POCO",
      "deviceName": "POCO F4 (tr)",
      "sku": "munch_tr_global",
      "projectCode": "L11R"
@@ -1588,6 +1738,12 @@
     },
     {
      "brand": "POCO",
+     "deviceName": "POCO X4 GT (tr)",
+     "sku": "xaga_tr_global",
+     "projectCode": "L16/L16U"
+    },
+    {
+     "brand": "POCO",
      "deviceName": "POCO M5 (eea)",
      "sku": "rock_eea_global",
      "projectCode": "L19A/L19C"
@@ -1603,12 +1759,6 @@
      "deviceName": "POCO C40 (id)",
      "sku": "frost_id_global",
      "projectCode": "C3QP"
-    },
-    {
-     "brand": "POCO",
-     "deviceName": "Redmi 11 Prime (in)",
-     "sku": "rock_in_global",
-     "projectCode": "L19A/L19C"
     },
     {
      "brand": "POCO",
@@ -1630,32 +1780,8 @@
     },
     {
      "brand": "POCO",
-     "deviceName": "Redmi A1+ (ru)",
-     "sku": "ice_ru_global",
-     "projectCode": "C3S/C3SL/C3SF/C3SP"
-    },
-    {
-     "brand": "POCO",
-     "deviceName": "Redmi A1 (in)",
-     "sku": "ice_in_global",
-     "projectCode": "C3S/C3SL/C3SF/C3SP"
-    },
-    {
-     "brand": "POCO",
-     "deviceName": "Redmi A1+ (in)",
-     "sku": "ice_in_global",
-     "projectCode": "C3S/C3SL/C3SF/C3SP"
-    },
-    {
-     "brand": "POCO",
      "deviceName": "POCO C50 (in)",
      "sku": "ice_in_global",
-     "projectCode": "C3S/C3SL/C3SF/C3SP"
-    },
-    {
-     "brand": "POCO",
-     "deviceName": "Redmi A1 (eea)",
-     "sku": "ice_eea_global",
      "projectCode": "C3S/C3SL/C3SF/C3SP"
     },
     {
@@ -1684,27 +1810,9 @@
     },
     {
      "brand": "POCO",
-     "deviceName": "Redmi A1 (global)",
-     "sku": "ice_global",
-     "projectCode": "C3S/C3SL/C3SF/C3SP"
-    },
-    {
-     "brand": "POCO",
-     "deviceName": "Redmi A1+ (global)",
-     "sku": "ice_global",
-     "projectCode": "C3S/C3SL/C3SF/C3SP"
-    },
-    {
-     "brand": "POCO",
      "deviceName": "POCO M5s (global)",
      "sku": "rosemary_p_global",
      "projectCode": "K7BP"
-    },
-    {
-     "brand": "POCO",
-     "deviceName": "Redmi A1 (id)",
-     "sku": "ice_id_global",
-     "projectCode": "C3S/C3SL/C3SF/C3SP"
     },
     {
      "brand": "POCO",
@@ -1732,18 +1840,6 @@
     },
     {
      "brand": "POCO",
-     "deviceName": "Redmi A1+ (tw)",
-     "sku": "ice_tw_global",
-     "projectCode": "C3S/C3SL/C3SF/C3SP"
-    },
-    {
-     "brand": "POCO",
-     "deviceName": "Redmi A1 (tw)",
-     "sku": "ice_tw_global",
-     "projectCode": "C3S/C3SL/C3SF/C3SP"
-    },
-    {
-     "brand": "POCO",
      "deviceName": "POCO M5 (id)",
      "sku": "rock_id_global",
      "projectCode": "L19A/L19C"
@@ -1762,36 +1858,24 @@
     },
     {
      "brand": "POCO",
-     "deviceName": "Redmi K50G (cn)",
-     "sku": "",
-     "projectCode": ""
-    },
-    {
-     "brand": "POCO",
-     "deviceName": "Redmi Note 11S (global)",
-     "sku": "",
-     "projectCode": ""
-    },
-    {
-     "brand": "POCO",
      "deviceName": "POCO M4 Pro",
      "sku": "",
      "projectCode": ""
     },
     {
      "brand": "POCO",
-     "deviceName": "Redmi Note 11S (ru)",
-     "sku": "",
-     "projectCode": ""
+     "deviceName": "POCO C51 (ru)",
+     "sku": "water_ru_global",
+     "projectCode": "C3S2/CSL2/CSF2/CSP2"
     },
     {
      "brand": "POCO",
-     "deviceName": "Redmi K40S (cn)",
-     "sku": "",
-     "projectCode": ""
+     "deviceName": "POCO C51 (in)",
+     "sku": "water_in_global",
+     "projectCode": "C3S2/CSL2/CSF2/CSP2"
     }
    ]
   }
  ],
- "updateAt": "2026-02-27T23:54:12.000Z"
+ "updateAt": "2026-03-29T20:37:56.000Z"
 }
