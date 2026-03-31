@@ -118,6 +118,8 @@ dandelion_eea_global - F
 dandelion_global - F
 dandelion_id_global - F
 dandelion_ru_global - F
+dash_global - F
+dash_tw_global - F
 degas_dc_global - F
 degas_eea_global - F
 degas_global - F
@@ -260,6 +262,8 @@ joyeuse_global - F
 joyeuse_id_global - F
 joyeuse_ru_global - F
 joyeuse_tw_global - F
+klee_global - F
+klee_tw_global - F
 klein_global - F
 klein_in_global - F
 klein_ru_global - F
@@ -283,6 +287,7 @@ kunzite_global - F
 kunzite_id_global - F
 kunzite_in_global - F
 kunzite_ru_global - F
+kunzite_tw_global - F
 kunzite_tw_global - F
 lake_eea_global - F
 lake_eea_global - F
