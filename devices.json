@@ -474,6 +474,18 @@
   }
  },
  {
+  "dash": {
+   "name": "POCO X8 Pro Max",
+   "model": "2602BPC18G"
+  }
+ },
+ {
+  "dash": {
+   "name": "POCO X8 Pro Max",
+   "model": "2602BPC18I"
+  }
+ },
+ {
   "onyx": {
    "name": "Poco F7",
    "model": "25053PC47G"
@@ -537,30 +549,6 @@
   "marblein": {
    "name": "POCO F5",
    "model": "23049PCD8I"
-  }
- },
- {
-  "dew": {
-   "name": "REDMI 15C",
-   "model": "25078RA3EA"
-  }
- },
- {
-  "dew": {
-   "name": "REDMI 15C",
-   "model": "25078RA3EE"
-  }
- },
- {
-  "dew": {
-   "name": "REDMI 15C",
-   "model": "25078RA3EL"
-  }
- },
- {
-  "dew": {
-   "name": "REDMI 15C",
-   "model": "25078RA3EY"
   }
  },
  {
@@ -1149,6 +1137,30 @@
   "spring": {
    "name": "Redmi 15 5G",
    "model": "A501XM"
+  }
+ },
+ {
+  "dew": {
+   "name": "Redmi 15C",
+   "model": "25078RA3EA"
+  }
+ },
+ {
+  "dew": {
+   "name": "Redmi 15C",
+   "model": "25078RA3EE"
+  }
+ },
+ {
+  "dew": {
+   "name": "Redmi 15C",
+   "model": "25078RA3EL"
+  }
+ },
+ {
+  "dew": {
+   "name": "Redmi 15C",
+   "model": "25078RA3EY"
   }
  },
  {
@@ -2661,6 +2673,12 @@
   "lmiin": {
    "name": "K30 pro",
    "model": "Redmi K30 Pro 5G"
+  }
+ },
+ {
+  "nezha": {
+   "name": "Leitzphone powered by Xiaomi",
+   "model": "2512BPNDAG"
   }
  },
  {
