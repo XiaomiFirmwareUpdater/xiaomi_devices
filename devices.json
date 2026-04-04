@@ -564,6 +564,18 @@
   }
  },
  {
+  "arctic": {
+   "name": "REDMI A7 Pro",
+   "model": "25128RN17L"
+  }
+ },
+ {
+  "arctic": {
+   "name": "REDMI A7 Pro",
+   "model": "25128RN17Y"
+  }
+ },
+ {
   "turner": {
    "name": "REDMI K Pad",
    "model": "25079RPDCC"
