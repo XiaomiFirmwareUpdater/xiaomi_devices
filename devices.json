@@ -5647,6 +5647,10 @@
     "display_name": "Xiaomi 15T Pro",
     "display_name_en": "Xiaomi 15T Pro"
   },
+  "klimt_dpp_global": {
+    "display_name": "Xiaomi 15T Pro",
+    "display_name_en": "Xiaomi 15T Pro"
+  },
   "klimt_eea_global": {
     "display_name": "Xiaomi 15T Pro",
     "display_name_en": "Xiaomi 15T Pro"
@@ -7719,6 +7723,10 @@
     "display_name": "XM-NEZHA-DC-GLOBAL",
     "display_name_en": "XM-NEZHA-DC-GLOBAL"
   },
+  "nezha_dpp_global": {
+    "display_name": "XM-NEZHA-DPP-GLOBAL",
+    "display_name_en": "XM-NEZHA-DPP-GLOBAL"
+  },
   "nezha_eea_global": {
     "display_name": "XM-NEZHA-EEA-GLOBAL",
     "display_name_en": "XM-NEZHA-EEA-GLOBAL"
@@ -8834,6 +8842,10 @@
   "pudding_dc_global": {
     "display_name": "XM-PUDDING-DC-GLOBAL",
     "display_name_en": "XM-PUDDING-DC-GLOBAL"
+  },
+  "pudding_dpp_global": {
+    "display_name": "XM-PUDDING-DPP-GLOBAL",
+    "display_name_en": "XM-PUDDING-DPP-GLOBAL"
   },
   "pudding_eea_global": {
     "display_name": "XM-PUDDING-EEA-GLOBAL",
