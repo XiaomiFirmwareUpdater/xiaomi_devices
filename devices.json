@@ -582,6 +582,12 @@
   }
  },
  {
+  "somalia": {
+   "name": "REDMI A7 Pro 5G",
+   "model": "26020RN1AI"
+  }
+ },
+ {
   "turner": {
    "name": "REDMI K Pad",
    "model": "25079RPDCC"
@@ -717,6 +723,12 @@
   "flourite": {
    "name": "REDMI Note 15 Pro+5G",
    "model": "2510ERA8BI"
+  }
+ },
+ {
+  "kunzite": {
+   "name": "REDMI Note 15 SE 5G",
+   "model": "26022PCACI"
   }
  },
  {
