@@ -644,6 +644,21 @@
    "`25128PNA1C`": "Xiaomi 17 Ultra by Leica (China, Tiantong & Beidou satellites)"
   }
  },
+ "chagall": {
+  "internal_name": "P12A",
+  "name": "Xiaomi 17T",
+  "models": {
+   "`2602DPT53G`": "Xiaomi 17T Global"
+  }
+ },
+ "warhol": {
+  "internal_name": "P12U",
+  "name": "Xiaomi 17T Pro",
+  "models": {
+   "`2602EPTC0G`": "Xiaomi 17T Pro Global",
+   "`2602EPTC0R`": "Xiaomi 17T Pro Japan (SIM Free)"
+  }
+ },
  "virgo": {
   "internal_name": "X5",
   "name": "Mi Note",
@@ -1351,7 +1366,7 @@
  },
  "spring": {
   "internal_name": "O19",
-  "name": "REDMI 15 5G/REDMI Note 15R/POCO M7 Plus 5G",
+  "name": "REDMI 15 5G/REDMI Note 15R/POCO M7 Plus 5G/POCO M8s 5G",
   "models": {
    "`25057RN09G`": "REDMI 15 5G Global",
    "`25057RN09E`": "REDMI 15 5G Europe",
@@ -1359,7 +1374,9 @@
    "`25057RN09R`": "REDMI 15 5G Japan (SIM Free)",
    "`A501XM`": "REDMI 15 5G Japan (SoftBank)",
    "`25057RA09C`": "REDMI Note 15R China",
-   "`25057PC09I`": "POCO M7 Plus 5G India"
+   "`25057PC09I`": "POCO M7 Plus 5G India",
+   "`26067PC09G`": "POCO M8s 5G Global",
+   "`26067PC09E`": "POCO M8s 5G Europe"
   }
  },
  "dew": {
@@ -1385,6 +1402,16 @@
    "`2508CRN2BR`": "REDMI 15C 5G Japan",
    "`25082RNC1C`": "REDMI 15R 5G China",
    "`2508CPC2BI`": "POCO C85 5G India"
+  }
+ },
+ "somalia": {
+  "internal_name": "P25",
+  "name": "REDMI 15A 5G/REDMI A7 Pro 5G/REDMI R70 5G/REDMI R70m 5G/POCO C85x 5G",
+  "models": {
+   "`2602BRNA4I`": "REDMI 15A 5G India",
+   "`26020RN1AI`": "REDMI A7 Pro 5G India",
+   "`26020RN1AC`": "REDMI R70 5G China / REDMI R70m 5G China",
+   "`26020PC1AI`": "POCO C85x 5G India"
   }
  },
  "lcsh92_wet_gb9": {
@@ -1968,13 +1995,14 @@
  },
  "kunzite": {
   "internal_name": "P17",
-  "name": "REDMI Note 15 5G/POCO M8 5G",
+  "name": "REDMI Note 15 5G/REDMI Note 15 SE 5G/POCO M8 5G",
   "models": {
    "`25098RA98G`": "REDMI Note 15 5G Global",
    "`25098RA98E`": "REDMI Note 15 5G Europe",
    "`25098RA98I`": "REDMI Note 15 5G India",
    "`25098RA98C`": "REDMI Note 15 5G China",
    "`25098RA98T`": "REDMI Note 15 5G Saudi Arabia",
+   "`26022PCACI`": "REDMI Note 15 SE 5G India",
    "`25118PC98G`": "POCO M8 5G Global",
    "`25118PC98I`": "POCO M8 5G India"
   }
@@ -2247,6 +2275,13 @@
    "`25102PCBEG`": "POCO F8 Ultra Global"
   }
  },
+ "prague": {
+  "internal_name": "P12",
+  "name": "REDMI K90 Max",
+  "models": {
+   "`2604FRK1EC`": "REDMI K90 Max"
+  }
+ },
  "omega": {
   "internal_name": "H3C",
   "name": "Redmi Pro",
@@ -2438,13 +2473,6 @@
   "models": {
    "`220333QPG`": "POCO C40 Global",
    "`220333QPI`": "POCO C40 India"
-  }
- },
- "somalia": {
-  "internal_name": "P25",
-  "name": "POCO C85x 5G",
-  "models": {
-   "`26020PC1AI`": "POCO C85x 5G India"
   }
  },
  "mocha": {
@@ -2685,18 +2713,30 @@
    "`2509BRP2DC`": "REDMI Pad 2 Pro 5G China"
   }
  },
+ "": {
+  "internal_name": "P85/P85X/K91",
+  "name": "REDMI Pad 2 9.7/REDMI Pad 2 SE:/REDMI Pad 2 9.7 4G/REDMI Pad 2 SE 4G:/Xiaomi CyberDog:",
+  "models": {
+   "`2603ARP14G`": "REDMI Pad 2 9.7 Global",
+   "`2603ARP14C`": "REDMI Pad 2 SE China",
+   "`2604ERP4DG`": "REDMI Pad 2 9.7 4G Global",
+   "`2604ERP4DI`": "REDMI Pad 2 9.7 4G India",
+   "`2604ERP4DC`": "REDMI Pad 2 SE 4G China",
+   "`21051191C`": "Xiaomi CyberDog Bio-inspired Quadruped Robot"
+  }
+ },
+ "yili": {
+  "internal_name": "P88",
+  "name": "REDMI K Pad 2",
+  "models": {
+   "`26048RP6AC`": "REDMI K Pad 2 China"
+  }
+ },
  "Babel": {
   "internal_name": "",
   "name": "Xiaomi Mijia Translator (`Babel`)",
   "models": {
    "`FYJ01QP`": "Xiaomi Mijia Translator"
-  }
- },
- "": {
-  "internal_name": "K91",
-  "name": "Xiaomi CyberDog:",
-  "models": {
-   "`21051191C`": "Xiaomi CyberDog Bio-inspired Quadruped Robot"
   }
  },
  "konghou": {
