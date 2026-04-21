@@ -1064,8 +1064,8 @@
     "display_name_en": "POCO M7 Pro 5G/Redmi Note 14 5G"
   },
   "beryl_tw_global": {
-    "display_name": "Redmi Note 14 5G/POCO M7 Pro 5G",
-    "display_name_en": "Redmi Note 14 5G/POCO M7 Pro 5G"
+    "display_name": "POCO M7 Pro 5G/Redmi Note 14 5G",
+    "display_name_en": "POCO M7 Pro 5G/Redmi Note 14 5G"
   },
   "beryllium_global": {
     "display_name": "POCO F1",
@@ -3503,6 +3503,74 @@
     "display_name": "MI 8 Pro",
     "display_name_en": "MI 8 Pro"
   },
+  "erhu": {
+    "display_name": "REDMI Pad 2 SE 4G",
+    "display_name_en": "REDMI Pad 2 SE 4G"
+  },
+  "erhu_dc_global": {
+    "display_name": "XM-ERHU-DC-GLOBAL",
+    "display_name_en": "XM-ERHU-DC-GLOBAL"
+  },
+  "erhu_eea_global": {
+    "display_name": "XM-ERHU-EEA-GLOBAL",
+    "display_name_en": "XM-ERHU-EEA-GLOBAL"
+  },
+  "erhu_global": {
+    "display_name": "XM-ERHU-GLOBAL",
+    "display_name_en": "XM-ERHU-GLOBAL"
+  },
+  "erhu_id_global": {
+    "display_name": "XM-ERHU-ID-GLOBAL",
+    "display_name_en": "XM-ERHU-ID-GLOBAL"
+  },
+  "erhu_in_global": {
+    "display_name": "XM-ERHU-IN-GLOBAL",
+    "display_name_en": "XM-ERHU-IN-GLOBAL"
+  },
+  "erhu_pre_dc_global": {
+    "display_name": "XM-ERHU-PRE-DC-GLOBAL",
+    "display_name_en": "XM-ERHU-PRE-DC-GLOBAL"
+  },
+  "erhu_pre_eea_global": {
+    "display_name": "XM-ERHU-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-ERHU-PRE-EEA-GLOBAL"
+  },
+  "erhu_pre_global": {
+    "display_name": "XM-ERHU-PRE-GLOBAL",
+    "display_name_en": "XM-ERHU-PRE-GLOBAL"
+  },
+  "erhu_pre_id_global": {
+    "display_name": "XM-ERHU-PRE-ID-GLOBAL",
+    "display_name_en": "XM-ERHU-PRE-ID-GLOBAL"
+  },
+  "erhu_pre_in_global": {
+    "display_name": "XM-ERHU-PRE-IN-GLOBAL",
+    "display_name_en": "XM-ERHU-PRE-IN-GLOBAL"
+  },
+  "erhu_pre_ru_global": {
+    "display_name": "XM-ERHU-PRE-RU-GLOBAL",
+    "display_name_en": "XM-ERHU-PRE-RU-GLOBAL"
+  },
+  "erhu_pre_tr_global": {
+    "display_name": "XM-ERHU-PRE-TR-GLOBAL",
+    "display_name_en": "XM-ERHU-PRE-TR-GLOBAL"
+  },
+  "erhu_pre_tw_global": {
+    "display_name": "XM-ERHU-PRE-TW-GLOBAL",
+    "display_name_en": "XM-ERHU-PRE-TW-GLOBAL"
+  },
+  "erhu_ru_global": {
+    "display_name": "XM-ERHU-RU-GLOBAL",
+    "display_name_en": "XM-ERHU-RU-GLOBAL"
+  },
+  "erhu_tr_global": {
+    "display_name": "XM-ERHU-TR-GLOBAL",
+    "display_name_en": "XM-ERHU-TR-GLOBAL"
+  },
+  "erhu_tw_global": {
+    "display_name": "XM-ERHU-TW-GLOBAL",
+    "display_name_en": "XM-ERHU-TW-GLOBAL"
+  },
   "evergo": {
     "display_name": "Redmi Note 11 5G",
     "display_name_en": "Redmi Note 11 5G"
@@ -4946,6 +5014,58 @@
   "gucci_global": {
     "display_name": "HM NOTE 1S CT",
     "display_name_en": "HM NOTE 1S CT"
+  },
+  "guitar": {
+    "display_name": "REDMI Pad 2 SE",
+    "display_name_en": "REDMI Pad 2 SE"
+  },
+  "guitar_eea_global": {
+    "display_name": "XM-GUITAR-EEA-GLOBAL",
+    "display_name_en": "XM-GUITAR-EEA-GLOBAL"
+  },
+  "guitar_global": {
+    "display_name": "XM-GUITAR-GLOBAL",
+    "display_name_en": "XM-GUITAR-GLOBAL"
+  },
+  "guitar_id_global": {
+    "display_name": "XM-GUITAR-ID-GLOBAL",
+    "display_name_en": "XM-GUITAR-ID-GLOBAL"
+  },
+  "guitar_pre_eea_global": {
+    "display_name": "XM-GUITAR-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-GUITAR-PRE-EEA-GLOBAL"
+  },
+  "guitar_pre_global": {
+    "display_name": "XM-GUITAR-PRE-GLOBAL",
+    "display_name_en": "XM-GUITAR-PRE-GLOBAL"
+  },
+  "guitar_pre_id_global": {
+    "display_name": "XM-GUITAR-PRE-ID-GLOBAL",
+    "display_name_en": "XM-GUITAR-PRE-ID-GLOBAL"
+  },
+  "guitar_pre_ru_global": {
+    "display_name": "XM-GUITAR-PRE-RU-GLOBAL",
+    "display_name_en": "XM-GUITAR-PRE-RU-GLOBAL"
+  },
+  "guitar_pre_tr_global": {
+    "display_name": "XM-GUITAR-PRE-TR-GLOBAL",
+    "display_name_en": "XM-GUITAR-PRE-TR-GLOBAL"
+  },
+  "guitar_pre_tw_global": {
+    "display_name": "XM-GUITAR-PRE-TW-GLOBAL",
+    "display_name_en": "XM-GUITAR-PRE-TW-GLOBAL"
+  },
+  "guitar_ru_global": {
+    "display_name": "XM-GUITAR-RU-GLOBAL",
+    "display_name_en": "XM-GUITAR-RU-GLOBAL"
+  },
+  "guitar_tr_global": {
+    "display_name": "XM-GUITAR-TR-GLOBAL",
+    "display_name_en": "XM-GUITAR-TR-GLOBAL"
+  },
+  "guitar_tw_global": {
+    "display_name": "XM-GUITAR-TW-GLOBAL",
+    "display_name_en": "XM-GUITAR-TW-GLOBAL"
   },
   "haotian": {
     "display_name": "Xiaomi 15 Pro",
@@ -8798,6 +8918,10 @@
   "prada_global": {
     "display_name": "Redmi 4",
     "display_name_en": "Redmi 4"
+  },
+  "prague": {
+    "display_name": "REDMI K90 Max",
+    "display_name_en": "REDMI K90 Max"
   },
   "psyche": {
     "display_name": "小米 12 X",
@@ -13270,6 +13394,10 @@
   "xun_tw_global": {
     "display_name": "Redmi Pad SE",
     "display_name_en": "Redmi Pad SE"
+  },
+  "yili": {
+    "display_name": "REDMI K Pad 2",
+    "display_name_en": "REDMI K Pad 2"
   },
   "ysl": {
     "display_name": "红米S2",
