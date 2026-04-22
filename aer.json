@@ -1,6 +1,19 @@
 {
  "items": [
   {
+   "id": 108,
+   "status": 1,
+   "deviceName": "REDMI A7 Pro",
+   "releaseDate": "2026-04",
+   "securityUpdateEol": "2032-04",
+   "updateFrequency": "90天",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 16",
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20",
+   "createdAt": "2026-04-14T07:47:26.000Z",
+   "updatedAt": "2026-04-22T07:07:52.000Z"
+  },
+  {
    "id": 104,
    "status": 1,
    "deviceName": "Xiaomi 17",
@@ -38,6 +51,32 @@
    "futureVersion": "Android 17,Android 18,Android 19,Android 20,Android 21",
    "createdAt": "2026-03-04T06:49:27.000Z",
    "updatedAt": "2026-03-09T07:26:53.000Z"
+  },
+  {
+   "id": 107,
+   "status": 1,
+   "deviceName": "Xiaomi Pad 8 Pro",
+   "releaseDate": "2026-02",
+   "securityUpdateEol": "2032-03",
+   "updateFrequency": "90天",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 16",
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20",
+   "createdAt": "2026-04-14T07:45:14.000Z",
+   "updatedAt": "2026-04-22T07:07:52.000Z"
+  },
+  {
+   "id": 109,
+   "status": 1,
+   "deviceName": "Xiaomi Pad 8",
+   "releaseDate": "2026-02",
+   "securityUpdateEol": "2032-03",
+   "updateFrequency": "90天",
+   "updateFrequencyTl": "90 Days",
+   "shippedVersion": "Android 16",
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20",
+   "createdAt": "2026-04-22T07:02:57.000Z",
+   "updatedAt": "2026-04-22T07:07:52.000Z"
   },
   {
    "id": 99,
@@ -1262,5 +1301,5 @@
    "updatedAt": "2024-03-11T15:46:51.000Z"
   }
  ],
- "total": 97
+ "total": 100
 }
