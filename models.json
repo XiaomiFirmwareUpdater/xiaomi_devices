@@ -2713,16 +2713,21 @@
    "`2509BRP2DC`": "REDMI Pad 2 Pro 5G China"
   }
  },
- "": {
-  "internal_name": "P85/P85X/K91",
-  "name": "REDMI Pad 2 9.7/REDMI Pad 2 SE:/REDMI Pad 2 9.7 4G/REDMI Pad 2 SE 4G:/Xiaomi CyberDog:",
+ "guitar": {
+  "internal_name": "P85",
+  "name": "REDMI Pad 2 9.7/REDMI Pad 2 SE",
   "models": {
    "`2603ARP14G`": "REDMI Pad 2 9.7 Global",
-   "`2603ARP14C`": "REDMI Pad 2 SE China",
+   "`2603ARP14C`": "REDMI Pad 2 SE China"
+  }
+ },
+ "erhu": {
+  "internal_name": "P85X",
+  "name": "REDMI Pad 2 9.7 4G/REDMI Pad 2 SE 4G",
+  "models": {
    "`2604ERP4DG`": "REDMI Pad 2 9.7 4G Global",
    "`2604ERP4DI`": "REDMI Pad 2 9.7 4G India",
-   "`2604ERP4DC`": "REDMI Pad 2 SE 4G China",
-   "`21051191C`": "Xiaomi CyberDog Bio-inspired Quadruped Robot"
+   "`2604ERP4DC`": "REDMI Pad 2 SE 4G China"
   }
  },
  "yili": {
@@ -2737,6 +2742,21 @@
   "name": "Xiaomi Mijia Translator (`Babel`)",
   "models": {
    "`FYJ01QP`": "Xiaomi Mijia Translator"
+  }
+ },
+ "": {
+  "internal_name": "K91/",
+  "name": "Xiaomi CyberDog:/Xiaomi EV Cockpit",
+  "models": {
+   "`21051191C`": "Xiaomi CyberDog Bio-inspired Quadruped Robot",
+   "`2405AVPB7C`": "Xiaomi EV Cockpit (SU7 2024/SU7 Ultra)"
+  }
+ },
+ "suiren": {
+  "internal_name": "",
+  "name": "Xiaomi EV Cockpit (`suiren`)",
+  "models": {
+   "`25033VP3FC`": "Xiaomi EV Cockpit (YU7/SU7 2026)"
   }
  },
  "konghou": {
