@@ -1949,11 +1949,11 @@
  },
  "beryl": {
   "internal_name": "O17/O17P",
-  "name": "Redmi Note 14 5G/Redmi Note 14 5G/Redmi Note 14 SE 5G/POCO M7 Pro 5G",
+  "name": "Redmi Note 14 5G/Redmi Note 14 5G/Redmi Note 14 SE 5G/REDMI Note 15R Pro/POCO M7 Pro 5G",
   "models": {
    "`24094RAD4G`": "Redmi Note 14 5G Global",
    "`24094RAD4I`": "Redmi Note 14 5G India / Redmi Note 14 SE 5G India",
-   "`24094RAD4C`": "Redmi Note 14 5G China",
+   "`24094RAD4C`": "Redmi Note 14 5G China / REDMI Note 15R Pro China",
    "`2409FPCC4G`": "POCO M7 Pro 5G Global"
   }
  },
