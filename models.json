@@ -2384,10 +2384,11 @@
  },
  "arctic": {
   "internal_name": "P25A",
-  "name": "REDMI A7 Pro",
+  "name": "REDMI A7 Pro/POCO C81",
   "models": {
    "`25128RN17A` `25128RN17Y`": "REDMI A7 Pro Global",
-   "`25128RN17L`": "REDMI A7 Pro Latin America"
+   "`25128RN17L`": "REDMI A7 Pro Latin America",
+   "`25128PC17I`": "POCO C81 India"
   }
  },
  "beryllium": {
