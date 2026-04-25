@@ -756,6 +756,12 @@
   }
  },
  {
+  "guitar": {
+   "name": "REDMI Pad 2 SE",
+   "model": "2603ARP14C"
+  }
+ },
+ {
   "rodin": {
    "name": "REDMI Turbo 4",
    "model": "24129RT7CC"
