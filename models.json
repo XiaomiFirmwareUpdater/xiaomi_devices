@@ -2371,23 +2371,30 @@
   }
  },
  "serenity": {
-  "internal_name": "C3Z",
-  "name": "REDMI A5/POCO C71",
+  "internal_name": "C3Z/C3ZR",
+  "name": "REDMI A5/REDMI A7/POCO C71/POCO C81x",
   "models": {
    "`25028RN03G` `25028RN03A` `25028RN03Y`": "REDMI A5 Global",
    "`25028RN03I`": "REDMI A5 India",
    "`25028RN03L`": "REDMI A5 Latin America",
+   "`26020RNB4A`": "REDMI A7 Global",
+   "`26020RNB4I`": "REDMI A7 India",
+   "`26020RNB4L`": "REDMI A7 Latin America",
    "`25028PC03G` `25028PC03Y`": "POCO C71 Global",
    "`25028PC03I`": "POCO C71 India",
-   "`25028PC03L`": "POCO C71 Latin America"
+   "`25028PC03L`": "POCO C71 Latin America",
+   "`26020PCB4I`": "POCO C81x India"
   }
  },
  "arctic": {
   "internal_name": "P25A",
-  "name": "REDMI A7 Pro/POCO C81",
+  "name": "REDMI A7 Pro/POCO C81/POCO C81 Pro",
   "models": {
    "`25128RN17A` `25128RN17Y`": "REDMI A7 Pro Global",
+   "`25128RN17I`": "REDMI A7 Pro India",
    "`25128RN17L`": "REDMI A7 Pro Latin America",
+   "`25128PC17G`": "POCO C81 Pro Global",
+   "`25128PC17L`": "POCO C81 Pro Latin America",
    "`25128PC17I`": "POCO C81 India"
   }
  },
