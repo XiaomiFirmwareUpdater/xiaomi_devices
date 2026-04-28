@@ -84,6 +84,12 @@
   }
  },
  {
+  "serenity": {
+   "name": "POCO C81x",
+   "model": "26020PCB4I"
+  }
+ },
+ {
   "dew": {
    "name": "POCO C85",
    "model": "25078PC3EE"
@@ -564,9 +570,21 @@
   }
  },
  {
+  "serenity": {
+   "name": "REDMI A7",
+   "model": "26020RNB4I"
+  }
+ },
+ {
   "arctic": {
    "name": "REDMI A7 Pro",
    "model": "25128RN17A"
+  }
+ },
+ {
+  "arctic": {
+   "name": "REDMI A7 Pro",
+   "model": "25128RN17I"
   }
  },
  {
@@ -741,6 +759,12 @@
   "spring": {
    "name": "REDMI Note 15R",
    "model": "25057RA09C"
+  }
+ },
+ {
+  "beryl": {
+   "name": "REDMI Note 15R Pro",
+   "model": "24094RAD4C"
   }
  },
  {
