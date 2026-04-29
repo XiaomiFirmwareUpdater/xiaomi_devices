@@ -33,6 +33,7 @@ apollo_eea_global - F
 apollo_global - F
 apollo_ru_global - F
 apollo_tw_global - F
+arctic_global - F
 ares_in_global - F
 aristotle_eea_global - F
 aristotle_global - F
@@ -159,6 +160,8 @@ emerald_r_global - F
 emerald_r_ru_global - F
 emerald_ru_global - F
 emerald_tr_global - F
+erhu_global - F
+erhu_tw_global - F
 evergreen_eea_global - F
 evergreen_global - F
 evergreen_ru_global - F
@@ -233,6 +236,8 @@ goya_dc_global - F
 goya_eea_global - F
 goya_global - F
 goya_tw_global - F
+guitar_global - F
+guitar_tw_global - F
 haydn_eea_global - F
 haydn_global - F
 haydn_in_global - F
