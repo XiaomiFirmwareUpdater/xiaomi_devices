@@ -90,6 +90,12 @@
   }
  },
  {
+  "arctic": {
+   "name": "POCO C81 Pro",
+   "model": "25128PC17G"
+  }
+ },
+ {
   "serenity": {
    "name": "POCO C81x",
    "model": "26020PCB4I"
