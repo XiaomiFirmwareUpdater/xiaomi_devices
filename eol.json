@@ -582,30 +582,6 @@
     },
     {
      "brand": "Xiaomi",
-     "deviceName": "XM-SWEET-SOTER-GLOBAL (global)",
-     "sku": "sweet_soter_global",
-     "projectCode": "K6"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "XM-COURBET-SOTER-GLOBAL (global)",
-     "sku": "courbet_soter_global",
-     "projectCode": "K9A"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "XM-MATISSE-SOTER (cn)",
-     "sku": "matisse_soter",
-     "projectCode": "L11"
-    },
-    {
-     "brand": "Xiaomi",
-     "deviceName": "XM-VENUS (cn)",
-     "sku": "",
-     "projectCode": ""
-    },
-    {
-     "brand": "Xiaomi",
      "deviceName": "Xiaomi 11i (in)",
      "sku": "",
      "projectCode": ""
@@ -1479,6 +1455,114 @@
      "deviceName": "Redmi K60E",
      "sku": "",
      "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 12 Turbo (cn)",
+     "sku": "marble",
+     "projectCode": "M16T"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 11 Pro 5G (tw)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 11 Pro 5G (tr)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 11 Pro 5G (global)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 11E Pro (cn)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 11 Pro+ 5G (in)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 11 Pro 5G (id)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 11 Pro 5G (jp)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 11 Pro 5G (ru)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 11 Pro 5G (eea)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 10C (global)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 10 Power (in)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 10 (in)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 10C (id)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 10C (tr)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 10C (tw)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 10C (ru)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 10C (eea)",
+     "sku": "",
+     "projectCode": ""
     }
    ]
   },
@@ -1873,9 +1957,51 @@
      "deviceName": "POCO C51 (in)",
      "sku": "water_in_global",
      "projectCode": "C3S2/CSL2/CSF2/CSP2"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO X4 Pro 5G (tw)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO X4 Pro 5G (tr)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO X4 Pro 5G (global)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO X4 Pro 5G (in)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO X4 Pro 5G (id)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO X4 Pro 5G (ru)",
+     "sku": "",
+     "projectCode": ""
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO X4 Pro 5G (eea)",
+     "sku": "",
+     "projectCode": ""
     }
    ]
   }
  ],
- "updateAt": "2026-03-29T20:37:56.000Z"
+ "updateAt": "2026-05-07T04:17:09.000Z"
 }
