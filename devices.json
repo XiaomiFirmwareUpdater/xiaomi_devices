@@ -19,6 +19,14 @@
     "display_name": "红米1S 移动4G",
     "display_name_en": "HM 1SLTETD"
   },
+  "adastra_global": {
+    "display_name": "XM-ADASTRA-GLOBAL",
+    "display_name_en": "XM-ADASTRA-GLOBAL"
+  },
+  "adastra_pre_global": {
+    "display_name": "XM-ADASTRA-PRE-GLOBAL",
+    "display_name_en": "XM-ADASTRA-PRE-GLOBAL"
+  },
   "adt001": {
     "display_name": "ADT001",
     "display_name_en": "ADT001"
@@ -1918,6 +1926,14 @@
   "cmi_pre_global": {
     "display_name": "Mi 10 Pro",
     "display_name_en": "Mi 10 Pro"
+  },
+  "coco_global": {
+    "display_name": "XM-COCO-GLOBAL",
+    "display_name_en": "XM-COCO-GLOBAL"
+  },
+  "coco_pre_global": {
+    "display_name": "XM-COCO-PRE-GLOBAL",
+    "display_name_en": "XM-COCO-PRE-GLOBAL"
   },
   "comet_global": {
     "display_name": "COMET-GLOBAL",
@@ -12190,6 +12206,14 @@
   "turner_tw_global": {
     "display_name": "Xiaomi Pad Mini",
     "display_name_en": "Xiaomi Pad Mini"
+  },
+  "twilight_global": {
+    "display_name": "XM-TWILIGHT-GLOBAL",
+    "display_name_en": "XM-TWILIGHT-GLOBAL"
+  },
+  "twilight_pre_global": {
+    "display_name": "XM-TWILIGHT-PRE-GLOBAL",
+    "display_name_en": "XM-TWILIGHT-PRE-GLOBAL"
   },
   "ugg": {
     "display_name": "红米Note5A 高配版",
