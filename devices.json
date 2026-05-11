@@ -1927,14 +1927,6 @@
     "display_name": "Mi 10 Pro",
     "display_name_en": "Mi 10 Pro"
   },
-  "coco_global": {
-    "display_name": "XM-COCO-GLOBAL",
-    "display_name_en": "XM-COCO-GLOBAL"
-  },
-  "coco_pre_global": {
-    "display_name": "XM-COCO-PRE-GLOBAL",
-    "display_name_en": "XM-COCO-PRE-GLOBAL"
-  },
   "comet_global": {
     "display_name": "COMET-GLOBAL",
     "display_name_en": "COMET-GLOBAL"
@@ -4339,14 +4331,6 @@
     "display_name": "POCO C40",
     "display_name_en": "POCO C40"
   },
-  "furiosa_global": {
-    "display_name": "XM-FURIOSA-GLOBAL",
-    "display_name_en": "XM-FURIOSA-GLOBAL"
-  },
-  "furiosa_pre_global": {
-    "display_name": "XM-FURIOSA-PRE-GLOBAL",
-    "display_name_en": "XM-FURIOSA-PRE-GLOBAL"
-  },
   "fuxi": {
     "display_name": "Xiaomi 13",
     "display_name_en": "Xiaomi 13"
@@ -5700,60 +5684,60 @@
     "display_name_en": "REDMI Turbo 5"
   },
   "klee_eea_global": {
-    "display_name": "XM-KLEE-EEA-GLOBAL",
-    "display_name_en": "XM-KLEE-EEA-GLOBAL"
+    "display_name": "POCO X8 Pro",
+    "display_name_en": "POCO X8 Pro"
   },
   "klee_global": {
-    "display_name": "XM-KLEE-GLOBAL",
-    "display_name_en": "XM-KLEE-GLOBAL"
+    "display_name": "POCO X8 Pro",
+    "display_name_en": "POCO X8 Pro"
   },
   "klee_id_global": {
-    "display_name": "XM-KLEE-ID-GLOBAL",
-    "display_name_en": "XM-KLEE-ID-GLOBAL"
+    "display_name": "POCO X8 Pro",
+    "display_name_en": "POCO X8 Pro"
   },
   "klee_in_global": {
-    "display_name": "XM-KLEE-IN-GLOBAL",
-    "display_name_en": "XM-KLEE-IN-GLOBAL"
+    "display_name": "POCO X8 Pro/REDMI Turbo 5",
+    "display_name_en": "POCO X8 Pro/REDMI Turbo 5"
   },
   "klee_pre_eea_global": {
-    "display_name": "XM-KLEE-PRE-EEA-GLOBAL",
-    "display_name_en": "XM-KLEE-PRE-EEA-GLOBAL"
+    "display_name": "POCO X8 Pro",
+    "display_name_en": "POCO X8 Pro"
   },
   "klee_pre_global": {
-    "display_name": "XM-KLEE-PRE-GLOBAL",
-    "display_name_en": "XM-KLEE-PRE-GLOBAL"
+    "display_name": "POCO X8 Pro",
+    "display_name_en": "POCO X8 Pro"
   },
   "klee_pre_id_global": {
-    "display_name": "XM-KLEE-PRE-ID-GLOBAL",
-    "display_name_en": "XM-KLEE-PRE-ID-GLOBAL"
+    "display_name": "POCO X8 Pro",
+    "display_name_en": "POCO X8 Pro"
   },
   "klee_pre_in_global": {
-    "display_name": "XM-KLEE-PRE-IN-GLOBAL",
-    "display_name_en": "XM-KLEE-PRE-IN-GLOBAL"
+    "display_name": "POCO X8 Pro",
+    "display_name_en": "POCO X8 Pro"
   },
   "klee_pre_ru_global": {
-    "display_name": "XM-KLEE-PRE-RU-GLOBAL",
-    "display_name_en": "XM-KLEE-PRE-RU-GLOBAL"
+    "display_name": "POCO X8 Pro",
+    "display_name_en": "POCO X8 Pro"
   },
   "klee_pre_tr_global": {
-    "display_name": "XM-KLEE-PRE-TR-GLOBAL",
-    "display_name_en": "XM-KLEE-PRE-TR-GLOBAL"
+    "display_name": "POCO X8 Pro",
+    "display_name_en": "POCO X8 Pro"
   },
   "klee_pre_tw_global": {
-    "display_name": "XM-KLEE-PRE-TW-GLOBAL",
-    "display_name_en": "XM-KLEE-PRE-TW-GLOBAL"
+    "display_name": "POCO X8 Pro",
+    "display_name_en": "POCO X8 Pro"
   },
   "klee_ru_global": {
-    "display_name": "XM-KLEE-RU-GLOBAL",
-    "display_name_en": "XM-KLEE-RU-GLOBAL"
+    "display_name": "POCO X8 Pro",
+    "display_name_en": "POCO X8 Pro"
   },
   "klee_tr_global": {
-    "display_name": "XM-KLEE-TR-GLOBAL",
-    "display_name_en": "XM-KLEE-TR-GLOBAL"
+    "display_name": "POCO X8 Pro",
+    "display_name_en": "POCO X8 Pro"
   },
   "klee_tw_global": {
-    "display_name": "XM-KLEE-TW-GLOBAL",
-    "display_name_en": "XM-KLEE-TW-GLOBAL"
+    "display_name": "POCO X8 Pro",
+    "display_name_en": "POCO X8 Pro"
   },
   "klein_global": {
     "display_name": "Redmi A3x",
