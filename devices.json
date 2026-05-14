@@ -786,6 +786,18 @@
   }
  },
  {
+  "guitar": {
+   "name": "REDMI Pad 2 9.7",
+   "model": "2603ARP14G"
+  }
+ },
+ {
+  "erhu": {
+   "name": "REDMI Pad 2 9.7 4G",
+   "model": "2604ERP4DG"
+  }
+ },
+ {
   "flute": {
    "name": "REDMI Pad 2 Pro",
    "model": "25099RP13C"
@@ -795,6 +807,12 @@
   "guitar": {
    "name": "REDMI Pad 2 SE",
    "model": "2603ARP14C"
+  }
+ },
+ {
+  "erhu": {
+   "name": "REDMI Pad 2 SE 4G",
+   "model": "2604ERP4DC"
   }
  },
  {
