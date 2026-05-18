@@ -644,6 +644,13 @@
    "`25128PNA1C`": "Xiaomi 17 Ultra by Leica (China, Tiantong & Beidou satellites)"
   }
  },
+ "byron": {
+  "internal_name": "",
+  "name": "Xiaomi 17 Max (`byron`)",
+  "models": {
+   "`2605EPN8EC`": "Xiaomi 17 Max"
+  }
+ },
  "chagall": {
   "internal_name": "P12A",
   "name": "Xiaomi 17T",
@@ -2083,6 +2090,7 @@
   "name": "REDMI Turbo 5/POCO X8 Pro",
   "models": {
    "`2511FRT34C`": "REDMI Turbo 5 China",
+   "`2606FRT34I`": "REDMI Turbo 5 India",
    "`2511FPC34G`": "POCO X8 Pro Global",
    "`2511FPC34I`": "POCO X8 Pro India"
   }
@@ -2393,7 +2401,7 @@
    "`25128RN17A` `25128RN17Y`": "REDMI A7 Pro Global",
    "`25128RN17I`": "REDMI A7 Pro India",
    "`25128RN17L`": "REDMI A7 Pro Latin America",
-   "`25128PC17G`": "POCO C81 Pro Global",
+   "`25128PC17G` `25128PC17Y`": "POCO C81 Pro Global",
    "`25128PC17L`": "POCO C81 Pro Latin America",
    "`25128PC17I`": "POCO C81 India"
   }
@@ -2723,10 +2731,11 @@
  },
  "guitar": {
   "internal_name": "P85",
-  "name": "REDMI Pad 2 9.7/REDMI Pad 2 SE",
+  "name": "REDMI Pad 2 9.7/REDMI Pad 2 SE/POCO Pad C1",
   "models": {
    "`2603ARP14G`": "REDMI Pad 2 9.7 Global",
-   "`2603ARP14C`": "REDMI Pad 2 SE China"
+   "`2603ARP14C`": "REDMI Pad 2 SE China",
+   "`2603APC14G`": "POCO Pad C1 Global"
   }
  },
  "erhu": {
