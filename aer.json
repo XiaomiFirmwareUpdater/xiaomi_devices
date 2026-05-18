@@ -14,6 +14,32 @@
    "updatedAt": "2026-04-22T07:07:52.000Z"
   },
   {
+   "id": 110,
+   "status": 1,
+   "deviceName": "REDMI Pad 2 9.7",
+   "releaseDate": "2026-04",
+   "securityUpdateEol": "2033-04",
+   "updateFrequency": "90天",
+   "updateFrequencyTl": "Every 90 days",
+   "shippedVersion": "Android 16",
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20，Android 21",
+   "createdAt": "2026-05-18T08:07:37.000Z",
+   "updatedAt": "2026-05-18T08:11:39.000Z"
+  },
+  {
+   "id": 111,
+   "status": 1,
+   "deviceName": "REDMI Pad 2 9.7 4G",
+   "releaseDate": "2026-04",
+   "securityUpdateEol": "2029-04",
+   "updateFrequency": "90天",
+   "updateFrequencyTl": "Every 90 days",
+   "shippedVersion": "Android 16",
+   "futureVersion": "Android 17,Android 18",
+   "createdAt": "2026-05-18T08:08:58.000Z",
+   "updatedAt": "2026-05-18T08:11:39.000Z"
+  },
+  {
    "id": 104,
    "status": 1,
    "deviceName": "Xiaomi 17",
@@ -1301,5 +1327,5 @@
    "updatedAt": "2024-03-11T15:46:51.000Z"
   }
  ],
- "total": 100
+ "total": 102
 }
