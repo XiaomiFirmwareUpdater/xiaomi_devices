@@ -645,8 +645,8 @@
   }
  },
  "byron": {
-  "internal_name": "",
-  "name": "Xiaomi 17 Max (`byron`)",
+  "internal_name": "P3S",
+  "name": "Xiaomi 17 Max",
   "models": {
    "`2605EPN8EC`": "Xiaomi 17 Max"
   }
@@ -655,7 +655,9 @@
   "internal_name": "P12A",
   "name": "Xiaomi 17T",
   "models": {
-   "`2602DPT53G`": "Xiaomi 17T Global"
+   "`2602DPT53G`": "Xiaomi 17T Global",
+   "`2602DPT53I`": "Xiaomi 17T India",
+   "`M531DA`": "Xiaomi 17T China"
   }
  },
  "warhol": {
@@ -663,7 +665,8 @@
   "name": "Xiaomi 17T Pro",
   "models": {
    "`2602EPTC0G`": "Xiaomi 17T Pro Global",
-   "`2602EPTC0R`": "Xiaomi 17T Pro Japan (SIM Free)"
+   "`2602EPTC0R`": "Xiaomi 17T Pro Japan (SIM Free)",
+   "`M025EC`": "Xiaomi 17T Pro China"
   }
  },
  "virgo": {
@@ -2778,9 +2781,9 @@
  },
  "konghou": {
   "internal_name": "P802",
-  "name": "Xiaomi YU7 Back Row Mobile Control Screen",
+  "name": "Xiaomi EV Back Row Mobile Control Screen",
   "models": {
-   "`2503CVPC6C`": "Xiaomi YU7 Back Row Mobile Control Screen"
+   "`2503CVPC6C`": "Xiaomi EV Back Row Mobile Control Screen"
   }
  }
 }
