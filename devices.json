@@ -366,6 +366,12 @@
   }
  },
  {
+  "guitar": {
+   "name": "POCO Pad C1",
+   "model": "2603APC14G"
+  }
+ },
+ {
   "flute": {
    "name": "POCO Pad M1",
    "model": "2509ARPBDG"
@@ -4383,6 +4389,12 @@
   "pudding": {
    "name": "Xiaomi 17",
    "model": "25113PN0EI"
+  }
+ },
+ {
+  "byron": {
+   "name": "Xiaomi 17 Max",
+   "model": "2605EPN8EC"
   }
  },
  {
