@@ -1707,6 +1707,98 @@
     "display_name": "Redmi K30 至尊纪念版",
     "display_name_en": "Redmi K30 Ultra"
   },
+  "chagall": {
+    "display_name": "Xiaomi 17T",
+    "display_name_en": "Xiaomi 17T"
+  },
+  "chagall_dc_global": {
+    "display_name": "Xiaomi 17T",
+    "display_name_en": "Xiaomi 17T"
+  },
+  "chagall_eea_global": {
+    "display_name": "Xiaomi 17T",
+    "display_name_en": "Xiaomi 17T"
+  },
+  "chagall_global": {
+    "display_name": "Xiaomi 17T",
+    "display_name_en": "Xiaomi 17T"
+  },
+  "chagall_id_global": {
+    "display_name": "Xiaomi 17T",
+    "display_name_en": "Xiaomi 17T"
+  },
+  "chagall_in_global": {
+    "display_name": "Xiaomi 17T",
+    "display_name_en": "Xiaomi 17T"
+  },
+  "chagall_lm_cr_global": {
+    "display_name": "Xiaomi 17T",
+    "display_name_en": "Xiaomi 17T"
+  },
+  "chagall_mx_at_global": {
+    "display_name": "Xiaomi 17T",
+    "display_name_en": "Xiaomi 17T"
+  },
+  "chagall_mx_tc_global": {
+    "display_name": "Xiaomi 17T",
+    "display_name_en": "Xiaomi 17T"
+  },
+  "chagall_pre_dc_global": {
+    "display_name": "Xiaomi 17T",
+    "display_name_en": "Xiaomi 17T"
+  },
+  "chagall_pre_eea_global": {
+    "display_name": "Xiaomi 17T",
+    "display_name_en": "Xiaomi 17T"
+  },
+  "chagall_pre_global": {
+    "display_name": "Xiaomi 17T",
+    "display_name_en": "Xiaomi 17T"
+  },
+  "chagall_pre_id_global": {
+    "display_name": "Xiaomi 17T",
+    "display_name_en": "Xiaomi 17T"
+  },
+  "chagall_pre_in_global": {
+    "display_name": "Xiaomi 17T",
+    "display_name_en": "Xiaomi 17T"
+  },
+  "chagall_pre_lm_cr_global": {
+    "display_name": "Xiaomi 17T",
+    "display_name_en": "Xiaomi 17T"
+  },
+  "chagall_pre_mx_at_global": {
+    "display_name": "Xiaomi 17T",
+    "display_name_en": "Xiaomi 17T"
+  },
+  "chagall_pre_mx_tc_global": {
+    "display_name": "Xiaomi 17T",
+    "display_name_en": "Xiaomi 17T"
+  },
+  "chagall_pre_ru_global": {
+    "display_name": "Xiaomi 17T",
+    "display_name_en": "Xiaomi 17T"
+  },
+  "chagall_pre_tr_global": {
+    "display_name": "Xiaomi 17T",
+    "display_name_en": "Xiaomi 17T"
+  },
+  "chagall_pre_tw_global": {
+    "display_name": "Xiaomi 17T",
+    "display_name_en": "Xiaomi 17T"
+  },
+  "chagall_ru_global": {
+    "display_name": "Xiaomi 17T",
+    "display_name_en": "Xiaomi 17T"
+  },
+  "chagall_tr_global": {
+    "display_name": "Xiaomi 17T",
+    "display_name_en": "Xiaomi 17T"
+  },
+  "chagall_tw_global": {
+    "display_name": "Xiaomi 17T",
+    "display_name_en": "Xiaomi 17T"
+  },
   "charoite_dc_global": {
     "display_name": "REDMI Note 15 Pro",
     "display_name_en": "REDMI Note 15 Pro"
@@ -12986,6 +13078,98 @@
   "viva_za_mt_global": {
     "display_name": "Redmi Note 11 Pro",
     "display_name_en": "Redmi Note 11 Pro"
+  },
+  "warhol": {
+    "display_name": "Xiaomi 17T Pro",
+    "display_name_en": "Xiaomi 17T Pro"
+  },
+  "warhol_dc_global": {
+    "display_name": "XM-WARHOL-DC-GLOBAL",
+    "display_name_en": "XM-WARHOL-DC-GLOBAL"
+  },
+  "warhol_eea_global": {
+    "display_name": "XM-WARHOL-EEA-GLOBAL",
+    "display_name_en": "XM-WARHOL-EEA-GLOBAL"
+  },
+  "warhol_global": {
+    "display_name": "XM-WARHOL-GLOBAL",
+    "display_name_en": "XM-WARHOL-GLOBAL"
+  },
+  "warhol_id_global": {
+    "display_name": "XM-WARHOL-ID-GLOBAL",
+    "display_name_en": "XM-WARHOL-ID-GLOBAL"
+  },
+  "warhol_jp_global": {
+    "display_name": "XM-WARHOL-JP-GLOBAL",
+    "display_name_en": "XM-WARHOL-JP-GLOBAL"
+  },
+  "warhol_lm_cr_global": {
+    "display_name": "XM-WARHOL-LM-CR-GLOBAL",
+    "display_name_en": "XM-WARHOL-LM-CR-GLOBAL"
+  },
+  "warhol_mx_at_global": {
+    "display_name": "XM-WARHOL-MX-AT-GLOBAL",
+    "display_name_en": "XM-WARHOL-MX-AT-GLOBAL"
+  },
+  "warhol_mx_tc_global": {
+    "display_name": "XM-WARHOL-MX-TC-GLOBAL",
+    "display_name_en": "XM-WARHOL-MX-TC-GLOBAL"
+  },
+  "warhol_pre_dc_global": {
+    "display_name": "XM-WARHOL-PRE-DC-GLOBAL",
+    "display_name_en": "XM-WARHOL-PRE-DC-GLOBAL"
+  },
+  "warhol_pre_eea_global": {
+    "display_name": "XM-WARHOL-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-WARHOL-PRE-EEA-GLOBAL"
+  },
+  "warhol_pre_global": {
+    "display_name": "XM-WARHOL-PRE-GLOBAL",
+    "display_name_en": "XM-WARHOL-PRE-GLOBAL"
+  },
+  "warhol_pre_id_global": {
+    "display_name": "XM-WARHOL-PRE-ID-GLOBAL",
+    "display_name_en": "XM-WARHOL-PRE-ID-GLOBAL"
+  },
+  "warhol_pre_jp_global": {
+    "display_name": "XM-WARHOL-PRE-JP-GLOBAL",
+    "display_name_en": "XM-WARHOL-PRE-JP-GLOBAL"
+  },
+  "warhol_pre_lm_cr_global": {
+    "display_name": "XM-WARHOL-PRE-LM-CR-GLOBAL",
+    "display_name_en": "XM-WARHOL-PRE-LM-CR-GLOBAL"
+  },
+  "warhol_pre_mx_at_global": {
+    "display_name": "XM-WARHOL-PRE-MX-AT-GLOBAL",
+    "display_name_en": "XM-WARHOL-PRE-MX-AT-GLOBAL"
+  },
+  "warhol_pre_mx_tc_global": {
+    "display_name": "XM-WARHOL-PRE-MX-TC-GLOBAL",
+    "display_name_en": "XM-WARHOL-PRE-MX-TC-GLOBAL"
+  },
+  "warhol_pre_ru_global": {
+    "display_name": "XM-WARHOL-PRE-RU-GLOBAL",
+    "display_name_en": "XM-WARHOL-PRE-RU-GLOBAL"
+  },
+  "warhol_pre_tr_global": {
+    "display_name": "XM-WARHOL-PRE-TR-GLOBAL",
+    "display_name_en": "XM-WARHOL-PRE-TR-GLOBAL"
+  },
+  "warhol_pre_tw_global": {
+    "display_name": "XM-WARHOL-PRE-TW-GLOBAL",
+    "display_name_en": "XM-WARHOL-PRE-TW-GLOBAL"
+  },
+  "warhol_ru_global": {
+    "display_name": "XM-WARHOL-RU-GLOBAL",
+    "display_name_en": "XM-WARHOL-RU-GLOBAL"
+  },
+  "warhol_tr_global": {
+    "display_name": "XM-WARHOL-TR-GLOBAL",
+    "display_name_en": "XM-WARHOL-TR-GLOBAL"
+  },
+  "warhol_tw_global": {
+    "display_name": "XM-WARHOL-TW-GLOBAL",
+    "display_name_en": "XM-WARHOL-TW-GLOBAL"
   },
   "warm_global": {
     "display_name": "Redmi A4 5G",
