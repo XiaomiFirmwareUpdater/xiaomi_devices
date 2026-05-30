@@ -4428,6 +4428,30 @@
   }
  },
  {
+  "chagall": {
+   "name": "Xiaomi 17T",
+   "model": "2602DPT53G"
+  }
+ },
+ {
+  "chagall": {
+   "name": "Xiaomi 17T",
+   "model": "2602DPT53I"
+  }
+ },
+ {
+  "warhol": {
+   "name": "Xiaomi 17T Pro",
+   "model": "2602EPTC0G"
+  }
+ },
+ {
+  "warhol": {
+   "name": "Xiaomi 17T Pro",
+   "model": "2602EPTC0R"
+  }
+ },
+ {
   "mona": {
    "name": "Xiaomi Civi",
    "model": "2109119BC"
