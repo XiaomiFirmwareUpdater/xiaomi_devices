@@ -12115,6 +12115,10 @@
     "display_name": "Redmi 15C 5G",
     "display_name_en": "Redmi 15C 5G"
   },
+  "tornado_eea_ut_global": {
+    "display_name": "Redmi 15C 5G",
+    "display_name_en": "Redmi 15C 5G"
+  },
   "tornado_global": {
     "display_name": "Redmi 15C 5G",
     "display_name_en": "Redmi 15C 5G"
@@ -12130,6 +12134,10 @@
   "tornado_in_global": {
     "display_name": "REDMI 15C 5G/POCO C85 5G/TBD",
     "display_name_en": "REDMI 15C 5G/POCO C85 5G/TBD"
+  },
+  "tornado_jp_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
   },
   "tornado_lm_cr_global": {
     "display_name": "Redmi 15C 5G",
@@ -12167,6 +12175,10 @@
     "display_name": "REDMI 15C 5G/POCO C85 5G/TBD",
     "display_name_en": "REDMI 15C 5G/POCO C85 5G/TBD"
   },
+  "tornado_pre_jp_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
   "tornado_pre_lm_cr_global": {
     "display_name": "Redmi 15C 5G",
     "display_name_en": "Redmi 15C 5G"
@@ -12180,6 +12192,10 @@
     "display_name_en": "Redmi 15C 5G"
   },
   "tornado_tr_global": {
+    "display_name": "Redmi 15C 5G",
+    "display_name_en": "Redmi 15C 5G"
+  },
+  "tornado_ut_global": {
     "display_name": "Redmi 15C 5G",
     "display_name_en": "Redmi 15C 5G"
   },
