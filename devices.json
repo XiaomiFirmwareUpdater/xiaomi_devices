@@ -628,8 +628,8 @@
     "display_name_en": "AQUILA-GLOBAL"
   },
   "arctic_dc_global": {
-    "display_name": "REDMI A7 Pro",
-    "display_name_en": "REDMI A7 Pro"
+    "display_name": "REDMI A7 Pro/POCO C81 Pro",
+    "display_name_en": "REDMI A7 Pro/POCO C81 Pro"
   },
   "arctic_eea_global": {
     "display_name": "POCO C81 Pro/REDMI A7 Pro",
@@ -656,8 +656,8 @@
     "display_name_en": "REDMI A7 Pro"
   },
   "arctic_pre_dc_global": {
-    "display_name": "REDMI A7 Pro",
-    "display_name_en": "REDMI A7 Pro"
+    "display_name": "REDMI A7 Pro/POCO C81 Pro",
+    "display_name_en": "REDMI A7 Pro/POCO C81 Pro"
   },
   "arctic_pre_eea_global": {
     "display_name": "REDMI A7 Pro/POCO C81 Pro",
@@ -9060,96 +9060,96 @@
     "display_name_en": "Xiaomi 17"
   },
   "pudding_dc_global": {
-    "display_name": "XM-PUDDING-DC-GLOBAL",
-    "display_name_en": "XM-PUDDING-DC-GLOBAL"
+    "display_name": "Xiaomi 17",
+    "display_name_en": "Xiaomi 17"
   },
   "pudding_dpp_global": {
-    "display_name": "XM-PUDDING-DPP-GLOBAL",
-    "display_name_en": "XM-PUDDING-DPP-GLOBAL"
+    "display_name": "Xiaomi 17",
+    "display_name_en": "Xiaomi 17"
   },
   "pudding_eea_global": {
-    "display_name": "XM-PUDDING-EEA-GLOBAL",
-    "display_name_en": "XM-PUDDING-EEA-GLOBAL"
+    "display_name": "Xiaomi 17",
+    "display_name_en": "Xiaomi 17"
   },
   "pudding_global": {
-    "display_name": "XM-PUDDING-GLOBAL",
-    "display_name_en": "XM-PUDDING-GLOBAL"
+    "display_name": "Xiaomi 17",
+    "display_name_en": "Xiaomi 17"
   },
   "pudding_id_global": {
-    "display_name": "XM-PUDDING-ID-GLOBAL",
-    "display_name_en": "XM-PUDDING-ID-GLOBAL"
+    "display_name": "Xiaomi 17",
+    "display_name_en": "Xiaomi 17"
   },
   "pudding_in_global": {
-    "display_name": "XM-PUDDING-IN-GLOBAL",
-    "display_name_en": "XM-PUDDING-IN-GLOBAL"
+    "display_name": "Xiaomi 17",
+    "display_name_en": "Xiaomi 17"
   },
   "pudding_lm_cr_global": {
-    "display_name": "XM-PUDDING-LM-CR-GLOBAL",
-    "display_name_en": "XM-PUDDING-LM-CR-GLOBAL"
+    "display_name": "Xiaomi 17",
+    "display_name_en": "Xiaomi 17"
   },
   "pudding_mx_at_global": {
-    "display_name": "XM-PUDDING-MX-AT-GLOBAL",
-    "display_name_en": "XM-PUDDING-MX-AT-GLOBAL"
+    "display_name": "Xiaomi 17",
+    "display_name_en": "Xiaomi 17"
   },
   "pudding_mx_tc_global": {
-    "display_name": "XM-PUDDING-MX-TC-GLOBAL",
-    "display_name_en": "XM-PUDDING-MX-TC-GLOBAL"
+    "display_name": "Xiaomi 17",
+    "display_name_en": "Xiaomi 17"
   },
   "pudding_pre_dc_global": {
-    "display_name": "XM-PUDDING-PRE-DC-GLOBAL",
-    "display_name_en": "XM-PUDDING-PRE-DC-GLOBAL"
+    "display_name": "Xiaomi 17",
+    "display_name_en": "Xiaomi 17"
   },
   "pudding_pre_eea_global": {
-    "display_name": "XM-PUDDING-PRE-EEA-GLOBAL",
-    "display_name_en": "XM-PUDDING-PRE-EEA-GLOBAL"
+    "display_name": "Xiaomi 17",
+    "display_name_en": "Xiaomi 17"
   },
   "pudding_pre_global": {
-    "display_name": "XM-PUDDING-PRE-GLOBAL",
-    "display_name_en": "XM-PUDDING-PRE-GLOBAL"
+    "display_name": "Xiaomi 17",
+    "display_name_en": "Xiaomi 17"
   },
   "pudding_pre_id_global": {
-    "display_name": "XM-PUDDING-PRE-ID-GLOBAL",
-    "display_name_en": "XM-PUDDING-PRE-ID-GLOBAL"
+    "display_name": "Xiaomi 17",
+    "display_name_en": "Xiaomi 17"
   },
   "pudding_pre_in_global": {
-    "display_name": "XM-PUDDING-PRE-IN-GLOBAL",
-    "display_name_en": "XM-PUDDING-PRE-IN-GLOBAL"
+    "display_name": "Xiaomi 17",
+    "display_name_en": "Xiaomi 17"
   },
   "pudding_pre_lm_cr_global": {
-    "display_name": "XM-PUDDING-PRE-LM-CR-GLOBAL",
-    "display_name_en": "XM-PUDDING-PRE-LM-CR-GLOBAL"
+    "display_name": "Xiaomi 17",
+    "display_name_en": "Xiaomi 17"
   },
   "pudding_pre_mx_at_global": {
-    "display_name": "XM-PUDDING-PRE-MX-AT-GLOBAL",
-    "display_name_en": "XM-PUDDING-PRE-MX-AT-GLOBAL"
+    "display_name": "Xiaomi 17",
+    "display_name_en": "Xiaomi 17"
   },
   "pudding_pre_mx_tc_global": {
-    "display_name": "XM-PUDDING-PRE-MX-TC-GLOBAL",
-    "display_name_en": "XM-PUDDING-PRE-MX-TC-GLOBAL"
+    "display_name": "Xiaomi 17",
+    "display_name_en": "Xiaomi 17"
   },
   "pudding_pre_ru_global": {
-    "display_name": "XM-PUDDING-PRE-RU-GLOBAL",
-    "display_name_en": "XM-PUDDING-PRE-RU-GLOBAL"
+    "display_name": "Xiaomi 17",
+    "display_name_en": "Xiaomi 17"
   },
   "pudding_pre_tr_global": {
-    "display_name": "XM-PUDDING-PRE-TR-GLOBAL",
-    "display_name_en": "XM-PUDDING-PRE-TR-GLOBAL"
+    "display_name": "Xiaomi 17",
+    "display_name_en": "Xiaomi 17"
   },
   "pudding_pre_tw_global": {
-    "display_name": "XM-PUDDING-PRE-TW-GLOBAL",
-    "display_name_en": "XM-PUDDING-PRE-TW-GLOBAL"
+    "display_name": "Xiaomi 17",
+    "display_name_en": "Xiaomi 17"
   },
   "pudding_ru_global": {
-    "display_name": "XM-PUDDING-RU-GLOBAL",
-    "display_name_en": "XM-PUDDING-RU-GLOBAL"
+    "display_name": "Xiaomi 17",
+    "display_name_en": "Xiaomi 17"
   },
   "pudding_tr_global": {
-    "display_name": "XM-PUDDING-TR-GLOBAL",
-    "display_name_en": "XM-PUDDING-TR-GLOBAL"
+    "display_name": "Xiaomi 17",
+    "display_name_en": "Xiaomi 17"
   },
   "pudding_tw_global": {
-    "display_name": "XM-PUDDING-TW-GLOBAL",
-    "display_name_en": "XM-PUDDING-TW-GLOBAL"
+    "display_name": "Xiaomi 17",
+    "display_name_en": "Xiaomi 17"
   },
   "pyxis": {
     "display_name": "小米CC9",
