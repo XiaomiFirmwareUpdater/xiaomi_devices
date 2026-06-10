@@ -663,13 +663,6 @@ viva_eea_global - F
 viva_global - F
 viva_ru_global - F
 viva_tw_global - F
-warhol_dc_global - F
-warhol_eea_global - F
-warhol_global - F
-warhol_id_global - F
-warhol_ru_global - F
-warhol_tr_global - F
-warhol_tw_global - F
 water_eea_global - F
 water_global - F
 water_id_global - F
