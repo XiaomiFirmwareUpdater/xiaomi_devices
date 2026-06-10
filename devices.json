@@ -4446,6 +4446,12 @@
   }
  },
  {
+  "chagall": {
+   "name": "Xiaomi 17T",
+   "model": "M531DA"
+  }
+ },
+ {
   "warhol": {
    "name": "Xiaomi 17T Pro",
    "model": "2602EPTC0G"
@@ -4455,6 +4461,12 @@
   "warhol": {
    "name": "Xiaomi 17T Pro",
    "model": "2602EPTC0R"
+  }
+ },
+ {
+  "warhol": {
+   "name": "Xiaomi 17T Pro",
+   "model": "M025EC"
   }
  },
  {
