@@ -255,6 +255,7 @@ goya_dc_global - F
 goya_eea_global - F
 goya_global - F
 goya_tw_global - F
+guitar_eea_global - F
 guitar_global - F
 guitar_tw_global - F
 haydn_eea_global - F
