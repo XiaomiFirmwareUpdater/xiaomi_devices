@@ -39,6 +39,7 @@ arctic_global - F
 arctic_id_global - F
 arctic_in_global - F
 arctic_ru_global - F
+arctic_tr_global - F
 ares_in_global - F
 aristotle_eea_global - F
 aristotle_global - F
