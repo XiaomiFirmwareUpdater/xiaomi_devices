@@ -1339,12 +1339,12 @@
  },
  "lake": {
   "internal_name": "C3N/C3NP",
-  "name": "Redmi 14C/Redmi A3 Pro/POCO C75",
+  "name": "Redmi 14C/REDMI 17C/Redmi A3 Pro/POCO C75",
   "models": {
    "`2409BRN2CA`": "Redmi 14C Global",
    "`2409BRN2CI`": "Redmi 14C India",
    "`2409BRN2CL`": "Redmi 14C Latin America / Japan / Korea",
-   "`2409BRN2CC`": "Redmi 14C China",
+   "`2409BRN2CC`": "Redmi 14C China / REDMI 17C China",
    "`2409BRN2CY`": "Redmi 14C Global (NFC)",
    "`2409BRN2CG`": "Redmi A3 Pro Global",
    "`2410FPCC5G`": "POCO C75 Global",
@@ -1473,8 +1473,8 @@
   "internal_name": "H3Z",
   "name": "Redmi Note 3",
   "models": {
-   "`2015617`": "Redmi Note 3 (Mediatek) China",
-   "`2015611`": "Redmi Note 3 (Mediatek) China Mobile"
+   "`2015617`": "Redmi Note 3 (MediaTek) China",
+   "`2015611`": "Redmi Note 3 (MediaTek) China Mobile"
   }
  },
  "kenzo": {
@@ -1496,10 +1496,10 @@
   "internal_name": "B6L/B6A",
   "name": "Redmi Note 4/Redmi Note 4X",
   "models": {
-   "`2016050`": "Redmi Note 4 (Mediatek) China / Global",
-   "`2016051`": "Redmi Note 4 (Mediatek) China Mobile",
-   "`MBE6A5`": "Redmi Note 4X (Mediatek) China",
-   "`MBT6A5`": "Redmi Note 4X (Mediatek) China Mobile"
+   "`2016050`": "Redmi Note 4 (MediaTek) China / Global",
+   "`2016051`": "Redmi Note 4 (MediaTek) China Mobile",
+   "`MBE6A5`": "Redmi Note 4X (MediaTek) China",
+   "`MBT6A5`": "Redmi Note 4X (MediaTek) China Mobile"
   }
  },
  "mido": {
