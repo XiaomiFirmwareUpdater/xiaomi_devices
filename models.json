@@ -2293,6 +2293,13 @@
    "`2604FRK1EC`": "REDMI K90 Max"
   }
  },
+ "warsaw": {
+  "internal_name": "P12X",
+  "name": "REDMI K90 Ultra",
+  "models": {
+   "`M332BF`": "REDMI K90 Ultra"
+  }
+ },
  "omega": {
   "internal_name": "H3C",
   "name": "Redmi Pro",
