@@ -603,6 +603,126 @@
      "deviceName": "Mi 11 Pro (cn)",
      "sku": "",
      "projectCode": ""
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12 (lm)",
+     "sku": "cupid_lm_cr_global",
+     "projectCode": "L3"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12 Pro (ru)",
+     "sku": "zeus_ru_global",
+     "projectCode": "L2"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12 Pro (tr)",
+     "sku": "zeus_tr_global",
+     "projectCode": "L2"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12 Pro (id)",
+     "sku": "zeus_id_global",
+     "projectCode": "L2"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12 Pro (in)",
+     "sku": "zeus_in_global",
+     "projectCode": "L2"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12 Pro (tw)",
+     "sku": "zeus_tw_global",
+     "projectCode": "L2"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12 Pro (eea)",
+     "sku": "zeus_eea_global",
+     "projectCode": "L2"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12 Pro (global)",
+     "sku": "zeus_global",
+     "projectCode": "L2"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12 Pro (cn)",
+     "sku": "zeus",
+     "projectCode": "L2"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12 (cl)",
+     "sku": "cupid_cl_en_global",
+     "projectCode": "L3"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12 (id)",
+     "sku": "cupid_id_global",
+     "projectCode": "L3"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12 (ru)",
+     "sku": "cupid_ru_global",
+     "projectCode": "L3"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12 (tw)",
+     "sku": "cupid_tw_global",
+     "projectCode": "L3"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12 (tr)",
+     "sku": "cupid_tr_global",
+     "projectCode": "L3"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12 (eea)",
+     "sku": "cupid_eea_global",
+     "projectCode": "L3"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12 (global)",
+     "sku": "cupid_global",
+     "projectCode": "L3"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12 (cn)",
+     "sku": "cupid",
+     "projectCode": "L3"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi Pad 6 Pro (cn)",
+     "sku": "liuqin",
+     "projectCode": "M81"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi Pad 6 (cn)",
+     "sku": "pipa",
+     "projectCode": "M82"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12S Ultra (cn)",
+     "sku": "thor",
+     "projectCode": "L1"
     }
    ]
   },
@@ -1023,12 +1143,6 @@
      "deviceName": "Redmi K40 (CN)",
      "sku": "alioth",
      "projectCode": "K11A"
-    },
-    {
-     "brand": "Redmi",
-     "deviceName": "Redmi Note 10 JE (JP)",
-     "sku": "iris_jp_kd_global",
-     "projectCode": "K19J"
     },
     {
      "brand": "Redmi",
@@ -1569,6 +1683,18 @@
      "deviceName": "Redmi 10 5G (eea)",
      "sku": "light_eea_vf_global",
      "projectCode": "L19/L19N/L19P"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 12T Pro (cn)",
+     "sku": "pearl",
+     "projectCode": "L16S"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi K60E (cn)",
+     "sku": "rembrandt",
+     "projectCode": "M11R"
     }
    ]
   },
@@ -2005,9 +2131,21 @@
      "deviceName": "POCO X4 Pro 5G (eea)",
      "sku": "",
      "projectCode": ""
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO X5 5G (tr)",
+     "sku": "moonstone_tr_global",
+     "projectCode": "M17P"
+    },
+    {
+     "brand": "POCO",
+     "deviceName": "POCO X5 Pro 5G (id)",
+     "sku": "redwood_id_global",
+     "projectCode": "M20"
     }
    ]
   }
  ],
- "updateAt": "2026-05-26T17:52:07.000Z"
+ "updateAt": "2026-07-02T05:12:30.000Z"
 }
