@@ -2047,6 +2047,20 @@
    "`2510EPC8BG`": "POCO M8 Pro 5G Global"
   }
  },
+ "mist": {
+  "internal_name": "P19",
+  "name": "REDMI Note 17 5G",
+  "models": {
+   "`26021RN18C`": "REDMI Note 17 5G China"
+  }
+ },
+ "iolite": {
+  "internal_name": "Q17",
+  "name": "REDMI Note 17 Pro 5G",
+  "models": {
+   "`2607DRA18C`": "REDMI Note 17 Pro 5G China"
+  }
+ },
  "atom": {
   "internal_name": "J7A",
   "name": "Redmi 10X 5G",
@@ -2290,14 +2304,14 @@
   "internal_name": "P12",
   "name": "REDMI K90 Max",
   "models": {
-   "`2604FRK1EC`": "REDMI K90 Max"
+   "`2604FRK1EC`": "REDMI K90 Max China"
   }
  },
  "warsaw": {
   "internal_name": "P12X",
   "name": "REDMI K90 Ultra",
   "models": {
-   "`M332BF`": "REDMI K90 Ultra"
+   "`M332BF`": "REDMI K90 Ultra Chin"
   }
  },
  "omega": {
