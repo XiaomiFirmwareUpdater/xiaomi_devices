@@ -5535,6 +5535,138 @@
     "display_name": "XM-INTERSTELLAR",
     "display_name_en": "XM-INTERSTELLAR"
   },
+  "iolite": {
+    "display_name": "REDMI Note 17 Pro",
+    "display_name_en": "REDMI Note 17 Pro"
+  },
+  "iolite_dc_global": {
+    "display_name": "XM-IOLITE-DC-GLOBAL",
+    "display_name_en": "XM-IOLITE-DC-GLOBAL"
+  },
+  "iolite_demo_global": {
+    "display_name": "XM-IOLITE-DEMO-GLOBAL",
+    "display_name_en": "XM-IOLITE-DEMO-GLOBAL"
+  },
+  "iolite_eea_demo_global": {
+    "display_name": "XM-IOLITE-EEA-DEMO-GLOBAL",
+    "display_name_en": "XM-IOLITE-EEA-DEMO-GLOBAL"
+  },
+  "iolite_eea_global": {
+    "display_name": "XM-IOLITE-EEA-GLOBAL",
+    "display_name_en": "XM-IOLITE-EEA-GLOBAL"
+  },
+  "iolite_eea_ut_global": {
+    "display_name": "XM-IOLITE-EEA-UT-GLOBAL",
+    "display_name_en": "XM-IOLITE-EEA-UT-GLOBAL"
+  },
+  "iolite_global": {
+    "display_name": "XM-IOLITE-GLOBAL",
+    "display_name_en": "XM-IOLITE-GLOBAL"
+  },
+  "iolite_id_demo_global": {
+    "display_name": "XM-IOLITE-ID-DEMO-GLOBAL",
+    "display_name_en": "XM-IOLITE-ID-DEMO-GLOBAL"
+  },
+  "iolite_id_global": {
+    "display_name": "XM-IOLITE-ID-GLOBAL",
+    "display_name_en": "XM-IOLITE-ID-GLOBAL"
+  },
+  "iolite_in_demo_global": {
+    "display_name": "XM-IOLITE-IN-DEMO-GLOBAL",
+    "display_name_en": "XM-IOLITE-IN-DEMO-GLOBAL"
+  },
+  "iolite_in_global": {
+    "display_name": "XM-IOLITE-IN-GLOBAL",
+    "display_name_en": "XM-IOLITE-IN-GLOBAL"
+  },
+  "iolite_in_ut_global": {
+    "display_name": "XM-IOLITE-IN-UT-GLOBAL",
+    "display_name_en": "XM-IOLITE-IN-UT-GLOBAL"
+  },
+  "iolite_jp_global": {
+    "display_name": "XM-IOLITE-JP-GLOBAL",
+    "display_name_en": "XM-IOLITE-JP-GLOBAL"
+  },
+  "iolite_lm_cr_global": {
+    "display_name": "XM-IOLITE-LM-CR-GLOBAL",
+    "display_name_en": "XM-IOLITE-LM-CR-GLOBAL"
+  },
+  "iolite_mx_tc_global": {
+    "display_name": "XM-IOLITE-MX-TC-GLOBAL",
+    "display_name_en": "XM-IOLITE-MX-TC-GLOBAL"
+  },
+  "iolite_pre_dc_global": {
+    "display_name": "XM-IOLITE-PRE-DC-GLOBAL",
+    "display_name_en": "XM-IOLITE-PRE-DC-GLOBAL"
+  },
+  "iolite_pre_eea_global": {
+    "display_name": "XM-IOLITE-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-IOLITE-PRE-EEA-GLOBAL"
+  },
+  "iolite_pre_global": {
+    "display_name": "XM-IOLITE-PRE-GLOBAL",
+    "display_name_en": "XM-IOLITE-PRE-GLOBAL"
+  },
+  "iolite_pre_id_global": {
+    "display_name": "XM-IOLITE-PRE-ID-GLOBAL",
+    "display_name_en": "XM-IOLITE-PRE-ID-GLOBAL"
+  },
+  "iolite_pre_in_global": {
+    "display_name": "XM-IOLITE-PRE-IN-GLOBAL",
+    "display_name_en": "XM-IOLITE-PRE-IN-GLOBAL"
+  },
+  "iolite_pre_jp_global": {
+    "display_name": "XM-IOLITE-PRE-JP-GLOBAL",
+    "display_name_en": "XM-IOLITE-PRE-JP-GLOBAL"
+  },
+  "iolite_pre_lm_cr_global": {
+    "display_name": "XM-IOLITE-PRE-LM-CR-GLOBAL",
+    "display_name_en": "XM-IOLITE-PRE-LM-CR-GLOBAL"
+  },
+  "iolite_pre_mx_tc_global": {
+    "display_name": "XM-IOLITE-PRE-MX-TC-GLOBAL",
+    "display_name_en": "XM-IOLITE-PRE-MX-TC-GLOBAL"
+  },
+  "iolite_pre_ru_global": {
+    "display_name": "XM-IOLITE-PRE-RU-GLOBAL",
+    "display_name_en": "XM-IOLITE-PRE-RU-GLOBAL"
+  },
+  "iolite_pre_tr_global": {
+    "display_name": "XM-IOLITE-PRE-TR-GLOBAL",
+    "display_name_en": "XM-IOLITE-PRE-TR-GLOBAL"
+  },
+  "iolite_pre_tw_global": {
+    "display_name": "XM-IOLITE-PRE-TW-GLOBAL",
+    "display_name_en": "XM-IOLITE-PRE-TW-GLOBAL"
+  },
+  "iolite_pre_wt_global": {
+    "display_name": "XM-IOLITE-PRE-WT-GLOBAL",
+    "display_name_en": "XM-IOLITE-PRE-WT-GLOBAL"
+  },
+  "iolite_ru_global": {
+    "display_name": "XM-IOLITE-RU-GLOBAL",
+    "display_name_en": "XM-IOLITE-RU-GLOBAL"
+  },
+  "iolite_tr_global": {
+    "display_name": "XM-IOLITE-TR-GLOBAL",
+    "display_name_en": "XM-IOLITE-TR-GLOBAL"
+  },
+  "iolite_tw_global": {
+    "display_name": "XM-IOLITE-TW-GLOBAL",
+    "display_name_en": "XM-IOLITE-TW-GLOBAL"
+  },
+  "iolite_tw_ut_global": {
+    "display_name": "XM-IOLITE-TW-UT-GLOBAL",
+    "display_name_en": "XM-IOLITE-TW-UT-GLOBAL"
+  },
+  "iolite_ut_global": {
+    "display_name": "XM-IOLITE-UT-GLOBAL",
+    "display_name_en": "XM-IOLITE-UT-GLOBAL"
+  },
+  "iolite_wt_global": {
+    "display_name": "XM-IOLITE-WT-GLOBAL",
+    "display_name_en": "XM-IOLITE-WT-GLOBAL"
+  },
   "iris_jp_kd_global": {
     "display_name": "Redmi Note 10 JE",
     "display_name_en": "Redmi Note 10 JE"
@@ -7338,6 +7470,106 @@
   "miro_tw_global": {
     "display_name": "POCO F7 Ultra",
     "display_name_en": "POCO F7 Ultra"
+  },
+  "mist": {
+    "display_name": "REDMI Note 17",
+    "display_name_en": "REDMI Note 17"
+  },
+  "mist_dc_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "mist_demo_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "mist_eea_demo_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "mist_eea_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "mist_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "mist_id_demo_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "mist_id_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "mist_in_demo_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "mist_in_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "mist_lm_cr_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "mist_mx_tc_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "mist_pre_dc_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "mist_pre_eea_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "mist_pre_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "mist_pre_id_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "mist_pre_in_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "mist_pre_lm_cr_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "mist_pre_mx_tc_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "mist_pre_ru_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "mist_pre_tr_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "mist_pre_tw_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "mist_ru_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "mist_tr_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
+  "mist_tw_global": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
   },
   "mocha": {
     "display_name": "小米平板 1",
