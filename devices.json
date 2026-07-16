@@ -798,6 +798,12 @@
   }
  },
  {
+  "mist": {
+   "name": "REDMI Note 17",
+   "model": "26021RN18C"
+  }
+ },
+ {
   "taiko": {
    "name": "REDMI Pad 2",
    "model": "25040RP0AC"
