@@ -4710,6 +4710,12 @@
   }
  },
  {
+  "coco": {
+   "name": "Xiaomi TV Stick",
+   "model": "MiTV-AXTU0"
+  }
+ },
+ {
   "twilight": {
    "name": "Xiaomi TV Stick 4K (2nd Gen)",
    "model": "MiTV-AFMU1"
