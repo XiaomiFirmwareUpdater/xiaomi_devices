@@ -1408,7 +1408,6 @@
    "`2508CRN2BG`": "REDMI 15C 5G Global",
    "`2508CRN2BE`": "REDMI 15C 5G Europe",
    "`2508CRN2BI`": "REDMI 15C 5G India",
-   "`2508CRN2BC`": "REDMI 15C 5G China",
    "`2508CRN2BR`": "REDMI 15C 5G Japan",
    "`25082RNC1C`": "REDMI 15R 5G China",
    "`2508CPC2BI`": "POCO C85 5G India"
@@ -1416,9 +1415,10 @@
  },
  "somalia": {
   "internal_name": "P25",
-  "name": "REDMI 15A 5G/REDMI A7 Pro 5G/REDMI R70 5G/REDMI R70m 5G/POCO C85x 5G",
+  "name": "REDMI 15A 5G/REDMI 17 5G/REDMI A7 Pro 5G/REDMI R70 5G/REDMI R70m 5G/POCO C85x 5G",
   "models": {
    "`2602BRNA4I`": "REDMI 15A 5G India",
+   "`2602BRNA4C`": "REDMI 17 5G China",
    "`26020RN1AI`": "REDMI A7 Pro 5G India",
    "`26020RN1AC`": "REDMI R70 5G China / REDMI R70m 5G China",
    "`26020PC1AI`": "POCO C85x 5G India"
