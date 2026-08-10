@@ -1402,19 +1402,20 @@
   }
  },
  "tornado": {
-  "internal_name": "P15/P15X",
-  "name": "REDMI 15C 5G/REDMI 15R 5G/POCO C85 5G",
+  "internal_name": "P15/P15X/P15R",
+  "name": "REDMI 15C 5G/REDMI 15R 5G/REDMI 17C 5G/POCO C85 5G",
   "models": {
    "`2508CRN2BG`": "REDMI 15C 5G Global",
    "`2508CRN2BE`": "REDMI 15C 5G Europe",
    "`2508CRN2BI`": "REDMI 15C 5G India",
    "`2508CRN2BR`": "REDMI 15C 5G Japan",
    "`25082RNC1C`": "REDMI 15R 5G China",
+   "`2607FRNEAG`": "REDMI 17C 5G Global",
    "`2508CPC2BI`": "POCO C85 5G India"
   }
  },
  "somalia": {
-  "internal_name": "P25",
+  "internal_name": "P25X/P25",
   "name": "REDMI 15A 5G/REDMI 17 5G/REDMI A7 Pro 5G/REDMI R70 5G/REDMI R70m 5G/POCO C85x 5G",
   "models": {
    "`2602BRNA4I`": "REDMI 15A 5G India",
@@ -1422,6 +1423,26 @@
    "`26020RN1AI`": "REDMI A7 Pro 5G India",
    "`26020RN1AC`": "REDMI R70 5G China / REDMI R70m 5G China",
    "`26020PC1AI`": "POCO C85x 5G India"
+  }
+ },
+ "steppe": {
+  "internal_name": "Q15",
+  "name": "REDMI 17 5G/REDMI M100/REDMI M8x",
+  "models": {
+   "`26062RN92G`": "REDMI 17 5G Global",
+   "`26062RN92I`": "REDMI 17 5G India",
+   "`26062RN92C`": "REDMI M100 China",
+   "`26062PC92I`": "POCO M8x 5G India"
+  }
+ },
+ "": {
+  "internal_name": "Q15A/K91/",
+  "name": "REDMI 17:/Xiaomi CyberDog:/Xiaomi EV Cockpit",
+  "models": {
+   "`2606FRN72Y`": "REDMI 17 Global",
+   "`2606FRN72L`": "REDMI 17 Latin America",
+   "`21051191C`": "Xiaomi CyberDog Bio-inspired Quadruped Robot",
+   "`2405AVPB7C`": "Xiaomi EV Cockpit (SU7 2024/SU7 Ultra)"
   }
  },
  "lcsh92_wet_gb9": {
@@ -2055,7 +2076,7 @@
    "`26021RN18C`": "REDMI Note 17 5G China",
    "`26021RN18I`": "REDMI Note 17 5G India",
    "`26081RA18L`": "REDMI Note 17 5G Latin America",
-   "`26021PC18I`": "POCO M8 Power India"
+   "`26021PC18I`": "POCO M8 Power 5G India"
   }
  },
  "iolite": {
@@ -2321,6 +2342,20 @@
   "name": "REDMI K90 Ultra",
   "models": {
    "`M332BF`": "REDMI K90 Ultra China"
+  }
+ },
+ "athens": {
+  "internal_name": "Q11",
+  "name": "REDMI K100 Pro",
+  "models": {
+   "`M511CD`": "REDMI K100 Pro China"
+  }
+ },
+ "songyuan": {
+  "internal_name": "Q11X",
+  "name": "REDMI K100 Pro Max",
+  "models": {
+   "`M098FE`": "REDMI K100 Pro Max China"
   }
  },
  "omega": {
@@ -2792,14 +2827,6 @@
   "name": "Xiaomi Mijia Translator (`Babel`)",
   "models": {
    "`FYJ01QP`": "Xiaomi Mijia Translator"
-  }
- },
- "": {
-  "internal_name": "K91/",
-  "name": "Xiaomi CyberDog:/Xiaomi EV Cockpit",
-  "models": {
-   "`21051191C`": "Xiaomi CyberDog Bio-inspired Quadruped Robot",
-   "`2405AVPB7C`": "Xiaomi EV Cockpit (SU7 2024/SU7 Ultra)"
   }
  },
  "suiren": {
