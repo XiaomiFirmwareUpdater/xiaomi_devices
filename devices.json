@@ -867,6 +867,86 @@
     "display_name": "HM 1SC",
     "display_name_en": "HM 1SC"
   },
+  "athens": {
+    "display_name": "XM-ATHENS",
+    "display_name_en": "XM-ATHENS"
+  },
+  "athens_demo_global": {
+    "display_name": "XM-ATHENS-DEMO-GLOBAL",
+    "display_name_en": "XM-ATHENS-DEMO-GLOBAL"
+  },
+  "athens_eea_global": {
+    "display_name": "XM-ATHENS-EEA-GLOBAL",
+    "display_name_en": "XM-ATHENS-EEA-GLOBAL"
+  },
+  "athens_eea_ut_global": {
+    "display_name": "XM-ATHENS-EEA-UT-GLOBAL",
+    "display_name_en": "XM-ATHENS-EEA-UT-GLOBAL"
+  },
+  "athens_global": {
+    "display_name": "XM-ATHENS-GLOBAL",
+    "display_name_en": "XM-ATHENS-GLOBAL"
+  },
+  "athens_id_global": {
+    "display_name": "XM-ATHENS-ID-GLOBAL",
+    "display_name_en": "XM-ATHENS-ID-GLOBAL"
+  },
+  "athens_id_ut_global": {
+    "display_name": "XM-ATHENS-ID-UT-GLOBAL",
+    "display_name_en": "XM-ATHENS-ID-UT-GLOBAL"
+  },
+  "athens_jp_global": {
+    "display_name": "XM-ATHENS-JP-GLOBAL",
+    "display_name_en": "XM-ATHENS-JP-GLOBAL"
+  },
+  "athens_pre_eea_global": {
+    "display_name": "XM-ATHENS-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-ATHENS-PRE-EEA-GLOBAL"
+  },
+  "athens_pre_global": {
+    "display_name": "XM-ATHENS-PRE-GLOBAL",
+    "display_name_en": "XM-ATHENS-PRE-GLOBAL"
+  },
+  "athens_pre_id_global": {
+    "display_name": "XM-ATHENS-PRE-ID-GLOBAL",
+    "display_name_en": "XM-ATHENS-PRE-ID-GLOBAL"
+  },
+  "athens_pre_jp_global": {
+    "display_name": "XM-ATHENS-PRE-JP-GLOBAL",
+    "display_name_en": "XM-ATHENS-PRE-JP-GLOBAL"
+  },
+  "athens_pre_ru_global": {
+    "display_name": "XM-ATHENS-PRE-RU-GLOBAL",
+    "display_name_en": "XM-ATHENS-PRE-RU-GLOBAL"
+  },
+  "athens_pre_tr_global": {
+    "display_name": "XM-ATHENS-PRE-TR-GLOBAL",
+    "display_name_en": "XM-ATHENS-PRE-TR-GLOBAL"
+  },
+  "athens_pre_tw_global": {
+    "display_name": "XM-ATHENS-PRE-TW-GLOBAL",
+    "display_name_en": "XM-ATHENS-PRE-TW-GLOBAL"
+  },
+  "athens_ru_global": {
+    "display_name": "XM-ATHENS-RU-GLOBAL",
+    "display_name_en": "XM-ATHENS-RU-GLOBAL"
+  },
+  "athens_tr_global": {
+    "display_name": "XM-ATHENS-TR-GLOBAL",
+    "display_name_en": "XM-ATHENS-TR-GLOBAL"
+  },
+  "athens_tw_global": {
+    "display_name": "XM-ATHENS-TW-GLOBAL",
+    "display_name_en": "XM-ATHENS-TW-GLOBAL"
+  },
+  "athens_tw_ut_global": {
+    "display_name": "XM-ATHENS-TW-UT-GLOBAL",
+    "display_name_en": "XM-ATHENS-TW-UT-GLOBAL"
+  },
+  "athens_ut_global": {
+    "display_name": "XM-ATHENS-UT-GLOBAL",
+    "display_name_en": "XM-ATHENS-UT-GLOBAL"
+  },
   "atom": {
     "display_name": "Redmi 10X",
     "display_name_en": "Redmi 10X"
@@ -6651,6 +6731,98 @@
     "display_name": "HM NOTE 1W",
     "display_name_en": "HM NOTE 1W"
   },
+  "leedsa": {
+    "display_name": "REDMI 17",
+    "display_name_en": "REDMI 17"
+  },
+  "leedsa_dc_global": {
+    "display_name": "REDMI 17/POCO C95 Pro",
+    "display_name_en": "REDMI 17/POCO C95 Pro"
+  },
+  "leedsa_eea_global": {
+    "display_name": "POCO C95 Pro/REDMI 17",
+    "display_name_en": "POCO C95 Pro/REDMI 17"
+  },
+  "leedsa_global": {
+    "display_name": "POCO C95 Pro/REDMI 17",
+    "display_name_en": "POCO C95 Pro/REDMI 17"
+  },
+  "leedsa_id_global": {
+    "display_name": "REDMI 17/POCO C95 Pro",
+    "display_name_en": "REDMI 17/POCO C95 Pro"
+  },
+  "leedsa_jp_global": {
+    "display_name": "REDMI 17",
+    "display_name_en": "REDMI 17"
+  },
+  "leedsa_lm_cr_global": {
+    "display_name": "REDMI 17",
+    "display_name_en": "REDMI 17"
+  },
+  "leedsa_mx_tc_global": {
+    "display_name": "REDMI 17",
+    "display_name_en": "REDMI 17"
+  },
+  "leedsa_pre_dc_global": {
+    "display_name": "REDMI 17/POCO C95 Pro",
+    "display_name_en": "REDMI 17/POCO C95 Pro"
+  },
+  "leedsa_pre_eea_global": {
+    "display_name": "POCO C95 Pro/REDMI 17",
+    "display_name_en": "POCO C95 Pro/REDMI 17"
+  },
+  "leedsa_pre_global": {
+    "display_name": "POCO C95 Pro/REDMI 17",
+    "display_name_en": "POCO C95 Pro/REDMI 17"
+  },
+  "leedsa_pre_id_global": {
+    "display_name": "REDMI 17/POCO C95 Pro",
+    "display_name_en": "REDMI 17/POCO C95 Pro"
+  },
+  "leedsa_pre_jp_global": {
+    "display_name": "REDMI 17",
+    "display_name_en": "REDMI 17"
+  },
+  "leedsa_pre_lm_cr_global": {
+    "display_name": "REDMI 17",
+    "display_name_en": "REDMI 17"
+  },
+  "leedsa_pre_mx_tc_global": {
+    "display_name": "REDMI 17",
+    "display_name_en": "REDMI 17"
+  },
+  "leedsa_pre_ru_global": {
+    "display_name": "POCO C95 Pro/REDMI 17",
+    "display_name_en": "POCO C95 Pro/REDMI 17"
+  },
+  "leedsa_pre_tr_global": {
+    "display_name": "POCO C95 Pro/REDMI 17",
+    "display_name_en": "POCO C95 Pro/REDMI 17"
+  },
+  "leedsa_pre_tw_global": {
+    "display_name": "POCO C95 Pro/REDMI 17",
+    "display_name_en": "POCO C95 Pro/REDMI 17"
+  },
+  "leedsa_pre_wt_global": {
+    "display_name": "REDMI 17",
+    "display_name_en": "REDMI 17"
+  },
+  "leedsa_ru_global": {
+    "display_name": "REDMI 17/POCO C95 Pro",
+    "display_name_en": "REDMI 17/POCO C95 Pro"
+  },
+  "leedsa_tr_global": {
+    "display_name": "POCO C95 Pro/REDMI 17",
+    "display_name_en": "POCO C95 Pro/REDMI 17"
+  },
+  "leedsa_tw_global": {
+    "display_name": "POCO C95 Pro/REDMI 17",
+    "display_name_en": "POCO C95 Pro/REDMI 17"
+  },
+  "leedsa_wt_global": {
+    "display_name": "REDMI 17",
+    "display_name_en": "REDMI 17"
+  },
   "leo": {
     "display_name": "小米Note 双网通顶配版",
     "display_name_en": "MI NOTE Pro"
@@ -11210,6 +11382,82 @@
   "somalia_pre_in_global": {
     "display_name": "REDMI A7 Pro 5G /POCO C85x 5G ",
     "display_name_en": "REDMI A7 Pro 5G /POCO C85x 5G "
+  },
+  "songyuan": {
+    "display_name": "XM-SONGYUAN",
+    "display_name_en": "XM-SONGYUAN"
+  },
+  "songyuan_demo_global": {
+    "display_name": "XM-SONGYUAN-DEMO-GLOBAL",
+    "display_name_en": "XM-SONGYUAN-DEMO-GLOBAL"
+  },
+  "songyuan_eea_global": {
+    "display_name": "XM-SONGYUAN-EEA-GLOBAL",
+    "display_name_en": "XM-SONGYUAN-EEA-GLOBAL"
+  },
+  "songyuan_eea_ut_global": {
+    "display_name": "XM-SONGYUAN-EEA-UT-GLOBAL",
+    "display_name_en": "XM-SONGYUAN-EEA-UT-GLOBAL"
+  },
+  "songyuan_global": {
+    "display_name": "XM-SONGYUAN-GLOBAL",
+    "display_name_en": "XM-SONGYUAN-GLOBAL"
+  },
+  "songyuan_id_global": {
+    "display_name": "XM-SONGYUAN-ID-GLOBAL",
+    "display_name_en": "XM-SONGYUAN-ID-GLOBAL"
+  },
+  "songyuan_jp_global": {
+    "display_name": "XM-SONGYUAN-JP-GLOBAL",
+    "display_name_en": "XM-SONGYUAN-JP-GLOBAL"
+  },
+  "songyuan_pre_eea_global": {
+    "display_name": "XM-SONGYUAN-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-SONGYUAN-PRE-EEA-GLOBAL"
+  },
+  "songyuan_pre_global": {
+    "display_name": "XM-SONGYUAN-PRE-GLOBAL",
+    "display_name_en": "XM-SONGYUAN-PRE-GLOBAL"
+  },
+  "songyuan_pre_id_global": {
+    "display_name": "XM-SONGYUAN-PRE-ID-GLOBAL",
+    "display_name_en": "XM-SONGYUAN-PRE-ID-GLOBAL"
+  },
+  "songyuan_pre_jp_global": {
+    "display_name": "XM-SONGYUAN-PRE-JP-GLOBAL",
+    "display_name_en": "XM-SONGYUAN-PRE-JP-GLOBAL"
+  },
+  "songyuan_pre_ru_global": {
+    "display_name": "XM-SONGYUAN-PRE-RU-GLOBAL",
+    "display_name_en": "XM-SONGYUAN-PRE-RU-GLOBAL"
+  },
+  "songyuan_pre_tr_global": {
+    "display_name": "XM-SONGYUAN-PRE-TR-GLOBAL",
+    "display_name_en": "XM-SONGYUAN-PRE-TR-GLOBAL"
+  },
+  "songyuan_pre_tw_global": {
+    "display_name": "XM-SONGYUAN-PRE-TW-GLOBAL",
+    "display_name_en": "XM-SONGYUAN-PRE-TW-GLOBAL"
+  },
+  "songyuan_ru_global": {
+    "display_name": "XM-SONGYUAN-RU-GLOBAL",
+    "display_name_en": "XM-SONGYUAN-RU-GLOBAL"
+  },
+  "songyuan_tr_global": {
+    "display_name": "XM-SONGYUAN-TR-GLOBAL",
+    "display_name_en": "XM-SONGYUAN-TR-GLOBAL"
+  },
+  "songyuan_tw_global": {
+    "display_name": "XM-SONGYUAN-TW-GLOBAL",
+    "display_name_en": "XM-SONGYUAN-TW-GLOBAL"
+  },
+  "songyuan_tw_ut_global": {
+    "display_name": "XM-SONGYUAN-TW-UT-GLOBAL",
+    "display_name_en": "XM-SONGYUAN-TW-UT-GLOBAL"
+  },
+  "songyuan_ut_global": {
+    "display_name": "XM-SONGYUAN-UT-GLOBAL",
+    "display_name_en": "XM-SONGYUAN-UT-GLOBAL"
   },
   "soul": {
     "display_name": "mi stick",
