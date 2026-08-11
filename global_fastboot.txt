@@ -337,6 +337,7 @@ laurel_sprout_eea_global - F
 laurel_sprout_global - F
 lavender_eea_global - F
 lavender_ru_global - F
+leedsa_global - F
 light_eea_global - F
 light_global - F
 light_id_global - F
@@ -583,6 +584,7 @@ star_eea_global - F
 star_global - F
 star_id_global - F
 star_in_global - F
+steppe_global - F
 sunstone_eea_global - F
 sunstone_global - F
 sunstone_tw_global - F
