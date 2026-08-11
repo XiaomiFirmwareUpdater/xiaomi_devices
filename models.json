@@ -1435,14 +1435,14 @@
    "`26062PC92I`": "POCO M8x 5G India"
   }
  },
- "": {
-  "internal_name": "Q15A/K91/",
-  "name": "REDMI 17:/Xiaomi CyberDog:/Xiaomi EV Cockpit",
+ "leedsa": {
+  "internal_name": "Q15A",
+  "name": "REDMI 17/POCO C95 Pro",
   "models": {
    "`2606FRN72Y`": "REDMI 17 Global",
-   "`2606FRN72L`": "REDMI 17 Latin America",
-   "`21051191C`": "Xiaomi CyberDog Bio-inspired Quadruped Robot",
-   "`2405AVPB7C`": "Xiaomi EV Cockpit (SU7 2024/SU7 Ultra)"
+   "`2606FRN72L`": "REDMI 17 Latin America / Japan",
+   "`2606FPC72Y`": "POCO C95 Pro Global",
+   "`2606FPC72L`": "POCO C95 Pro Latin America"
   }
  },
  "lcsh92_wet_gb9": {
@@ -2827,6 +2827,14 @@
   "name": "Xiaomi Mijia Translator (`Babel`)",
   "models": {
    "`FYJ01QP`": "Xiaomi Mijia Translator"
+  }
+ },
+ "": {
+  "internal_name": "K91/",
+  "name": "Xiaomi CyberDog:/Xiaomi EV Cockpit",
+  "models": {
+   "`21051191C`": "Xiaomi CyberDog Bio-inspired Quadruped Robot",
+   "`2405AVPB7C`": "Xiaomi EV Cockpit (SU7 2024/SU7 Ultra)"
   }
  },
  "suiren": {
