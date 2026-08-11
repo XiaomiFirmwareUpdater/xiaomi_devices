@@ -1155,6 +1155,10 @@
     "display_name": "POCO M7 Pro 5G/Redmi Note 14 5G",
     "display_name_en": "POCO M7 Pro 5G/Redmi Note 14 5G"
   },
+  "beryl_ut_global": {
+    "display_name": "Redmi Note 14 5G/POCO M7 Pro 5G",
+    "display_name_en": "Redmi Note 14 5G/POCO M7 Pro 5G"
+  },
   "beryllium_global": {
     "display_name": "POCO F1",
     "display_name_en": "POCO F1"
