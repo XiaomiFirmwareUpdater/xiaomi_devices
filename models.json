@@ -2346,16 +2346,18 @@
  },
  "athens": {
   "internal_name": "Q11",
-  "name": "REDMI K100 Pro",
+  "name": "REDMI K100 Pro/POCO F9 Pro",
   "models": {
-   "`M511CD`": "REDMI K100 Pro China"
+   "`M511CD`": "REDMI K100 Pro China",
+   "`2607APCA5G`": "POCO F9 Pro Global"
   }
  },
  "songyuan": {
   "internal_name": "Q11X",
-  "name": "REDMI K100 Pro Max",
+  "name": "REDMI K100 Pro Max/POCO F9 Ultra",
   "models": {
-   "`M098FE`": "REDMI K100 Pro Max China"
+   "`M098FE`": "REDMI K100 Pro Max China",
+   "`26077PC53G`": "POCO F9 Ultra Global"
   }
  },
  "omega": {
