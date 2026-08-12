@@ -366,6 +366,12 @@
   }
  },
  {
+  "mist": {
+   "name": "POCO M8 Power 5G",
+   "model": "26021PC18I"
+  }
+ },
+ {
   "flourite": {
    "name": "POCO M8 Pro 5G",
    "model": "2510EPC8BG"
@@ -597,6 +603,12 @@
   "tornado": {
    "name": "REDMI 15C 5G",
    "model": "2508CRN2BI"
+  }
+ },
+ {
+  "steppe": {
+   "name": "REDMI 17 5G",
+   "model": "26062RN92G"
   }
  },
  {
