@@ -868,8 +868,8 @@
     "display_name_en": "HM 1SC"
   },
   "athens": {
-    "display_name": "XM-ATHENS",
-    "display_name_en": "XM-ATHENS"
+    "display_name": "REDMI K100 Pro",
+    "display_name_en": "REDMI K100 Pro"
   },
   "athens_demo_global": {
     "display_name": "XM-ATHENS-DEMO-GLOBAL",
@@ -5251,6 +5251,10 @@
     "display_name": "XM-GUITAR-TW-GLOBAL",
     "display_name_en": "XM-GUITAR-TW-GLOBAL"
   },
+  "guitar_ut_global": {
+    "display_name": "XM-GUITAR-UT-GLOBAL",
+    "display_name_en": "XM-GUITAR-UT-GLOBAL"
+  },
   "haotian": {
     "display_name": "Xiaomi 15 Pro",
     "display_name_en": "Xiaomi 15 Pro"
@@ -6342,6 +6346,10 @@
   "kunzite_tw_global": {
     "display_name": "POCO M8 5G/REDMI Note 15 5G",
     "display_name_en": "POCO M8 5G/REDMI Note 15 5G"
+  },
+  "kunzite_ut_global": {
+    "display_name": "REDMI Note 15 5G",
+    "display_name_en": "REDMI Note 15 5G"
   },
   "ladybird_global": {
     "display_name": "XM-LADYBIRD-GLOBAL",
@@ -7660,100 +7668,100 @@
     "display_name_en": "REDMI Note 17"
   },
   "mist_dc_global": {
-    "display_name": "TBD",
-    "display_name_en": "TBD"
+    "display_name": "REDMI Note 17 5G",
+    "display_name_en": "REDMI Note 17 5G"
   },
   "mist_demo_global": {
-    "display_name": "TBD",
-    "display_name_en": "TBD"
+    "display_name": "REDMI Note 17 5G",
+    "display_name_en": "REDMI Note 17 5G"
   },
   "mist_eea_demo_global": {
-    "display_name": "TBD",
-    "display_name_en": "TBD"
+    "display_name": "REDMI Note 17 5G",
+    "display_name_en": "REDMI Note 17 5G"
   },
   "mist_eea_global": {
-    "display_name": "TBD",
-    "display_name_en": "TBD"
+    "display_name": "REDMI Note 17 5G",
+    "display_name_en": "REDMI Note 17 5G"
   },
   "mist_global": {
-    "display_name": "TBD",
-    "display_name_en": "TBD"
+    "display_name": "REDMI Note 17 5G",
+    "display_name_en": "REDMI Note 17 5G"
   },
   "mist_id_demo_global": {
-    "display_name": "TBD",
-    "display_name_en": "TBD"
+    "display_name": "REDMI Note 17 5G",
+    "display_name_en": "REDMI Note 17 5G"
   },
   "mist_id_global": {
-    "display_name": "TBD",
-    "display_name_en": "TBD"
+    "display_name": "REDMI Note 17 5G",
+    "display_name_en": "REDMI Note 17 5G"
   },
   "mist_in_demo_global": {
-    "display_name": "TBD",
-    "display_name_en": "TBD"
+    "display_name": "REDMI Note 17 5G/POCO M8 Power 5G",
+    "display_name_en": "REDMI Note 17 5G/POCO M8 Power 5G"
   },
   "mist_in_global": {
-    "display_name": "TBD",
-    "display_name_en": "TBD"
+    "display_name": "POCO M8 Power 5G/REDMI Note 17 5G",
+    "display_name_en": "POCO M8 Power 5G/REDMI Note 17 5G"
   },
   "mist_lm_cr_global": {
-    "display_name": "TBD",
-    "display_name_en": "TBD"
+    "display_name": "REDMI Note 17 5G",
+    "display_name_en": "REDMI Note 17 5G"
   },
   "mist_mx_tc_global": {
-    "display_name": "TBD",
-    "display_name_en": "TBD"
+    "display_name": "REDMI Note 17 5G",
+    "display_name_en": "REDMI Note 17 5G"
   },
   "mist_pre_dc_global": {
-    "display_name": "TBD",
-    "display_name_en": "TBD"
+    "display_name": "REDMI Note 17 5G",
+    "display_name_en": "REDMI Note 17 5G"
   },
   "mist_pre_eea_global": {
-    "display_name": "TBD",
-    "display_name_en": "TBD"
+    "display_name": "REDMI Note 17 5G",
+    "display_name_en": "REDMI Note 17 5G"
   },
   "mist_pre_global": {
-    "display_name": "TBD",
-    "display_name_en": "TBD"
+    "display_name": "REDMI Note 17 5G",
+    "display_name_en": "REDMI Note 17 5G"
   },
   "mist_pre_id_global": {
-    "display_name": "TBD",
-    "display_name_en": "TBD"
+    "display_name": "REDMI Note 17 5G",
+    "display_name_en": "REDMI Note 17 5G"
   },
   "mist_pre_in_global": {
-    "display_name": "TBD",
-    "display_name_en": "TBD"
+    "display_name": "POCO M8 Power 5G/REDMI Note 17 5G",
+    "display_name_en": "POCO M8 Power 5G/REDMI Note 17 5G"
   },
   "mist_pre_lm_cr_global": {
-    "display_name": "TBD",
-    "display_name_en": "TBD"
+    "display_name": "REDMI Note 17 5G",
+    "display_name_en": "REDMI Note 17 5G"
   },
   "mist_pre_mx_tc_global": {
-    "display_name": "TBD",
-    "display_name_en": "TBD"
+    "display_name": "REDMI Note 17 5G",
+    "display_name_en": "REDMI Note 17 5G"
   },
   "mist_pre_ru_global": {
-    "display_name": "TBD",
-    "display_name_en": "TBD"
+    "display_name": "REDMI Note 17 5G",
+    "display_name_en": "REDMI Note 17 5G"
   },
   "mist_pre_tr_global": {
-    "display_name": "TBD",
-    "display_name_en": "TBD"
+    "display_name": "REDMI Note 17 5G",
+    "display_name_en": "REDMI Note 17 5G"
   },
   "mist_pre_tw_global": {
-    "display_name": "TBD",
-    "display_name_en": "TBD"
+    "display_name": "REDMI Note 17 5G",
+    "display_name_en": "REDMI Note 17 5G"
   },
   "mist_ru_global": {
-    "display_name": "TBD",
-    "display_name_en": "TBD"
+    "display_name": "REDMI Note 17 5G",
+    "display_name_en": "REDMI Note 17 5G"
   },
   "mist_tr_global": {
-    "display_name": "TBD",
-    "display_name_en": "TBD"
+    "display_name": "REDMI Note 17 5G",
+    "display_name_en": "REDMI Note 17 5G"
   },
   "mist_tw_global": {
-    "display_name": "TBD",
-    "display_name_en": "TBD"
+    "display_name": "REDMI Note 17 5G",
+    "display_name_en": "REDMI Note 17 5G"
   },
   "mocha": {
     "display_name": "小米平板 1",
@@ -11388,8 +11396,8 @@
     "display_name_en": "REDMI A7 Pro 5G /POCO C85x 5G "
   },
   "songyuan": {
-    "display_name": "XM-SONGYUAN",
-    "display_name_en": "XM-SONGYUAN"
+    "display_name": "REDMI K100 Pro Max",
+    "display_name_en": "REDMI K100 Pro Max"
   },
   "songyuan_demo_global": {
     "display_name": "XM-SONGYUAN-DEMO-GLOBAL",
