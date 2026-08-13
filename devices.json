@@ -6063,6 +6063,10 @@
     "display_name": "POCO X8 Pro",
     "display_name_en": "POCO X8 Pro"
   },
+  "klee_ut_global": {
+    "display_name": "POCO X8 Pro",
+    "display_name_en": "POCO X8 Pro"
+  },
   "klein_global": {
     "display_name": "Redmi A3x",
     "display_name_en": "Redmi A3x"
@@ -11376,8 +11380,8 @@
     "display_name_en": "XM-SOCRATES-PRE-GLOBAL"
   },
   "somalia": {
-    "display_name": "REDMI R70 5G/REDMI R70m 5G",
-    "display_name_en": "REDMI R70 5G/ REDMI R70m 5G/ REDMI 17 5G "
+    "display_name": "REDMI R70 5G/REDMI R70m 5G/REDMI 17 5G ",
+    "display_name_en": "REDMI R70 5G/ REDMI R70m 5G/REDMI 17 5G "
   },
   "somalia_global": {
     "display_name": "REDMI A7 Pro 5G ",
