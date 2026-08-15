@@ -660,6 +660,18 @@
   }
  },
  {
+  "athens": {
+   "name": "REDMI K100 Pro",
+   "model": "M511CD"
+  }
+ },
+ {
+  "songyuan": {
+   "name": "REDMI K100 Pro Max",
+   "model": "M098FE"
+  }
+ },
+ {
   "zorn": {
    "name": "REDMI K80",
    "model": "24117RK2CC"
@@ -813,6 +825,12 @@
   "mist": {
    "name": "REDMI Note 17",
    "model": "26021RN18C"
+  }
+ },
+ {
+  "mist": {
+   "name": "REDMI Note 17 5G",
+   "model": "26021RN18I"
   }
  },
  {
