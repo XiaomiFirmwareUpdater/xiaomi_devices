@@ -723,6 +723,42 @@
      "deviceName": "Xiaomi 12S Ultra (cn)",
      "sku": "thor",
      "projectCode": "L1"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12 Lite (ru)",
+     "sku": "taoyao_ru_global",
+     "projectCode": "L9"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12S Pro (cn)",
+     "sku": "unicorn",
+     "projectCode": "L2S"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12 Lite (global)",
+     "sku": "taoyao_global",
+     "projectCode": "L9"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12 Lite (eea)",
+     "sku": "taoyao_eea_global",
+     "projectCode": "L9"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12 Lite (tw)",
+     "sku": "taoyao_tw_global",
+     "projectCode": "L9"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12 Lite (id)",
+     "sku": "taoyao_id_global",
+     "projectCode": "L9"
     }
    ]
   },
@@ -1695,6 +1731,30 @@
      "deviceName": "Redmi K60E (cn)",
      "sku": "rembrandt",
      "projectCode": "M11R"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Pad SE (cn)",
+     "sku": "xun",
+     "projectCode": "M84"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 12R (cn)",
+     "sku": "sky",
+     "projectCode": "M19/M19P/M19J/M19D/M19Y"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 12R (cn)",
+     "sku": "sky",
+     "projectCode": "M19/M19P/M19J/M19D/M19Y"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi 12 5G (cn)",
+     "sku": "sky",
+     "projectCode": "M19/M19P/M19J/M19D/M19Y"
     }
    ]
   },
@@ -2147,5 +2207,5 @@
    ]
   }
  ],
- "updateAt": "2026-07-23T06:26:11.000Z"
+ "updateAt": "2026-08-16T22:54:19.000Z"
 }
