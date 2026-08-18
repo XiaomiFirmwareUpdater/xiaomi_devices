@@ -3763,6 +3763,10 @@
     "display_name": "XM-ERHU-TW-GLOBAL",
     "display_name_en": "XM-ERHU-TW-GLOBAL"
   },
+  "erhu_ut_global": {
+    "display_name": "XM-ERHU-UT-GLOBAL",
+    "display_name_en": "XM-ERHU-UT-GLOBAL"
+  },
   "evergo": {
     "display_name": "Redmi Note 11 5G",
     "display_name_en": "Redmi Note 11 5G"
