@@ -5219,6 +5219,10 @@
     "display_name": "XM-GUITAR-ID-GLOBAL",
     "display_name_en": "XM-GUITAR-ID-GLOBAL"
   },
+  "guitar_in_global": {
+    "display_name": "not ensure",
+    "display_name_en": "not ensure"
+  },
   "guitar_pre_eea_global": {
     "display_name": "XM-GUITAR-PRE-EEA-GLOBAL",
     "display_name_en": "XM-GUITAR-PRE-EEA-GLOBAL"
@@ -5230,6 +5234,10 @@
   "guitar_pre_id_global": {
     "display_name": "XM-GUITAR-PRE-ID-GLOBAL",
     "display_name_en": "XM-GUITAR-PRE-ID-GLOBAL"
+  },
+  "guitar_pre_in_global": {
+    "display_name": "not ensure",
+    "display_name_en": "not ensure"
   },
   "guitar_pre_ru_global": {
     "display_name": "XM-GUITAR-PRE-RU-GLOBAL",
