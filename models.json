@@ -2068,6 +2068,15 @@
    "`2510EPC8BG`": "POCO M8 Pro 5G Global"
   }
  },
+ "zephyr": {
+  "internal_name": "P19A",
+  "name": "REDMI Note 17",
+  "models": {
+   "`26012RN62A`": "REDMI Note 17 Global",
+   "`26012RN62Y`": "REDMI Note 17 Global (NFC)",
+   "`26012RN62L`": "REDMI Note 17 Latin America"
+  }
+ },
  "mist": {
   "internal_name": "P19/P19P",
   "name": "REDMI Note 17 5G/POCO M8 Power",
@@ -2089,6 +2098,16 @@
    "`2607DRA18T`": "REDMI Note 17 Pro 5G Saudi Arabia",
    "`2607DPC18G`": "POCO X8 Global",
    "`2607DPC18I`": "POCO X8 India"
+  }
+ },
+ "brussels": {
+  "internal_name": "Q16U",
+  "name": "REDMI Note 17 Pro Max 5G/POCO X8 Power",
+  "models": {
+   "`2609FRA74G`": "REDMI Note 17 Pro Max 5G Global",
+   "`2609FRA74I`": "REDMI Note 17 Pro Max 5G India",
+   "`2609FRA74T`": "REDMI Note 17 Pro Max 5G Saudi Arabia",
+   "`2609FPC74I`": "POCO X8 Power India"
   }
  },
  "atom": {
