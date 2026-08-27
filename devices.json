@@ -2483,6 +2483,10 @@
     "display_name": "Redmi 15/POCO M7",
     "display_name_en": "Redmi 15/POCO M7"
   },
+  "creek_ut_global": {
+    "display_name": "Redmi 15",
+    "display_name_en": "Redmi 15"
+  },
   "crux": {
     "display_name": "小米9 Pro",
     "display_name_en": "Mi9 Pro 5G"
@@ -7903,6 +7907,10 @@
     "display_name": "REDMI Note 17 5G",
     "display_name_en": "REDMI Note 17 5G"
   },
+  "mist_ut_global": {
+    "display_name": "REDMI Note 17 5G",
+    "display_name_en": "REDMI Note 17 5G"
+  },
   "mocha": {
     "display_name": "小米平板 1",
     "display_name_en": "MI PAD"
@@ -11540,76 +11548,76 @@
     "display_name_en": "REDMI K100 Pro Max"
   },
   "songyuan_demo_global": {
-    "display_name": "XM-SONGYUAN-DEMO-GLOBAL",
-    "display_name_en": "XM-SONGYUAN-DEMO-GLOBAL"
+    "display_name": "POCO F9 Ultra",
+    "display_name_en": "POCO F9 Ultra"
   },
   "songyuan_eea_global": {
-    "display_name": "XM-SONGYUAN-EEA-GLOBAL",
-    "display_name_en": "XM-SONGYUAN-EEA-GLOBAL"
+    "display_name": "POCO F9 Ultra",
+    "display_name_en": "POCO F9 Ultra"
   },
   "songyuan_eea_ut_global": {
-    "display_name": "XM-SONGYUAN-EEA-UT-GLOBAL",
-    "display_name_en": "XM-SONGYUAN-EEA-UT-GLOBAL"
+    "display_name": "POCO F9 Ultra",
+    "display_name_en": "POCO F9 Ultra"
   },
   "songyuan_global": {
-    "display_name": "XM-SONGYUAN-GLOBAL",
-    "display_name_en": "XM-SONGYUAN-GLOBAL"
+    "display_name": "POCO F9 Ultra",
+    "display_name_en": "POCO F9 Ultra"
   },
   "songyuan_id_global": {
-    "display_name": "XM-SONGYUAN-ID-GLOBAL",
-    "display_name_en": "XM-SONGYUAN-ID-GLOBAL"
+    "display_name": "POCO F9 Ultra",
+    "display_name_en": "POCO F9 Ultra"
   },
   "songyuan_jp_global": {
-    "display_name": "XM-SONGYUAN-JP-GLOBAL",
-    "display_name_en": "XM-SONGYUAN-JP-GLOBAL"
+    "display_name": "POCO F9 Ultra",
+    "display_name_en": "POCO F9 Ultra"
   },
   "songyuan_pre_eea_global": {
-    "display_name": "XM-SONGYUAN-PRE-EEA-GLOBAL",
-    "display_name_en": "XM-SONGYUAN-PRE-EEA-GLOBAL"
+    "display_name": "POCO F9 Ultra",
+    "display_name_en": "POCO F9 Ultra"
   },
   "songyuan_pre_global": {
-    "display_name": "XM-SONGYUAN-PRE-GLOBAL",
-    "display_name_en": "XM-SONGYUAN-PRE-GLOBAL"
+    "display_name": "POCO F9 Ultra",
+    "display_name_en": "POCO F9 Ultra"
   },
   "songyuan_pre_id_global": {
-    "display_name": "XM-SONGYUAN-PRE-ID-GLOBAL",
-    "display_name_en": "XM-SONGYUAN-PRE-ID-GLOBAL"
+    "display_name": "POCO F9 Ultra",
+    "display_name_en": "POCO F9 Ultra"
   },
   "songyuan_pre_jp_global": {
-    "display_name": "XM-SONGYUAN-PRE-JP-GLOBAL",
-    "display_name_en": "XM-SONGYUAN-PRE-JP-GLOBAL"
+    "display_name": "POCO F9 Ultra",
+    "display_name_en": "POCO F9 Ultra"
   },
   "songyuan_pre_ru_global": {
-    "display_name": "XM-SONGYUAN-PRE-RU-GLOBAL",
-    "display_name_en": "XM-SONGYUAN-PRE-RU-GLOBAL"
+    "display_name": "POCO F9 Ultra",
+    "display_name_en": "POCO F9 Ultra"
   },
   "songyuan_pre_tr_global": {
-    "display_name": "XM-SONGYUAN-PRE-TR-GLOBAL",
-    "display_name_en": "XM-SONGYUAN-PRE-TR-GLOBAL"
+    "display_name": "POCO F9 Ultra",
+    "display_name_en": "POCO F9 Ultra"
   },
   "songyuan_pre_tw_global": {
-    "display_name": "XM-SONGYUAN-PRE-TW-GLOBAL",
-    "display_name_en": "XM-SONGYUAN-PRE-TW-GLOBAL"
+    "display_name": "POCO F9 Ultra",
+    "display_name_en": "POCO F9 Ultra"
   },
   "songyuan_ru_global": {
-    "display_name": "XM-SONGYUAN-RU-GLOBAL",
-    "display_name_en": "XM-SONGYUAN-RU-GLOBAL"
+    "display_name": "POCO F9 Ultra",
+    "display_name_en": "POCO F9 Ultra"
   },
   "songyuan_tr_global": {
-    "display_name": "XM-SONGYUAN-TR-GLOBAL",
-    "display_name_en": "XM-SONGYUAN-TR-GLOBAL"
+    "display_name": "POCO F9 Ultra",
+    "display_name_en": "POCO F9 Ultra"
   },
   "songyuan_tw_global": {
-    "display_name": "XM-SONGYUAN-TW-GLOBAL",
-    "display_name_en": "XM-SONGYUAN-TW-GLOBAL"
+    "display_name": "POCO F9 Ultra",
+    "display_name_en": "POCO F9 Ultra"
   },
   "songyuan_tw_ut_global": {
-    "display_name": "XM-SONGYUAN-TW-UT-GLOBAL",
-    "display_name_en": "XM-SONGYUAN-TW-UT-GLOBAL"
+    "display_name": "POCO F9 Ultra",
+    "display_name_en": "POCO F9 Ultra"
   },
   "songyuan_ut_global": {
-    "display_name": "XM-SONGYUAN-UT-GLOBAL",
-    "display_name_en": "XM-SONGYUAN-UT-GLOBAL"
+    "display_name": "POCO F9 Ultra",
+    "display_name_en": "POCO F9 Ultra"
   },
   "soul": {
     "display_name": "mi stick",
@@ -14554,6 +14562,90 @@
   "yupei_tw_global": {
     "display_name": "Xiaomi Pad 8/Xiaomi Pad 9",
     "display_name_en": "Xiaomi Pad 8/Xiaomi Pad 9"
+  },
+  "zephyr_dc_global": {
+    "display_name": "REDMI Note 17",
+    "display_name_en": "REDMI Note 17"
+  },
+  "zephyr_eea_global": {
+    "display_name": "REDMI Note 17",
+    "display_name_en": "REDMI Note 17"
+  },
+  "zephyr_global": {
+    "display_name": "REDMI Note 17",
+    "display_name_en": "REDMI Note 17"
+  },
+  "zephyr_id_global": {
+    "display_name": "REDMI Note 17",
+    "display_name_en": "REDMI Note 17"
+  },
+  "zephyr_lm_cr_global": {
+    "display_name": "REDMI Note 17",
+    "display_name_en": "REDMI Note 17"
+  },
+  "zephyr_mx_tc_global": {
+    "display_name": "REDMI Note 17",
+    "display_name_en": "REDMI Note 17"
+  },
+  "zephyr_pre_dc_global": {
+    "display_name": "REDMI Note 17",
+    "display_name_en": "REDMI Note 17"
+  },
+  "zephyr_pre_eea_global": {
+    "display_name": "REDMI Note 17",
+    "display_name_en": "REDMI Note 17"
+  },
+  "zephyr_pre_global": {
+    "display_name": "REDMI Note 17",
+    "display_name_en": "REDMI Note 17"
+  },
+  "zephyr_pre_id_global": {
+    "display_name": "REDMI Note 17",
+    "display_name_en": "REDMI Note 17"
+  },
+  "zephyr_pre_lm_cr_global": {
+    "display_name": "REDMI Note 17",
+    "display_name_en": "REDMI Note 17"
+  },
+  "zephyr_pre_mx_tc_global": {
+    "display_name": "REDMI Note 17",
+    "display_name_en": "REDMI Note 17"
+  },
+  "zephyr_pre_ru_global": {
+    "display_name": "REDMI Note 17",
+    "display_name_en": "REDMI Note 17"
+  },
+  "zephyr_pre_tr_global": {
+    "display_name": "REDMI Note 17",
+    "display_name_en": "REDMI Note 17"
+  },
+  "zephyr_pre_tw_global": {
+    "display_name": "REDMI Note 17",
+    "display_name_en": "REDMI Note 17"
+  },
+  "zephyr_pre_wt_global": {
+    "display_name": "REDMI Note 17",
+    "display_name_en": "REDMI Note 17"
+  },
+  "zephyr_ru_global": {
+    "display_name": "REDMI Note 17",
+    "display_name_en": "REDMI Note 17"
+  },
+  "zephyr_tr_global": {
+    "display_name": "REDMI Note 17",
+    "display_name_en": "REDMI Note 17"
+  },
+  "zephyr_tw_global": {
+    "display_name": "REDMI Note 17",
+    "display_name_en": "REDMI Note 17"
+  },
+  "zephyr_ut_global": {
+    "display_name": "REDMI Note 17",
+    "display_name_en": "REDMI Note 17"
+  },
+  "zephyr_wt_global": {
+    "display_name": "REDMI Note 17",
+    "display_name_en": "REDMI Note 17"
   },
   "zeus": {
     "display_name": "Xiaomi 12 Pro",
