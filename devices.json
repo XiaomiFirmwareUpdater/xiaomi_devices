@@ -647,6 +647,10 @@
     "display_name": "REDMI A7 Pro/POCO C81",
     "display_name_en": "REDMI A7 Pro/POCO C81"
   },
+  "arctic_in_ut_global": {
+    "display_name": "POCO C81/REDMI A7 Pro",
+    "display_name_en": "POCO C81/REDMI A7 Pro"
+  },
   "arctic_lm_cr_global": {
     "display_name": "REDMI A7 Pro",
     "display_name_en": "REDMI A7 Pro"
@@ -700,6 +704,10 @@
     "display_name_en": "REDMI A7 Pro/POCO C81 Pro"
   },
   "arctic_tr_global": {
+    "display_name": "POCO C81 Pro/REDMI A7 Pro",
+    "display_name_en": "POCO C81 Pro/REDMI A7 Pro"
+  },
+  "arctic_ut_global": {
     "display_name": "POCO C81 Pro/REDMI A7 Pro",
     "display_name_en": "POCO C81 Pro/REDMI A7 Pro"
   },
