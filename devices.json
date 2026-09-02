@@ -828,6 +828,24 @@
   }
  },
  {
+  "zephyr": {
+   "name": "REDMI Note 17",
+   "model": "26012RN62A"
+  }
+ },
+ {
+  "zephyr": {
+   "name": "REDMI Note 17",
+   "model": "26012RN62L"
+  }
+ },
+ {
+  "zephyr": {
+   "name": "REDMI Note 17",
+   "model": "26012RN62Y"
+  }
+ },
+ {
   "mist": {
    "name": "REDMI Note 17 5G",
    "model": "26021RN18I"
