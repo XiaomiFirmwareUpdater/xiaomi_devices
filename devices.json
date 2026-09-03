@@ -6251,6 +6251,10 @@
     "display_name": "Xiaomi 15T Pro",
     "display_name_en": "Xiaomi 15T Pro"
   },
+  "klimt_eea_ut_global": {
+    "display_name": "Xiaomi 15T Pro",
+    "display_name_en": "Xiaomi 15T Pro"
+  },
   "klimt_global": {
     "display_name": "Xiaomi 15T Pro",
     "display_name_en": "Xiaomi 15T Pro"
@@ -6982,6 +6986,10 @@
   "leedsa_tw_global": {
     "display_name": "POCO C95 Pro/REDMI 17",
     "display_name_en": "POCO C95 Pro/REDMI 17"
+  },
+  "leedsa_ut_global": {
+    "display_name": "REDMI 17/POCO C95 Pro",
+    "display_name_en": "REDMI 17/POCO C95 Pro"
   },
   "leedsa_wt_global": {
     "display_name": "REDMI 17",
