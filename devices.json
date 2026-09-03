@@ -504,6 +504,12 @@
   }
  },
  {
+  "iolite": {
+   "name": "POCO X8",
+   "model": "2607DPC18G"
+  }
+ },
+ {
   "klee": {
    "name": "POCO X8 Pro",
    "model": "2511FPC34G"
@@ -614,7 +620,19 @@
  {
   "serenity": {
    "name": "REDMI A7",
+   "model": "26020RNB4A"
+  }
+ },
+ {
+  "serenity": {
+   "name": "REDMI A7",
    "model": "26020RNB4I"
+  }
+ },
+ {
+  "serenity": {
+   "name": "REDMI A7",
+   "model": "26020RNB4L"
   }
  },
  {
@@ -849,6 +867,42 @@
   "mist": {
    "name": "REDMI Note 17 5G",
    "model": "26021RN18I"
+  }
+ },
+ {
+  "mist": {
+   "name": "REDMI Note 17 5G",
+   "model": "26081RA18G"
+  }
+ },
+ {
+  "mist": {
+   "name": "REDMI Note 17 5G",
+   "model": "26081RA18L"
+  }
+ },
+ {
+  "iolite": {
+   "name": "REDMI Note 17 Pro",
+   "model": "2607DRA18C"
+  }
+ },
+ {
+  "iolite": {
+   "name": "REDMI Note 17 Pro 5G",
+   "model": "2607DRA18G"
+  }
+ },
+ {
+  "iolite": {
+   "name": "REDMI Note 17 Pro 5G",
+   "model": "2607DRA18T"
+  }
+ },
+ {
+  "brussels": {
+   "name": "REDMI Note 17 Pro Max 5G",
+   "model": "2609FRA74G"
   }
  },
  {
