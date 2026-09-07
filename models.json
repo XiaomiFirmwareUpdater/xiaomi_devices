@@ -669,6 +669,13 @@
    "`M025EC`": "Xiaomi 17T Pro China"
   }
  },
+ "lhasa": {
+  "internal_name": "Q18",
+  "name": "Xiaomi 18 Fold",
+  "models": {
+   "`2608BPX34C`": "Xiaomi 18 Fold China"
+  }
+ },
  "virgo": {
   "internal_name": "X5",
   "name": "Mi Note",
@@ -1169,26 +1176,24 @@
   }
  },
  "dandelion": {
-  "internal_name": "C3L/C3L2",
-  "name": "Redmi 9A/Redmi 9AT/Redmi 9i/Redmi 10A",
+  "internal_name": "C3L",
+  "name": "Redmi 9A/Redmi 9AT/Redmi 9i",
   "models": {
    "`M2006C3LG`": "Redmi 9A Global",
    "`M2006C3LVG`": "Redmi 9AT Global",
    "`M2006C3LI`": "Redmi 9A India / Redmi 9A Sport India",
    "`M2006C3LII`": "Redmi 9i India / Redmi 9i Sport India",
-   "`M2006C3LC`": "Redmi 9A China",
-   "`220233L2G`": "Redmi 10A Global",
-   "`220233L2I`": "Redmi 10A India / Redmi 10A Sport India",
-   "`220233L2C`": "Redmi 10A China"
+   "`M2006C3LC`": "Redmi 9A China"
   }
  },
  "angelica": {
   "internal_name": "C3M/C3MI",
-  "name": "Redmi 9C/Redmi 9/Redmi 9 Activ",
+  "name": "Redmi 9C/Redmi 9/Redmi 9 Activ/POCO C3",
   "models": {
    "`M2006C3MG`": "Redmi 9C Global",
    "`M2006C3MT`": "Redmi 9C Thailand",
-   "`M2006C3MII`": "Redmi 9 India / Redmi 9 Activ India"
+   "`M2006C3MII`": "Redmi 9 India / Redmi 9 Activ India",
+   "`M2006C3MI`": "POCO C3 India"
   }
  },
  "angelican": {
@@ -1227,14 +1232,13 @@
   }
  },
  "light": {
-  "internal_name": "L19/L19N/L19X/L19P",
-  "name": "Redmi 10 5G/Redmi 11 Prime 5G/Redmi Note 11E 5G/Redmi Note 11R/POCO M4 5G",
+  "internal_name": "L19/L19N/L19P",
+  "name": "Redmi 10 5G/Redmi 11 Prime 5G/Redmi Note 11E 5G/POCO M4 5G",
   "models": {
    "`22041219G`": "Redmi 10 5G Global",
    "`22041219I`": "Redmi 11 Prime 5G India",
    "`22041219NY`": "Redmi 10 5G Global (NFC)",
    "`22041219C`": "Redmi Note 11E 5G China",
-   "`22095RA98C`": "Redmi Note 11R 5G China",
    "`22041219PG`": "POCO M4 5G Global",
    "`22041219PI`": "POCO M4 5G India"
   }
@@ -1247,6 +1251,15 @@
    "`220333QBI`": "Redmi 10 India / Redmi 10 Power India",
    "`220333QNY`": "Redmi 10C Global (NFC)",
    "`220333QL`": "Redmi 10C Latin America"
+  }
+ },
+ "dandelion_c3l2": {
+  "internal_name": "C3L2",
+  "name": "Redmi 10A",
+  "models": {
+   "`220233L2G`": "Redmi 10A Global",
+   "`220233L2I`": "Redmi 10A India / Redmi 10A Sport India",
+   "`220233L2C`": "Redmi 10A China"
   }
  },
  "rock": {
@@ -1411,6 +1424,8 @@
    "`2508CRN2BR`": "REDMI 15C 5G Japan",
    "`25082RNC1C`": "REDMI 15R 5G China",
    "`2607FRNEAG`": "REDMI 17C 5G Global",
+   "`2607FRNEAI`": "REDMI 17C 5G India",
+   "`2612FRNEAR`": "REDMI 17C 5G Japan",
    "`2508CPC2BI`": "POCO C85 5G India"
   }
  },
@@ -1657,12 +1672,11 @@
  },
  "curtana": {
   "internal_name": "J6A1",
-  "name": "Redmi Note 9 Pro/Redmi Note 9S/Redmi Note 10 Lite",
+  "name": "Redmi Note 9 Pro/Redmi Note 9S",
   "models": {
    "`M2003J6A1G`": "Redmi Note 9S Global",
    "`M2003J6A1R`": "Redmi Note 9S Japan / Redmi Note 9S Korea",
-   "`M2003J6A1I`": "Redmi Note 9 Pro India",
-   "`2109106A1I`": "Redmi Note 10 Lite India"
+   "`M2003J6A1I`": "Redmi Note 9 Pro India"
   }
  },
  "excalibur": {
@@ -1688,15 +1702,14 @@
   }
  },
  "rosemary": {
-  "internal_name": "K7B/K7BN/K7BL/K7BR/K7BP",
-  "name": "Redmi Note 10S/Redmi Note 11 SE/POCO M5s",
+  "internal_name": "K7B/K7BN/K7BL/K7BR",
+  "name": "Redmi Note 10S/Redmi Note 11 SE",
   "models": {
    "`M2101K7BG`": "Redmi Note 10S Global",
    "`M2101K7BI`": "Redmi Note 10S India",
    "`M2101K7BNY`": "Redmi Note 10S Global (NFC)",
    "`M2101K7BL`": "Redmi Note 10S Latin America",
-   "`22087RA4DI`": "Redmi Note 11 SE India",
-   "`2207117BPG`": "POCO M5s Global"
+   "`22087RA4DI`": "Redmi Note 11 SE India"
   }
  },
  "camellian": {
@@ -1733,13 +1746,12 @@
   }
  },
  "sweet": {
-  "internal_name": "K6/K6A",
-  "name": "Redmi Note 10 Pro/Redmi Note 12 Pro",
+  "internal_name": "K6",
+  "name": "Redmi Note 10 Pro",
   "models": {
    "`M2101K6G`": "Redmi Note 10 Pro Global",
    "`M2101K6T`": "Redmi Note 10 Pro Thailand",
-   "`M2101K6R`": "Redmi Note 10 Pro Japan",
-   "`2209116AG`": "Redmi Note 12 Pro Global"
+   "`M2101K6R`": "Redmi Note 10 Pro Japan"
   }
  },
  "sweetin": {
@@ -1756,6 +1768,13 @@
   "models": {
    "`M2104K10AC`": "Redmi Note 10 Pro 5G China",
    "`21061110AG`": "POCO X3 GT Global"
+  }
+ },
+ "curtana_in_rf": {
+  "internal_name": "J6A1",
+  "name": "Redmi Note 10 Lite",
+  "models": {
+   "`2109106A1I`": "Redmi Note 10 Lite India"
   }
  },
  "spes": {
@@ -1838,6 +1857,13 @@
    "`22041216G`": "POCO X4 GT Global"
   }
  },
+ "lightcm": {
+  "internal_name": "L19X",
+  "name": "Redmi Note 11R",
+  "models": {
+   "`22095RA98C`": "Redmi Note 11R 5G China"
+  }
+ },
  "tapas": {
   "internal_name": "M7/M7U/M7L",
   "name": "Redmi Note 12",
@@ -1870,6 +1896,13 @@
    "`2303CRA44A`": "Redmi Note 12S Global",
    "`2303ERA42L`": "Redmi Note 12S Latin America",
    "`23030RAC7Y`": "Redmi Note 12S Global (NFC)"
+  }
+ },
+ "sweet_k6a": {
+  "internal_name": "K6A",
+  "name": "Redmi Note 12 Pro",
+  "models": {
+   "`2209116AG`": "Redmi Note 12 Pro Global"
   }
  },
  "ruby": {
@@ -1937,11 +1970,10 @@
   }
  },
  "emerald": {
-  "internal_name": "N6/N6R/N6P",
-  "name": "Redmi Note 13 Pro/Redmi Note 14S/POCO M6 Pro",
+  "internal_name": "N6/N6P",
+  "name": "Redmi Note 13 Pro/POCO M6 Pro",
   "models": {
    "`23117RA68G`": "Redmi Note 13 Pro Global",
-   "`2502FRA65G`": "Redmi Note 14S Global",
    "`2312FPCA6G`": "POCO M6 Pro Global"
   }
  },
@@ -1986,6 +2018,13 @@
    "`24094RAD4I`": "Redmi Note 14 5G India / Redmi Note 14 SE 5G India",
    "`24094RAD4C`": "Redmi Note 14 5G China / REDMI Note 15R Pro China",
    "`2409FPCC4G`": "POCO M7 Pro 5G Global"
+  }
+ },
+ "emerald_r": {
+  "internal_name": "N6R",
+  "name": "Redmi Note 14S",
+  "models": {
+   "`2502FRA65G`": "Redmi Note 14S Global"
   }
  },
  "obsidian": {
@@ -2105,7 +2144,7 @@
   "name": "REDMI Note 17 Pro Max 5G/POCO X8 Power",
   "models": {
    "`2609FRA74G`": "REDMI Note 17 Pro Max 5G Global",
-   "`2609FRA74I`": "REDMI Note 17 Pro Max 5G India",
+   "`2609FRA74I` `2609FRA56I`": "REDMI Note 17 Pro Max 5G India",
    "`2609FRA74T`": "REDMI Note 17 Pro Max 5G Saudi Arabia",
    "`2609FPC74I`": "POCO X8 Power India"
   }
@@ -2192,7 +2231,7 @@
    "`M2001G7AC`": "Redmi K30 5G China"
   }
  },
- "picasso48m": {
+ "picasso_48m": {
   "internal_name": "G7A",
   "name": "Redmi K30i 5G",
   "models": {
@@ -2564,11 +2603,17 @@
    "`21091116AG`": "POCO M4 Pro 5G Global"
   }
  },
- "angelicain": {
-  "internal_name": "C3M/C3M2",
-  "name": "POCO C3/POCO C31",
+ "rosemary_p": {
+  "internal_name": "K7BP",
+  "name": "POCO M5s",
   "models": {
-   "`M2006C3MI`": "POCO C3 India",
+   "`2207117BPG`": "POCO M5s Global"
+  }
+ },
+ "angelicain": {
+  "internal_name": "C3M2",
+  "name": "POCO C31",
+  "models": {
    "`211033MI`": "POCO C31 India"
   }
  },
@@ -2724,6 +2769,13 @@
   "models": {
    "`25091RP04G`": "Xiaomi Pad 8 Pro Global",
    "`25091RP04C`": "Xiaomi Pad 8 Pro China"
+  }
+ },
+ "yingtian": {
+  "internal_name": "Q81A",
+  "name": "Xiaomi Pad 9 Pro Max",
+  "models": {
+   "`M367FC`": "Xiaomi Pad 9 Pro Max China"
   }
  },
  "yunluo": {
