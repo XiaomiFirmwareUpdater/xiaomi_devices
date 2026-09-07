@@ -5207,6 +5207,10 @@
     "display_name": "Xiaomi 15T",
     "display_name_en": "Xiaomi 15T"
   },
+  "goya_eea_ut_global": {
+    "display_name": "Xiaomi 15T",
+    "display_name_en": "Xiaomi 15T"
+  },
   "goya_global": {
     "display_name": "Xiaomi 15T",
     "display_name_en": "Xiaomi 15T"
@@ -7002,6 +7006,10 @@
   "leo_global": {
     "display_name": "小米Note 顶配国际版",
     "display_name_en": "MI Note Pro"
+  },
+  "lhasa": {
+    "display_name": "Xiaomi 18 Fold",
+    "display_name_en": "Xiaomi 18 Fold"
   },
   "libra": {
     "display_name": "小米手机4c",
@@ -14406,6 +14414,10 @@
   "yili": {
     "display_name": "REDMI K Pad 2",
     "display_name_en": "REDMI K Pad 2"
+  },
+  "yingtian": {
+    "display_name": "Xiaomi Pad 9 Pro Max",
+    "display_name_en": "Xiaomi Pad 9 Pro Max"
   },
   "ysl": {
     "display_name": "红米S2",
