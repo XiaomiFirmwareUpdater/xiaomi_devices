@@ -6407,6 +6407,10 @@
     "display_name": "Redmi Pad 2 4G",
     "display_name_en": "Redmi Pad 2 4G"
   },
+  "koto_ut_global": {
+    "display_name": "Redmi Pad 2 4G",
+    "display_name_en": "Redmi Pad 2 4G"
+  },
   "kunzite": {
     "display_name": "REDMI Note 15",
     "display_name_en": "REDMI Note 15"
@@ -12447,11 +12451,19 @@
     "display_name": "Redmi Pad 2",
     "display_name_en": "Redmi Pad 2"
   },
+  "taiko_eea_ut_global": {
+    "display_name": "Redmi Pad 2",
+    "display_name_en": "Redmi Pad 2"
+  },
   "taiko_global": {
     "display_name": "Redmi Pad 2",
     "display_name_en": "Redmi Pad 2"
   },
   "taiko_id_global": {
+    "display_name": "Redmi Pad 2",
+    "display_name_en": "Redmi Pad 2"
+  },
+  "taiko_id_ut_global": {
     "display_name": "Redmi Pad 2",
     "display_name_en": "Redmi Pad 2"
   },
@@ -12496,6 +12508,14 @@
     "display_name_en": "Redmi Pad 2"
   },
   "taiko_tw_global": {
+    "display_name": "Redmi Pad 2",
+    "display_name_en": "Redmi Pad 2"
+  },
+  "taiko_tw_ut_global": {
+    "display_name": "Redmi Pad 2",
+    "display_name_en": "Redmi Pad 2"
+  },
+  "taiko_ut_global": {
     "display_name": "Redmi Pad 2",
     "display_name_en": "Redmi Pad 2"
   },
