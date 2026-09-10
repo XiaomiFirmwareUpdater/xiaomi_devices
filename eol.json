@@ -759,6 +759,12 @@
      "deviceName": "Xiaomi 12 Lite (id)",
      "sku": "taoyao_id_global",
      "projectCode": "L9"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12 Lite (tr)",
+     "sku": "taoyao_tr_global",
+     "projectCode": "L9"
     }
    ]
   },
@@ -2207,5 +2213,5 @@
    ]
   }
  ],
- "updateAt": "2026-08-16T22:54:19.000Z"
+ "updateAt": "2026-09-10T00:49:01.000Z"
 }
