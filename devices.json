@@ -390,6 +390,12 @@
   }
  },
  {
+  "steppe": {
+   "name": "POCO M8x 5G",
+   "model": "26062PC92I"
+  }
+ },
+ {
   "dizi": {
    "name": "POCO Pad",
    "model": "2405CPCFBG"
@@ -4614,6 +4620,12 @@
   }
  },
  {
+  "lhasa": {
+   "name": "Xiaomi 18 Fold",
+   "model": "2608BPX34C"
+  }
+ },
+ {
   "mona": {
    "name": "Xiaomi Civi",
    "model": "2109119BC"
@@ -4791,6 +4803,12 @@
   "piano": {
    "name": "Xiaomi Pad 8 Pro",
    "model": "25091RP04C"
+  }
+ },
+ {
+  "yingtian": {
+   "name": "Xiaomi Pad 9 Pro Max",
+   "model": "M367FC"
   }
  },
  {
