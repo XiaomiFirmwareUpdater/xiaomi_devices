@@ -2538,7 +2538,7 @@
   "internal_name": "E10",
   "name": "POCO F1",
   "models": {
-   "`M1805E10A`": "POCO F1"
+   "`M1805E10A`": "POCO F1 Global"
   }
  },
  "phoenixin": {
@@ -2755,12 +2755,15 @@
   }
  },
  "yupei": {
-  "internal_name": "P82",
-  "name": "Xiaomi Pad 8",
+  "internal_name": "P82/Q82",
+  "name": "Xiaomi Pad 8/Xiaomi Pad 9",
   "models": {
    "`25097RP43G`": "Xiaomi Pad 8 Global",
    "`25097RP43C`": "Xiaomi Pad 8 China",
-   "`25097RP43I`": "Xiaomi Pad 8 India"
+   "`25097RP43I`": "Xiaomi Pad 8 India",
+   "`26103RP65G`": "Xiaomi Pad 9 Global",
+   "`26103RP65I`": "Xiaomi Pad 9 India",
+   "`M656BA`": "Xiaomi Pad 9 China"
   }
  },
  "piano": {
@@ -2769,6 +2772,14 @@
   "models": {
    "`25091RP04G`": "Xiaomi Pad 8 Pro Global",
    "`25091RP04C`": "Xiaomi Pad 8 Pro China"
+  }
+ },
+ "shuntian": {
+  "internal_name": "Q81",
+  "name": "Xiaomi Pad 9 Pro",
+  "models": {
+   "`2612CRPFFG`": "Xiaomi Pad 9 Pro Global",
+   "`2612CRPFFC`": "Xiaomi Pad 9 Pro China"
   }
  },
  "yingtian": {
