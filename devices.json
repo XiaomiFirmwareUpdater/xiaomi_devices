@@ -11439,6 +11439,82 @@
     "display_name": "POCO M2",
     "display_name_en": "POCO M2"
   },
+  "shuntian": {
+    "display_name": "Xiaomi Pad 9 Pro",
+    "display_name_en": "Xiaomi Pad 9 Pro"
+  },
+  "shuntian_eea_global": {
+    "display_name": "XM-SHUNTIAN-EEA-GLOBAL",
+    "display_name_en": "XM-SHUNTIAN-EEA-GLOBAL"
+  },
+  "shuntian_eea_ut_global": {
+    "display_name": "XM-SHUNTIAN-EEA-UT-GLOBAL",
+    "display_name_en": "XM-SHUNTIAN-EEA-UT-GLOBAL"
+  },
+  "shuntian_global": {
+    "display_name": "XM-SHUNTIAN-GLOBAL",
+    "display_name_en": "XM-SHUNTIAN-GLOBAL"
+  },
+  "shuntian_id_global": {
+    "display_name": "XM-SHUNTIAN-ID-GLOBAL",
+    "display_name_en": "XM-SHUNTIAN-ID-GLOBAL"
+  },
+  "shuntian_id_ut_global": {
+    "display_name": "XM-SHUNTIAN-ID-UT-GLOBAL",
+    "display_name_en": "XM-SHUNTIAN-ID-UT-GLOBAL"
+  },
+  "shuntian_in_global": {
+    "display_name": "XM-SHUNTIAN-IN-GLOBAL",
+    "display_name_en": "XM-SHUNTIAN-IN-GLOBAL"
+  },
+  "shuntian_pre_eea_global": {
+    "display_name": "XM-SHUNTIAN-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-SHUNTIAN-PRE-EEA-GLOBAL"
+  },
+  "shuntian_pre_global": {
+    "display_name": "XM-SHUNTIAN-PRE-GLOBAL",
+    "display_name_en": "XM-SHUNTIAN-PRE-GLOBAL"
+  },
+  "shuntian_pre_id_global": {
+    "display_name": "XM-SHUNTIAN-PRE-ID-GLOBAL",
+    "display_name_en": "XM-SHUNTIAN-PRE-ID-GLOBAL"
+  },
+  "shuntian_pre_in_global": {
+    "display_name": "XM-SHUNTIAN-PRE-IN-GLOBAL",
+    "display_name_en": "XM-SHUNTIAN-PRE-IN-GLOBAL"
+  },
+  "shuntian_pre_ru_global": {
+    "display_name": "XM-SHUNTIAN-PRE-RU-GLOBAL",
+    "display_name_en": "XM-SHUNTIAN-PRE-RU-GLOBAL"
+  },
+  "shuntian_pre_tr_global": {
+    "display_name": "XM-SHUNTIAN-PRE-TR-GLOBAL",
+    "display_name_en": "XM-SHUNTIAN-PRE-TR-GLOBAL"
+  },
+  "shuntian_pre_tw_global": {
+    "display_name": "XM-SHUNTIAN-PRE-TW-GLOBAL",
+    "display_name_en": "XM-SHUNTIAN-PRE-TW-GLOBAL"
+  },
+  "shuntian_ru_global": {
+    "display_name": "XM-SHUNTIAN-RU-GLOBAL",
+    "display_name_en": "XM-SHUNTIAN-RU-GLOBAL"
+  },
+  "shuntian_tr_global": {
+    "display_name": "XM-SHUNTIAN-TR-GLOBAL",
+    "display_name_en": "XM-SHUNTIAN-TR-GLOBAL"
+  },
+  "shuntian_tw_global": {
+    "display_name": "XM-SHUNTIAN-TW-GLOBAL",
+    "display_name_en": "XM-SHUNTIAN-TW-GLOBAL"
+  },
+  "shuntian_tw_ut_global": {
+    "display_name": "XM-SHUNTIAN-TW-UT-GLOBAL",
+    "display_name_en": "XM-SHUNTIAN-TW-UT-GLOBAL"
+  },
+  "shuntian_ut_global": {
+    "display_name": "XM-SHUNTIAN-UT-GLOBAL",
+    "display_name_en": "XM-SHUNTIAN-UT-GLOBAL"
+  },
   "sirius": {
     "display_name": "小米8 SE",
     "display_name_en": "MI 8 SE"
