@@ -1,6 +1,32 @@
 {
  "items": [
   {
+   "id": 112,
+   "status": 1,
+   "deviceName": "Xiaomi 17T",
+   "releaseDate": "2026-05",
+   "securityUpdateEol": "2032-06",
+   "updateFrequency": "Every 90 days",
+   "updateFrequencyTl": "Every 90 days",
+   "shippedVersion": "Android 16",
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20",
+   "createdAt": "2026-09-16T03:24:55.000Z",
+   "updatedAt": "2026-09-16T07:29:07.000Z"
+  },
+  {
+   "id": 113,
+   "status": 1,
+   "deviceName": "Xiaomi 17T Pro",
+   "releaseDate": "2026-05",
+   "securityUpdateEol": "2032-06",
+   "updateFrequency": "Every 90 days",
+   "updateFrequencyTl": "Every 90 days",
+   "shippedVersion": "Android 16",
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20",
+   "createdAt": "2026-09-16T07:28:34.000Z",
+   "updatedAt": "2026-09-16T07:29:24.000Z"
+  },
+  {
    "id": 108,
    "status": 1,
    "deviceName": "REDMI A7 Pro",
@@ -1327,5 +1353,5 @@
    "updatedAt": "2024-03-11T15:46:51.000Z"
   }
  ],
- "total": 102
+ "total": 104
 }
