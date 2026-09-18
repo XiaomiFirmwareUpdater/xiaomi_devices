@@ -12023,6 +12023,10 @@
     "display_name": "POCO M7 Plus 5G/Redmi 15 5G",
     "display_name_en": "POCO M7 Plus 5G/Redmi 15 5G"
   },
+  "spring_in_ut_global": {
+    "display_name": "Redmi 15 5G/POCO M7 Plus 5G",
+    "display_name_en": "Redmi 15 5G/POCO M7 Plus 5G"
+  },
   "spring_jp_global": {
     "display_name": "Redmi 15 5G",
     "display_name_en": "Redmi 15 5G"
@@ -12096,6 +12100,10 @@
     "display_name_en": "Redmi 15 5G"
   },
   "spring_tw_global": {
+    "display_name": "Redmi 15 5G/TBD",
+    "display_name_en": "Redmi 15 5G/TBD"
+  },
+  "spring_ut_global": {
     "display_name": "Redmi 15 5G/TBD",
     "display_name_en": "Redmi 15 5G/TBD"
   },
