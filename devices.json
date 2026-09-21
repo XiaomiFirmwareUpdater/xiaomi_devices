@@ -528,6 +528,12 @@
   }
  },
  {
+  "iolite": {
+   "name": "POCO X8",
+   "model": "2607DPC18I"
+  }
+ },
+ {
   "klee": {
    "name": "POCO X8 Pro",
    "model": "2511FPC34G"
@@ -921,6 +927,12 @@
   "iolite": {
    "name": "REDMI Note 17 Pro 5G",
    "model": "2607DRA18G"
+  }
+ },
+ {
+  "iolite": {
+   "name": "REDMI Note 17 Pro 5G",
+   "model": "2607DRA18I"
   }
  },
  {
