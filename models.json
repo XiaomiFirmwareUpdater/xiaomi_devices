@@ -669,6 +669,25 @@
    "`M025EC`": "Xiaomi 17T Pro China"
   }
  },
+ "hongkong": {
+  "internal_name": "Q5",
+  "name": "Xiaomi 18 Pro",
+  "models": {
+   "`2609BPN61G`": "Xiaomi 18 Pro Global",
+   "`2609BPN61I`": "Xiaomi 18 Pro India",
+   "`M610BB`": "Xiaomi 18 Pro China"
+  }
+ },
+ "madrid": {
+  "internal_name": "Q2",
+  "name": "Xiaomi 18 Pro Max",
+  "models": {
+   "`2611FPNFAG`": "Xiaomi 18 Pro Max Global",
+   "`2611FPNFAI`": "Xiaomi 18 Pro Max India",
+   "`2611FPNFAR`": "Xiaomi 18 Pro Max Japan",
+   "`M154FF`": "Xiaomi 18 Pro Max China"
+  }
+ },
  "lhasa": {
   "internal_name": "Q18",
   "name": "Xiaomi 18 Fold",
@@ -2836,7 +2855,7 @@
  },
  "spark": {
   "internal_name": "N85X",
-  "name": "Redmi Pad SE 8.7 4G",
+  "name": "Redmi Pad SE 8.7 4G/Redmi Pad SE 4G",
   "models": {
    "`24076RP19G`": "Redmi Pad SE 8.7 4G Global",
    "`24076RP19I`": "Redmi Pad SE 4G India"
@@ -2895,7 +2914,6 @@
   "name": "REDMI Pad 2 9.7 4G/REDMI Pad 2 SE 4G",
   "models": {
    "`2604ERP4DG`": "REDMI Pad 2 9.7 4G Global",
-   "`2604ERP4DI`": "REDMI Pad 2 9.7 4G India",
    "`2604ERP4DC`": "REDMI Pad 2 SE 4G China"
   }
  },
