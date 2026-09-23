@@ -5515,6 +5515,146 @@
     "display_name": "HM Note 2",
     "display_name_en": "HM Note 2"
   },
+  "hongkong": {
+    "display_name": "Xiaomi 18 Pro",
+    "display_name_en": "Xiaomi 18 Pro"
+  },
+  "hongkong_dc_global": {
+    "display_name": "XM-HONGKONG-DC-GLOBAL",
+    "display_name_en": "XM-HONGKONG-DC-GLOBAL"
+  },
+  "hongkong_eea_demo_global": {
+    "display_name": "XM-HONGKONG-EEA-DEMO-GLOBAL",
+    "display_name_en": "XM-HONGKONG-EEA-DEMO-GLOBAL"
+  },
+  "hongkong_eea_global": {
+    "display_name": "XM-HONGKONG-EEA-GLOBAL",
+    "display_name_en": "XM-HONGKONG-EEA-GLOBAL"
+  },
+  "hongkong_eea_ut_global": {
+    "display_name": "XM-HONGKONG-EEA-UT-GLOBAL",
+    "display_name_en": "XM-HONGKONG-EEA-UT-GLOBAL"
+  },
+  "hongkong_global": {
+    "display_name": "XM-HONGKONG-GLOBAL",
+    "display_name_en": "XM-HONGKONG-GLOBAL"
+  },
+  "hongkong_id_demo_global": {
+    "display_name": "Xiaomi 18 Pro",
+    "display_name_en": "Xiaomi 18 Pro"
+  },
+  "hongkong_id_global": {
+    "display_name": "XM-HONGKONG-ID-GLOBAL",
+    "display_name_en": "XM-HONGKONG-ID-GLOBAL"
+  },
+  "hongkong_id_ut_global": {
+    "display_name": "XM-HONGKONG-ID-UT-GLOBAL",
+    "display_name_en": "XM-HONGKONG-ID-UT-GLOBAL"
+  },
+  "hongkong_in_demo_global": {
+    "display_name": "XM-HONGKONG-IN-DEMO-GLOBAL",
+    "display_name_en": "XM-HONGKONG-IN-DEMO-GLOBAL"
+  },
+  "hongkong_in_global": {
+    "display_name": "XM-HONGKONG-IN-GLOBAL",
+    "display_name_en": "XM-HONGKONG-IN-GLOBAL"
+  },
+  "hongkong_in_ut_global": {
+    "display_name": "XM-HONGKONG-IN-UT-GLOBAL",
+    "display_name_en": "XM-HONGKONG-IN-UT-GLOBAL"
+  },
+  "hongkong_jp_global": {
+    "display_name": "XM-HONGKONG-JP-GLOBAL",
+    "display_name_en": "XM-HONGKONG-JP-GLOBAL"
+  },
+  "hongkong_lm_cr_global": {
+    "display_name": "XM-HONGKONG-LM-CR-GLOBAL",
+    "display_name_en": "XM-HONGKONG-LM-CR-GLOBAL"
+  },
+  "hongkong_mx_at_global": {
+    "display_name": "XM-HONGKONG-MX-AT-GLOBAL",
+    "display_name_en": "XM-HONGKONG-MX-AT-GLOBAL"
+  },
+  "hongkong_mx_tx_global": {
+    "display_name": "XM-HONGKONG-MX-TX-GLOBAL",
+    "display_name_en": "XM-HONGKONG-MX-TX-GLOBAL"
+  },
+  "hongkong_pre_dc_global": {
+    "display_name": "XM-HONGKONG-PRE-DC-GLOBAL",
+    "display_name_en": "XM-HONGKONG-PRE-DC-GLOBAL"
+  },
+  "hongkong_pre_eea_demo_global": {
+    "display_name": "XM-HONGKONG-PRE-EEA-DEMO-GLOBAL",
+    "display_name_en": "XM-HONGKONG-PRE-EEA-DEMO-GLOBAL"
+  },
+  "hongkong_pre_eea_global": {
+    "display_name": "XM-HONGKONG-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-HONGKONG-PRE-EEA-GLOBAL"
+  },
+  "hongkong_pre_global": {
+    "display_name": "XM-HONGKONG-PRE-GLOBAL",
+    "display_name_en": "XM-HONGKONG-PRE-GLOBAL"
+  },
+  "hongkong_pre_id_global": {
+    "display_name": "XM-HONGKONG-PRE-ID-GLOBAL",
+    "display_name_en": "XM-HONGKONG-PRE-ID-GLOBAL"
+  },
+  "hongkong_pre_in_demo_global": {
+    "display_name": "XM-HONGKONG-PRE-IN-DEMO-GLOBAL",
+    "display_name_en": "XM-HONGKONG-PRE-IN-DEMO-GLOBAL"
+  },
+  "hongkong_pre_in_global": {
+    "display_name": "XM-HONGKONG-PRE-IN-GLOBAL",
+    "display_name_en": "XM-HONGKONG-PRE-IN-GLOBAL"
+  },
+  "hongkong_pre_jp_global": {
+    "display_name": "XM-HONGKONG-PRE-JP-GLOBAL",
+    "display_name_en": "XM-HONGKONG-PRE-JP-GLOBAL"
+  },
+  "hongkong_pre_lm_cr_global": {
+    "display_name": "XM-HONGKONG-PRE-LM-CR-GLOBAL",
+    "display_name_en": "XM-HONGKONG-PRE-LM-CR-GLOBAL"
+  },
+  "hongkong_pre_mx_at_global": {
+    "display_name": "XM-HONGKONG-PRE-MX-AT-GLOBAL",
+    "display_name_en": "XM-HONGKONG-PRE-MX-AT-GLOBAL"
+  },
+  "hongkong_pre_mx_tc_global": {
+    "display_name": "XM-HONGKONG-PRE-MX-TC-GLOBAL",
+    "display_name_en": "XM-HONGKONG-PRE-MX-TC-GLOBAL"
+  },
+  "hongkong_pre_ru_global": {
+    "display_name": "XM-HONGKONG-PRE-RU-GLOBAL",
+    "display_name_en": "XM-HONGKONG-PRE-RU-GLOBAL"
+  },
+  "hongkong_pre_tr_global": {
+    "display_name": "XM-HONGKONG-PRE-TR-GLOBAL",
+    "display_name_en": "XM-HONGKONG-PRE-TR-GLOBAL"
+  },
+  "hongkong_pre_tw_global": {
+    "display_name": "XM-HONGKONG-PRE-TW-GLOBAL",
+    "display_name_en": "XM-HONGKONG-PRE-TW-GLOBAL"
+  },
+  "hongkong_ru_global": {
+    "display_name": "XM-HONGKONG-RU-GLOBAL",
+    "display_name_en": "XM-HONGKONG-RU-GLOBAL"
+  },
+  "hongkong_tr_global": {
+    "display_name": "XM-HONGKONG-TR-GLOBAL",
+    "display_name_en": "XM-HONGKONG-TR-GLOBAL"
+  },
+  "hongkong_tw_global": {
+    "display_name": "XM-HONGKONG-TW-GLOBAL",
+    "display_name_en": "XM-HONGKONG-TW-GLOBAL"
+  },
+  "hongkong_tw_ut_global": {
+    "display_name": "XM-HONGKONG-TW-UT-GLOBAL",
+    "display_name_en": "XM-HONGKONG-TW-UT-GLOBAL"
+  },
+  "hongkong_ut_global": {
+    "display_name": "XM-HONGKONG-UT-GLOBAL",
+    "display_name_en": "XM-HONGKONG-UT-GLOBAL"
+  },
   "houji": {
     "display_name": "Xiaomi 14",
     "display_name_en": "Xiaomi 14"
@@ -7458,6 +7598,118 @@
   "luming": {
     "display_name": "Xiaomi Civi 5 Pro",
     "display_name_en": "Xiaomi Civi 5 Pro"
+  },
+  "madrid": {
+    "display_name": "Xiaomi 18 Pro Max",
+    "display_name_en": "Xiaomi 18 Pro Max"
+  },
+  "madrid_dc_global": {
+    "display_name": "XM-MADRID-DC-GLOBAL",
+    "display_name_en": "XM-MADRID-DC-GLOBAL"
+  },
+  "madrid_eea_global": {
+    "display_name": "XM-MADRID-EEA-GLOBAL",
+    "display_name_en": "XM-MADRID-EEA-GLOBAL"
+  },
+  "madrid_eea_ut_global": {
+    "display_name": "XM-MADRID-EEA-UT-GLOBAL",
+    "display_name_en": "XM-MADRID-EEA-UT-GLOBAL"
+  },
+  "madrid_global": {
+    "display_name": "XM-MADRID-GLOBAL",
+    "display_name_en": "XM-MADRID-GLOBAL"
+  },
+  "madrid_id_global": {
+    "display_name": "XM-MADRID-ID-GLOBAL",
+    "display_name_en": "XM-MADRID-ID-GLOBAL"
+  },
+  "madrid_in_global": {
+    "display_name": "XM-MADRID-IN-GLOBAL",
+    "display_name_en": "XM-MADRID-IN-GLOBAL"
+  },
+  "madrid_jp_global": {
+    "display_name": "XM-MADRID-JP-GLOBAL",
+    "display_name_en": "XM-MADRID-JP-GLOBAL"
+  },
+  "madrid_lm_cr_global": {
+    "display_name": "XM-MADRID-LM-CR-GLOBAL",
+    "display_name_en": "XM-MADRID-LM-CR-GLOBAL"
+  },
+  "madrid_mx_at_global": {
+    "display_name": "XM-MADRID-MX-AT-GLOBAL",
+    "display_name_en": "XM-MADRID-MX-AT-GLOBAL"
+  },
+  "madrid_mx_tc_global": {
+    "display_name": "XM-MADRID-MX-TC-GLOBAL",
+    "display_name_en": "XM-MADRID-MX-TC-GLOBAL"
+  },
+  "madrid_pre_dc_global": {
+    "display_name": "XM-MADRID-PRE-DC-GLOBAL",
+    "display_name_en": "XM-MADRID-PRE-DC-GLOBAL"
+  },
+  "madrid_pre_eea_global": {
+    "display_name": "XM-MADRID-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-MADRID-PRE-EEA-GLOBAL"
+  },
+  "madrid_pre_global": {
+    "display_name": "XM-MADRID-PRE-GLOBAL",
+    "display_name_en": "XM-MADRID-PRE-GLOBAL"
+  },
+  "madrid_pre_id_global": {
+    "display_name": "XM-MADRID-PRE-ID-GLOBAL",
+    "display_name_en": "XM-MADRID-PRE-ID-GLOBAL"
+  },
+  "madrid_pre_in_global": {
+    "display_name": "XM-MADRID-PRE-IN-GLOBAL",
+    "display_name_en": "XM-MADRID-PRE-IN-GLOBAL"
+  },
+  "madrid_pre_jp_global": {
+    "display_name": "XM-MADRID-PRE-JP-GLOBAL",
+    "display_name_en": "XM-MADRID-PRE-JP-GLOBAL"
+  },
+  "madrid_pre_lm_cr_global": {
+    "display_name": "XM-MADRID-PRE-LM-CR-GLOBAL",
+    "display_name_en": "XM-MADRID-PRE-LM-CR-GLOBAL"
+  },
+  "madrid_pre_mx_at_global": {
+    "display_name": "XM-MADRID-PRE-MX-AT-GLOBAL",
+    "display_name_en": "XM-MADRID-PRE-MX-AT-GLOBAL"
+  },
+  "madrid_pre_mx_tc_global": {
+    "display_name": "XM-MADRID-PRE-MX-TC-GLOBAL",
+    "display_name_en": "XM-MADRID-PRE-MX-TC-GLOBAL"
+  },
+  "madrid_pre_ru_global": {
+    "display_name": "XM-MADRID-PRE-RU-GLOBAL",
+    "display_name_en": "XM-MADRID-PRE-RU-GLOBAL"
+  },
+  "madrid_pre_tr_global": {
+    "display_name": "XM-MADRID-PRE-TR-GLOBAL",
+    "display_name_en": "XM-MADRID-PRE-TR-GLOBAL"
+  },
+  "madrid_pre_tw_global": {
+    "display_name": "XM-MADRID-PRE-TW-GLOBAL",
+    "display_name_en": "XM-MADRID-PRE-TW-GLOBAL"
+  },
+  "madrid_ru_global": {
+    "display_name": "XM-MADRID-RU-GLOBAL",
+    "display_name_en": "XM-MADRID-RU-GLOBAL"
+  },
+  "madrid_tr_global": {
+    "display_name": "XM-MADRID-TR-GLOBAL",
+    "display_name_en": "XM-MADRID-TR-GLOBAL"
+  },
+  "madrid_tw_global": {
+    "display_name": "XM-MADRID-TW-GLOBAL",
+    "display_name_en": "XM-MADRID-TW-GLOBAL"
+  },
+  "madrid_tw_ut_global": {
+    "display_name": "XM-MADRID-TW-UT-GLOBAL",
+    "display_name_en": "XM-MADRID-TW-UT-GLOBAL"
+  },
+  "madrid_ut_global": {
+    "display_name": "XM-MADRID-UT-GLOBAL",
+    "display_name_en": "XM-MADRID-UT-GLOBAL"
   },
   "malachite": {
     "display_name": "Redmi Note 14 Pro/REDMI M100Pro",
