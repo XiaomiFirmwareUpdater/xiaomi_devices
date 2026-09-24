@@ -6515,6 +6515,10 @@
     "display_name": "Redmi Pad 2 WiFi Cellular ",
     "display_name_en": "Redmi Pad 2 WiFi Cellular "
   },
+  "koto_in_ut_global": {
+    "display_name": "Redmi Pad 2 WiFi Cellular ",
+    "display_name_en": "Redmi Pad 2 WiFi Cellular "
+  },
   "koto_pre_dc_global": {
     "display_name": "Redmi Pad 2 4G",
     "display_name_en": "Redmi Pad 2 4G"
@@ -12816,6 +12820,10 @@
     "display_name_en": "Redmi Pad 2"
   },
   "taiko_in_global": {
+    "display_name": "Redmi Pad 2",
+    "display_name_en": "Redmi Pad 2"
+  },
+  "taiko_in_ut_global": {
     "display_name": "Redmi Pad 2",
     "display_name_en": "Redmi Pad 2"
   },
