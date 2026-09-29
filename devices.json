@@ -655,6 +655,10 @@
     "display_name": "REDMI A7 Pro",
     "display_name_en": "REDMI A7 Pro"
   },
+  "arctic_main_pre_global": {
+    "display_name": "XM-ARCTIC-MAIN-PRE-GLOBAL",
+    "display_name_en": "XM-ARCTIC-MAIN-PRE-GLOBAL"
+  },
   "arctic_mx_tc_global": {
     "display_name": "REDMI A7 Pro",
     "display_name_en": "REDMI A7 Pro"
@@ -11730,6 +11734,10 @@
   "shuntian_in_global": {
     "display_name": "XM-SHUNTIAN-IN-GLOBAL",
     "display_name_en": "XM-SHUNTIAN-IN-GLOBAL"
+  },
+  "shuntian_in_ut_global": {
+    "display_name": "XM-SHUNTIAN-IN-UT-GLOBAL",
+    "display_name_en": "XM-SHUNTIAN-IN-UT-GLOBAL"
   },
   "shuntian_pre_eea_global": {
     "display_name": "XM-SHUNTIAN-PRE-EEA-GLOBAL",
