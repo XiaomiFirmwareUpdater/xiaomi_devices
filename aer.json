@@ -1,1356 +1,940 @@
 {
  "items": [
   {
-   "id": 112,
-   "status": 1,
    "deviceName": "Xiaomi 17T",
    "releaseDate": "2026-05",
    "securityUpdateEol": "2032-06",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 16",
-   "futureVersion": "Android 17,Android 18,Android 19,Android 20",
-   "createdAt": "2026-09-16T03:24:55.000Z",
-   "updatedAt": "2026-09-16T07:29:07.000Z"
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20"
   },
   {
-   "id": 113,
-   "status": 1,
    "deviceName": "Xiaomi 17T Pro",
    "releaseDate": "2026-05",
    "securityUpdateEol": "2032-06",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 16",
-   "futureVersion": "Android 17,Android 18,Android 19,Android 20",
-   "createdAt": "2026-09-16T07:28:34.000Z",
-   "updatedAt": "2026-09-16T07:29:24.000Z"
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20"
   },
   {
-   "id": 108,
-   "status": 1,
    "deviceName": "REDMI A7 Pro",
    "releaseDate": "2026-04",
    "securityUpdateEol": "2032-04",
    "updateFrequency": "90天",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 16",
-   "futureVersion": "Android 17,Android 18,Android 19,Android 20",
-   "createdAt": "2026-04-14T07:47:26.000Z",
-   "updatedAt": "2026-04-22T07:07:52.000Z"
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20"
   },
   {
-   "id": 110,
-   "status": 1,
    "deviceName": "REDMI Pad 2 9.7",
    "releaseDate": "2026-04",
    "securityUpdateEol": "2033-04",
    "updateFrequency": "90天",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 16",
-   "futureVersion": "Android 17,Android 18,Android 19,Android 20，Android 21",
-   "createdAt": "2026-05-18T08:07:37.000Z",
-   "updatedAt": "2026-05-18T08:11:39.000Z"
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20，Android 21"
   },
   {
-   "id": 111,
-   "status": 1,
    "deviceName": "REDMI Pad 2 9.7 4G",
    "releaseDate": "2026-04",
    "securityUpdateEol": "2029-04",
    "updateFrequency": "90天",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 16",
-   "futureVersion": "Android 17,Android 18",
-   "createdAt": "2026-05-18T08:08:58.000Z",
-   "updatedAt": "2026-05-18T08:11:39.000Z"
+   "futureVersion": "Android 17,Android 18"
   },
   {
-   "id": 104,
-   "status": 1,
    "deviceName": "Xiaomi 17",
    "releaseDate": "2026-02",
    "securityUpdateEol": "2032-02",
    "updateFrequency": "90天",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 16",
-   "futureVersion": "Android 17,Android 18,Android 19,Android 20,Android 21",
-   "createdAt": "2026-03-04T06:46:10.000Z",
-   "updatedAt": "2026-03-09T07:26:53.000Z"
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20,Android 21"
   },
   {
-   "id": 105,
-   "status": 1,
    "deviceName": "Leica Leitzphone powered by Xiaomi",
    "releaseDate": "2026-02",
    "securityUpdateEol": "2032-02",
    "updateFrequency": "90天",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 16",
-   "futureVersion": "Android 17,Android 18,Android 19,Android 20,Android 21",
-   "createdAt": "2026-03-04T06:48:28.000Z",
-   "updatedAt": "2026-03-09T07:26:53.000Z"
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20,Android 21"
   },
   {
-   "id": 106,
-   "status": 1,
    "deviceName": "Xiaomi 17 Ultra",
    "releaseDate": "2026-02",
    "securityUpdateEol": "2032-02",
    "updateFrequency": "90天",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 16",
-   "futureVersion": "Android 17,Android 18,Android 19,Android 20,Android 21",
-   "createdAt": "2026-03-04T06:49:27.000Z",
-   "updatedAt": "2026-03-09T07:26:53.000Z"
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20,Android 21"
   },
   {
-   "id": 107,
-   "status": 1,
    "deviceName": "Xiaomi Pad 8 Pro",
    "releaseDate": "2026-02",
    "securityUpdateEol": "2032-03",
    "updateFrequency": "90天",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 16",
-   "futureVersion": "Android 17,Android 18,Android 19,Android 20",
-   "createdAt": "2026-04-14T07:45:14.000Z",
-   "updatedAt": "2026-04-22T07:07:52.000Z"
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20"
   },
   {
-   "id": 109,
-   "status": 1,
    "deviceName": "Xiaomi Pad 8",
    "releaseDate": "2026-02",
    "securityUpdateEol": "2032-03",
    "updateFrequency": "90天",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 16",
-   "futureVersion": "Android 17,Android 18,Android 19,Android 20",
-   "createdAt": "2026-04-22T07:02:57.000Z",
-   "updatedAt": "2026-04-22T07:07:52.000Z"
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20"
   },
   {
-   "id": 99,
-   "status": 1,
    "deviceName": "REDMI Note 15 Pro 5G",
    "releaseDate": "2026-01",
    "securityUpdateEol": "2032-01",
    "updateFrequency": "90天",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 15",
-   "futureVersion": "Android 16,Android 17,Android 18,Android 19",
-   "createdAt": "2026-01-21T07:57:17.000Z",
-   "updatedAt": "2026-01-21T08:10:07.000Z"
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19"
   },
   {
-   "id": 100,
-   "status": 1,
    "deviceName": "REDMI Note 15 Pro",
    "releaseDate": "2026-01",
    "securityUpdateEol": "2032-01",
    "updateFrequency": "90天",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 15",
-   "futureVersion": "Android 16,Android 17,Android 18,Android 19",
-   "createdAt": "2026-01-22T02:33:23.000Z",
-   "updatedAt": "2026-01-22T02:34:19.000Z"
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19"
   },
   {
-   "id": 101,
-   "status": 1,
    "deviceName": "REDMI Note 15 Pro+ 5G",
    "releaseDate": "2026-01",
    "securityUpdateEol": "2032-01",
    "updateFrequency": "90天",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 15",
-   "futureVersion": "Android 16,Android 17,Android 18,Android 19",
-   "createdAt": "2026-01-22T02:59:33.000Z",
-   "updatedAt": "2026-01-22T03:00:01.000Z"
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19"
   },
   {
-   "id": 102,
-   "status": 1,
    "deviceName": "REDMI Note 15 5G",
    "releaseDate": "2026-01",
    "securityUpdateEol": "2032-01",
    "updateFrequency": "90天",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 15",
-   "futureVersion": "Android 16,Android 17,Android 18,Android 19",
-   "createdAt": "2026-01-22T03:05:06.000Z",
-   "updatedAt": "2026-01-22T03:06:29.000Z"
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19"
   },
   {
-   "id": 103,
-   "status": 1,
    "deviceName": "REDMI Note 15",
    "releaseDate": "2026-01",
    "securityUpdateEol": "2032-01",
    "updateFrequency": "90天",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 15",
-   "futureVersion": "Android 16,Android 17,Android 18,Android 19",
-   "createdAt": "2026-01-22T03:06:21.000Z",
-   "updatedAt": "2026-01-22T03:06:29.000Z"
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19"
   },
   {
-   "id": 86,
-   "status": 1,
    "deviceName": "Xiaomi Pad 7 Pro",
    "releaseDate": "2025-3",
    "securityUpdateEol": "2028-3",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 15",
-   "futureVersion": "Android 16,Android 17",
-   "createdAt": "2025-04-24T21:39:59.000Z",
-   "updatedAt": "2025-04-24T21:41:19.000Z"
+   "futureVersion": "Android 16,Android 17"
   },
   {
-   "id": 87,
-   "status": 1,
    "deviceName": "Xiaomi Pad 7",
    "releaseDate": "2025-3",
    "securityUpdateEol": "2031-3",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 15",
-   "futureVersion": "Android 16,Android 17,Android 18,Android 19",
-   "createdAt": "2025-04-24T21:41:14.000Z",
-   "updatedAt": "2025-04-24T21:41:19.000Z"
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19"
   },
   {
-   "id": 79,
-   "status": 1,
    "deviceName": "Xiaomi 15 Ultra",
    "releaseDate": "2025-2",
    "securityUpdateEol": "2031-2",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 15",
-   "futureVersion": "Android 16,Android 17,Android 18,Android 19",
-   "createdAt": "2025-03-27T08:05:24.000Z",
-   "updatedAt": "2025-03-27T08:18:45.000Z"
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19"
   },
   {
-   "id": 80,
-   "status": 1,
    "deviceName": "Xiaomi 15",
    "releaseDate": "2025-2",
    "securityUpdateEol": "2031-2",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 15",
-   "futureVersion": "Android 16,,Android 17,Android 18,Android 19",
-   "createdAt": "2025-03-27T08:06:31.000Z",
-   "updatedAt": "2025-03-27T08:18:45.000Z"
+   "futureVersion": "Android 16,,Android 17,Android 18,Android 19"
   },
   {
-   "id": 81,
-   "status": 1,
    "deviceName": "Redmi Note 14 Pro",
    "releaseDate": "2025-1",
    "securityUpdateEol": "2029-1",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 14",
-   "futureVersion": "Android 15,Android 16,Android 17",
-   "createdAt": "2025-03-27T08:08:47.000Z",
-   "updatedAt": "2025-03-27T08:18:45.000Z"
+   "futureVersion": "Android 15,Android 16,Android 17"
   },
   {
-   "id": 82,
-   "status": 1,
    "deviceName": "Redmi Note 14",
    "releaseDate": "2025-1",
    "securityUpdateEol": "2031-1",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 14",
-   "futureVersion": "Android 15,Android 16,Android 17,Android 18",
-   "createdAt": "2025-03-27T08:10:00.000Z",
-   "updatedAt": "2025-03-27T08:18:45.000Z"
+   "futureVersion": "Android 15,Android 16,Android 17,Android 18"
   },
   {
-   "id": 83,
-   "status": 1,
    "deviceName": "Redmi Note 14 5G",
    "releaseDate": "2025-1",
    "securityUpdateEol": "2029-1",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 14",
-   "futureVersion": "Android 15,Android16",
-   "createdAt": "2025-03-27T08:11:22.000Z",
-   "updatedAt": "2025-03-27T08:18:45.000Z"
+   "futureVersion": "Android 15,Android16"
   },
   {
-   "id": 84,
-   "status": 1,
    "deviceName": "Redmi Note 14 Pro 5G",
    "releaseDate": "2025-1",
    "securityUpdateEol": "2029-1",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 14",
-   "futureVersion": "Android 15,Android 16,Android 17",
-   "createdAt": "2025-03-27T08:13:49.000Z",
-   "updatedAt": "2025-03-27T08:18:45.000Z"
+   "futureVersion": "Android 15,Android 16,Android 17"
   },
   {
-   "id": 85,
-   "status": 1,
    "deviceName": "Redmi Note 14 Pro+ 5G",
    "releaseDate": "2025-1",
    "securityUpdateEol": "2029-1",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 14",
-   "futureVersion": "Android 15,Android 16,Android 17",
-   "createdAt": "2025-03-27T08:14:53.000Z",
-   "updatedAt": "2025-03-27T08:18:45.000Z"
+   "futureVersion": "Android 15,Android 16,Android 17"
   },
   {
-   "id": 91,
-   "status": 1,
    "deviceName": "Xiaomi 15T",
    "releaseDate": "2025-09",
    "securityUpdateEol": "2031-09",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 15",
-   "futureVersion": "Android 16,Android 17,Android 18,Android 19",
-   "createdAt": "2025-10-15T07:15:47.000Z",
-   "updatedAt": "2025-10-15T07:25:20.000Z"
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19"
   },
   {
-   "id": 92,
-   "status": 1,
    "deviceName": "Xiaomi 15T Pro",
    "releaseDate": "2025-09",
    "securityUpdateEol": "2031-09",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 15",
-   "futureVersion": "Android 16,Android 17,Android 18,Android 19,Android 20",
-   "createdAt": "2025-10-15T07:16:52.000Z",
-   "updatedAt": "2025-10-15T07:25:20.000Z"
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19,Android 20"
   },
   {
-   "id": 93,
-   "status": 1,
    "deviceName": "Redmi 15C 5G",
    "releaseDate": "2025-09",
    "securityUpdateEol": "2031-09",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 15",
-   "futureVersion": "Android 16,Android 17,Android 18,Android 19",
-   "createdAt": "2025-10-15T07:17:42.000Z",
-   "updatedAt": "2025-10-15T07:25:20.000Z"
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19"
   },
   {
-   "id": 94,
-   "status": 1,
    "deviceName": "Redmi 15C",
    "releaseDate": "2025-09",
    "securityUpdateEol": "2031-10",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 15",
-   "futureVersion": "Android 16,Android 17,Android 18,Android 19",
-   "createdAt": "2025-10-15T07:18:30.000Z",
-   "updatedAt": "2025-10-15T07:25:20.000Z"
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19"
   },
   {
-   "id": 95,
-   "status": 1,
    "deviceName": "Redmi 15",
    "releaseDate": "2025-09",
    "securityUpdateEol": "2029-10",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 15",
-   "futureVersion": "Android 16,Android 17",
-   "createdAt": "2025-10-15T07:22:52.000Z",
-   "updatedAt": "2025-11-24T03:33:47.000Z"
+   "futureVersion": "Android 16,Android 17"
   },
   {
-   "id": 96,
-   "status": 1,
    "deviceName": "Redmi Pad 2 Pro",
    "releaseDate": "2025-09",
    "securityUpdateEol": "2032-10",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 15",
-   "futureVersion": "Android 16,Android 17,Android 18,Android 19,Android 20",
-   "createdAt": "2025-10-15T07:23:42.000Z",
-   "updatedAt": "2025-10-15T07:25:20.000Z"
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19,Android 20"
   },
   {
-   "id": 97,
-   "status": 1,
    "deviceName": "Xiaomi Pad Mini",
    "releaseDate": "2025-09",
    "securityUpdateEol": "2028-09",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 15",
-   "futureVersion": "Android 16,Android 17",
-   "createdAt": "2025-10-15T07:24:23.000Z",
-   "updatedAt": "2025-10-15T07:25:20.000Z"
+   "futureVersion": "Android 16,Android 17"
   },
   {
-   "id": 98,
-   "status": 1,
    "deviceName": "Redmi Pad 2 Pro 5G",
    "releaseDate": "2025-09",
    "securityUpdateEol": "2032-06",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 15",
-   "futureVersion": "Android 16,Android 17,Android 18,Android 19,Android 20",
-   "createdAt": "2025-11-12T07:50:42.000Z",
-   "updatedAt": "2025-11-12T07:52:15.000Z"
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19,Android 20"
   },
   {
-   "id": 90,
-   "status": 1,
    "deviceName": "Redmi 15 5G",
    "releaseDate": "2025-08",
    "securityUpdateEol": "2029-08",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 15",
-   "futureVersion": "Android 16,Android 17",
-   "createdAt": "2025-09-09T07:42:29.000Z",
-   "updatedAt": "2025-11-24T03:34:58.000Z"
+   "futureVersion": "Android 16,Android 17"
   },
   {
-   "id": 88,
-   "status": 1,
    "deviceName": "Redmi Pad 2",
    "releaseDate": "2025-06",
    "securityUpdateEol": "2032-8",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 15",
-   "futureVersion": "Android 16,Android 17,Android 18,Android 19,Android 20",
-   "createdAt": "2025-08-11T06:28:07.000Z",
-   "updatedAt": "2025-08-11T06:29:48.000Z"
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19,Android 20"
   },
   {
-   "id": 89,
-   "status": 1,
    "deviceName": "Redmi Pad 2 4G",
    "releaseDate": "2025-06",
    "securityUpdateEol": "2032-7",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 15",
-   "futureVersion": "Android 16,Android 17,Android 18,Android 19,Android 20",
-   "createdAt": "2025-08-11T06:29:20.000Z",
-   "updatedAt": "2025-08-11T06:29:48.000Z"
+   "futureVersion": "Android 16,Android 17,Android 18,Android 19,Android 20"
   },
   {
-   "id": 73,
-   "status": 1,
    "deviceName": "Xiaomi 14T",
    "releaseDate": "2024-9",
    "securityUpdateEol": "2029-9",
    "updateFrequency": "4+5",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 14",
-   "futureVersion": "Android 15,Android16,Android 17,Android 18",
-   "createdAt": "2024-10-09T01:51:54.000Z",
-   "updatedAt": "2024-10-09T01:53:39.000Z"
+   "futureVersion": "Android 15,Android16,Android 17,Android 18"
   },
   {
-   "id": 74,
-   "status": 1,
    "deviceName": "Xiaomi 14T Pro",
    "releaseDate": "2024-9",
    "securityUpdateEol": "2029-9",
    "updateFrequency": "4+5",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 14",
-   "futureVersion": "Android 15,Android16,Android 17,Android 18",
-   "createdAt": "2024-10-09T01:53:14.000Z",
-   "updatedAt": "2024-10-09T01:53:39.000Z"
+   "futureVersion": "Android 15,Android16,Android 17,Android 18"
   },
   {
-   "id": 69,
-   "status": 1,
    "deviceName": "Redmi Pad Pro 5G",
    "releaseDate": "2024-8",
    "securityUpdateEol": "2027-08",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 14",
-   "futureVersion": "Android 15,Android16",
-   "createdAt": "2024-08-15T01:16:34.000Z",
-   "updatedAt": "2024-08-15T01:16:56.000Z"
+   "futureVersion": "Android 15,Android16"
   },
   {
-   "id": 70,
-   "status": 1,
    "deviceName": "Redmi Pad SE 8.7",
    "releaseDate": "2024-8",
    "securityUpdateEol": "2027-8",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 14",
-   "futureVersion": "Android 15,Android16",
-   "createdAt": "2024-08-26T03:32:19.000Z",
-   "updatedAt": "2024-08-26T03:33:23.000Z"
+   "futureVersion": "Android 15,Android16"
   },
   {
-   "id": 71,
-   "status": 1,
    "deviceName": "Redmi Pad SE 8.7 4G",
    "releaseDate": "2024-8",
    "securityUpdateEol": "2027-8",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 14",
-   "futureVersion": "Android 15,Android16",
-   "createdAt": "2024-08-26T03:33:10.000Z",
-   "updatedAt": "2024-08-26T03:33:23.000Z"
+   "futureVersion": "Android 15,Android16"
   },
   {
-   "id": 72,
-   "status": 1,
    "deviceName": "Redmi 14C",
    "releaseDate": "2024-8",
    "securityUpdateEol": "2028-8",
    "updateFrequency": "2+4",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 14",
-   "futureVersion": "Android 15,Android16",
-   "createdAt": "2024-09-26T02:50:13.000Z",
-   "updatedAt": "2024-09-27T01:30:16.000Z"
+   "futureVersion": "Android 15,Android16"
   },
   {
-   "id": 66,
-   "status": 1,
    "deviceName": "Redmi 13C 5G",
    "releaseDate": "2024-5",
    "securityUpdateEol": "2028-4",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 13",
-   "futureVersion": "Android 14,Android 15",
-   "createdAt": "2024-06-26T01:31:07.000Z",
-   "updatedAt": "2024-06-26T01:31:16.000Z"
+   "futureVersion": "Android 14,Android 15"
   },
   {
-   "id": 67,
-   "status": 1,
    "deviceName": "Redmi Pad Pro",
    "releaseDate": "2024-5",
    "securityUpdateEol": "2027-05",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 14",
-   "futureVersion": "Android 15,Android16",
-   "createdAt": "2024-06-27T01:00:47.000Z",
-   "updatedAt": "2024-06-27T01:00:50.000Z"
+   "futureVersion": "Android 15,Android16"
   },
   {
-   "id": 64,
-   "status": 1,
    "deviceName": "Xiaomi 14",
    "releaseDate": "2024-2",
    "securityUpdateEol": "2029-2",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 14",
-   "futureVersion": "Android 15,Android 16,,Android 17,Android 18",
-   "createdAt": "2024-05-08T09:57:11.000Z",
-   "updatedAt": "2024-05-08T09:59:16.000Z"
+   "futureVersion": "Android 15,Android 16,,Android 17,Android 18"
   },
   {
-   "id": 65,
-   "status": 1,
    "deviceName": "Xiaomi 14 Ultra",
    "releaseDate": "2024-2",
    "securityUpdateEol": "2029-2",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 14",
-   "futureVersion": "Android 15,Android 16,,Android 17,Android 18",
-   "createdAt": "2024-05-08T09:58:17.000Z",
-   "updatedAt": "2024-05-08T09:58:40.000Z"
+   "futureVersion": "Android 15,Android 16,,Android 17,Android 18"
   },
   {
-   "id": 59,
-   "status": 1,
    "deviceName": "Redmi Note 13 Pro",
    "releaseDate": "2024-1",
    "securityUpdateEol": "2028-1",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 13,",
-   "futureVersion": "Android 14,Android 15,Android 16",
-   "createdAt": "2024-01-22T08:26:16.000Z",
-   "updatedAt": "2024-03-11T16:03:45.000Z"
+   "futureVersion": "Android 14,Android 15,Android 16"
   },
   {
-   "id": 60,
-   "status": 1,
    "deviceName": "Redmi Note 13 Pro 5G",
    "releaseDate": "2024-1",
    "securityUpdateEol": "2027-9",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 13",
-   "futureVersion": "Android 14,Android 15,Android 16",
-   "createdAt": "2024-01-22T08:38:19.000Z",
-   "updatedAt": "2024-03-11T16:04:06.000Z"
+   "futureVersion": "Android 14,Android 15,Android 16"
   },
   {
-   "id": 61,
-   "status": 1,
    "deviceName": "Redmi Note 13 Pro+ 5G",
    "releaseDate": "2024-1",
    "securityUpdateEol": "2028-1",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 13",
-   "futureVersion": "Android 14,Android 15,Android 16",
-   "createdAt": "2024-01-22T09:02:00.000Z",
-   "updatedAt": "2024-03-11T16:03:19.000Z"
+   "futureVersion": "Android 14,Android 15,Android 16"
   },
   {
-   "id": 62,
-   "status": 1,
    "deviceName": "Redmi Note 13 5G",
    "releaseDate": "2024-1",
    "securityUpdateEol": "2027-9",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 13",
-   "futureVersion": "Android 14,Android 15",
-   "createdAt": "2024-01-22T09:06:10.000Z",
-   "updatedAt": "2024-01-22T09:06:14.000Z"
+   "futureVersion": "Android 14,Android 15"
   },
   {
-   "id": 63,
-   "status": 1,
    "deviceName": "Redmi Note 13",
    "releaseDate": "2024-1",
    "securityUpdateEol": "2028-1",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 13",
-   "futureVersion": "Android 14，Android 15",
-   "createdAt": "2024-01-23T01:02:23.000Z",
-   "updatedAt": "2024-01-23T01:02:26.000Z"
+   "futureVersion": "Android 14，Android 15"
   },
   {
-   "id": 68,
-   "status": 1,
    "deviceName": "Redmi 13",
    "releaseDate": "2024-06",
    "securityUpdateEol": "2028-06",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 14",
-   "futureVersion": "Android 15,Android16",
-   "createdAt": "2024-07-01T12:54:39.000Z",
-   "updatedAt": "2024-07-01T12:54:42.000Z"
+   "futureVersion": "Android 15,Android16"
   },
   {
-   "id": 53,
-   "status": 1,
    "deviceName": "Redmi Pad SE",
    "releaseDate": "2023-9",
    "securityUpdateEol": "2026-9",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 13",
-   "futureVersion": "Android 13,Android 14",
-   "createdAt": "2023-10-07T01:21:34.000Z",
-   "updatedAt": "2023-10-07T01:21:38.000Z"
+   "futureVersion": "Android 13,Android 14"
   },
   {
-   "id": 54,
-   "status": 1,
    "deviceName": "Redmi 12 5G",
    "releaseDate": "2023-9",
    "securityUpdateEol": "2027-12",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 13",
-   "futureVersion": "Android 14,Android 15",
-   "createdAt": "2023-10-07T01:37:08.000Z",
-   "updatedAt": "2023-10-07T01:37:47.000Z"
+   "futureVersion": "Android 14,Android 15"
   },
   {
-   "id": 55,
-   "status": 1,
    "deviceName": "Xiaomi 13T Pro",
    "releaseDate": "2023-9",
    "securityUpdateEol": "2028-7",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 13",
-   "futureVersion": "Android 14,Android 15,Android 16,Android 17",
-   "createdAt": "2023-10-17T13:19:30.000Z",
-   "updatedAt": "2024-03-11T05:43:49.000Z"
+   "futureVersion": "Android 14,Android 15,Android 16,Android 17"
   },
   {
-   "id": 56,
-   "status": 1,
    "deviceName": "Xiaomi 13T",
    "releaseDate": "2023-9",
    "securityUpdateEol": "2028-7",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 13",
-   "futureVersion": "Android 14,Android 15,Android 16,Android 17",
-   "createdAt": "2023-10-17T13:21:08.000Z",
-   "updatedAt": "2024-03-11T05:44:15.000Z"
+   "futureVersion": "Android 14,Android 15,Android 16,Android 17"
   },
   {
-   "id": 51,
-   "status": 1,
    "deviceName": "Redmi 12",
    "releaseDate": "2023-6",
    "securityUpdateEol": "2027-6",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 13",
-   "futureVersion": "Android 14,Android 15",
-   "createdAt": "2023-06-21T01:13:09.000Z",
-   "updatedAt": "2023-06-21T01:13:13.000Z"
+   "futureVersion": "Android 14,Android 15"
   },
   {
-   "id": 52,
-   "status": 1,
    "deviceName": "Xiaomi Pad 6",
    "releaseDate": "2023-6",
    "securityUpdateEol": "2026-6",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 13",
-   "futureVersion": "Android 14",
-   "createdAt": "2023-07-24T02:03:39.000Z",
-   "updatedAt": "2024-03-11T16:02:27.000Z"
+   "futureVersion": "Android 14"
   },
   {
-   "id": 44,
-   "status": 1,
    "deviceName": "Redmi Note 12 5G",
    "releaseDate": "2023-3",
    "securityUpdateEol": "2026-3",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 12",
-   "futureVersion": "Android 13，Android 14",
-   "createdAt": "2023-04-05T09:14:02.000Z",
-   "updatedAt": "2023-04-05T09:14:17.000Z"
+   "futureVersion": "Android 13，Android 14"
   },
   {
-   "id": 46,
-   "status": 1,
    "deviceName": "Redmi Note 12 ",
    "releaseDate": "2023-3",
    "securityUpdateEol": "2027-3",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 13",
-   "futureVersion": "Android 14，Android 15，",
-   "createdAt": "2023-04-05T09:19:34.000Z",
-   "updatedAt": "2024-03-11T16:09:48.000Z"
+   "futureVersion": "Android 14，Android 15，"
   },
   {
-   "id": 43,
-   "status": 1,
    "deviceName": "Xiaomi 13 Lite",
    "releaseDate": "2023-2-26",
    "securityUpdateEol": "2026-8",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 12",
-   "futureVersion": "Android 13,Android 14,Android 15",
-   "createdAt": "2023-03-01T06:40:41.000Z",
-   "updatedAt": "2024-03-11T16:06:01.000Z"
+   "futureVersion": "Android 13,Android 14,Android 15"
   },
   {
-   "id": 58,
-   "status": 1,
    "deviceName": "POCO M6 Pro 5G",
    "releaseDate": "2023-12",
    "securityUpdateEol": "2026-9",
    "updateFrequency": "90 DAYS",
    "updateFrequencyTl": "90 DAYS",
    "shippedVersion": "Android 13，",
-   "futureVersion": "Android 14，Android 15",
-   "createdAt": "2023-12-13T12:36:38.000Z",
-   "updatedAt": "2023-12-13T12:40:44.000Z"
+   "futureVersion": "Android 14，Android 15"
   },
   {
-   "id": 57,
-   "status": 1,
    "deviceName": "Redmi 13C",
    "releaseDate": "2023-11",
    "securityUpdateEol": "2027-11",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 13",
-   "futureVersion": "Android 14,Android 15",
-   "createdAt": "2023-11-17T01:11:22.000Z",
-   "updatedAt": "2023-11-21T08:24:47.000Z"
+   "futureVersion": "Android 14,Android 15"
   },
   {
-   "id": 42,
-   "status": 1,
    "deviceName": "Redmi Note 11 SE",
    "releaseDate": "2023-1",
    "securityUpdateEol": "2025-1",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 12",
-   "futureVersion": "Android 13,Android 14",
-   "createdAt": "2023-01-16T02:09:24.000Z",
-   "updatedAt": "2024-03-11T16:01:40.000Z"
+   "futureVersion": "Android 13,Android 14"
   },
   {
-   "id": 49,
-   "status": 1,
    "deviceName": "Redmi 12C",
    "releaseDate": "2023-1",
    "securityUpdateEol": "2027-1",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 12",
-   "futureVersion": "Android 13;Android 14",
-   "createdAt": "2023-04-05T09:51:10.000Z",
-   "updatedAt": "2023-04-05T09:51:15.000Z"
+   "futureVersion": "Android 13;Android 14"
   },
   {
-   "id": 50,
-   "status": 1,
    "deviceName": "POCO C55",
    "releaseDate": "2023-1",
    "securityUpdateEol": "2027-1",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 12",
-   "futureVersion": "Android 13;Android 14",
-   "createdAt": "2023-04-05T09:52:56.000Z",
-   "updatedAt": "2023-04-05T09:53:00.000Z"
+   "futureVersion": "Android 13;Android 14"
   },
   {
-   "id": 37,
-   "status": 1,
    "deviceName": "Xiaomi 12T",
    "releaseDate": "2022-8",
    "securityUpdateEol": "2026-8",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 12",
-   "futureVersion": "Android 13,Android 14,Android 15",
-   "createdAt": "2022-10-09T09:40:29.000Z",
-   "updatedAt": "2024-03-11T06:07:09.000Z"
+   "futureVersion": "Android 13,Android 14,Android 15"
   },
   {
-   "id": 33,
-   "status": 1,
    "deviceName": "Xiaomi 12 Lite",
    "releaseDate": "2022-7",
    "securityUpdateEol": "2026-3",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 12",
-   "futureVersion": "Android 13,Android 14",
-   "createdAt": "2022-08-01T12:23:57.000Z",
-   "updatedAt": "2022-08-01T12:24:02.000Z"
+   "futureVersion": "Android 13,Android 14"
   },
   {
-   "id": 36,
-   "status": 1,
    "deviceName": "POCO M5s",
    "releaseDate": "2022-6",
    "securityUpdateEol": "2024-7",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 12",
-   "futureVersion": "Android 13",
-   "createdAt": "2022-09-16T04:12:04.000Z",
-   "updatedAt": "2022-09-16T04:12:17.000Z"
+   "futureVersion": "Android 13"
   },
   {
-   "id": 34,
-   "status": 1,
    "deviceName": "POCO M4 5G",
    "releaseDate": "2022-4",
    "securityUpdateEol": "2025-4",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 12",
-   "futureVersion": "Android 13，Android 14",
-   "createdAt": "2022-08-08T11:46:49.000Z",
-   "updatedAt": "2022-09-06T01:52:56.000Z"
+   "futureVersion": "Android 13，Android 14"
   },
   {
-   "id": 35,
-   "status": 1,
    "deviceName": "Redmi 10 5G",
    "releaseDate": "2022-4",
    "securityUpdateEol": "2025-4",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 12",
-   "futureVersion": "Android 13,Android 14",
-   "createdAt": "2022-08-20T02:18:22.000Z",
-   "updatedAt": "2022-08-22T13:32:09.000Z"
+   "futureVersion": "Android 13,Android 14"
   },
   {
-   "id": 40,
-   "status": 1,
    "deviceName": "Redmi 11 Prime 5G",
    "releaseDate": "2022-4",
    "securityUpdateEol": "2025-4",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 12",
-   "futureVersion": "Android 13,Android 14",
-   "createdAt": "2022-10-09T10:35:45.000Z",
-   "updatedAt": "2022-10-09T10:35:48.000Z"
+   "futureVersion": "Android 13,Android 14"
   },
   {
-   "id": 30,
-   "status": 1,
    "deviceName": "Xiaomi 12 Pro",
    "releaseDate": "2022-3",
    "securityUpdateEol": "2026-1",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 12",
-   "futureVersion": "Android 13;Android 14;Android 15",
-   "createdAt": "2022-03-28T01:41:11.000Z",
-   "updatedAt": "2022-03-28T01:42:24.000Z"
+   "futureVersion": "Android 13;Android 14;Android 15"
   },
   {
-   "id": 31,
-   "status": 1,
    "deviceName": "Xiaomi 12",
    "releaseDate": "2022-3",
    "securityUpdateEol": "2026-1",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 12",
-   "futureVersion": "Android 13;Android 14;Android 15",
-   "createdAt": "2022-03-28T01:42:21.000Z",
-   "updatedAt": "2022-03-28T01:42:24.000Z"
+   "futureVersion": "Android 13;Android 14;Android 15"
   },
   {
-   "id": 32,
-   "status": 1,
    "deviceName": "Redmi Note 11S 5G",
    "releaseDate": "2022-3",
    "securityUpdateEol": "2025-1",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android  11",
-   "futureVersion": "Android  12,Android 13",
-   "createdAt": "2022-04-09T07:16:25.000Z",
-   "updatedAt": "2024-03-11T16:00:03.000Z"
+   "futureVersion": "Android  12,Android 13"
   },
   {
-   "id": 28,
-   "status": 1,
    "deviceName": "Redmi 10C",
    "releaseDate": "2022-2",
    "securityUpdateEol": "2025-2",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 11;",
-   "futureVersion": "Android 12;Android 13;",
-   "createdAt": "2022-03-26T02:23:02.000Z",
-   "updatedAt": "2022-03-26T02:24:35.000Z"
+   "futureVersion": "Android 12;Android 13;"
   },
   {
-   "id": 38,
-   "status": 1,
    "deviceName": "Xiaomi 12T Pro",
    "releaseDate": "2022-10",
    "securityUpdateEol": "2026-8",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 12",
-   "futureVersion": "Android 13,Android 14,Android 15",
-   "createdAt": "2022-10-09T09:41:32.000Z",
-   "updatedAt": "2024-03-11T06:06:25.000Z"
+   "futureVersion": "Android 13,Android 14,Android 15"
   },
   {
-   "id": 41,
-   "status": 1,
    "deviceName": "Redmi Pad",
    "releaseDate": "2022-10",
    "securityUpdateEol": "2025-7",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 12",
-   "futureVersion": "Android 13,Android 14",
-   "createdAt": "2022-10-17T19:51:52.000Z",
-   "updatedAt": "2024-03-11T16:00:41.000Z"
+   "futureVersion": "Android 13,Android 14"
   },
   {
-   "id": 47,
-   "status": 1,
    "deviceName": "Redmi Note 12 Pro 5G",
    "releaseDate": "2022-10",
    "securityUpdateEol": "2026-10",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 12",
-   "futureVersion": "Android 13;Android 14",
-   "createdAt": "2023-04-05T09:31:39.000Z",
-   "updatedAt": "2023-04-05T09:31:59.000Z"
+   "futureVersion": "Android 13;Android 14"
   },
   {
-   "id": 48,
-   "status": 1,
    "deviceName": "Redmi Note 12 Pro+ 5G",
    "releaseDate": "2022-10",
    "securityUpdateEol": "2026-10",
    "updateFrequency": "90 Days",
    "updateFrequencyTl": "90 Days",
    "shippedVersion": "Android 12",
-   "futureVersion": "Android 13;Android 14",
-   "createdAt": "2023-04-05T09:31:47.000Z",
-   "updatedAt": "2023-04-05T09:33:33.000Z"
+   "futureVersion": "Android 13;Android 14"
   },
   {
-   "id": 22,
-   "status": 1,
    "deviceName": "Redmi Note 11S",
    "releaseDate": "2022-1",
    "securityUpdateEol": "2025-1",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 11",
-   "futureVersion": "Android 12,Android 13",
-   "createdAt": "2022-02-10T06:53:33.000Z",
-   "updatedAt": "2022-02-10T06:53:52.000Z"
+   "futureVersion": "Android 12,Android 13"
   },
   {
-   "id": 23,
-   "status": 1,
    "deviceName": "Redmi Note 11",
    "releaseDate": "2022-1",
    "securityUpdateEol": "2025-1",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 11",
-   "futureVersion": "Android 12,Android 13",
-   "createdAt": "2022-02-10T07:31:58.000Z",
-   "updatedAt": "2022-02-10T07:32:03.000Z"
+   "futureVersion": "Android 12,Android 13"
   },
   {
-   "id": 24,
-   "status": 1,
    "deviceName": "Redmi Note 11 Pro 5G",
    "releaseDate": "2022-1",
    "securityUpdateEol": "2025-1",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 11",
-   "futureVersion": "Android 12,Android 13",
-   "createdAt": "2022-02-10T07:34:58.000Z",
-   "updatedAt": "2022-02-10T07:35:01.000Z"
+   "futureVersion": "Android 12,Android 13"
   },
   {
-   "id": 26,
-   "status": 1,
    "deviceName": "POCO M4 Pro",
    "releaseDate": "2022-1",
    "securityUpdateEol": "2025-1",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 11",
-   "futureVersion": "Android 12;Android 13",
-   "createdAt": "2022-02-17T07:38:12.000Z",
-   "updatedAt": "2022-07-12T02:24:47.000Z"
+   "futureVersion": "Android 12;Android 13"
   },
   {
-   "id": 27,
-   "status": 1,
    "deviceName": "Redmi Note 11 Pro+ 5G",
    "releaseDate": "2022-1",
    "securityUpdateEol": "2025-1",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 11",
-   "futureVersion": "Andoid 12;Android 13",
-   "createdAt": "2022-02-28T09:28:41.000Z",
-   "updatedAt": "2023-01-11T02:52:55.000Z"
+   "futureVersion": "Andoid 12;Android 13"
   },
   {
-   "id": 29,
-   "status": 1,
    "deviceName": "POCO X4 Pro 5G",
    "releaseDate": "2022-1",
    "securityUpdateEol": "2025-1",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 11",
-   "futureVersion": "Android 12;Android 13",
-   "createdAt": "2022-03-26T02:24:29.000Z",
-   "updatedAt": "2022-03-26T02:24:35.000Z"
+   "futureVersion": "Android 12;Android 13"
   },
   {
-   "id": 19,
-   "status": 1,
    "deviceName": "Xiaomi 11 Lite 5G NE ",
    "releaseDate": "2021-9",
    "securityUpdateEol": "2025-8",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 11",
-   "futureVersion": "Android 12,Android 13,Android 14",
-   "createdAt": "2021-09-24T05:33:08.000Z",
-   "updatedAt": "2024-03-11T15:55:05.000Z"
+   "futureVersion": "Android 12,Android 13,Android 14"
   },
   {
-   "id": 17,
-   "status": 1,
    "deviceName": "Xiaomi 11T Pro",
    "releaseDate": "2021-8",
    "securityUpdateEol": "2025-8",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 11",
-   "futureVersion": "Android 12,Android 13,Android 14",
-   "createdAt": "2021-09-20T05:53:19.000Z",
-   "updatedAt": "2024-03-11T15:53:20.000Z"
+   "futureVersion": "Android 12,Android 13,Android 14"
   },
   {
-   "id": 18,
-   "status": 1,
    "deviceName": "Xiaomi 11T",
    "releaseDate": "2021-8",
    "securityUpdateEol": "2025-8",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 11",
-   "futureVersion": "Android 12,Android 13,Android 14",
-   "createdAt": "2021-09-20T05:55:18.000Z",
-   "updatedAt": "2024-03-11T15:53:39.000Z"
+   "futureVersion": "Android 12,Android 13,Android 14"
   },
   {
-   "id": 20,
-   "status": 1,
    "deviceName": "Redmi 10 ",
    "releaseDate": "2021-8",
    "securityUpdateEol": "2024-8",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Andriod 11",
-   "futureVersion": "Andriod 12,Andriod 13",
-   "createdAt": "2021-09-26T09:05:04.000Z",
-   "updatedAt": "2021-11-15T08:54:27.000Z"
+   "futureVersion": "Andriod 12,Andriod 13"
   },
   {
-   "id": 21,
-   "status": 1,
    "deviceName": "POCO M3 Pro 5G",
    "releaseDate": "2021-4",
    "securityUpdateEol": "2024-4",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 11",
-   "futureVersion": "Android 12,Android 13",
-   "createdAt": "2021-10-14T01:29:29.000Z",
-   "updatedAt": "2021-11-16T06:34:40.000Z"
+   "futureVersion": "Android 12,Android 13"
   },
   {
-   "id": 25,
-   "status": 1,
    "deviceName": "Redmi 10 2022",
    "releaseDate": "2021-12",
    "securityUpdateEol": "2024-12",
    "updateFrequency": "90 days",
    "updateFrequencyTl": "90 days",
    "shippedVersion": "Android 11",
-   "futureVersion": "Android 12,Android 13",
-   "createdAt": "2022-02-11T04:25:25.000Z",
-   "updatedAt": "2024-03-11T15:52:36.000Z"
+   "futureVersion": "Android 12,Android 13"
   },
   {
-   "id": 5,
-   "status": 1,
    "deviceName": "Redmi Note 10 5G",
    "releaseDate": "2021-04",
    "securityUpdateEol": "2024-04",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 11",
-   "futureVersion": "Android 12,Android 13",
-   "createdAt": "2021-08-12T09:22:46.000Z",
-   "updatedAt": "2024-03-11T05:48:35.000Z"
+   "futureVersion": "Android 12,Android 13"
   },
   {
-   "id": 6,
-   "status": 1,
    "deviceName": "Mi 11 Ultra",
    "releaseDate": "2021-04",
    "securityUpdateEol": "2025-03",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 11",
-   "futureVersion": "Android 12,Android 13,Android 14",
-   "createdAt": "2021-08-12T09:22:46.000Z",
-   "updatedAt": "2024-03-11T05:49:57.000Z"
+   "futureVersion": "Android 12,Android 13,Android 14"
   },
   {
-   "id": 8,
-   "status": 1,
    "deviceName": "Redmi Note 10S",
    "releaseDate": "2021-04",
    "securityUpdateEol": "2024-04",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 11",
-   "futureVersion": "Android 12,Android 13",
-   "createdAt": "2021-08-12T09:22:46.000Z",
-   "updatedAt": "2024-03-11T05:50:26.000Z"
+   "futureVersion": "Android 12,Android 13"
   },
   {
-   "id": 12,
-   "status": 1,
    "deviceName": "Redmi Note 10T 5G",
    "releaseDate": "2021-04",
    "securityUpdateEol": "2024-04",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 11",
-   "futureVersion": "Android 12",
-   "createdAt": "2021-08-12T09:22:46.000Z",
-   "updatedAt": "2021-11-16T06:33:04.000Z"
+   "futureVersion": "Android 12"
   },
   {
-   "id": 14,
-   "status": 1,
    "deviceName": "Mi 11 Lite 5G",
    "releaseDate": "2021-04",
    "securityUpdateEol": "2024-04",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 11",
-   "futureVersion": "Android 12,Android 13",
-   "createdAt": "2021-08-12T09:22:46.000Z",
-   "updatedAt": "2024-03-11T15:51:59.000Z"
+   "futureVersion": "Android 12,Android 13"
   },
   {
-   "id": 9,
-   "status": 1,
    "deviceName": "Redmi Note 10 Pro",
    "releaseDate": "2021-03",
    "securityUpdateEol": "2024-03",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 11",
-   "futureVersion": "Android 12,Android 13",
-   "createdAt": "2021-08-12T09:22:46.000Z",
-   "updatedAt": "2024-03-11T05:47:27.000Z"
+   "futureVersion": "Android 12,Android 13"
   },
   {
-   "id": 11,
-   "status": 1,
    "deviceName": "Redmi Note 10 Pro Max",
    "releaseDate": "2021-03",
    "securityUpdateEol": "2024-03",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 11",
-   "futureVersion": "Android 12,Android 13",
-   "createdAt": "2021-08-12T09:22:46.000Z",
-   "updatedAt": "2024-03-11T05:47:56.000Z"
+   "futureVersion": "Android 12,Android 13"
   },
   {
-   "id": 10,
-   "status": 1,
    "deviceName": "Redmi 9T",
    "releaseDate": "2020-12",
    "securityUpdateEol": "2023-12",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 11",
-   "futureVersion": "Android 12",
-   "createdAt": "2021-08-12T09:22:46.000Z",
-   "updatedAt": "2021-11-15T12:33:37.000Z"
+   "futureVersion": "Android 12"
   },
   {
-   "id": 2,
-   "status": 1,
    "deviceName": "Mi 10T",
    "releaseDate": "2020-10",
    "securityUpdateEol": "2023-10",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 10",
-   "futureVersion": "Android 11,Android 12",
-   "createdAt": "2021-08-12T09:22:46.000Z",
-   "updatedAt": "2024-03-11T15:47:24.000Z"
+   "futureVersion": "Android 11,Android 12"
   },
   {
-   "id": 4,
-   "status": 1,
    "deviceName": "Mi 10T Lite",
    "releaseDate": "2020-10",
    "securityUpdateEol": "2023-10",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 10",
-   "futureVersion": "Android 11,Android 12",
-   "createdAt": "2021-08-12T09:22:46.000Z",
-   "updatedAt": "2024-03-11T15:47:42.000Z"
+   "futureVersion": "Android 11,Android 12"
   },
   {
-   "id": 13,
-   "status": 1,
    "deviceName": "Mi 10T Pro",
    "releaseDate": "2020-10",
    "securityUpdateEol": "2023-10",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 10",
-   "futureVersion": "Android 11,Android 12",
-   "createdAt": "2021-08-12T09:22:46.000Z",
-   "updatedAt": "2024-03-11T15:48:04.000Z"
+   "futureVersion": "Android 11,Android 12"
   },
   {
-   "id": 7,
-   "status": 1,
    "deviceName": "Redmi 9",
    "releaseDate": "2020-06",
    "securityUpdateEol": "2023-06",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 10",
-   "futureVersion": "Android 11,Android 12",
-   "createdAt": "2021-08-12T09:22:46.000Z",
-   "updatedAt": "2024-03-11T15:46:31.000Z"
+   "futureVersion": "Android 11,Android 12"
   },
   {
-   "id": 3,
-   "status": 1,
    "deviceName": "Redmi Note 9 Pro",
    "releaseDate": "2020-05",
    "securityUpdateEol": "2023-05",
    "updateFrequency": "Every 90 days",
    "updateFrequencyTl": "Every 90 days",
    "shippedVersion": "Android 10",
-   "futureVersion": "Android 11,Android 12",
-   "createdAt": "2021-08-12T09:22:46.000Z",
-   "updatedAt": "2024-03-11T15:46:51.000Z"
+   "futureVersion": "Android 11,Android 12"
   }
  ],
  "total": 104
