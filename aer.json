@@ -1,6 +1,69 @@
 {
  "items": [
   {
+   "deviceName": "REDMI 17C 5G",
+   "releaseDate": "2026-08",
+   "securityUpdateEol": "2032-08",
+   "updateFrequency": "Every 90 days",
+   "updateFrequencyTl": "Every 90 days",
+   "shippedVersion": "Android 16",
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20"
+  },
+  {
+   "deviceName": "REDMI 17",
+   "releaseDate": "2026-08",
+   "securityUpdateEol": "2032-08",
+   "updateFrequency": "Every 90 days",
+   "updateFrequencyTl": "Every 90 days",
+   "shippedVersion": "Android 16",
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20"
+  },
+  {
+   "deviceName": "REDMI 17 5G",
+   "releaseDate": "2026-08",
+   "securityUpdateEol": "2032-08",
+   "updateFrequency": "Every 90 days",
+   "updateFrequencyTl": "Every 90 days",
+   "shippedVersion": "Android 16",
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20"
+  },
+  {
+   "deviceName": "REDMI Note 17 Pro Max 5G",
+   "releaseDate": "2026-08",
+   "securityUpdateEol": "2032-08",
+   "updateFrequency": "Every 90 days",
+   "updateFrequencyTl": "Every 90 days",
+   "shippedVersion": "Android 16",
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20"
+  },
+  {
+   "deviceName": "REDMI Note 17 Pro 5G",
+   "releaseDate": "2026-08",
+   "securityUpdateEol": "2032-08",
+   "updateFrequency": "Every 90 days",
+   "updateFrequencyTl": "Every 90 days",
+   "shippedVersion": "Android 16",
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20"
+  },
+  {
+   "deviceName": "REDMI Note 17 5G",
+   "releaseDate": "2026-08",
+   "securityUpdateEol": "2032-08",
+   "updateFrequency": "Every 90 days",
+   "updateFrequencyTl": "Every 90 days",
+   "shippedVersion": "Android 16",
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20"
+  },
+  {
+   "deviceName": "REDMI Note 17",
+   "releaseDate": "2026-08",
+   "securityUpdateEol": "2032-08",
+   "updateFrequency": "Every 90 days",
+   "updateFrequencyTl": "Every 90 days",
+   "shippedVersion": "Android 16",
+   "futureVersion": "Android 17,Android 18,Android 19,Android 20"
+  },
+  {
    "deviceName": "Xiaomi 17T",
    "releaseDate": "2026-05",
    "securityUpdateEol": "2032-06",
@@ -937,5 +1000,5 @@
    "futureVersion": "Android 11,Android 12"
   }
  ],
- "total": 104
+ "total": 111
 }
