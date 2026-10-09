@@ -7619,6 +7619,10 @@
     "display_name": "XM-MADRID-DC-GLOBAL",
     "display_name_en": "XM-MADRID-DC-GLOBAL"
   },
+  "madrid_eea_demo_global": {
+    "display_name": "XM-MADRID-EEA-DEMO-GLOBAL",
+    "display_name_en": "XM-MADRID-EEA-DEMO-GLOBAL"
+  },
   "madrid_eea_global": {
     "display_name": "XM-MADRID-EEA-GLOBAL",
     "display_name_en": "XM-MADRID-EEA-GLOBAL"
@@ -7630,6 +7634,10 @@
   "madrid_global": {
     "display_name": "XM-MADRID-GLOBAL",
     "display_name_en": "XM-MADRID-GLOBAL"
+  },
+  "madrid_id_demo_global": {
+    "display_name": "XM-MADRID-ID-DEMO-GLOBAL",
+    "display_name_en": "XM-MADRID-ID-DEMO-GLOBAL"
   },
   "madrid_id_global": {
     "display_name": "XM-MADRID-ID-GLOBAL",
@@ -9364,16 +9372,16 @@
     "display_name_en": "REDMI Pad 2 Pro 5G"
   },
   "organ_dc_global": {
-    "display_name": "XM-ORGAN-DC-GLOBAL",
-    "display_name_en": "XM-ORGAN-DC-GLOBAL"
+    "display_name": "Redmi Pad 2 Pro 5G",
+    "display_name_en": "Redmi Pad 2 Pro 5G"
   },
   "organ_eea_global": {
-    "display_name": "XM-ORGAN-EEA-GLOBAL",
-    "display_name_en": "XM-ORGAN-EEA-GLOBAL"
+    "display_name": "Redmi Pad 2 Pro 5G",
+    "display_name_en": "Redmi Pad 2 Pro 5G"
   },
   "organ_global": {
-    "display_name": "XM-ORGAN-GLOBAL",
-    "display_name_en": "XM-ORGAN-GLOBAL"
+    "display_name": "Redmi Pad 2 Pro 5G",
+    "display_name_en": "Redmi Pad 2 Pro 5G"
   },
   "organ_id_global": {
     "display_name": "XM-ORGAN-ID-GLOBAL",
@@ -9384,36 +9392,36 @@
     "display_name_en": "Redmi Pad 2 Pro 5G"
   },
   "organ_pre_eea_global": {
-    "display_name": "XM-ORGAN-PRE-EEA-GLOBAL",
-    "display_name_en": "XM-ORGAN-PRE-EEA-GLOBAL"
+    "display_name": "Redmi Pad 2 Pro 5G",
+    "display_name_en": "Redmi Pad 2 Pro 5G"
   },
   "organ_pre_global": {
-    "display_name": "XM-ORGAN-PRE-GLOBAL",
-    "display_name_en": "XM-ORGAN-PRE-GLOBAL"
+    "display_name": "Redmi Pad 2 Pro 5G",
+    "display_name_en": "Redmi Pad 2 Pro 5G"
   },
   "organ_pre_id_global": {
-    "display_name": "XM-ORGAN-ID-GLOBAL",
-    "display_name_en": "XM-ORGAN-ID-GLOBAL"
+    "display_name": "Redmi Pad 2 Pro 5G",
+    "display_name_en": "Redmi Pad 2 Pro 5G"
   },
   "organ_pre_in_global": {
     "display_name": "Redmi Pad 2 Pro 5G",
     "display_name_en": "Redmi Pad 2 Pro 5G"
   },
   "organ_pre_ru_global": {
-    "display_name": "XM-ORGAN-PRE-RU-GLOBAL",
-    "display_name_en": "XM-ORGAN-PRE-RU-GLOBAL"
+    "display_name": "Redmi Pad 2 Pro 5G",
+    "display_name_en": "Redmi Pad 2 Pro 5G"
   },
   "organ_pre_tw_global": {
-    "display_name": "XM-ORGAN-PRE-TW-GLOBAL",
-    "display_name_en": "XM-ORGAN-PRE-TW-GLOBAL"
+    "display_name": "Redmi Pad 2 Pro 5G",
+    "display_name_en": "Redmi Pad 2 Pro 5G"
   },
   "organ_ru_global": {
-    "display_name": "XM-ORGAN-RU-GLOBAL",
-    "display_name_en": "XM-ORGAN-RU-GLOBAL"
+    "display_name": "Redmi Pad 2 Pro 5G",
+    "display_name_en": "Redmi Pad 2 Pro 5G"
   },
   "organ_tw_global": {
-    "display_name": "XM-ORGAN-TW-GLOBAL",
-    "display_name_en": "XM-ORGAN-TW-GLOBAL"
+    "display_name": "Redmi Pad 2 Pro 5G",
+    "display_name_en": "Redmi Pad 2 Pro 5G"
   },
   "oxygen": {
     "display_name": "小米Max 2",
