@@ -654,6 +654,12 @@
   }
  },
  {
+  "tornado": {
+   "name": "REDMI 17C 5G",
+   "model": "2607FRNEAI"
+  }
+ },
+ {
   "serenity": {
    "name": "REDMI A7",
    "model": "26020RNB4A"
@@ -4647,6 +4653,18 @@
   "lhasa": {
    "name": "Xiaomi 18 Fold",
    "model": "2608BPX34C"
+  }
+ },
+ {
+  "hongkong": {
+   "name": "Xiaomi 18 Pro",
+   "model": "M610BB"
+  }
+ },
+ {
+  "madrid": {
+   "name": "Xiaomi 18 Pro Max",
+   "model": "M154FF"
   }
  },
  {
