@@ -2247,6 +2247,10 @@
     "display_name": "COMET-GLOBAL",
     "display_name_en": "COMET-GLOBAL"
   },
+  "contact": {
+    "display_name": "TBD",
+    "display_name_en": "TBD"
+  },
   "corot": {
     "display_name": "Redmi K60 至尊版",
     "display_name_en": "Redmi K60 Ultra"
