@@ -2271,6 +2271,10 @@
     "display_name": "Xiaomi 13T Pro",
     "display_name_en": "Xiaomi 13T Pro"
   },
+  "corot_eea_ut_global": {
+    "display_name": "Xiaomi 13T Pro",
+    "display_name_en": "Xiaomi 13T Pro"
+  },
   "corot_global": {
     "display_name": "Xiaomi 13T Pro",
     "display_name_en": "Xiaomi 13T Pro"
@@ -5582,6 +5586,10 @@
   "hongkong_lm_cr_global": {
     "display_name": "XM-HONGKONG-LM-CR-GLOBAL",
     "display_name_en": "XM-HONGKONG-LM-CR-GLOBAL"
+  },
+  "hongkong_main_pre_global": {
+    "display_name": "Xiaomi 18 Pro",
+    "display_name_en": "Xiaomi 18 Pro"
   },
   "hongkong_mx_at_global": {
     "display_name": "XM-HONGKONG-MX-AT-GLOBAL",
@@ -14322,6 +14330,10 @@
   "warhol_lm_cr_global": {
     "display_name": "XM-WARHOL-LM-CR-GLOBAL",
     "display_name_en": "XM-WARHOL-LM-CR-GLOBAL"
+  },
+  "warhol_main_pre_global": {
+    "display_name": "Xiaomi 17T Pro",
+    "display_name_en": "Xiaomi 17T Pro"
   },
   "warhol_mx_at_global": {
     "display_name": "XM-WARHOL-MX-AT-GLOBAL",
