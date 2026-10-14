@@ -285,6 +285,7 @@ ingres_id_global - F
 ingres_ru_global - F
 ingres_tr_global - F
 ingres_tw_global - F
+iolite_eea_global - F
 iolite_global - F
 iolite_global - F
 iolite_ru_global - F
@@ -576,6 +577,7 @@ sky_eea_global - F
 sky_global - F
 sky_jp_global - F
 sky_tw_global - F
+songyuan_eea_global - F
 songyuan_global - F
 songyuan_ru_global - F
 songyuan_tw_global - F
@@ -602,6 +604,7 @@ star_eea_global - F
 star_global - F
 star_id_global - F
 star_in_global - F
+steppe_eea_global - F
 steppe_global - F
 steppe_tw_global - F
 sunstone_eea_global - F
