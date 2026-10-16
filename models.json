@@ -2151,7 +2151,7 @@
   "name": "REDMI Note 17 Pro 5G/POCO X8",
   "models": {
    "`2607DRA18G`": "REDMI Note 17 Pro 5G Global",
-   "`2607DRA18C`": "REDMI Note 17 Pro 5G China",
+   "`2607DRA18C`": "REDMI Note 17 Pro 5G China / REDMI Note 17 Pro New Edition China",
    "`2607DRA18I`": "REDMI Note 17 Pro 5G India",
    "`2607DRA18T`": "REDMI Note 17 Pro 5G Saudi Arabia",
    "`2607DPC18G`": "POCO X8 Global",
@@ -2415,10 +2415,11 @@
   }
  },
  "warsaw": {
-  "internal_name": "P12X",
-  "name": "REDMI K90 Ultra",
+  "internal_name": "P12X/Q11A",
+  "name": "REDMI K90 Ultra/REDMI K100",
   "models": {
-   "`M332BF`": "REDMI K90 Ultra China"
+   "`M332BF`": "REDMI K90 Ultra China",
+   "`M786BC`": "REDMI K100 China"
   }
  },
  "athens": {
