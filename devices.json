@@ -2951,6 +2951,50 @@
     "display_name": "MI BOX",
     "display_name_en": "MI BOX"
   },
+  "darwin": {
+    "display_name": "XM-DARWIN",
+    "display_name_en": "XM-DARWIN"
+  },
+  "darwin_eea_global": {
+    "display_name": "XM-DARWIN-EEA-GLOBAL",
+    "display_name_en": "XM-DARWIN-EEA-GLOBAL"
+  },
+  "darwin_eea_ut_global": {
+    "display_name": "XM-DARWIN-EEA-UT-GLOBAL",
+    "display_name_en": "XM-DARWIN-EEA-UT-GLOBAL"
+  },
+  "darwin_global": {
+    "display_name": "POCO X8s",
+    "display_name_en": "POCO X8s"
+  },
+  "darwin_pre_eea_global": {
+    "display_name": "XM-DARWIN-PRE-EEA-GLOBAL",
+    "display_name_en": "XM-DARWIN-PRE-EEA-GLOBAL"
+  },
+  "darwin_pre_global": {
+    "display_name": "POCO X8s",
+    "display_name_en": "POCO X8s"
+  },
+  "darwin_pre_ru_global": {
+    "display_name": "XM-DARWIN-PRE-RU-GLOBAL",
+    "display_name_en": "XM-DARWIN-PRE-RU-GLOBAL"
+  },
+  "darwin_pre_tr_global": {
+    "display_name": "XM-DARWIN-PRE-TR-GLOBAL",
+    "display_name_en": "XM-DARWIN-PRE-TR-GLOBAL"
+  },
+  "darwin_ru_global": {
+    "display_name": "XM-DARWIN-RU-GLOBAL",
+    "display_name_en": "XM-DARWIN-RU-GLOBAL"
+  },
+  "darwin_tr_global": {
+    "display_name": "XM-DARWIN-TR-GLOBAL",
+    "display_name_en": "XM-DARWIN-TR-GLOBAL"
+  },
+  "darwin_ut_global": {
+    "display_name": "POCO X8s",
+    "display_name_en": "POCO X8s"
+  },
   "dash": {
     "display_name": "REDMI Turbo 5 Max",
     "display_name_en": "REDMI Turbo 5 Max"
