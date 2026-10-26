@@ -2593,6 +2593,13 @@
    "`22111317PI`": "POCO X5 5G India"
   }
  },
+ "darwin": {
+  "internal_name": "",
+  "name": "POCO X8s (`darwin`)",
+  "models": {
+   "`2609CPC5FG`": "POCO X8s Global"
+  }
+ },
  "shiva": {
   "internal_name": "J19P",
   "name": "POCO M2",
