@@ -534,6 +534,12 @@
   }
  },
  {
+  "brussels": {
+   "name": "POCO X8 Power",
+   "model": "2609FPC74I"
+  }
+ },
+ {
   "klee": {
    "name": "POCO X8 Pro",
    "model": "2511FPC34G"
@@ -951,6 +957,12 @@
   "brussels": {
    "name": "REDMI Note 17 Pro Max 5G",
    "model": "2609FRA74G"
+  }
+ },
+ {
+  "brussels": {
+   "name": "REDMI Note 17 Pro Max 5G",
+   "model": "2609FRA74I"
   }
  },
  {
