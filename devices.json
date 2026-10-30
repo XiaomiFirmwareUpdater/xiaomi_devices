@@ -767,6 +767,10 @@
     "display_name": "Xiaomi 13T",
     "display_name_en": "Xiaomi 13T"
   },
+  "aristotle_eea_ut_global": {
+    "display_name": "Xiaomi 13T",
+    "display_name_en": "Xiaomi 13T"
+  },
   "aristotle_factory_jp_kd_global": {
     "display_name": "XM-ARISTOTLE-FACTORY-JP-KD-GLOBAL",
     "display_name_en": "XM-ARISTOTLE-FACTORY-JP-KD-GLOBAL"
@@ -2960,40 +2964,40 @@
     "display_name_en": "XM-DARWIN"
   },
   "darwin_eea_global": {
-    "display_name": "XM-DARWIN-EEA-GLOBAL",
-    "display_name_en": "XM-DARWIN-EEA-GLOBAL"
+    "display_name": "POCO X8s",
+    "display_name_en": "POCO X8s"
   },
   "darwin_eea_ut_global": {
-    "display_name": "XM-DARWIN-EEA-UT-GLOBAL",
-    "display_name_en": "XM-DARWIN-EEA-UT-GLOBAL"
+    "display_name": "POCO X8s",
+    "display_name_en": "POCO X8s"
   },
   "darwin_global": {
     "display_name": "POCO X8s",
     "display_name_en": "POCO X8s"
   },
   "darwin_pre_eea_global": {
-    "display_name": "XM-DARWIN-PRE-EEA-GLOBAL",
-    "display_name_en": "XM-DARWIN-PRE-EEA-GLOBAL"
+    "display_name": "POCO X8s",
+    "display_name_en": "POCO X8s"
   },
   "darwin_pre_global": {
     "display_name": "POCO X8s",
     "display_name_en": "POCO X8s"
   },
   "darwin_pre_ru_global": {
-    "display_name": "XM-DARWIN-PRE-RU-GLOBAL",
-    "display_name_en": "XM-DARWIN-PRE-RU-GLOBAL"
+    "display_name": "POCO X8s",
+    "display_name_en": "POCO X8s"
   },
   "darwin_pre_tr_global": {
-    "display_name": "XM-DARWIN-PRE-TR-GLOBAL",
-    "display_name_en": "XM-DARWIN-PRE-TR-GLOBAL"
+    "display_name": "POCO X8s",
+    "display_name_en": "POCO X8s"
   },
   "darwin_ru_global": {
-    "display_name": "XM-DARWIN-RU-GLOBAL",
-    "display_name_en": "XM-DARWIN-RU-GLOBAL"
+    "display_name": "POCO X8s",
+    "display_name_en": "POCO X8s"
   },
   "darwin_tr_global": {
-    "display_name": "XM-DARWIN-TR-GLOBAL",
-    "display_name_en": "XM-DARWIN-TR-GLOBAL"
+    "display_name": "POCO X8s",
+    "display_name_en": "POCO X8s"
   },
   "darwin_ut_global": {
     "display_name": "POCO X8s",
