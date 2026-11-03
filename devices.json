@@ -11791,6 +11791,10 @@
     "display_name": "Xiaomi Pad 9 Pro",
     "display_name_en": "Xiaomi Pad 9 Pro"
   },
+  "shuntian_eea_demo_global": {
+    "display_name": "XM-SHUNTIAN-EEA-DEMO-GLOBAL",
+    "display_name_en": "XM-SHUNTIAN-EEA-DEMO-GLOBAL"
+  },
   "shuntian_eea_global": {
     "display_name": "XM-SHUNTIAN-EEA-GLOBAL",
     "display_name_en": "XM-SHUNTIAN-EEA-GLOBAL"
@@ -11803,6 +11807,10 @@
     "display_name": "XM-SHUNTIAN-GLOBAL",
     "display_name_en": "XM-SHUNTIAN-GLOBAL"
   },
+  "shuntian_id_demo_global": {
+    "display_name": "XM-SHUNTIAN-ID-DEMO-GLOBAL",
+    "display_name_en": "XM-SHUNTIAN-ID-DEMO-GLOBAL"
+  },
   "shuntian_id_global": {
     "display_name": "XM-SHUNTIAN-ID-GLOBAL",
     "display_name_en": "XM-SHUNTIAN-ID-GLOBAL"
@@ -11810,6 +11818,10 @@
   "shuntian_id_ut_global": {
     "display_name": "XM-SHUNTIAN-ID-UT-GLOBAL",
     "display_name_en": "XM-SHUNTIAN-ID-UT-GLOBAL"
+  },
+  "shuntian_in_demo_global": {
+    "display_name": "XM-SHUNTIAN-IN-DEMO-GLOBAL",
+    "display_name_en": "XM-SHUNTIAN-IN-DEMO-GLOBAL"
   },
   "shuntian_in_global": {
     "display_name": "XM-SHUNTIAN-IN-GLOBAL",
