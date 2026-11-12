@@ -2,7 +2,7 @@ name: GPlay cronjob
 
 on:
   push:
-    branches: [ gplay, main ]
+    branches: [ gplay ]
   schedule:
     - cron:  '0 12 * * *'
 

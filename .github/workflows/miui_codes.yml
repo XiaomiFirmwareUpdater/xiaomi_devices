@@ -2,7 +2,7 @@ name: MIUI Codes cronjob
 
 on:
   push:
-    branches: [ miui_codes, main ]
+    branches: [ miui_codes ]
   schedule:
     - cron:  '0 12 * * *'
 

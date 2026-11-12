@@ -2,7 +2,7 @@ name: Android Security Patch Information cronjob
 
 on:
   push:
-    branches: [ security, main ]
+    branches: [ security ]
   schedule:
     - cron:  '0 12 * * *'
 

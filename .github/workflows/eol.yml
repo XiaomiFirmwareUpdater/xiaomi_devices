@@ -2,7 +2,7 @@ name: EOL Devices cronjob
 
 on:
   push:
-    branches: [ eol, main ]
+    branches: [ eol ]
   schedule:
     - cron:  '0 12 * * *'
 

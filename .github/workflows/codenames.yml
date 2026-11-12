@@ -2,7 +2,7 @@ name: Codenames cronjob
 
 on:
   push:
-    branches: [ codenames, main ]
+    branches: [ codenames ]
   schedule:
     - cron:  '0 12 * * *'
 

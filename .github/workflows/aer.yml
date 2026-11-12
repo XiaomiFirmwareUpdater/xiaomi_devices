@@ -2,7 +2,7 @@ name: AER Devices cronjob
 
 on:
   push:
-    branches: [ aer, main ]
+    branches: [ aer ]
   schedule:
     - cron:  '0 12 * * *'
 

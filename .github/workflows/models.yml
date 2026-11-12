@@ -2,7 +2,7 @@ name: Models cronjob
 
 on:
   push:
-    branches: [ models, main ]
+    branches: [ models ]
   schedule:
     - cron:  '0 12 * * *'
 

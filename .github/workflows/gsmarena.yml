@@ -2,7 +2,7 @@ name: Gsmarena job
 
 on:
   push:
-    branches: [ gsmarena, main ]
+    branches: [ gsmarena ]
   workflow_dispatch:
 
 
