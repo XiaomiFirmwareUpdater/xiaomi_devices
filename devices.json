@@ -4854,9 +4854,39 @@
   }
  },
  {
+  "yupei": {
+   "name": "Xiaomi Pad 8",
+   "model": "25097RP43G"
+  }
+ },
+ {
+  "yupei": {
+   "name": "Xiaomi Pad 8",
+   "model": "25097RP43I"
+  }
+ },
+ {
   "piano": {
    "name": "Xiaomi Pad 8 Pro",
    "model": "25091RP04C"
+  }
+ },
+ {
+  "piano": {
+   "name": "Xiaomi Pad 8 Pro",
+   "model": "25091RP04G"
+  }
+ },
+ {
+  "yupei": {
+   "name": "Xiaomi Pad 9",
+   "model": "M656BA"
+  }
+ },
+ {
+  "shuntian": {
+   "name": "Xiaomi Pad 9 Pro",
+   "model": "2612CRPFFC"
   }
  },
  {
