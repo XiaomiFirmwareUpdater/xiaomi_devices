@@ -683,7 +683,6 @@
   "name": "Xiaomi 18 Pro Max",
   "models": {
    "`2611FPNFAG`": "Xiaomi 18 Pro Max Global",
-   "`2611FPNFAI`": "Xiaomi 18 Pro Max India",
    "`2611FPNFAR`": "Xiaomi 18 Pro Max Japan",
    "`M154FF`": "Xiaomi 18 Pro Max China"
   }
@@ -1435,13 +1434,13 @@
  },
  "tornado": {
   "internal_name": "P15/P15X/P15R",
-  "name": "REDMI 15C 5G/REDMI 15R 5G/REDMI 17C 5G/POCO C85 5G",
+  "name": "REDMI 15C 5G/REDMI 15R 5G/REDMI R80 5G/REDMI R80m 5G/REDMI 17C 5G/POCO C85 5G",
   "models": {
    "`2508CRN2BG`": "REDMI 15C 5G Global",
    "`2508CRN2BE`": "REDMI 15C 5G Europe",
    "`2508CRN2BI`": "REDMI 15C 5G India",
    "`2508CRN2BR`": "REDMI 15C 5G Japan",
-   "`25082RNC1C`": "REDMI 15R 5G China",
+   "`25082RNC1C`": "REDMI 15R 5G China / REDMI R80 5G China / REDMI R80m 5G China",
    "`2607FRNEAG`": "REDMI 17C 5G Global",
    "`2607FRNEAI`": "REDMI 17C 5G India",
    "`2612FRNEAR`": "REDMI 17C 5G Japan",
