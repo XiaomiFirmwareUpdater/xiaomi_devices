@@ -232,7 +232,6 @@ frost_global - F
 frost_id_global - F
 frost_ru_global - F
 frost_tw_global - F
-fuxi_eea_global - F
 fuxi_global - F
 fuxi_ru_global - F
 fuxi_tr_global - F
@@ -264,10 +263,12 @@ goya_global - F
 goya_tw_global - F
 guitar_eea_global - F
 guitar_global - F
-guitar_tw_global - F
 haydn_eea_global - F
 haydn_global - F
 haydn_in_global - F
+hongkong_eea_global - F
+hongkong_global - F
+hongkong_tw_global - F
 houji_eea_global - F
 houji_global - F
 houji_id_global - F
@@ -373,6 +374,8 @@ lmi_eea_global - F
 lmi_global - F
 lmi_ru_global - F
 lmi_tr_global - F
+madrid_eea_global - F
+madrid_tw_global - F
 malachite_dc_global - F
 malachite_eea_global - F
 malachite_global - F
