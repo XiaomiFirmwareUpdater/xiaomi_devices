@@ -3931,6 +3931,10 @@
     "display_name": "XM-ERHU-IN-GLOBAL",
     "display_name_en": "XM-ERHU-IN-GLOBAL"
   },
+  "erhu_in_ut_global": {
+    "display_name": "XM-ERHU-IN-UT-GLOBAL",
+    "display_name_en": "XM-ERHU-IN-UT-GLOBAL"
+  },
   "erhu_pre_dc_global": {
     "display_name": "XM-ERHU-PRE-DC-GLOBAL",
     "display_name_en": "XM-ERHU-PRE-DC-GLOBAL"
@@ -5436,6 +5440,10 @@
     "display_name_en": "XM-GUITAR-ID-GLOBAL"
   },
   "guitar_in_global": {
+    "display_name": "not ensure",
+    "display_name_en": "not ensure"
+  },
+  "guitar_in_ut_global": {
     "display_name": "not ensure",
     "display_name_en": "not ensure"
   },
