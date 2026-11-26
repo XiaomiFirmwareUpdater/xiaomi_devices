@@ -765,6 +765,24 @@
      "deviceName": "Xiaomi 12 Lite (tr)",
      "sku": "taoyao_tr_global",
      "projectCode": "L9"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi MIX Fold 2 (cn)",
+     "sku": "zizhan",
+     "projectCode": "L18/L18A"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi 12S (cn)",
+     "sku": "mayfly",
+     "projectCode": "L3S"
+    },
+    {
+     "brand": "Xiaomi",
+     "deviceName": "Xiaomi Civi 2 (cn)",
+     "sku": "ziyi",
+     "projectCode": "L9S"
     }
    ]
   },
@@ -1761,6 +1779,24 @@
      "deviceName": "Redmi 12 5G (cn)",
      "sku": "sky",
      "projectCode": "M19/M19P/M19J/M19D/M19Y"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 12 Pro (cn)",
+     "sku": "ruby",
+     "projectCode": "M16/M16U"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 12 Pro+ (cn)",
+     "sku": "ruby",
+     "projectCode": "M16/M16U"
+    },
+    {
+     "brand": "Redmi",
+     "deviceName": "Redmi Note 12 DISCOVERY EDITION (cn)",
+     "sku": "ruby",
+     "projectCode": "M16/M16U"
     }
    ]
   },
@@ -2213,5 +2249,5 @@
    ]
   }
  ],
- "updateAt": "2026-09-10T00:49:01.000Z"
+ "updateAt": "2026-11-26T03:19:35.000Z"
 }
